@@ -1,0 +1,45 @@
+Title: Ane_Halsboe-Jørgensens_tale_ved_informationsmødet_om_projektet_Algoritmer,_data_og_demokrati_
+Date: 2020-02-05
+Talegenre: Politisk tale
+Organisationer og bevægelser: Socialdemokratiet
+
+
+Vi skal gå konstruktivt og kritisk til kunstig intelligens
+Tak for invitationen til at komme og tale her i dag. Det har jeg glædet mig til.
+Allerførst vil jeg gerne sige tak til Villum Fonden og Velux Fonden. Det der med at "styrke den demokratiske udvikling i fremtidens databaserede samfund". Det er en stor og vigtig ambition. Men jeres udgangspunkt er også godt. Og det skyldes særligt to ting:
+I jeres tilgang til ny teknologi parrer I datalogi med human- og samfundsvidenskab. Det er hamrende vigtigt at få begge perspektiver med, for ude i virkeligheden er de hinandens forudsætninger. Derudover har I afsat penge til en meget omfattende outreachdel for at få en bred folkelig involvering i projektet. Det er ligeså vigtigt. Så det her projekt har hele pakken. Og det skulle det også gerne have. For vi har brug for at lykkes.
+Vi skal forholde os konstruktivt og kritisk til ny teknologi
+Lad mig bare starte med at sige: Jeg tror på, at kunstig intelligens – helt grundlæggende – har potentiale til at give os mennesker et bedre liv. Til at løse nogle af de store globale udfordringer, vi står over for.
+Det gælder f.eks., når kunstig intelligens har vist sig at kunne kigge på et røntgenbillede og diagnosticere brystkræft – og endda gøre det bedre end mennesker. Det gælder, når vi taler om, at hele vores forståelse af transport og logistik kan blive vendt på hovedet, fordi biler kan køre selv. Og det gælder, når kunstig intelligens lytter med på alarmcentralen og er hurtigere end mennesker til at identificere kritiske tilfælde. Jamen, så er det åbenlyst, at kunstig intelligens kan være med til at løse nogle af de store globale udfordringer og dermed forbedre vores liv.
+Men det sker kun, hvis vi forholder os konstruktivt og kritisk til kunstig intelligens. For det kan være fristende at spænde sig for algoritmernes vogn og bare nyde turen. Vi har allerede set eksempler på, hvad der sker, hvis algoritmerne styrer farten, uden menneskelig kontrol.
+Tag bare Microsofts Twitterrobot, ”Tay”. På kun 24 timer gik Tay fra at være venlig og høflig til at være rasende racist. Den blev nemlig bombarderet med information fra ekstreme grupperinger og tog ved lære af det. Eller tag en kunstig intelligens som Compas. Compas bliver brugt ved de amerikanske domstole til at hjælpe dommere med at vurdere, om en tiltalt skal varetægtsfængsles. Compas bygger sit system på tidligere domme. Og et studie har vist, at den gentager bias med det resultat, at risikoen for at blive varetægtsfængslet er dobbelt så stor for sorte som for hvide.
+Og så har vi Kina. Her bruger man kunstig intelligens til at scanne og overvåge togstationer og hoteller. Kineserne har store billboards på gaden, som viser ansigterne på folk, der er gået over for rødt.
+Er det skræmmeeksempler? Ja, det er det. Men det er også virkelighed. Og det er ikke en virkelighed, som vi ønsker at skabe i Danmark. Vi vil ikke risikere at ødelægge det fundament af tillid, som Danmark står på.
+Vi skal forme teknologien efter vores værdier
+Vi skal gå foran. Vi skal vise verden, at der er en anden vej. En vej, hvor vi skaber AI baseret på sunde, demokratiske værdier. Værdier som etik, åbenhed og respekt for menneskerettigheder. Og hvis vi skal lykkes med det, er det fuldstændig afgørende, at vi formår at tænke på tværs af forskningsdiscipliner.
+Og det er netop det, I lægger op til med ADD-projektet [Udtales på dansk A-D-D]. At tænke i både teknisk videnskab, humaniora og samfundsvidenskab. For hvordan kan du diskutere kodning uden også at diskutere etik? Hvordan kan du diskutere førerløse biler uden også at diskutere ansvar og dilemmaer? Hvordan kan du diskutere sociale medie-algoritmer uden også at diskutere demokrati? Hvordan vil du i det hele taget diskutere teknologi uden at involvere de mennesker og det samfund, der skal bruge den?
+Ved at koble de forskellige videnskaber bliver vi klogere på mødet mellem mennesker og maskiner. Og dermed får vi også en reel forudsætning for at påvirke samfundet.
+De studerende skal forholde sig til teknologien
+Af samme grund skal viden om teknologi være nærværende i alle hjørner af vores uddannelsessystem. Lige fra pædagogstudiet, over designstudiet til lægestudiet. Vores kandidater skal kunne bruge teknologien til at udvikle hver deres fagområde. De skal have en grundlæggende forståelse for teknologi, og de skal kunne tage den etiske diskussion og være kritiske.
+For teknologi er ikke neutral. Der er mennesker bag kodningen. Det skal studerende forstå. Og de skal forstå, at maskinerne ikke nødvendigvis gør det bedre end det datainput, de får, og de regler, de opererer efter. Teknologien er jo i grunden ikke andet end et spejl af, hvem vi er som mennesker.
+Som filosoffen Martin Heidegger sagde en gang: I maskinerne møder vi intet andet end "Vores eget makværk". Det har han jo på en måde ret i.
+Vi kan godt i Danmark
+Det gode ved det hele er, at vi herhjemme har forudsætningerne for at gå foran. Gå foran med teknologi, der ikke er makværk. Gå foran med teknologi, der er formet i vores spejlbillede, og som bygger på danske værdier som etik, åbenhed og social ansvarlighed.
+Sagt med andre ord: Vi skal ikke definere vores mål ud fra, hvad teknologien kan, men tænke den sætning omvendt: At vi udvikler teknologien ud fra, hvad vores menneskelige mål er.
+Tag en virksomhed som Universal Robots i Odense. Deres succes begyndte med en letvægtsrobot. I stedet for at bygge en robot, der kunne erstatte mennesker, som man måske havde gjort i Kina eller Japan, så byggede virksomheden en såkaldte co-bot; en robot, der var bygget til at samarbejde med mennesker. Det blev til en verdensomspændende succes.
+Vi kan godt i Danmark! Vi er blandt de mest digitaliserede samfund i hele verden. Vi har stærke forskningsmiljøer rundt omkring på universiteterne. Og politisk bakker vi op. Med forskningsreserveaftalen 2020 har vi afsat 70 mio. kr. til forskning i nye teknologiske muligheder, herunder kunstig intelligens.
+Hertil kommer det samarbejde, vi har med en række private fonde om Pionercentrene. Pionercentrene skal udføre grundforskning, inden for bl.a. kunstig intelligens for at løse store samfundsmæssige udfordringer.
+Og endelig har vi afsat 1,5 mia. kr. til grøn forskning i 2020. Både i DFF, i Innovationsfonden og i udviklings- og demonstrationsprogrammerne. Nye teknologier som kunstig intelligens kan også bidrage til de løsninger, som skal bringe Danmark – og mange andre lande – gennem den grønne omstilling.
+Det er klart, at vi rent økonomisk har svært ved at konkurrere med, hvad man gør i lande som Frankrig, Kina og USA. Men danske forskere kan være med i de internationale projekter, der skaber resultater – for eksempel inden for kunstig intelligens. Vi skal arbejde sammen med andre lande og med EU, som vi allerede gør i dag. Så kommer vores investeringer til at rykke noget.
+Vigtigt med outreach
+Kunstig intelligens er et vanvittigt kompliceret område. Jeg skal ikke stå og kloge mig på teknikken, for det er svært at forstå. Og det bliver ikke lettere, jo mere og hurtigere, det udvikler sig. Men nu står vi der, hvor kunstig intelligens er blevet en del af vores liv. Du kan uploade et billede til Google, skrive ”cykel”, og så finder Google billeder med cykler, uden at du nogensinde har fortalt, hvad der er på billedet. På dén måde er kraften og potentialet ved at gå op for folk.
+Men omvendt, så forstår de fleste af os ikke et kuk af, hvad der foregår. Hvordan det virker. Og det er problematisk på to fronter:
+Hvis vi som samfund ikke har indsigt, i hvordan algoritmerne er skruet sammen, er det meget svært at træffe de rigtige beslutninger omkring, hvordan vi imødekommer de udfordringer, som den kunstige intelligens skaber. Her kunne man som politiker godt efterlyse langt mere gennemsigtighed fra techbranchen.
+Og på samme måde. Hvis borgerne ikke har forståelse for de principper og mekanismer, der ligger til grund for kunstig intelligens, så risikerer vi en blind ukritisk tillid til teknologien. Derfor er outreachdelen som Lisbeth fortæller om her bagefter, meget vigtigt.
+Tak og værs'go at søg
+Jeg vil gerne have hele verden til at vide, hvad "Kunstig intelligens – made in Denmark" står på. For vi kan noget særligt i Danmark og Europa. Noget, som står i modsætning til de lande, hvor techgiganter som Google, Facebook og Microsoft regerer.
+Vi kan udvikle kunstig intelligens, som vi er stolte af. Som vi kan spejle os i – også om 100 år. For, som tidligere nævnt, har den værdier som tillid, etik, åbenhed og respekt for menneskerettigheder i højsædet.
+Jeg håber, at alle her i dag fortsat vil være med til at tænke visionært og ansvarligt. Og være med til at tage det lange seje træk, så vi kan vise, at der er en anden vej.
+Så tak til Villum Fonden og Velux Fonden for et fremragende initiativ. Tak til jer forskere, der forhåbentlig beslutter jer for at søge. Det er jer, den hænger på. Jeg glæder mig til at følge resultaterne.
+Tak for ordet.
+

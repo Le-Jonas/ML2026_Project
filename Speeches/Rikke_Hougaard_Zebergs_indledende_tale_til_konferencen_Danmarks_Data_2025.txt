@@ -1,0 +1,56 @@
+Title: Rikke_Hougaard_Zebergs_indledende_tale_til_konferencen_Danmarks_Data_2025
+Date: 2025-10-28
+
+
+I Klimadatastyrelsen arbejder vi for et klimarobust, grønt og sikkert Danmark. Det gør vi bl.a. gennem vores myndighedsansvar for sammenhængende grunddata på Datafordeleren.
+Vi arbejder hver dag for en stabil og sikker adgang til autoritative og sammenhængende data, til gavn for både det offentlige og det private.
+Det er mit udgangspunkt, når jeg nu skal tale om Danmarks Data som strategisk styrkeposition.
+Grunddata er fundamentet for det digitale Danmark! Det er tydeligt i vores samarbejde med anvenderne, i Danmarks Digitaliseringsstrategi, og ikke mindst, i de mange gode indstillinger til Grunddataprisen.
+Samfundskritiske løsninger er bygget på grunddata: For eksempel hviler boligstøttesystemerne hos ATP og Udbetaling Danmark på grunddata – ligesom finanssektorens fælles systemer til effektiv sagsbehandling for realkredit gør.
+
+Grunddata er grundlaget for innovative løsninger: Det var særligt tydeligt i de mange innovative løsninger indstillet til årets Grunddatapris – men mere om det senere!
+
+Grunddata skaber sammenhæng i digitale løsninger på tværs af sektorer: For eksempel når vi flytter adresse på borger.dk, og ændringen slår igennem automatisk på tværs af kommune, region, Skat og der gives besked til bank, pension og A-kasse mv. Sammenhængende grunddata som er frit tilgængeligt på Datafordeleren, så data kan kombineres og deles i digitale løsninger, betyder at der er sammenhæng på tværs af sektorer.
+
+Alt det gør Grunddata til en unik styrkeposition med stort eksportpotentiale: Det blev italesat af flere af de indstillede til årets Grunddatapris, da vi sammen med IT-Branchen og Dansk IT holdt et event hos Digital Hub Denmark – og når udenlandske delegationer kommer forbi Digital Hub Denmark for at blive inspireret af vores unikke styrkeposition på GovTech.
+Grunddata er et rigtig godt sted i dag – værdiskabelsen er 5-6 gange højere end i den oprindelige business case – og lander på over 4,8 mia. kroner dokumenteret årlig samfundsmæssig gevinst.
+(Kilde: ”Analyse af Grunddatas og Datafordelerens værdi og potentialer”, august 2024 - Netcompany og CARVE Consulting.)
+Den investering og de erfaringer, vi har gjort – også om samarbejde i det offentlige og med private – har givet os nogle unikke muligheder for at anvende data og også for at tage de næste skridt for grunddata.
+I dag er grunddata en fælles digital ressource med mange muligheder, og grunddata har rigtig mange forskellige brugere, der anvender grunddata til mange vigtige formål. Siden idriftsættelsen har vi set en kontinuerlig vækst i brugen af Datafordeleren. Det er både offentlige og private, der anvender grunddata, og det er bredt fordelt over brancher og sektorer.
+Før grunddata var der ingen fælles datamodel, og anvendere skulle hente og samle data fra flere kilder. Data var ikke autoritative – det var mange forskellige versioner af de samme registre – mange skygge registrere var lageret hos forskellige myndigheder.
+Så kom den første datafordeler i drift med alle registre i 2018. Datafordeleren er den tekniske infrastruktur, der stiller sammenhængende grunddata til rådighed. Vi har som bekendt over de seneste 3 år været i gang med at modernisere Datafordeleren. Datafordeleren er således blevet fremtidssikret, så vi i samarbejde med de andre myndigheder og anvenderne, også fremadrettet, kan skabe mest mulig værdi af investeringen i grunddata, med en sammenhængende, sikker og stabil infrastruktur.
+Med moderniseringen sikrer vi nemlig:
+Kortere time-to-market – Det bliver lettere for registrene og med mindre
+omkostninger, at imødekomme udviklingen i anvendernes behov for data.
+Fleksibel adgang til data – Anvendere kan i større grad nøjes med at
+hente præcis de data, de aktuelt har brug for.
+Mulighed for ny teknologi – Den tekniske platform er opdateret med tidssvarende teknologi og forberedt til yderligere udvikling.
+Ny sikkerhedsmodel – Det bliver lettere for anvendere at styre deres forskellige brugeres adgang til data.
+Øget portabilitet – Datafordeleren er nu forberedt til nye typer af data og dermed klar til fremtidens grunddata.
+Al forandring kræver energi. Vi ved at overgangen for både anvendere og registrere også vil kræve tid og ressourcer - men vi er sikre på, at resultatet i sidste ende er en god investering.
+Den moderniserede platform imødekommer den efterspørgsel der var hos anvenderne på mere fleksibilitet både i den løbende udvikling af data, så ændringer kan slå hurtigere igennem, og til selv at kunne definere og hente netop de data man har behov for – det åbner for et større brugspotentiale og mere værdiskabende anvendelse.
+Vi ved godt at både registrere og anvendere står overfor en stor opgave, når den nye datafordeler skal tages i brug. Vi gør os umage med at lave transitionen så let som mulig, og er meget obs på at kommunikation er vigtig – vi skal gøre det sammen og hele tiden lære af hinanden.
+Værdi kommer ikke af sig selv, og Klimadatastyrelsen og alle andre parter i arbejdet med grunddata er derfor forpligtet i et fællesskab, der skal sikre, at vi kan realisere værdien.
+Derfor har Klimadatastyrelsen etableret et projekt om transition af anvendere samt etableret et transitionsnetværk for anvendere, så vi bedst muligt kan støtte anvenderne i overgangen til den moderniserede Datafordeler.
+Vi er også alle forpligtet til at bygge vores digitale løsninger og nye datainfrastrukturer oven på den eksisterende infrastruktur med grunddata – i sidste ende er det samfundsøkonomisk mest fordelagtigt, giver mest kvalitet for pengene og muliggør hurtigere løsninger på presserende problemer. Både indenfor klimatilpasning – men i høj grad også for at finde fælles løsninger på den nye store sikkerhedspolitiske udfordring.
+Endelig skal modellen for grunddata vedligeholdes og videreudvikles – derfor lancerer vi snart en ny Strategi for fremtidens grunddata.
+Da grunddataprogrammet blev etableret var det et kæmpe skridt og med store ambitioner, og nu har vi i nogle år driftet, konsolideret og moderniseret.
+Grunddata er i dag samfundskritisk infrastruktur, og mange anvendere, både i det offentlige og private, der er dybt afhængige af den sikre og stabile adgang til opdaterede data.
+Og vi står i dag med nogle geopolitiske og samfundsmæssige udfordringer, som ikke var der, da vi startede. Vi bliver nødt til at se på, hvordan grunddata fortsat kan være fundamentet for det digitale Danmark. Også når det kommer til at understøtte de sikkerhedspolitiske dagsordener som fx forsyningssikkerhed, hertil kommer andre udfordring som klimasikring og den grønne omstilling.
+Og vi skal se på, hvordan grunddata bedst muligt kan understøtte de nye teknologiske muligheder som for eksempel AI. Sammenhængende grunddata og den rette datakvalitet muliggør automatisering og forbedret beslutningsstøtte. Uden det fundament at stå på, er der stor risiko for at bygge løsninger på et usikkert grundlag, der begrænser værdien af resultaterne.
+Vi har fire målsætninger i strategien:
+Fælles ansvar for sammenhæng og datakvalitet
+Flere muligheder med nye sammenhænge og nye grunddata
+Værdiskabende datadistribution
+Fornyet forpligtelse i samarbejdet om grunddata
+I arbejdet med strategien har det fyldt meget, at samarbejdsmodellen om grunddata er en stor styrke, hvor for eksempel Finanssektoren, Udbetaling Danmark og innovative private virksomheder kan understøtte samfundet med sikre og stabile digitale løsninger, der skaber stor værdi gennem effektivisering og vækst.
+Strategien er godkendt i Styregruppen for Grunddata, og vi lancerer den på Geoforums konference Kortdage til november.
+Hvis jeg skal opsummere:
+Grunddata er en strategisk styrkeposition især på grund af:
+1. Grunddataerenunikmodelforsamarbejdetomdatamellemoffentlige og private
+2. GrunddatapåDatafordelerenerensammenhængende,sikkerogstabil infrastruktur
+Vi skal dedikere os til visionen om at skabe et digitalt fundament med Danmarks data. Vi skal have økonomisk sikkerhed for den daglige drift af distributionen af grunddata, og vi skal have tilsvarende sikkerhed for, at vi forsat kan vedligeholde og udvikle fundamentet i takt med, at der kommer nye behov for anvendelse af data til at løse vigtige samfundsmæssige udfordringer. Allerede nu skal vi sikre, at vi bevarer og videreudvikler en infrastruktur med Danmarks Data som et vigtigt sikkerhedspolitisk aktiv. Data er en national styrke på lige fod med forsyning af energi og vand, når vi skal imødegå de aktuelle udfordringer med et ændret geopolitisk trusselsbillede.
+Med det udgangspunkt ser jeg nu frem til at høre den næste talers perspektiver på, hvordan danske data kan blive en stærk strategisk styrkeposition i den globale geopolitiske konkurrence.
+Tak for jeres opmærksomhed – og hermed ordet til Ulrik fra Netcompany.
+
+

@@ -1,0 +1,58 @@
+Title: Caroline_Stage_Olsens_tale_ved_eventet_Open_Source_and_the_European_Union
+Date: 2025-10-23
+Organisationer og bevægelser: Moderaterne
+Talegenre: Politisk tale
+
+
+Thank you for the kind introduction.
+I am happy to be here today in this historic setting in the “Landstingssal” to talk about open source.
+Some of you have probably been part of the open source community for many years.
+I was appointed Minister for Digital Affairs last summer.
+And already I have felt that open source has become a very hot topic within a short period of time.
+The past year has featured a number of rude awakenings. And if there were ever any doubts, it is now crystal clear that Europe cannot afford to fall asleep behind the digital steering wheel.
+There are two gentlemen to whom we owe special thanks for these awakenings: Mario Draghi and Donald Trump.
+Draghi for the report that pulled the rug under our belief that we have things under control in Europe.
+And Trump? In his own unique way, Trump has reminded us that the world can change faster than we can update our software.
+The conclusion? We need to strengthen our digital sovereignty and we need a stronger European digital market and industry.
+Thanks to the increased focus on digital sovereignty, the attention towards open source solutions has also increased.
+Today, we question whether the way we have built our digital ecosystem reflects our values and needs.
+Much like we historically have questioned how things were done in our society in the past.
+Take this room as an example.
+This is the former Upper Chamber of the Danish Parliament from when we had a two-chamber political system in Denmark.
+The members of the Upper Chamber were appointed by the king or by the upper-class.
+They had to be men…. More than 40 years old… And be wealthy landowners….
+In other words: The exact opposite of me.
+Their role was to act as a conservative counterweight to the more reformistic lower chamber, the “Folketing”.
+Cigar shelves with numbered ashtrays were placed outside the Upper Chamber.
+And if a break was too short, they could leave their cigars here before entering the room.
+The time when the upper-class enjoyed special privileges in our political system is long gone.
+And smoking cigars outside the Upper Chamber is left in the past.
+Today, we have one chamber – the Folketing – and the members are appointed by the people.
+And this room is only used for conferences and meetings like this one today.
+This history lesson serves as an example that over time some institutions do develop and even break.
+200 years ago, most people didn’t question the fact that few powerful and privileged men ruled the country.
+And they did not foresee a time where cigar shelfs would be useless.
+Or a young woman could be minister.
+Things can change, when we start asking questions.
+Today, we question whether a few dominant tech-companies should be allowed to define our digital society.
+Does their business model compare to the cigar shelfs you can find outside this room? Outdated? Unwanted?
+Many point to the fact that open source can contribute to un-lock the European over-reliance on non-European big tech.
+But I doubt I need to convince you about the upsides of open source 😊
+Open source solutions are already used in many parts of the Danish public sector today.
+I believe you will be presented to some cases later today.
+One thing I have learned in a short period of time is that there are many myths around open source. And a tendency to be either for or against.
+To me it is much more interesting to ask: How and where?
+To test how transitioning to open source solutions works in practice, some employees in my ministry have participated in a small-scale pilot test using an open source alternative to Microsoft Office during this summer.
+And as some of you may have noticed, this experiment received a lot of attention in the media.
+Both in Denmark and abroad.
+Although it was just a small pilot it shows that we are starting to take open source alternatives seriously.
+And I do expect more experiments in the coming years.
+Because I believe we have to strengthen Denmark’s and Europe’s digital sovereignty.
+We need to define the next steps to take in the short and long term.
+In August, the Danish Government allocated money towards this goal.
+And we also need to work together in the EU. To increase competitiveness. To foster alternatives.
+Increasing our digital sovereignty does not mean a future without big tech.
+Instead, it entails that we have genuine freedom to choose between products and services.
+To leave the digital cigar shelfs in the past.
+Thank you for your time. I hope you will enjoy the rest of the day.
+
