@@ -15,21 +15,22 @@ def date_to_float(date_str):
     year, month, day = date_str.split("-")
     return float(year) + float(month) / 12 + float(day) / 365
 
-def convert_to_data(raw):
-    alphabet = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z", "æ", "ø", "å", " "]
-    data = [0] * (len(alphabet) + 1)
+def convert_to_data(raw, char_dict):
+    data = [0] * len(char_dict)
     N = len(raw)
 
     total_num = 0
-    for char in alphabet:
+    for char in char_dict:
         num = raw.count(char)
-        data[alphabet.index(char)] = num/N
+        data[char_dict.index(char)] = num
         total_num += num
-    data[-1] = (len(raw) - total_num) / N
+    
+    for char in char_dict:
+        data[char_dict.index(char)] /= total_num
 
     return data
 
-def read_files(path):
+def read_files(path, char_dict):
     data = []
     label = []
     for file in os.listdir(path):
@@ -45,7 +46,7 @@ def read_files(path):
         header = raw[:idxs[idx]]
         header_lines = header.splitlines()
         date = header_lines[1].split(": ")[1]
-        data.append(convert_to_data(text.strip()))
+        data.append(convert_to_data(text.strip(), char_dict))
         label.append(date_to_float(date))
     return data, label
 
