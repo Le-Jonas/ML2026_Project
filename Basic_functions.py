@@ -116,9 +116,10 @@ def read_files(path, char_dict):
                 preach = 1
             if line.split(": ")[0] == "Organisationer og bevægelser":
                 organization = line.split(": ")[1]
-        text_split = split_txt(text, 100)
-        for text in text_split:
-            data.append(convert_to_data(text, char_dict))
+        text_words = text.split(" ")
+        text_split = split_txt(text_words, 100)
+        for text_part in text_split:
+            data.append(convert_to_data(text_part, char_dict))
             label.append((date_to_float(date), preach, organization))
     return data, label
 
