@@ -30,23 +30,38 @@ def convert_to_data(raw, char_dict):
 
     return data
 
+def extract_header(raw):
+    idxs = np.array([i for i, ch in enumerate(raw) if ch == "\n"])
+    diff = np.diff(idxs)
+    try:
+        idx = np.where((diff[:-1] == 1) & (diff[1:] == 1))[0][0]
+    except IndexError:
+        print(np.where((diff[:-1] == 1) & (diff[1:] == 1)))
+        raise IndexError("File {} does not have the expected format.".format(file))
+    return raw[idxs[idx]+3:], raw[:idxs[idx]]
+
 def read_files(path, char_dict):
     data = []
     label = []
     for file in os.listdir(path):
         raw = open(os.path.join(path, file), "r", encoding="utf-8").read()
-        idxs = np.array([i for i, ch in enumerate(raw) if ch == "\n"])
-        diff = np.diff(idxs)
-        try:
-            idx = np.where((diff[:-1] == 1) & (diff[1:] == 1))[0][0]
-        except IndexError:
-            print(np.where((diff[:-1] == 1) & (diff[1:] == 1)))
-            raise IndexError("File {} does not have the expected format.".format(file))
-        text = raw[idxs[idx]+3:]
-        header = raw[:idxs[idx]]
+        text, header = extract_header(raw)
         header_lines = header.splitlines()
         date = header_lines[1].split(": ")[1]
         data.append(convert_to_data(text.strip(), char_dict))
         label.append(date_to_float(date))
     return data, label
 
+def count_words(path):
+    word_count = {}
+    for file in os.listdir(path):
+        raw = open(os.path.join(path, file), "r", encoding="utf-8").read()
+        text, header = extract_header(raw)
+        
+        words = text.replace("\n", " ").strip().split()
+        for word in words:
+            if word in word_count:
+                word_count[word] += 1
+            else:
+                word_count[word] = 1
+    return word_count
