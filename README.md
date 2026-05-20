@@ -3,6 +3,7 @@ Git guide: https://www.w3schools.com/git/git_commit.asp?remote=github
 * Git pull: Update local folder
 * Git add <file.name> : Prepare file to commit
 * Git commit: Locally commit file
+* Git commit -m "text": Commit, but add message (USE THIS!)
 * Git push : Upload local commit to github
 * Git status: Check you staging area and if you are up to date.
 
