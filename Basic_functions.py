@@ -46,6 +46,17 @@ def remove_symbols(text):
     text = text.replace("\n", " ")
     return "".join(ch for ch in text.lower() if ch in chars_set)
 
+def split_txt(text, length):
+    """
+    Splits the input text into chunks of the specified length.
+    Input:
+    text (str): The input text to split.
+    length (int): The length of each chunk.
+    Output:
+    list: A list of strings, each representing a chunk of the input text.
+    """
+    return [' '.join(text[i:i+length]) for i in range(0, len(text), length)]
+
 def convert_to_data(raw, char_dict):
     """
     Converts the input raw text into a list of frequencies for each character in the char_dict. The frequency is calculated as the count of each character in the raw text divided by the total number of characters counted.
@@ -56,17 +67,10 @@ def convert_to_data(raw, char_dict):
     list: A list of frequencies corresponding to each character in char_dict.
     """
     data = [0] * len(char_dict)
-    N = len(raw)
 
-    total_num = 0
-    for char in char_dict:
+    for i, char in enumerate(char_dict):
         num = raw.count(char)
-        data[char_dict.index(char)] = num
-        total_num += num
-    
-    for char in char_dict:
-        data[char_dict.index(char)] /= total_num
-
+        data[i] = num
     return data
 
 def extract_header(raw):
@@ -102,11 +106,20 @@ def read_files(path, char_dict):
     for file in os.listdir(path):
         raw = open(os.path.join(path, file), "r", encoding="utf-8").read()
         text, header = extract_header(raw)
-        text = text.strip().lower()
+        text = text.strip().lower().replace("\n", " ")
         header_lines = header.splitlines()
         date = header_lines[1].split(": ")[1]
-        data.append(convert_to_data(text, char_dict))
-        label.append(date_to_float(date))
+        preach = 0
+        organization = np.nan
+        for line in header_lines:
+            if line.split(": ")[1] == "Prædiken":
+                preach = 1
+            if line.split(": ")[0] == "Organisationer og bevægelser":
+                organization = line.split(": ")[1]
+        text_split = split_txt(text, 100)
+        for text in text_split:
+            data.append(convert_to_data(text, char_dict))
+            label.append((date_to_float(date), preach, organization))
     return data, label
 
 def count_words_in_directory(path):
@@ -161,5 +174,6 @@ def find_file_word_counts(path):
         text, _ = extract_header(raw)
         word_count = count_words_in_file(word_count, text)
         words.append(list(word_count.keys()))
-        words.append(list(word_count.values()))
+        counts.append(list(word_count.values()))
     return words, counts
+
