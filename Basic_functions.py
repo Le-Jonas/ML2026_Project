@@ -109,7 +109,7 @@ def read_files(path, char_dict):
         label.append(date_to_float(date))
     return data, label
 
-def count_words(path):
+def count_words_in_directory(path):
     """
     Counts the frequency of each word in all files in the specified directory. 
     It reads each file, extracts the main text, processes it to remove symbols and convert it to lowercase, and then counts the occurrences of each word. 
@@ -122,12 +122,44 @@ def count_words(path):
     word_count = {}
     for file in os.listdir(path):
         raw = open(os.path.join(path, file), "r", encoding="utf-8").read()
-        text, header = extract_header(raw)
-        text = text.strip().lower()
-        words = remove_symbols(text).split()
-        for word in words:
-            if word in word_count:
-                word_count[word] += 1
-            else:
-                word_count[word] = 1
+        text, _ = extract_header(raw)
+        word_count = count_words_in_file(word_count, text)
     return word_count
+
+def count_words_in_file(word_count, text):
+    """
+    Counts the frequency of each word in the given text and updates the provided word_count dictionary with these frequencies.
+    It processes the text to remove symbols and convert it to lowercase, then splits it into words and counts the occurrences of each word. The word_count dictionary is updated in-place, where the keys are words and the values are their corresponding frequencies.
+    Input:
+    word_count (dict): A dictionary where the keys are words and the values are their corresponding frequencies. This dictionary will be updated with the counts from the given text.
+    text (str): The input text to process and count words from.
+    Output:
+    dict: The updated word_count dictionary with the frequencies of words from the given text.
+    """
+    text = text.strip().lower()
+    words = remove_symbols(text).split()
+    for word in words:
+        if word in word_count:
+            word_count[word] += 1
+        else:
+            word_count[word] = 1
+    return word_count
+
+def find_file_word_counts(path):
+    """
+    Counts the frequency of all words in each file and appends the specific words and counts to a list.
+    Input:
+    path (str): The path to the directory containing the files to read.
+    Output:
+    lists: Two lists one of str and one of int, where the first list contains the words and the second list contains the corresponding counts for each file in the specified directory.
+    """
+    words = []
+    counts = []
+    for file in os.listdir(path):
+        word_count = {}
+        raw = open(os.path.join(path, file), "r", encoding="utf-8").read()
+        text, _ = extract_header(raw)
+        word_count = count_words_in_file(word_count, text)
+        words.append(list(word_count.keys()))
+        words.append(list(word_count.values()))
+    return words, counts
