@@ -1,6 +1,11 @@
 import numpy as np
 import os
-from numba import njit
+
+import requests
+from bs4 import BeautifulSoup
+import time
+import re
+import unicodedata
 
 chars_set = set(["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z", "æ", "ø", "å", " "])
 
@@ -178,3 +183,97 @@ def find_file_word_counts(path):
         counts.append(list(word_count.values()))
     return words, counts
 
+
+def polite_get(url, session, min_delay=0.5, max_delay=1.5, max_retries=5):
+    time.sleep(np.random.uniform(min_delay, max_delay))
+    for attempt in range(max_retries):
+        r = session.get(url)
+        if r.status_code == 200:
+            return r
+        if r.status_code == 429:
+            ra = r.headers.get("Retry-After")
+            wait = float(ra) if ra else min(2**attempt, 60)
+            time.sleep(wait)
+            continue
+        if 500 <= r.status_code < 600:
+            time.sleep(min(2**attempt, 60))
+            continue
+        r.raise_for_status()
+    raise RuntimeError("Max retries exceeded")
+
+
+def scrape_tale(r):
+    soup = BeautifulSoup(r.text, "html.parser")
+    title = soup.find("title").text.strip()
+    date = soup.select_one("time")["datetime"]
+    if "T" in date:
+        date = date.split("T")[0]
+
+    if soup.select("div.speech-topics") == []:
+        topic_names = []
+        topic_categories = []
+        topic_names.append(soup.select("article")[0].select("a")[0].text.strip())
+        topic_categories.append("Article Type")
+        topic_names.append(soup.select("article")[0].select("p")[0].text.strip())
+        topic_categories.append("Author")
+
+        paragraphs = soup.select("article")[0].select("p")[1:]
+        text = ""
+        for p in paragraphs:
+            for node in p.descendants:
+                if node.name is None:
+                    text += node.strip()
+                    text += "\n"
+        
+    else:
+        topics = soup.select("div.speech-topics")[0].find_all("a")
+        topic_categories = []
+        topic_names = []
+        for topic in topics:
+            topic_category = topic.attrs['title'].split("</span>")[0].split(">")[-1].strip()
+            topic_categories.append(topic_category)
+            topic_names.append(topic.text.strip())
+
+        text_base = soup.find("div", class_="speech-article-content")
+        text = ""
+        if text_base is None:
+            return "Error_text_not_found", date, topic_categories, topic_names, "Text not found"
+        for node in text_base.descendants:
+            if node.name is None:
+                text += node.strip()
+                text += "\n"
+
+    return title, date, topic_categories, topic_names, text
+
+def sanitize_filename(name, replacement="_"):
+    name = unicodedata.normalize("NFKD", name)
+    name = "".join(ch for ch in name if not unicodedata.combining(ch))
+    name = re.sub(r'[<>:"/\\|?*\x00-\x1f]', replacement, name)
+    name = re.sub(r"\s+", replacement, name).strip()
+    name = name.strip(" .")
+    name = re.sub(rf"{re.escape(replacement)}+", replacement, name)
+    return name or "untitled"
+
+def save_tale(title, date, topic_categories, topic_names, text, save_dir):
+    title = sanitize_filename(title)
+    filename = save_dir + "/" + title + ".txt"
+    with open(filename, "w", encoding="utf-8") as f:
+        f.write(f"Title: {title}\n")
+        f.write(f"Date: {date}\n")
+        for i, topic in enumerate(topic_categories):
+            f.write(f"{topic}: {topic_names[i]}\n")
+        f.write("\n")
+        f.write(text)
+
+def main_scrape(base_url, speeches_url, save_dir):
+    session = requests.Session()
+    session.headers.update({"User-Agent": "KU MachineLearning2026 FinalProject Bot/1.0"})
+
+    for speech_url in speeches_url:
+        full_url = base_url + speech_url
+        print(f"Processing: {full_url}")
+        r = polite_get(full_url, session)
+        title, date, topic_categories, topic_names, text = scrape_tale(r)
+        save_tale(title, date, topic_categories, topic_names, text, save_dir)
+
+    session.close()
