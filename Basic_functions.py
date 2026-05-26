@@ -317,3 +317,20 @@ def main_scrape(base_url, speeches_url, save_dir):
         save_tale(title, date, topic_categories, topic_names, text, save_dir)
 
     session.close()
+
+def train_val_test_split(data, labels, val_size=0.2, test_size=0.1):
+    total_size = len(labels)
+    val_count = int(total_size * val_size)
+    test_count = int(total_size * test_size)
+    train_count = total_size - val_count - test_count
+    
+    data_train = data[:train_count]
+    labels_train = labels[:train_count]
+    
+    data_val = data[train_count:train_count + val_count]
+    labels_val = labels[train_count:train_count + val_count]
+    
+    data_test = data[train_count + val_count:]
+    labels_test = labels[train_count + val_count:]
+    
+    return data_train, labels_train, data_val, labels_val, data_test, labels_test
