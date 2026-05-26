@@ -1,4 +1,5 @@
 import numpy as np
+from scipy.sparse import coo_matrix
 import os
 
 import requests
@@ -72,11 +73,32 @@ def convert_to_data(raw, char_dict):
     list: A list of frequencies corresponding to each character in char_dict.
     """
     data = [0] * len(char_dict)
-
+    for i, char in enumerate(char_dict):
+        data[i] = raw.count(char)
+    return data
+    
+def convert_to_data_sparse(raw, char_dict, row_idx):
+    """
+    Converts the input raw text into a list of frequencies for each character in the char_dict. The frequency is calculated as the count of each character in the raw text divided by the total number of characters counted.
+    Input:
+    raw (str): The input raw text to process.
+    char_dict (list): A list of characters for which to calculate the frequencies.
+    Output:
+    list: A list of frequencies corresponding to each character in char_dict.
+    list: A list of row indices corresponding to the characters in char_dict that have a non-zero frequency in the raw text.
+    list: A list of column indices corresponding to the characters in char_dict that have a non-zero frequency in the raw text.
+    """
+    row_ = []
+    columns_ = []
+    values_ = []
     for i, char in enumerate(char_dict):
         num = raw.count(char)
-        data[i] = num
-    return data
+        if num != 0:
+            row_.append(row_idx)
+            columns_.append(i)
+            values_.append(num)
+    return values_, row_, columns_
+
 
 def extract_header(raw, file):
     """
@@ -98,7 +120,7 @@ def extract_header(raw, file):
         #raise IndexError("File {} does not have the expected format.".format(file))
     return raw[idxs[idx]+2:].strip(), raw[:idxs[idx]]
 
-def read_files(path, char_dict):
+def read_files(path, char_dict, sparse=False):
     """
     Reads all files in the specified directory, extracts the header and main text from each file, processes the main text to calculate the frequency of each character in char_dict, and extracts the date from the header to convert it to a float. 
     It returns two lists: one containing the processed data for each file and another containing the corresponding labels (dates as floats).
@@ -108,8 +130,12 @@ def read_files(path, char_dict):
     Output:
     tuple: A tuple containing two lists: the first list contains the processed data for each file, and the second list contains the corresponding labels (dates as floats).
     """
-    data = []
+    data = [] 
     label = []
+    sparse_data = []
+    sparse_rows = []
+    sparse_cols = []
+    row_idx = 0
     for file in os.listdir(path):
         raw = open(os.path.join(path, file), "r", encoding="utf-8").read()
         text, header = extract_header(raw, file)
@@ -119,16 +145,28 @@ def read_files(path, char_dict):
         preach = 0
         organization = np.nan
         for line in header_lines:
-            if line.split(": ")[1] == "Prædiken":
+            if line.split(": ")[-1] == "Prædiken":
                 preach = 1
             if line.split(": ")[0] == "Organisationer og bevægelser":
                 organization = line.split(": ")[1]
         text_words = text.split(" ")
         text_split = split_txt(text_words, 100)
         for text_part in text_split:
-            data.append(convert_to_data(text_part, char_dict))
+            if sparse:
+                row = convert_to_data_sparse(text_part, char_dict, row_idx)
+                sparse_data.extend(row[0])
+                sparse_rows.extend(row[1])
+                sparse_cols.extend(row[2])
+            else:
+                row = convert_to_data(text_part, char_dict)
+                data.append(row)
             label.append((date_to_float(date), preach, organization))
-    return data, label
+            row_idx += 1
+    if sparse:
+        data = coo_matrix((sparse_data, (sparse_rows, sparse_cols)), shape=(row_idx, len(char_dict))).tocsr()
+    else:
+        data = np.array(data)
+    return data, np.array(label)
 
 def count_words_in_directory(path):
     """
