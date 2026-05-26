@@ -93,8 +93,9 @@ def extract_header(raw, file):
     try:
         idx = np.where(diff[:-1] == 1)[0][0]
     except IndexError:
-        print(np.where((diff[:-1] == 1) & (diff[1:] == 1)))
-        raise IndexError("File {} does not have the expected format.".format(file))
+        return raw[idxs[2]+8:].strip(), raw[:idxs[2]]
+        #print(np.where((diff[:-1] == 1) & (diff[1:] == 1)))
+        #raise IndexError("File {} does not have the expected format.".format(file))
     return raw[idxs[idx]+2:].strip(), raw[:idxs[idx]]
 
 def read_files(path, char_dict):
