@@ -1,0 +1,27 @@
+Title: Betal_for_parkering_med_mobiltelefonen
+Date: 2002-01-17
+Article Type: Økonomi
+Author: Peder Bjerge
+
+Stil bilen og betal for parkeringen med mobiltelefonen. Du får automatisk en lille besked på mobiltelefonen, når du har et kvarter tilbage. Hvis mødet trækker ud, ringer du blot til computeren og køber ekstra tid uden at skulle ned på gaden og proppe flere penge i automaten. 
+Københavns Parkering afprøver mulighederne for, at bilisterne kan slippe for at gelejde mønter ned i automater. 
+Den norske virksomhed Easy Park tilbyder sammen med Københavns Parkering, at bilister i København kan betale for parkeringen med mobiltelefonen.
+Smidig mulighed
+»Vi tilbyder den service. Det gør det mere smidigt for bilisterne, men vi får ikke flere parkeringer«, siger Mette Brinch Clausen, informationschef i København Parkering. 
+Hun regner med at den nuværende forsøgsordning fortsætter. 
+Men det er en betingelse, at systemet også er let at have med at gøre for parkeringsvagterne.
+Stregkoder
+Som systemet fungerer i dag, sidder der et mærkat i bilens forrude med et femcifret nummer og en stregkode. 
+Parkeringsvagterne har en mobiltelefon med ude på de københavnske gader. Når de møder en parkeret bil med mærkaten, så ringer de til en computer hos Easy Park for at få at vide, om bilister nu har betalt eller skal have en parkeringsbøde. 
+Systemet er indrettet sådan, at bilens ejer får besked, når det er tid for en at putte yderligere penge i det elektroniske parkometer.
+En SMS til langtidsparkering
+Er der brug for en længere parkering, kan det så klares ved at sende en SMS. 
+I fremtiden regner Mette Brinch Clausen med, at parkeringsvagterne kan nøjes med et apparat, når de går deres runder. 
+»I dag går parkeringsvagterne rundt med en elektronisk aflæser i forvejen. Den kan bare ikke tjekke dem, der er betalt med mobiltelefonen, men udfordringen er selvfølgelig at udvikle én terminal, der automatisk kan undersøge dette«, siger Mette Brinch Clausen.
+Gode norske erfaringer
+Easy Park arbejder ud fra en norsk model, fortæller direktøren Nikolaj Boe. 
+Selskabet har i et halvt år tilbudt systemet til norske bilister i byerne Oslo, Bergen og Trondheim. 
+Ud over Easy Park arbejder de to teleselskaber TDC og Sonofon sammen med de to teknologivirksomheder Siemens og Dannet på at udvikle et system. 
+Ligesom Easy Park har dette konsortium gode oplevelser.
+'Voldsom interesse'
+»Det var helt voldsomt. Vi havde en lang række kunder, der henvendte sig for at få lov at være med i forsøget, men vi har holdt forsøget til en gruppe af vores egne medarbejdere«, griner produktchef Jan Hoffmann fra Sonofon.

@@ -1,0 +1,8 @@
+Title: Danske_Bank_klar_til_chipkort
+Date: 2001-04-04
+Article Type: Økonomi
+Author: Danske Bank gennemførte tirsdag den første transaktion i Danmark med et udenlandsk chipkort. Bankens afdeling i Helsingør lagde automat til, da repræsentanter fra Europay og Visa hævede 500 kroner med et chipkort. Et chipkort har ifølge Danske Bank en række fordele frem for det traditionelle magnetkort. 
+Chipkortet indeholder populært sagt en lille computer med en lang række funktioner. Kortet kan derfor bruges som både Dankort, kreditkort og småpengekort. 
+Desuden kan chippen indeholde en digital underskrift, og kortet er sikrere end de gængse magnetstribekort, fordi chippen er sværere at kopiere end en magnetstribe. 
+ PBS (Pengeinstitutternes BetalingsSystem) gør nu klar til også at kunne håndtere danskudstedte chipkort. Danske kortudstedere vil fra omkring midten af 2002 have mulighed for at udstede betalingskort med chip i stedet for magnetstribe.
+

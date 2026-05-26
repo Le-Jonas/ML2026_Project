@@ -1,0 +1,10 @@
+Title: Databaser_forbedrer_sygehuskvalitet
+Date: 2001-07-06
+Article Type: Danmark
+Author: Databaser er et godt middel til at måle og forbedre kvaliteten af behandlingen på landets sygehuse. Det viser erfaringer fra de eksisterende databaser, konkluderer en undersøgelsen, som Sundhedsstyrelsen har foretaget. 
+Undersøgelsen viser en klar sammenhæng mellem, hvor længe databaserne har været i drift, og om de har medvirket til at forbedre behandlingskvaliteten. 
+ Undersøgelsen viser, at 57 sygdomme i dag er dækket af kliniske databaser i Danmark. Det er imidlertid stadigvæk overvejende små sygdomme med et begrænset antal patienter, der er dækket af en kvalitetsdatabase. 
+ Sundhedsstyrelsens undersøgelse konkluderer på den baggrund, at der er behov for udvikling af databaser for store patientgrupper, som f.eks. slagtilfælde eller blodprop i hjertet, der ligesom hoftebrud og sukkersyge endnu ikke er dækket af databaser. 
+ 59 pct. af de 834 danske hospitalsafdelinger, som svarede på det udsendte spørgeskema, angav, at de ikke indberettede til nogen kvalitetsdatabase. 
+Det er en lille fremgang i forhold til den forrige undersøgelse, hvor 69 pct. angav, at de ikke indberettede til nogen database.
+

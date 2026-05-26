@@ -1,0 +1,10 @@
+Title: Talende_hjemmeside_hos_ministerium
+Date: 2001-05-29
+Article Type: Danmark
+Author: De omkring 400.000 danskere med læsevanskeligheder får nu mulighed for at få læst alle dokumenter på IT- og Forskningsministeriets hjemmeside højt. Det sker, efter at ministeriet har taget en ny dansk syntetisk tale i anvendelse. Bag den nye teknologi står selskabet Speech-Ware, som er skabt af universiteteterne i København og Aalborg i samarbejde med Novi og Tele Danmark (nu TDC). 
+Projektet er et resultat af en konkurrence fra 1997 om udvikling af dansk syntetisk tale. Forskningsministeriet udskrev konkurrencen i erkendelse af, at det lille danske sprogområde formentlig ikke ville være interessant for internationale udviklere af syntetisk tale. 
+ Eneste forudsætning for at benytte taleteknologien er en pc med lydkort og en internetforbindelse. Alle teksterne læses op via software i en computer, og der er dermed ikke tale om en traditionel indlæsning af teksterne. 
+ IT- og forskningsminister Birte Weiss (S) siger i forbindelse med den nye teknologi, at det er et væsentligt politisk mål for regeringen at gøre de officielle informationer på Internet tilgængelige for alle, også synshandicappede og folk med læsevanskeligheder. 
+»Teknikken er endnu ikke perfekt, men den danske talesyntese viser, at IT rigtigt anvendt giver et mere åbent samfund, hvor de relevante informationer er tilgængelige«, siger Birte Weiss, der peger på, at det nye projekt ligger i forlængelse af et andet projekt, "telefon til samfundet", hvor man på nummer 1881 kan ringe og få oplysninger om indholdet på de offentlige hjemmesider. 
+ Teknologien med syntetisk tale ventes anvendt i mange sammenhænge, også i forbindelse med skærmlæsere til blinde pc-brugere, som talende journaler til sygehussektoren eller i forbindelse med oplæsning af e-mails for personer, der er i færd med at køre bil.
+

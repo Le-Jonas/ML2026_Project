@@ -1,0 +1,10 @@
+Title: Fri_bandbredde_til_private
+Date: 2001-06-13
+Article Type: Økonomi
+Author: Teleselskabet TDC (Tele Danmark) vil til efteråret give private mulighed for at variere båndbredden til Internet fra minut til minut. Allerede fra næste uge er konkurrenten Cybercity klar med en lignende model, skriver edb-bladet Computerworld i sin online-udgave. 
+Teleselskaber og Internet-udbydere arbejder på at komme ud med ordninger, hvor kunderne betaler efter det indhold, som de henter på nettet, i stedet for den tid, hvor de er på. 
+ TDCs markedsdirektør Martin Lippert oplyser til net-avisen, at selskabet efter sommerferien vil lancere et pilotprojekt, hvor kunder varierer båndbredden, der bestemmer, hvor hurtigt man kan hente indhold på Internet. Med få minutters forsinkelse vil brugeren kunne skrue op eller ned for sin forbindelse efter behov. Ekstra dyrt
+Betalingsformen er ikke fastlagt, men der bliver formentlig tale om en fast betaling for den lave båndbredde og en ekstrabetaling, når brugeren skruer op. 
+ Cybercity er mandag klar med produktet 'Boost', som giver private kunder mulighed for at justere båndbredden. I første omgang bliver det dog kun muligt at justere i faste intervaller via Cybercitys website. 
+»Man kan for eksempel tegne sig for en opkobling på 256 kilobit pr. sekund i hverdagen, men så hver anden weekend få to megabit pr. sekund«, siger adm. direktør Henrik Clausen, Cybercity, til Computerworld Online.
+

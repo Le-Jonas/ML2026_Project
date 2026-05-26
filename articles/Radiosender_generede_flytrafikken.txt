@@ -1,0 +1,9 @@
+Title: Radiosender_generede_flytrafikken
+Date: 2001-06-21
+Article Type: Danmark
+Author: Telestyrelsen har lukket én af Radio Midtjyllands sendere, fordi den generede flytrafikken i Karup Lufthavn, oplyser DR Midt & Vest. Radiosignaler har flere gange givet problemer i Karup Lufthavn. Senest onsdag, hvor et af Flyvevåbnets fly opdagede en fejl på det automatiske landingssystem. En pilot i et af Flyvevåbnets T-17-fly opfangede musik, da han rutinemæssigt kontrollerede det Instrument Landings System (ILS), der skal sikre landingerne på landingsbanerne. 
+Telestyrelsen sporede musikken til Radio Midtjyllands sender i Bording. Den burde sende på 107,2 megahertz, men af en eller anden grund sendte den et signal, der generede landingssystemets frekvens på 108,2. 
+Senderen var indstillet, som den skulle, men Telestyrelsen bad alligevel radioen om at slukke den, og det skete omgående, fortæller direktør Kurt Bach til DR Midt & Vest: 
+»Selvfølgelig lukkede vi med det samme. Det er klart, at vi ikke skal være til gene for flytrafikken«, siger han og skyder på, at den generende sending skyldtes atmosfæriske forstyrrelser. 
+Direktør Kurt Bach håber, at fejlen på senderen kan udbedres i løbet af en uge. Indtil da må lyttere øst for Ikast undvære Radio Midtjylland.
+

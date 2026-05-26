@@ -1,0 +1,8 @@
+Title: Edb-ormen_holdt_sig_i_ro
+Date: 2001-08-01
+Article Type: Økonomi
+Author: Nattens ventede virusangreb på Internettet udeblev. Den amerikanske stat og edb-giganten Microsoft udsendte forleden en usædvanlig fælles advarsel om, at edb-virussen Code Red Worm i nat ville gå til angreb på ubeskyttede Windows-servere verden over, men angrebet udeblev, meddeler de internationale nyhedsbureauer til morgen. 
+Herhjemme var der heller ingen tegn på angreb fra den ødelæggende ormevirus, der har angrebet to gange tidligere og ramt hundredetusindvis af computere - senest den 19. juli i år. Har sovet godt
+»Vi har sovet godt i nat. Der har formentlig slet ikke været nogen konsekvenser hos vores kunder. Foreløbig har vi ikke hørt noget fra hverken vores kunder eller vores udenlandske kontakter«, siger Jan Krogh Jensen, afdelingsleder hos TDCs sikkerhedstjeneste CSIRT, til Ritzau. 
+ Samme melding lød fra sikkerhedseksperter og regeringskilder i både USA og Asien, rapporterede nyhedsbureauerne AFP og Reuters samstemmende. Den amerikanske regering, som synes at have været mål for de tidligere angreb, oplyste, at den ikke var blevet berørt. Samme melding kom fra blandt andre den japanske regering.
+

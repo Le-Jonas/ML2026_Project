@@ -1,0 +1,11 @@
+Title: E-handel_i_fiktiv_butik
+Date: 2002-05-09
+Article Type: Økonomi
+Author: Sisse K. Ibsen
+
+'Køb fiskeudstyr på nettet og få leveret til døren'. Med de ord byder Forbrugerinformationen velkommen til en helt særlig type netbutik. Man kan nemlig ikke købe noget, selvom det ser sådan ud. Butikken er fiktiv og udviklet til forbrugere, der gerne i ro og mag vil lege med og lære om handel via nettet. 
+»Vi har etableret netbutikken, fordi nogle forbrugere er sky over for nethandel og bange for at gøre noget forkert. I netbutikken får de mulighed for at øve sig i en butik, som lever op til alle lovgivningens krav«, siger journalist Søren Dilling, Forbrugerinformationen. 
+Under besøget i butikken er der råd at hente om, hvad man skal holde øje, før man handler i en elektronisk butik. F.eks. lyder et råd: Handl kun med butikker, der oplyser alle omkostninger - herunder om fragt og moms er med i priserne. 
+»Mange af de rigtige netbutikker lever faktisk ikke op til lovens krav. Især glemmer butikkerne at oplyse, at forbrugeren kan fortryde og returnere et køb i op til 14 dage efter. Forbrugerne er på flere måder bedre beskyttet ved e-handel, end de er ved almindelig handel. Men for at forbrugerbeskyttelsen virker, er det enormt vigtigt, at folk kender deres rettigheder«, siger Søren Dilling. 
+Netbutikken handler derfor også om sikker betaling. Den skal gerne foregå via sikre (læs: krypterede) linjer. Som forbruger kan man følge med i, at det sker ved at se, at adressen i adressefeltet skifter fra http://. til https://. Endelig er der fokus på de elektroniske spor, som en e-handlende efterlader sig. Forbrugerinformationen anbefaler, at man kun handler med butikker, der har nedskrevet en ordentlig politik for, hvilke oplysninger om forbrugeren der egentlig gemmes og hvorfor. 
+Samtidig med lanceringen af den fiktive butik har Forbrugerinformationen i samarbejde med Forbrugerstyrelsen udgivet en pjece om forbrugerrettigheder i forbindelse med e-handel og postordre. Den kan erhverves for 20 kr. på www.fi.dk - hvor man også gratis kan læse om emnet - ligesom man kan på nedenstående link.

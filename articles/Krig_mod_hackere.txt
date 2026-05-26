@@ -1,0 +1,28 @@
+Title: Krig_mod_hackere
+Date: 2002-04-21
+Article Type: Økonomi
+Author: Peder Bjerge
+
+EU-kommissionen skærper tonen drastisk over for hackere og personer, der sender computervirus ud på internettet. Kommissionen foreslår, at cyberkriminalitet skal koste op til fire års fængsel i alle 15 medlemslande. 
+ EU har erklæret at ville slå hårdt ned på internetkriminalitet - også kaldet cyberkriminalitet - der har kostet milliarder af dollar verden over, når computersystemer brød sammen efter angreb fra hackere eller computervirus.
+Effektive strafferetlige regler
+»Kommissionen vil sikre, at der er effektive strafferetlige regler i alle EU-landene, når det gælder it-kriminalitet«, siger Jakob Schaf, kontorchef for Justitsministeriets internationale kontor. 
+ Selv har han endnu ikke set forslaget, som kommissionen først offentliggør på næste mandag. 
+ »Vi har ventet forslaget, og vi forudser, at det skal forhandles, mens Danmark har formandskabet for EU«, siger Jakob Schaf.
+Kan være livstruende
+Ifølge et udkast til forslaget, som nyhedsbureauet Reuters refererer, skriver kommissionen, at hackerangreb kan give alvorlige økonomiske tab. 
+ I nogle tilfælde kan det være livstruende, når angrebene rettes mod hospitaler og it-systemer, der styrer flysikkerheden. I den seneste tid har hackere angrebet både israelske og palæstinensiske hjemmesider.
+Organsiseret kriminalitet
+Forslaget nævner som eksempler på organiseret internetkriminalitet den brasilianske hackerbande The Brazilian Silver Lords og den pakistanske G-Force, som forsøger at afpresse penge fra virksomheder ved at tilbyde dem speciel assistance efter at have hacket sig ind i deres it-systemer over internettet. 
+ Kommissionens forslag kommer som en del af det politimæssige samarbejde mellem EU-landene, som Danmark også deltager i. 
+ Her arbejder man blandt andet med regler mod menneskehandel, narkosmugling, falskmøntneri og seksuel udnyttelse af børn.
+»Stort skridt fremad«
+Preben Andersen er tidligere chef for Rigspolitiets it-afdeling og nu chefkonsulent i Uni-C, der driver den danske afdeling af den internationale it-sikkerhedsorganisation CERT. 
+ Han mener, at forslaget er et stort skridt fremad, selv om Danmark allerede har regler, der kan give op til seks års fængsel for den slags kriminalitet. 
+ »Vi får ens regler i hele EU, og et af vores problemer har været, at rigtig mange lande i verdenssamfundet ikke har en lovgivning, der håndterer disse problemer. Hackere og virusmagere går efter lande uden de rigtige regler for at undgå at blive fanget«, siger Preben Andersen. Han mener, at EU med forslaget lægger sig tæt op ad den internationale udvikling:
+Risiko for livsvarigt fængsel i USA
+»Før havde USA forskellige regler om fængselsstraffe for cyberkriminalitet, men nu har amerikanerne skærpet straffene drastisk, således at hackere risikerer op til livsvarigt fængsel. EU-reglerne er et led i den stramning - England er også på vej med en stramning«, siger Preben Andersen. 
+ Han vil dog ikke anbefale at stramme de danske regler, der ellers ville komme ud af proportioner med andre regler mod økonomisk kriminalitet.
+Begyndte før 11. september
+Han mener ikke, at den nye hårde linje er et direkte resultat af terrorangrebene mod World Trade Center i New York 11. september sidste år, selv om de begivenheder har sat yderligere fokus på it-sikkerhed. 
+ Udviklingen er begyndt før 11. september i en stigende erkendelse af internettets økonomiske betydning.
