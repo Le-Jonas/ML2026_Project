@@ -78,12 +78,13 @@ def convert_to_data(raw, char_dict):
         data[i] = num
     return data
 
-def extract_header(raw):
+def extract_header(raw, file):
     """
     Extracts the header and the main text from the input raw text. 
     The header is defined as the part of the text that comes before the first occurrence of two consecutive newlines, and the main text is defined as the part that comes after these two consecutive newlines.
     Input:
     raw (str): The input raw text to process.
+    file (str): The name of the file being processed.
     Output:
     tuple: A tuple containing the main text (str) and the header (str).
     """
@@ -110,7 +111,7 @@ def read_files(path, char_dict):
     label = []
     for file in os.listdir(path):
         raw = open(os.path.join(path, file), "r", encoding="utf-8").read()
-        text, header = extract_header(raw)
+        text, header = extract_header(raw, file)
         text = text.strip().lower().replace("\n", " ")
         header_lines = header.splitlines()
         date = header_lines[1].split(": ")[1]
