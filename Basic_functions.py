@@ -265,17 +265,26 @@ def polite_get(url, session, min_delay=0.5, max_delay=1.5, max_retries=5):
 def scrape_tale(r):
     soup = BeautifulSoup(r.text, "html.parser")
     title = soup.find("title").text.strip()
-    date = soup.select_one("time")["datetime"]
+    possible_dates = soup.select("time")
+    for possible_date in possible_dates:
+        if possible_date.has_attr("datetime"):
+            date = possible_date["datetime"]
+            break
     if "T" in date:
         date = date.split("T")[0]
+    err = False
 
     if soup.select("div.speech-topics") == []:
         topic_names = []
         topic_categories = []
         topic_names.append(soup.select("article")[0].select("a")[0].text.strip())
         topic_categories.append("Article Type")
-        topic_names.append(soup.select("article")[0].select("p")[0].text.strip())
-        topic_categories.append("Author")
+        try:
+            topic_names.append(soup.select("article")[0].select("p")[0].text.strip())
+            topic_categories.append("Author")
+        except IndexError:
+            err = True
+            pass
 
         paragraphs = soup.select("article")[0].select("p")[1:]
         text = ""
@@ -303,7 +312,7 @@ def scrape_tale(r):
                 text += node.strip()
                 text += "\n"
 
-    return title, date, topic_categories, topic_names, text
+    return title, date, topic_categories, topic_names, text, err
 
 def sanitize_filename(name, replacement="_"):
     name = unicodedata.normalize("NFKD", name)
@@ -333,7 +342,10 @@ def main_scrape(base_url, speeches_url, save_dir):
         full_url = base_url + speech_url
         print(f"Processing: {full_url}")
         r = polite_get(full_url, session)
-        title, date, topic_categories, topic_names, text = scrape_tale(r)
+        title, date, topic_categories, topic_names, text, err = scrape_tale(r)
+        if err:
+            print(f"Error processing {full_url}: Text not found")
+            continue
         save_tale(title, date, topic_categories, topic_names, text, save_dir)
 
     session.close()
