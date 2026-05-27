@@ -127,7 +127,6 @@ def convert_to_data_sparse(raw, char_dict, row_idx, normalize=True):
             values_ = [x / total for x in values_]
     return values_, row_, columns_
 
-
 def extract_header(raw):
     """
     Extracts the header and the main text from the input raw text. 
