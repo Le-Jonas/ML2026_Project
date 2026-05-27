@@ -100,7 +100,7 @@ def convert_to_data_sparse(raw, char_dict, row_idx):
     return values_, row_, columns_
 
 
-def extract_header(raw, file):
+def extract_header(raw):
     """
     Extracts the header and the main text from the input raw text. 
     The header is defined as the part of the text that comes before the first occurrence of two consecutive newlines, and the main text is defined as the part that comes after these two consecutive newlines.
@@ -138,7 +138,7 @@ def read_files(path, char_dict, sparse=False):
     row_idx = 0
     for file in os.listdir(path):
         raw = open(os.path.join(path, file), "r", encoding="utf-8").read()
-        text, header = extract_header(raw, file)
+        text, header = extract_header(raw)
         text = text.strip().lower().replace("\n", " ")
         header_lines = header.splitlines()
         date = header_lines[1].split(": ")[1]
