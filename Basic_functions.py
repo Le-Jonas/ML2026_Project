@@ -63,7 +63,7 @@ def split_txt(text, length):
     """
     return [' '.join(text[i:i+length]) for i in range(0, len(text), length)]
 
-def convert_to_data(raw, char_dict):
+def convert_to_data(raw, char_dict, normalize=True):
     """
     Converts the input raw text into a list of frequencies for each character in the char_dict. The frequency is calculated as the count of each character in the raw text divided by the total number of characters counted.
     Input:
@@ -75,9 +75,13 @@ def convert_to_data(raw, char_dict):
     data = [0] * len(char_dict)
     for i, char in enumerate(char_dict):
         data[i] = raw.count(char)
+    if normalize:
+        total = sum(data)
+        if total != 0:
+            data = [x / total for x in data]
     return data
-    
-def convert_to_data_sparse(raw, char_dict, row_idx):
+
+def convert_to_data_sparse(raw, char_dict, row_idx, normalize=True):
     """
     Converts the input raw text into a list of frequencies for each character in the char_dict. The frequency is calculated as the count of each character in the raw text divided by the total number of characters counted.
     Input:
@@ -97,6 +101,10 @@ def convert_to_data_sparse(raw, char_dict, row_idx):
             row_.append(row_idx)
             columns_.append(i)
             values_.append(num)
+    if normalize:
+        total = sum(values_)
+        if total != 0:
+            values_ = [x / total for x in values_]
     return values_, row_, columns_
 
 
@@ -120,7 +128,7 @@ def extract_header(raw):
         #raise IndexError("File {} does not have the expected format.".format(file))
     return raw[idxs[idx]+2:].strip(), raw[:idxs[idx]]
 
-def read_files(path, char_dict, sparse=False):
+def read_files(path, char_dict, sparse=False, length = None):
     """
     Reads all files in the specified directory, extracts the header and main text from each file, processes the main text to calculate the frequency of each character in char_dict, and extracts the date from the header to convert it to a float. 
     It returns two lists: one containing the processed data for each file and another containing the corresponding labels (dates as floats).
@@ -149,16 +157,28 @@ def read_files(path, char_dict, sparse=False):
                 preach = 1
             if line.split(": ")[0] == "Organisationer og bevægelser":
                 organization = line.split(": ")[1]
-        text_words = text.split(" ")
-        text_split = split_txt(text_words, 100)
-        for text_part in text_split:
+        if length is not None:
+            text_words = text.split(" ")
+            text_split = split_txt(text_words, length)
+            for text_part in text_split:
+                if sparse:
+                    row = convert_to_data_sparse(text_part, char_dict, row_idx, normalize=False)
+                    sparse_data.extend(row[0])
+                    sparse_rows.extend(row[1])
+                    sparse_cols.extend(row[2])
+                else:
+                    row = convert_to_data(text_part, char_dict, normalize=False)
+                    data.append(row)
+                label.append((date_to_float(date), preach, organization))
+                row_idx += 1
+        else:
             if sparse:
-                row = convert_to_data_sparse(text_part, char_dict, row_idx)
+                row = convert_to_data_sparse(text, char_dict, row_idx, normalize=True)
                 sparse_data.extend(row[0])
                 sparse_rows.extend(row[1])
                 sparse_cols.extend(row[2])
             else:
-                row = convert_to_data(text_part, char_dict)
+                row = convert_to_data(text, char_dict, normalize=True)
                 data.append(row)
             label.append((date_to_float(date), preach, organization))
             row_idx += 1
