@@ -300,12 +300,8 @@ def scrape_tale(r):
         topic_categories = []
         topic_names.append(soup.select("article")[0].select("a")[0].text.strip())
         topic_categories.append("Article Type")
-        try:
-            topic_names.append(soup.select("article")[0].select("p")[0].text.strip())
-            topic_categories.append("Author")
-        except IndexError:
-            err = True
-            pass
+        topic_names.append(soup.select("article")[0].select("p")[0].text.strip())
+        topic_categories.append("Author")
 
         paragraphs = soup.select("article")[0].select("p")[1:]
         text = ""
@@ -357,15 +353,16 @@ def save_tale(title, date, topic_categories, topic_names, text, save_dir):
 
 def main_scrape(base_url, speeches_url, save_dir):
     session = requests.Session()
-    session.headers.update({"User-Agent": "KU MachineLearning2026 FinalProject Bot/1.0"})
+    session.headers.update({"User-Agent": "KU MachineLearning2026 FinalProject Bot/1.2"})
 
     for speech_url in speeches_url:
         full_url = base_url + speech_url
         print(f"Processing: {full_url}")
         r = polite_get(full_url, session)
-        title, date, topic_categories, topic_names, text, err = scrape_tale(r)
-        if err:
-            print(f"Error processing {full_url}: Text not found")
+        try:
+            title, date, topic_categories, topic_names, text, err = scrape_tale(r)
+        except Exception as e:
+            print(f"Error processing {full_url}: {e}")
             continue
         save_tale(title, date, topic_categories, topic_names, text, save_dir)
 
