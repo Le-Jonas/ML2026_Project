@@ -1,4 +1,5 @@
 import numpy as np
+from scipy.sparse import coo_matrix
 import os
 
 import requests
@@ -62,7 +63,7 @@ def split_txt(text, length):
     """
     return [' '.join(text[i:i+length]) for i in range(0, len(text), length)]
 
-def convert_to_data(raw, char_dict):
+def convert_to_data(raw, char_dict, normalize=True):
     """
     Converts the input raw text into a list of frequencies for each character in the char_dict. The frequency is calculated as the count of each character in the raw text divided by the total number of characters counted.
     Input:
@@ -72,11 +73,40 @@ def convert_to_data(raw, char_dict):
     list: A list of frequencies corresponding to each character in char_dict.
     """
     data = [0] * len(char_dict)
+    for i, char in enumerate(char_dict):
+        data[i] = raw.count(char)
+    if normalize:
+        total = sum(data)
+        if total != 0:
+            data = [x / total for x in data]
+    return data
 
+def convert_to_data_sparse(raw, char_dict, row_idx, normalize=True):
+    """
+    Converts the input raw text into a list of frequencies for each character in the char_dict. The frequency is calculated as the count of each character in the raw text divided by the total number of characters counted.
+    Input:
+    raw (str): The input raw text to process.
+    char_dict (list): A list of characters for which to calculate the frequencies.
+    Output:
+    list: A list of frequencies corresponding to each character in char_dict.
+    list: A list of row indices corresponding to the characters in char_dict that have a non-zero frequency in the raw text.
+    list: A list of column indices corresponding to the characters in char_dict that have a non-zero frequency in the raw text.
+    """
+    row_ = []
+    columns_ = []
+    values_ = []
     for i, char in enumerate(char_dict):
         num = raw.count(char)
-        data[i] = num
-    return data
+        if num != 0:
+            row_.append(row_idx)
+            columns_.append(i)
+            values_.append(num)
+    if normalize:
+        total = sum(values_)
+        if total != 0:
+            values_ = [x / total for x in values_]
+    return values_, row_, columns_
+
 
 def extract_header(raw):
     """
@@ -84,6 +114,7 @@ def extract_header(raw):
     The header is defined as the part of the text that comes before the first occurrence of two consecutive newlines, and the main text is defined as the part that comes after these two consecutive newlines.
     Input:
     raw (str): The input raw text to process.
+    file (str): The name of the file being processed.
     Output:
     tuple: A tuple containing the main text (str) and the header (str).
     """
@@ -92,11 +123,12 @@ def extract_header(raw):
     try:
         idx = np.where(diff[:-1] == 1)[0][0]
     except IndexError:
-        print(np.where((diff[:-1] == 1) & (diff[1:] == 1)))
-        raise IndexError("File {} does not have the expected format.".format(file))
+        return raw[idxs[2]+8:].strip(), raw[:idxs[2]]
+        #print(np.where((diff[:-1] == 1) & (diff[1:] == 1)))
+        #raise IndexError("File {} does not have the expected format.".format(file))
     return raw[idxs[idx]+2:].strip(), raw[:idxs[idx]]
 
-def read_files(path, char_dict):
+def read_files(path, char_dict, sparse=False, length = None):
     """
     Reads all files in the specified directory, extracts the header and main text from each file, processes the main text to calculate the frequency of each character in char_dict, and extracts the date from the header to convert it to a float. 
     It returns two lists: one containing the processed data for each file and another containing the corresponding labels (dates as floats).
@@ -106,8 +138,12 @@ def read_files(path, char_dict):
     Output:
     tuple: A tuple containing two lists: the first list contains the processed data for each file, and the second list contains the corresponding labels (dates as floats).
     """
-    data = []
+    data = [] 
     label = []
+    sparse_data = []
+    sparse_rows = []
+    sparse_cols = []
+    row_idx = 0
     for file in os.listdir(path):
         raw = open(os.path.join(path, file), "r", encoding="utf-8").read()
         text, header = extract_header(raw)
@@ -117,16 +153,40 @@ def read_files(path, char_dict):
         preach = 0
         organization = np.nan
         for line in header_lines:
-            if line.split(": ")[1] == "Prædiken":
+            if line.split(": ")[-1] == "Prædiken":
                 preach = 1
             if line.split(": ")[0] == "Organisationer og bevægelser":
                 organization = line.split(": ")[1]
-        text_words = text.split(" ")
-        text_split = split_txt(text_words, 100)
-        for text_part in text_split:
-            data.append(convert_to_data(text_part, char_dict))
+        if length is not None:
+            text_words = text.split(" ")
+            text_split = split_txt(text_words, length)
+            for text_part in text_split:
+                if sparse:
+                    row = convert_to_data_sparse(text_part, char_dict, row_idx, normalize=False)
+                    sparse_data.extend(row[0])
+                    sparse_rows.extend(row[1])
+                    sparse_cols.extend(row[2])
+                else:
+                    row = convert_to_data(text_part, char_dict, normalize=False)
+                    data.append(row)
+                label.append((date_to_float(date), preach, organization))
+                row_idx += 1
+        else:
+            if sparse:
+                row = convert_to_data_sparse(text, char_dict, row_idx, normalize=True)
+                sparse_data.extend(row[0])
+                sparse_rows.extend(row[1])
+                sparse_cols.extend(row[2])
+            else:
+                row = convert_to_data(text, char_dict, normalize=True)
+                data.append(row)
             label.append((date_to_float(date), preach, organization))
-    return data, label
+            row_idx += 1
+    if sparse:
+        data = coo_matrix((sparse_data, (sparse_rows, sparse_cols)), shape=(row_idx, len(char_dict))).tocsr()
+    else:
+        data = np.array(data)
+    return data, np.array(label)
 
 def count_words_in_directory(path):
     """
@@ -205,17 +265,26 @@ def polite_get(url, session, min_delay=0.5, max_delay=1.5, max_retries=5):
 def scrape_tale(r):
     soup = BeautifulSoup(r.text, "html.parser")
     title = soup.find("title").text.strip()
-    date = soup.select_one("time")["datetime"]
+    possible_dates = soup.select("time")
+    for possible_date in possible_dates:
+        if possible_date.has_attr("datetime"):
+            date = possible_date["datetime"]
+            break
     if "T" in date:
         date = date.split("T")[0]
+    err = False
 
     if soup.select("div.speech-topics") == []:
         topic_names = []
         topic_categories = []
         topic_names.append(soup.select("article")[0].select("a")[0].text.strip())
         topic_categories.append("Article Type")
-        topic_names.append(soup.select("article")[0].select("p")[0].text.strip())
-        topic_categories.append("Author")
+        try:
+            topic_names.append(soup.select("article")[0].select("p")[0].text.strip())
+            topic_categories.append("Author")
+        except IndexError:
+            err = True
+            pass
 
         paragraphs = soup.select("article")[0].select("p")[1:]
         text = ""
@@ -243,7 +312,7 @@ def scrape_tale(r):
                 text += node.strip()
                 text += "\n"
 
-    return title, date, topic_categories, topic_names, text
+    return title, date, topic_categories, topic_names, text, err
 
 def sanitize_filename(name, replacement="_"):
     name = unicodedata.normalize("NFKD", name)
@@ -273,7 +342,27 @@ def main_scrape(base_url, speeches_url, save_dir):
         full_url = base_url + speech_url
         print(f"Processing: {full_url}")
         r = polite_get(full_url, session)
-        title, date, topic_categories, topic_names, text = scrape_tale(r)
+        title, date, topic_categories, topic_names, text, err = scrape_tale(r)
+        if err:
+            print(f"Error processing {full_url}: Text not found")
+            continue
         save_tale(title, date, topic_categories, topic_names, text, save_dir)
 
     session.close()
+
+def train_val_test_split(data, labels, val_size=0.2, test_size=0.1):
+    total_size = len(labels)
+    val_count = int(total_size * val_size)
+    test_count = int(total_size * test_size)
+    train_count = total_size - val_count - test_count
+    
+    data_train = data[:train_count]
+    labels_train = labels[:train_count]
+    
+    data_val = data[train_count:train_count + val_count]
+    labels_val = labels[train_count:train_count + val_count]
+    
+    data_test = data[train_count + val_count:]
+    labels_test = labels[train_count + val_count:]
+    
+    return data_train, labels_train, data_val, labels_val, data_test, labels_test
