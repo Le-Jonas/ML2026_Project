@@ -63,6 +63,26 @@ def split_txt(text, length):
     """
     return [' '.join(text[i:i+length]) for i in range(0, len(text), length)]
 
+def calculate_LIX(raw):
+    """
+    Calculates the LIX readability index for the given text. The LIX index is calculated using the formula: LIX = (number of words / number of sentences) + (number of long words * 100 / number of words), where a long word is defined as a word with more than 6 characters.
+    Input:
+    text (str): The input text to analyze.
+    Output:
+    float: The calculated LIX readability index for the input text.
+    """
+    sentences = re.split(r'[.!?]+', raw)
+    words = raw.split()
+    num_sentences = len(sentences)
+    num_words = len(words)
+    num_long_words = sum(1 for word in words if len(word) > 6)
+    
+    if num_sentences == 0 or num_words == 0:
+        return 0.0
+    
+    lix = (num_words / num_sentences) + (num_long_words * 100 / num_words)
+    return lix
+
 def convert_to_data(raw, char_dict, normalize=True):
     """
     Converts the input raw text into a list of frequencies for each character in the char_dict. The frequency is calculated as the count of each character in the raw text divided by the total number of characters counted.
@@ -157,6 +177,8 @@ def read_files(path, char_dict, sparse=False, length = None):
                 preach = 1
             if line.split(": ")[0] == "Organisationer og bevægelser":
                 organization = line.split(": ")[1]
+        lix = calculate_LIX(text)
+
         if length is not None:
             text_words = text.split(" ")
             text_split = split_txt(text_words, length)
@@ -169,7 +191,7 @@ def read_files(path, char_dict, sparse=False, length = None):
                 else:
                     row = convert_to_data(text_part, char_dict, normalize=False)
                     data.append(row)
-                label.append((date_to_float(date), preach, organization))
+                label.append((date_to_float(date), preach, organization, lix))
                 row_idx += 1
         else:
             if sparse:
@@ -180,7 +202,7 @@ def read_files(path, char_dict, sparse=False, length = None):
             else:
                 row = convert_to_data(text, char_dict, normalize=True)
                 data.append(row)
-            label.append((date_to_float(date), preach, organization))
+            label.append((date_to_float(date), preach, organization, lix))
             row_idx += 1
     if sparse:
         data = coo_matrix((sparse_data, (sparse_rows, sparse_cols)), shape=(row_idx, len(char_dict))).tocsr()
