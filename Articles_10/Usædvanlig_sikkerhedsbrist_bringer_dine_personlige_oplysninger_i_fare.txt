@@ -1,0 +1,8 @@
+Title: Usædvanlig_sikkerhedsbrist_bringer_dine_personlige_oplysninger_i_fare
+Date: 2014-04-10
+Article Type: Digitalt
+Author: Jens Anton Bjørnager
+
+Journalist, Politikens netredaktion
+Det er en god idé at sætte opdateringsprogrammet på din computer i gang.
+Sådan lyder rådet fra it-sikkerhedsekspert Henrik Kramshøj, efter udenlandske eksperter tirsdag opdagede en alvorlig brist i en af de mest anvendte sikkerhedsprotokoller på internettjenester og i software til almindelige computere, den såkaldte OpenSSL.

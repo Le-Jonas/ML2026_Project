@@ -1,0 +1,35 @@
+Title: Ordførere_abner_for_mere_digital_overvagning
+Date: 2013-11-13
+Article Type: Digitalt
+Author: Jens Anton Bjørnager
+
+Journalist, Politikens netredaktion
+Mathias Ørsborg Johansen
+Journalist
+Flere af Folketingets partier melder sig klar til at tage et opgør med den nye generation af kriminelle, som bruger computerprogrammet Tor til at gemme sig for politiet.
+Også selvom det kan betyde mere eller nye former for overvågning af almindelige danskerne og deres internetbrug.
+»Vi kan ikke afvise, at der bliver behov for nye former for overvågning«, siger Socialdemokraternes retsordfører, Trine Bramsen. Hun tilføjer dog, at der ikke er konkrete forslag på bordet endnu.
+Meldingen kommer efter et opråb fra politimyndigheder i Danmark og EU. Her siger chef for Europols cybercrimeenhed i Haag, danske Troels Ørting, at politiet ikke kan stille meget op over for den stigende kriminelle aktivitet på Tor.
+»Udviklingen er en stigende brug af Tor blandt kriminelle, og det sætter os altså - ikke fuldstændigt skakmat - men det vanskeliggør politiets arbejde utroligt meget, at man faktisk har en næsten 100 procents mulighed for at kommunikere og distribuere, uden at du kan blive identificeret«, siger han.
+serie - mørkenettet
+Med få klik giver computerprogrammet Tor enhver adgang til et netværk, hvor det er næsten umuligt for andre at følge brugerens digitale fodspor.
+Politiken udforsker internettets skyggesider.
+Også de konservative står klar til at hjælpe med at udvide politiets beføjelser til at overvåge danskerne.
+»Det kan være nødvendigt. Hvis politiet kommer til os og siger, at de skal bruge flere redskaber til at efterforske kriminalitet, så lytter jeg gerne«, siger de konservatives retsordfører, Tom Behnke.
+K: Det er lidt som med spritbilisme
+I dag siger justitsminister Morten Bødskov (S) til Politiken, at han også er lydhør, hvis politiet mangler redskaber til at komme kriminaliteten på Mørkenettet til livs.
+Trine Bramsen mener at vide, at de danske myndigheder i forvejen planlægger at tage flere af de nuværende overvågningsredskaber i brug.
+»Jeg har hørt, at nogle af de redskaber, politiet allerede har, eksempelvis med logningsbekendtgørelsen, at det er noget, man forventer at gøre større brug af i de kommende år«, siger hun.
+Tom Behnke mener, at danskerne er klar til at acceptere mere overvågning, hvis det kan hjælpe politiet. Han sammenligner de danske myndigheders overvågning af internettet med politiets indsats over for spritbilister.
+»Overvågning er jo altid en balancegang, som vi er opmærksomme på. Når Politiet laver razzia op til jul for at fange spritbilister, tror jeg faktisk, at danskerne er glade for politiets indsats. Også selvom langt de fleste ikke har noget at skjule. Sådan tror jeg sådan set også det er med overvågningen af nettet«, siger han.
+S: Lukning af Tor kan være nødvendigt
+Trine Bramsen melder sig også klar til at blokere for adgangen til Tor-netværket, hvis det bliver nødvendigt.
+»Hvis politiet ser det her som en forhindring for deres arbejde, så er det afgørende, at vi får en politisk drøftelse af, om vi politisk kan stille nogle bedre redskaber til rådighed for dem. Eksempelvis ved at blokere for programmer som Tor«, siger hun.
+LÆS OGSÅ
+Sådan virker Tor
+Tor er et computerprogram som giver brugeren mulighed for at skjulte sin identitet på nettet ved at koble sig på Tor-netværket. I øjeblikket er Rusland ved at lukke for adgangen til Tor med henvisning til, at netværket bliver brugt til at dele børnepornografisk materiale, og i Iran forsøger regeringen ligeledes at besværliggøre adgangen til netværket.
+Mathias Ørsborg Johansen
+fortsæt med at læse
+Europol vil bryde krypteringen på mørkenettet
+Microsoft og Google går sammen mod børneporno
+Aktivister kæmper for frihed på mørkenettet

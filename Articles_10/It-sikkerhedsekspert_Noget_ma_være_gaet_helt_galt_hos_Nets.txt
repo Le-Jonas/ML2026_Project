@@ -1,0 +1,8 @@
+Title: It-sikkerhedsekspert_Noget_ma_være_gaet_helt_galt_hos_Nets
+Date: 2014-04-29
+Article Type: Danmark
+Author: Kristian Madsen
+
+Politisk kommentator
+Hvis sikkerhedssystemerne hos Nets og IBM er sat rigtigt op, bør det være en smal sag at finde frem til den medarbejder, der angiveligt i en årrække har fodret ugebladet Se og Hør med de kendtes kreditkortoplysninger.
+Det siger it-sikkerhedsekspert Shehzad Ahmed fra DK-Cert, der rådgiver om databeskyttelse i det offentlige og i private virksomheder, på baggrund af sagens seneste oplysninger

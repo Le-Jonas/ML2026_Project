@@ -1,0 +1,7 @@
+Title: Farlig_sikkerhedsbrist_rammer_ogsa_din_mobil_og_computer
+Date: 2014-04-27
+Article Type: Digitalt
+Author: Karim Pedersen
+
+I starten af april skabte en af de mest alvorlige sikkerhedsbrister nogensinde panik på internettet. Den såkaldte Heartbleed-sårbarhed er en fejl i den meget udbredte OpenSSL-sikkerhedsprotokol, der anvendes på de fleste webservere.
+Hackere kan udnytte hullet til at skaffe sig adgang til brugernes personlige oplysninger hos internettjenester. Det anbefales derfor at udskifte sine kodeord, når det pågældende websted har lukket hullet.

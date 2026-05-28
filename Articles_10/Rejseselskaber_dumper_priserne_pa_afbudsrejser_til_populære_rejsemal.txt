@@ -1,0 +1,7 @@
+Title: Rejseselskaber_dumper_priserne_pa_afbudsrejser_til_populære_rejsemal
+Date: 2013-07-03
+Article Type: Afbudsrejser
+Author: Lea Pagh
+
+Det kræver lidt is i maven og en velvoksen portion eventyrlyst.
+Men måske er der guld i posen - og forhåbentligt ikke en nitte - hvis du pakker tasken og rejser af sted allerede i morgen eller en af de kommende dage.

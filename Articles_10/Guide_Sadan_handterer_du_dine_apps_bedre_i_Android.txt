@@ -1,0 +1,9 @@
+Title: Guide_Sadan_handterer_du_dine_apps_bedre_i_Android
+Date: 2014-03-04
+Article Type: Digitalt
+Author: Morten Bay
+
+Android er fuld af gode genveje og funktioner, der ikke nødvendigvis forklarer sig selv, og som du ikke nødvendigvis selv finder frem til. Men når man først kender dem, gør de livet som Android-bruger meget lettere.
+1.
+Bruge ’Seneste Apps’-funktionen
+Man kan gå baglæns i sine aktiviteter på Android ved at trykke på ’tilbagepilen’. Men hvad nu, hvis man gerne vil tilbage til den app, man brugte for længere tid siden? Dertil har Android en overskuelig liste over dine senest brugte apps. På de fleste Android-telefoner skal du bare holde ’Home’-knappen inde. På enkelte er der en decideret knap til denne funktion, to rektangler lagt oven i hinanden.

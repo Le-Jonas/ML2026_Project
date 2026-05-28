@@ -1,0 +1,6 @@
+Title: Svensk_datatilsyn_er_pa_nippet_til_at_forbyde_Danske_Banks_mobilløsning
+Date: 2013-09-13
+Article Type: Digitalt
+Author: Ifølge det svenske datatilsyn, Datainspektionen, er der alvorlige sikkerhedsbrister i både Nordea og Danske Banks apps til netbank på mobilen.
+
+Hackere kan for let skaffe sig adgang til de meget private oplysninger fra bankernes kunder, skriver svenske svt.se.

@@ -1,0 +1,8 @@
+Title: Skat_undersøger_it-firmaer_efter_to_sikkerhedsbrud
+Date: 2014-05-14
+Article Type: Virksomheder
+Author: Jakob Sorgenfri Kjær
+
+Journalist
+Borgernes fortrolige oplysninger om indkomst, ejendom og skattegæld bliver håndteret af Skat. Men to af myndighedens store it-leverandører, CSC og IBM, har inden for kort tid haft massive sikkerhedsproblemer, som potentielt gav uvedkommende adgang til de personfølsomme oplysninger.
+En rapport fra Center for Cybersikkerhed i juli sidste år om danmarkshistoriens største hackerangreb på CSC oplyser, at angriberne havde adgang til »et meget stort antal systemer« i Skat.

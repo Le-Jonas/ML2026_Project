@@ -1,0 +1,37 @@
+Title: Hackere_Derfor_skal_du_bekymre_dig_om_overvagning
+Date: 2013-11-11
+Article Type: Digitalt
+Author: Jens Anton Bjørnager
+
+Journalist, Politikens netredaktion
+Mathias Ørsborg Johansen
+Journalist
+Overvågningen af internettet har nået et kritisk punkt, hvor den er til fare for demokratiet.
+Det mener jurist Julius Mittenzwei, som er talsmand for Europas største organisation af it-aktivister og hackere, tyske Chaos Computer Club (CCC), som blev grundlagt i 1981. CCC er i Tyskland kendt for at blande sig heftigt i diskussioner om it-sikkerhed og privatliv på nettet.
+Organisationen anbefaler almindelige internetbrugere at benytte sig af mulighederne for at omgå overvågningen.
+»Afsløringerne af NSAs overvågningsprogrammer viser, at der er brug for et redskab som Tor. Og at der er enorm brug for, at helt almindelige mennesker bruger det«, siger Julius Mittenzwei, som er jurist og talsmand for Europas største organisation af it-aktivister og hackere, tyske Chaos Computer Club (CCC).
+Søndag kunne Politiken fortælle om et stigende antal danskere, som bruger anonymiseringstjenesten Tor for at gemme sig for stater og myndigheders overvågning af internettet, og det vækker glæde i CCC.
+Efter næsten seks måneders afsløringer af stater og regeringers logning af vores internettrafik, spørger vi talsmanden for de tyske it-aktivister,
+hvad overvågningen egentlig betyder for helt almindelige mennesker.
+Overvågning kan blive altomfattende
+Blandt de mere prominente brugere af Tor er whistleblowere som Edward Snowden og Julian Assange. Ifølge sommerens omfangsrige læk af fortrolige efterretningsdokumenter fra Snowden står det klart, at den amerikanske sikkerhedstjeneste National Security Agency (NSA) ved stort set alt om vores færden på internettet.
+Samtidig er det kommet frem, at disse oplysninger bliver delt med en række andre efterretningstjenester, og den britiske efterretningstjeneste GCHQ er endda af Snowden blevet beskyldt for at være »langt værre end NSA«.
+CCC har været blandt de skarpeste kritikere af de amerikanske aflytningsprogrammer.
+»Al den information, vi sender igennem internettet, bliver kopieret og lagret hos NSA. I øjeblikket bliver større og større dele af vores daglige liv - ikke kun computere, tablets og mobiler - en del af det samme net«, siger Julius Mittenzwei som peger på, hvordan vores biler, køleskabe, briller og kuglepenne i stigende grad går online.
+Digitale kopier af vores liv
+Derfor kan overvågningen ende med at blive nærmest altomfattende kopier af vores digitale liv.
+»Når en statslig institution har kopier af alle menneskers digitale liv - hvad de laver, hvem de taler med, og hvad de taler om - får en sådan enkeltaktør en helt utrolig magt over samfundet. En sådan centraliseret magt er ikke noget, vi ønsker os i et moderne demokrati«, siger tyskeren.
+LÆS OGSÅ
+It-samurai bekæmper overvågning af internettet
+Han henviser til, at den del af computervidenskaben, som beskæftiger sig med at analysere og finde mønstre i de enorme datamængder, den såkaldte Big Data, er i rivende udvikling.
+»Vi ved reelt ikke, hvad man om få år kan bruge disse enorme mængder data til«, siger han og fortsætter:
+»Denne enorme viden om borgerne i et land skaber en helt ny form for magt. Og det er vores bekymring: Hvis nogen – det kan være NSA, det kan være den tyske regering eller den danske – har magten til at følge med i og have en digital kopi af hele dit liv, hvilke begrænsninger kommer det til at skabe for, hvordan vi om tre eller fem år kan agere som frie mennesker«? spørger Julius Mittenzwei.
+Men langt de fleste har jo ikke noget at skjule, hvad betyder det så?
+»Det handler ikke om, hvad du poster på Facebook. Det meste, vi foretager os online, er totalt irrelevant. Problemet er summen af al dette irrelevante data, som kan bruges til at lave detaljerede modeller for, hvem der kommunikerer med hvem. Og det er ikke irrelevant, hvis man eksempelvis er en efterretningstjeneste« siger Julius Mittenzwei og fortsætter:
+»Jeg er ikke interesseret i, at nogen har den her slags magt. Ikke af hensyn til min egne personlige data, men for hele det demokratiske samfunds skyld. For vi kan ikke garantere, at de (regeringerne, red.) er lige så demokratiske om femten år, som de er lige nu«, siger Julius Mittenzwei og sætter overvågningen i tysk perspektiv.
+»Jacob Appelbaum (amerikansk internetaktivist og Tor-programmør, red.) kom på et tidspunkt med en passende sammenligning: Hvis tyskerne havde haft disse redskaber, havde holocaust været et spørgsmål om dage«.
+Mathias Ørsborg Johansen
+fortsæt med at læse
+Hackere til leje kan afsløre sjusket it-sikkerhed
+Europol vil bryde krypteringen på mørkenettet
+Nu kan man skrive ny kulturhistorie på sekunder

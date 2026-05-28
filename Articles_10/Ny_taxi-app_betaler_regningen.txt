@@ -1,0 +1,7 @@
+Title: Ny_taxi-app_betaler_regningen
+Date: 2013-10-03
+Article Type: Digitalt
+Author: Søren Dilling
+
+Udviklingen inden for mobil betaling stormer frem i øjeblikket inden for mange områder, og især inden for transport har mobil betaling allerede haft sit gennembrud i form af for eksempel sms-billetter og DSB's billetapp.
+Nu er turen kommet til taxi-turen, hvor et selskab tilbyder betaling og kvittering integreret i appen.

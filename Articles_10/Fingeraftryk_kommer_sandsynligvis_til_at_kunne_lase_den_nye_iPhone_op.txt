@@ -1,0 +1,7 @@
+Title: Fingeraftryk_kommer_sandsynligvis_til_at_kunne_lase_den_nye_iPhone_op
+Date: 2013-08-01
+Article Type: Digitalt
+Author: Søren Dilling
+
+De kommende versioner af Apples iPhone har tilsyneladende indbygget en fingeraftrykslæser.
+Det afslører et kig i koden bag betaudgaven af styresystemet iOS7, skriver it-mediet 9to5mac.com

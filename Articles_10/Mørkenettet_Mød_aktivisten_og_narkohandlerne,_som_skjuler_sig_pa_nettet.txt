@@ -1,0 +1,95 @@
+Title: Mørkenettet_Mød_aktivisten_og_narkohandlerne,_som_skjuler_sig_pa_nettet
+Date: 2013-11-10
+Article Type: Digitalt
+Author: Jens Anton Bjørnager
+
+Journalist, Politikens netredaktion
+Mathias Ørsborg Johansen
+Journalist
+Forestil dig, at du med et svirp fra en tryllestav kunne gøre dig usynlig. I cyberspace kan det blive virkelighed.
+Med musen som tryllestav kan man med få klik iføre sig en digital usynlighedskappe og surfe på nettet, uden at hverken politi, udenlandske magter, efterretningstjenester eller teleudbydere har nogen chance for at følge med. Usynlighedskappen er et gratis computerprogram ved navn Tor.
+En af dets brugere hedder Jan Møller. Han bor på Vesterbro, og han er en besindig mand. Men på et enkelt punkt har Jan Møller fået nok, fortæller han, lænet tilbage ved spisebordet i sin lejlighed.
+Han er 48 år og hverken terrorist, pædofil eller narkohandler. Alligevel vil han ikke finde sig i den omfattende overvågning af hans digitale liv.
+»Jeg har ikke noget at skjule, men jeg synes ikke, det er i orden. Derfor føles det godt at gøre noget aktivt imod det«, siger han.
+Jan Møller begyndte for to år siden at bruge computerprogrammet Tor, når han koblede sig på internettet. Programmet har den egenskab, at det skjuler det digitale fingeraftryk, ip-adressen, man under normale omstændigheder sætter på de hjemmesider, man besøger.
+Tor-programmet bruger han i protest. Jan Møller har boet i bofællesskab i mange år, før han flyttede ind til byen. Og det har altid ligget til ham at være i opposition – om det så har været til invasionen af Irak eller til banker med flosset moral.
+Han bliver harm, når der bliver trampet på den lille mand, fortæller han. Det mener han er tilfældet med overvågningen.
+»Hvis vi nu var flere, som gjorde oprør og brugte de her hemmelige veje, som eksempelvis Tor, ville det måske til sidst gå op for myndighederne, at den her overvågning ikke giver mening«, siger Jan Møller, uddannet maskinarbejder. I dag har han job som selvlært programmør i et it-firma.
+Sommerens afsløringer af særligt den amerikanske efterretningstjeneste NSA’s omfattende overvågning af telefoner og internetbrugeres færden har fået ham til at overveje yderligere tiltag.
+»Det har givet mig endnu mere lyst til at slå kontra og begynde konsekvent at sende mine mail krypteret og permanent bruge Tor til at surfe på nettet«, siger Jan Møller. Næste skridt er at skifte telefon.
+»Jeg bruger en smartphone i dag, men det er i virkeligheden ikke særlig smart. De seneste Snowden-læk har fået mig til at beslutte, at jeg skal have købt mig en gammel Nokia, og så skal jeg sælge min smartphone til nogen, som gider bruge den«, siger han og kommer pludselig i tanke om George Orwells roman om overvågningssamfundet, ’1984’.
+»Det er ufatteligt, hvordan han for så mange år siden kunne se alle de ting«.
+Som Orwells roman kritiserer Jan Møller den brede overvågning af borgerne. Men på samme tid har han forståelse for, at politiet også skal passe sit arbejde.
+»Folk, der surfer børneporno – det er fedt, at de bliver fanget. Det er fedt, når ubehagelige kriminelle og terrorister ryger bag tremmer«, siger Jan Møller.
+Men jagten på dem retfærdiggør ikke overvågningen, siger han.
+»Det kan sammenlignes med trafikken på vejene, hvor folk eksempelvis kører for stærkt. Men vi skal jo ikke alle sammen have vores trafikvaner overvåget af den grund. Der er et eller andet, som ikke hænger sammen med overvågningen af internettet. Balancen er tippet«, siger Jan Møller og ryster på hovedet:
+»Det er simpelthen gået over gevind«.
+De usynlige danskere
+Tor-programmet, som Jan Møller bruger til at blive usynlig på nettet med, bliver flittigt brugt af kriminelle. For ud over at skjule brugerens identitet giver Tor også adgang til et parallelt internet, mørkenettet, og blandt andet lyssky forretninger som den berygtede hjemmeside The Silk Road, der i årevis har fungeret som fri markedsplads for narkotika.
+Det amerikanske forbundspoliti, FBI, anholdt 1. oktober den formodede ejer af The Silk Road, verdens største skjulte markedsplads for narkotika på internettet. Hjemmesiden blev lukket ned, og den 29-årige mand RWU blev anholdt i USA og står nu tiltalt for handel med narkotika, hvidvask af penge, hacking samt forsøg på at bestille et lejemord. RWU forsøgte angiveligt at få likvideret en af hjemmesidens narkosælgere, som afpressede RWU.
+Igennem tre år voksede The Silk Road i størrelse, mens FBI ihærdigt forsøgte at tage siden ned. På trods af tidligere mistanker om, at det endelig var lykkedes FBI at hacke Silkevejen, har det siden hen vist sig, at det var kluntede begynderfejl, som førte til forbundspolitiets gennembrud.
+The Silk Road indbragte ifølge en britisk undersøgelse bagmanden omkring en halv million danske kroner om måneden. Seneste nyt i sagen er, at en tro kopi af The Silk Road i sidste uge igen dukkede op på det parallelle internet med præcis det samme navn og logo.
+På mørkenettet handles åbent med alskens ulovlige effekter; falske pengesedler, falske identiteter, narkotika, våben, børnepornografi, stjålne Apple-produkter, andre folks kreditkortoplysninger – man kan endda leje en hacker eller en lejemorder.
+Det parallelle internet virker kort sagt skræddersyet til ulovligheder. Men mørkenettet er i virkeligheden en senere tilføjelse til Tor-projektet, som oprindeligt blev skabt som et værktøj til at beskytte privatliv på internettet.
+Et værktøj, som kun er vokset i popularitet i takt med afsløringerne af efterretningstjenesternes overvågning. Også herhjemme vokser antallet af brugere hastigt.
+Danskerne har taget Tor til sig med samme iver som befolkninger i andre lande. Målt på antallet af daglige brugere koblede godt 450 danskere sig til netværket i 2009, og de foreløbige tal for 2013 nærmer sig en tredobling. Tallene bliver offentliggjort af The Tor Project selv, og selvom amerikanernes kamp for digital anonymitet udgør rygraden i netværkets eksistensgrundlag, er opdateringer af brugertal og en udbredt åbenhed om netværkets brug en fast del af den daglige drift af Tor.
+Vægter man de forskellige landes brug af Tor i forhold til væsentlige nuancer som befolkningstal og andel af borgere, som ifølge Verdensbanken har adgang til internettet, kommer Danmark ind som nummer 55 på listen over nationer med flest Tor-brugere, som tæller i alt 186 lande. Vi ligger et stykke bag svenskerne, som er nummer 31 på listen. Nordmændene tager en 40. plads, mens Tyskland, Frankrig og Holland ligger på plads nr. 16 til 18. På førstepladsen ligger USA.
+Udvikler den danske interesse for Tor sig i samme hast, som den hidtil har gjort, vil netværket få danske besøgende omkring 630.000 gange i hele 2014.
+Ingen betjente – bare bluesmusik
+Et stigende antal danskere bruger altså Tor. Men ikke alle skyggedanskere er privatlivsaktivister som Jan Møller.
+Politiken har været i kontakt med tre danske personer, som solgte narkotika igennem The Silk Road-hjemmesiden, før den blev lukket ned. Tilsammen stod de ifølge hjemmesidens statistik bag 1.000 narkohandler. Flere af sælgerne har siden lukningen fortsat deres forretning på andre sider på det skjulte internet.
+Ingen af sælgerne har ønsket at mødes i den virkelige verden eller oplyse om deres identitet. Det har derfor kun været muligt at interviewe dem anonymt over krypteret mail. Her fortæller de om deres tilgang til kriminaliteten.
+»Jeg er ikke stolt over at være kriminel, jeg nyder det ikke. Jeg ville meget hellere have et mere almindeligt arbejde«, skriver en cannabissælger, der kalder sig ’Medicinplante’.
+En anden sælger, ’Mr. Lucy’, distancerer sig fra sine kolleger på det almindelige stofmarked.
+»Jeg omgås ikke med organiserede kriminelle i Danmark, så du vil ikke finde mig i et vietnamesisk, rocker- eller bandeklubhus. Min kokain kommer direkte fra Peru. Jeg handler med en anonym mellemmand her i Europa, som jeg ikke kender identiteten på«, skriver Mr. Lucy, som mener, at gadesælgerne giver narkotika og brugerne deraf et dårligt rygte med deres vold og elendige produkter.
+»Det føles godt at vide, jeg har reddet nogen fra fortyndet og beskidt gadenarko«.
+Mr. Lucy bakkes op af narkohandleren med internetpseudonymet ’Nordic Shrooms’:
+»Silkevejen fjerner stofferne fra gaderne. Der er så meget vold, særligt banderelateret, som opstår, fordi man vil kontrollere narkomarkedet«, skriver Nordic Shrooms.
+Sælgerne på mørkenettet gør meget for at undgå, at pakkerne bliver opsnappet af postvæsen eller toldbetjente. Eksempelvis pakker de narkoen i pulverform i en lille plastikpose med hurtig-luk. Derefter vaskes plastikposen med sprit eller opvaskemiddel og vakuumpakkes for at snyde toldernes hunde. Særligt omhyggelige sælgere kan finde på at tilføje endnu et lag vakuumpakning.
+Langt de fleste pakker når frem til køberne, fortæller de danske sælgere.
+Post Danmark afviser både herhjemme og på hovedkontoret i Sverige at kommentere de ulovlige forsendelser.
+’Medicinplante’ slutter sin mail til Politiken af med at beskrive sin arbejdsdag:
+»Jeg sidder i lænestolen med en kop varm te i hånden, mens jeg lytter til noget bluesmusik. Kuverterne er klar, og i morgen kommer Post Danmark med medicinen. Jeg sletter alle sporene, kundernes leveringsadresser bliver ekspederet hurtigt og effektivt, alt forsvinder. Her er ingen narkokrig, ingen sure betjente, ingen onde gangstere, kun dejlig bluesmusik«, skriver Medicinplante.
+En af de danskere, som har benyttet sig af narkohandlernes webbutikker, er Nikolaj. Vi møder ham på et kontor ved Forum Station i København.
+Han er over for sin familie og de fleste af sine venner åben omkring sit fritidsforbrug af narkotika. Men han medvirker i artiklen her på betingelse af anonymitet af hensyn til sin fremtidige karriere.
+»Det er vist det her, I gerne vil høre om«, siger han med et lille smil og fisker en plastikpose, et stykke papir og et usb-stik op fra bukselommen. Han lægger tingene på bordet. De brungule saltkrystaller i den gennemsigtige pose er stoffet MDMA, bedre kendt som hovedingrediensen i ecstasy.
+»Sådan ser det altså ud«, konstaterer han og piller lidt ved posen.
+Som at gå ind i ’The Matrix'
+Nikolaj har købt stoffet på det skjulte internet, man får adgang til via Tor, og det er det program, der ligger på hans usb. På papiret står et brugernavn og en kode til hans konto på The Silk Road.
+26-årige Nikolaj ligner i øvrigt ikke en narkomisbruger; moderigtige kondisko, en løs sweater og en sund farve i kinderne. Faktisk ville han med største lethed blende ind på en af de videregående uddannelser i København. Det gør han også til daglig. Hans straffeattest er ren, og indtil for nylig begrænsede hans erfaring med narkotika sig til, at han røg »en joint en gang imellem«.
+Nikolaj fik sin debut med hårdere narkotika i foråret 2013, hvor han prøvede det euforiserende stof MDMA. Han beskriver det som »følelsen, man har, sekundet før man for første gang kysser den pige, man er forelsket i. Der, hvor det hele bobler, og man ikke kan holde det tilbage«.
+»Det var overvældende, og det var en gamechanger for mig«, siger Nikolaj. Bagefter brugte han lang tid på at læse om stoffet, og et par måneder efter oplevelsen fik han lyst til at prøve igen. Men hvordan?
+»Jeg kender ikke nogen, som sælger stoffer. Jeg kender måske nogen, som kender nogen, som kender en pusher. Men så står du der og ved ikke, hvor meget du får, eller hvor rent det er, og det er for dyrt«, siger Nikolaj. Han fortsætter:
+»En ven foreslog mig en dag at prøve på Silkevejen. Så jeg satte mig ind i, hvad Tor er, og hvad Silkevejen er, og jeg fandt guides for, hvordan man på en sikker måde køber stoffer her og minimerer sin egen risiko. Det brugte jeg lang tid på«, siger han. Hurtigt fandt han vej til Silkevejens skjulte hjemmeside.
+»Det var ligesom at gå ind i ’The Matrix’. Det var syret og spændende. Og lidt eksotisk, for du ser alle de her billeder af forskellige rusmidler«, siger han.
+Derfra gik det stærkt. Bevæbnet med sin usb-stik og et kendskab til computere, der med egne ord er »lidt over middel«, lykkedes det ham at åbne en bitcoin-konto og overføre 500 kroner til den fra sin netbank. Bitcoin er en digital internetvaluta, som opretholdes alene af brugernes tillid til deres værdi. Derfra førte Nikolaj pengene videre, først til en anonym onlinekonto og derefter til sin bruger på Silkevejen. Alt sammen for at undgå, at narkohandlen kunne spores tilbage til ham.
+»Jeg ville gerne være helt sikker, i tredje potens«, siger han. Usb-stikket tjente samme formål, for i yderste konsekvens ville der ikke være noget kriminelt at finde på hans computer. Nikolaj følte sig klar til at købe hård narkotika for første gang i sit liv. På Silkevejen fandt han en MDMA-sælger fra Danmark, som havde fået topkarakter af 50 tidligere købere på siden. Prisen var god, og han slog til.
+»Det var som at handle på Amazon, selv om det i dette tilfælde var lidt mere grænseoverskridende at skrive mit navn og min adresse til sælgeren. Men jeg gjorde det. 2200 København. O.k. Køb«.
+Ti dage senere lå det der. Et lille brev, stemplet af postvæsenet i Østjylland og med dronning Margrethe på forsiden. Inde i brevet lå den lille plastikpose, vakuumpakket.
+Planen var en succes, og Nikolaj har ingen skrupler:
+»Jeg har den liberalistiske tilgang til livet, at ens frihed går til det punkt, hvor den skader andre. Så nej, jeg føler mig ikke specielt kriminel«.
+Et misbrugt værktøj
+Danskere både køber og sælger narkotika i det skjulte med Tor som digital usynlighedskappe. Og på verdensplan er der ingen tvivl om, at særligt den organiserede kriminalitet har fundet vej til mørkenettet.
+Alligevel mener it-sikkerhedsekspert Henrik Kramshøj, at det er et onde, vi må leve med. Til daglig er han direktør i it-virksomheden Solido Networks, som blandt andet udlejer serverplads til flere af de store danske virksomheders hjemmesider.
+Henrik Kramshøj er selv erklæret tilhænger af Tor, og han anbefaler direkte folk at bruge programmet for at omgå overvågningen af internettet.
+»Tor er et værktøj, som ganske rigtigt bliver misbrugt. Men det gør alle værktøjer desværre. Der har altid været kriminelle, og i nogle grupper vil der være folk, som forsøger at udnytte teknologien til kriminelle formål for egen vindings skyld«, siger Henrik Kramshøj.
+Den statslige kontrol med internettet skræmmer ham mere, end at organiserede forbrydere har frit spil i cyberspace.
+»For mig er det mere ubehageligt at tænke på, at man faktisk overvåger hele et lands befolkning, og hvad det fører med sig af selvcensur«, siger han.
+Han bakkes op af sikkerhedsforsker Luke Herbert, som underviser i computersikkerhed på DTU og i årtier har fulgt det digitale undergrundsmiljø i Danmark.
+Luke Herbert fortæller, at det i praksis er noget nær umuligt at lukke ned for adgangen til Tor og mørkenettet.
+»Vi kan gøre lige så lidt ved Tor, som vi kan ved en tsunami, der skyller ind over Danmark. Man vil gerne se de her kriminelle ting forhindret. Men hvis man vil have metoder, hvor folk frit kan udveksle information, så dukker de her ting op. Det er selvfølgelig ærgerligt, men det er prisen for ytringsfriheden«, siger Luke Herbert. Han minder om, at Tor også er et vigtigt værktøj for bloggere og menneskerettighedsaktivister i de dele af verden, hvor ytringsfrihed ikke er en selvfølge.
+»Tor er i bund og grund ikke anderledes, end da vi opfandt postvæsenet, der gjorde det muligt at sende vrede breve, lige så vel som det blev muligt at sende kærestebreve til hinanden«, siger Luke Herbert.
+Hjemme hos Jan Møller, i den pæne ende af Vesterbro, driller hans kæreste ham med hans lidt paranoide forhold til internettet.
+»Du har sgu altid været mærkelig med det der«, vrænger hun for sjov på vej ud i køkkenet, hvor hun rumsterer med gryderne. Jan Møller trækker på smilebåndet.
+»Det kan hun jo godt have ret i«, siger han.
+»Jeg kan selvfølgelig ikke frasige mig at gå rundt med en sølvpapirshat på. Der er mange, som siger til mig, at jeg skal slappe af. »Der sker jo ikke noget, Jan; det er ikke så farligt; hvad har du at skjule?«, siger de. Hvem ved, måske er det mig, der er håbløst bagstræberisk«, siger Jan Møller.
+Tingene hænger ikke sammen
+Men noget i ham siger ham noget andet. Edward Snowdens afsløringer kom heller ikke det mindste bag på ham.
+»Den begrundelse, der bliver givet for, at der skal logges så meget«, begynder Jan Møller, men stopper op midt i sætningen.
+»Tingene hænger bare ikke sammen. Der må være nogen, som har en interesse i at holde øje med, hvad vi laver«, siger han.
+»En interesse, som ikke kun er at fange alle de onde«.
+Mathias Ørsborg Johansen
+fortsæt med at læse
+Amazon vil sætte droner i luften for at levere varer på en halv time
+Bitcoin stiger med raketfart lige som tulipanerne i 1637
+Flere kokain-kunder har meldt sig selv til politiet

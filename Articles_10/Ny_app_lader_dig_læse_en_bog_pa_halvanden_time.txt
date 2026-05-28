@@ -1,0 +1,8 @@
+Title: Ny_app_lader_dig_læse_en_bog_pa_halvanden_time
+Date: 2014-03-07
+Article Type: Bøger
+Author: Emil Bergløv
+
+Reporter
+Det kræver koncentration, men det kan lade sig gøre.
+Med en app, som den amerikanske softwareudvikler Spritz har udviklet, kan det lade sig gøre, at læse op til 500 ord i minuttet.

@@ -1,0 +1,6 @@
+Title: Følsomme_dankort-oplysninger_kan_havne_i_udlandet
+Date: 2014-02-13
+Article Type: Virksomheder
+Author: Der er god grund til at tænke sig om, før Nets, der står bag dankortet, betalingsservice og NemID, får mulighed for at rykke servere med store mængder personfølsomme oplysninger til udlandet.
+
+Nets er i gang med at blive solgt, men den nuværende lovgivning kan ikke forhindre, at serverne bliver flyttet til lande, hvor myndighedskontrol bliver svær. Og det kan gå ud over datasikkerheden, skriver Berlingske.

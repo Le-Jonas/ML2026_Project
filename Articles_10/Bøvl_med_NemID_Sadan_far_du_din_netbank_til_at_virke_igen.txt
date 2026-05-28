@@ -1,0 +1,7 @@
+Title: Bøvl_med_NemID_Sadan_far_du_din_netbank_til_at_virke_igen
+Date: 2013-10-16
+Article Type: Digitalt
+Author: Søren Dilling
+
+NemID har været nede siden tirsdag aften, meddeler Nets, som står for driften af danskernes digitale indgang til personlige oplysninger i netbanker og på offentlige hjemmesider.
+Fejlen skyldes, at NemID ikke spiller sammen med den seneste opdatering af programmet Java, som bruges i selve indlognings-seancen, hvor man skal skrive sit brugernavn, kode og nøgle fra papkortet ind.

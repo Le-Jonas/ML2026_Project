@@ -1,0 +1,7 @@
+Title: Microsoft_lukker_sikkerhedshul_-_ogsa_for_Windows_XP-brugere
+Date: 2014-05-02
+Article Type: Digitalt
+Author: Søren Dilling
+
+Nu har Microsoft lukket det alvorlige sikkerhedshul, som blev opdaget i forrige weekend i samtlige versioner af browseren Internet Explorer.
+Det skete med en opdatering, som blev sendt ud i nat dansk tid, og meddelelsen blev givet på Microsofts officielle blog.

@@ -1,0 +1,10 @@
+Title: NSA-dokumenter_Dansk_datacenter_tapper_det_danske_internet_for_os
+Date: 2013-11-25
+Article Type: Digitalt
+Author: Mathias Ørsborg Johansen
+
+Journalist
+Claus Blok Thomsen
+Nordisk korrespondent
+Et sted i Danmark står der angiveligt en server i et såkaldt datacenter, som i dybeste hemmelighed leverer oplysninger om datatrafikken på internettet til den amerikanske efterretningstjeneste NSA.
+Det fremgår af lækkede NSA-dokumenter, som i weekenden blev refereret i den amerikanske avis New York Times.

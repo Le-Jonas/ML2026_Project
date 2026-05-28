@@ -1,0 +1,9 @@
+Title: Guide_Minimer_risikoen_ved_at_bruge_Java_med_dit_NemID
+Date: 2013-10-19
+Article Type: Digitalt
+Author: Signe Thomsen
+
+Journalist
+Som dansker er det svært helt at undgå at have Java installeret på sin computer. I hvert fald, hvis man gerne vil slippe for at gå på biblioteket eller besøge Borgerservice, hver gang man skal på netbank eller i kontakt med offentlige myndigheder.
+LÆS ARTIKEL
+Eksperter: Andre lande tør ikke bruge Java på grund af de mange sikkerhedshuller

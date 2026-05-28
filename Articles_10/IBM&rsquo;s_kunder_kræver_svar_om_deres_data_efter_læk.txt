@@ -1,0 +1,10 @@
+Title: IBM&rsquo;s_kunder_kræver_svar_om_deres_data_efter_læk
+Date: 2014-05-09
+Article Type: Virksomheder
+Author: Sofie Buch Hoyer
+
+Journalist
+Jakob Sorgenfri Kjær
+Journalist
+It-afdelingerne hos myndigheder og virksomheder har fået travlt i takt med den rullende sag om lækager fra Nets via en IBM-ansat.
+Eftersom den sigtede i Nets-lækagesagen øjensynligt har haft adgang til en lang række andre databaser fra sin tidligere position som systemadministrator i IBM, har kunderne afkrævet IBM klare svar om sikkerhedsforholdene i deres driftssystemer.

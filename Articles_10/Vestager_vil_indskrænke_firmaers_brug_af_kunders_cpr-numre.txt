@@ -1,0 +1,6 @@
+Title: Vestager_vil_indskrænke_firmaers_brug_af_kunders_cpr-numre
+Date: 2013-06-28
+Article Type: Digitalt
+Author: Økonomi- og indenrigsminister Margrethe Vestager (R) vil lukke ned for virksomheders mulighed for at bruge cpr-numre som en validering af personers identitet.
+
+I stedet bør virksomhederne gå over til at benytte NemID, siger ministeren på et åbent samråd om hackerangrebet på politiets centrale registre.

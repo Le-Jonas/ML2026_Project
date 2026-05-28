@@ -1,0 +1,42 @@
+Title: Tor-brugerne_kryber_i_skattely_pa_mørkenettet
+Date: 2013-11-14
+Article Type: Dansk økonomi
+Author: Jens Anton Bjørnager
+
+Journalist, Politikens netredaktion
+Mathias Ørsborg Johansen
+Journalist
+Mørkenettet er tilsyneladende blevet skjulested for lyssky pengestrømme.
+Politiken har i serien om mørkenettet beskrevet, hvordan flere og flere bruger Tor til at gemme sig for overvågningen af deres internetbrug, og hvordan politiet er nærmest magtesløse over for de kriminelle elementer, som også benytter sig af anonymiseringstjenesten.
+Nu viser en analyse af datatrafikken på netværket, at Tor er mere end almindeligt populært i lande, man normalt forbinder med skattely. Kilder bekræfter, at Tor er blevet et populært redskab for skatteundragere verden over.
+I analysen har Politiken undersøgt netværkets brugerstatistik. The Tor Project opgør dagligt, hvor mange brugere som har koblet sig på Tor på landebasis, og det er disse anonyme brugerstatistikker, som ligger til grund for analysen.
+fkata
+Sådan gjorde vi
+Undersøgelsen samkører brugerstatistikkerne og tager højde for befolkningstal i de forskellige lande og andel af befolkningerne, som har adgang til internettet, og her viser sig en tendens.
+Hvidvask og skjulte konti
+Lande som Seychellerne, San Marino, Andorra, Caymanøerne, Luxembourg og Lichenstein er tungt repræsenteret i toppen af listen - alle har mere end dobbelt så mange daglige brugere som gennemsnittet. I alt ni lande, som rimer på skattely, stikker ud.
+Troels Ørting, som er chef for Europols Cyberkriminalitetsenhed, EC3, fortæller, at man for nylig er blevet opmærksom på tendensen.
+serie - mørkenettet
+Med få klik giver computerprogrammet Tor enhver adgang til et netværk, hvor det er næsten umuligt for andre at følge brugerens digitale fodspor.
+Politiken udforsker internettets skyggesider.
+»Jeg kan bekræfte, at vi arbejder i det spor, men det er relativt nyt for os«, siger han og forklarer, hvordan den anonyme internetvaluta bitcoins, Tor og lande med gunstige skatteforhold udgør en »giftig cocktail« for ordensmagten.
+»Vi kan se, hvordan det bliver mere og mere populært at gemme sine penge alle mulige steder bag meget stærk kryptering, som vi har store problemer med. Når det samtidig foregår på Tor, hvor det er utroligt svært at identificere folk, så bliver det for alvor vanskeligt. Og det er naturligvis en stor fordel at gøre det i lande med gunstige skatteforhold,« siger han.
+Pilen peger på gambling og organiseret kriminalitet
+Forsker ved DTU Compute, Luke Herbert, har gennemgået resultaterne af Politikens undersøgelse, og han har en række teorier om den massive Tor-trafik i landene.
+»Det er helt oplagt, at det forholder sig sådan, men det er bestemt interessante og helt nye oplysninger. En teori kunne være, at der er tale om gambling-sider, der vælger at omdirigere den indkommende trafik til Tor i netop disse lande. Det vil nemlig også muliggøre, at man kan tilbyde gambling i lande, hvor sådanne sider er forbudt og blokeret«, siger han.
+Metoden er teknisk kompliceret, men bagmændende behøver ikke forholde sig til mere, end at man kan tilbyde sine services til markeder, hvor gambling er ulovligt, og samtidlig ruller fortjenesten ind i en virksomhed, hvor skattetrækket er lavt.
+»Samtidig kan man ikke udelukke, at der er nogle mere eksotiske aktører i spil. Det ville ikke undre mig, hvis nogle af de store banker har fundet på et eller andet smart handelssystem, som de ikke har lyst til at dele med resten af verden«, siger Luke Herbert.
+Verdens største sag om hvidvask af penge
+Det er ikke første gang, at Tor er blevet sat i forbindelse med store illegale pengestrømme.
+28. maj i år pågreb spanske myndigheder bagmanden bag online-bankvirksomheden Liberty Reserve, som ifølge de amerikanske myndigheder siden 2006 har tjent som en gigantisk hvidvaskningscentral for organiserede kriminelle.
+Amerikanerne mener at vide, at Liberty Reserve i alt har hvidvasket, hvad der svarer til 33,8 milliarder danske kroner, og sagen bliver omtalt som den største om hvidvaskning af penge nogensinde. Valutaen var et almindeligt betalingsmiddel på Tor.
+LÆS OGSÅ
+Mørkenettet: Mød aktivisten og narkohandlerne, som skjuler sig på nettet
+Ifølge anklageskriftet mod bagmanden, Arthur Budovsky, tilbød Liberty Reserve i årevis sine kunder hvidvaskning af penge gennem anonymiserede bankoverførsler. Ved at veksle almindelig valuta til firmaets egen, den selvopfundne Liberty Reserve-valuta, og tilbage igen via stråmænd i andre lande, blev det stort set umuligt at spore, hvor pengene i sidste ende var kommet fra.
+Troels Ørting forklarer, at gambling er i Europols søgelys, fordi det er en populær måde at vaske penge hvide på. Han mener også, at Tor-brugernes hang til at operere fra skattely kan være en pendent til sagen om Liberty Reserve.
+»Jeg tror, at der er langt større fisk på spil end almindelige mennesker, som gambler. Det er en fornuftig teori, men man må ikke være i tvivl om, at dette her er ligeså attraktivt at bruge for organiserede kriminelle«, siger han.
+Mathias Ørsborg Johansen
+fortsæt med at læse
+Skattesvindlere flygter fra skattely
+Europol vil bryde krypteringen på mørkenettet
+Frihedskæmper: »Tor er det perfekte værktøj«

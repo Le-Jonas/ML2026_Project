@@ -1,0 +1,6 @@
+Title: Der_kan_ga_op_til_48_timer,_før_dit_NemID_virker_igen
+Date: 2013-10-16
+Article Type: Digitalt
+Author: En del af danskerne må vente op til to døgn, før de igen kan bruge NemID. Nets forventer at have løst problemet med den seneste Java-opdatering, der har sendt NemID til tælling, inden for 48 timer.
+
+Herefter skal Nets forklare sig over for Digitaliseringsstyrelsen, siger Cecile Christensen, kontorchef i Digitaliseringsstyrelsen. Nets har udviklet NemID til adgang til såvel offentlige hjemmesider som netbankerne.

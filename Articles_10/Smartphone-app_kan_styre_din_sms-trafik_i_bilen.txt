@@ -1,0 +1,7 @@
+Title: Smartphone-app_kan_styre_din_sms-trafik_i_bilen
+Date: 2013-08-13
+Article Type: Digitalt
+Author: Søren Dilling
+
+Er det for svært at holde fingrene fra mobiltelefonen under kørslen, når der tikker en sms ind, eller du bliver ringet op, kan en app til Android-smartphones nu hjælpe.
+Den hedder StilleZone og lukker simpelthen alle lyde ude og sender et svar til afsenderen af sms'en, som ejeren selv kan skrive. For eksempel kunne den lyde, Jeg er ved at køre bil men vender tilbage så hurtigt som muligt.

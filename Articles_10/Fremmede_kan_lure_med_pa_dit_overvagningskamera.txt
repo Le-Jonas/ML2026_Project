@@ -1,0 +1,8 @@
+Title: Fremmede_kan_lure_med_pa_dit_overvagningskamera
+Date: 2013-12-04
+Article Type: Digitalt
+Author: Jens Anton Bjørnager
+
+Journalist, Politikens netredaktion
+Fritidshackere og it-kriminelle kan potentielt lure med, når det går hedt for sig i dit soveværelse eller din stue, hvis værelset er udstyret med et såkaldt ip-overvågningskamera.
+I de grelleste tilfælde kan kameraerne afsløre brugernavne og koder til private emailkonti, trådløse netværk og eventuelle ftp-servere, man har sat op i hjemmet eller i sin virksomhed.

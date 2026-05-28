@@ -1,0 +1,34 @@
+Title: Stadig_flere_gemmer_sig_for_digital_overvagning
+Date: 2013-11-09
+Article Type: Digitalt
+Author: Jens Anton Bjørnager
+
+Journalist, Politikens netredaktion
+Mathias Ørsborg Johansen
+Journalist
+Et klik, og du er usynlig.
+Hver dag vælger mere end en halv million mennesker verden over at logge på computerprogrammet Tor som en anonym omvej gennem cyberspace for at undgå at videregive oplysninger om sit digitale liv til stater, internetudbydere og virksomheder. Af den halve million bliver flere danskere. Mere end 1.400 gange dagligt kobler danske computere sig på netværket – en fordobling siden 2011.
+Forsker ved Dansk Institut for Menneskerettigheder og ph.d. i internetprivatliv Rikke Frank Jørgensen opfatter danskernes stigende interesse for at skjule deres identitet på nettet som en modreaktion.
+»For mange er tilliden til internettet smuldret, og derfor vælger de at sætte sig ind i metoder, som beskytter mod overvågning «, siger hun.
+Computerprogrammet Tor kan sammenlignes med en digital usynlighedskappe. Det kobler brugeren på et anonymt netværk, som krypterer og skjuler de digitale fodspor. Derfor er Tor i høj grad også attraktivt for kriminelle.
+Danmark i hastig vækst
+Siden 2009 er verdens internetbrugere ifølge Tors egne tal gået på netværket mere end en halv milliard gange. Herhjemme er den digitale usynlighedstrend steget kraftigt siden 2010, og stigningen overgår netop nu den tilsvarende stigning på verdensplan. Fortsætter tendensen, vil netværket få besøg fra Danmark omkring 640.000 gange i 2014.
+»Rigtig mange har fået et wake-up call omkring, hvor mange informationer om sig selv de videregiver til myndigheder og virksomheder«, siger Rikke Frank Jørgensen: »I Danmark har vi haft en meget ubekymret tilgang til problemstillingen, så det er positivt, at flere bliver opmærksomme på at beskytte sig«.
+Blandt de prominente brugere af Tor er whistleblowere som Julian Assange og Edward Snowden, der tidligere på året afslørede, at USA’s sikkerhedstjeneste NSA overvåger stort set al færden på nettet.
+LÆS OGSÅ
+Herhjemme blev der sidste år registreret cirka 810 milliarder informationer om vores internetbrug, en følge af Logningsbekendtgørelsen fra 2007.
+Kritik af danske regler
+Bekendtgørelsen har høstet kritik for at være for vidtgående samt at have ringe anvendelsesmuligheder.
+Enhedslisten har været en af dens skarpeste kritikere, og ifølge retsordfører Pernille Skipper presser det bekendtgørelsens berettigelse, at man let kan omgå logningen.
+LÆS OGSÅ
+»I det lys falder argumentet med at bruge logningen til at fange kriminelle og terrorister til jorden. Når det nemt kan omgås, så ender overvågningen med at gå ud over ganske almindelige mennesker og deres rettigheder«, siger hun og tilføjer: »Jeg forstår godt, at flere vælger at gå uden om overvågning, fordi det er ubehageligt og krænkende, at myndigheder, NSA og virksomheder følger med i alt«.
+Pernille Skipper vil nu bede justitsminister Morten Bødskov (S) om at forholde sig til problemet. Det har ikke været muligt at få en kommentar fra Bødskov.
+V: Vink med vognstang
+Hos Venstre deler Karsten Lauritzen »til fulde« forståelsen for de danskere, som melder sig ud af overvågningssamfundet.
+»For mig som lovgiver er det et kraftigt vink med en vognstang om, at vi er nødt til at se på området og sikre borgernes rettigheder langt bedre«, siger han og håber på en politisk løsning, så man ikke er nødt til at bruge digitale krumspring som Tor for at omgå overvågningen:
+»Tor er et værktøj, som også bliver brugt af kriminelle og terrorister, og derfor bør vi gå lovens vej med problemet«.
+Mathias Ørsborg Johansen
+fortsæt med at læse
+Folk med LG-fjernsyn bliver udspioneret
+Frihedskæmper: »Tor er det perfekte værktøj«
+Ingen myndigheder oplyser borgerne om digital sikkerhed

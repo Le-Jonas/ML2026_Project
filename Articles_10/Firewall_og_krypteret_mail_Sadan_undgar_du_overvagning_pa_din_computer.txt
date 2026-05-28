@@ -1,0 +1,7 @@
+Title: Firewall_og_krypteret_mail_Sadan_undgar_du_overvagning_pa_din_computer
+Date: 2013-10-02
+Article Type: Digitalt
+Author: Morten Bay
+
+Det er svært at slippe totalt for overvågning i et moderne samfund.
+Men der er dog en del, man kan gøre selv for at mindske den digitale kiggen-over-skulderen, som både tech-firmaer, efterretningstjenester og hackere udfører dagligt. Her er nogle værktøjer og råd til, hvordan du kan holde overvågningen i skak eller i hvert fald formindske den.

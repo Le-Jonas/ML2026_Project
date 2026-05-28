@@ -1,0 +1,8 @@
+Title: It-ekspert_Apple_kan_læse_dine_»sikre«_iphone-beskeder
+Date: 2013-10-18
+Article Type: Digitalt
+Author: Jens Anton Bjørnager
+
+Journalist, Politikens netredaktion
+Det viser sig, at Apple har en digital bagdør, som gør firmaet i stand til at læse iphone-brugeres beskeder fra iMessage.
+Sms-programmet er ellers ifølge Apple »krypteret fra ende til anden« og regnes dermed som sikker kommunikation mellem afsender og modtager.

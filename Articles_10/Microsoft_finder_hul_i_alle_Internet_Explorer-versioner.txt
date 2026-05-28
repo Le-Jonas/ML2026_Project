@@ -1,0 +1,9 @@
+Title: Microsoft_finder_hul_i_alle_Internet_Explorer-versioner
+Date: 2014-04-28
+Article Type: Digitalt
+Author: Søren Dilling
+
+Microsoft advarer nu mod et sikkerhedshul i selskabets Internet Explorer-browser, som hackere kan udnytte til at få fuld kontrol over en brugers computer.
+Det er computere, der står for mere end halvdelen af al internetrafik i verden, der er truet, idet sikkerhedshullet er konstateret i versioner af Internet Explorer lige fra den bedagede IE6 til og med den nyeste IE11,
+fortæller selskabet i meddelelsen
+.

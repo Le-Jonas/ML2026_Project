@@ -1,0 +1,7 @@
+Title: Amazon_vil_sende_dig_varer,_du_endnu_ikke_har_købt
+Date: 2014-01-20
+Article Type: Digitalt
+Author: Morten Bay
+
+En af de største funktioner ved den såkaldte Big Data-bølge er muligheden for at bruge disse data til at lave forudsigelser.
+Det er kendt som Predictive Analytics, og det er det, Google og Facebook benytter sig af, når de sender dig reklamer, der kun er relevante for dig. Men nu vil Amazon tage Predictive Analytics et stort skridt videre.

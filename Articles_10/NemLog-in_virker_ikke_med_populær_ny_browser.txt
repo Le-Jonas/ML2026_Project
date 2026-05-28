@@ -1,0 +1,7 @@
+Title: NemLog-in_virker_ikke_med_populær_ny_browser
+Date: 2013-11-12
+Article Type: Digitalt
+Author: Søren Dilling
+
+Brugere som har hentet den nye browser Internet Explorer 11 fra Microsoft til deres Windows 8 eller Windows 7-pc, har i en lille måned gået forgæves på offentlige hjemmesider med deres NemID.
+Den offentlige digitale løsning, NemLogIN, virker simpelthen ikke med den nye browser. NemLog-in er (med NemID) den offentlige indgangsportal til borgernes personlige data på borger.dk, sundhed.dk og skat.dk for eksempel.

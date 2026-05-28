@@ -1,0 +1,6 @@
+Title: NSA_kan_overvage_computere,_der_ikke_er_pa_nettet
+Date: 2014-01-15
+Article Type: Digitalt
+Author: Den amerikanske efterretningstjeneste NSA har installeret software i næsten 100.000 computere verden over, som gør det muligt at overvåge trafikken på disse, og som kan udgøre en digital motorvej for cyberangreb, skriver den amerikanske avis The New York Times.
+
+NSA har placeret det meste af dets software ved at have skaffet sig adgang til computernetværk, men efterretningstjenesten har også i tiltagende grad anvendt en hemmelig teknologi, som giver den adgang til computere, der ikke er forbundet til internettet, skriver det amerikanske dagblad.

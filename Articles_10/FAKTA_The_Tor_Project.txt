@@ -1,0 +1,10 @@
+Title: FAKTA_The_Tor_Project
+Date: 2013-11-10
+Article Type: Danmark
+Author: Jens Anton Bjørnager
+
+Journalist, Politikens netredaktion
+Tor er et
+computerprogram i to dele, som frit og gratis kan hentes fra The Tor Project's hjemmeside. Det muliggør, at brugeren kan koble sig på Tor-netværket. Når man starter programmet, åbner sig to vinduer; et lille kontrolpanel og en internetbrowser.
+Den ene del
+skjuler brugerens digitale fingeraftryk, blandt andet ip-adressen, ved at lede forbindelsen gennem Tor-netværkets servere i en såkaldt proxy-chain. Det betyder, at forbindelsen går gennem flere servere i udlandet, så man udefra ikke kan se, hvor i verden brugeren befinder sig. På den måde kan brugeren surfe anonymt på internettet.

@@ -1,0 +1,34 @@
+Title: Aktivister_kæmper_for_frihed_pa_mørkenettet
+Date: 2013-11-17
+Article Type: Internationalt
+Author: Jens Anton Bjørnager
+
+Journalist, Politikens netredaktion
+Mathias Ørsborg Johansen
+Journalist
+Det er langt fra kun kriminelle personer og overvågningstrætte mennesker fra Vesten, der har interesse i at være anonyme på internettet.
+For aktivister og forkæmpere for menneskerettigheder blev computerprogrammet Tor et vigtigt værktøj i kampen mod undertrykkende regimer under det arabiske forår i 2010 og 2011.
+Det viser statistik fra Tor-netværket.
+Computerprogrammet Tor gjorde dem i stand til at ytre sig og kommunikere uden frygt for repressalier fra magthaverne, som over hele Mellemøsten slog hårdt ned på demonstranterne - og det er en vigtig pointe at slå fast, siger den administrerende direktør for Tor.
+»Det er en måde at bruge vores program på, som vi meget gerne vil opfordre til, selv om det er kontroversielt i visse dele verden. Vi anerkender, at eksempelvis den kinesiske eller iranske regering måske ikke er enige med os i, at Tor har en legitim brug på det punkt«, siger han.
+»Men vi arbejder ud fra et vestligt moralsk standpunkt, hvor FN’s Menneskerettighedskonventions artikler om ytrings- og forsamlingsfrihed udstikker kursen«, siger direktør Andrew Lewman og tilføjer:
+»Vi er stolte af at udvikle teknologi, som kan være med til at beskytte de rettigheder«, siger han.
+I Bahrains tilfælde blev antallet af Tor-brugere næsten tredoblet i begyndelsen af 2011, hvor det arabiske forår ramte det lille kongedømme. Det samme gjorde sig gældende i Egypten under deres revolutionerende forår.
+Tendensen i Syrien er lige nu den samme. I 2010, før der var revolution og borgerkrig i gaderne, havde netværket blot 111.000 syriske brugere - i 2012 var tallet vokset til mere end fire millioner. Disse eksempler på voldsomme udsving i brugertallene er langt fra enestående, og de sprænger rammerne for den ellers jævne udvikling i brugen af Tor, der har været siden 2009.
+Stigningen af Tor-brugere i protestlande under det arabiske forår lå i alt 200 procent højere end stigningen i resten af verden. På den måde er det svært at se bort fra anvendelsen af Tor som et moderne våben for nutidens frihedskæmpere.
+Ytringsfrihed retfærdiggør Tor
+Som Politiken tidligere har beskrevet, har også danskerne taget Tor til sig for at skjule sig fra overvågningen af internettet; nogle af principielle grunde, andre for at skjule deres kriminalitet på mørkenettet, det parallelle internet kun Tor giver adgang til.
+LÆS OGSÅ
+Sådan virker Tor
+Men i sagens natur er det umuligt at sige, hvor stor en del af brugerne af Tor, som kæmper for frihed og retfærdighed, og hvor mange der bruger det til ulovligheder som narkohandel og cyberkriminalitet.
+Chefjurist i den liberale tænketank CEPOS, Jacob Mchangama, har gennem en årrække været i kontakt med menneskerettighedsaktivister i undertrykkende regimer. Han mener, at eksistensen af Tor - til trods for kriminaliteten på mørkenettet - er retfærdiggjort i kraft af de demokratiske muligheder, netværket giver.
+»Det kan godt være, at Tor bliver brugt til kriminelle ting, men det er der så mange andre ting, som også gør. Og de positive sider af Tor, at mennesker i undertrykkende regimer over hele verden har en mulighed for at tale frit, opvejer det i meget høj grad«, siger han.
+Jacob Mchangama arbejder i øjeblikket på at stifte en politisk uafhængig tænketank, Justitia, der skal fokusere på menneskerettigheder og retssikkerhed, og han mener, at efterspørgslen på tjenester som Tor naturligt vil følge med sommerens afsløringer af amerikanernes overvågning af internettet.
+Nettes ry er blevet sværtet, siger han og forklarer, at han udemærket forstår, at flere - både i den vestlige verden og i Mellemøsten - benytter sig af Tor.
+»Vi har jo nok tænkt på internettet som et slags fristed, hvor vi kunne kommunikere frit, men nu viser det sig, at det måske er det mest overvågede sted i verden. Det er klart, at det er problematisk«, siger Jacob Mchangama.
+»At det så er verdens største demokratiske supermagt, som står for den mest intensive overvågning, det gør det jo endnu mere bekymrende«, siger han.
+Mathias Ørsborg Johansen
+fortsæt med at læse
+Microsoft og Google går sammen mod børneporno
+Hackere til leje kan afsløre sjusket it-sikkerhed
+Fem tips: Sådan kan du undgå clickjacking

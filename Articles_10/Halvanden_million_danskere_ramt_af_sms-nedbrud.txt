@@ -1,0 +1,6 @@
+Title: Halvanden_million_danskere_ramt_af_sms-nedbrud
+Date: 2013-10-02
+Article Type: Digitalt
+Author: Millioner af TDC-kunder i Danmark, Norge og Sverige havde i de tidlige morgentimer svært ved at sende og modtage sms'er og mms'er.
+
+Nedbruddet skyldtes ifølge TDC's presseafdeling en nødvendig natlig opdatering af de to servere, som står for udsendelsen af beskederne, skriver Computerworld.

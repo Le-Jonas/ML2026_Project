@@ -1,0 +1,7 @@
+Title: Stjæler_dine_private_data_Lygte-app_fører_brugerne_bag_lyset
+Date: 2013-12-09
+Article Type: Digitalt
+Author: Karim Pedersen
+
+En populær gratis lommelygte-app til Android har samlet brugernes positionsdata fra smartphones og sendt dem videre til annoncenetværk uden at fortælle om det.
+Den gratis app, ’Brightest Flashlight Free’, er hentet mere end 50 millioner gange i Googles app-butik.

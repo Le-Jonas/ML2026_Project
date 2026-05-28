@@ -1,0 +1,6 @@
+Title: NemID_bliver_alligevel_ikke_klar_til_brug_i_dag
+Date: 2013-10-18
+Article Type: Forbrug
+Author: Det varer endnu en dags tid, inden danske NemID-brugere kan bruge deres elektroniske login på fuld styrke.
+
+Natten til lørdag skulle alle problemer være løst, så danskerne igen kan opdatere deres computere til den nyeste Java-version og bruge NemID uden problemer.

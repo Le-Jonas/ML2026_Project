@@ -1,0 +1,11 @@
+Title: Hackere_har_stjalet_følsomme_data_fra_RKI
+Date: 2014-05-06
+Article Type: Digitalt
+Author: Sofie Buch Hoyer
+
+Jens Anton Bjørnager
+Journalist, Politikens netredaktion
+Jakob Sorgenfri Kjær
+Journalist
+Oplysninger, om hvad borgere skylder, er faldet i forkerte hænder.
+Ukendte gerningsmænd har fået fingrene i nogle af de mest følsomme data fra RKI-registret, der rummer borgere og firmaers skyldneroplysninger. Anonyme hackere har tilsendt Politiken eksempler på de fortrolige data, der er matchet med borgernes CPR-numre.

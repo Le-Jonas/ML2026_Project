@@ -1,0 +1,7 @@
+Title: Læg_smarte_widgets_pa_laseskærmen_i_din_Android-telefon
+Date: 2013-09-30
+Article Type: Digitalt
+Author: Morten Bay
+
+Hvis du er androidbruger, kender du formentlig de smarte widgets, der lader dig se information fra en app direkte på skærmen uden at åbne appen først.
+Men vidste du, at du i de nyeste versioner af Android (4.2 og opefter) kan lægge disse widgets ind på låseskærmen, så du endda kan se dem, før du låser telefonen op?

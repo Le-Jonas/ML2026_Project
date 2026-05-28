@@ -1,0 +1,7 @@
+Title: Guide_Lav_automatisk_backup_til_skyen_med_din_Windows_Phone
+Date: 2013-10-15
+Article Type: Digitalt
+Author: Morten Bay
+
+Ligesom andre smartphones kan Windows Phones lave backup af apper, indstillinger, videoer, billeder og sms’er til skyen automatisk, uden at du behøver at tænke over det. Backup-informationerne knyttes til din Windows-konto, sådan at de automatisk bliver genetableret, hvis du skifter telefon eller er nødt til at slette alt på din smartphone.
+Sådan gør du:

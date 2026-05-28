@@ -1,0 +1,6 @@
+Title: Pixum.dk_Optimerer_billederne
+Date: 2013-12-01
+Article Type: Livsstil
+Author: Rasmus Hørmand-Pallesen
+
+»Hos Pixum.dk henter man et lille program, som findes til de fleste styresystemer. Ved hjælp af programmet kan du så fremstille alt fra fototryk på tykke aludibond-plader til kalendere og fotobøger. Programmet giver mulighed for at tilgå mapperne på din computer og derved finde de billeder, du ønsker at bruge. Programmet vil som udgangspunkt lave en billedoptimering af dine foto, så kvaliteten bliver bedst mulig. Sker der fejl i denne optimeringsproces, kan man reklamere. Billedoptimeringen kan slås fra, hvis man selv er en haj til billedbehandling. Det smarte ved at arbejde i et program, der er hentet ned på computeren, er, at man ikke behøver uploade sine billeder, før man er færdig med sin skabelon«.

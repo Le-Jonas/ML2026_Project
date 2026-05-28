@@ -1,0 +1,8 @@
+Title: Sma_butikker_skal_lære_at_ga_offline_efter_det_store_dankortnedbrud
+Date: 2014-01-21
+Article Type: Privatøkonomi
+Author: Nathalie Stender
+
+Der er tømmermænd hos Nets i dag oven på gårdsdagens ti timers lange nedbrud i dankort-systemet. 
+Men lyspunktet er, at antallet af transaktioner ikke virker til at være voldsomt påvirket.
+Nets oplyser i dag, at nedbruddet skyldes en netværksfejl hos IBM i den router, som butikkernes dankorttransaktioner går gennem.

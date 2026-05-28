@@ -1,0 +1,7 @@
+Title: Endnu_en_mobil_betalingsløsning_er_pa_vej
+Date: 2013-08-21
+Article Type: Digitalt
+Author: Søren Dilling
+
+Nets, der driver Dankort-nettet, forventer at have en ny mobil betalingsløsning klar inden nytår.
+Løsningen bruger den såkaldte NFC, Near Field Communication, der med en chip i telefonen kan klare betalingen ved at brugeren blot holder mobiltelefonen hen til dankortterminalen.

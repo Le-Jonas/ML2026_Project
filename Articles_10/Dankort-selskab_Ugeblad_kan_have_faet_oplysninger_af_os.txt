@@ -1,0 +1,21 @@
+Title: Dankort-selskab_Ugeblad_kan_have_faet_oplysninger_af_os
+Date: 2014-05-05
+Article Type: Medier
+Author: Nets konstaterer i pressemeddelelse, at der er adfærdsmønstre hos dem, som underbygger, at der kan være sket et misbrug i forbindelse med Se og Hør-sagen.
+
+Virksomheden har allerede igangsat en omfattende undersøgelse af sagen. Men selv om undersøgelsen ikke er færdiggjort endnu, kan Nets allerede konstatere mistænkelige adfærdsmønstre.
+Nets har videregivet oplysningerne til myndigheder og politiet, som har bedt dankortselskabet om ikke at offentliggøre detaljer om den datamæssige gøren og laden, Se og Hørs kilde har haft inde i systemerne.
+FAKTA
+Firmaet vil nu forstærke sine kontrolfunktioner, som skal sikre, at de medarbejdere, der har adgang til fortrolige data, ikke misbruger den mulighed.
+»Vi er chokerede over, at der er sket et sådant misbrug af fortrolige kreditkortinformationer. Det må ikke ske. Vores undersøgelse tyder på, at det er en kriminel handling foretaget af en betroet medarbejder hos IBM«, fastslår Susanne Brønnum, landechef for Nets, i pressemeddelelsen.
+Selskabet understreger, at det er nødvendigt at have medarbejdere, der har adgang til de fortrolige oplysninger - blandt andet for at hjælpe kunder, som har spørgsmål om brugen af deres betalingskort. De medarbejdere er ifølge Nets sikkerhedstjekkede og har tavshedspligt.
+Alligevel kan man ikke altid undgå, at det går galt, hvis betroede medarbejdere vælger at overtræde sikkerhedsbestemmelserne.
+»Det er ikke muligt fuldstændigt at sikre sig mod personer, som misbruger deres betroede stilling med kriminelle formål for øje. Men vi har iværksat en gennemgribende revision af vores kontrolfunktioner for at sikre, at vi bedre kan fange den type af misbrug, vi har mistanke om her«, oplyser Susanne Brønnum.
+Blandt andet vil Nets se nærmere på, om de programmer, der registrerer medarbejdernes gøren og laden inde i Nets' systemer, er indrettet ordentligt.
+Indtil den undersøgelse er tilendebragt vil firmaet have eksterne revisorer til at gennemføre stikprøvekontroller af systemadgange og logs fra medarbejdernes arbejde i systemerne.
+Samtidig skal eksperter udefra nu se nærmere på, om datasikkerheden og datakontrollen i dankortselskabet er den bedst mulige.
+Ritzau
+fortsæt med at læse
+Morten Sabroe om Se og Hør-sagen: Hvem ringer klokkerne for?
+Nets er gået ned
+Transportministeren vil undersøge SAS-lækage til Se og Hør

@@ -1,0 +1,6 @@
+Title: NemID_virker_igen_efter_tre_dages_nedbrud
+Date: 2013-10-18
+Article Type: Digitalt
+Author: NemID er efter tre dages nedbrud igen oppe at køre.
+
+Brugere kan nu opdatere deres Java til den nyeste version. Det oplyser firmaet bag NemID, Nets, til Ritzau.

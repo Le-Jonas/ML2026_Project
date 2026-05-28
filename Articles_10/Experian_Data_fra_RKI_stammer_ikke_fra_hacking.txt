@@ -1,0 +1,12 @@
+Title: Experian_Data_fra_RKI_stammer_ikke_fra_hacking
+Date: 2014-05-07
+Article Type: Digitalt
+Author: Jens Anton Bjørnager
+
+Journalist, Politikens netredaktion
+Sofie Buch Hoyer
+Journalist
+Jakob Sorgenfri Kjær
+Journalist
+Ukendte gerningsmænd har fået fingrene i nogle af de mest følsomme data fra RKI-registret, der rummer borgere og firmaers skyldneroplysninger.
+Politiken har forelagt Experians teknikere et udskrift af en række personfølsomme oplysninger, som ifølge anonyme hackere stammer fra firmaets RKI-register.

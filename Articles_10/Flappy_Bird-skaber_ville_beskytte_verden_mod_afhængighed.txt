@@ -1,0 +1,7 @@
+Title: Flappy_Bird-skaber_ville_beskytte_verden_mod_afhængighed
+Date: 2014-02-12
+Article Type: Digitalt
+Author: Morten Bay
+
+Først blev Flappy Bird verdens mest populære spil på den mobile platform, indtog førstepladsen på alle app-hitlisterne og indtjente ca. 280.000 kroner om dagen i reklameindtægter.
+Så besluttede spillets vietnamesiske bagmand, Dong Nguyen, at fjerne spillet fra app-butikkerne, så folk ikke længere kunne downloade det. Og nu ved vi hvorfor.

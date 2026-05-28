@@ -1,0 +1,10 @@
+Title: Big_Data_kan_fortælle_os_en_hel_masse_..._sludder_-_politiken.dk
+Date: 2014-04-24
+Article Type: feature
+Author: Som abonnent kan du ubegrænset dele artikler med dine venner og familie. Læs mere om fordelene ved et abonnement her.
+
+For fem år siden annoncerede et hold forskere fra Google et bemærkelsesværdigt resultat i et af verdens fornemste tidsskrifter, Nature. Uden at referere til en eneste helbreds-undersøgelse havde de formået at spore spredningen af influenza gennem hele USA. Mere markant er det dog, at de formåede at gøre det hurtigere end det amerikanske center for sygdomsforebyggelse, CDC.
+Google var i stand til at spore spredningen med en dags forsinkelse, mens det tager en uge eller mere for CDC at stykke et billede sammen baseret på rapporter fra lægeklinikkerne. Google kunne gøre det hurtigere ved at finde en sammenhæng mellem, hvad folk søgte på i deres søgemaskine, og hvorvidt de havde influenzasymptomer.
+Google Flu Trends, som det blev kaldt, var ikke blot en hurtig, præcis og billig måde at spore smitten, men også blottet for teori. Googles teknikere følte ikke behov for at udvikle en hypotese om, hvilke søgninger – såsom »influenzasymptomer« og »apoteker nær mig« – der kunne være korreleret med sygdommens spredning. Google-holdet tog de 50 millioner mest populære søgninger og lod deres algoritmer klare alt arbejdet.
+Succesen med Google Flu Trends blev et eksempel på en spændende, ny tendens inden for erhvervslivet, teknologien og videnskaben: big data. Hvad kan videnskaben lære af Google, spurgte journalisterne dengang.
+Allerede abonnent? Log ind her

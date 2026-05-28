@@ -1,0 +1,6 @@
+Title: USA_advarer_Brug_ikke_Internet_Explorer
+Date: 2014-04-28
+Article Type: Digitalt
+Author: Microsofts browser Internet Explorers versioner fra 6 til 11 står åbne for hacker-angreb.
+
+Sikkerhedsbristen i Internet Explorer får nu USA's ministerium for intern sikkerhed til at anbefale, at man overvejer at bruge en anden browser, skriver nyhedsbureauet Reuters.

@@ -1,0 +1,7 @@
+Title: Dine_apps_sladrer_om_dig_og_dine_data
+Date: 2014-03-18
+Article Type: Digitalt
+Author: Karim Pedersen
+
+Hvis du betaler for en vare på nettet, besøger din netbank eller foretager en anden handling online, hvor der er fortrolige oplysninger involveret, foregår det ofte over en krypteret forbindelse.
+Men de fleste af de apps, som du har installeret på din Android-telefon, sender data ud på nettet helt uden kryptering.

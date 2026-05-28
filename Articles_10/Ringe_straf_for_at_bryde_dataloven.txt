@@ -1,0 +1,8 @@
+Title: Ringe_straf_for_at_bryde_dataloven
+Date: 2014-05-01
+Article Type: Medier
+Author: Jakob Sorgenfri Kjær
+
+Journalist
+Risikoen for at blive opdaget og straffen for at forårsage læk af personfølsomme oplysninger er så lille, at virksomheder og myndigheder ser stort på it-sikkerheden.
+Sådan lyder det fra en række it-sikkerhedseksperter oven på lækagesagen, hvor Se og Hør tilsyneladende har betalt en it-konsulent i IBM for at trække kendte og kongeliges kreditkortoplysninger ud af betalingstjenesten Nets.

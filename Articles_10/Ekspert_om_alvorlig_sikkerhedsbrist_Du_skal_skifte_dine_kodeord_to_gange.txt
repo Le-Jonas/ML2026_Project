@@ -1,0 +1,8 @@
+Title: Ekspert_om_alvorlig_sikkerhedsbrist_Du_skal_skifte_dine_kodeord_to_gange
+Date: 2014-04-11
+Article Type: Digitalt
+Author: Søren Dilling
+
+Morten Bay
+Et sikkerhedshul, der har fået navnet Heartbleed, skaber panik over hele verden lige nu.
+Det er stort set hele nettet, som er ramt af problemet, lyder det fra bekymrede it-sikkerhedseksperter, der frygter at kodeord i massevis fra private konti allerede er blevet opsnappet af hackere.

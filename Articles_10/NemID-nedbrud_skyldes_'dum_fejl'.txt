@@ -1,0 +1,7 @@
+Title: NemID-nedbrud_skyldes_'dum_fejl'
+Date: 2013-11-17
+Article Type: Digitalt
+Author: Maj Susanne Junker
+
+I tre oktoberdage var danskerne tvunget til at anvende gammel software med sikkerhedshuller til at komme på netbank og kommunikere med offentlige myndigheder.
+NemID fungerede ikke med den nyeste opdatering – og nu viser det sig, at miseren skyldes, at Nets DanID, der administrerer NemID, ikke syntes, at det var vigtigt at teste opdateringer, inden de blev sendt ud til knap fire millioner danskere, der bruger NemID.

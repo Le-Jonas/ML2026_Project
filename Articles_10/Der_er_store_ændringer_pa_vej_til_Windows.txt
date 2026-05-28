@@ -1,0 +1,7 @@
+Title: Der_er_store_ændringer_pa_vej_til_Windows
+Date: 2014-04-04
+Article Type: Digitalt
+Author: Morten Bay
+
+Der har været en del ballade omkring Microsofts forsøg på at gøre Windows mere touch-venlig ved at introducere det såkaldte Modern UI i Windows 8. Mange blev sure over at Start-knappen forsvandt og at man skulle skifte rundt mellem to forskellige slags skærme for at bruge Windows. Siden har Microsoft forsøgt at imødekomme brugerkravene, men nu laver de for alvor om på tingene.
+På BUILD-konferencen, der i disse dage finder sted i San Francisco, afslørede Microsoft nemlig en hel del af deres planer for fremtiden. Det, der fik det største bifald, var at start-menuen vender tilbage i en ny og forbedret form.

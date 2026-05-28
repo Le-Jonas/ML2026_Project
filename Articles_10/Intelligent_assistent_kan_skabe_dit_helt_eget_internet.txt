@@ -1,0 +1,7 @@
+Title: Intelligent_assistent_kan_skabe_dit_helt_eget_internet
+Date: 2014-01-23
+Article Type: Digitalt
+Author: Karim Pedersen
+
+Hvis du gerne vil modtage en mail, når vejrudsigten lover solskin for den næste dag, eller ønsker at alle dine statusopdateringer fra Facebook automatisk skal sendes ud på Twitter, så findes der en smart og elegant løsning.
+Den digitale assistent IFTTT (If This Then That) er en slags værktøjskasse, der binder mange forskellige internet-tjenester sammen.

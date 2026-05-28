@@ -1,0 +1,6 @@
+Title: NemID_er_nede_Mange_kan_ikke_bruge_netbank
+Date: 2013-10-16
+Article Type: Digitalt
+Author: For en del af danskernes vedkommende vil det onsdag være umuligt at bruge NemID, oplyser Nets, som har udviklet det elektroniske login-system og står for driften af det.
+
+En ny version af programmet Java virker ikke sammen med systemet for danskernes personlige NemID, og dermed vil en del af danskerne være afskåret fra for eksempel at bruge deres netbank, ændre skatteoplysninger eller bruge kommunens selvbetjening.

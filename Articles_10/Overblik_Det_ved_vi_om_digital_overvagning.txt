@@ -1,0 +1,54 @@
+Title: Overblik_Det_ved_vi_om_digital_overvagning
+Date: 2013-11-11
+Article Type: Digitalt
+Author: Jens Anton Bjørnager
+
+Journalist, Politikens netredaktion
+Mathias Ørsborg Johansen
+Journalist
+De britiske og amerikanske efterretningstjenester har koblet sig direkte på de store søkabler, der transporterer internettrafikken over Atlanten.
+På den måde kan britiske GCHQ og amerikanske NSA i princippet opsnappe al data, der flyder fra Europa til Amerika. Du kan følge kablerne, og se detajler om hvem der kan opsnappe data fra dem,
+her
+(eksternt link)
+.
+Udover søkablerne har efterretningstjenesterne direkte adgang til data lagret hos internetgiganter som Facebook, Google, Microsoft og Apple.
+Det foregår igennem PRISM-programmet, der blev afsløret i dokumenter fra NSA, som whistlebloweren Edward Snowden har lækket.
+PRISM er et led i et internationalt samarbejde om elektronisk overvågning, uofficielt kaldet 'De Fem Øjne' bestående af USA, England, Canada, Australien og New Zealand.
+Danmarks rolle
+Herhjemme er spørgsmålet derfor, hvor involveret den danske efterretningstjeneste PET har været i amerikanernes og englændernes overvåning.
+4. november i år kunne Dagbladet Information rapportere, at Danmark er en del af inderkredsen af lande, som samarbejder med NSA. Danmark indgår ifølge avisen i et internationalt samarbejde, uofficielt kendt som 'De Ni Øjne'.
+Den danske regering har afvist at svare på spørgsmål om samarbejdet og om, hvad det danske bidrag til samarbejdet består i.
+Derudover har danske internetudbydere med den såkaldte logningsbekendtgørelse siden 2007 været forpligtet til at lagre information om brugernes færden på internettet og digitale kommunikation online og på telefon. Selve indholdet af kommunikationen bliver ikke gemt, og der skal en dommerkendelse til, for at ordensmagten får adgang til dataen.
+Sidste år blev omkring 810 milliarder stykker data lagret. I tre tilfælde blev logget internetdata brugt til at opklare forbrydelser, henholdsvis om databedrageri, røveri og et indbrud på en netbank.
+Den manglende kontrol
+Den amerikanske diskussion om Snowdens læk har primært handlet om, hvorvidt NSA har overvåget amerikanske statsborgere. I den sammenhæng bliver det fremhævet, at den såkaldte FISA-domstol fører kontrol med overvågningen.
+Men det er langt fra tilfældet ifølge
+et nyligt afklassificeret dokument
+fra FISA-domstolen
+(eksternt link)
+. Dokumentet blev afklassificeret på begæring af interesseorganisationen Electronic Frontier Foundation.
+FISA domstolen har til opgave at føre kontrol med NSA's overvågning af internettet, men ifølge dokumentet har NSA mellem 2008 og 2011 gentagne gange løjet for domstolen, og om hvor meget tjenesten overvågede amerikanerne.
+Da NSA selv erkendte i 2011 sine “substantielle misrepræsentationer” over for FISA, kvitterede domstolen med en løftet pegefinger og mindre rettelser til proceduren, som i sidste ende paradoksalt nok førte til endnu mere vidtgående overvågning af amerikanerne.
+NSA har ved hjælp af hemmelige dommerkendelser, kontrolleret af FISA-domstolen, aflyttet amerikanernes internet og telefoner i årevis.
+Internetsikkerhed systematisk svækket
+The Guardian og New York Times har i samarbejde med ProPublica afsløret, at NSA systematisk har undergravet de mest populære sikkerhedsteknologier, som bliver brugt på internettet.
+Det betyder, at almindelige sikkerhedsforanstaltninger ikke er nogen hindring for NSA's indsamling af data. Som it-sikkersekspert Bruce Schneier noterede
+på sin blog
+(eksternt link)
+:
+»Det jeg fik ud af at læse Snowden-dokumenterne var, at hvis NSA vil ind i din computer, så er de inde. Færdigt arbejde«.
+Ifølge Bruce Schneier og flere andre sikkerhedseksperter er det i dag alene stærk kryptering, som regnes for sikker kommunikation.
+Derudover er der måder at omgå overvågningen ved eksempelvis at logge på nettet via et computerprogram kaldet Tor, som gør brugeren anonym. Se, hvordan det virker på videoen neden for.
+Pengetransaktioner og mobiltelefoner
+I dag har de fleste en lille computer i lommen, og selv om det måske ikke er nogen overraskelse, er den heller ikke fri for overvågning.
+Tyske Der Spiegel afslørede i september, at NSA er i stand til at hacke sig ind i en hvilken som helst iphone, BlackBerry- og Android-telefon.
+LÆS OGSÅ
+Mørkenettet: Mød aktivisten og narkohandlerne, som skjuler sig på nettet
+Smartphones bliver af Der Spiegel beskrevet som en guldgrube af data, fordi telefonerne lagrer omfattende informationer om brugerens færden og kommunikation. Det anføres dog, at der ikke er beviser for, at der foregår overvågning af telefonerne i stor skala.
+Til gengæld rapporterer tyske Der Spiegel, som også har fået del i Snowde-dokumenterne, at NSA overvåger internationale pengetransaktioner fra VISA og SWIFT.
+I Frankrig kunne Le Monde afsløre, at NSA har indsamlet 70,3 millioner oplysninger om telefonsamtaler og internetkommunikation fra 10. december 2012 til 8. januar 2013.
+Mathias Ørsborg Johansen
+fortsæt med at læse
+Ingen myndigheder oplyser borgerne om digital sikkerhed
+Frihedskæmper: »Tor er det perfekte værktøj«
+Aktivister kæmper for frihed på mørkenettet

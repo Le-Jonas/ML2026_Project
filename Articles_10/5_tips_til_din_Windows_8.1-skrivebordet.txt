@@ -1,0 +1,9 @@
+Title: 5_tips_til_din_Windows_8.1-skrivebordet
+Date: 2014-03-01
+Article Type: Digitalt
+Author: Morten Bay
+
+LÆS ARTIKEL
+Startknappen er tilbage: Nu er Windows 8.1 klar
+2. Højreklik på Windows-knappen
+Hvis du savner ’Start’-knappen fra ældre versioner af Windows, kan du komme til at opnå en smule af den samme funktion ved at højreklikke på Windows-knappen i nederste venstre hjørne. Så popper der en menu op med en række valgmuligheder. Du kan også bruge Alt-X til dette.

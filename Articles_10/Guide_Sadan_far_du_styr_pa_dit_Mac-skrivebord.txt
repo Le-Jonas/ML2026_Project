@@ -1,0 +1,7 @@
+Title: Guide_Sadan_far_du_styr_pa_dit_Mac-skrivebord
+Date: 2014-03-14
+Article Type: Digitalt
+Author: Morten Bay
+
+Selv om en Mac har en flot baggrundsskærm og et lækkert ikon-design, kan du sagtens komme til at rode på dit skrivebord. Her er gode råd til, hvordan du organiserer dit skrivebord, så det bliver mere overskueligt og mere effektivt.
+Når docken sidder i bunden og du kører musen hen over ikonerne i docken, popper de op og æder sig således ind på den led af skærmen, hvor du har mindst plads. Især på de helt små MacBook Air-modeller kan det være problematisk, så prøv, om det virker bedre for dig at have docken i en af siderne. Du kan enten holde Shift nede og rykke docken med musen eller indstille det i dock-menuen, som du finder under æble-menuen. Her kan du også sætte docken til at gemme sig, når du ikke bruger den.

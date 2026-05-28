@@ -1,0 +1,7 @@
+Title: Lego_Mindstorms_EV3
+Date: 2013-12-07
+Article Type: Jul
+Author: Thomas Vigild
+
+Ideen bag med Legos nyeste og tredje aftapning af Mindstormsbyggesæt er klar: Nutidens robotter opbygger fremtidens børn. Selvsagt i den betydning, at når børn bygger robotter, lærer de samtidig at programmere, være kreative og tænke logisk og rumligt. Lego Mindstormsbyggesættene går nemlig ud på både at udvikle en fysisk model i Lego og samtidig kombinere den med udvikling af software, der bringer klodsmodellerne til live.
+Uanset om vi taler robotter, der ligner klapperslanger, skorpioner, dinosaurer eller elguitarer – alt kan bygges, hvis man har tid og kreativitet nok. Godt nok er grundbyggesættet dyrt, men det er slående gennemtænkt og genialt, da alle robotter kan styres med en smartphone. Det kræver tid, tålmodighed og dedikation at bygge, men så har man også uanede muligheder for at bygge sin helt egen robot. Mindstorms EV3 er i mindre grad legetøj, og mere en slags fremtidens skoletaske.
