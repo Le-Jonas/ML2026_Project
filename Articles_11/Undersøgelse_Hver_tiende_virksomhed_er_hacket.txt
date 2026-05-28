@@ -1,0 +1,6 @@
+Title: Undersøgelse_Hver_tiende_virksomhed_er_hacket
+Date: 2014-10-14
+Article Type: Virksomheder
+Author: Hackere har med deres lange fingre på tastaturer rundt om i verden haft succes med at bryde ind i omkring hver tiende danske virksomhed, organisation eller offentlige myndighed og stjæle oplysninger det seneste år.
+
+Flere af virksomhederne har lidt betydelige økonomiske tab, og virksomheder med flere end 250 ansatte er særlig ramt, viser svarene fra 700 it-professionelle i en undersøgelse lavet af Ingeniørforeningen, IDA, i oktober.

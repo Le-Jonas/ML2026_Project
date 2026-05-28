@@ -1,0 +1,7 @@
+Title: Offentlig_selvbetjening_flytter_ind_pa_mobilen
+Date: 2014-07-12
+Article Type: Digitalt
+Author: Karim Pedersen
+
+Danskerne har for længst taget mobilerne til sig i hverdagen, men det fælles login NemID har indtil nu været bundet til pc-platformen.
+Nu er der lanceret en ny version af NemID, der er klar til mobile enheder som smartphones og tablets. Dermed bliver der i løbet af året også sagt farvel til den gamle Java-teknologi, der har været plaget af sikkerhedshuller.

@@ -1,0 +1,8 @@
+Title: Ordførere_om_datasvigt_Tilliden_til_it-sikkerheden_ligger_i_grus
+Date: 2014-07-04
+Article Type: Politik
+Author: Nikolaj Heltoft
+
+journalist
+Det er blevet meget svært at have tillid til den offentlige danske datasikkerhed, og derfor må regeringen stille sig i front for en grundlæggende gennemgang af området.
+Sådan lyder reaktionerne fra Christiansborg, efter Politiken i dag afslører, at Rigspolitiet og it-selskabet CSC i 2012 var blevet advaret om alvorlige sikkerhedshuller i den offentlige it-leverandørs systemer, et helt år før hackeres tyveri af 4 millioner kørekortnumre fra politiets registre endelig fik CSC til at lukke hullerne i 2013.

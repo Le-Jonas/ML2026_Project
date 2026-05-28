@@ -1,0 +1,24 @@
+Title: Dataviz_Hvem_er_det_egentlig,_vi_giver_opholdstilladelse_til_i_Danmark_
+Date: 2015-06-10
+Article Type: Danmark
+Author: Kristian Jensen
+
+Journalist
+Antallet af asylansøgere til Danmark er ugens hotte emne, nu hvor Venstre har præsenteret deres asyludspil 'Asylreform - styr på tilstrømningen'.
+Ser vi på, hvem der har fået fået opholdstilladelse i første kvartal i år og altså har lov til at blive i landet, udgør asylsager dog ikke den største gruppe af modtagere.
+Indtil videre er
+20.013
+opholdstilladelser blevet uddelt i første kvartal 2015, og mere end
+40 procent
+af alle opholdstilladelser gives til EU/EØS-borgere. Særligt polakker og rumænere er blevet tildelt mange opholdstilladelser. Andelen af flygtninge er på
+17 procent
+, hvoraf syrere udgør den klart største nationalitet.
+Det viser tal fra Danmarks Statistik.
+Øverst i grafikken kan du vælge mellem en række faneblade, der viser, hvordan opholdstilladelserne fordeler sig ud fra den begrundelse, der er givet for tilladelsen. Altså fordi man er flygtning, EU-borger eller au pair.
+Du starter med den overordnede fordeling, men kan vælge at se på nationaliter eller gå i dybden med de enkelte begrundelser.
+Prøv evt. at se, hvilke europæiske lande, der får flest opholdstilladelser begrundet af EU-samarbejdet. Eller se, hvilken nationalitet der oftest bliver familiesammenført til danskere.
+Tallene er baseret på Danmarks Statistiks opgørelse over tildelte opholdstilladelser i
+første kvartal 2015.
+Ideer og kommentarer modtages med glæde på dataviz snabel-a pol punktum dk.
+Kristian Jensen
+fortsæt med at læse

@@ -1,0 +1,33 @@
+Title: Opfindsomme_hackere_lokker_net-brugere_med_skønlitteratur
+Date: 2015-07-30
+Article Type: Forbrug
+Author: Louisa Valeur
+
+Journalist
+Bliver der ved med at poppe et lille ikon frem på din computerskærm om, at det er tid til at opdatere din version af Flash? Så bør du klikke på ikonet og få det gjort med det samme. Ellers risikerer du at blive udsat for et hackerangreb.
+Det viser en ny rapport fra it-virksomheden Cisco, der konkluderer, at hackere er blevet både hurtigere og mere professionelle i deres angrebsmetoder.
+Den første halvdel af 2015 har budt på en række nye hackermetoder og værktøjer, og mest effektivt er angrebsværktøjet 'Angler'. Angler betyder på dansk lystfisker, og det er én af de mest udbredte trusler mod forbrugernes it-sikkerhed. Angler udnytter, at forbrugerne ikke opdaterer programmer som eksempelvis Flash og Java, og hackerne er blevet hurtigere end nogensinde.
+»Der vil altid være fejl i programmerne, såkaldte sikkerhedshuller, og de skal lukkes, før hackerne når at finde en måde at udnytte dem. Når man opdaterer sine programmer, bliver hullerne lukket, og så er man immun, og det er ekstremt vigtigt at gøre, for rapporten viser, at hackerne formår at udnytte hullerne væsentligt hurtigere end tidligere. De går straks i gang, og gennemsnitstiden for, hvornår de kan begynde at udnytte sikkerhedshullet, er nu helt nede på få dage«, forklarer Christian Heinel, Security Systems Engineer hos Cisco i Danmark.
+Lokker med 'Stolthed og Fordom'
+Rapporten, 'Mid Year Security Report', er en halvårlig rapport udarbejdet af sikkerhedseksperter hos Cisco. I rapporten bruges indsamlet data til at identificere de nyeste internettrusler og tendenser i forhold til it-sikkerhed. Det bliver i rapporten beskrevet, hvordan it-kriminelle konstant finder på nye måder at snige sig uden om de digitale sikkerhedsmure, og de kriminelles succesrate er steget betydeligt.
+»Det særlige ved eksempelvis angrebsværktøjet Angler er, at det kombinerer en masse angreb på for eksempel både Flash, Java og Internet Explorer. Og hackernes succesrate med det værktøj er fordoblet siden sidste år. Hele 40 procent af de personer, hackerne får lokket til at besøge deres hjemmeside, bliver kompromitteret, så hackerne får fuld adgang til de oplysninger, de søger«, siger Christian Heinel.
+Og hackerne er samtidig blevet mere kreative i deres måder at snyde forbrugerne. Udover at udnytte sikkerhedshuller i programmer som Java, som blandt andet er blevet brugt til NemID, er hackerne også begyndt at bruge skønlitteratur til at lokke forbrugerne ind på skadelige websites. Det kan for eksempel være med tekst fra Jane Austins roman fra 1800-tallet, 'Stolthed og Fordom'.
+»De kriminelle vil ramme dig på noget, hvor du har paraderne nede. Jo mere legitimt det virker, jo sværere er det at opdage, at der er ugler i mosen. Hvis de bruger en masse vås, en masse bogstaver og tegn, der ikke giver mening, vil du ofte opdage, at der er noget i gære. Men hvis det for eksempel er almindelig tekst fra en bog, er det meget nemmere at få forbrugeren til at tro, at det er helt legitimt og sikkert at klikke på, og samtidig bliver antivirussystemerne snydt«, forklarer Christian Heinel om hackernes metode.
+Opdater din software og vær skeptisk
+Ifølge Christian Heinel er hackerne stort set altid et skridt foran, men der er alligevel nogle måder, hvorpå man som forbruger kan sikre sig bedst muligt mod et hackerangreb.
+1. Opdater din software. Det vigtigste er at få opdateret sine softwareprogrammer som eksempelvis Flash og Java hurtigst muligt.
+»Lad vær med at klikke på 'Påmind mig senere', eller 'Gør det i morgen'. Gør det med det samme, og slå gerne nogle automatiske opdateringer til«, siger Christian Heinel.
+2. Brug din sunde fornuft - hele tiden.
+Sørg for hele tiden at være opmærksom på, hvad du klikker på.
+»Rapporten viser, at Facebook ligger nummer et over metoder til at komme ind på forbrugernes computer. Selvom vi har med medier at gøre, som vi egentlig stoler på, fordi vi er omgivet af venner, bekendte og familie, skal man stadig være på vagt. For selvom det umiddelbart ser ud til, at det er dine venner, der poster noget, så kan det sagtens være et forsøg på et hackerangreb. Så hav en sund skepsis med«, siger Christian Heinel.
+3. Skift jævnligt din adgangskode.
+Christian Heinel råder ligeledes forbrugerne til at skifte deres password ofte.
+»Jeg vil tro, at 95 procent i vores omgangskreds bruger det samme password på alle deres medier. Hvis en enkelt af deres kontoer, for eksempel Facebook, bliver brudt, er sandsynligheden for, at hackeren prøver det samme log-in på andre medier, rigtig stor. Og hvis koden er den samme, vil det lykkes ham/hende. Så skift password jævnligt og lad vær med at bruge det samme til alle dine konti«, siger han.
+4. Sørg for at have en backup af dine filer.
+Til sidst råder Christian Heinel forbrugerne til at lave en sikkerhedskopi af alle billeder og filer på computeren.
+»Hvis hackerne får adgang til din computer, kan du risikere, at de gør det umuligt for dig at få adgang til dine filer. De kan finde på at kræve 'løsesumspenge' for at give dig adgang til dine filer igen, men hvis du i forvejen har lavet en sikkerhedskopi, en backup, af alle dine filer, vil du selv kunne gendanne din computer og hente filerne tilbage«, siger Christian Heinel.
+Louisa Valeur
+fortsæt med at læse
+Nets advarer mod falske SMS'er fra NemID
+Tech-giganter vil sikre dine emails mod hackere
+Hurra for online-sikkerhed: Java bliver lagt endegyldigt i graven

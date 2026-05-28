@@ -1,0 +1,36 @@
+Title: CSC_lukkede_selv_hackere_ind
+Date: 2014-09-25
+Article Type: Danmark
+Author: John Hansen
+
+Journalist
+It-virksomheden CSC hjalp selv hackere med at trænge ind i datasystemer med millioner af personfølsomme data om danske borgere.
+Gyldige brugernavne til CSC's såkaldte mainframesystem lå frit fremme på internettet. Her blev det fundet af den eller de hackere, som efterfølgende brugte det til det dataindbrud hos CSC i 2012, som politiet kalder danmarkshistoriens største hackersag.
+CSC indrømmede i dag for første gang, at der var tale om en »klar fejl«. Det skete, da en ansvarlig for it-firmaet, som opbevarer data for næsten alle offentlige myndigheder i Danmark, for første gang skulle svare på spørgsmål om, hvordan dataindbruddet kunne lade sig gøre.
+»Brugernavnet lå desværre som en del af en dokumentation om, hvordan man tilgår vores system«, forklarede Martin Gohs, strategisk sikkerhedschef hos CSC, da han vidnede i hackersagen i Retten på Frederiksberg.
+»Der var tale om en vejledning til vores kunder og vores kunders kunder - den lå frit tilgængelig for alle og enhver på det tidspunkt - det var en klar fejl«, sagde Martin Gohs.
+Da det blev forsvarer Michael Juul Eriksens tur til at afhøre CSC-eksperten, indledte han med at gå på internettet med sin computer, som blev projiceret op på skærme i retslokalet.
+Han gik ind på websiden
+sdn.dk
+, som er CSC's vejledning til kunderne og blev hurtigt standset af et krav om brugernavn og kode.
+Juul Eriksen skiftede til
+internetarchive.org
+, som gemmer milliarder af websider tilbage i tiden. Forsvarsadvokaten fandt CSC-siden
+sdn.dk
+i en version fra 2012.
+Ved hjælp af ganske få klik og uden at blive afkrævet brugernavn og kode fandt han frem til en række af de oplysninger og brugernavne, som to personer – kaldet Advanced Persistant Terrorist Threat og My Evil Twin - udvekslede på en internetchat kort før dataindbruddet hos CSC begyndte i marts-april 2012.
+Politiet mener, at de to personer her udvekslede de oplysninger, som gjorde det muligt at hacke sig ind i CSC's systemer.
+Og en stor del af de oplysninger var altså dengang frit tilgængelige, demonstrerede Michael Juul Eriksen.
+»Lige præcis de her var tilgængelige, ja«, erkendte Martin Gohs.
+Hackerne brugte også den offentligt tilgængelige webside
+tjenestemandspension.dk
+som indgang til CSC's centrale computere. Det var muligt på grund af en fejl i softwaren, forklarede Martin Gohs.
+Da hackerne først havde skaffet sig adgang til CSC's kæmpecomputere, som skal passe på blandt andet politiets og CPR-registrets oplysninger, installerede de i alt tre bagdøre, som sikrede, at de kunne komme og gå som de ønskede, og skaffede sig selv maksimale rettigheder til at gøre, hvad de ville med data.
+Det skete i perioden april til august 2012. I alt 19 gigabyte data blev kopieret og downloadet til servere i Cambodja, Iran og Tyskland, uden at CSC anede uråd.
+Indbrudstyvene trængte ind i CSC's computere ved at udnytte en såkaldt
+zero day-
+sårbarhed, det vil sige en svaghed i systemet, som hverken CSC eller systemleverandøren IBM kendte til. Sårbarheden betød, at hackerne kunne få CSC's computere til at lystre kommandoer, som computerne ikke burde lystre.
+»Det kan lade sig gøre, hvis systemet ikke er beskyttet godt nok«, sagde Martin Gohs.
+Han forklarede i retten, at hackersagen for CSC »helt klart har haft økonomiske konsekvenser i forhold til vores rygte og vores kunder – vi er på alles læber«.
+Få hele overblikket over danmarkshistoriens største hackersag:
+John Hansen

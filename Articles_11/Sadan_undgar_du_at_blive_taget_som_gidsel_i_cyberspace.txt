@@ -1,0 +1,9 @@
+Title: Sadan_undgar_du_at_blive_taget_som_gidsel_i_cyberspace
+Date: 2015-01-23
+Article Type: Danmark
+Author: Jane Bruun Elkjær
+
+En bølge af cyberangreb har i ugens løb skyllet ind over danske firmaer og offentlige myndigheder.
+Både Gribskov og Nordfyns Kommune har været udsat for de såkaldte
+ransomware
+-angreb, hvor hackere narrer medarbejdere til at klikke på et link eller en vedhæftet fil. Når de har gjort det, får bagmændene fri adgang til at låse de filer, drev eller netværk, medarbejderen har adgang til, og derefter sender de et krav om løsesum for at genåbne dem - deraf navnet ransomware.

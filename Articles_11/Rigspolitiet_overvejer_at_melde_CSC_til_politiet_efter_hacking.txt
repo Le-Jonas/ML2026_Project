@@ -1,0 +1,35 @@
+Title: Rigspolitiet_overvejer_at_melde_CSC_til_politiet_efter_hacking
+Date: 2014-08-31
+Article Type: Digitalt
+Author: John Hansen
+
+Journalist
+Jakob Sorgenfri Kjær
+Journalist
+Et større juridisk slagsmål om medansvaret for danmarkshistoriens største hackerangreb kan være under opsejling.
+Justitsminister Karen Hækkerup (S) oplyser i et svar til Enhedslistens retsordfører, Pernille Skipper, at Rigspolitiet overvejer at politianmelde CSC for at have svigtet sin opgave med at beskytte en række statslige databaser, der rummer fortrolige oplysninger om borgerne.
+»Rigspolitiet har på nuværende tidspunkt ikke taget stilling til, om der skal indledes en politisag mod CSC. Rigspolitiet afventer blandt andet Datatilsynets udtalelse, før der træffes endelig beslutning herom«, lyder det i svaret fra ministeren.
+Gennem næsten fem måneder i 2012 udnyttede hackere sårbarheder i CSC’s it-systemer til at få fri adgang til blandt andet politiets, Skats og CPR-kontorets databaser. CSC opdagede det aldrig.
+I den forløbne uge har Center for Cybersikkerhed afgivet to rapporter om hackerangrebet, hvoraf den ene er hemmeligstemplet. Men Center for Cybersikkerhed slår fast, at hackerne med sikkerhed har kopieret oplysninger fra politiets systemer, mens det forekommer usikkert, om der er lavet kopier af data fra de øvrige myndigheder.
+Det er tidligere kommet frem, at hackerne blandt andet har downloadet millioner af danske kørekortnumre og et stort omfang oplysninger om efterlyste europæere fra Rigspolitiets kørekortregister og Schengens informationssystem.
+I den offentliggjorte rapport får CSC kritik for at have haft sårbare systemer, ligesom der peges fingre ad Rigspolitiet for at have været for ukritisk over for sin it-leverandør. Justitsminister Karen Hækkerup medgiver over for Politiken, at der er sket svigt i sagen:
+»Denne sag har været en øjenåbner, og vi må konstatere, at datasikkerheden ikke har været god nok. Det skal alle offentlige myndigheder lære af. Rigspolitiet har allerede lagt en stor indsats i at styrke it-sikkerheden, og nu er Digitaliseringsstyrelsen og Center for Cybersikkerhed så kommet med række konkrete anbefalinger til statslige myndigheders it-drift. De anbefalinger skal tages alvorligt«, skriver Hækkerup i en mail.
+Enhedslistens Pernille Skipper finder det positivt, hvis der bliver sat kritisk fokus på statens største it-leverandørs rolle i affæren:
+»CSC varetager fundamentale opgaver for vores samfund, da de skal beskytte centrale dele af samfundets infrastruktur. Vi kan læse i rapporten, at man som myndighed ikke kan stole på, at et selskab som CSC leverer en optimal sikkerhed, selv om vi betaler dem gode skattekroner for lige netop det. Vi mener, det er på tide, at vi får en diskussion om, hvorvidt statens data skal ligge i hænderne på et selskab, der har profit og ikke datasikkerhed som sit øverste formål«.
+Den amerikanskejede it-gigant holder over for Politiken fast i, at man ikke kunne have handlet anderledes i forløbet, da hackerangrebet mod CSC udnyttede en sårbarhed, der i 2012 var ukendt i hele branchen.
+»CSC har ikke modtaget noget krav fra Rigspolitiet, og CSC mener, at opmærksomheden fra myndighederne er behørigt fokuseret på gerningsmændene«, skriver Jette Aagaard Madsen, CSC’s offentlig sektor-direktør.
+Hun henviser til retssagen mod en 21-årig dansker og en svensk statsborger, der indledes på tirsdag. Hvis dømt, risikerer de op til seks års fængsel for grov hacking og omfattende forstyrrelse af samfundsvigtig infrastruktur.
+Derudover risikerer de at skulle betale CSC en klækkelig erstatning. CSC’s advokat oplyser, at selskabet undervejs i sagen vil rejse et krav på 6-7 millioner kroner.
+»Det er omkostningerne for at genoprette de skader på systemerne, der er forbundet med kriminaliteten. Vi har en forventning om at få lov til at gøre kravet gældende i straffesagen, da det vil være enklere for retssystemet, end hvis der skal til at køre en helt ny sag om det samme hackerangreb«, siger Hans Jakob Folker fra advokatfirmaet Kromann Reumert.
+Se en tidslinje for danmarkshistoriens største hackersag.
+Retten på Frederiksberg skal vurdere, om erstatningskravet kan attesteres ind, eller om CSC’s ønske skal afvises, da det vil fjerne for meget fokus fra selve straffesagen.
+CSC's ansvar meget relevant for erstatningssagen
+Lars Bo Langsted, professor i strafferet med ekspertise i it-kriminalitet, vurderer, at CSC’s og Rigspolitiets sikkerhedssvigt kun i marginalt omfang vil få betydning for den eventuelle udmåling af fængselsstraf. Til gengæld vil det blive en helt væsentlig del af erstatningsspørgsmålet:
+»I en erstatningssag er det meget relevant at se på, hvad CSC selv kunne have gjort for at forhindre et angreb. Et godt princip i erstatningsretten siger, at hvis man har udvist egen skyld eller handlet med accept af en risiko, så bliver erstatningen sat ned eller bortfalder helt«, siger Lars Bo Langsted fra Cyber Crime Research Centre ved Aalborg Universitet.
+Michael Juul Eriksen er forsvarer for den tiltalte dansker, der har siddet varetægtsfængslet i 15 måneder. Advokaten har en klar fornemmelse af, at det er en prestigesag for politiet at få fældet de mistænkte.
+»Min klient kommer til at sidde længere tid i varetægtsfængsel før dommen, end folk i mange drabs- og narkosager – det virker underligt. Hvis ansvaret også ligger et sted i systemet, kan man ofre nogle personer og på den måde aflede opmærksomheden fra systemets eget ansvar. Jeg går med den tanke, at der skal findes en syndebuk«, siger han.
+Jakob Sorgenfri Kjær
+fortsæt med at læse
+It-kriminelle angriber danske firmaer
+Svensk hacker fængslet i cpr-sag
+Ingen straf i sigte for politiet og CSC

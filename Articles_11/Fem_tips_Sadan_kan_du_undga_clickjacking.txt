@@ -1,0 +1,7 @@
+Title: Fem_tips_Sadan_kan_du_undga_clickjacking
+Date: 2014-06-14
+Article Type: Digitalt
+Author: Morten Bay
+
+Clickjacking kalder man det, når et usynligt stykke grafik bliver lagt hen over en ellers tilforladelig knap eller link, men når du klikker, er det den usynlige grafik, du klikker på. Og dermed kan du uden at vide det slippe alskens virus og spyware løs på din maskine.
+Men der er også en simplere form for clickjacking, hvor et banner eller en knap bare leder et andet sted hen end lovet. Her er nogle tips til at undgå clickjacking.

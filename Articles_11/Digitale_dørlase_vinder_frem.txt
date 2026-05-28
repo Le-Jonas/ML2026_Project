@@ -1,0 +1,7 @@
+Title: Digitale_dørlase_vinder_frem
+Date: 2014-12-15
+Article Type: Digitalt
+Author: Karim Pedersen
+
+Den gamle dørnøgle bliver nu erstattet af en nøgle-app til mobilen, som sender signaler via bluetooth til en lille enhed i døren. En fjerdedel af alle opgange i København har allerede fået installeret systemet fra danske Bekey, som indbygges i selve dørtelefonen. Det sørger for, at opgangsdøren automatisk låses op, så snart brugeren nærmer sig med sin mobiltelefon.
+Det er altså ikke længere nødvendigt at bære rundt på en fysisk nøgle, der kan tabes eller kopieres. Samtidig slipper beboerne for forstyrrelser på dørtelefonen og nøglebokse på muren.

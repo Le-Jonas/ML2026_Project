@@ -1,0 +1,10 @@
+Title: Fortrolig_rapport_afslører_elendig_it-sikkerhed_ved_hackerangreb_pa_CSC
+Date: 2014-10-11
+Article Type: Danmark
+Author: John Hansen
+
+Journalist
+Jakob Sorgenfri Kjær
+Journalist
+De danske myndigheder har ikke – og får aldrig – vished for, om følsomme data om borgerne er blevet kopieret, ændret eller slettet i forbindelse med hackerangrebet i 2012 på CSC. Og det skyldes ringe sikkerhed hos statens største it-leverandør og myndighedernes manglende krav til selskabet. Sådan lyder det i en hemmelig rapport om angrebet, som Politiken er i besiddelse af.
+»Angriberen havde formodentlig rettigheder til at kopiere, slette, ændre og tilføje data (...), hvilket indbefatter data fra politiet, CPR-registret, Skat og Moderniseringsstyrelsen«, fremgår det i den klassificerede rapport fra Center for Cybersikkerhed under FE og PET fra august 2014 .

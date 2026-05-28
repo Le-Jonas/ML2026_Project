@@ -1,0 +1,8 @@
+Title: Nødvendig_infrastruktur_forvandles_til_en_byport_af_ulmende_kraft
+Date: 2014-09-06
+Article Type: Arkitektur
+Author: Karsten R.S. Ifversen
+
+Arkitekturredaktør på Politiken
+Enhver, der er kørt forbi Roskilde på motorvejen de seneste år, har bemærket, at noget stort og imponerende har været undervejs her.
+Der er tale om et nyt forbrændingsanlæg, der på grund af sin prominente placering på en højderyg langs motorvejen har fået tildelt en særdeles spektakulær indpakning.

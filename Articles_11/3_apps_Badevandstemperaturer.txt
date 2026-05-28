@@ -1,0 +1,7 @@
+Title: 3_apps_Badevandstemperaturer
+Date: 2014-08-02
+Article Type: Digitalt
+Author: . .
+
+Med denne meget simple app kan du få daglige badevandsprognoser fra en lang række strande langs den danske Øresundskyst og den svenske Hallandskyst. Appen giver en oversigt over badevandskvaliteten, strømforhold og vejret i området omkring stranden for den pågældende dag og tre dage frem.
+Badevand er gratis i App Store og Google Play
