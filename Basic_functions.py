@@ -351,7 +351,7 @@ def save_tale(title, date, topic_categories, topic_names, text, save_dir):
         f.write("\n")
         f.write(text)
 
-def main_scrape(base_url, speeches_url, save_dir):
+def main_scrape(base_url, speeches_url, save_dir, raise_fetch_errors=True):
     session = requests.Session()
     session.headers.update({"User-Agent": "KU MachineLearning2026 FinalProject Bot/1.2"})
 
@@ -361,8 +361,11 @@ def main_scrape(base_url, speeches_url, save_dir):
         try:
             r = polite_get(full_url, session)
         except Exception as e:
-            print(f"Error fetching {full_url}: {e}")
-            continue
+            if raise_fetch_errors:
+                raise RuntimeError(f"Error fetching {full_url}: {e}")
+            else:
+                print(f"Error fetching {full_url}: {e}")
+                continue
         try:
             title, date, topic_categories, topic_names, text, err = scrape_tale(r)
         except Exception as e:
