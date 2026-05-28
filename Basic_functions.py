@@ -171,11 +171,14 @@ def read_files(path, char_dict, sparse=False, length = None):
         date = header_lines[1].split(": ")[1]
         preach = 0
         organization = np.nan
+        article_topic = np.nan
         for line in header_lines:
             if line.split(": ")[-1] == "Prædiken":
                 preach = 1
             if line.split(": ")[0] == "Organisationer og bevægelser":
                 organization = line.split(": ")[1]
+            if line.split(": ")[0] == "Article Type":
+                article_topic = line.split(": ")[1]
         lix = calculate_LIX(text)
 
         if length is not None:
@@ -190,7 +193,7 @@ def read_files(path, char_dict, sparse=False, length = None):
                 else:
                     row = convert_to_data(text_part, char_dict, normalize=False)
                     data.append(row)
-                label.append((date_to_float(date), preach, organization, lix))
+                label.append((date_to_float(date), preach, organization, article_topic, lix))
                 row_idx += 1
         else:
             if sparse:
@@ -201,7 +204,7 @@ def read_files(path, char_dict, sparse=False, length = None):
             else:
                 row = convert_to_data(text, char_dict, normalize=True)
                 data.append(row)
-            label.append((date_to_float(date), preach, organization, lix))
+            label.append((date_to_float(date), preach, organization, article_topic, lix))
             row_idx += 1
     if sparse:
         data = coo_matrix((sparse_data, (sparse_rows, sparse_cols)), shape=(row_idx, len(char_dict))).tocsr()
