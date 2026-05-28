@@ -358,7 +358,11 @@ def main_scrape(base_url, speeches_url, save_dir):
     for speech_url in speeches_url:
         full_url = base_url + speech_url
         print(f"Processing: {full_url}")
-        r = polite_get(full_url, session)
+        try:
+            r = polite_get(full_url, session)
+        except Exception as e:
+            print(f"Error fetching {full_url}: {e}")
+            continue
         try:
             title, date, topic_categories, topic_names, text, err = scrape_tale(r)
         except Exception as e:
