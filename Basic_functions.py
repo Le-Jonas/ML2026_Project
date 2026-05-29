@@ -289,6 +289,8 @@ def polite_get(url, session, min_delay=0.5, max_delay=1.5, max_retries=5):
 def scrape_tale(r):
     soup = BeautifulSoup(r.text, "html.parser")
     title = soup.find("title").text.strip()
+    if len(title) > 50:
+        title = title[:50]
     possible_dates = soup.select("time")
     for possible_date in possible_dates:
         if possible_date.has_attr("datetime"):
