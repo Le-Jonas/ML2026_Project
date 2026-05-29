@@ -1,0 +1,33 @@
+Title: Google_kritiseres_for_at_filtrere_og_censurere_søgninger
+Date: 2017-04-10
+Article Type: Medier
+Author: Johan Moe Lindskov
+
+Områderedaktør, kulturredaktionen
+De leger »tankepoliti«, siger rådgiver Mikkel deMib Svendsen fra det digitale bureau Waimea.
+Det er Google, han langer ud efter. Eksperten, der i 20 år har arbejdet med søgemaskiner, mener, at medievirksomheden med noget nær monopol på søgninger på internettet er godt på vej til at »censurere« hjemmesider, som indeholder kritik af islam eller krænkende materiale.
+»De er ude på at gemme indhold væk på internettet. Men folk skal have ret til at mene noget kontroversielt, selv om vi andre ikke er enige med dem«, siger han.
+For at forstå it-ekspertens kritik af Google bliver vi nødt til at træde et skridt tilbage. Google har ansat en hær på cirka 10.000 personer, der vurderer, om medievirksomhedens søgetjeneste giver kvalificerede søgeresultater. Eller med andre ord finder de sider frem, som Google gerne vil have tjenesten til at finde frem. Kontrollørerne skal for eksempel give Google besked, hvis søgetjenesten viser brugerne vej til hjemmesider med porno, når det slet ikke er det, som brugerne leder efter.
+Google samler vurderingerne fra de 10.000 personer og bruger løbende dataene til at optimere søgemaskinens komplekse algoritmer, der konkret afgør, hvad vi får at se, når vi googler. Kontrollørernes vurderinger bliver brugt til at sikre de bedste resultater til brugerne.
+For nylig fik de 10.000 kvalitetskontrollører besked på også at slå ned på »krænkende indhold«, og det er det, som bekymrer Mikkel deMib Svendsen.
+For eksempel vil Google ikke have en hjemmeside, der fornægter holocaust, til at dukke op, når en person spørger Google, om holocaust fandt sted. Heller ikke stærkt islamkritiske sider skal vises, når brugere søger på islam hos søgetjenesten, fremgår det af dokumentet med retningslinjer til de såkaldte quality raters.
+Til det amerikanske nichemedie Search Engine Land siger Paul Haahr, der er en af Googles senioringeniører, at virksomheden går efter at slå ned på »åbenlyst ukorrekt information«.
+Google har fortalt Search Engine Land, at man allerede i december afprøvede data, der baserer sig på et forsøg med de nye retningslinjer. Ifølge mediet med det resultat, at en del af det »krænkende materiale«, som tidligere dukkede op i toppen, når man spurgte Google, om holocaust fandt sted, ikke længere viser sig.
+Vi skal være opmærksomme på, at det billede, vi får, når vi søger på Google, er et kurateret billede. Det siger Vincent F. Hendricks, professor ved Københavns Universitet og leder af Center for Information og Boblestudier.
+»Google redigerer ud fra nogle betragtninger, som gælder alt fra min klikhistorie til forskellige hensyn, som Google gerne vil tage, når de giver os information«, siger professoren og tilføjer:
+»Det kan man tude over, og det er der måske grund til, men sådan er det i en verden, hvor man kan tjene utrolig mange penge på at udbyde information«.
+Hvorfor skal vi tude?
+»Konsekvensen er, at du bliver underlagt deres redaktionelle linje, om du vil det eller ej. Det er den pris, vi betaler for at få information til fingerspidserne«.
+Google har ikke et ønske om at censurere bestemte holdninger. De forsøger at sætte ind mod krænkende indhold, fordi de bliver presset af politikere og virksomheder, der vil have Google til at tage ansvar som et traditionelt medie, vurderer Ask Hesby Krogh, teamleder med speciale i ligebehandling på Institut for Menneskerettigheder.
+»De prøver desperat at slukke en ildebrand. Senest har Google oplevet en massiv annonceflugt, fordi de har haft sager med annoncer, der dukker op uheldige steder«, siger han.
+Ifølge Ask Hesby Krogh er det oplagt, at Google nedprioriterer de sider, der benægter et historisk kendskab, fordi Google lever af at give korrekt information.
+»Men gråzonen opstår, hvis de også begynder at gemme sider med for eksempel islamkritik, for så er det ytringsfriheden, de piller ved«, siger han.
+Hos Google Danmark ønsker man ikke at stille op til interview, men skriver i stedet, at kontrollørerne ikke har direkte indflydelse på rangeringen af sider, men bliver brugt til at træne søgemaskinen.
+»Vores retningslinjer til ’raterne’ har altid foreskrevet, at indhold af høj kvalitet skal være eksempelvis nøjagtigt. Det nye er, at vi nu understreger det endnu tydeligere i vores retningslinjer«, skriver Helle Mayor, talsperson for Google Danmark.
+Johan Moe Lindskov
+fortsæt med at læse
+It-konsulent:
+Facebook er vore dages Stasi-arkiver
+Undersøgelse:
+Op mod hver 7. Twitterprofil er falsk
+Googles Android-mobiler overhaler Windows på nettet

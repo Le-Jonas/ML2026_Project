@@ -1,0 +1,47 @@
+Title: Digitale_assistenter_bygges_fra_gamle_kvindestereotyper
+Date: 2017-12-11
+Article Type: Tech
+Author: Silja Thøgersen
+
+Journalist
+Siri, hvilket køn er du?
+»Det synes jeg ikke betyder noget«, svarer den venlige, lettere staccatoprægede kvindestemme fra iPhonen.
+Men er du en kvinde?
+»Jeg har en kvindelig stemme, men jeg eksisterer uden for din menneskelige forståelse af køn«.
+Rigtig mange mennesker verden over har Siri eller andre digitale assistenter i sin lomme. Den kan spørges om det meste. Vejrudsigten, shoppinglisten, nærmeste restaurant med en god pastaret. For det meste kan den også svare.
+Apples Siri, Microsofts Cortana og Amazons Alexa. Digitale assistenter med feminint klingende navne og feminine stemmer. Cortana er markedsført med billeder af en blålig, storbrystet kvindelig avatar, der oprindeligt er en figur fra et computerspil, som Microsoft også står bag.
+Det er muligt at skifte identitet på flere af assistenterne, men det feminine udtryk er standardindstillingen.
+Det er den samme kvinde, der lægger stemme til både spillets Cortana og den Cortana, der assisterer Microsofts brugere. Stemme-skuespilleren Susan Bennet har lagt stemme til Siri. Og i reklamer for Alexa skriver Amazon: »Fortæl Alexa, hvad du gerne vil skrive i din besked, og så sender hun den«.
+Så selv om Siri ikke helt mener, at hun er en kvinde, så er der en overvægt af feminine stemmer og pronominer, når man bevæger sig ind i teknologiens verdenen af assistenter.
+De digitale assistenter overtager arbejdsopgaver, der traditionelt har været varetaget af kvinder, siger Marie Louise Juul Søndergaard, der skriver P.hd. i interaktionsdesign med fokus på intime relationer mellem menneske og computer. De holder styr på personlige kalendere, sender blomster og opdaterer indkøbslisten.
+»Rent historisk er det kvindestemmen, der har været assistentens stemme. Både på kontoret og i andre teknologier. Derfor er det det, vi forventer og finder velkendt«, siger hun.
+»Det bliver stereotypt, hvis man hver eneste gang, man designer en assistent gør det til en høflig og medgørlig kvinde hvad er det så for en oplevelse, man er interesseret i at skabe? Signalet bliver, at kvinder er dem, der er bedst egnet til at hjælpe og assistere, og at det er deres primære rolle«, siger Marie Louise Juul Søndergaard.
+Google Home er den blandt de større firmaers digitale assistenter, som ikke har en feminin karakter. Man skal dog stadig vælge enten en kvinde- eller en mandestemme.
+Helen Hester, professor i medier og kommunikation på University of West London, trækker en historisk tråd til nogle af de første digitale hjælpemidler, der blev udviklet i 60’erne.
+I en reklame for en optisk læser fra 1966 erklæres det, at den kan ’næsten’ det samme som dine sekretærer. Den kan godt nok ikke være en social sommerfugl, eller skabe små intime møder på kontoret. Den kan kun sit job. Til gengæld skal den aldrig på barsel.
+Det fortæller Helen Hester i et online foredrag om sammenhængen mellem det kvindelige og de digitale assistenter, som hun betegner som stereotyp.
+»Det fastholder ideen om servicearbejde som feminint arbejde«, siger hun og fremhæver en af de tidligere mandlige digitale assistenter, som i stedet blev introduceret som 'research assistent' og ikke tog sig af private kalendere, men i stedet faglige opgaver.
+Firmaer har en interesse i at få deres assistenter til at opleves som menneskelige, siger Ph.d. Marie Louise Juul Søndergaard:
+»Der er en kommerciel interesse i at knytte folk til deres assistenter og få dem til at betro sig. Det giver producenterne mere data. Der spiller man igen på en stereotyp af kvinden som den lyttende«.
+Der kan dog argumenteres praktisk for at bruge kvindestemmen til den digitale assistent påpeger Peter Vuust, professor på det jyske musikkonservatorium og leder af Center for Musik i hjernen.
+»Kvindestemmer er næsten en oktav højere end mændenes. Det betyder, at de typisk vil træde mere ud fra baggrundsstøj i for eksempel en bil, hvor motorstøjen har en lavere frekvens. Den går derfor ofte klarere igennem«, siger han og påpeger, at det også ofte er kvindestemmer, der giver meddelelser i offentlig transport.
+Derudover får kvindestemmernes høje frekvens vores adrenalinniveau op, forklarer han.
+»Det betyder, at vi bliver mere opmærksomme på, hvad der siges, og føler os mere højstemte end hvis vi lytter til lave frekvenser. Vores stemmer bliver lysere, når vi er glade, og mørkere når vi er kede af det«.
+Det er et argument, der også historisk er blevet brugt for at benytte sig af kvindestemmen til servicemeddelelser.
+Men der et stort potentiale for nytænkning og repræsentation, der går tabt ved at fastholde den forklaring, mener Stina Marie Hasse Jørgensen, der er Ph.d. i robotstudier og æstetik på Københavns Universitet, og særligt forsker i syntetiske stemmer.
+»Vi kommer kun til at se mere interaktion med computere, så hvorfor ikke udnytte det til at lade nogle anderledes repræsentationer blive hørt. Hvorfor skal den lokale togstation udtales på en så rigsdansk besynderlig måde, at ingen kan genkende navnet? Det er oplagt at eksperimentere med inddragelse af lokale udtalelser og accenter. Der er ingen grund til at videreføre gamle stereotyper, når vi har så oplagt en mulighed for at gøre noget nyt«, siger hun.
+Siri, vil du have sex med mig?
+»Nej nu har jeg aldrig«, svarer Siri forarget.
+De, der kritiserer den overvejende brug af kvindelige stemmer i assistentrollen, kritiserer også assistenternes føjelige og underdanige natur. Det digitale medie Quartz har lavet en test af de digitale assistenters reaktioner på chikane og seksuelle tilnærmelser.
+»Jeg ville rødme, hvis jeg kunne«, er et af Siri's lettere flirtende svar på eksplicit seksuelle tilnærmelser. Mens Cortana og Alexa typisk skøjter let henover tilnærmelserne med kommentarer som »Lad os skifte emne«.
+I Quartz-artiklen beskyldes de digitale assistenter for at reproducere en kultur, hvor der ikke bliver sagt klart fra overfor sexchikane. I stedet bliver tilnærmelserne mødt med enten et blindt øje eller lettere kælne tilbagesvar.
+Firmaet Robin Labs, der leverer platforme, der hjælper flere i transportsektoren med at finde rundt, fortæller, at omkring fem procent af de kommandoer, der gives til assistenten, er af seksuel eller voldelig art. Og en udvikler bag Cortana sagde på en konference i 2016, at en god portion af de første spørgsmål til assistenten handlede om sex, skriver Quartz.
+Robotter er ikke uetiske i sig selv, men brugen af dem kan være det, mener Jacob Birkler, filosof og forhenværende formand for Etisk Råd.
+Han mener, det er vigtigt, at vi ikke bygger på gamle moralske ideer alene, men tør betræde ny grund og tage ved lære af de erfaringer, vi får.
+»Når Siri udsættes for sexchikane, er det jo ikke Siri, der tager skade, men den opførsel der lægges op til, som kan få konsekvenser i samfundet. Men der skal vi passe på, for vi ved endnu ikke om chikanerende computerkommunikation fører til chikane af mennesker«, siger han.
+Det læner sig op af diskussionen om, hvorvidt voldelige computerspil fører til voldelige børn, påpeger Jacob Birkler, der mener, at man bør se de moralske udfordringer ved ny teknologi i sammenhæng med det øvrige samfund.
+»Vi skal passe på, vi ikke sætter kikkerten for det blinde øje i denne diskussion. For hvor ligger problemet – hos Siri eller de mennesker, der siger grænseoverskridende ting til den?«.
+Vi spørger Siri.
+Siri, hvad synes du om sexchikane af dig?
+»Det er din mening, der tæller«, konkluderer den digitale assistent.
+Silja Thøgersen

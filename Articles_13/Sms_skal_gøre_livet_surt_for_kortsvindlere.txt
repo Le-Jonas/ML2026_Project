@@ -1,0 +1,8 @@
+Title: Sms_skal_gøre_livet_surt_for_kortsvindlere
+Date: 2017-09-03
+Article Type: Danmark
+Author: Jonas Pröschold
+
+Journalist
+En sms med en kode på fire tal, du skal indtaste, når du bruger dankort på nettet. Det lyder simpelt, men betalingsudbyderen Nets forventer, at tiltaget kan være med til at fjerne 25 procent af svindlen med danske betalingskort, der kostede mere end 300 millioner kroner alene i 2016. Det skal ske sammen med nye systemer, der genkender misbrugsmønstre og afviser mistænkelige transaktioner automatisk. Tilsammen mener Nets, at tiltagene kan sørge for, at kortsvindel for 100 millioner kroner bliver undgået alene i år.
+Hos netbutikken Proshop har de brugt det nye system siden maj. Her har kunderne først skullet registrere sig med NemID, når de købte for mere end 450 kroner. Derefter fik de en sms, de skulle indtaste for at færdiggøre købet. Og resultaterne taler for sig selv.

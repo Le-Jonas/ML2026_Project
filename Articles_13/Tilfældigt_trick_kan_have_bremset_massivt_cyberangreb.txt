@@ -1,0 +1,6 @@
+Title: Tilfældigt_trick_kan_have_bremset_massivt_cyberangreb
+Date: 2017-05-13
+Article Type: Digitalt
+Author: En forsker i cybersikkerhed ser ud til for en stund at have bremset en del af det omfattende hackerangreb, der har ramt computere verden over.
+
+På sin Twitter skriver den anonyme ekspert, at han har købt et domæne, som blev brugt til at sprede en tråd af den såkaldte malware. Det har fået antallet af angreb fra virussen til at falde drastisk.

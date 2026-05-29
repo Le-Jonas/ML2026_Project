@@ -1,0 +1,7 @@
+Title: Dine_handbevægelser_afslører_lasekoden_til_din_smartphone
+Date: 2017-04-13
+Article Type: Forbrug
+Author: Morten Bay
+
+Hackere bliver mere og mere snarrådige i jagten på dine pinkoder og passwords.
+Men heldigvis er der forskere, der hele tiden prøver at være et skridt foran hackerne. Et hold af sådanne forskere har netop fundet ud af en helt grundlæggende sikkerhedsfejl i smartphones: Hvis man kan aflæse, hvordan du holder telefonen, kan man også aflure din låsekode.

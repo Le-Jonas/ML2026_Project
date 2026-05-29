@@ -1,0 +1,8 @@
+Title: Hackerhelten,_der_stoppede_globalt_angreb,_er_anholdt
+Date: 2017-08-03
+Article Type: Internationalt
+Author: Solveig Wisbech
+
+Journalist
+Den unge brite Marcus Hutchins blev verdenskendt, da han stoppede et globalt cyberangreb ved at finde WannaCrys 'skjulte slukknap'. Nu er han arresteret i USA, anklaget for at have lavet et program, der kan stjæle bankoplysninger.
+Den såkaldte WannaCry-orm raserede i foråret og satte infrastruktur og flere hospitaler, firmaer og fabrikker ud af spil. Angrebet ramte flere end 230.000 computere i 150 lande, og spredte sig med en voldsomt fart. WannaCry opererede ved at tage filer som gidsler, og krævede en løsesum på 2.000 kroner for at frigive dem igen. Ifølge en rapport fra forsikringsgiganten Lloyds har angrebet givet omkostninger for mere end 50 milliarder kroner på verdensplan.

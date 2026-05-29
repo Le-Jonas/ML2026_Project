@@ -1,0 +1,21 @@
+Title: Forsvaret_sender_satellit_ud_i_rummet_for_første_gang
+Date: 2018-01-31
+Article Type: Danmark
+Author: En danskudviklet minisatellit – en såkaldt cubesat - bliver sendt ud i rummet fredag, hvis alt går efter planen. Det skriver Videnskab.dk.
+
+Satellitten er ejet og betalt af Forsvarsministeriet, og den skal udføre overvågningsopgaver for Forsvaret i Arktis.
+»Det er første gang, at Forsvaret sender sin egen satellit ud i rummet«.
+»Hvis det bliver en succes, kan det blive et skridt imod, at Forsvaret engagerer sig mere i at bruge rummet«, siger Charlotte Wiin Havsteen, ansvarlig for projektet ved Forsvarsministeriets Materiel- og Indkøbsstyrelse, til Videnskab.dk.
+Satellitten er udviklet i et samarbejde mellem Danmarks Tekniske Universitet (DTU) og rumvirksomheden GomSpace i Aalborg.
+Den måler blot 30x20x10 centimeter og indeholder radiomodtagere, der kan opfange positionssignaler fra skibe og fly.
+Herudover sidder der også et kamera på satellitten, som kan tage billeder af Arktis, når vejret er klart.
+»Den vejer kun otte kilo, og den er så lille, at den kan være i en almindelig Fjällräven-rygsæk«, fortæller Charlotte Wiin Havsteen.
+»Satellitten skal hjælpe med at løse forsvarets opgave med overvågningen i Arktis. Den kan give et overblik over, hvem der er i området, og hvad de laver«.
+Forsvaret har betalt 11,7 millioner kroner for satellitten. Prisen dækker både det videnskabelige udviklingsarbejde og opsendelse af satellitten.
+»Det er et helt nyt spring for forsvaret at gå ind i rumalderen. Tidligere har de selvfølgelig brugt udenlandske satellitdata ligesom alle os andre, men det er første gang, at de får deres egen satellit«.
+»Det er selvfølgelig rigtig interessant for os, der er i rumbranchen«, siger astrofysiker og direktør for DTU Space Kristian Pedersen til Videnskab.dk.
+Satellitten bærer navnet Ulloriaq, som betyder 'stjerne' på grønlandsk. Den vil blive sendt afsted fra Kina fredag om bord på en kinesisk 'Long March'-løfteraket, hvis vejret tillader det.
+Hvis Ulloriaqs bidrag til overvågningen af Arktis er en succes, kan den måske blive den første i en række af nanosatellitter, som kan blive sendt ud i rummet af det danske forsvar, skriver Videnskab.dk.
+I forbindelse med opsendelsen af Forsvarets nye satellit vil en anden danskbygget satellit også blive sendt ud i rummet.
+Denne satellit, som kaldes GomX-4B, er ligeledes bygget af den nordjyske virksomhed GomSpace. Den er finansieret af den europæiske rumfartsorganisation ESA og har helt andre opgaver end forsvarets Ulloriaq-satellit.
+ritzau

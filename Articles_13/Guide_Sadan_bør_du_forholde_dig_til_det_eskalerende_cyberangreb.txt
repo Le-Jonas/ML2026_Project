@@ -1,0 +1,10 @@
+Title: Guide_Sadan_bør_du_forholde_dig_til_det_eskalerende_cyberangreb
+Date: 2017-06-28
+Article Type: Forbrug
+Author: Jakob Sorgenfri Kjær
+
+Journalist
+Det globale cyberangreb, der er blevet døbt både 'Petya' og 'Notpetya', spreder sig over hele kloden. Mindst 65 lande er indtil videre blevet ramt, oplyser
+Microsoft
+i en teknisk gennemgang af angrebet.
+Ransomware-angrebet er mere teknisk avanceret og komplekst end det globale WannaCry-angreb i maj, som på det tidspunkt blev kaldt det hidtil mest omfattende.

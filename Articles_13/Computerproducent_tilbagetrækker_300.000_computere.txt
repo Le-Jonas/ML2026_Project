@@ -1,0 +1,10 @@
+Title: Computerproducent_tilbagetrækker_300.000_computere
+Date: 2018-02-08
+Article Type: Viden og tech
+Author: En løs skrue betyder, at computerproducenten Lenovo må trække cirka 5414 computere tilbage i Danmark.
+
+Globalt drejer det sig om cirka 300.000 bærbare computere af modellen ThinkPad X1 Carbon 5. generation, som er produceret mellem december 2016 og oktober 2017. Det skriver Computerworld.
+Lenovo har opdaget, at der i disse bærbare computere kan være en skrue løs. Fejlen kan potentielt føre til overophedning, som udgør en brandfare.
+Ifølge Lenovo er det kun få kunder, der på nuværende tidspunkt har meldt om overophedning.
+»Lenovo har modtaget tre kundeindberetninger om overophedninger, som har resulteret i skade på computeren. Computere, der er produceret i november 2017 og efter, er ikke omfattet«, oplyser Lenovo til Computerworld.
+ritzau

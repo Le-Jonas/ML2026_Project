@@ -1,0 +1,8 @@
+Title: Facebooks_totale_screening_af_brugere_i_jagten_pa_sexvideo-delere_overgar,_hvad_myndighederne_ma
+Date: 2018-01-18
+Article Type: Tech
+Author: Silja Thøgersen
+
+Journalist
+Facebooks beskedsystem, Messenger, er en integreret del af mange menneskers daglige kommunikation. Det føles som at sende en sms, og man kan et øjeblik glemme, at man skriver på en privat virksomheds platform. Det blev mere end 1.000 unge danskere i denne uge mindet om, da der blev rejst sigtelse mod dem på baggrund af en sexvideo, de havde delt med hinanden på Messenger. Nogen havde kigget med.
+Denne nogen var ifølge Facebook en teknologi udviklet af Microsoft under navnet PhotoDna. Den gennemgår billederne og laver matematiske fingeraftryk, som sammenlignes med et internationalt register over kendte børnepornobilleder. Er der sammenfald, reagerer algoritmen og melder tilbage til Facebook.

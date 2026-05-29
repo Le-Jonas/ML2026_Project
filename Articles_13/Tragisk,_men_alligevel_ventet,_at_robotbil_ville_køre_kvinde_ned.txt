@@ -1,0 +1,7 @@
+Title: Tragisk,_men_alligevel_ventet,_at_robotbil_ville_køre_kvinde_ned
+Date: 2018-03-24
+Article Type: Viden og Tech analyser
+Author: Henrik Føhns
+
+Da en 49-årig kvinde gik over gaden i mørke i mandags i byen Tempe i Arizona og blev kørt ned af en af Ubers selvkørende biler, skrev hun sig uforvarende ind i robotbilernes udviklingshistorie som en datahændelse, der skal studeres nøje.
+Historien er tragisk, fordi kvinden døde af sine kvæstelser på hospitalet. Hun er blevet den episode, alle udviklere og producenter af selvkørende biler frygter. Fodgængeren, som blev slået ihjel af en robot.

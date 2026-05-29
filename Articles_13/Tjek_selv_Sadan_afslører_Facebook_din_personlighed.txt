@@ -1,0 +1,9 @@
+Title: Tjek_selv_Sadan_afslører_Facebook_din_personlighed
+Date: 2018-03-20
+Article Type: Tech
+Author: Jens Bostrup
+
+Journalist
+Hvor godt kender Facebook dig egentlig? Og hvordan ser du ud for alle de virksomheder, der betaler for oplysningerne?
+Det kan du få et glimt af her.
+På hjemmesiden, der er udviklet af forskere på Cambridge University, giver du adgang til dine profiler på Facebook og Twitter. På basis af sproget i dine opslag, dine likes og delinger regner modellen ud, hvordan din personlighed - den såkaldt psykografiske profil - ser ud. Forskerne bag forsikrer, at du vil forblive anonym, og at de ikke gemmer dine data.

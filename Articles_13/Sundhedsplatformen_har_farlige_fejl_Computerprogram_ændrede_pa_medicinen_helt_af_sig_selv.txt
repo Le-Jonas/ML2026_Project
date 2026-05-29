@@ -1,0 +1,8 @@
+Title: Sundhedsplatformen_har_farlige_fejl_Computerprogram_ændrede_pa_medicinen_helt_af_sig_selv
+Date: 2018-01-16
+Article Type: Sundhed
+Author: Hans Drachmann
+
+Journalist
+Da en sygeplejerske på Sjællands Universitetshospital i Køge skulle give den daglige medicin til en indlagt patient, kunne hun ikke finde ud af, hvilken medicin patienten skulle have.
+I Sundhedsplatformen stod, at lægen havde ordineret to forskellige midler mod forhøjet blodtryk, som patienten selv skulle tage. I sygeplejerskernes system stod, at medicinen var sat på pause.

@@ -1,0 +1,21 @@
+Title: »Vi_er_dybt_kede_af_det_her«_Tusindvis_af_fortrolige_oplysninger_fra_Kalundborg_lækket_i_it-fejl
+Date: 2017-12-14
+Article Type: Danmark
+Author: Flere end 50.000 filer.
+
+Så mange er blevet blotlagt grundet en sikkerhedsbrist i it-systemet i Kalundborg Kommune.
+Filerne indeholder informationer på borgeres cpr-numre, lønoplysninger og administratorkoder til it-systemer i Kalundborg Kommune.
+Det skriver Børsen
+.
+Kommunaldirektør i Kalundborg Kommune Jan Lysgaard Thomsen oplyser, at man arbejder på højtryk for at få et overblik over sikkerhedsbristen.
+»Vi er dybt kede af det her og skal selvfølgelig beklage mange gange. Straks vi blev opmærksomme på problemet, har vi trukket stikket på den berørte server«, siger han til Børsen.
+De mange tusinde filer blev ved en fejl lagt på en server, som flere borgere og firmaer har adgang til, uden at være krypteret. Kommunen ved dog ikke, præcist hvor mange der har haft adgang til serveren.
+En af de mange filer indeholder flere tusinde navne på borgere, der modtager kontanthjælp, integrationsydelse og uddannelseshjælp i kommunen.
+Derudover indeholder flere filer sikkerhedscertifikater og administratorkoder til kommunens systemer.
+Sikkerhedsbristen skete angiveligt, da kommunens it-afdeling skulle tage en backup af et af deres it-systemer for en måned siden. Det pågældende it-system bruger kommunen blandt andet til at hjælpe ansatte med it-problemer.
+Ifølge kommunen betød en menneskelig fejl, at backuppen blev lagt ukrypteret op på en såkaldt ftp-server. Denne server havde flere borgere og firmaer altså adgang til, da kommunen længe har sendt mails rundt med det samme brugernavn og kodeord.
+Kalundborg Kommune oplyser i en pressemeddelelse, at man ser med stor alvor på sagen og har indledt en dialog med Datatilsynet.
+»Børsen fik et password til ftp-serveren, hvor en række offentlige filer blev placeret til brug for aktindsigt«, siger kommunaldirektør Jan Lysgaard Thomsen i en pressemeddelelse.
+»I de 14 dage, hvor Børsen havde adgang til serveren, var der på grund af en menneskelig fejl også en mulighed for adgang til blandt andet personfølsomme datafiler«.
+Kalundborg Kommune tilføjer, at de foreløbige undersøgelser tyder på, at det i den pågældende periode kun er Børsens journalist, der har åbnet og downloadet filerne med de følsomme oplysninger.
+ritzau

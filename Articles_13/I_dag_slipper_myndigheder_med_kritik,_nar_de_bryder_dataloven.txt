@@ -1,0 +1,8 @@
+Title: I_dag_slipper_myndigheder_med_kritik,_nar_de_bryder_dataloven
+Date: 2017-10-13
+Article Type: Tech
+Author: Jakob Sorgenfri Kjær
+
+Journalist
+I forrige uge var den gal igen. Datatilsynets stikprøveundersøgelse i otte statslige myndigheder viste, at der i syv af dem var omfattende eller meget omfattende mangler i efterlevelsen af persondataloven.
+Særligt galt stod det til med datasikkerheden i Beskæftigelsesministeriet, Sundheds- og Ældreministeriet, Vejdirektoratet og Sundhedsdatastyrelsen, der måtte lægge ryg til udtalelsen »meget kritisabelt« fra Datatilsynet.

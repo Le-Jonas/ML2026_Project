@@ -1,0 +1,6 @@
+Title: Fejl_udløste_it-nedbrud_pa_hospitaler_i_Region_Hovedstaden
+Date: 2017-08-04
+Article Type: Sundhed
+Author: Region Hovedstaden oplevede fredag morgen et stort it-nedbrud, men alle systemer er klokken 10.30 oppe at køre igen.
+
+Fredagens netværksnedbrud i Region Hovedstaden skyldtes en fejl, der opstod under en standardprocedure på en central netværkskomponent. Det skriver regionen på Twitter.

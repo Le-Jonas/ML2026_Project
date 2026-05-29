@@ -1,0 +1,21 @@
+Title: USA_ophæver_regel_om_lige_adgang_til_internetsider
+Date: 2017-12-14
+Article Type: Digitalt
+Author: USA's Federal Communications Commission (FCC) har ophævet den såkaldte 'netneutralitet', der hindrer internetudbydere i at differentiere adgangen til hjemmesider og internettjenester.
+
+Ophævelsen har været undervejs længe, og den er blevet stærkt kritiseret.
+Det erklærer formanden for FCC, Ajit Pai, på et åbent møde i FCC's bestyrelse. Afstemningen endte 3-2 til fordel for at ophæve reglen.
+»Vi vender meget simpelt tilbage til den mere tilbageholdende tilgang til kontrol med internettet, der har styret det i det meste af dets eksistens«.
+»Himlen falder ikke ned, forbrugerne vil stadig være beskyttet, og internettet vil fortsat trives«, sagde Ajit Pai ved afgørelsen.
+Kort før den endelige afstemning blev mødet afbrudt kortvarigt. På den direkte transmission kunne man se bevæbnet politi og en bombehund gennemgå lokalet.
+Begrebet netneutralitet dækker over, at internetudbydere ikke må blokere, begrænse, prioritere eller på anden måde gøre forskel på adgang til forskellige hjemmesider og tjenester på internettet.
+Med andre ord betyder det, at kundens internetforbindelse altid kører med samme fart, uanset om man streamer serier på Netflix eller HBO, eller man foretager søgninger på Google eller Yahoo.
+De store amerikanske internetudbydere har meldt ud, at de også ønsker et frit og åbent internet.
+De peger på, at en skrotning af reglerne eksempelvis vil gøre det muligt at tilbyde internetpakker, hvor kunderne i højere grad selv kan bestemme, hvad de vil betale for.
+Selskaber som Google, Amazon og Facebook samt nogle af internettets skabere er lodret uenige.
+De frygter blandt andet, at internetudbyderne vil udnytte en afskaffelse af netneutralitet til at prøve at gøre livet svært for visse firmaer.
+Flere internetudbydere tilbyder nemlig også telefoni eller egen streamingtjeneste. Det kan friste dem til at hæve prisen på data til eksempelvis Skype-telefoni eller Netflix og derved fremme deres egne tjenester.
+»Vi giver nøglerne til internettet til en lille gruppe milliardselskaber«, sagde medlem af FCC's bestyrelse Mignong Clyburn, der stemte imod, forud for afgørelsen.
+ritzau
+fortsæt med at læse
+Tech-guruer slår alarm, inden internettet på torsdag kan blive fuldstændig forandret i USA

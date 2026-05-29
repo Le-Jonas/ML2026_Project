@@ -1,0 +1,7 @@
+Title: Android_sladrer_om_din_lokation_-_selv_nar_du_har_slaet_det_fra
+Date: 2017-11-22
+Article Type: Digitalt
+Author: Morten Bay
+
+De fleste er efterhånden klar over, at mange apps og tjenester registrerer, hvor en smartphone befinder sig geografisk. Hvis du vil holde din lokation hemmelig, kan du dog gøre det ved at slå lokations-tjenesterne fra i din smartphone, ikke sandt? Det troede Android-brugere nok, at de kunne. Men nu viser det sig, at Google alligevel registrerer deres geografiske placering, til trods for at f.eks. GPS-modulet i smartphonen er slået fra.
+Google har netop bekræftet overfor business-mediet Quartz, at denne registrering af geografisk placering finder sted. Sporingen af Android-smartphones er sket siden januar i år, men Google lover nu at holde op med denne praksis, blandt andet ved at udsende en software-opdatering til Android.

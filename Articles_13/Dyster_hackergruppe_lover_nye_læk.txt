@@ -1,0 +1,6 @@
+Title: Dyster_hackergruppe_lover_nye_læk
+Date: 2017-05-17
+Article Type: Digitalt
+Author: Den sårbarhed i computerstyresystemet Windows, der i weekenden blev brugt til virusangrebet WannaCry, blev i april lækket af hackergruppen Shadow Brokers.
+
+Nu lover gruppen, at der er flere og mere alvorlige sårbarheder til salg.

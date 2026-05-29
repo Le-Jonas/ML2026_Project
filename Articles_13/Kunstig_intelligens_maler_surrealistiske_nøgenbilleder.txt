@@ -1,0 +1,10 @@
+Title: Kunstig_intelligens_maler_surrealistiske_nøgenbilleder
+Date: 2018-04-04
+Article Type: Kunst
+Author: Perry MacLeod Jensen
+
+Journalist
+Hvad sker der, når man fodrer en kunstig intelligens med tusindvis af nøgenbilleder og beder den om at skabe ny kunst?
+Det har 18-årige Robbie Barrat fra USA spurgt sig selv om, og svaret er ret surreelt. Han har brugt den såkaldte
+generative adverserial network
+-teknologi (GAN), der kan aflæse store mængder data og omsætte den til billeder.

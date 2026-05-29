@@ -1,0 +1,14 @@
+Title: Tysk_domstol_erklærer_Facebooks_brug_af_data_ulovlig
+Date: 2018-02-13
+Article Type: Viden og tech
+Author: Berlins regionale domstol (VZBV) har med en dom slået fast, at det sociale medie Facebooks standard privatindstillinger og brug af persondata er imod den tyske forbrugerlov.
+
+Facebook udtaler, at de vil arbejde på at ændre indstillingerne.
+Det skriver The Guardian ifølge Ritzau Finans.
+Ifølge domstolen samler og bruger Facebook persondata uden at give nok information til det sociale medies brugere, så de kan give et meningsfuldt samtykke.
+»Facebook gemmer standardopsætninger, der ikke er privatvenlige i sit center for forbrugers privatliv og stiller ikke nok information vedrørende disse indstillinger, når en bruger opretter sig på det sociale medie, til rådighed. Disse praksisser møder ikke kravet til et informeret samtykke«, siger Heiko Duenkel, der er sagfører for den tyske sammenslutning af forbrugerorganisationer, VZBV, til The Guardian.
+VZBV har blandt andet fundet, at Facebook i sin app for smartphones har præaktiveret en lokalitetstjeneste, samt at i brugeres privatindstillinger er boksene, der tillader søgemaskiner at linke til brugeres Facebook-profiler, hakket af ved oprettelse af profilen.
+Tiltag, som ikke stemmer overens med databeskyttelsesloven og brugernes privatliv.
+I en udtalelse har Facebook sagt, at det vil appellere dommen, men tilføjer samtidig, at det sociale netværk arbejder hårdt for at leve op til alle retningslinjer.
+Facebook har efterfølgende meldt ud, at det sociale netværk grundigt vil gennemgå sine privatindstillinger, så de vil stemme overens med den nye europæiske databeskyttelseslov.
+ritzau

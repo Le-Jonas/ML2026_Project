@@ -1,0 +1,7 @@
+Title: Eksperter_slar_alarm_Dit_tradløse_netværk_er_ikke_længere_sikkert
+Date: 2017-10-16
+Article Type: Tech
+Author: Morten Bay
+
+Det er muligvis den største Internet-sikkerhedsbrist i nyere tid. Når ordet »muligvis« figurerer i den forrige sætning, er det fordi, eksperterne stadig ikke er helt klar over omfanget af problemet. Men at der er tale om et meget stort problem, er de alle enige om. Og det påvirker stort set alle, der går på nettet i dag.
+Det handler om sikkerheden på trådløse netværk. Ikke bare det, du har derhjemme, som du måske har beskyttet med et eller andet sjovt password, der er nemt at huske. Det handler om alle trådløse netværk, også det netværk, du kobler dig på henne på caféen, på jobbet, på skolen…hvor som helst.
