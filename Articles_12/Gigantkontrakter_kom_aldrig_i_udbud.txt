@@ -1,0 +1,38 @@
+Title: Gigantkontrakter_kom_aldrig_i_udbud
+Date: 2016-01-14
+Article Type: Økonomi
+Author: John Hansen
+
+Journalist
+Jakob Sorgenfri Kjær
+Journalist
+Da Rigspolitiet i 2014 gav regningerne fra den amerikanske it-virksomhed CSC et kritisk eftersyn, var der gevinst med det samme: Prisen blev sat ned fra 31 millioner kroner til 23 millioner kroner per år.
+Det krævede ikke raketvidenskab. Rigspolitiet hyrede en konsulent til at gennemgå de opgaver, CSC løser for Rigspolitiet, og sammenligne prisen med, hvad lignende ydelser koster andre steder.
+»Det må siges at have gjort indtryk på CSC, eftersom de satte prisen ned«, siger John Vestergaard, konstitueret it-direktør hos Rigspolitiet.
+Som en lang række andre statslige aktører sidder Rigspolitiet ellers fast hos CSC, den amerikanskejede virksomhed i Valby. Årsagen er historisk.
+Opgaven lå oprindelig hos Datacentralen, som staten ejede. Derfor var det naturligt, at statens it-opgaver blev løst der.
+I 1996 besluttede Folketinget at sælge Datacentralen til CSC, som dermed overtog håndteringen af en masse offentlige it-systemer for blandt andre Skat, Finansministeriet og Rigspolitiet, som for eksempel håndterer kriminal-, pas- og kørekortregistrene ved hjælp af CSC’s computere i Valby.
+Det foregår på et såkaldt mainframesystem, som allerede i 1996 var noget bedaget. Siden er flere og flere data og flere systemer lagt ovenpå, lag på lag, knopskydning efter knopskydning.
+Derfor blev det efterhånden mere og mere kompliceret at finde ud af, hvordan for eksempel Skats systemer egentlig hænger sammen.
+Resultatet er, at Skat i dag reelt har mistet både overblikket og kontrollen over sine egne it-systemer, fremgik det af dette citat fra skatteminister Karsten Lauritzens »redningsplan« for Skat, ’Skat ud af krisen’ fra november 2015:
+»Viden om, hvordan de data og forretningsprocesser, som er ’støbt’ ned i it-systemerne, helt præcis hænger sammen, er dermed i høj grad placeret hos Skats it-leverandører og ikke hos Skat selv. Derudover er data og systemer i mange tilfælde dårligt dokumenterede, og Skat har derfor ikke tilstrækkeligt indblik i dem. Disse strukturelle udfordringer begrænser Skats muligheder for selv at styre og kontrollere udviklingen af it-understøttelsen«.
+Skat er et ekstremt eksempel, men andre statslige myndigheder, som er kunder hos CSC, har lignende problemer.
+Det går ikke kun ud over muligheden for at »styre og kontrollere« – det fører også til risiko for spild af skattekroner, fordi opgaverne ikke bliver sendt i udbud i et marked, hvor priserne i løbet af 4 år faldt med 33,3 procent, som Digitaliseringsstyrelsen fastslog i en rapport i 2014.
+»Manglende udbud kan betyde, at man er bundet til en leverandør, som tager en alt for høj pris«, siger Kenneth Skov Jensen, kontorchef i Konkurrence- og Forbrugerstyrelsen.
+EU’s udbudsdirektiv, som forlanger, at staten skal sende store opgaver i udbud, så alle har en chance for at byde og staten dermed kan regne med at købe, hvor varen fås billigst og bedst, blev vedtaget allerede i 1992 – 4 år før CSC overtog Datacentralen og de statslige kunder. Alligevel har mange af de største kontrakter i dag, 20 år senere, aldrig været i udbud.
+Kontrakter med CSC er gennem 2 årtier blevet fornyet, uden at CSC har været udsat for konkurrence. Skat har for eksempel fornyet sin kontrakt med CSC tre gange i 2012 uden at undersøge, om leverancen kunne fås billigere andre steder.
+:
+»Udbudsreglerne har som udgangspunkt ikke været fulgt i forbindelse med genforhandling af kontrakten«, fremgår det af et skriftligt svar fra Skat til Politiken. Skat vil ikke oplyse, hvor meget den aktuelle kontrakt med CSC koster, men i 2011 betalte Skat samlet 435 millioner kroner for it-ydelser hos CSC, viste en rapport fra konsulentfirmaet McKinsey i 2012.
+Når Skat ikke har fulgt loven og sendt kæmpeopgaven i udbud, er årsagen simpel. Skat evner det ikke:
+»Manglende systemdokumentation, uklare rettigheder og meget stor teknisk kompleksitet har gjort det vanskeligt at bringe kontrakten i udbud«, oplyser Skat.
+Det er ikke en lovlig undskyldning, siger Kenneth Skov Jensen, Konkurrence- og Forbrugerstyrelsen: »Manglende systemdokumentation er normalt ikke en legitim grund, for så må ordregiveren bare sørge for at få skabt den dokumentation«.
+Mens Skat foreløbig har meldt pas, har andre statslige myndigheder gjort noget ved sagen. Moderniseringsstyrelsen under Finansministeriet havde Statens Lønsystem placeret på ugennemskuelige systemer hos CSC, men begyndte for cirka 15 år siden at modernisere og lægge om. Den nye version af systemet blev sat i drift i 2003 og har været sendt i udbud, da kontrakterne skulle fornys i 2007 og 2012. I begge tilfælde gav CSC det bedste bud i konkurrence med andre leverandører. Moderniseringsstyrelsen kunne i går ikke nå at svare på, hvor meget prisen er sænket i kraft af den åbne konkurrence.
+Rigspolitiet har, som Skat, ikke tilstrækkeligt overblik over sine data hos CSC til, at opgaven kan sendes i udbud nu.
+»Vi har rigtig mange systemer, som er bundet sammen på kryds og tværs, så det er ganske kompliceret«, siger it-direktør John Vestergaard.
+Men i mangel af mulighed for udbud hyrede Rigspolitiet et konsulentfirma til at sammenligne priser, da kontrakten med CSC skulle fornys i 2014.
+»Vi ville prøve at afbøde ulemperne ved ikke at kunne sende i udbud. Konsulenten vurderede de ydelser, vi modtager fra CSC, og hvad vi bør betale for dem. Det førte til prisnedsættelsen fra 31 til 23 millioner kroner per år. Så vi synes, at vi har gjort, hvad vi kunne under de givne omstændigheder«, siger John Vestergaard.
+Jakob Sorgenfri Kjær
+fortsæt med at læse
+Kommunale monopolbrydere kan prale af solid økonomisk gevinst
+Statens køb af it bliver kulegravet
+»Der er tale om 10 eller 20 år gamle it-systemer«

@@ -1,0 +1,10 @@
+Title: Skat_skal_skrotte_200_it-systemer
+Date: 2015-09-25
+Article Type: Økonomi
+Author: John Hansen
+
+Journalist
+Michael Olsen
+Journalist
+Det er blevet kaldt en af vor tids største it-skandaler: det totale kollaps i Skats digitale gældsinddrivelsessystem, EFI, der i dag blev endeligt aflivet, da skatteminister Karsten Lauritzen (V) fremlagde sin omfattende handlingsplan for et kriseramt Skat.
+Men EFI er kun en lille del af et gigantisk it-problem i Skat, hvor størstedelen af de omkring 200 it-systemer skal skiftes ud eller gennemgå en voldsom forenkling i løbet af de næste 15-20 år.

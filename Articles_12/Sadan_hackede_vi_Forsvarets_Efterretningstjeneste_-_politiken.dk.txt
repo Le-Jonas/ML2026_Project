@@ -1,0 +1,57 @@
+Title: Sadan_hackede_vi_Forsvarets_Efterretningstjeneste_-_politiken.dk
+Date: 2016-04-08
+Article Type: Danmark
+Author: Som abonnent kan du ubegrænset dele artikler med dine venner og familie. Læs mere om fordelene ved et abonnement her.
+
+Den 15. marts lancerede FE en optagelsesprøve designet til at rekruttere danske hackertyper, der er i stand til at angribe og spionere på fremmede statsmagter og terrororganisationer.
+Det er noget af en jobbeskrivelse, hvorfor det kun er naturligt, at hvervekampagnen også er en kende mere omfattende end den klassiske jobsamtale, som vi kender den. Og hvordan finder man så de helt rigtige nørder, der rent faktisk har solide hacker-færdigheder og ikke bare er nogle såkaldt
+script kiddies
+, der har det hele i munden?
+FE er ikke meget for at sætte tal på, hvor mange, der har gennemført udfordringen inden for tidsfristen, men signalerne peger på noget i stil med to håndfulde. Både grupper og enkeltpersoner.
+FE understreger, at selv om konkurrencen har nået deadline, er man stadig meget interesseret i flere ansøgere op til selve ansøgningsfristen den 18. april.
+Hackerudfordringen er kun første skridt på vejen ind til en regulær optagelsesprøve hos FE.
+Man laver en skattejagt. Et vaskeægte Da Vinci-mysterium i bedste Hollywoodstil, og så krydser man ellers fingre for, at der sidder nogle digitale Robert Langdon-typer derude, der ikke kan lade være med at lede efter spor og knække koder, så man kan få et nyt spor og knække flere koder og på et eller andet tidspunkt finde frem til guldet for enden af regnbuen.
+Sådan en type er Politikens redaktionelle udvikler, Emil Bay, som kastede sig ud i udfordringen. Politiken tager dig her med på en turen, som er et kig ind i en meget fremmed verden for langt de fleste af os dødelige danskere, men så meget desto mere interessant er det at smugkigge lidt derind.
+Vi starter med et billede af en mørkemand.
+Først kiggede jeg på alle kodestumperne i billedet. De var alle kendte CVE’ere, hvilket står for for ’Common Vulnerabilities and Exposures’ og kort fortalt betyder ’registrerede sikkerhedshuller’. Man ser blandt andet referencer til ’trampolining’, som er en form for angrebsteknik. Der var også dele af ’full-nelson.c’, som er et af de værste angreb i Linux’ historie, og så var der henvisninger til sikkerhedsforskeren Brad Spengler, i hackerkredse kendt som ’spender’.
+En 'Blackhat' er et øgenavn for en ondsindet hacker. 'Whitehats' er modsat 'The Good Guys' a la sikkerhedsforskere.
+Linux er et styresystem ligesom OS til Mac og Windows til PC.
+Når der i et kodescript står en '/*', betyder det normalt, at koderen har lavet en kommentar til sin kode. Altså en form for explainer, der uddyber tankerne bag.
+Den amerikanske efterretningstjeneste har altid en anbefaling til, hvilket krypteringssystem den amerikanske industri skal bruge. Anbefalingen rækker ca. 10 år og er lidt et tveægget sværd. På den ene side vil man som virksomhed gerne sikre sig og kunne få hjælp af myndighederne, hvis man bliver hacket. På den anden side gør man sig sårbar over for netop at blive kigget over skulderen af myndighederne, hvis man vælger den anbefalede standard.
+Blandt alle disse kodestumper, skilte én bid sig ud øverst i venstre hjørne, fordi den var en kommentar uden mening:
+’JS/koyPrmif2M’.
+Hvad stod det for? Var det en webadresse? Nej, viste almindelig googling. Altså, det må være en form for krytering. Først prøvede jeg Cæsar Cipher, som er en ældgammel krypteringsmetode, som selveste Julius Cæsar brugte i alle sine korrespondancer. Jeg prøvede også andre enkodninger som Hexadecimal, Binær, Base64 osv. Det ville have været for nemt, så det var det heller ikke.
+Næste ide var en ’hash’, som er en krypteringsmetode, der ikke kan dekrypteres. Man skal altså gætte sig frem, hvilket man kalder Brute-forcing. Jeg brugte et lille program, der hedder HashTag til at gætte på krypteringsmetoden, og forslaget blev den uddaterede DES-kryptering, som IBM opfandt i 1975, og som den amerikanske efterretningstjeneste anbefalede gennem 1980’erne. DES blev brugt til at kryptere passwords på gamle UNIX operativsystemer, men er relativt let at bryde på en moderne maskine. Da den først havde besluttet sig for at teste for DES-krypteringen, tog det 13 minutter på en moderne MacBook Pro at knække koden.
+Og bag den gemte sig et telefonnummer.
+På det angivne telefonnummer ender man med at få forbindelse til en telefonsvarer, der afspiller en lydbid, som minder om den lyd, man hører, når man ringer til en fax eller et modem. Altså, data enkodet som lyd. En analyse af lydspektrummet var derfor oplagt.
+Se, hvordan lydfilen bliver analyseret. Upload også din egen lydfil, hvis du har lyst
+Lyd er en blanding af mange forskelige frekvenser pr. sekund, og på ovenstående visualisering kan du se lydfilen, efter den er brudt op i de forskellige frekvensbånd. Jeg skrev selv et lille program, der kunne udføre denne spektralanalyse, og en nærmere inspektion af output afslørede bånd af prikker med 7 lodrette enheder i hvert bånd. Prikkerne blev synlige, fordi frekvenserne de steder havde en ekstra stærk intensitet.
+Al trafik på internettet er bygget op af 0'er og 1-taller. Det kaldes det binære talsystem og er smart, fordi man på den måde kan omdanne data til lyd- og lysfrekvenser og sende det over store afstande.
+Hvert 0 eller 1-tal findes på baggrund af signaler, som vi kan kalde en prik.
+En prik svarer til én bit
+8 bit svarer til en byte
+1.000 byte svarer til en kilobyte
+1.000 kilobyte svarer til en megabyte
+1.000 megabyte svarer til en gigabyte
+1.000 gigabyte svarer til en terrabyte
+Jeg formodede på baggrund af tallet 7 straks, at vi var ude i noget med det binære ASCII-system. Forestil dig, at en prik svarer til et 1-tal eller 0. Det kalder vi en bit i computersprog. Normalt går der 8 bit på en byte, som er den fundamentale enhed i computere, men i det gamle ASCII-system bruger man kun 7, og efter at have konstateret, at vi her har at gøre med ASCII, var det bare at gå i gang med at analysere hvert bånd. De lyse prikker repræsenter et 1-tal, de mørke et 0. Hver kombination giver et ASCII-tegn, og efter at have kørt hele filen igennem, fik jeg denne reference til Alice i Eventyrland:
+’Would you tell me, please, which way I ought to go from here?  https://hackerakademi.dk/tumbling-down-the-rabbit-hole  - -  Hacker Akademiet’
+Slet teksten, og skriv selv din egen binære kode.
+Her blev det lidt mere tricky.
+Klikkede man på det afkodede link fra lydfilen, endte man på en mere eller mindre tom side, hvor man blot kunne hente en komprimeret fil. Men hvad så? Tør man åbne den? Det er præcis sådan, folk, der klikker på en ukendt vedhæftning i en mail, ender med at få virus.
+At 'sandboxe' er en reference til at placere sine unger i en sandkasse, fordi det her er begrænset. hvor meget skade, de kan gøre. På samme måde arbejder programmører tit i lukkede sandkasser på deres computer.
+Python er et programmeringssprog ligesom Java, Javascript, Ruby, C, etc. Det er de sprog, en udvikler koder i, altså kommandoerne til computeren. Computeren laver dog al din kode om til binær maskinkode, når den skal arbejde med det, og det er sådan en gang kode, man fik i udfordringens 3. lag. Her kunne man gå den tunge vej med at formattere det tilbage til 'menneskekode' og gå i gang med at sortere. Eller man kunne kigge på de systemkald, programmet laver, når man fodrer det med information og så derfra forsøge at komme med bud på, hvad det præcis er, der efterspørges.
+Jeg ’sandboxede’ derfor filen, hvilket kort fortalt betyder, at man isolerer den fra resten af computeren, før man åbner den, så man undgår, at afsenderen pludselig har kontrol over dig.
+I mappen lå to filer. Den ene var et simpelt python script, der fungerer som en form for startknap for den anden, der med en vis ret kan kaldes en ’Black Box’. Det kalder man programmer, man ikke kan afkode formålet med blot ved at se på indholdet. Man kan altså kun sende det input og så se, hvad der kommer af output.
+Eller, man kan godt ’disassemble’ programmet, men kun uden at bibeholde kodens originale struktur, så den vej kan være ekstremt tidskrævende, hvorfor jeg i første omgang valgte at gå uden om den mulighed.
+I stedet blev det lidt af en gættekonkurrence igen. Da jeg kørte programmet, spurgte den med det samme efter en nøgle og ved at analysere programmets opførsel, når jeg prøvede mig frem, indså jeg, at nøglen måtte være et link til en jpg-fil – altså et billede.
+Se, hvilke metadata der gemte sig i billedet
+Efter mange mere eller mindre velbegrundede gæt – blandt andet inspireret af referencen til Alice i Eventyrland fra tidligere – viste det sig, at nøglen var lige foran snuden på mig. Da jeg prøvede FE-logoet fra deres egen hjemmeside, gik programmet ind og analyserede billedet ved at se på, hvordan forskellige pixels er placeret og farvekodet. Og det viste sig at låse skabet op – så at sige.
+Præmien var en ny jpg-fil, meget lig nøglen - denne var dog ’i stykker’.
+Jeg filterede derefter den nye jpg-fil og kom ind til en slags metadata med en masse binær kode. Men midt imellem alle kodestrengene, stod noget ganske almindelig, læsbar tekst:
+'Wow you did it. We really want to get to know you. Please call this number +45 51246301 and give us your contact info and we will get back to you asap'
+Det var guldet for enden af regnbuen.
+Politiken har været i kontakt med FE før udgivelsen af denne artikel, og de gjorde opmærksom på, at den vej, Emil tog i det tredje lag, ikke var den korrekte. Ansøgere med ’det rette mindset’ ville have brugt tiden på at ’disassemble’ det lukkede program, og analysere sig frem til, at nøglen netop var logoet på hjemmesiden.
+Som abonnent kan du ubegrænset dele artikler med dine venner og familie. Læs mere om fordelene ved et abonnement
+her
+.

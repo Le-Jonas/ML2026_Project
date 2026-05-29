@@ -1,0 +1,7 @@
+Title: Apple_vil_vise_dig,_hvad_din_mor_egentlig_mente_i_SMS'en
+Date: 2016-05-07
+Article Type: Digitalt
+Author: Morten Bay
+
+Websites som www.damnyouautocorrect.com og lignende er fulde af sjove situationer, hvor f.eks. ens mors iPhone har autokorrigeret et eller andet ord, der gør hendes SMS til dig rimelig pinlig eller sjov. Nu vil Apple imidlertid forsøge at gyde olie på disse rørte sprogvande.
+I en patentansøgning, der netop er blevet offentliggjort, beskriver Apple et system, der viser dig på skærmen, hvad autokorrektur-funktionen i den anden end har forsøgt at rette.

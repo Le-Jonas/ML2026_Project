@@ -1,0 +1,8 @@
+Title: Hurra_for_online-sikkerhed_Java_bliver_lagt_endegyldigt_i_graven
+Date: 2016-01-29
+Article Type: Digitalt
+Author: Emil Stenz
+
+Journalist
+I over 20 år har Javas lille rødblå kaffekop været et tilbagevendende syn for brugere på internettet. Senest og mest mindeværdigt insisterede NemID i flere år på at hive danskerne gennem Javas system, når man ville logge ind for eksempelvis at tjekke sin netbank eller e-boks.
+Men NemID har siden vendt Java ryggen, og det samme har mange andre online-tjenester. Og det har nu fået udviklerne bag Java, amerikanske Oracle, til selv at stikke de digitale spader i jorden og forberede et gravsted til deres aldrende internet plug-in. I et blogindlæg annoncerer selskabet officielt udfasningen af Java, skriver gizmodo.com.

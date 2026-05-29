@@ -1,0 +1,27 @@
+Title: »Der_er_tale_om_10_eller_20_ar_gamle_it-systemer«
+Date: 2016-01-14
+Article Type: Økonomi
+Author: Jakob Sorgenfri Kjær
+
+Journalist
+Svimlende mange skattekroner, forsynings- og it-sikkerhed.
+Det er på spil, og i et ukendt omfang gået tabt, fordi statslige institutioner i årevis har forsømt at sende deres it-drift i udbud eller genforhandle deres kontrakter.
+Digitaliseringsstyrelsen er inden for det seneste år blevet sat i spidsen for at kortlægge problemets omfang.
+Der er tale om et »fortroligt« arbejde sammen med »en håndfuld« ministerier.
+»Der er tale om meget gamle systemer, måske mere end 10 eller 20 år gamle. Nogle af aftalerne har været indgået, før der har været udbudsregler (1992, red.), i andre kontrakter har der ikke været skitseret en udløbsdato og den slags. Der er en masse nuancer i debatten om de manglende udbud, men grundlæggende skulle de alle have været i udbud. Det har selvfølgelig fanget vores og ministeriernes interesse: Hvorfor har de ikke det, og hvad kan vi så gøre ved det? Også fordi de kan udgøre en risiko for driftsstabilitet og forsyningssikkerhed – nogle af dem varetager samfundskritiske processer. At leve op til dagens standarder inkluderer også krav om sikkerhed og overvågning af sikkerhed. Derfor er der mange årsager til, at det er nødvendigt at få kigget på det«, siger styrelsens direktør, Lars Frelle-Petersen.
+Har man i centraladministrationen været bevidst om, at nogle myndigheder her er på kant med udbudsreglerne?
+»Nej, men det er selvfølgelig blevet klart undervejs, at der er nogle udfordringer. Jeg tror ikke, det er, fordi ministerierne ikke har ønsket at bringe dem i udbud, men det har bare ikke været noget, man gjorde over natten. Vores arbejde er derfor at komme hen til det punkt, hvor nogle af de systemer i givet fald kan bringes i udbud. At de ikke har været bragt i udbud, eller overholdt udbudsreglerne, er ministeriernes selvstændige ansvar«.
+Styrelsens erfaring er, at man med optimering af kontrakterne eller egentligt udbud har kunnet hente en besparelse på op til 28 procent af kontraktsummen.
+Lars Frelle-Petersen lægger ikke skjul på, at driftsbesparelser er en væsentlig grund til at få fornyet kontrakterne og systemerne. Da analysearbejdet stadig er på et meget tidligt stadie, tør han ikke sætte konkrete tal på de samlede omkostninger til statens forældede it-leverancer.
+Skat alene laver i 2012 en kontrakt på et 3-cifret millionbeløb uden udbud. Er det forkert at sige, vi taler om milliarder af kroner?
+»Jo, altså det kommer jo an på, hvordan man tæller det. Jeg kan bekræfte, at der er tale om store, komplekse og samfundskritiske systemer, så det er ganske mange penge. Du får mig ikke til at sige milliarder, for jeg har ikke grundlag for at udtale mig om størrelsen, da vi stadig er ved at afdække sagen. Men det er ganske betydelige omkostninger«.
+Hvad gør I for at afhjælpe situationen?
+»Vores rolle er sammen med ministerierne at få arbejdet sagerne igennem og få et overblik over situationen rundtomkring. Vi skal have fat om de gamle systemer og finde ud af, hvordan vi kan bringe dem op til dagens standard og i givet fald bragt dem i udbud. En række systemer er måske ikke af en karakter, hvor man hen over natten kan bringe dem i udbud, fordi de er dårligt dokumenteret og i dårlig stand. Hvad der så er nødvendigt for de enkelte kontrakter skal ministerierne selv have styr på – vi skal skubbe arbejdet i gang og hjælpe dem fagligt«.
+Nogle myndigheder siger, at systemerne er for komplekse til at få i udbud, mens andre myndigheder, tilkoblet de samme systemer, kan sende driften i udbud. Hvor meget handler det om kompetencer og vilje – eller mangel på samme?
+»Det sidste skal jeg ikke kunne sige. Men det er klart, at når man taler om systemer af denne karakter, er det også en kompetenceudfordring at skulle starte et arbejde om at få systemerne kortlagt. Det er både en kompetence- og kapacitetsudfordring, og når projekter som EFI (Skats skandaleramte inddrivelsessystem, red.) og lignende har krævet mange kræfter, kan det være, at det nødvendige arbejde ikke er blevet sat i gang«.
+Og leverandørerne har ikke haft travlt med at levere systemdokumentation?
+»Sådan er det notorisk. Når man har vundet en kontrakt, har leverandøren ofte en interesse i at drive systemet længst muligt, for over tid falder omkostningen for leverandøren til at drive den kontrakt«, siger Lars Frelle-Petersen.
+Jakob Sorgenfri Kjær
+fortsæt med at læse
+Kommunale monopolbrydere kan prale af solid økonomisk gevinst
+Statens køb af it bliver kulegravet

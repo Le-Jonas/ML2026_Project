@@ -1,0 +1,7 @@
+Title: Der_er_sikkerhedshuller_i_næsten_alle_Android-smartphones
+Date: 2015-10-15
+Article Type: Digitalt
+Author: Morten Bay
+
+Der er efterhånden ingen tvivl om, at smartphonen er ved at overtage fra computeren, når det gælder vira, malware og hackerangreb.
+Jo mere avancerede, vores smartphones bliver, jo flere computer-opgaver kan de overtage, og jo højere er risikoen for huller i sikkerheden.

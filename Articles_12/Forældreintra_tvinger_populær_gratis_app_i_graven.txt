@@ -1,0 +1,8 @@
+Title: Forældreintra_tvinger_populær_gratis_app_i_graven
+Date: 2016-05-23
+Article Type: Digitalt
+Author: Annemette Grundtvig
+
+Journalist
+Da Morten Slott Hansen for snart to år siden stiftede bekendtskab med ForældreIntra, fordi hans søn Marcus begyndte i skole, blev han chokeret over, hvor dårligt systemet fungerede, når man brugte det via sin mobiltelefon. Han arbejder til daglig med at udvikle apps og optimere mobile løsninger og skabte appen F-Intra, en såkaldt wrapper, der lægger sig rundt om det officielle ForældreIntra og retter op på manglerne.
+Nyheden om den gratis løsning spredtes fra mund til mund. I november 2014 havde cirka 10.000 forældre downloadet appen, og i dag benyttes den af cirka 50.000 forældre, men nu er det slut. Morten Slott Hansen fra Roskilde har netop fjernet F-Intra fra App Store og Google Play, fordi han føler sig tvunget af firmaet bag ForældreIntra, Itslearning.

@@ -1,0 +1,8 @@
+Title: Din_sved_sladrer_om_din_aktuelle_form
+Date: 2016-01-29
+Article Type: Viden og tech
+Author: Lasse Foghsgaard
+
+Videnskabsredaktør
+I denne uge blev der offentliggjort en nyhed i det videnskabelige tidsskrift Nature, der vil give sportsudøvere som ironmanatleter, maratonløbere og cykelryttere våde drømme om natten.
+For det er lykkedes idrætsfysiologer og ingeniører fra Stanford University og University of California-Berkeley at lave en ny gadget – et elektronisk svedbånd – der fra sportsudøvernes sved kan måle kroppens niveau af sukker, mælkesyre og elektrolytter, mens man dyrker motion. Svedbåndet er udstyret med bluetooth-teknologi, så al data trådløst kan overføres til for eksempel løbeur eller cykelcomputer.

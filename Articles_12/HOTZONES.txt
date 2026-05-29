@@ -1,0 +1,6 @@
+Title: HOTZONES
+Date: 2015-11-16
+Article Type: Danmark
+Author: Det virker derimod ikke godt med 'mouse over' slået fra. Den skalerer ikke billedet ned inden for framen, når man trykker på '1'-tallet. Der kommer derimod en scroll bar i feltet, og når man klikker sig væk fra det igen, 'æder' den noget af bunden af billedet. Det virker ret mystisk. Man kan ungå scrollbar, hvis man vælger 'Make pop-ups allways appear in window top', men der vil vel være situationer, hvor man ikke foretrækker boksen i toppen. Problemet med, at den æder bunden, når man klikker væk igen, er der i begge tilfælde.
+
+Jeg har prøvet tre forskellige måder at indlejre Youtube (grøn 2'er), men ingen af dem virker. Selve pop up-boksen lægger sig i øvrigt ind bag ved titlen. Lidt ærgerligt.

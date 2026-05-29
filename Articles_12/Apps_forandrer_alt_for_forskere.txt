@@ -1,0 +1,7 @@
+Title: Apps_forandrer_alt_for_forskere
+Date: 2015-11-25
+Article Type: Økonomi
+Author: Charles Walles
+
+Stanley Shaw, forsker ved Massachusetts General Hospital i Boston, kan tydeligt huske den tid, da de fleste videnskabsfolk havde problemer med at skaffe forsøgspersoner til deres forskningsprojekter. Økonomiske begrænsninger betød, at den slags forsøg som oftest blev koncentreret om et meget lille geografisk område, og forskerne måtte søge frivillige deltagere ved at indrykke avisannoncer eller lignende. Forsøgspersonerne skulle så foretage månedlige optegnelser eller jævnligt lade sig interviewe af forskerne. Herefter blev resultaterne samlet ind, og det kunne tage flere år, før de blev udgivet som en forskningsartikel, ofte uden at deltagerne selv fik noget at vide om resultaterne.
+Men sådan er det ikke længere for Stanley Shaw, og det skyldes appen GlucoSuccess, som han har installeret på sin iPhone, konkluderer han. GlucoSuccess har siden marts været tilgængelig i Apples App Store, og i løbet af et par måneder har 5.600 personer tilmeldt sig appen, enten fordi de har diabetes 2 eller har et så højt blodsukkerniveau, at de kan siges at have et forstadie til sukkersyge. Deltagerne indtaster detaljer om deres vægt, blodsukker, motion og mad, hvorefter oplysningerne næsten øjeblikkeligt ryger videre til forskerne.

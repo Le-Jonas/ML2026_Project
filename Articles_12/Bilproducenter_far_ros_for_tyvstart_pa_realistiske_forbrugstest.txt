@@ -1,0 +1,7 @@
+Title: Bilproducenter_far_ros_for_tyvstart_pa_realistiske_forbrugstest
+Date: 2016-03-03
+Article Type: Biler
+Author: Helle Sindal
+
+Gennem årene har en del førstegangs-bilkøbere undret sig og klaget over, at deres nye bil slet ikke når så langt på literen, som de blev stillet i udsigt, da de købte den.
+Til næste år skal en ny og mere realistisk testmetode efter planen afløse den nuværende bedagede metode, hvor nye bilers brændstofforbrug testes under omstændigheder, der langt fra ligner almindelig hverdagskørsel. Kørestil, vejr, vind og vejenes beskaffenhed tærer ligesom vægten af passagerer og bagage samt brug af aircondition og anden elektronik på brændstoffet.

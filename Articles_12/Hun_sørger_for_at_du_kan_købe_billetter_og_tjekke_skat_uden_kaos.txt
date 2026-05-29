@@ -1,0 +1,8 @@
+Title: Hun_sørger_for_at_du_kan_købe_billetter_og_tjekke_skat_uden_kaos
+Date: 2016-05-19
+Article Type: Virksomheder
+Author: Line Prasz
+
+Journalist
+Egentlig var det tusindvis af studerende fra de legendariske universiteter i Oxford og Cambridge, der var med til at skubbe den danske virksomhed Queue-it igang.
+Virksomheden sørger for at skabe en onlinekø, så hjemmesiden ikke går ned, når mange går ind på samme tid, og de to universiteter skulle bruge et system til deres årlige skitur, så de studerende kunne booke sig ind på de rigtige fester og værelser uden nedbrud. I stedet fortæller systemet, hvilket nummer i køen, brugeren er – du kender det måske fra Skat og Billetlugens netsider – og det har netop vundet prisen The Internet Pioneer Award, fordi det gør internettet nemmere at arbejde med.

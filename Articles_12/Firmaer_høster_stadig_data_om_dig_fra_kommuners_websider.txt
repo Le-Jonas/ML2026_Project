@@ -1,0 +1,8 @@
+Title: Firmaer_høster_stadig_data_om_dig_fra_kommuners_websider
+Date: 2015-09-10
+Article Type: Digitalt
+Author: Jakob Sorgenfri Kjær
+
+Journalist
+En tjeneste på kommunernes hjemmesider gør det let at dele informationer på sociale medier. Tjenesten er gratis for kommunerne, så det er jo en ren win-win-situation. Hvis ikke det var, fordi borgerne betaler indirekte til firmaerne bag, idet selskaberne høster data om borgernes adfærd på websiderne.
+Politikens forside fortalte for halvanden måned siden, at hver fjerde af landets kommuner - i alt 23 - havde installeret en delingsknap fra firmaet AddThis, som gør det nemt at dele indhold. AddThis sætter sporingscookies i borgerens it-udstyr, der giver firmaet præcise oplysninger om, hvad man læser og søger efter på hjemmesiden.

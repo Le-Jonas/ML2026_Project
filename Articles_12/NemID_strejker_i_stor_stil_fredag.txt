@@ -1,0 +1,6 @@
+Title: NemID_strejker_i_stor_stil_fredag
+Date: 2016-05-27
+Article Type: Økonomi
+Author: Danskere, der fredag forsøger at bruge deres NemID, vi i mange tilfælde opleve, at det ikke virker.
+
+Store dele af systemet, der bliver brugt fra alt til at logge på statslige hjemmesider til folks netbank, er nede.

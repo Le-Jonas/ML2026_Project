@@ -1,0 +1,53 @@
+Title: Dataviz_Løkkes_tale_udlignede_pa_'flygtninge'-regnskabet_-_politiken.dk
+Date: 2015-10-06
+Article Type: Politik
+Author: Som abonnent kan du ubegrænset dele artikler med dine venner og familie. Læs mere om fordelene ved et abonnement her.
+
+Der er emner, som den siddende statsminister må og skal vende i sin åbningstale i oktober, uanset om pågældende har foden i den røde eller den blå ende af folketingssalen.
+Det viser en gennemgang af åbningstaler fra de seneste 19 år, som Politiken har foretaget med fokus på 21 ofte anvendte ord.
+Emner som
+folkeskolen, fremtiden, uddannelse, sygehuse, velfærd, kriser
+og ikke mindst
+flygtninge
+er gennem de seneste 19 år blevet nævnt nogenlunde lige hyppigt af en rød såvel som en blå statsminister.
+Og så er der de ord, som vi forventer, at en blå statsminister bruger oftere en end rød:
+Skat, vækst
+og
+indvandrere
+for eksempel. Den holder også meget godt stik, viser opgørelsen.
+Hos de røde statsministre er vinderordene
+arbejde, børn
+og
+ældre
+. Det er der næppe heller så meget overraskende ved.
+Til gengæld kan det måske overraske nogen, at ud af de 59 gange ordet
+klima
+er røget ud fra talerstolen, har det 4 ud af 5 gange været med Anders Fogh Rasmussen eller Lars Løkke Rasmussen som afsender.
+Kigger man nærmere på tallene over tid, er det dog ret tydeligt, hvornår der var Cop15 i København. Fogh og Løkke gav den godt med klima-gas i 2007, 2008 og 2009, hvilket ellers ikke var noget, i hvert fald Fogh havde for vane at bruge sin taletid på.
+I hans åbningstaler fra 2002 til 2007 nævnte han blot ordet
+klima
+én gang. Nemlig i 2003. Resten var ganske klimaløse.
+En taktik Lars Løkke Rasmussen i øvrigt vendte tilbage til i dag.
+Opgørelsen, som du kan se visualiseret herunder, viser udviklingen for de 21 udvalgte ord over tid, og her står det også ret klart, at Anders Fogh Rasmussen i 2006 til 2008 var meget opmærksom på
+indvandrere
+eller
+indvandring
+, mens ordet
+flygtninge
+ikke blev nævnt voldsomt.
+I dagens tale fik Lars Løkke Rasmussen dog vendt rundt på det billede. Han nævnte
+indvandrere
+2 gange, mens
+flygtninge
+blev nævnt 10 gange.
+I nedenstående dataviz kan du selv lave yderligere sammenligninger. For eksempel kan man se, at ordene
+børn
+og
+ældre
+følges nogenlunde ad i de fleste taler, men i 2011 og 2012 stikker Helle Thorning-Schmidt helt af og bruger
+børn
+18 gange i 2011 og 36 gange i 2012.
+Lav dine egne sammenligninger herunder.
+Som abonnent kan du ubegrænset dele artikler med dine venner og familie. Læs mere om fordelene ved et abonnement
+her
+.

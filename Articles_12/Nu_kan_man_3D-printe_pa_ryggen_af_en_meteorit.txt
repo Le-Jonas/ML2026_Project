@@ -1,0 +1,8 @@
+Title: Nu_kan_man_3D-printe_pa_ryggen_af_en_meteorit
+Date: 2016-02-16
+Article Type: Viden og tech
+Author: Lasse Foghsgaard
+
+Videnskabsredaktør
+Astronauter og rumingeniører har en hed drøm om, at man til en vis grad bliver selvforsynende på de asteroider, planeter og måner, som man overvejer at udforske og kolonisere i fremtiden.
+Ganske enkelt ved at høste de råstoffer, som himmellegemerne er lavet af, og proppe dem ind i en 3D-printer, som kan bygge alt helt fra bunden. 3D-printeren skal kunne betjenes med en robot, der fjernstyres fra Jorden, så eksempelvis den trygge månebase er bygget så godt som færdig, når astronauterne kommer frem.

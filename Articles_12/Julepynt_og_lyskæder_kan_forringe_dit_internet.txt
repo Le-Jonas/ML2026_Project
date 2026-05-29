@@ -1,0 +1,7 @@
+Title: Julepynt_og_lyskæder_kan_forringe_dit_internet
+Date: 2015-12-02
+Article Type: Jul
+Author: Morten Bay
+
+Julemåneden byder på mange ting – også i teknologiens verden. En særlig form for ’juleteknologi’ er de mange elektriske julepynt, vi hænger op både indenfor og udenfor. Men hvis man er glad for sit trådløse netværk kan der være grund til lige at være lidt forsigtig.
+Sådan lyder i hvert fald meldingen fra de britiske telemyndigheder, Ofcom, der i disse dage lancerer en ny app, der kan måle kvaliteten af ens Wi-Fi. Det trådløse netværk i hjemmet er baseret på radiosignaler i mikrobølge-spektret, så det er telemyndighederne, der regulerer dem, selvom en trådløs router mest af alt hører til under forbrugerelektronik.

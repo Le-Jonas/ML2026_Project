@@ -1,0 +1,6 @@
+Title: Ny_Apple-sikkerhedsopdatering_er_klar_efter_alvorligt_angreb
+Date: 2016-08-26
+Article Type: Digitalt
+Author: Mødes man med en opfordring om at installere en opdatering på sin Apple-smartphone, bør man overveje at tage opfordringen alvorligt.
+
+Apple's opdatering indeholder nemlig en sikkerhedsopdatering, der er sat i værk, efter et sofistikeret hackerangreb på en arabisk systemkritikers iPhone, skriver AFP.

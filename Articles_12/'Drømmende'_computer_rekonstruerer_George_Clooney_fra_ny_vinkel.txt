@@ -1,0 +1,8 @@
+Title: 'Drømmende'_computer_rekonstruerer_George_Clooney_fra_ny_vinkel
+Date: 2016-05-10
+Article Type: Viden og tech
+Author: Maj Bach Madsen
+
+Journalist
+Mennesket overgår den dyreste og mest komplicerede computer, når det kommer til at improvisere læring og finde kreative løsninger. Derfor forsøger forskningen med den såkaldte Deep Learning at efterligne funktioner i vores hjerner.
+Deep Learning vinder frem i arbejdet med kunstig intelligens. Forskere ved Danmarks Tekniske Universitet samarbejder med det amerikanske MIT (Massachusetts Institute of Technology) med at forbedre kunstig intelligens ved at få computere til at forestille sig nye billeder på baggrund af oplysninger fra billeder, den er blevet fodret med.

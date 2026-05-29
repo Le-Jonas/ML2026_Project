@@ -1,0 +1,7 @@
+Title: Nu_er_Google_Maps_langt_bedre_offline
+Date: 2015-11-11
+Article Type: Digitalt
+Author: Morten Bay
+
+Det har været en af de mest efterlyste funktioner i Google Maps meget længe. Siden den sidstnævnte app (der i øvrigt er skabt af to danske brødre) revolutionerede måden, vi finder rundt på, har den store ulempe været, at man skulle have en mobil dataforbindelse, før den virkede ordentligt.
+Det gælder ikke bare for Google Maps, men også for langt de fleste andre lignende apps. Nogle, såsom Here fra Nokia, gav mulighed for at downloade kort til at ligge lokalt på telefonen, men så fik man til gengæld ikke opdaterede trafikmeldinger og søgemulighederne var begrænsede.

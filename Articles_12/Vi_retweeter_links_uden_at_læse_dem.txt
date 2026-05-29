@@ -1,0 +1,9 @@
+Title: Vi_retweeter_links_uden_at_læse_dem
+Date: 2016-07-15
+Article Type: Medier
+Author: Mette Lützhøft
+
+Denne artikel ender sandsynligvis ved dagens ende i skraldespanden. I hvert fald hvis det er papirversionen, som du, kære læser, har i hånden. Den digitale version har derimod et langt, måske evigt, liv på nettet foran sig. Den kan blive delt igen og igen på sociale medier, hvor halvdelen af danskerne får deres nyheder fra.
+Men en ny undersøgelse fra det amerikanske Columbia University og det franske it-institut Inria viser, at selv om et link bliver delt, bliver det ikke nødvendigvis læst. 6 ud af 10 links, der
+retweetes
+på det sociale medie Twitter, bliver aldrig klikket på, før de ender i strømmen af meninger, vittigheder, nyheder og kommentarer.

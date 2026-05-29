@@ -1,0 +1,8 @@
+Title: Sikkerhedsbrist_Siri_giver_fremmede_adgang_til_din_iPhone
+Date: 2015-11-19
+Article Type: Digitalt
+Author: Emil Stenz
+
+Journalist
+Et hul i sikkerheden på din iPhone giver fremmede mulighed for at bruge din telefon – selv når den er låst.
+Apples personlige robotassistent Siri er at finde på alle nyere iPhones, og den lader blandt andet én sende sms’er, foretage opkald og dele ting på Facebook alene ved hjælp af stemmekommandoer.

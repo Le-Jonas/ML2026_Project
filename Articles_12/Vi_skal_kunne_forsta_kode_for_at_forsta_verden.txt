@@ -1,0 +1,7 @@
+Title: Vi_skal_kunne_forsta_kode_for_at_forsta_verden
+Date: 2015-12-05
+Article Type: Anders Emil Møller
+Author: Anders Emil Møller
+
+Alle har brug for at forstå kode. Intet mindre. Og heldigvis er der hjælp at hente for os nybegyndere.
+Min ældste søn Vitus har fået sin første rigtige computer til sin 7-års fødselsdag. Det er ikke en lækker og flyvefærdig sag fra Apple, men en Kano – en byg selv-computer for børn. Han har selv skullet samle hardwaren, og nu er han i fuld gang med at kode i det små og bygger på den måde hele tiden på computerens indre.
