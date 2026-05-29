@@ -1,0 +1,8 @@
+Title: Spiontjenester_kræver_darligere_datasikkerhed
+Date: 2015-07-09
+Article Type: USA
+Author: Nicole Perloth
+
+New York Times, San Francisco
+Store it-selskaber som Apple og Google er begyndt at kryptere kundernes data, så hackere eksempelvis ikke uden videre kan bryde ind i en smartphone. Det burde være godt nyt for forbrugerne, men det er det slet ikke, siger regeringerne i USA og Storbritannien.
+For krypteringen betyder også, at efterretningstjenester heller ikke kan følge med i, hvad folk taler og skriver om. Derfor kræver de, at it-producenterne giver dem en såkaldt ’bagdør’ i softwaren, så de kan komme til at overvåge den elektroniske kommunikation og slå ned på kriminel aktivitet.

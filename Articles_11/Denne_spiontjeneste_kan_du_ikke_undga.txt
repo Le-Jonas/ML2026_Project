@@ -1,0 +1,7 @@
+Title: Denne_spiontjeneste_kan_du_ikke_undga
+Date: 2014-08-09
+Article Type: Digitalt
+Author: Karim Pedersen
+
+Hvis du vil undgå, at websider skal følge din færden på nettet, kan du blokere for browser-cookies eller slette dem med korte mellemrum.
+Men nu har en amerikansk virksomhed udviklet en helt ny sporingsteknologi, der klarer sig helt uden cookies. Den nye teknologi bliver allerede benyttet på tusindvis af websteder – også mange danske – og det er næsten umuligt for brugerne at opdage overvågningen.

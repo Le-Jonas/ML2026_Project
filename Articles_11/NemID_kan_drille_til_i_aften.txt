@@ -1,0 +1,8 @@
+Title: NemID_kan_drille_til_i_aften
+Date: 2014-07-16
+Article Type: Digitalt
+Author: Dorthe Lønstrup
+
+Journalist
+Et ukendt antal danskere kan i løbet af onsdagen have oplevet, at de ikke kunne logge sig på netbanken, a-kassen eller andre systemer, der kræver NemID.
+Hos Nets, der driver NemID, bekræfter man, at NemID har kørt 'ustabilt' i dag.

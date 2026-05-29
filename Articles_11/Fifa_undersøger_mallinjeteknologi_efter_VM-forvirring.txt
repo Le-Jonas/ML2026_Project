@@ -1,0 +1,47 @@
+Title: Fifa_undersøger_mallinjeteknologi_efter_VM-forvirring
+Date: 2014-06-16
+Article Type: VM 2014
+Author: Jakob Stig Jørgensen
+
+Journalist
+Var den inde, eller var den ikke inde?
+Efter 48 minutters spil af gårsdagens VM-kamp mellem Frankrig og Honduras indtraf øjeblikket, hvor Fifa's omdiskuterede mållinjeteknologi for første gang under slutrunden i Brasilien anerkendte et mål uden om dommertrioen på banen.
+Alligevel skabte hændelsen, hvor den franske stjerneangriber Karim Benzema afsluttede på indersiden af stolpen og Honduras-keeper Noel Valladeres efterfølgende fumlede bolden de sidste centimeter over mållinjen, stor frustration og forvirring.
+For mens dommeren signalerede mål på diktat fra mållinjeteknologien og de franske spillere jublende flokkedes omkring Benzema, viste storskærmene på stadion i Porto Alegra det modsatte med beskeden '
+No goal
+'.
+De franske spillere jublede videre inde på banen, mens især Honduras' landstræner Luis Suarez tydeligt viste sin frustration på sidelinjen.
+Det førte til ophedede diskussioner med den franske landstræner, Didier Deschamps, og også flere steder på stadion gav tilskuerne deres utilfredshed med teknikken til kende.
+Der var ikke mål, meddelte teknologien:
+»Maskinen sagde nej. Jeg ved ikke, hvad jeg skal tro. Hvis teknologien sender et utvetydigt budskab, forstår jeg ikke, hvordan teknologien først kan anerkende målet og siden vise '
+no goal
+'. Hvad er sandheden?«, spurgte en irriteret Suarez ifølge BBC efter kampen.
+Forklaringen er sådan set enkel nok. For der var først mål, da bolden ramte Honduras' keeper og lige akkurat sneg sig over stregen. Det var der til gengæld ikke i situationen, hvor Benzema elegant flugtede bolden på indersiden af stolpen.
+Derfor viste mållinjeteknologien først '
+No goal
+' og bagefter '
+Goal
+', da sekvensen med den uheldige Honduras-keeper blev vist på storskærmene kort efter.
+I kølvandet på gårsdagens forvirring har Fifa nu besluttet, at man vil gennemgå omstændighederne omkring gengivelsen på storskærmen.
+»For at sikre maksimal information og klarhed for dem, som ikke er bekendt med mållinjeteknologi, vil Fifa se på, hvordan denne kamp forløb for at se på, hvorvidt der kan laves forbedringer for den oplevelse, fansene har«, skriver den internationale fodboldunion i en meddelelse på sin hjemmeside.
+»Der opstod en speciel situation, da Frankrig scorede sit andet mål, fordi bolden ramte indersiden af stolpen, røg væk fra målet for derefter at ramme målmanden og ryge tilbage mod mål og over mållinjen«, skriver Fifa og fortsætter:
+»Den første gentagelse, som blev vist, viste kun en bold, som ramte stolpen, men ikke helt krydsede mållinjen. Næste gentagelse, der blev vist sekunder senere, viste en animation, som bekræftede, at bolden havde krydset mållinjen helt efter at have ramt målmanden«.
+Mållinjeteknologi har i flere år været henholdsvis efterspurgt og afvist i fodboldverdenen.
+Flere toptrænere argumenterer for brugen af mållinjeteknologi for at eliminere menneskelige fejl, der kan ødelægge måneders intenst arbejde på træningsbanen ved på et splitsekund at træffe den forkerte beslutning og enten anerkende eller underkende et mål.
+Den holdning deler Fifa, der derfor har installeret GoalControl-4D-systemet på samtlige brasilianske VM-arenaer.
+Syv højhastighedskameraer filmer de to mål og sender billederne til en computer, der på et splitsekund renser dem for alt andet end bolden og afgør, om der er mål eller ej.
+Inden for et sekund sender systemet en vibration gennem dommerens ur, hvorpå han også kan aflæse teksten '
+Goal
+' eller '
+No goal
+' og derfor lynhurtigt vurdere, om der er bassis for at pege på pletten og dømme mål eller ej.
+Ifølge producenten af VM-slutrundens målteknologi, GoalControl-4D, angiver systemets usikkerhed til kun at være et par millimeter.
+Gennem historien har der været flere tvivlsomme kendelser på afgørende tidspunkter i VM- og EM-turneringer.
+Set med danske øjne er et af de mest velkendte eksempler kampen mellem Bulgarien og Rumænien ved EM i England i 1996, hvor den tidligere danske topdommer Peter Mikkelsen undlod at dømme mål, da rumænske Dorinel Munteanu via overliggeren ellers havde sparket bolden over stregen.
+Dengang sprang bolden i spil igen og først på tv-billederne efterfølgende blev det tydeligt, at Rumænien burde have fået anerkendt en 1-1-scoring.
+Inden da havde den bulgarske stjerne Hristo Stoichkov bragt sit land på 1-0, der også blev kampens resultat.
+Jakob Stig Jørgensen
+fortsæt med at læse
+Dommeren har brug for tekniske briller
+Blatter: Ny målteknologi skal også bruges ved EM
+Hitzfeld efter 2-5-lussing: En kulsort dag

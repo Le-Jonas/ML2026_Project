@@ -1,0 +1,9 @@
+Title: IBM_tog_ikke_sin_egen_medicin_under_Se_og_Hør-læk
+Date: 2014-08-01
+Article Type: Digitalt
+Author: Jakob Sorgenfri Kjær
+
+It-giganten IBM har et avanceret produkt på lager, der ifølge eget udsagn vil »opdage interne trusler og intern svindel«.
+Men denne intelligente sikkerhedsløsning, kaldet
+security intelligence
+eller SIEM, var efter alt at dømme ikke koblet på Nets’ kreditkortsystem, da det gennem flere år blev misbrugt af en IBM-medarbejder.

@@ -1,0 +1,30 @@
+Title: CSC_kræver_erstatning_for_pressehandtering_efter_hackerangreb
+Date: 2014-09-05
+Article Type: Danmark
+Author: Jakob Sorgenfri Kjær
+
+Journalist
+CSC’s eksterne advokat, Hans Jakob Folker, har præsenteret CSC’s erstatningskrav mod de to personer, tiltalt for det fem måneder lange hackerangreb i 2012.
+Retten skulle tage stilling til, hvorvidt erstatningsspørgsmålet kunne attesteres ind i straffesagen, eller om CSC i givet fald må rejse et separat civilt søgsmål.
+Af it-virksomhedens erstatningskrav på samlet 4,9 millioner kroner optræder en post på 1,23 millioner kroner for omkostninger til ekstern pressehåndtering i forbindelse med angrebet.
+CSC opdagede aldrig selv, at selskabets it-systemer gennem næsten fem måneder var udsat for et hackerangreb, og at hackerne fik adgang til en lang række offentlige registre. Først i februar 2013 - ti måneder efter angrebets begyndelse - blev politiet og CSC opmærksom på dataangrebet som følge af en henvendelse fra svensk politi.
+LÆS ARTIKEL
+CSC ønsker også erstatning for at have hjulpet politiet med efterforskningen af sagen. Et krav på 2,57 millioner kroner skal således dække »undersøgelse af angreb, forårsaget skade og hjælp til politiets efterforskning«.
+Andre krav er:
+660.000 kroner til at dække omkostninger i forbindelse med berørte kunder 23.000 kroner for omkostninger til hardware
+Endelig har CSC en omkostningspost på 400.000 kroner til »forebyggelse af tilsvarende angreb«.
+CSC’s advokat argumenterede i retten for at erstatningskravet bør medtages i den nuværende straffesag. Dels fordi det kan være vanskeligt efter en eventuel dom at lokalisere de tiltalte, da de »har verden som arbejdsplads«.
+Og dels fordi det vil skabe store procesøkonomiske omkostninger med en separat sag, da der ifølge praksis også skal udpeges en ny dommer.
+LÆS ARTIKEL
+Begge de tiltaltes forsvarsadvokater protesterede mod ønsket, da det vil kræve flere ekstra retsdage at gennemgå CSC’s krav, der er uddybet i et 61 sider langt processkrift.
+De knyttede desuden meget kritiske kommentarer til CSC’s konkrete poster på erstatningsopgørelsen.
+»Jeg har aldrig før hørt om, at en forurettet part i en sag skulle have erstatning for at hjælpe politiet med efterforskningen. Hvis CSC ønsker de omkostninger dækket, må det være politiet selv, der skal betale for det«, sagde Michael Juul Eriksen, forsvarer for den tiltalte dansker i sagen.
+Efter fem minutters votering nåede de tre juridiske dommere frem til, at CSC må rejse en civil sag, hvis selskabet vil forfølge sit erstatningskrav.
+»Vi mener, at en behandling af CSC’s krav ikke vil kunne ske uden væsentlig ulempe for straffesagen. Det er et ikke ukompliceret krav, som der ikke er tid til«, sagde retsformand Kari Sørensen.
+LÆS ARTIKEL
+Tidsplanen i sagen er allerede skredet så meget, at den tiltalte dansker i sagen ikke forventes at blive afhørt i dag, hvilket ellers var skemasat. I stedet fortsætter forhøret af Gottfrid Svartholm Warg.
+Jakob Sorgenfri Kjær
+fortsæt med at læse
+Live: Dansker i retten i hackersag
+Ung dansker inddrager mystisk person i hackersag
+Politiet fik aldrig adgang til it-systemer i hackersag

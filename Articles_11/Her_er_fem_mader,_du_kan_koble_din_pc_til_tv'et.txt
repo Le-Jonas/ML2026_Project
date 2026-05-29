@@ -1,0 +1,7 @@
+Title: Her_er_fem_mader,_du_kan_koble_din_pc_til_tv'et
+Date: 2014-07-12
+Article Type: Digitalt
+Author: Morten Bay
+
+Der kan være mange grunde til at sætte sin computer til sit fjernsyn, lige fra at se en film til at vise gæster fotos fra ferien. Her kan du læse, hvordan du får computerens skærmbillede op på tv’et.
+Den mest gængse måde at koble sin computer til sit tv på er med et HDMI-kabel. De fleste computere har et stik til tv, men nogle gange skal man bruge en adapter for at sætte den til tv’et. Det kan f.eks. være fra mikro-HDMI til almindelig HDMI eller fra det såkaldte Mini Displayport-stik (Thunderbolt på Mac) til HDMI. Besøg din lokale computerbutik for at finde det rigtige kabel.

@@ -1,0 +1,6 @@
+Title: USA_advarer_om_hackerangreb_mod_iPhones
+Date: 2014-11-13
+Article Type: Digitalt
+Author: De amerikanske myndigheder advarer nu brugere af iPhones og iPads mod svagheder i Apples styresystem iOS, der angiveligt gør det muligt for hackere at bryde ind i enhederne og stjæle data.
+
+Advarslen kommer efter, at man for nylig har identificeret en særlig teknik, kendt som 'Masque Attack', der gør det muligt at hacke sig ind i Apples enheder. Bag advarslen står Det Nationale Råd for Cybersikkerhed.

@@ -1,0 +1,7 @@
+Title: Genopfrisk_din_PC_i_fem_trin
+Date: 2014-08-02
+Article Type: Digitalt
+Author: Morten Bay
+
+Det er oplagt at tro, at når man har købt en computer, så kører den bare automatisk derudad. Men sandheden er, at de fleste computere har behov for at blive genopfrisket en gang imellem. Især Windows – computere skal have Windows geninstalleret mellem hver 6. og 12. måned. Dette har Microsoft forsøgt at gøre nemmere i Windows 8.1 ved at indføre en ”genopfrisk”-funktion. Sådan bruger du den:
+Med en genopfriskning installeres Windows forfra. Programmer, du har installeret fra for eksempel en DVD eller fra nettet, skal geninstalleres, så sørg for at du ved, hvor du kan finde installationsfilerne. Programmer hentet fra Windows Store eller som var preinstalleret på computeren, bliver automatisk geninstalleret.

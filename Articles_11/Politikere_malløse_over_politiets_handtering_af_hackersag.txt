@@ -1,0 +1,8 @@
+Title: Politikere_malløse_over_politiets_handtering_af_hackersag
+Date: 2014-09-12
+Article Type: Danmark
+Author: Jakob Stig Jørgensen
+
+Journalist
+Folketingspolitikere fra Enhedslisten til Dansk Folkeparti og flere derimellem undrer sig såre over, at hverken politiet eller forsvarets egne it-specialister har haft fysisk adgang til de CSC-systemer, som gennem fem måneder er blevet angrebet i danmarkshistoriens største hackersag.
+En håndfuld retsordførere kritiserer således myndighederne for at basere de tekniske undersøgelser og den strafferetlige efterforskning på oplysninger, som CSC selv har leveret og på en skadesrapport, som CSC har betalt et svensk sikkerhedsfirma for at lave.

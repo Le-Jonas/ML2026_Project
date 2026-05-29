@@ -1,0 +1,30 @@
+Title: Kommuner_fodrer_firmaer_med_data_om_dig
+Date: 2015-07-21
+Article Type: Digitalt
+Author: Jakob Sorgenfri Kjær
+
+Journalist
+Emilie  Kleding
+Hvis du søger efter ’tilskud til hørehæmmede’ på kommunens hjemmeside, risikerer du at blive ramt af en reklame for høreapparater et andet sted på nettet.
+Hver fjerde af landets kommuner har installeret en delingsknap fra AddThis, viser en kortlægning, som analysefirmaet Cookie Information har lavet for Politiken. Knappen fra AddThis gør, at borgerne nemt kan sprede offentlige informationer på nettet.
+Det er gratis for kommunen, men har en pris for borgeren: Uanset om man klikker på knappen eller ej sætter AddThis sporingscookies, der giver selskabet data om, hvad du læser og søger efter på den kommunale hjemmeside.
+At kommuner giver data om borgernes adfærd til kommercielt brug er »helt uacceptabelt«, mener IT-Politisk Forening:
+»Den information, som vi søger på kommunale sider, er relateret til vores livssituation, så det er meget følsomme informationer. Hvis man er inde og læse om støtte til pensionister, kan der dukke reklamer op for private pensionsordninger«, siger formand Jesper Lund.
+Det fremgår af AddThis’ privatlivspolitik, at selskabet selv bygger kommercielle profiler på brugerne og også sælger data videre til andre.
+AddThis skriver, at det overholder europæisk persondatalov, men det tilføjes så: »Vi bruger eller deler ikke eventuelle sundhedsrelaterede eller finansrelaterede data, som vi anser for følsomme. Vi anerkender, at andre muligvis har et divergerende syn på, hvilke kategorier af sundheds- og finansielle data der er følsomme«.
+Betingelserne oplister eksempler på, hvilke data AddThis ikke anser for ’følsomme’: ’tandlæge’, ’vægttab’, ’skat’ og ’boliginvestering’.
+Cookie Information har analyseret sig frem til, at AddThis også faciliterer en hemmelig sporing af brugerne. Det betyder, at brugeren modtager usynlige cookies fra AddThis’ partnerfirmaer. Der er blandt andre tale om firmaet VisualDNA, som høster data til at lave såkaldt psykografisk profilering af brugerne. Disse profiler kan andre firmaer bruge til blandt andet at kreditvurdere kunder.
+»AddThis fungerer som en trojansk hest på hjemmesider, fordi der sættes koder, der sporer dig og din adfærd, uden at du ved det. Du kan ikke vide, hvem der betaler AddThis for at sætte sporing i computeren. Og den hjemmeside, du besøger, ved det heller ikke«, siger Karsten Rendemann, direktør i Cookie Information.
+Analysefirmaets målinger viser, at AddThis bliver brugt af op mod halvdelen af alle danske hjemmesider.
+AddThis skriver i en mail til Politiken, at selskabets betingelser overholder danske og europæiske persondataregler, som kræver, at hjemmesideejeren indhenter brugerens samtykke til at sætte cookies.
+»Vi indsamler ikke følsomme informationer om europæere, som det er defineret i EU-love«, skriver Claire Alexander, marketingchef i AddThis, og tilføjer, at firmaets egen opfattelse af følsomme oplysninger kun gælder i USA.
+Hun har ikke svaret på Politikens spørgsmål om selskabets skjulte sporingscookies.
+It-advokat og persondataekspert Heidi Steen Jensen vurderer, at både kommuner og AddThis overtræder loven.
+»Kommunen er formentlig ikke klar over, hvad der foregår, og det er næsten det værste. Det er jo kommunen, der har til ansvar at sørge for, at vore data ikke bliver brugt til forkerte eller uoplyste formål«, siger hun.
+Lyngby-Taarbæk er en af de kommuner, der har installeret den gratis tjeneste uden at fundere over følgerne:
+»Vi har slet ikke været opmærksomme på, at private virksomheder kan få adgang til data om borgernes adfærd på hjemmesiden. Det har naturligvis aldrig været hensigten, og vi er derfor gået i gang med at undersøge, hvad vi kan gøre for at undgå, at data om borgerne ender i forkerte hænder«, siger centerchef Charlotte Bidsted.
+Emilie  Kleding
+fortsæt med at læse
+Borgernes skepsis bremser velfærdsrobotter
+Fem millioner personnumre blev ved en fejl sendt til Kina
+Sikkerhedsekspert: »Der er tale om nogle af de mest følsomme data om danskerne«

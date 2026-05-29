@@ -1,0 +1,6 @@
+Title: Staten_udleverer_personlige_data_i_massevis
+Date: 2014-06-16
+Article Type: Digitalt
+Author: Mens politikere på den ene side udtrykker bekymring omkring danskernes datasikkerhed, så udleverer staten selv hvert år millioner af følsomme data til forskere og private virksomheder, skriver Berlingske.
+
+Statens Serum Institut udleverede alene i 2012 og 2013 i alt 643 unikke udtræk fra forskellige databaser. Et enkelt udtræk kan bestå af oplysninger - eksempelvis cpr-numre - fra flere hundredetusinde danskere.

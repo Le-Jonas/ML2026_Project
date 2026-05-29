@@ -1,0 +1,6 @@
+Title: Hackere_kan_overtage_fly_via_wifi-forbindelse
+Date: 2014-08-06
+Article Type: Fly og lufthavne
+Author: Luftfartsbranchen og it-specialister over hele verden vil formentlig holde et vågent øje med den it-sikkerhedskonference, der senere på ugen finder sted i Las Vegas.
+
+Her vil it-konsulenten Ruben Santamarta forklare, hvordan det angiveligt er lykkedes ham at finde en metode, hvorpå hackere kan overtage kontrollen med et passagerfly ved at infiltrere flyets wifi-forbindelse. En trussel som it- og terroreksperter har frygtet i de senere år, i takt med at flere luftfartsselskaber installerer wifi i deres fly.

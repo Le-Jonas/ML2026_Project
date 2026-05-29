@@ -1,0 +1,6 @@
+Title: Læsebriller_kan_blive_overflødige_med_ny_skærmteknologi
+Date: 2014-08-07
+Article Type: Digitalt
+Author: Der er godt nyt til dem, der bruger læsebriller foran computeren. Nu har it-giganten Microsoft i samarbejde med to amerikanske universiteter udviklet en teknologi, der om nogle år kan gøre læsebrillerne overflødige – i hvert fald foran computerskærmen. Det skriver norske forskning.no
+
+I stedet for at udvikle linser eller briller, har forskerne i det nye projekt fokuseret på at udvikle skærmen til de nærsynede. Teknologien virker ved, at en særlig algoritme og et lysfilter korrigerer skærmindholdet, så det bliver tilpasset brugerens øjne.

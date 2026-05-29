@@ -1,0 +1,8 @@
+Title: Vækkeur-app_skal_minde_rejsekort-brugere_om_tjek_ud
+Date: 2015-01-23
+Article Type: Forbrug
+Author: Kasper Iversen
+
+Emilie  Kleding
+'Rejs Nemt' hedder applikationen, der skal hjælpe rejsekort-brugere med at undgå 25 kroners dummebøder, når de glemmer at tjekke ud.
+Med en smartphone kan man således taste sin endestation ind på appen, som via telefonens gps følger rejsen. Når turen er slut, giver appen lyd, så man husker at tjekke ud i busser og på perroner.

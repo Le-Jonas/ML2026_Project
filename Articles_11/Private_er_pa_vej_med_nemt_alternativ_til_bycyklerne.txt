@@ -1,0 +1,10 @@
+Title: Private_er_pa_vej_med_nemt_alternativ_til_bycyklerne
+Date: 2015-06-16
+Article Type: Forbrug
+Author: Louisa Valeur
+
+Journalist
+I lyset af de omdiskuterede bycykler i København har fire unge mænd nu startet et privat firma op, som tilbyder et alternativ til de eksisterende bycykler. Firmaet hedder
+Donkey Republic
+, og bycyklerne fungerer ved, at man henter en applikation ned på sin smartphone, som efterfølgende kan låse cyklerne op.
+»Vi har forsøgt at gøre systemet billigt og fleksibelt ved at udvikle en intelligent cykellås, hvor der sidder en bluetoothmodtager indeni, der kan snakke sammen med telefonen, som kan kommunikere med vores servere«, forklarer Rune Kokholm og fortsætter:

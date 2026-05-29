@@ -1,0 +1,10 @@
+Title: Politiet_kunne_ikke_finde_egne_e-mails_i_hackersag
+Date: 2014-11-29
+Article Type: Danmark
+Author: John Hansen
+
+Journalist
+Jakob Sorgenfri Kjær
+Journalist
+Rigspolitiet måtte rejse over Øresund til kollegerne i Sverige for at finde ud af, hvilke e-mails Rigspolitiets medarbejdere har modtaget – de kunne ikke findes i dansk politis egne systemer.
+Et af flere eksempler på, hvad både Rigspolitiet og den øverste chef, justitsminister Mette Frederiksen (S), i går erkendte: Dataindbruddet hos it-virksomheden CSC i 2012 afslørede, at politiet langtfra var rustet til at sikre borgerne godt nok mod, at uvedkommende fik adgang til deres personfølsomme data.

@@ -1,0 +1,8 @@
+Title: Teleindustrien_FE's_kabel-tapning_sker_ikke_med_vores_viden
+Date: 2014-06-20
+Article Type: Danmark
+Author: Jakob Sorgenfri Kjær
+
+Journalist
+Når Forsvarets Efterretningstjeneste (FE) tilsyneladende overvåger borgeres kommunikation via fiberoptiske kabler, er der to mulige scenarier: Enten sker det med teleselskabernes viden og accept, eller også har FE installeret bagdøre i deres infrastruktur. Lækkede NSA-dokumenter det forløbne år har vist, at masseovervågningen forekommer via begge scenarier.
+Teleindustrien, der er brancheorgan for TDC, Telenor og Telia, siger, at aftapningen af kabler i givet fald sker uden industriens viden:

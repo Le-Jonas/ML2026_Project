@@ -1,0 +1,7 @@
+Title: Skat_afviser_værktøj,_der_bekæmper_svindelmails
+Date: 2014-11-21
+Article Type: Digitalt
+Author: Søren Dilling
+
+Med argumentet om, at det kun vil forhindre 10 procent af svindelforsøgene, afviser Skat, at det kan nytte noget at anvende et værktøj, som kan forhindre de dygtigste svindlere i at kopiere Skats afsenderadresse i de mails, myndigheden flere gange om året sender ud til samtlige danskere om restskat, selvangivelse og forskudsopgørelse.
+Det resulterer i professionelt udførte svindelmails, hvor selv it-eksperter har svært ved at skelne kopien fra den ægte email. Og danskerne er så obs på risikoen for, at når Skat står som afsender, kan det i virkeligheden være en svindelmail, at hundredtusinder af danskere deler artikler om svindelmails, som er skrevet år tilbage.

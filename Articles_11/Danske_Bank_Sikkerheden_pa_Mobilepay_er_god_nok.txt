@@ -1,0 +1,6 @@
+Title: Danske_Bank_Sikkerheden_pa_Mobilepay_er_god_nok
+Date: 2014-10-22
+Article Type: Digitalt
+Author: Svindel med den populære betalingsapp Mobilepay er relativt begrænset, og derfor er der ikke behov for at øge sikkerheden ved at kræve, at brugerne skal logge ind med NemID, når de overfører penge.
+
+Desuden vil man i tilfælde af snyd være sikret mod tab.
