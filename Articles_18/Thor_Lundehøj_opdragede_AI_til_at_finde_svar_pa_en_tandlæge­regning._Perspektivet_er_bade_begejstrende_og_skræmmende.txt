@@ -1,0 +1,9 @@
+Title: Thor_Lundehøj_opdragede_AI_til_at_finde_svar_pa_en_tandlæge­regning._Perspektivet_er_bade_begejstrende_og_skræmmende
+Date: 2024-12-04
+Article Type: Viden og tech
+Author: AI er dagens og morgendagens vigtigste teknologi. Mange af Danmarks største organisationer og arbejdspladser går nu sammen for at udbrede kendskabet.
+
+Jens Bostrup
+Journalist
+Thor Lundehøj sad en lørdag i sin sofa og kæmpede med at finde svar på, om han kunne få hjælp til en tandlægeregning gennem en af arbejdspladsens forskellige ordninger. Han vidste, at svaret befandt sig et eller andet sted i hr-afdelingens hjørne af virksomhedens intranet. Men han kunne ikke finde det.
+Så Thor Lundehøj uploadede alt, hvad han kunne finde af dokumenter, til ChatGPT og spurgte den. Og ud kom det rigtige svar, sådan da. Men først efter han havde brugt mange timer på at opdrage maskinen og lære den at stille spørgsmål.

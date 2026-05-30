@@ -1,0 +1,17 @@
+Title: Datatilsynet_kritiserer_DR_for_krav_om_navn_ved_login
+Date: 2025-10-24
+Article Type: Medier
+Author: Datatilsynet er kritiske over for, at DR frem til september bad brugere om at oplyse navn på DRTV.
+
+Indtil september blev brugere mødt af formuleringen ’fortæl os dit navn’, når de ville oprette et login på DRTV. Det får fredag Datatilsynet til at udtale kritik af DR, lyder det fra tilsynet i en pressemeddelelse.
+Datatilsynet har også undersøgt selve kravet om at lave et login for at få fuld adgang til DRTV. Her finder Datatilsynet ikke fuldt tilstrækkeligt grundlag for at kritisere DR, lyder det.
+DR har over for Datatilsynet henvist til, at man vurderer, at et login er med til at understøtte DR’s forpligtelser under public service-kontrakten. I en del af kontrakten lyder det, at DR skal følge den digitale udvikling og sikre løbende fornyelse af sine tjenester.
+Datatilsynet lægger i sin afgørelse vægt på, at rækkevidden af DR’s forpligtelser »ikke ses entydigt at kunne fastlægges«. Hvis man skal gøre det, ville det bero på medieretlige vurderinger, som er uden for Datatilsynets kernekompetencer, lyder det. Tilsynet har desuden lagt vægt på, at Kulturministeriet må antages at have accepteret DR’s fortolkning af sin kontrakt.
+DR ændrede i september sin formulering på hjemmesiden, så man i stedet bliver mødt med en opfordring til at vælge et profilnavn, hvis man vil lave et login til DR’s streamingtjeneste. Den nye formulering understreger også, at brugeren ikke behøver at give DR sit rigtige navn.
+I et tidligere svar til Datatilsynet fra DR, som Ritzau har fået aktindsigt i, har DR erkendt, at formuleringen ’fortæl os dit navn’ kunne misforstås.
+DR har haft loginkrav på DRTV siden efteråret 2024. Konkret betyder det, at man skal oprette en bruger, hvis man vil se andet indhold end livekanalerne på DRTV. Loginet muliggør også, at brugeren kan bruge en funktion om at se videre på påbegyndte programmer eller gemme programmer som favoritter.
+Kravet om login fik en række borgere til at klage til Datatilsynet. Ifølge Datatilsynet har DR oplyst, at der var 3,4 millioner brugerprofiler på DRTV i august.
+Ritzau
+fortsæt med at læse
+DR fastholder krav om at logge ind
+Ingen vej udenom: Om lidt bliver login et krav på DR's streamingtjeneste

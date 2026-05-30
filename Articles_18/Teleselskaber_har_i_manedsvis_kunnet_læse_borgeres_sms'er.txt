@@ -1,0 +1,18 @@
+Title: Teleselskaber_har_i_manedsvis_kunnet_læse_borgeres_sms'er
+Date: 2025-10-20
+Article Type: Tech
+Author: Regeringen gav teleselskaber lov til at analysere sms’er i kamp mod svindel, men det gav for megen adgang.
+
+Ansatte hos teleselskaber har i månedsvis haft adgang til at læse kunders tekstbeskeder gennem et filter, som skulle beskytte borgere mod svindelbeskeder.
+Det skriver fagbladet Ingeniøren, som kan fortælle, at medarbejdere hos Telenor, 3, TDC og Norlys har haft mulighed for at se indholdet af tusindvis af almindelige sms’er.
+»Alle teleselskaber har haft en opfattelse af, at systemet kunne mere selv, end det har vist sig at kunne«, siger direktør i Teleindustrien Jakob Willer til mediet.
+Filteret er ellers blevet hyldet af regeringen og telebranchen for at være et effektivt værn mod svindelbeskeder.
+Systemet fungerer ved, at algoritmer og kunstig intelligens analyserer alle de sms’er, som sendes til borgernes telefoner. De tjekkes for at have karakter af svindel.
+Algoritmen vil for eksempel fange, hvis en sms er sendt til mange tusind borgere på én gang og indeholder skadelige links.
+Men ’omkring juli’ stoppede teleselskaberne med at bruge de mest indgribende dele af filteret, så det i dag ’ikke er særlig effektivt’, fortæller direktøren i brancheforeningen.
+Sms-filteret blev med opbakning fra både regering, teleindustrien og Forbrugerrådet Tænk præsenteret som et middel mod den stigende sms-svindel i november 2024.
+Det kræver en dommerkendelse at tilgå privat kommunikation. Derfor tog det tid at få sikret, at filteret ikke stred mod den grundlovssikrede brevhemmelighed eller EU’s direktiver om privatliv.
+»De får ikke adgang til at læse folks beskeder«, sagde erhvervsminister Morten Bødskov (S) dengang til Politiken.
+Sms-filteret er inspireret af Finland, hvor man i perioder har kunnet fjerne op mod 95 procent af forsøgene på svindel via sms og telefon.
+Ifølge telebranchen vil løsningen hverken gemme eller logge data. Det er kun almindelige sms’er, som teleselskaberne kan screene - ikke krypterede.
+ritzau

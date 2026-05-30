@@ -1,0 +1,9 @@
+Title: Nets_kommer_nu_med_forklaring_Sjælden_fejl_stod_bag_betalingsnedbrud
+Date: 2025-07-24
+Article Type: Økonomi
+Author: En komponentfejl skabte nedbrud hos Nets i lørdags. Betalingskortgiganten er nu klar med sin hændelsesrapport.
+
+Thomas Flensburg
+Journalist
+Lørdagens betalingskaos ved Storebælt, i Tivoli, på festivaler, på caféer, restauranter, hoteller og i butikker blev skabt af en sjælden komponentfejl, oplyser betalingsgiganten Nets i en hændelsesrapport til Finanstilsynet, hvor de også erkender, at alle problemer endnu ikke er løst.
+»Vi blev ramt af en komponentfejl af en sjælden karakter, som hverken vi eller vores leverandør har set før, og som gjorde os ude af stand til hurtigt at genetablere normal drift«, siger landechef Allan Bonke fra Nets.

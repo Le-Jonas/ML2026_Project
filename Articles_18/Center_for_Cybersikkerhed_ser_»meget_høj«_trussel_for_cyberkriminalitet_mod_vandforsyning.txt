@@ -1,0 +1,24 @@
+Title: Center_for_Cybersikkerhed_ser_»meget_høj«_trussel_for_cyberkriminalitet_mod_vandforsyning
+Date: 2025-01-22
+Article Type: Danmark
+Author: Netværk af sensorer skal forhindre cyberangreb på vandværker.
+
+Danske vandværker og spildevandsselskaber trues i stigende grad af skruppelløse cyberkriminelle.
+Det er vurderingen hos Center for Cybersikkerhed i en ny rapport, der udkom onsdag. Netop cyberkriminalitet er et emne, der er rykket helt op på dagsordenen i vandsektoren, forklarer projektleder for it-sikkerhed Peter Mortensen fra brancheorganisationen Danva.
+»Det er helt klart noget, vi arbejder mere med og forsøger at gardere os imod. Blandt andet via SektorCert-samarbejdet«, fortæller han.
+SektorCert er et cybersikkerhedscenter, der overvåger internettrafikken for eksempelvis vandværker og energiselskaber.
+»Her sættes der sensorer op, der i realtid overvåger den indgående internettrafik. Så bliver datastrømmen overvåget centralt, og vi får besked, når der sker angreb eller forsøg på angreb«, siger Peter Mortensen.
+Truslen om cyberkriminalitet mod vandsektoren vurderes af Center for Cybersikkerhed som »meget høj«.
+Der er især tale om såkaldte ransomwareangreb, hvor data og systemer bliver gjort utilgængelige for offeret, ofte ved kryptering. Den angribende part kræver ofte en form for løsesum for at låse systemerne op igen.
+Der har de senere år været flere eksempler på forsyningsselskaber, der er blevet ramt. Blandt andre Kalundborg Forsyning, Tønder Forsyning og Fanø Vand.
+Rapporten fra Center for Cybersikkerhed nævner også et frisk eksempel fra slutningen af 2024, da et mindre vandværk blev hacket af en prorussisk cyberaktivistisk hackergruppe. Angrebet medførte, at 450 husstande kortvarigt ikke havde vand på grund af lavt vandtryk. Senere var cirka 50 husstande uden vand i adskillige timer, da forhøjet vandtryk resulterede i et sprunget vandrør.
+Hos Danske Vandværker – brancheforeningen for cirka 1600 mindre, forbrugerejede vandværker – har man ikke et overblik over antallet af cyberangreb.
+»Men der er ingen tvivl om, at det sker, og at tendensen er stigende«, siger landsformand Jan Andersen.
+Der sættes ind på flere fronter, forklarer han.
+»Vi arbejder målrettet på at løfte medlemmernes it-beredskab og it-sikkerheden. Lige fra kurser og kodeks for godt bestyrelsesarbejde til skriftlig information, skabeloner og et beredskabsspil, der kan bidrage til at øge bestyrelsernes fokus på eventuelle udfordringer«, siger han.
+ritzau
+fortsæt med at læse
+Ekspert efter nedbrud:
+»Vi skal se det som et wakeupcall«
+97 procent af kommunerne tilstår:
+Vi kan ikke håndtere cyberangreb

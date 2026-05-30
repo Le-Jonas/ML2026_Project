@@ -1,0 +1,104 @@
+Title: Nye_klimaudregninger_Sa_meget_CO2_udleder_det,_nar_du_rejser_pa_ferie_med_fly,_bil,_bus_eller_tog
+Date: 2025-09-30
+Article Type: Rejser
+Author: En dansker sætter i gennemsnit et klimaaftryk på 10 tons om året, hvoraf rejser står for en stor del. Men udledningen fra diverse transportmidler ændrer sig hele tiden. Derfor opdaterer Politiken nu igen sine klimaberegninger på rejser.
+
+Politikens rejseredaktion
+En stor del af det klimaaftryk, en gennemsnitsdansker afsætter, stammer fra vores rejser til udlandet. Derfor valgte vi for seks år siden at udstyre alle rejsereportager i Politiken med en boks, der beskriver, hvor meget en person vil udlede af CO
+2
+ved at tage på en lignende rejse.
+Heldigvis sker der hele tiden en udvikling i en mere bæredygtig retning. Således er der kommet nye fly- og biltyper til, som bruger mindre brændstof, ligesom nogle fly kan have biobrændstof i tanken, og flere og flere biler kører på el, der stammer fra bæredygtige energikilder. Også flere og flere togstrækninger bliver elektrificeret, og de gamle dieseltog udfases. Derfor opdaterer vi nu for fjerde gang de tal, som ligger til grund for vores klimaberegner.
+For seks år siden valgte vi efter flere måneder med tests af en lang række forskellige beregnere og møder med eksperter at bruge den svenske
+Klimatsmart Semester
+-beregner, som er udarbejdet i samarbejde med blandt andet Chalmers Tekniske Højskole og Göteborgs Universitet.
+Bag beregneren lå en 24 sider lang rapport fra Chalmers. Den rapport er blevet opdateret i 2024, og du kan læse den fulde version her:
+Metoderapport version 4.1
+.
+Vil du hellere have overskrifterne, kommer her et (lidt) kortere overblik over nøgletallene:
+Udledninger, som opstår under fremstillingen af brændstof til både fly, tog, bil og bus, er inkluderet for alle beregninger.
+At beregne klimaaftrykket på en flyrejse er ikke så ligetil. Man skal tage højde for flytype, for den højde, et fly flyver i på en bestemt rute, for mellemlandinger, for antal af passagerer om bord på et fly og sågar for flyets alder.
+Distancen for en flyrejse er regnet ud via Google Maps’ såkaldte ’storcirkelafstand’, som tager højde for Jordens krumning og dermed den rute, et fly flyver; det er ikke er en direkte linje på et kort, men derimod en bue. Da fly dog oftest ikke kan flyve direkte, fordi de måske skal udenom områder med mange fly, cirkle rundt, mens de venter på landingstilladelse, eller skal undgå at flyve over visse lande, er der lagt 3 procent oveni storcirkelafstanden.
+Desuden er klimapåvirkningen fra fly højere, fordi udslippet sker højt oppe i atmosfæren. Det skyldes blandt andet de kondensstriber, som bliver dannet på himlen, når de varme og vandholdige gasser fra flyet møder den kolde omgivende luft i denne højde og danner ispartikler. De bliver hængere i luften i flere timer og medvirker til, at der kommer cirrusskyer på himlen. Skyerne forhindrer varmen fra Jorden i at slippe ud i rummet. Desuden sker der ved flyvning i høj højde et udslip af NO
+x
+-partikler, som også skal regnes med i den indirekte opvarmende effekt.
+Højdeeffekten afhænger af flere faktorer, f.eks. rejsens længde, årstid, vejrforhold og tid på døgnet. Da et fly bruger mest brændstof ved start, giver meget korte flyvninger en markant større udledning per person per kilometer end lange flyvninger. Til gengæld er højdeeffekten ikke så stor på korte rejser, hvor flyet ikke når helt op i 11 kilometer. Klimatsmart Semester bruger det såkaldte Global Warming Potential-indeks (GWP), som FN’s Klimapanel står bag, da det måler fremtidens klimapåvirkning af nuværende emissioner. GWP angiver et gennemsnit på højdeeffekten på 1,7 gange højere end påvirkningen fra CO
+2
+-udledning alene.
+Det skal dog for en god ordens skyld nævnes, at der fortsat forskes i højdeeffekten, og at nogle klimaberegnere bruger en højere faktor, mens mange flyselskabers beregnere slet ikke medtager højdeeffekten.
+Du kan selv beregne dit aftryk ved en flyrejse hos
+Klimatsmartsemester
+.
+Der er stor forskel på, hvor langt en bil kører på en liter brændstof, og dermed hvor meget CO
+2
+den udleder per kilometer. Ifølge Klimatsmartsemester udleder
+en middelstor benzinbil 198 gram CO
+2
+per kilometer
+. Har du en stor bil, en ældre bil, eller en diesel-bil, må du beregne en lidt større udledning.
+Kører man i en elbil, afhænger udledningen i høj grad af, hvor man tanker sin el, og hvordan den el er produceret. Ifølge Klimatsmart Semester vil udledningen være
+ca. 59 gram per kilometer, hvis bilen oplades med el i Norden, mens den ved opladning med el i resten af Europa er oppe på 104 gram per kilometer.
+I vores klimaudlednings-bokse angiver vi tal for både benzin- og elbiler, og elbilsudregningen vil være forskellig, alt efter om turen går til Sverige, Norge og Finland, eller resten af Europa.
+Tallene er såkaldt livscyklus-tal, dvs. at udledningerne er baseret på det forventede antal kørte kilometer i bilens samlede levetid. Ud over udledningerne ved kørsel, indgår også de udledninger, som opstår ved produktion af bilerne, det vil sige karosseri, sæder, vinduer osv.
+Produktionsudledningerne for en elbil er næsten dobbelt så store, som for en benzinbil (41 gram/km mod 22 gram/km), hvilket primært skyldes produktion af elbilernes batterier samt større karrosserier, men den større udledning, inden bilen overhovedet kommer ud på vejene, udlignes efterhånden i bilens levetid, da kørslen udleder markant mindre.
+Distancen til destinationerne fra København, hvor Politikens journalister er rejst fra, er fundet via Google Maps, hvor den korteste rute er valgt (hvilket ikke altid er den hurtigste). Rejser du fra en anden del af Danmark, kan afstanden være en anden.
+Antallet af personer i bilen påvirker kun udledningen meget lidt. Derfor angiver man det samlede tal for udledningen for hele bilen i gram per kilometer, hvilket vi også har valgt at gøre i vores beregner. Er der mere end én person i bilen, deler man blot tallet med det antal personer for at få udledningen per person per kilometer.
+Tog, der kører på elektricitet, udleder markant mindre CO
+2
+end dieseltog. Omkring 80 procent af togstrækningerne i Europa er elektrificeret, og derfor har vi valgt at bruge udledningen for eltog i vores beregner. Rejser du med tog til
+Norden (Sverige, Norge eller Finland) er udledningen for tog kun 7 gram CO
+2
+per passagerkilometer
+, mens dette tal tilsvarende er
+26 gram CO
+2
+per passagerkilometer for togrejser til Europa
+. At udledningen er markant større for elektriske tog i Europa sammenlignet med Sverige skyldes den måde, som strømmen, togene benytter sig af, bliver produceret.
+Tallene er et gennemsnit både med hensyn til de forskellige togmodellers energiforbrug, energikilderne samt antallet af passagerer per tog (f.eks. er der flere passagerer i et tog, der også benyttes af pendlere, mens nattog grundet sovevogne har markant færre passagerer per tog).
+Der er fortsat en del dieseltog rundt omkring i Europa, og dieseltog udleder i gennemsnit cirka 91 gram CO
+2
+per passager per kilometer. Men da disse tog ofte er lokaltog, som ikke nævneværdigt benyttes af turistrejsende, har vi valgt ikke at medregne dette. Hvis du ved, at en større del af din togrejse vil involvere et dieseltog, kan du gange den del af turen med 91 gram per kilometer i stedet for 26 gram.
+Nogle firmaer i Sverige og andre lande angiver, at de køber ’grøn’ strøm eller såkaldt ’
+eco-labelled electricity
+’ (f.eks. det svenske togselskab Snälltåget), og hermed angiver de endnu lavere CO
+2
+-udledninger. Men den præmis afvises fra flere sider. Blandt andet fra
+Svenska Miljöinstitutet
+, der har undersøgt, hvorvidt sammensætningen af elektricitets-kilder hænger sammen med, hvad køberen vælger. Miljøinstituttet nåede frem til, at sammensætningen ikke blev ændret, uanset hvad kunderne valgte, hvilket betyder, at et valg af grøn strøm ikke på den korte bane har nogen reel indflydelse på udledningen. Ligeledes har det ikke nogen direkte indflydelse på udviklingen af de elektriske systemer. En af grundene til dette er, at mængden af elektricitet produceret ved vandkraft er større end efterspørgslen på grøn energi. Derfor har vi valgt ikke at medtage argumenter om grøn strøm i vores klimaberegning.
+Distancerne har vi sat som de samme som for bil, hvilket er et cirkatal, da der jo ikke er lige så mange togskinner som veje, og derfor vil man nogle gange skulle køre lidt længere – og andre gange kortere – med tog end med bil.
+Rejser du med bus, beror klimaaftrykket selvfølgelig også på, hvor mange mennesker der er i bussen, samt hvilken bustype der er tale om.
+Vi bruger emissionsberegneren fra det svenske
+Netværket for Transport- og Miljø
+, som
+sætter udledningen for bus til 30 gram CO
+2
+per passagerkilometer
+. Det her er baseret på en 60-procents belægning af en fjernbus af typen Euro 5 – SCR med et brændstofforbrug på 0,33 liter diesel/kilometer.
+Udledningen ved eventuel færgeoverfart er IKKE medregnet i vores klimaudlednings-bokse, da udledningen er meget forskellig fra færge til færge. Er der færge med i din bus- eller bilrejse, skal du dermed beregne en yderligere udledning.
+En gennemsnitlig danskers klimaaftryk svarer ifølge den seneste beregning fra Energistyrelsen
+’Danmarks globale klimapåvirkning – Global afrapportering 2025’
+, som udkom i april 2025,
+til cirka 10 ton CO
+2
+pr. dansker
+.
+Klimaaftrykket fra forbrug er en opgørelse af de drivhusgasudledninger, der finder sted både inden for Danmarks grænser og i udlandet. Det forbrugsbaserede klimaaftryk for Danmark er opgjort til samlet cirka 60 millioner ton CO
+2
+, hvilket svarer til 10 ton CO
+2
+per dansker.
+Forbrugsudledningerne er halveret i perioden 1990-2023, hvilket primært skyldes, at den danske energisektor er blevet væsentligt mindre klimabelastende, skriver Energistyrelsen i sin rapport.
+Cirka 60 procent af de forbrugsbaserede udledninger er tilknyttet husholdningernes forbrug, og heraf stammer størstedelen fra transport samt forbruget af føde- og drikkevarer.
+Hvis den
+globale temperaturstigning skal holdes under 1,5 grader, skal hver verdensborgers CO
+2
+-udledning årligt være under 3 ton i 2030 og 1 ton i 2050
+.
+Kilder:
+Klimatsmartsemester.se,
+Icao og Energistyrelsen.
+Politikens rejseredaktion
+fortsæt med at læse
+»Don’t fly, ground«:
+I Haag er det slut med reklamer for flyrejser i byrummet
+Nu bliver der skruet ned for dieselosen- og stanken fra krydstogtskibene i København
+Psykolog er ikke overrasket over, at danskerne fortsætter med at flyve, flyve og flyve

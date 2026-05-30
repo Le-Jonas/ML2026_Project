@@ -1,0 +1,9 @@
+Title: Chatbot_tog_en_beslutning_pa_egen_hand
+Date: 2025-05-08
+Article Type: Tech
+Author: De nyeste chatbots fra firmaer som OpenAI og Google begår flere fejl end deres forgængere og leverer opdigtede svar på brugernes spørgsmål. Nogle gange tager de på egen hånd uheldige beslutninger.
+
+Cade Metz og Karen Weise
+The New York Times
+En digital assistent, der håndterer teknisk support for datafirmaet Cursor, tog i sidste måned kontakt med en række kunder og meddelte dem, at firmaet havde ændret sine betingelser. Den digitale assistent – en såkaldt chatbot, der er baseret på kunstig intelligens – skrev til kunderne, at de ikke længere måtte bruge Cursor på mere end én computer.
+Det vakte vrede blandt kunderne, og flere af dem sagde deres abonnement hos Cursor op. Nogle blev endnu mere vrede, da det gik op for dem, hvad der egentlig var sket: Chatbotten havde orienteret dem om en ændring, som den selv havde fundet på, og som ingen mennesker i Cursor havde taget beslutning om.

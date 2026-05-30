@@ -1,0 +1,23 @@
+Title: Elektronik_til_dansk_energisektor_rummede_mystiske_dele
+Date: 2025-05-20
+Article Type: Danmark
+Author: Ved nærmere inspektioner af importerede dele til energisektoren i Danmark er der fundet uforklarlige dele.
+
+Der er fundet mystiske dele, der ikke burde være der, på elektronik importeret fra udlandet til dansk energiinfrastruktur.
+Det oplyser brancheorganisationen for energiindustrien, Green Power Denmark, til Berlingske.
+»Der er fundet komponenter i elektronik, hvor det var svært at forstå, hvorfor de skulle være der. Jeg har ikke lov at sige, hvad de ukendte komponenter kunne, for noget af undersøgelsen pågår netop nu«, siger teknisk direktør i Green Power Denmark, Jørgen Christensen, til mediet.
+Han understreger, at der kan være tale om harmløse dele, da noget elektronik produceres, så det kan anvendes til flere formål.
+Organisationen vil ikke udtale sig om, hvor produkterne var importeret fra, eller uddybe, hvilken del af energiinfrastrukturen de skulle indgå i.
+Samarbejdet med leverandøren er sat på pause og de relevante myndigheder er orienteret, oplyser Green Power Denmark.
+Hvilke myndigheder, der er tale om, vil organisationen ikke komme nærmere.
+For seks dage siden kunne Reuters fortælle, hvordan der er fundet sendere i udstyr til amerikanske solcellefarme og batterier.
+Udstyret var sendt fra Kina.
+Ifølge to anonyme myndighedskilder var senderne programmeret til at omgå firewalls og kunne derfor bruges til at gøre elnettet ustabilt eller i værste fald udløse en strømafbrydelse, skriver Berlingske.
+Delene i de danske tilfælde blev fundet på samme måde. Virksomhederne fik undersøgt delene af en ekstern part, før de blev koblet til.
+Der er ikke lovkrav om, at importerede dele undersøges inden, men nogle virksomheder vælger at få undersøgt kritiske dele.
+Berlingske har talt med forsker i energi- og forsyningsret ved Syddansk Universitet Bent Ole Gram Mortensen.
+Fundet bekymrer ham, og han henviser til, hvor central en del solceller og vindmøller udgør i den danske energiforsyning.
+»Hvis nogen har en ’killswitch’ til et stort kraftværk - og den størrelse har de store danske vedvarende energianlæg efterhånden -- kan de risikere at lægge hele elnettet ned«, siger han til Berlingske.
+Politiets Efterretningstjeneste har ifølge mediet ingen kommentarer til de mystiske komponenter fundet i importeret elektronik.
+Forsvarets Efterretningstjeneste nåede ikke at svare før udgivelsen, skriver Berlingske.
+ritzau

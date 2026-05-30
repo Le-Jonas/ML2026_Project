@@ -1,0 +1,19 @@
+Title: Højesteret_afviser_borgeres_erstatningskrav_efter_databrud_i_kommune
+Date: 2025-12-19
+Article Type: Danmark
+Author: En computer med data om 20.000 borgere blev stjålet fra rådhus i 2018. Borgere skal ikke have erstatning.
+
+Fire borgere skal ikke have erstatning efter et databrud, hvor en computer med deres personlige oplysninger blev stjålet fra Gladsaxe Kommune, har Højesteret afgjort i en dom fredag.
+Tyveriet af computeren skete i 2018, efter at økonomiafdelingen i Gladsaxe Kommune havde udarbejdet et regneark med oplysninger på cirka 20.000 borgere. Regnearket indeholdt oplysninger om navne, adresser og personnumre – og for enkelte også oplysninger om levering af sundhedsydelser. Det blev gemt på en medarbejders computer, og efterfølgende blev computeren stjålet fra rådhuset.
+Spørgsmålet for Højesteret har nu været, om de fire borgere havde krav på erstatning for sikkerhedsbruddet. I retten har borgerne forklaret, at kommunens behandling af deres personoplysninger har givet dem frygt og negative følelser.
+Højesteret mener dog ikke, at den frygt var velbegrundet, når man ser på regnearkets karakter og omstændighederne ved tyveriet af computeren. Desuden har der ikke været oplysninger om, at personoplysningerne er blevet misbrugt. Ud over forklaringerne om frygten har der ikke været fremlagt beviser for, at de skal have lidt skade som følge af databruddet. Derfor mener Højesteret ikke, at de har ret til erstatning. Samme resultat var både by- og landsret nået frem til i henholdsvis 2021 og 2024.
+Det er første gang, at Højesteret har taget stilling til en sag om, hvorvidt borgere har ret til erstatning efter databeskyttelsesforordningens artikel 82 stykke 1, der giver mulighed for erstatning efter databrud. Erstatningen gives til enhver, som har lidt en materiel eller immateriel skade som følge af en overtrædelse af forordningen.
+En persons frygt for, at vedkommendes personlige oplysninger er blevet videregivet til en tredjemand, kan give erstatning, hvis frygten er behørigt bevist, fastslår Højesteret.
+»Den blotte henvisning til en frygt – uden godtgjorte negative konsekvenser – kan ikke give anledning til erstatning eller godtgørelse efter artikel 82«, skriver Højesteret i dommen.
+På grund af sagens »videregående betydning« skal ingen af parterne betale sagsomkostninger.
+ritzau
+fortsæt med at læse
+Læk på læk af borgeres personoplysninger:
+To undersøgelser skal nu afdække, hvad der er gået så galt i Gladsaxe
+Det er sket før, men blev holdt hemmeligt:
+Gladsaxe blev ramt af samme fejl og læk blot fire måneder før kæmpelæk

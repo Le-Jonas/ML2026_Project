@@ -1,0 +1,26 @@
+Title: Britisk_politi_anholder_mand_i_forbindelse_med_cyberangreb_mod_lufthavne
+Date: 2025-09-24
+Article Type: Internationalt
+Author: I weekenden har flere store lufthavne i Europa været ramt af et cyberangreb. En mand er anholdt i sagen.
+
+Britisk politi har anholdt en mand i det sydlige England som led i efterforskningen af et cyberangreb, der ramte flere europæiske lufthavne i weekenden.
+Det skriver nyhedsbureauet Reuters.
+Manden er i 40’erne og blev anholdt tirsdag i West Sussex under mistanke om at have overtrådt loven for misbrug af computere.
+Han er siden blevet løsladt mod kaution.
+Vicedirektør for det britiske kriminalpoliti Paul Foster siger ifølge nyhedsbureauet dpa, at cyberkriminalitet er en vedvarende trussel, som forårsager betydelige forstyrrelser i Storbritannien.
+»Selv om denne anholdelse er et positivt skridt, er efterforskningen af denne hændelse stadig i sin begyndelse«, siger han ifølge dpa.
+Cyberangrebet ramte fredag aften og påvirkede Bruxelles Lufthavn, Heathrow Lufthavn i London og Berlin Brandenburg Lufthavn.
+Det medførte adskillige aflysninger og forsinkelser på flyafgange, som varede weekenden over.
+Mandag måtte Bruxelles Lufthavn bede flyselskaber om at aflyse halvdelen af deres afgange.
+Og onsdag er Berlin Brandenburg Lufthavn stadig ramt af aflysninger og forsinkelser.
+I de to øvrige lufthavne er udfordringerne ved at være løst. Men der opfordres fortsat til, at passagererne tjekker deres flyafgang, inden de tager ud i lufthavnen.
+Angrebet var rettet mod det amerikanske selskab Collins Aerospace, som blandt andet leverer check-in-software til lufthavne.
+De tre lufthavne havde blandt andet udfordringer med check-in, boarding og bagagehåndtering.
+I mandags identificerede EU’s agentur for cybersikkerhed, Enisa, forstyrrelserne i lufthavnene som et cyberangreb.
+Ifølge Enisa er der tale om et såkaldt ransomwareangreb.
+Det betyder, at en gerningsmand spærrer den retmæssige brugers adgang til et it-system. Adgangen kan gives igen ved udbetalingen af en løsesum – ’ransom’ på engelsk - heraf navnet.
+ritzau
+fortsæt med at læse
+Cyberangreb mod europæiske lufthavne identificeret af EU-agentur
+Cyberangreb i Bruxelles spøger og giver aflysninger i Københavns Lufthavn
+Lufthavn i Berlin er fortsat ramt af cyberangreb

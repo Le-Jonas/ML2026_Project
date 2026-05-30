@@ -1,0 +1,9 @@
+Title: Israels_brug_af_AI_i_krigen_i_Gaza_rejser_alvorlige_etiske_spørgsmal
+Date: 2025-05-05
+Article Type: Internationalt
+Author: Israel benyttede sig af militærteknologi med kunstig intelligens til at få ram på et højtstående Hamas-medlem. Prisen var civile ofre. Alligevel blev operationen godkendt.
+
+Sheera Frenkel og Natan Odenheimer,  San Francisco og Jerusalem
+The New York Times
+I slutningen af 2023 satte Israel sig for at likvidere Ibrahim Biari, en højtstående Hamas-leder fra det nordlige Gaza, som havde været med til at planlægge massakren 7. oktober samme år. Men den israelske efterretningstjeneste kunne ikke finde Biari, som angivelig skjulte sig i netværket af tunneler under Gaza.
+Så den israelske hær tyede til en ny militærteknologi med kunstig intelligens (AI), oplyser tre israelske og amerikanske embedsmænd med indsigt i sagen. Teknologien blev udviklet for 10 år siden, men var på det tidspunkt ikke blevet brugt i kamp. Bestræbelserne på at finde Biari gav den israelske hær et nyt incitament til at forbedre teknologien, så ingeniører i enhed 8200, Israels pendant til USA’s National Security Agency, byggede kunstig intelligens ind i systemet, oplyser kilderne.

@@ -1,0 +1,23 @@
+Title: Sydkorea_fjerner_mulighed_for_download_af_kinesiske_DeepSeek
+Date: 2025-02-17
+Article Type: Tech
+Author: Indtil en gennemgang af DeepSeeks håndtering af data er færdig, er appen fjernet fra app-butikker i landet.
+
+Sydkorea har fjernet kinesiske DeepSeek fra app-butikker, mens det afventer en gennemgang af chatbottens håndtering af brugerdata.
+Det oplyser landets myndigheder mandag.
+Dermed kan chatbotten ikke længere downloades fra app-butikker i landet, men vil stadig virke for dem, der allerede har appen på deres enheder.
+Beslutningen har fået en talsperson fra det kinesiske udenrigsministerium til at opfordre lande til ikke at ’politisere handel og teknologi’.
+»Vi håber, at relevante lande vil undgå at tage foranstaltninger, der stiller for store krav til sikkerhedskonceptet, eller som politiserer handel og teknologispørgsmål«, siger talsperson Guo Jiakun.
+I sidste uge blev danske folketingsmedlemmer, partiansatte og ansatte i Folketinget frarådet at bruge den kinesiske chatbot på computere, telefoner og tablets, som de har fået udleveret af Folketinget.
+Det besluttede Folketingets Præsidium.
+Anbefalingen skyldes et forsigtighedshensyn. Det fremgår af en mail fra Folketingets Administration, som Ritzau har set.
+Udmeldingen kommer, kort efter at det norske parlament, Stortinget, har besluttet at forbyde brugen af den kinesiske chatbot, på enheder som har adgang til parlamentets systemer.
+I Norge skyldes beslutningen, at den nationale sikkerhedsmyndighed (NSM) har advaret norske virksomheder mod at have chatbotten på enheder, som har adgang til arbejdsrelaterede systemer.
+DeepSeek er en chatbot, der kan sammenlignes med den populære chatbot ChatGPT fra OpenAI. De benytter sig af kunstig intelligens til at svare på brugernes spørgsmål.
+Den er gratis at bruge og har har på kort tid markeret sig som en mulig konkurrent til ChatGPT.
+Der er dog også bekymringer om, hvordan det kinesiske program bruger de personlige oplysninger, som den indsamler i forbindelse med brug af appen.
+Tidligere har Folketinget frarådet brugen af appen TikTok, hvis moderselskab er ByteDance, der er grundlagt i Kina.
+Dengang kom der en anbefaling fra Center for Cybersikkerhed, som hører under Forsvarets Efterretningstjeneste (FE) om, at ansatte i staten ikke skulle have det sociale medie installeret på tjenstlige enheder.
+ritzau
+fortsæt med at læse
+TikTok kan igen downloades af amerikanske brugere

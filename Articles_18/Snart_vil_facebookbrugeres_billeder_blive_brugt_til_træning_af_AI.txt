@@ -1,0 +1,27 @@
+Title: Snart_vil_facebookbrugeres_billeder_blive_brugt_til_træning_af_AI
+Date: 2025-05-24
+Article Type: Tech
+Author: Dine feriebilleder og selfies fra Instagram og Facebook kan inden længe indgå i Metas kunstige intelligens.
+
+Der er snart deadline, hvis man er imod, at ens billeder på Facebook og Instagram bliver brugt til at træne kunstig intelligens.
+Det skriver techmediet input.dk.
+Man har som bruger indtil 26. maj til at gøre Meta, der er koncernen bag de sociale medier, opmærksom på, at man ikke vil have sine billeder brugt.
+Dagen efter går Meta nemlig i fuld gang med at indsamle.
+»Deres idé er, at de vil træne deres AI til at forstå billeder og finde sammenligninger«, siger redaktør på input.dk Torben Vognsen.
+Ifølge techmediet gælder det både tidligere og fremtidige opslag, så længe de er offentligt tilgængelige.
+De indsamlede billeder og tilhørende billedtekster skal gøre det nemmere for den kunstige intelligens at generere billeder til brugerne.
+»Metas AI er ligesom ChatGPT og Googles Gemini. Det er en samtalebot og en AI, der kan finde ud af at genere billeder ud fra materiale, man giver den eller beskriver. For at gøre det, skal den have noget viden omkring, hvordan mennesker ser ud. Hvordan bygninger ser ud«, forklarer Torben Vognsen.
+Flere europæiske forbrugerråd og tilsynsmyndigheder kritiserer ifølge mediet Metas planer.
+Det norske forbrugerråd har sammen med en række andre europæiske råd sendt et brev til Meta om, at AI-træningen ikke bør gennemføres.
+Også Forbrugerrådet Tænk herhjemme har rettet kritik mod Meta.
+Forbrugerrådet anbefaler brugerne, at man gør indsigelse.
+»Der findes en indgang til det, men det ligger gemt i indstillinger. Det skal ikke være alt for let at finde«, siger Torben Vognsen.
+Sidste år forsøgte Meta at gøre noget lignende. Her fik brugerne på koncernens sociale medier besked om, at Meta ønskede at bruge deres oplysninger.
+Kritikken fik det irske datatilsyn til at stande udrulningen, men nu har Meta genoptaget planerne.
+»På overfladen er det ikke så farligt. AI’en skal være i stand til at fjerne og tilføje nogle ting til billeder, men i lyset af den politiske situation lige nu, kan jeg godt forstå, at man kan være bekymret for, hvad et amerikansk firma som Meta vil med ens data og vil bruge ens billeder til«, tilføjer Torben Vognsen.
+ritzau
+fortsæt med at læse
+»Stærkt og klart budskab«:
+EU giver Apple og Meta milliardbøder for brud på regler
+»Uden for pædagogisk rækkevidde«:
+TikTok får milliardbøde for ikke at beskytte europæeres data mod Kina

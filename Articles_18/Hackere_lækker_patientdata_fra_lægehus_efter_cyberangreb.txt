@@ -1,0 +1,24 @@
+Title: Hackere_lækker_patientdata_fra_lægehus_efter_cyberangreb
+Date: 2025-01-21
+Article Type: Danmark
+Author: Lægekoncernen Alles Lægehus, der har 130.000 patienter, blev ramt af et cyberangreb tidlig december sidste år.
+
+Patienter, der er tilknyttet lægekoncernen Alles Lægehus, kan have fået lækket personfølsomme oplysninger på internettet efter et cyberangreb i december.
+Hackerne har efter sigende lækket personoplysninger på en række patienter.
+Sådan lyder det i opslag på et lukket hackerforum ifølge DR og Version2.
+»Efter tre ugers forhandling er lækket her«, skriver hackerne på den hjemmeside, hvor de har lagt patientoplysningerne ud, skriver Version2.
+Det drejer sig i flere tilfælde om oplysninger om sygdomshistorik, henvisninger til sygehuse og patienters medicin,
+skriver DR.
+Alles Lægehus, der har 130.000 patienter landet over, skrev 30. december sidste år i en pressemeddelelse, at koncernen var blevet ramt af et cyberangreb 9. december.
+Det er endnu ukendt, hvor mange patienter, der er blevet ofre for datalækket.
+Version2 har tidligere erfaret, at hackerne har krævet en løsesum for at levere det stjålne data tilbage til lægekoncernen.
+Det tog tre uger fra datalækket til, at Alles Lægehus kontaktede de patienter, der var blevet ofre for cyberangrebet.
+Det blev blandt andet kritiseret for at være for langsomt af ingeniørforeningen IDA.
+»Det er meget opsigtsvækkende, og man skulle have reageret meget tidligere og meget mere klart«, sagde it-sikkerhedsspecialist hos IDA Jørn Guldberg til DR i december.
+Hvis hackerne har fået adgang til patienternes sundhedsdata, er der risiko for, at patienterne kan blive udsat for afpresning, vurderede han.
+Ifølge Datatilsynet bør de berørte kontaktes ’uden nødigt ophold’. Det er en forpligtelse i databeskyttelsesforordningen. Men Datatilsynet anerkender også, at det kan tage tid at finde frem til de berørte.
+Alles Lægehus har oplyst til DR tirsdag, at politiet fortsat efterforsker angrebet.
+ritzau
+fortsæt med at læse
+Skandaleramt lægehus bag lyntests har faktureret regionen for fiktive ydelser
+Flere sager om mulig lægesvindel er dukket op

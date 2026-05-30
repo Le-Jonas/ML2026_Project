@@ -1,0 +1,18 @@
+Title: 110.000_cpr-numre_er_stjalet_i_hackerangreb_mod_dansk_virksomhed
+Date: 2025-08-25
+Article Type: Danmark
+Author: It-selskabet KOMiT ønsker ikke at oplyse, hvordan hackere fik adgang til persondata fra 165.000 mennesker.
+
+165.000 personer har fået stjålet persondata i forbindelse med et hackerangreb mod it-virksomheden KOMiT, oplyser virksomhedens direktør, Anders Banke, til DR. KOMiT leverer it-løsninger til friskoler, efterskoler, højskoler og frie menigheder.
+Hackerne er kommet i besiddelse af oplysninger som navn, adresse og mailadresse på de berørte, skriver DR. For 110.000 personer gælder det også deres cpr-nummer.
+»Jeg er rigtig ked af den situation, og jeg tager det fulde ansvar for, at det er sket. Det er især dem, der er berørt af det, mine tanker går til«, siger Anders Banke til DR.
+Sagen er både meldt til politiet og Datatilsynet, oplyser KOMiT, som ikke ønsker at forklare, hvordan hackerne har fået adgang til dataene. Hullet er ved at blive lukket, siger Anders Banke.
+KOMiT er et andelsselskab. Det betyder, at brugeren – for eksempel en højskole – også er en del af ejerkredsen. Blandt andet bruger Aalborg Sportshøjskole, Roskilde Festival Højskole og Odense Valgmenighed software fra KOMiT.
+Hackerangrebet skete 11. august, og flere systemer blev berørt, da en eller flere personer hackede sig ind i it-virksomhedens systemer, skriver virksomheden 20. august i et brev, der er sendt til eksempelvis forældre til elever på de skoler, der bruger systemer fra KOMiT. Det gælder blandt andet software, der bruges i forbindelse med karaktergivning, indmeldelse på skoler og udsendelse af mails.
+Brevet er også lagt op på virksomhedens hjemmeside.
+»En formodet gerningsperson har tiltvunget sig adgang til en server for at kopiere og stjæle personoplysninger. Der er på nuværende tidspunkt ikke konstateret spredning af de stjålne data til tredjepart. Den formodede gerningsperson har øjensynlig ikke intentioner om at sælge eller dele informationerne, men derimod at sætte fokus på eventuelle sikkerhedshuller i de nævnte systemer«, skriver KOMiT i brevet.
+Virksomheden tilføjer, at det ikke kan udelukkes, at gerningspersonen på et senere tidspunkt vælger at sælge eller dele informationerne med andre.
+ritzau
+fortsæt med at læse
+Hackere gør alvor af trussel:
+Knap 100.000 cpr-numre er blevet lagt på nette efter cyberangreb på ejendomsmæglerkæde

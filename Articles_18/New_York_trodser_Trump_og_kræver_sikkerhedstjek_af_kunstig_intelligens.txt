@@ -1,0 +1,9 @@
+Title: New_York_trodser_Trump_og_kræver_sikkerhedstjek_af_kunstig_intelligens
+Date: 2025-12-21
+Article Type: Tech
+Author: Amerikanske ai-selskaber er rasende over nye krav fra New York og vil bruge millioner af dollar på at spænde ben for initiativtageren Alex Bores, der stiller op til midtvejsvalget.
+
+Jens Bostrup
+Journalist
+Staten New York har netop vedtaget en ny lov, der under trusler om millionbøder kræver, at de største ai-selskaber sikkerhedstjekker deres modeller og offentliggør resultaterne. I tilfælde af sikkerhedshændelser skal myndighederne underrettes inden for 72 timer. Samtidig oprettes et tilsyn, der skal holde øje med de store udviklere og bane vej for større gennemsigtighed, skriver New Yorks guvernør, demokraten Kathy Hochul, på sin officielle hjemmeside.
+»New York er endnu engang landets førende i at sætte stærke og fornuftige standarder for ai-sikkerhed og holde de største udviklere ansvarlige«, siger hun.

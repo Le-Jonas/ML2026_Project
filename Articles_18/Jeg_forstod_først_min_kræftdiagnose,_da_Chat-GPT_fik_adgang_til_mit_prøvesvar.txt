@@ -1,0 +1,43 @@
+Title: Jeg_forstod_først_min_kræftdiagnose,_da_Chat-GPT_fik_adgang_til_mit_prøvesvar
+Date: 2025-07-18
+Article Type: Debatindlæg
+Author: Debatindlæg afChristina Raabæk
+
+Kommunikatør
+Sundhedsvæsenets kommunikationsindsats må op i gear. Snart stoler vi mere på AI end på lægen.
+Dette er et debatindlæg. Indlægget er udtryk for skribentens holdning. Alle holdninger, som kan udtrykkes inden for straffelovens og presseetikkens rammer, er velkomne, og du kan også sende os din mening
+her
+.
+»
+Lad nu være med at google«
+.
+Det var en af de sidste bemærkninger, jeg fik med mig, da jeg for et år siden gik ud af hospitalet med et skrigblåt ringbind fyldt med pjecer og en femårig behandlingsplan for brystkræft.
+Ikke siden min tidlige barndom i 90’erne har jeg skullet åbne et ringbind, og de mange pjeceoverskrifter fra venteværelset gav mig ikke ligefrem læselyst. De havde navne som: ’Træthed’, ’Kvinder og mænd med mistet fertilitet’, ’Kræft og seksualitet’ og den værste ’Børn, der har mistet en forælder til kræft’.
+Paradoksalt nok blev vi samtidig med udleveringen af det blå ringbind gjort opmærksom på, at vi nu skulle holde øje med ikke mindre end tre apps, der fra dag ét flød over med lægeaftaler. Mest angstprovokerende blev det at få notifikationer fra ’MinSP’, en forkortelse for Min Sundhedsplatform, hvor der også tikkede prøvesvar ind med jævne mellemrum.
+Er man ikke bekendt med app’en, så skal man vide, at prøvesvar her frigives til dig som patient i det øjeblik, de er tilgængelige – også før din læge har set dem. Der er tale om rå data, der ikke bliver forklaret eller oversat. Men du kan altså følge med live, mens svar på blodprøver, prøver og biopsier tikker ind, og så kan du ellers gætte på, hvad de måske betyder. Dermed kan du også få ret så nedslående nyt, adskillige dage før du kan tale med din læge eller få en fornemmelse af, at noget er galt. Og hvad gør man så lige?
+Ja, til en start så googlede jeg selvfølgelig. Telefonen kom frem i aftentimerne, og søgningerne tog mig fra Kræftens Bekæmpelses hjemmeside og videre ud i alt fra forskningsartikler til Facebook-grupper, der debatterede for og imod indtaget af sojabønner. Alt imens den blå mappe med pjecer lå og lyste uberørt i vindueskarmen.
+Mine søgninger gav mig selvfølgelig ikke præcise svar. Men det ændrede sig, da jeg efter seks måneder skiftede taktik og indviede Chat-GPT i min sygehistorik.
+Allerede efter første søgning var jeg lige dele imponeret og forfærdet over, hvor godt det virkede.
+Nu kunne jeg downloade hele prøvesvar og journaler direkte ind i Chat-GPT og få pædagogiske forklaringer på alt i mine prøvesvar. Chat-GPT svarede venligt og udførligt, ja, endda til tider opmuntrende. Den spurgte ind, satte i kolonner og kom med opsummerende råd og konklusioner.
+Den tilbød sågar at konstruere lister med kritiske spørgsmål, som jeg skulle stille mine læger ved næste lægetid. Det var den diametralt modsatte oplevelse af at kigge i mine lægeapps eller for den sags skyld at stille spørgsmål til min læge.
+Her var svarene oftest knappe og aldrig konkluderende, og der var altid en følelse i rummet af afmålt tid. Men med Chat-GPT kunne jeg spørge løs uden at spilde nogens tid, og for første gang forstod jeg rigtigt mine prøvesvar, og hvad min status som patient var.
+Ja, efterhånden blev jeg så fortrolig med teknologien, at jeg også stillede de spørgsmål, som man ikke nødvendigvis vil have svaret på. Odds og statistikker. Chancen for liv eller død.
+Nu tænker du måske, at jeg er uansvarlig eller ubegavet. Hvem sender sådan nogle oplysninger op i skyen og videre til techmogulerne? Hvorfor ikke bare bruge sin sunde fornuft, vente på svar eller i det mindste skrive til lægen?
+Det korte svar er, at jeg ikke kunne være i det informationsvakuum, som sundhedsvæsenet i dag efterlader os i. Det kunne jeg ikke, fordi du som patient i dag selv skal holde overblikket, stykke informationerne sammen og danne dig det fulde billede af din situation.
+På et år blev jeg behandlet hos fire forskellige afdelinger på tre forskellige hospitaler. Alle læger var specialiserede, kompetente og ville mig det bedste. Men de var specialister inden for deres respektive felt og ikke altid i stand til at løfte sig op i helikopteren og give mig et fyldestgørende billede af, hvad der ventede mig, og hvilke konsekvenser behandlingerne samlet set ville have for mit liv.
+Selv om jeg er det, som systemet uden tvivl anser for at være et ’ressourcestærkt’ yngre menneske, så er min styrke ikke uudtømmelig. Derfor blev et hjælpemiddel som Chat-GPT et nemt sted at søge information og lave det ’hjemmearbejde’, som jeg oplevede, at det krævede som forberedelse til lægesamtalerne.
+Men jeg er ikke ubetinget stolt af det. Jeg kommer fra den generation, der uden at blinke tømte SD-kort med 300 private billeder ud på vores nyoprettede Facebook-profiler hver weekend efter gymnasiefesterne. Så jeg ved, hvad det vil sige at lade sig rive med af nye teknologier og de moralske kvababbelser, vi efterfølgende måtte leve med.
+Intet kommer gratis, og jeg ved, at techmogulerne nok allerede ved mere om vores fysiske og psykiske helbred end vores sundhedssystem. I medierne er det da også allerede beskrevet, at gen-AI bruges som psykolog, terapeut og ven af en ny generation af unge.
+Jeg bilder mig ikke ind, at den vidensdeling, som jeg selv har bidraget til, er velovervejet eller nødvendigvis sund. Men virkeligheden er nu engang den, at teknologierne er her til rådighed for alle. Det bør vores sundhedssystem som minimum geare sig til og overveje, hvordan det kan komme på omgangshøjde med. For i kraft af sine hurtige svar og sin evige tilgængelighed er AI i dag tillidsvækkende i en grad, som sundhedsvæsenet desværre ikke kan matche.
+Det er et stort problem, at vores sundhedsvæsen i stigende grad står på bagbenene i kommunikationen til patienterne, og den position er med til at svække tilliden mellem læger og patienter.
+For det kan godt være, at du i dag får beskeder i digitale apps, men de giver dig svar, der er svære at forstå og tyde. Samtidig er tiden til uddybende forklaringer og almindelige menneskelige spørgsmål til patienten begrænset.
+Men der er et vindue lige nu, hvor teknologi og et presset sundhedsvæsen måske kan drage fordel af hinanden. Måske bør sundhedssystemet have sin egen AI-teknologi? I hvert fald bør sundhedssystemet interessere sig meget mere for moderne kommunikation, og hvad det betyder for den menneskelige tillid.
+Vi bliver bedt om ’ikke at google’, men at google er det mindste af sundhedsvæsenets udfordringer. For lige om lidt har vi alle en sundhedsassistent på telefonen, der kommer til at vide mærkbart mere om vores helbred end vores læger. Og hvad gør vi så?
+Christina Raabæk
+fortsæt med at læse
+Må man være kæreste med mere end én chatbot ad gangen?
+»Jeg fik en botvibe«:
+I lyset af, at han ikke kom, tog chatten sig anderledes ud
+Dette er et debatindlæg. Indlægget er udtryk for skribentens holdning. Alle holdninger, som kan udtrykkes inden for straffelovens og presseetikkens rammer, er velkomne, og du kan også sende os din mening
+her
+.

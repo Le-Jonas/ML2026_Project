@@ -1,0 +1,16 @@
+Title: 260.000_borgere_berørt_af_databrud_hos_Region_Midtjylland
+Date: 2025-03-04
+Article Type: Danmark
+Author: Intet tyder på, at personfølsomme data er blevet misbrugt, oplyser koncerndirektør i Region Midtjylland.
+
+260.000 borgere fra flere regioner er berørt af et persondatabrud hos Region Midtjylland, oplyser regionen i en pressemeddelelse. En fejl i opsætningen af en it-platform har givet ansatte i Region Midtjylland potentiel adgang til følsomme personoplysninger.
+335 ansatte har set på data, hvor formålet ikke umiddelbart kan forklares, skriver regionen. Der er dog intet, der tyder på, at data er blevet misbrugt, fremgår det af pressemeddelelsen.
+»Det er afgørende for os, at borgerne kan være trygge ved den måde, vi behandler deres data på. Derfor tager vi sagen meget alvorligt, og jeg vil gerne kraftigt beklage, at der er sket et databrud«, siger koncerndirektør Poul Michaelsen i pressemeddelelsen.
+Selv om fejlen samlet set berører cirka 260.000 borgere fra flere regioner, er der for hovedparten af de berørte tale om data, hvor borgerne ikke umiddelbart kan identificeres. Cirka 100.000 borgere har fået besked om bruddet via digital post, fremgår det af pressemeddelelsen.
+Ifølge TV Midtvest er det oplysninger om navn, cpr-nummer, fødselsdato, kontaktoplysninger, race og etnicitet og helbredsoplysninger, der er omfattet af databruddet.
+Bruddet skyldes en fejl i Region Midtjyllands opsætning af en samarbejdsplatform til forskningsprojekter. Det er kun personer, der er underlagt tavshedspligt i Region Midtjylland, der har haft adgang til data.
+Den ifølge pressemeddelelsen »uhensigtsmæssige standardindstilling«, der førte til databruddet, blev erkendt i november 2024. Samtidig sørgede regionens it-folk for at rette fejlen, så der blev lukket for adgang til data, fremgår det. Siden har regionen arbejdet på at få et overblik over alle registrerede aktiviteter på platformen.
+»Vi ved, at 335 ansatte har været inde og se data, hvor vi ikke umiddelbart kan forklare, hvad deres formål har været. Det betyder ikke, at der har været tale om uretmæssig adgang, men at vi undersøger de konkrete tilfælde nærmere«, siger Poul Michaelsen.
+Datatilsynet bekræfter at have modtaget anmeldelse om databrud i Region Midtjylland. Sagen er afsluttet med henvisning til, at den dataansvarlige har underrettet de berørte, oplyser tilsynet.
+ritzau
+fortsæt med at læse
