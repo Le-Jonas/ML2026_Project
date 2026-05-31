@@ -1,0 +1,7 @@
+Title: Internet-virus_inspireret_af_terrorangreb
+Date: 2001-09-24
+Article Type: Internationalt
+Author: En internetvirus, der er kamufleret som en e-mail om USAs krig mod terrorisme, breder sig blandt computerbrugere, oplyste edb-sikkerhedseksperter mandag aften. 
+Ved at klikke på WTC. EXE-attachmentet aktiveres virusen, som breder sig via Microsoft Outlook ved at sende e-mails til alle adresser i den angrebne computers adresseliste, oplyser Trend Micro, et edb-sikkerhedsfirma. 
+Ifølge Symantec, et andet sikkerhedsfirma, vil virusen forsøge at slette alle filer, heriblandt antivirus programmer.
+

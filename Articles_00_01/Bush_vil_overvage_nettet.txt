@@ -1,0 +1,13 @@
+Title: Bush_vil_overvage_nettet
+Date: 2002-12-23
+Article Type: Økonomi
+Author: Peder Bjerge
+
+Måske bør det ikke længere hedde 'Big Brother' men 'Big Bush'. I hvert fald planlægger den amerikanske Bush-regering at bruge internetvirksomhederne til at indføre et centralt system til at overvåge, hvem der gør hvad på internettet.
+Skal forhindre ny 11. september
+Ifølge den amerikanske avis The New York Times er embedsmændene i færd med at skrive de sidste linjer i en rapport - 'The National Strategy to Secure Cyberspace' - om hvordan den amerikanske regering vil overvåge nettet for at undgå alt fra computervira til nye terroristangreb. Den endelige rapport bliver først offentliggjort tidligt næste år som en internetstrategi for præsident Bushs sikkerhedsministerium, der skal forhindre en gentagelse af terrorangrebet på World Trade Center. 
+Ideen er, at myndighederne sammen med virksomheder, der leverer internetforbindelser og produkter til nettet, skal arbejde sammen i et netværk. Ifølge avisens kilder er det endnu ikke fastlagt, hvordan regeringen har tænkt sig at få den store mængde af meget forskellige virksomheder - fra garagevirksomheder til Microsoft - til effektivt at samarbejde.
+Ekspert: Danmark er lige efter
+Den danske sikkerhedsekspert Preben Andersen, chefkonsulent i den internationale sikkerhedsorganisation CERT og tidligere chef for politiets it-støtteenhed, siger: 
+»Jeg vil tro, at det kan lade sig gøre i lande som USA og Danmark«. Preben Andersen peger på, at man i Danmark i kølvandet på 11. september har vedtaget en lovgivning, der siger, at leverandører af internet skal opbevare informationer om deres kunder. Ifølge ham mangler man kun at sætte loven i kraft og få sat de nødvendige ressourcer af, før overvågningssamfundet er en realitet på nettet. 
+Han mener, at det blot et spørgsmål om at afsætte tilstrækkeligt med penge til indkøb af avanceret teknologi, så man effektivt kan sortere i de gigantiske mængder af informationer, som kommer flydende ned i de gigantiske databaser, som lagrer datamængderne.

@@ -1,0 +1,9 @@
+Title: Dansk_kryptering_nærmest_umulig_at_knække
+Date: 2002-05-04
+Article Type: Økonomi
+Author: En ny form for optisk kryptering, som er under udvikling på forskningscentret Risø, kan gøre det nærmest umuligt at lave for eksempel falske pas, kreditkort og kortnøgler. Det skriver Risøs blad 'RisøNyt'. 
+Den nye form for kryptering er baseret på lysbølger, der svinger i takt - i fase. 
+ Et foto i et pas kan for eksempel forsynes med et lille optisk element, som indeholder krypteret information om fingeraftryk og øjnenes iris. Når den rejsende så passerer en grænse, så lægger politiet passet ind i en scanner, som aflæser oplysningerne og kontrollerer, at de passer til pasbilledet. 
+Hvis det oprindelige pasbilledet er fjernet, slår scanneren alarm. Pasfalskneren skal først ændret de krypterede data, før passet kan forfalskes og det kræver, at koden til krypteringen brydes. Og det er ikke lige til. Antallet af mulige kombinationer svarer nemlig til et et-tal fulgt af 2,4 millioner nuller. 
+Ifølge en af forskerne bag projektet, Jesper Glükstad, er der dog et godt stykke vej igen, før den optiske kryptering er klar til at blive brugt.
+

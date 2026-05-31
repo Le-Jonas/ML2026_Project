@@ -1,0 +1,34 @@
+Title: Kopisikring_hjælper_ikke
+Date: 2002-12-18
+Article Type: Økonomi
+Author: Claus Cancel
+
+Musikindustrien er begyndt at kopibeskytte deres cd'er. Det har spil- og softwarefirmaerne gjort i årevis. Deres erfaring er, at man skal være heldig, hvis der går over en uge, fra spillet eller programmet er på gaden, til beskyttelsen er brudt. 
+ Den første pirat-cd af det danskudviklede spil 'Hitman 2' var på gaden, et år før spillet kom på markedet. Den blev solgt i vellignende æsker på markeder i Thailand og indeholdt en halvfærdig version af spillet, hvor man kunne spille syv af spillets 21 baner.
+Journalist var leverandør
+Kopien havde piraterne fået af en journalist, der havde fået tilsendt en tidlig version af spillet til omtale. 
+ I november i år kom spillet på markedet, og på under en uge var kopisikringen brudt og nettet fyldt med adskillige brugbare versioner. 
+ »Det er helt ubeskriveligt, hvad der stjæles. Det er en ufattelig mængde. Jeg tror, at alle drenge i 10-12-14-års alderen, for det er mest drenge, har fem til syv piratkopier af forskellige spil derhjemme. Så kan man selv gange det op med antallet af drenge i den generation. Jeg ved ikke, hvor mange penge vi taber på piratkopier, men det er formentlig en del«, siger direktør Janos Flösser i IO Interactive, der har udviklet 'Hitman 2'.
+Pc-spil er nemme
+Spillet er udkommet både til pc og på spilkonsollerne PlayStation 2 og Xbox. Det er specielt på pc, at spillene er nemme at kopiere. 
+ »Der er stort set ingen incitament til at udgive spil til pc efterhånden, man kan ikke tjene penge på det«, siger Janos Flösser, der oplyser, at kun 17-18 procent af de solgte 'Hitman 2'-spil er solgt til pc. Resten er solgt til konsollerne. Spil til konsoller er meget sværere at kopiere, fordi det kræver, at man får loddet en særlig chip i sin spilkonsol. Mens spil til pc'er kan kopieres ved hjælp af små programstumper, man kan downloade på nettet. Også selvom der er kopisikring på pc-spillene. 
+ Alligevel sætter IO Interactive en kopispærring på, deres spil til pc. 
+ »Det gør vi mest, fordi vores distributør gør det, men vi håber da også, at det bare gør det en lille smule sværere at kopiere det«, siger Janos Flösser, der oplyser, at i England har 70 spiludviklere lukket i år. Ikke kun på grund af kopiering, men sandsynligvis er det en del af grunden. 
+ »Den eneste måde, man kan komme det her til livs, er ved en mentalitetsændring. Det nytter ikke at gå ud med strengere lovgivning, for hvad ved skolebørn om loven. Det, der skal til, er opdragelse om, at det her gør man altså ikke«, siger Janos Flösser, der heller ikke vil komme farende med krav om hårde fængselsstraffe over for skolebørn. 
+ »Det er klart, at der skal slås hårdt ned på dem, der sælger kopier og tjener penge på det, men over for den lille fyr, der bare har kopieret et spil, skal man jo have et nuanceret syn på forbrydelsen«.
+NEttet er godt til kopisikring
+Janos Flösser påpeger, at den eneste effektive måde at lave en kopisikring på er ved at bruge nettet. F.eks. i forbindelse med et onlinespil, hvor en server, der kontrolleres af spilfirmaet holder øje med, at der ikke er flere, der spiller på den samme kopi. Det kan man gøre ved at give hvert enkelt spil et unikt nummer, og hvis der så er to, der spiller på samme nummer, lukker serveren af for dem.
+XP kopieres også
+Netop sådan en form for kopisikring via nettet bruger Microsoft til at beskytte deres styresystem Windows XP. Når man installerer XP, skal man forbinde sin computer til internettet og indtaste en aktiveringsnøgle. Ellers holder Windows op med at virke efter et stykke tid. 
+ På den måde kan Microsoft holde øje med, at der ikke er to Windows XP-brugere, der kører på samme nøgle. Microsoft håber på, at folk lader være med at kopiere produktet og give deres nøgle væk, da det i sidste ende kan gå ud over dem selv. Hvis de har givet deres aktiveringsnøgle væk, og de selv skal installere deres Windows XP på en ny computer, kan de risikere, at nøglen ikke virker længere. På den måde er det ikke længere bare en smal sag lige at brænde en kopi til naboen. 
+ »Vi håber på denne måde at ramme det, som vi kalder for 'casual copying', altså netop det med at man laver en kopi til naboen. Men vi ved også godt, at vil man kopiere, så kan man også godt kopiere«, siger produktchef for Windows, Nis Bank Lorenzen, Microsoft. Han mener dog, at den nye måde at beskytte produktet på har så lidt effekt på salget, at det ikke kan måles. 
+ »Problemet er, at der findes masser af versioner, hvor der ikke er nogen begrænsning på, hvor mange gange en nøgle kan bruges. Dem sælger vi til virksomheder. Desuden gik der heller ikke lang tid, fra Windows XP blev lanceret, til der lå nøgler ude på nettet, som man kunne bruge«.
+XP-brugere tjekkes af MIcrosoft
+Brugere af ulovlige versioner af Windows XP kan dog få sig et chok, hvis de downloader den nye servicepack fra Microsoft. Servicepacken er en fil med fejlrettelser til programmet. Her går Microsoft nemlig ind og tjekker, om filen bliver downloadet af flere aktiveringsnøgler, og hvis det er tilfældet, vil de pågældende brugere få at vide, at servicepacken ikke kan installeres, og at de bruger en ulovlig version af Windows. Men andet vil der ikke ske, siger Nis Bank Lorenzen: 
+ »Der går også en etisk grænse for, hvad vi kan gøre, når vi opdager, at flere bruger det samme produkt. Så vi nøjes bare med at genere dem lidt. Vi vil fortsætte med at lave kopibeskyttelse af vores produkter, men det er hele tiden et spørgsmål om, at det heller ikke må blive for besværligt at have med at gøre, for de kunder som har betalt 1.000 kroner for et produkt. Så på den ene side skal det være besværligt for dem som kopierer, og nemt for dem som betaler«, siger Nis Bank Lorenzen.
+Tror på musiksikring
+Erfaringerne fra spil- og softwarebranchen skræmmer dog ikke Michael Ritto, som er administrerende direktør hos pladeselskabet EMI. Han betegner deres forsøg med kopibeskyttelse som en succes. Også selv om man kan sige, at forbrugerne i princippet får et dårligere produkt, end de er vant til. En kopibeskyttet cd kan f.eks. ikke overføres til en mp3-afspiller, uden at man bryder loven. 
+ »Vi har fire kopibeskyttede cd'er på markedet, og de to af dem ligger på top tre, så forbrugerne vil altså gerne have dem«, siger Michael Ritto. 
+ Han er godt klar over, at cd'erne bliver kopieret alligevel og allerede kan findes ude på fildelingstjenesterne på internettet. 
+ »Vi håber på, at det her virker som vejbump på en villavej. At det kan få bremset kopieringen. Og så håber vi også på, at det tvinger forbrugeren til at træffe et valg. For det bliver tydeligere, at man foretager sig noget ulovligt, hvis man vælger at kopiere en beskyttet cd«. 
+ EMI sætter mærker på de kopibeskyttede cd'er, så forbrugerne allerede i butikken kan se, at den her ikke kan bruges på mp3-afspillere. Michael Ritto siger, at de arbejder på en løsning, så det problem kan blive løst.

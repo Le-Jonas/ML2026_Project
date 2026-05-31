@@ -1,0 +1,8 @@
+Title: Køb_en_digital_signatur_pa_posthuset
+Date: 2001-09-04
+Article Type: Danmark
+Author: Fra på fredag vil alle borgere kunne købe en digital signatur på foreløbig ti posthuse landet over, skriver Kommunernes IT-Magasin. 
+Borgere, der er interesserede i at få en digital signatur, skal inden da have bestilt den hos Kommunedata på Internet-adressen www.kmd-ca.dk. Herefter kan man købe certifikatet på et af de ti posthuse. Prisen vil være 125 kr. for et år. Antallet af posthuse udvides til 90 inden årets udgang. 
+ De ti posthuse er Købmagergade, Sønderbro, Østerbro og Frederiksberg postkontorer i København, Algade i Ålborg, Banegårdspladsen, Århus, Haderslev Postkontor, Odense Banegård samt postkontorerne i Næstved og Roskilde. 
+ Den digitale signatur kan anvendes til sikker elektronisk kommunikation, blandt andet i forbindelse med elektronisk kommunikation mellem en borger og den offentlige forvaltning.
+

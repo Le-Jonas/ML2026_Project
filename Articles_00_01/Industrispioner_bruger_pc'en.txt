@@ -1,0 +1,32 @@
+Title: Industrispioner_bruger_pc'en
+Date: 2003-08-12
+Article Type: Økonomi
+Author: Bjørn Lambek og Peter Suppli Benson
+
+Industrispionage er ikke kun et fænomen, der optræder i amerikanske film, kulørte agentbøger - og danske medicinalvirksomheder som Lundbeck A/S, der som bekendt beskyldes for ulovligt at have tilegnet sig hemmelige dokumenter fra en tysk konkurrent.
+464 anmeldelser
+Rigspolitiets it-sektion modtog sidste år 464 anmeldelser af industriel spionage og hackning, et tal, der har ligget på nogenlunde samme niveau de sidste par år. 
+ Tallene er baseret på de anmeldelser af computerkriminalitet, som Rigspolitiet modtager på internetadressen
+www.politi.dk
+.
+Uvist omfang
+Præcis hvor stor en del af de 464 anmeldelser, der reelt vedrører industriel spionage - eller forsøg på det - ved Rigspolitiet imidlertid ikke meget om. 
+ Rent politimæssigt hører sagerne til i de enkelte politikredse, og der føres ikke nogen samlet statistik over deres udfald. 
+ »Vi har ingen mulighed for at afgøre, om der i de enkelte anmeldelser er tale om en ung knægt, der hacker for at få et kick ud af det, eller om der er tale om et professionelt forsøg på at tilegne sig viden hos en konkurrent«, siger vicekriminalkommissær Søren Thomassen fra Rigspolitiets it-afdeling og tilføjer: 
+ »Da der desuden er tale om et område, hvor mørketallene formodes at være meget store, er det meget svært at vurdere omfanget af industrispionage«.
+Tabubelagt
+Og at det formentlig kun er en brøkdel af sagerne, politiet får nys om, bekræftes af direktør Ulf Munkedal fra Front Consult, et privat firma, der arbejder med it-sikkerhed for danske virksomheder. 
+ »Det har altid være tabubelagt, når virksomhederne blev angrebet. Vi har en række danske kunder, og jeg kan sige, at vi løbende oplever egentlige angreb på deres it-systemer, altså angreb, hvor det ikke blot er en glad amatør, der fifler lidt«, siger Ulf Munkedal.
+Den største fare kommer indefra
+Men selv om netop de direkte angreb på virksomhedernes it-systemer er højest profileret, så er det ofte slet ikke udefra, at den største fare for virksomhederne kommer. 
+ I stedet for at hacke sig ind er det ofte langt lettere at lade sig ansætte i en virksomhed og så bruge de interne systemer til at finde de oplysninger, man søger.
+Systemer koblet sammen på kryds og tværs
+»I dag er virksomhedernes it-systemer koblet sammen på kryds og tværs. Det betyder, at er du først inde i en virksomhed og har adgang til en computer, så kan du - i princippet og uden de store problemer - hacke dig ind i selv de mest følsomme områder. F.eks. medicinalvirksomhederne er tvunget af myndighederne til at opbevare store mængder dokumentation på computere, og det vil være en katastrofe, hvis man får adgang til de oplysninger«, siger Ulf Munkedal.
+Få sager for retten
+Ifølge Søren Kragh Pedersen, der er Rigspolitiets pressechef, er det kun meget få sager om industrispionage, der havner i retssystemet. En gennemgang af de sager, der vedrører overtrædelser af straffelovens paragraf 264, stk. 2 (videregivelse af erhvervshemmeligheder), viser, at de sidste fem års sager snildt kan tælles på en hånd. 
+ I 1998 var der godt nok tre sager, der udløste to sigtelser, men siden da har politiet kun registreret to anmeldelser, der begge blev afsluttet, uden at det kom til sigtelser.
+Omfattende i USA
+I USA viser de officielle statistikker, at to ud af fem virksomheder har prøvet at være udsat for industrispionage. 
+ Det nærmeste, vi kommer et tilsvarende tal herhjemme, er en opgørelse fra Videnskabsministeriet, der vurderer, at 1,3 procent af alle danske virksomheder har været udsat for industrispionage. 
+ I Lundbecksagen var det en privatdetektiv, der på ukendt vis skaffede papirer fra den tyske Lundbeckkonkurrent Alfred Tiefenbacher, som Lundbeck siden har brugt, bl.a. i en dansk retssag. 
+ Det opdagede Tiefenbacher, som siden forgæves har forsøgt at få papirerne fra Lundbeck. Til sidst mistede Tiefenbacher tålmodigheden med Lundbeck og gik til en lokal ret i Hamburg. Her fik Lundbeck forbud mod at benytte papirerne og i øvrigt besked på at levere dem tilbage.

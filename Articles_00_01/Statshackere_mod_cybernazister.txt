@@ -1,0 +1,17 @@
+Title: Statshackere_mod_cybernazister
+Date: 2001-04-10
+Article Type: Internationalt
+Author: Niels Ivar Larsen
+
+Politiken onsdag:
+Tysklands indenrigsministerium overvejer nu at bruge hackermetoder mod udenlandske internetselskaber, der lægger serverplads til nynazistiske hjemmesider, som er forbudt i Tyskland. Det skriver det ansete tyske nyhedsmagasin Der Spiegel. Den tyske indenrigsminister Otto Schilys planer går ud på at lade en indsatsgruppe af hackere, der arbejder i den tyske stats tjeneste, rette såkaldte 'denial of service'-angreb mod de højreekstremistiske hjemmesider, der typisk har til huse i USA. 
+ Denial of service-angreb udføres ved, at en hacker overtager kontrollen med et stort antal computere, som han bruger til at bombardere en webtjeneste med flere data, end den kan behandle. Det medfører, at tjenesten bliver 'lagt ned' og dermed utilgængelig for offentligheden. Det var med denne metode, at populære internetadresser som Yahoo, eBay og Amazon i februar sidste år blev lagt ned i flere dage. 
+ I det amerikanske netmagasin Wired News advarer en tysk hacker Schily: Hvis bare én amerikansk udbyder beslutter at sætte et seriøst modangreb ind, kan det blive altødelæggende for den tyske nettrafik, fordi USA har langt større båndbredde end Tyskland, siger Frank Rieger fra Chaos Computer Club i Berlin.
+Flere hjemmesider
+Baggrunden for Schilys plan er en kraftig vækst i antallet af nynazistiske websteder, der har et tysksproget publikum som målgruppe. Ifølge det tyske indenrigministerium er der i dag godt 800 sådanne websites imod 330 i 1999. 
+ Nynazisterne kan lovligt oprette deres hjemmesider hos amerikanske udbydere, hvorimod det i Tyskland er strafbart at huse websider, der benægter holocaust eller bedriver andre former for nazistisk propaganda. 
+ Samtidig har tysk politi registeret en markant vækst i antallet af højreekstremistiske forbrydelser. Antallet af fremmedfjendske strafbare handlinger var i de første ni måneder af 2000 således 14 pct. højere end i samme periode året før. 
+ I frustration over denne udvikling har tyske domstole forsøgt at udstrække tysk lovgivning til det grænseløse Internet. 
+ I december sidste år fastslog Tysklands højesteret, at tyske love, der kriminaliserer forherligelse af nazismen også har retskraft over for personer, der placerer nazistisk materiale »på en udenlandsk server, der er tilgængelig for internetbrugere i Tyskland«. Dette kan i teorien føre til, at tyske domstole kan rejse sigtelse mod amerikanske statsborgere og begære dem udleveret. 
+ Afgørelsen vakte dengang skarp kritik i USA. 
+ »Hvordan ville Tyskland reagere, hvis Saudi-Arabiens eller Kinas regering påtvang en tysk udbyder restriktiv censur? Hvad hvis Kina vil retsforfølge en tysker, der offentliggør menneskerettighedsrapporter på nettet?«, sagde Alan Davidson, leder af Center for Democracy and Technology dengang til Washington Post.

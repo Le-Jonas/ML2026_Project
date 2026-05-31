@@ -1,0 +1,12 @@
+Title: Nimda-virus_pa_retur
+Date: 2001-09-20
+Article Type: Økonomi
+Author: Antallet af virksomheder angrebet af IT-viruset Nimda faldt drastisk torsdag, og det tyder på, at det er lykkedes at bremse det ødelæggende virus. Det vurderer sikkerhedschef Per B. Hansen, TDC Internet, efter at kun få virksomheder rettede henvendelse torsdag. 
+»Vi har i dag (torsdag) konstateret en kraftig nedgang i antallet af henvendelser«, siger Per B. Hansen. 
+Han advarer dog om, at Nimda-virusangrebet stadig florerer, og at der derfor fortsat er behov for stor agtpågivenhed på IT-området. Virksomheder har forbedret sig
+Han mener, at det forholdsvis hurtigt er lykkedes at stoppe angrebet. fordi mange virksomheder nu er begyndt at interessere sig mere for, hvordan også arbejdsstationer og pc'er konstant kan holdes opdateret mod IT-virus. Dermed er det ikke kun et spørgsmål om at sikre en virksomheds større computere, de såkaldte servere. 
+»Man kan sige, at vi med disse angreb på den hårde måde kommer rundt om at få sikret alle IT-systemerne. Angrebene viser, hvor sårbare vi er i forhold til Internet, og betydningen af, at de mange også mindre virksomheder kommer på forkant på dette område«, siger Per B. Hansen. Nimda angreb bagdøre
+Nimda har blandt andet kunnet sprede sig ved at udnytte såkaldte "bagdøre" i systemerne efter et andet angreb, Code Red, i august. Der er tale om svagheder, som ikke er blevet rettet efter det sidste angreb. 
+Det nye Nimda-angreb vil igen åbne en ny bagdør og dermed reelt gøre det muligt for andre og decideret skadelige angreb at trænge ind i systemerne. 
+Nimda er skadelig ved at den sænker farten på de systemer eller net, der er ramt. Men den går tilsyneladende ikke direkte ind og forøver skade på systemerne i øvrigt. Maskinerne er dog ikke de samme efter et angreb, og derfor er der behov for en grundig oprydning.
+

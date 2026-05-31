@@ -1,0 +1,27 @@
+Title: Hospitalers_elektroniske_sygejournaler_forsinkes
+Date: 2003-10-29
+Article Type: Danmark
+Author: Peder Bjerge
+
+Aldrig har danske sygehuse og amter brugt flere penge på it end nu. 
+Men selv om sygehusvæsnet poster milliarder af kroner i at købe computerisenkram, er det langtfra sikkert, at amterne kan opfylde deres løfte til regeringen om, at alle hospitaler er dækket af elektronisk patientjournaler 1. januar 2006.
+For dårlig planlægning
+Nogle amter er ikke gode nok til at planlægge det meget komplicerede arbejde med at få elektroniske patientjournaler (epj) ud på sygehusene og på den måde forbedre livet for sygehusenes patienter ved blandt andet at sikre dem den rigtige medicin. 
+Samtidig lyder kritikken, at amterne bruger alt for få penge på, at alle landets hospitalsenge kan blive omfattet af epj-systemer. 
+»Hvis målet er fuld epj-dækning på samtlige danske sygehussenge, tror vi ikke, at man kan nå målet«, siger Søren Vingtoft, projektleder bag den nye 157-siders rapport fra EPJ-observatoriet - Statusrapport 2003. 
+Dansk IT (tidligere Dansk Dataforening) peger på, at amterne tager for løst på den kæmpestore udfordring. Mens Viborg Amt for eksempel er meget langt fremme med epj, er man på Bornholm knap kommet i gang. Også selv om der er mindre end tre år til at overholde aftalen med regeringen.
+Kompliceret
+»Tallene taler sit eget sprog«, siger Søren Vingtoft. Han mener, at amterne er nødt til at blive bedre til at planlægge de komplicerede projekter. Komplicerede fordi de nye it-systemer skal passe ind i den vidtforgrenede organisme, som et moderne hospital udgør. 
+Viborgs socialdemokratiske amtsborgmester Bent Hansen, som både er næstformand i Amtsrådsforeningen og formand for foreningens sundhedsudvalg, ønsker ikke at kommentere, hvordan de enkelte amter eller Hovedstadens Sygehusfællesskab håndterer at udbrede epj til deres sygehuse. 
+»Jeg vil ikke være dommer over dem, men det er klart, at det er voldsomme kraftanstrengelser, som de skal lave, hvis det hele skal ske på en gang«, siger Bent Hansen.
+Bornholm i stampe
+Den bornholmske sundhedsdirektør Leila Lindén erkender, at man på øen nok har stået lidt i stampe med at få gang i epj. 
+Men hun fortæller, at blækket næppe er tørt på den aftale, som hun netop har underskrevet med Hovedstadens Sygehusfællesskab (HS) om at arbejde sammen om at udvikle epj til både de københavnske og bornholmske sygesenge.
+Amterne og HS bruger for lidt på aftalen
+Dansk IT peger også på, at amterne og HS generelt bruger for få penge til at opfylde aftalen med regeringen. 
+»Indsatsen er langtfra nok til at indfri både regeringens og Dansk IT's forventninger«, siger Jacob Primault, udviklingsdirektør i Dansk IT. Han er glad for, at sygehuse og amter endelig er begyndt at bruge flere penge på at udvikle epj. Men set med hans øjne er problemet bare, at man for længe har brugt alt for lidt, og man derfor er nødt til at satse langt flere penge. 
+Søren Vingtoft peger på, at man i hvert fald ikke må slække på investeringer, hvis det skal være realistisk at nå målet.
+Ingen ekstra penge
+I Politiken onsdag meldte Bent Hansen ud, at regeringen er nødt til at komme med ekstra trecifrede milliontilskud til amterne, hvis de skal have udbredt epj til alle landets hospitaler inden for fristen 1. januar 2006. 
+Kravet blev afvist af den ansvarlige minister - indenrigs- og sundhedsminister Lars Løkke Rasmussen. Han holder fast i, at amterne skal leve op til den aftale, som de allerede har indgået med regeringen, hvor de i øvrigt fik ekstra midler og lånemuligheder til at finansiere de store investeringer i epj. 
+»Der er ingen tvivl om, at amterne står meget forskelligt, alt efter hvor hurtige de har været til at komme ud af starthullerne. Nogen er kommet meget sent i gang, og de bliver så bare nødt til at løbe noget hurtigere«, siger Lars Løkke Rasmussen.

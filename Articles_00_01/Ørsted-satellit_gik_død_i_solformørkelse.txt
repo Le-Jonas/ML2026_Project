@@ -1,0 +1,10 @@
+Title: Ørsted-satellit_gik_død_i_solformørkelse
+Date: 2003-06-04
+Article Type: Danmark
+Author: Den danske Ørsted-satellit, der i mere end fire år har cirkuleret omkring Jorden, blev hårdt ramt af solformørkelsen lørdag morgen. 
+ På grund af uheldige omstændigheder blev satellitten tappet for strøm, så den reelt "døde". Takket være et godt genoplivningssystem om bord er det dog lykkedes at få satellitten tilbage i almindelig drift. Månen skyggede for opladning af batterier
+ Ørsted kommer i hvert omløb omkring Jorden ind i planetens skygge. Her skal den klare sig på strøm, der er lagret i batterierne. 
+ Under solformørkelsen kom Ørsted uheldigvis ind i månens skygge, mens satellitten var på dagsiden af Jorden. 
+ Opladningen af batterier i Solens lys blev derfor forkortet, og samtidig blev forbruget på batterierne øget, da satellitten først befandt sig i månens skygge og derefter skulle igennem Jordens skygge. 
+ Strømmen til satellittens instrumenter og computersystemer forsvandt, og satellitten gik i dvale.
+

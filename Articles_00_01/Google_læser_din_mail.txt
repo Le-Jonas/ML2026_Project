@@ -1,0 +1,29 @@
+Title: Google_læser_din_mail
+Date: 2004-04-07
+Article Type: Økonomi
+Author: Claus Cancel
+
+Forestil dig, at du sidder og mailer med din kæreste om, hvilken film I skal se i biffen i aften. Minuttet efter skifter reklamen i dit browservindue og handler ikke længere om mobiltelefoner, men fortæller nu, at der er ledige pladser til 'Når du mindst venter det' i Palladium. 
+Eller hvad med denne her: Du sidder og mailer med din kammerat og fortæller, at du var uvenner med kæresten i går. Han foreslår, at du køber blomster til hende, og minuttet efter viser dine bannerreklamer dig vej til Interflora, der for 150 kroner tilbyder at genoprette husfreden med en påskebuket. 
+Skræmmende, ikke sandt?
+Maskine skal gennemlæse korrespondance
+Men ikke desto mindre konsekvensen af en ny mailservice, som Google snart tilbyder. Her vil Google sætte en maskine til at gennemlæse abonnenternes mailkorrespondance for på den måde at finde ud af, hvad de interesserer sig for, og forsyne brugeren med de relevante reklamer. 
+Lidt i samme stil som man kender det, når man surfer rundt på nettet. Her findes der forskellige metoder, der gør, at man får forskellige bannerreklamer, alt efter hvilke sider man surfer meget på. Surfer man f.eks. meget på sider om kæledyr, vil bannerreklamerne oftere byde på Whiskasreklamer end på reklamer for f.eks. Svanekøkkener.
+Gigantisk postkasse
+Med den nye mailservice kaster Google sig ud i konkurrence med Microsofts Hotmail og Yahoos Yahoo-mail om markedet for browserbaserede mail. Browserbaseret mail vil sige, at man kigger på sin mail via et vindue i sit internetprogram - browseren - og ikke via et postprogram, som f.eks. Outlook eller Outlook Ekspres. Typisk bruger folk Hotmail og lignende som den private e-mail, mens arbejdsmailen læses via et postprogram. 
+Og på papiret ser det ud til, at Google endnu en gang vil feje konkurrencen af banen, som det skete på søgesiden, hvor Google i dag er større end Yahoos og Microsofts søgemaskiner på internettet. Googlemail tilbyder nemlig, at man kan gemme op til 1.000 MB data på sin mailkonto. 
+Det svarer til, at man kan have omkring 500.000 e-mail liggende, før man løber tør for plads. Til sammenligning kan man kun have 2 MB data på en Hotmailkonto og 4 MB data på Yahoos mail. Således vil et par feriebilleder fra søster vedhæftet i en e-mail således hurtigt kunne fylde postkassen til kanten. 
+Googles filosofi bag sin mailtjeneste er nemlig, at man aldrig skal slette eller sortere i sin mail, men at man skal søge i den med Googles søgeværktøjer.
+Ulovlig tjeneste
+Alt det lyder jo meget godt, hvis det ikke lige var for det med overvågningen. 
+Det har nemlig givet bagslag, da forskellige organisationer har kritiseret overvågningen kraftigt og sagt, at det er krænkende for privatlivets fred. 
+»Der er ingen mennesker, der læser din mail«, forsvarer Google sig med på sin internetside og henviser til, at det kun er en maskine, der stikker snablen ned i dine skriverier. 
+Men det er ikke godt nok. 
+»Umiddelbart er sådan en tjeneste ikke lovlig. Der skal foreligge et forudgående samtykke, og man kan ikke give et samtykke, som på den måde generelt siger ja til enhver form for markedsføring«, siger Peter Blume, professor på Det Juridiske Fakultet på Københavns Universitet. 
+Men andre ord, selv om man siger ja til, at Google må læse med og sende reklamer, så vil sådan et samtykke være for generelt til, at det vil lovliggøre tjenesten.
+»Vi gør ikke noget urimeligt«
+Reaktionerne fra Google bærer tydeligt præg af, at virksomheden ikke er vant til at blive stillet kritiske spørgsmål. 
+De fleste historier i medierne indtil nu har handlet om, hvor godt virksomheden klarer sig, om den tvungne ugentlige fridag, som medarbejderne skal holde og andre lignende morsomme sager fra den utraditionelle virksomhed. Den nye e-mail-tjeneste blev helt i Googles ånd lanceret 1. april, og hele dagen var det uvist, om det var en aprilsnar eller virkelighed. 
+»Jeg synes ikke, at vi gør noget urimeligt«, siger Wayne Rosing, vicechef i udviklingsafdelingen hos Google, til internetstedet The Register. 
+Og det understreger meget godt den naivitet, der ombejler virksomheden. For selv om de måske ikke synes, det er urimeligt, så kan tjenesten meget vel være på kant med lovgivningen i mange af de lande, hvor den bliver tilgængelig, og det ville have været relativt nemt at undersøge på forhånd. 
+Google skal nok indstille sig på flere kritiske spørgsmål, når det privatejede firma senere året går på børsen. Det forventes, at Google bliver værdisat til 150 milliarder kroner, og så er det hele pludselig seriøs forretning.

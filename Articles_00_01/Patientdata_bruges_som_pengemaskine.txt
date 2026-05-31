@@ -1,0 +1,10 @@
+Title: Patientdata_bruges_som_pengemaskine
+Date: 2001-08-03
+Article Type: Danmark
+Author: Sygehusene bliver præsenteret for dyre regninger, når de vil bruge patientdata fra de gamle sygehusdatabaser i nye IT-systemer. Det skyldes, at IT-virksomheden Scandihealth har et solidt greb omkring de gamle data, skriver Ingeniøren. 
+CSC/Scandihealth dækker 70 pct. af sygehusene med patient-IT, og tager sig godt betalt for de data med CPR-numre, sygdomsforløb og diagnoser, der er indsamlet til databaser. 
+IT-direktør Niels Rossing, Hovedstadens Sygehusfællesskab (HS) erkender, at Scandihealth sygehusene må betale for brug af data, som de selv har produceret. 
+»Det er et problem, at patientdata ligger i et lukket system, og at vi skal betale for at få dem over i andre systemer. Og det er ikke billigt«, siger han. 
+HS er i gang med at overføre historiske patientdata fra det udtjente og gammeldags Grønt System fra Scandihealth til nye elektroniske patientjournaler. 
+Ifølge Ingeniørens oplysninger betales der både en engangsudgift og løbende omkostninger på data. Ingeniøren har fået afslag på aktindsigt i priserne, men i alt løber det sandsynligvis på i en lille mio. kr. om året.
+

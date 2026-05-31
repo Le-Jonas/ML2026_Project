@@ -1,0 +1,15 @@
+Title: Programfejl_koster_milliarder
+Date: 2002-09-01
+Article Type: Økonomi
+Author: Peder Bjerge
+
+Computerfejl koster amerikanske virksomheder mere end, hvad finansminister Thor Petersen regner med, at staten samlet kommer til at tjene på skatter og afgifter i 2003. Næsten 60 milliarder dollars eller knap 460 milliarder kroner. 
+ »Der er al mulig grund til at antage, at også danske virksomheder har store udgifter på programfejl«, siger Tom Togsverd, direktør for ITEK - Dansk Industris brancheorganisation for tele- og it-virksomheder. Der findes ikke tal for, hvad fejl i computerprogrammer koster danske virksomheder. 
+ Lektor Poul Erik Rostgaard Andersen fra Handelshøjskolen i Århus peger på, at man gennem årerne har set større danske virksomheder nedjustere deres forventninger til indtjening på grund af fejl i edb-programmer. I andre tilfælde mærker forbrugerne det direkte på de rudekuverter, der dumper ind gennem brevsprækken om morgenen.
+Eksempler på fejl
+Særligt telefonselskaberne har haft store problemer med at få it-systemerne til at fungere efter planerne. Landets største telefonselskab TDC har haft en række problemer med at betjene kunderne, når teknikerne har installeret nye it-systemer. Blandt andet havde TDC Mobil i april 2002 problemer med at få et nyt kundesystem til at fungere. Kunderne skulle have haft en lille SMS-besked, når de havde opbrugt den gratis taletid, der var inkluderet i abonnementet, og minuttaksterne begyndte at tikke ind på telefonregningerne. Fejl i kundesystemet gjorde, at mange af kunderne endte med uventet store mobiltelefonregninger, som TDC senere har indvilget i at eftergive. 
+ »Den fejl opdagede vi først, da kunderne ringede. Vi havde ellers brugt meget store ressourcer på at teste systemerne forinden«, siger Peter Lanng Nielsen, kundeservicedirektør i TDC Mobil. Han vil ikke kommentere økonomiske konsekvenser. 
+ Også konkurrenten svenske Telia har haft klager på den baggrund. Fire gange så mange forbrugerklager end man kunne forvente i forhold til deres markedsandel. Klagerne kom efter indførelsen af et nyt faktureringssystem.
+For 9 mia.kr. fejl
+Ifølge den amerikanske analyse udført af National Institute of Standards and Technology, en institution under det amerikanske erhvervsministerium, koster fejl i computerprogrammer den amerikanske økonomi, hvad der svarer til 0,6 procent af det amerikanske bruttonationalprodukt. Hvis den målestok kan overføres på danske forhold, så ligger beløbet i nærheden af de ni milliarder kroner. 
+ En stor del af årsagerne til fejlene er, at computerprogrammer er blevet meget komplicerede størrelser. Ikke bare for almindelige dødelige, men også for de ingeniører, der udvikler dem. Antallet af linjer med koder - der får et computerprogram til at virke - skal ikke længere måles i tusinde, men i millioner. Ifølge den amerikanske undersøgelse går mere end 80 procent af omkostningerne ved at udvikle nye programmer til at lede efter fejl og rette dem.

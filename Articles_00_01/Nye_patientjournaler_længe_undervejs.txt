@@ -1,0 +1,27 @@
+Title: Nye_patientjournaler_længe_undervejs
+Date: 2003-01-06
+Article Type: Danmark
+Author: Kaare Skovmand
+
+Det går trægt fremad med at få indført de elektroniske patientjournaler (epj) i Danmark. Faktisk går overgangen fra papir til strøm så langsomt, at ikke engang halvdelen af sygehusvæsenet vil være dækket af epj inden den aftalte skæringsfrist i 2005, hvis det nuværende tempo opretholdes. 
+ Sådan lyder vurderingen fra EPJ-Observatoriet, der evaluerer de elektroniske tiltag på de danske sygehuse.
+Kun 44 pct.s dækning
+»Hvis målet skal nås, skal der flere initiativer i gang end dem, vi ser i dag. Ud fra det, der allerede er planlagt i amterne, vil dækningen i 2005 kun være på 44 pct.«, siger lektor Stig Kjær Andersen, EPJ-Observatoriet, til Politiken. 
+ En rundspørge, som Politiken har foretaget blandt de 14 amter og Hovedstadens Sygehusfællesskab viser, at indførelsen af de elektroniske patientjournaler foregår i flere hastigheder. 
+ Nogle amter arbejder på højtryk, mens andre tager det stille og roligt og afventer de andres resultater. Helt nøjagtigt svarer 12 amter, at de er godt i gang med at indføre epj, mens 3 vender tomlen nedad.
+Venter på erfaringer
+»Det er der i sig selv ikke den store grund til at være så bekymret over. De tre amter afventer de andres arbejde, og vil så drage lære af erfaringerne fra dem, der er længst fremme«, siger Stig Kjær Andersen. 
+ Vejle, Viborg og Roskilde Amter er nået længst i bestræbelserne på at journalisere patientoplysningerne digitalt og smide det krøllede papir i affaldsbøtterne. På nuværende tidspunkt dækkes 50 pct. af Vejle Amts sengepladser af epj, og amtet forventer, at alle afdelinger har implementeret epj inden udgangen af 2005. En lignende melding kommer fra Viborg Amt, mens Roskilde Amt sigter mod fuld epj-dækning allerede ved udgangen af 2003. 
+ Vestsjællands, Bornholms og Storstrøms Amter prioriteter ressourcerne anderledes, og nøjes med at kigge de andre over skuldrene. 
+ »Men det er ikke det samme som, at disse amter er gået helt i stå på det elektroniske område. Alle tre amter er jo med i det østdanske it-samarbejde på sygehusområdet«, siger afdelingslæge Søren Lippert, Sundhedsstyrelsen, som sidder i styregruppen for EPJ-Observatoriet.
+Store forskelle
+Søren Lippert bekræfter, at der er meget store forskelle i det tempo, amterne indfører epj i. Han mener dog, at flere af amterne nu vil føle sig tilskyndet til at speede processen op. Om 'målstregen' nås i 2005, således som Amtsrådsforeningen og regeringen har aftalt, kan imidlertid godt ende med at være noget af en definitionssag, mener Lippert. 
+ »Nogle amter har nok lagt ud med at definere epj som noget ganske bestemt, f.eks. journalisering inden for en enkelt afdeling eller et ambulatorium på et sygehus. Men i virkeligheden har udviklingen betydet, at epj nu skal defineres på et meget større og bredere plan. Sådan lyder i hvert fald den flotte vision i det nye udkast til it-strategi for sundhedsvæsenet, som kommer straks i det nye år«, siger Søren Lippert.
+Skt. Hans i front
+Politikens amtsrundspørge afslører en meget ujævn epj-dækning fra sygehus til sygehus og fra afdeling til afdeling. 
+ Et af de få helt fuldbragte projekter er det gamle Skt. Hans Hospital i Roskilde, der hører under Hovedstadens Sygehusfællesskab. 
+ Her er der en fuldt implementeret patientjournal for hele hospitalet - omfattende alle 434 sengepladser plus ambulatorier. 800 medarbejdere på hospitalet har epj som dagligt værktøj.
+Hurtigere og mere præcise arbejdsgange
+Den elektroniske journal ventes at gøre arbejdsprocesserne hurtigere og mere præcise og at nedbringe omfanget af fejltagelser. Derved kommer epj patienterne til gode. 
+ »Personalet får langt bedre mulighed for at vide, hvad der foregår med den enkelte patient, og det er nok det, patienterne vil kunne mærke mest. Desuden lægger vi stor vægt på, at systemet skal kunne bruges tværfagligt. Altså at de enkelte faggrupper som f.eks. læger, sygeplejersker og fysioterapeuter hele tiden kan bruge hinandens data«, siger Søren Lippert. 
+ Både Søren Lippert og Stig Kjær Andersen vurderer, at de enkelte amters edb-systemer hen ad vejen vil blive udviklet på en sådan måde, at man kan læse hinandens elektroniske patientjournaler.

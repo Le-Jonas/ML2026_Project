@@ -1,0 +1,15 @@
+Title: Slip_fugten_ud_om_vinteren
+Date: 2002-01-19
+Article Type: Økonomi
+Author: Søren Vasegaard
+
+Det kan blive dyrt at have elvarme på i sommerhuset blot for at holde huset tørt i den kolde tid. Ventilatorer, der styres af luftfugtigheden, og ventiler ved gulv og loft kan være med til at sikre ordentlig udluftning.
+Vi har et mindre hus, som anvendes til sommerbolig. Huset består af to sammenhængende bygninger, den ene opført i halvstensmur og den anden i gasbeton. Der er 50 mm isolering på loftet. Samtlige gulve er beton, hvorpå der er lagt 'trægulve' (Pergo e.l.). Det første år, vi havde huset, var der ikke varme i vinterhalvåret, og vi fandt, at det var meget fugtigt, da vi tog det i brug den følgende sommer. Det andet år har vi ladet elradiatorerne køre på et minimum, således at det har været frostfrit. Huset virkede mere tørt, da foråret/sommeren kom. Det har dog vist sig, at der er brugt for ca. 6.000 kr. strøm i vinterhalvåret, og det vil sige, at den vej ikke er farbar. Vi har nu hørt fra flere sider, at såfremt der bliver monteret udluftning i de fleste rum, og at indvendige døre er åbne, vil huset ikke tage skade, såfremt det efterlades uden varme af nogen art, blot skal der være gennemtræk. Hvad siger arkitekten?
+Lise og Per Willemoes Jensen Bausager, Grevinge, Roskilde
+Svar:
+Selv om der er naturlig ventilation mellem bygningens rum og via ydervægge til det fri, vil luftfugtigheden i uopvarmet bygning i vinterhalvårets løb være identisk med den udvendige luftfugtighed. Ude svinger fugtigheden meget, i strenge frostperioder er den ekstrem lav og i tåge og dis meget høj. Jo højere temperatur, des mere fugt kan luften indeholde. 
+Det er helt rigtigt, hvad flere har fortalt jer. Lad alle indvendige døre stå åbne, når I forlader huset om efteråret. Er der brændeovn, så tøm den for aske og lad lågen være åben, så virker skorstenen som aftræk. For at forhindre fugle i at komme ind denne vej kan skorstenen udstyres med et allikenet. 
+I strategisk placerede rum, for eksempel i husets hjørner, indføres så ventiler til det fri både ved gulv og ved loft. Så vil ventilerne sikre en naturlig ventilation hele vinterhalvåret. Denne kan dog bedres betydeligt ved for eksempel at indføre elventilatorer et par steder, hvorved bygningen tvangsventileres. 
+Som ventilatorer kan jeg anbefale de hygrostatiske (fugtighedsstyrede), som kan stilles til eksempelvis 70 procents relativ luftfugtighed og således kun være i funktion, når fugtigheden stiger over dette niveau. 
+De fugtighedsstyrede ventilatorer kan normalt stilles til at starte, når luftfugtigheden når et sted mellem 60 og 80 procent. Strømforbruget er minimalt og kommer aldrig op i bare nærheden af jeres store varmeregning. Forbruget ligger under drift på omkring 15W, og der skal mere end 60 timers drift til en kwh. 
+Når huset skal genbruges til foråret, er det vigtigt at lufte ud i mange timer selv med brændeovnen på maksimum. Alle tæpper, dyner, puder og andet fugtholdigt indbo skal hænges ud til gennemluftning for at fjerne den så umiskendelige sommerhuslugt, som for så vidt er uundgåelig, når bygningen trods ventilation ikke anvendes i en længere periode.

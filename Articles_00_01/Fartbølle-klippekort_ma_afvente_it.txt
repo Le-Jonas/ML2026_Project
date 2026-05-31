@@ -1,0 +1,9 @@
+Title: Fartbølle-klippekort_ma_afvente_it
+Date: 2004-04-15
+Article Type: Danmark
+Author: Den særlige klippekortsordning, der giver politiet mulighed for at fratage bilister, som laver tre grove overtrædelser af færdselsloven i løbet af tre år, kørekortet, må ifølge Computerworld vente mindst et år på, at politiet får ændret deres it-systemer. 
+Derfor vil klippekortsordningen i praksis først komme til at fungere hen på sommeren næste år, selv om lovforslaget - hvis det vedtages - efter planen skulle træde i kraft fra august i år. Kræver ændringer i flere it-systemer
+Vicerigspolitichef Peter Carpentier afviser ifølge Computerworld, at der er tale om en forsinkelse, men henviser til, at politiet er nødt til at ændre kriminalregisteret, sagbehandlingssystemet og kørekortsregisteret. Og den slags tager ifølge Carpentier en del tid. 
+»Det er ikke et klippekort til bussen, vi taler om«, udtaler han. 
+Implementeringen af klippekortssystemet er budgetteret til at koste omkring 11 millioner kroner.
+

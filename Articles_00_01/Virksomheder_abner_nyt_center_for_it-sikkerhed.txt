@@ -1,0 +1,9 @@
+Title: Virksomheder_abner_nyt_center_for_it-sikkerhed
+Date: 2002-11-28
+Article Type: Økonomi
+Author: En række virksomheder er gået sammen med forskere fra primært Århus om at danne et nyt Center for IT-sikkerhed. 
+ Der er tale om det første center af sin art herhjemme, oplyser parterne. Fokuserer på sikkerhed
+ Centret vil blandt andet fokusere på områder som digitale signaturer, sikkerhed i forbindelse med mobilt og trådløst udstyr samt sikkerhed i forbindelse med softwareudvikling. 
+ Desuden vil man gøre det muligt for virksomheder at sammenligne deres it-sikkerhedspolitik med tilsvarende virksomheder og sikre, at man er med helt fremme på dette område. 
+ Blandt parterne bag centret er Danske Bank, TDC Internet, Microsoft, Cisco, Aarhus Universitet og forskningsaktieselskabet Alexandra Instituttet.
+

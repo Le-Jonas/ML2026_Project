@@ -1,0 +1,13 @@
+Title: Blitz_kan_hacke_chipkort
+Date: 2002-06-14
+Article Type: Danmark
+Author: To britiske forskere har ved at anvende en billig fotoblitz og et almindeligt mikroskop skaffet sig adgang til et chipkorts indre. 
+ Og dermed falder den højt besungne sikkerhed i chipkort, som bl.a. anvendes i de nyeste betalings- og sikkerhedsløsninger, til jorden. Tvivl om sikkerhed
+ Offentliggørelsen af opdagelsen skaber tvivl om den reelle sikkerhed i de sikre kort, skriver Ingeniøren. 
+ To forskere fra det britiske University of Cambridge benyttede en almindelig fotoblitz koblet til et laboratoriemikroskop for at ændre de lagrede informationer i den indbyggede microprocessor på et chipkort. Kort kan nulstilles
+ Dermed er der skabt en teoretisk mulighed for at nulstille chipkorts password til en kendt værdi, så der er fri adgang til de lagrede og følsomme informationer. 
+ En bagdør, som vil kunne misbruges af hackere og elektroniske checkryttere. 'Markant opdagelse'
+ Den danske krypteringsekspert og stifter af sikkerhedsfirmaet Cryptomatic, Peter Landrock, bekræfter, at der er tale om en markant opdagelse. 
+ Han er ikke i tvivl om, at visse kort vil kunne angribes og brydes på under en time. 
+ PBS ønsker ikke at kommentere, om den nyopdagede sikkerhedsbrist får konsekvenser for virksomhedens planer om at afløse de nuværende magnetkort med chipbaserede Dankort.
+

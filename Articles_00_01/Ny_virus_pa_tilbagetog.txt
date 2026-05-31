@@ -1,0 +1,13 @@
+Title: Ny_virus_pa_tilbagetog
+Date: 2004-01-20
+Article Type: Økonomi
+Author: Sisse K. Ibsen
+
+Computerormen Bagle, som søndag begyndte at husere i danske computere via e-mails, får ikke de røde advarselslamper til at blinke hos sikkerhedschef Preben Andersen i it-sikkerhedsorganisationen DK-Cert. 
+»Ormen er ikke blevet mere udbredt i forhold til i går, og vi anser den ikke for at være af stor betydning«, siger Preben Andersen tirsdag til Ritzau. 
+For Danmark lyder meldingen, at blot 3,6 procent af mailen er inficeret med ormen, der reelt er en hybrid mellem en orm og en virus. På verdensplan har ormen en fjerdeplads i forhold til andre orme, og ifølge Preben Andersen er det ikke særlig foruroligende.
+Spreder sig via adressebog
+Ormen Bagle spreder sig via computerens adressebog, hvor den finder nye 'ofre' og spreder sig ved at sende sig videre til dem. 
+»Ormens formål er at sprede sig, at vise, at den kan. Bagle.A har ingen onde formål ellers ifølge vores meldinger«, siger Preben Andersen til Ritzau. 
+Preben Andersens beroligende ord kommer efter, at det i går forlød, at ormen forsøger at installere en såkaldt bagdør i de inficerede computere. Det fastholder sikkerhedsekspert Peter Kruse, Kruse Security, stadig er ormens formål. Han har analyseret koden bag ormen. 
+Sikkerhedsfirmaer, der i går råbte vagt i gevær, melder i dag om lavere inficeringsprocenter og generelt lavere virusaktivitet. Sikkerhedsfirmaet Comendo mener, at Bagle vil være væk i løbet af nogle dage.

@@ -1,0 +1,16 @@
+Title: Grøn_smag_males_med_lys
+Date: 2002-04-05
+Article Type: Danmark
+Author: Henrik Larsen
+
+Forskere ved Landbohøjskolen i København har som de første i verden udviklet en metode, der maskinelt kan bedømme smagskvaliteten af frugt og grønt. 
+ Metoden kan eksempelvis skelne søde æbler fra sure æbler, velsmagende gulerødder fra bitre gulerødder - og har i laboratorieforsøg med 70 procents sikkerhed kunnet skelne økologiske produkter fra ikke-økologiske. 
+ Tanken er nu at bygge systemet ind i små scannere, der ventes klar om et par år, fortæller projektleder, lektor Bent Bennedsen: 
+ »Med en sådan scanner i hånden vil forbrugeren kunne sikre sig, at han eller hun kun får gode varer med hjem fra supermarkedets grøntafdeling. I dag er situationen, at selv om æblerne eller tomaterne i supermarkedsdisken ser relativt ens ud, fordi de opfylder EU's kvalitetsnormer for frugt og grønt, garanterer det kun ydre forhold ved varerne«. 
+ »Man kan sagtens komme hjem med 20 tilsyneladende næsten ens æbler, hvoraf halvdelen smager rigtig godt, mens resten er mere eller mindre kedelige. Det kan man undgå ved at måle smagskvaliteten med vores metode«.
+Avanceret matematik
+Metoden er baseret på en kombination af belysning og avanceret matematik: 
+ Den frugt eller grøntsag, der skal undersøges, belyses via en optisk linse med en halogenlampe. 
+ Når lyset kastes tilbage, opfanges det af en særlig sensor, hvorefter den del af det reflekterede lys, der ligger i det røde- og det nær-røde bølgelængdeområde beregnes - og via et computerprogram konverteres til en grafisk 'værdi'. 
+ Denne værdi kan så sammenholdes med en indkodet værdi for et i alle henseender velsmagende eksemplar af den pågældende frugt eller grøntsag. Og så ved man straks, om man står med et sødt eller et surt æble i hånden. 
+ Systemet skal nu raffineres, blandt andet med henblik på økologimålinger. Forskerne vil også gerne se, om metoden kan skelne mellem gensplejsede og ikke-gensplejsede varer.

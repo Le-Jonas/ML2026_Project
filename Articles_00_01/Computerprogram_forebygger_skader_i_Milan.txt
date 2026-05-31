@@ -1,0 +1,10 @@
+Title: Computerprogram_forebygger_skader_i_Milan
+Date: 2003-02-14
+Article Type: Sport
+Author: Sport og teknologi har nu fundet sammen, så det kommer aktive fodboldspillere til gode. Et nyt computerprogram, der kan forebygge og minimere skader hos fodboldspillere, har vist så gode resultater, at den italienske storklub AC Milan benytter programmet. 
+ Det såkaldte Business Intelligence-system bruges af AC Milan til at analysere en lang række data, som indsamles dagligt af klubbens læger og fysioterapeuter. Det er for eksempel ortopædiske, fysiologiske og mekaniske data fra spillerne. 
+ Disse data kombineres med almindelige diagnostiske informationer, og ved hjælp af såkaldte intelligente agenter kan systemet selv danne mønstre og afsløre uregelmæssigheder i målingerne. Mere målrettet forebyggelse
+ De forskellige målinger kan dermed vise, om en spiller er på vej til at udvikle en skade. Det betyder, at systemet kan afsløre skader på spillere, længe før fysioterapeuter og læger kan se, at der er noget galt med en spiller. 
+ »Vi har fået mulighed for at anvende alle de data, vi alligevel indsamler på en effektiv måde, så vi kan træffe de rigtige beslutninger om at omlægge træningen«, siger AC Milans fysiske træner, Daniele Tognaccini til Computerworld. 
+ Samarbejdet mellem AC Milan og firmaet, der udvikler systemet, CA, er det første eksempel på, at denne slags teknologi også kan anvendes inden for idrætsmedicin.
+

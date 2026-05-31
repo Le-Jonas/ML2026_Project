@@ -1,0 +1,10 @@
+Title: Ny_virksomhedsportal_virker_kun_med_Microsoft
+Date: 2003-09-05
+Article Type: Danmark
+Author: Erhvervs- og økonomiminister Bendt Bendtsen (K) bliver bedt om at komme med en god forklaring på, hvorfor en ny internetportal, der skal gøre det lettere for virksomheder at komme i kontakt med hinanden, kun kan bruges af virksomheder, der bruger Microsofts internetbrowser Internet Explorer. 
+Virksomheder, der bruger andre programmer, kan ikke bruge alle søgefunktioner på virk.dk, som søgeportalen hedder. Massiv kritik
+Det kritiserer Line Barfod fra Enhedslisten, for det udelukker virksomheder, der ikke bruger Microsofts styresystemer, fra at få gavn af portalen. 
+Ifølge Københavns Radio har Erhvervs- og Selskabsstyrelsen fået massiv kritik fra virksomheder, der bruger Macintosh-computere fra Apple. 
+Derfor vil styrelsen nu arbejde for at få virk.dk til at fungere for alle, oplyser Peter Pietras, der er chef i Center for Innovativ Administration under Erhvervs- og Selskabsstyrelsen. 
+Han tilføjer, at styrelsen i første omgang har valgt at udvikle portalen til at fungere med et begrænset antal edb-programmer for at undgå, at udviklingsomkostningerne blev for store.
+

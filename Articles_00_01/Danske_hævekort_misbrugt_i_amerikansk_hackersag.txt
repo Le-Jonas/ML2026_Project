@@ -1,0 +1,11 @@
+Title: Danske_hævekort_misbrugt_i_amerikansk_hackersag
+Date: 2003-02-18
+Article Type: Økonomi
+Author: Et antal danske hævekort er blevet misbrugt i forbindelse med en hackersag i USA, oplyser TV2/Finans. 
+»Vi har fået meddelelse fra USA om, at der er 175 danske Visa- og Mastercard blandt de fem millioner hackede kort«, siger Lars From, direktør i Pengeinstitutternes Betalingsservice (PBS) til tv-stationen. 
+ Via det selskab, der behandler kortbetalinger og transaktioner på vegne af Visa og Mastercard, fik hackeren adgang til de mange kontooplysninger og kortnumre. Netop kortnumrene er vitale, da de umiddelbart kan bruges som betalingsmiddel - eksempelvis over nettet. 
+»De danske kort er allerede spærret«, siger Lars From. Ingen garanti for fremtiden
+ Ifølge en britisk ekspert i hackerkriminalitet er der dog ingen garanti for, at oplysningerne ikke i fremtiden misbruges kriminelt. I så tilfælde vil det være Mastercard og Visa og ikke kunderne, der står med regningen. 
+ Den eneste måde at undgå denne risiko på, er at udstede nye konti til samtlige fem millioner kortholdere. Sagen har fået den amerikanske bank, Citizens Bank, til at lukke 8800 kunders konti, hvis kortnumre frygtes registreret af hackeren. 
+ De danske kortejere, hvis kort er blevet hacket, vil få besked fra deres pengeinstitut.
+

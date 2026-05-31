@@ -1,0 +1,23 @@
+Title: Kære_i_email-sag_afgøres_først_efter_paske
+Date: 2002-03-27
+Article Type: Danmark
+Author: Politiken.dk
+
+Anklagemyndigheden venter til efter påske med at sende den skriftlige kære over, at byretten i Ringkøbing i går afviste at lade politiet læse e-mails, som af ikke fuldt opklarede grunde er gemt flere år på en server hos internetudbyderen Tele2. 
+ Tvind vandt tirsdag en sejr i retten i Ringkøbing, som afviste at lade politiet få adgang til en række e-mailbokse. Åbning af de elektroniske brevkasser hos internetudbyderen Tele2 ville være et uforholdsmæssigt 
+ Anklagemyndigheden giver dog ikke op og har kæret afgørelsen til landsretten. 
+ Anklagemyndigheden har endnu ikke endeligt afgjort, om den vil kræve mundtligt forhandling i Vestre Landsret, oplyser politimesteren i Holstebro, Jens Kaasgaard. 
+ E-mail er ikke direkte behandlet i regler og lovtekster i denne forbindelse. 
+ Da e-mail er en mellemting mellem brev og telekommunikation, er der uenighed om, hvilke regler der gælder, hvis politiet skal læse med - bryde den såkaldte meddelelseshemmelighed.
+Gemte kopier
+Tvinds lærergruppe har benyttet sig af blandt andre internetudbyderen Tele2 i den tro, at så snart de selv åbnede og efterfølgende slettede en e-mail, så var den pågældende e-mail også helt udraderet. Men det er ikke tilfældet. 
+ Tele2 har gemt kopier af en lang række e-mail, fordi de personer, der havde oprettet e-mail-konti hos selskabet ikke altid var identiske med de personer, som sendte og modtog e-mail.
+Afgørelsen kæret
+Anklagemyndigheden ønskede at få adgang til 16 ud af Tvinds ialt 57 mailbokse hos Tele2. Under ransagningen af Tvind i april i fjor fandt politiet nemlig ingen papirkopier af disse dokumenter. 
+ Lederen af efterforskningen, Holstebros politimester Jens Kaasgaard, oplyste efter rettens afgørelse, at afgørelsen bliver kæret til landsretten.
+Passwords udleveres til politiet
+Retten bestemte samtidig, at politiet skal have udleveret passwords til emailkonti, som tilhører Tvinds talsmand Poul Jørgensen, der er en af de sigtede i sagen. 
+ Politiet må ikke bruge adgangskoderne til at hente post i mailboksene. Men ifølge Jens Kaasgaard vil politiet med adgangskoderne forsøge at åbne de Tvind-computere, som er blevet beslaglagt, uden at politiet hidtil har kunnet se indholdet.
+Politiet får adgang til bankkonti
+Politiet vandt til gengæld i retten i dag, når det gælder adgang til en række bankkonti, fuldmagtsforhold og andet materiale, som hører til dem. 
+ Med afgørelsen får politiet indblik i, hvilke bevægelser der er sket på fire Tvind-konti i BG Bank i Fredericia, to konti i Barclay's Bank i Paris, og en konto hos Banque de Tahiti, i Papeete på Tahiti i Stillehavet.

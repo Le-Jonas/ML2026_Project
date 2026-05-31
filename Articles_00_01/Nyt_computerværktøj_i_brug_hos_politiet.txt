@@ -1,0 +1,11 @@
+Title: Nyt_computerværktøj_i_brug_hos_politiet
+Date: 2001-07-05
+Article Type: Danmark
+Author: Det danske politi har nu besluttet at tilslutte sig det internationale computersystem VICLAS, oplyser politimester Jens Henrik Højbjerg fra Rigspolitiets afdeling A. 
+»Vi har truffet en principbeslutning om at indføre VICLAS som endnu et godt efterforskningsværktøj i forbindelse med grove, voldelige forbrydelser som drab og sædelighedssager«, siger han. 
+VICLAS står for Violent Crime Linkage Analysis System og er udviklet i Canada i begyndelsen af 90erne. I alt ti lande og to amerikanske delstater er i dag tilsluttet systemet, ligesom flere er på vej. 
+I Europa er Sverige, Østrig, Storbritannien, Belgien, Holland, Tyskland og Schweiz tilsluttet systemet, mens Norge, Frankrig, Portugal og altså Danmark er på vej til at blive det. 
+Systemet går ud på, at de politifolk, der efterforsker f.eks. en voldtægt eller et drab, udfylder et meget detaljeret spørgeskema, der først og fremmest koncentrerer sig om gerningsmandens opførsel. 
+Var han nedladende overfor offeret? Brugte han mere vold end nødvendigt for at gennemføre sin forbrydelse? Efterlod han gerningsstedet som et stort rod, eller ryddede han ligefrem op efter sig? 
+Når de i alt 168 spørgsmål er besvaret lægges svarene ind i en database, hvorefter computeren kan finde frem til andre lignende forbrydelser, hvor gerningsmanden med stor sandsynlighed er den samme.
+

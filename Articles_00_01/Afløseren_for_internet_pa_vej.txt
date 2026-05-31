@@ -1,0 +1,31 @@
+Title: Afløseren_for_internet_pa_vej
+Date: 2003-07-24
+Article Type: Danmark
+Author: Line Aarsland
+
+Om cirka fem år vil internettet ikke se ud som i dag, mener forskere. I stedet vil alle verdens computere - både på arbejdspladser og derhjemme i stuerne - være forbundet, så de udgør én stor virtuel computer, der arbejder på at løse verdens problemer. Projektet hedder 'Grid', og det bliver ifølge forskerne afløseren for internettet.
+Vil ske meget hurtigt
+»Om et år vil uddannelsesinstitutioner bruge det, så kommer arbejdspladser med og om fire til seks år vil alle almindelige mennesker være med. Det bliver virkeligheden og kommer til at ske meget, meget hurtigt«, siger Brian Vinter, forsker på Syddansk Universitet. 
+Det Naturvidenskabelige Forskningsråd har netop doneret 7,5 millioner kroner til at oprette et dansk forskningscenter i Grid med forskere fra universiteterne i Odense, Århus, København og Aalborg og Danmarks Tekniske Universitet. Verden over forsker op til 15.000 forskere i Grid, anslår Brian Vinter, og i England alene har man satset over en milliard kroner til projektet.
+Vil forandre hjemme-pc'en
+»Ideen går ud på, at vi har alle de problemer, vi ikke kan få regnekraft til at løse - fra at forklare tyngdekraften til, hvorfor visse stoffer er kræftfremkaldende. I dag bruger vi supercomputere til 100 millioner kroner, men de er ikke store nok alligevel. En almindelig pc er jo højst i brug otte timer om dagen, så i stedet for at bruge en uhyggelig masse penge på supercomputere, så udnytter vi den regnekraft, der står rundt omkring på skoler, arbejdspladser og hjemme hos folk«, siger Brian Vinter. 
+Men Grid vil også forandre hjemme-pc'en. Mange private brugere vil ikke længere have egen harddisk med programmer. I stedet plotter man en skærm med et tastatur ind i et stik i væggen, som giver adgang til Grid.
+Harddisken på hotel
+Her lejer man både computerkraften, programmer og lagerplads på et webhotel i cyberspace, hvor ens personlige harddisk tager bo. 
+»I stedet for at have det hele liggende derhjemme, så har du det på et lagerhotel, som håndteres af et professionelt firma, der sørger for backup. De fleste får jo ikke lavet sikkerhedskopier derhjemme, og det er jo forfærdeligt, når man gerne vil gemme sine ting. En anden fordel er, at du bliver fysisk uafhængig af, hvor du er i verden. Overalt mødes du af det samme billede med dine personlige filer, når du logger ind. Det giver frihed, og man slipper for at rende rundt med disk eller cd'er«. 
+Private, som bruger computeren til computerspil, har stadig brug for en harddisk, og de kan så leje deres overskydende kapacitet ud. Det vil de gøre, fordi f.eks. private firmaer vil betale dem for det, påpeger forskeren. 
+»Navnet Grid kommer fra det amerikanske ord
+powergrid
+- elektricitetsnetværk. Du kan sammenligne det med strømmen; vi er ligeglade med, hvor den kommer fra, bare den er der. På samme måde bliver vi ligeglade med, hvor vi får regnekraft fra. Så kan folk med mange pc'er sælge deres kraft, på samme måde som folk med vindmøller i dag sælger deres overskydende strøm«.
+Bruger grid uden at vide det
+Forskerne i projektet har på nuværende tidspunkt forbundet et par hundrede maskiner i Danmark, og om et år regner de med at have 10.000-15.000 maskiner på uddannelsesinstitutioner koblet op i Norden. 
+Også Novo Nordisk arbejder med teknologien. Her kører man forsøg med 20-30 computere, blandt andet for at skaffe regnekraft nok til at udregne, hvordan molekyler binder sig i menneskekroppen. Forsker Jan Holst Jensen mener dog, at der går lang tid, før teknologien bliver hvermandseje, men han understreger, at den allerede er i brug. 
+»Mange bruger det i dag, men ved nok ikke, at de er med i et Gridprojekt. Screensaveren seti@home, som undersøger de kæmpe mængder af data fra radioteleskoper for at se, om der er liv andre steder, bygger på Grid«, siger Jan Holst Jensen, Novo Nordisk.
+En overbygning
+Kasper Larsen, medstifter af den danske internetportal Jubii, er enig i, at Grid er fremtiden, men han mener ikke, at det vil afløse internettet. 
+»Grid bliver en del af hverdagen, men det er ikke en revolution på samme måde, som internettet var det. Det er en evolution, som sørger for at bringe folk tættere sammen. Forskerne tror, at det vil leve autonomt, men jeg tror, at det kommer oven på de ting, vi kender i dag«, siger Kasper Larsen, direktør i virksomheden Klarisma, som han stiftede, efter at han forlod Jubii i fjor.
+Væk med WWW
+Alligevel forudser Brian Vinter, at world wide web - med de tre w'er som indgang - erstattes af noget andet. 
+»Man vil ikke kunne se world wide web-hjemmesider og sådan nogle ting. Det bliver mere gennemsigtigt, end det er i dag. Du vil ikke vide, at nu er jeg på nettet, og nu er jeg hjemme«. 
+Brian Vinter forstår, hvis man synes, at det lyder som science fiction. Men heller ingen troede på internettet for bare 12 år siden. 
+»Vi forskere har brugt internettet siden først i 80'erne, og i 1994 var der stadig ingen, der troede på det. Men i 1991 laver en fyr http-protokollen - det satte gang i det. Den amerikanske regering bad så nogle sommerstuderende om at sætte billeder ind i teksten, og pludselig havde vi world wide web, og gud og hvermand ville være med. Det gik utrolig hurtigt. Det samme kommer til at ske her«.

@@ -1,0 +1,22 @@
+Title: Nyhedstjeneste_flytter_fra_Danmark
+Date: 2002-09-14
+Article Type: Økonomi
+Author: Sisse K. Ibsen
+
+Kunderne hos det danske medieovervågningsfirma Visator har fået ny leverandør af de daglige mail med nyt om, hvad netaviserne skriver om dem og konkurrenterne. Mailen med resumeer af artikler og links til artikler kommer ikke længere fra Visator på Østerbro i København. 
+ Trafikken går nu for fakturaer og kontrakters vedkommende via firmaet Hadleigh i Singapore, mens selve nettjenesten er placeret på en server i Holland.
+Solgt billigt
+Omvejen skyldes en dansk fogedkendelse, der i juli i år forbød en anden nyhedssøgemaskine, Newsbooster, at sende systematisk udvalgte link til danske netavisers artikler. 
+ Med den kendelse i hånden tog sagsøgeren, Danske Dagblades Forening, (DDF) kontakt til Visator, som ligner Newsbooster. Visator lovede at »igangsætte tilpasninger«. 
+ Tilpasningen har siden vist sig at være frasalg af visse aktiviteter til et firma, som det er besværligt at ramme fra dansk jord. 
+ »Det er blevet umuligt at drive netmedieovervågning i Danmark. Derfor har vi solgt retten til vores søgetjeneste og kundedatabasen til et selskab i Singapore«, siger stifteren af nyhedssøgemaskinen Visator, Anders Nielsen. Køberen er firmaet Hadleigh. Prisen? »Ikke specielt mange penge«.
+Viasator afviser forbindelse
+Hos Visator benægter man nogen forbindelse med Hadleigh efter selve salget. Så når hjemmesiden www.visator.dk henviser til Visators 'globale hovedsæde' i Singapore - beliggende på samme adresse som netop Hadleigh - skyldes det ifølge Anders Nielsen, at Singaporefirmaet er ved at skifte navn til, ja, netop Visator. 
+ Visator i Danmark er også ved at skifte navn til Web Intelligence Technology ApS. Østerbro-firmaet skal fremover koncentrere sig om udvikling af søgeteknologi.
+Omgåelse
+Hos DDF fornemmer man ugler i mosen. 
+ »Sagen illustrerer meget tydeligt, at visse typer af virksomheder er villige til at gøre hvad som helst for at omgå dansk ret og udnytte det indhold (på nettet, red.), som andre bruger store pengebeløb på at producere«, siger juridisk konsulent i DDF Holger Rosendal og bekræfter, at DDF undersøger sine muligheder i sagen.
+Ingen nem sag
+Nemt bliver det ikke, mener it-juristen Peter Lind Nielsen, advokatfirmaet Bender.dk. 
+ »Der er ikke tvivl om, at Singapore-firmaet efter dansk lov krænker avisernes ophavsrettigheder. Men bagdelen ved nettet er, at det er meget svært at ramme folk, der ikke vil leve op til lovgivningen i et land. De har mulighed for at flytte deres server fra land til land, så man til sidst jagter spøgelser. Man har dog mulighed for at gøre det firma, der er vært for serveren, opmærksom på ulovligheder. Når de er blevet bekendt med situationen, kan de blive gjort erstatningsansvarlige, hvis de ikke lukker trafikken«, siger advokaten. 
+ Politiken har talt med en række Visatorkunder. Ingen har lyst til at stå offentligt frem og kommentere sagen. Ingen af de firmaer, Politiken har talt med, har for øjeblikket planer om at standse indkøbet af Singapore-Visators ydelser.

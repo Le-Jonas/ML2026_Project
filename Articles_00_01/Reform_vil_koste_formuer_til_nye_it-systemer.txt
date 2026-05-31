@@ -1,0 +1,20 @@
+Title: Reform_vil_koste_formuer_til_nye_it-systemer
+Date: 2004-01-09
+Article Type: Danmark
+Author: Peder Bjerge
+
+Landets kommuner kan godt begynde at lede efter ekstra penge til de ekstra rudekuverter med regninger på tilsammen adskillige milliarder kroner, som dumper ind ad de kommunale brevsprækker de næste år. 
+Landets kommuner skal nemlig slås sammen til færre og større kommuner. Og det kommer til at koste dyrt, når et utal af de gamle kommuners computersystemer skal smelte sammen, så danskerne kan blive ved med at betale for vuggestuepladsen over PBS eller melde flytning på nettet. 
+Men en ting er ekstraregningen - noget andet er, at borgerne også skal belave sig på, at det kommer til at tage år, før de nye kommuners computersystemer virker ordentligt. 
+»I runde tal taler vi om et par milliarder kroner i den rå førstegangsinvestering i at bringe fusionerne på plads«, siger Lars Monrad-Gylling, administrerende direktør for KMD - tidligere kendt som Kommunedata, som er ejet af Kommunernes Landsforening (KL). 
+Han er både formand for it-brancheforeningen og øverste chef for en af landets største leverandører af datasystemer til landets kommuner. Lars Monrad-Gylling understreger dog, at man først kan sætte mere præcise beløb på, når politikerne på Christiansborg har bestemt sig for, hvordan det kommunale landkort skal se ud, efter at regeringens Strukturkommission i går afleverede sit forslag til, hvordan amter og kommuner skal skrues sammen i fremtidens Danmark. 
+Han peger på, at det kostede godt 50 millioner kroner og et års tid at smelte de bornholmske kommuners it-systemer sammen. Hvis man skal drage læren af bornholmernes regnestykke, så kan det koste flere milliarder kroner at få et projekt i danmarksstørrelse til at fungere.
+Lektien fra Bornholm
+»På Bornholm fusionerede vi fem kommuner og et amt med 4.500 ansatte til en regionskommune, så det er en velvoksen virksomhed«, siger Lars Monrad-Gylling. Alene det at få kommunernes telefonsystemer og kontorsystemer til at fungere sammen er komplekse størrelser. 
+»Bare tænk på, at i hver kommune er der kun en Havnegade eller en Vestergade. Og med fremtidens store kommuner skal man lave om på systemernes arkitektur for at få tingene til at hænge sammen på ejendomsområdet«, siger Lars Monrad-Gylling. 
+Han henviser til, at på Bornholm tog hele processen omkring et års tid, men her gik tingene også meget stærkt. 
+I den forestående kommunalreform kan processen meget nemt komme til at trække meget længere ud. 
+»Projekterne kommer jo næppe i gang, før de nye kommuner har fundet ud af, hvem der skal være borgmestre, byråd og kommunaldirektør. De færreste vil tage beslutningerne, før man har fundet den nye kalif«, siger Lars Monrad-Gylling. 
+Han peger på, at det næste ordinære valg i kommunerne først kommer i år 2005. 
+»Man kan forestille sig, at det bliver valget til de nye kommuner, og det betyder, at vi januar 2006 har fået valgt borgmestre, der kan ansætte nye direktører. Og først derfra kan vi få sat båden i søen«, siger Lars Monrad-Gylling. Han regner med, at det meste af 2006 og det følgende år bliver præget af de teknologiske omlægninger. 
+Til gengæld regner han med, at de nye kommuner efter de store investeringer vil kunne høste store gevinster på de nye it-systemer.

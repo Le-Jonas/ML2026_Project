@@ -1,0 +1,25 @@
+Title: Bekymring_over_stregkodens_afløser
+Date: 2003-11-24
+Article Type: Økonomi
+Author: Sisse K. Ibsen
+
+Stregkodens tid kan være omme. Afløseren står klar i kulissen. 
+En chip i hver enkelt vare, der udsender radiosignaler og på den måde kommunikerer med kassen i supermarkedet. Uden at varen behøver at blive løftet op på kassebåndet. Den kan blive i indkøbsvognen.
+Bekymrede organisationer
+Chippen kaldes Rfid,
+radio frequency identification
+, altså identifikation via radiofrekvens. Systemet er under udvikling i øjeblikket i for eksempel britiske Tesco-supermarkeder. 
+Den nye vareidentifikation vækker bekymring hos forbrugerorganisationer verden over. 
+30 europæiske og amerikanske forbruger- og borgerretsorganisationer har underskrevet en samlet erklæring, der kræver klare retningslinjer for, hvordan Rfid skal anvendes for ikke at krænke privatlivets fred. 
+Med en Rfid-chip i hver vare - også tøj - bliver der meget gode muligheder for en mere præcis overvågning af vores indkøbsmønster og antal af ejendele.
+Også dansk bekymring
+Også i Danmark er der rynkede bryn ved udsigten til de nye trådløse og avancerede stregkoder. 
+»Der er helt klart uløste problemer med Rfid. Fordi varens information er trådløs, bliver der bedre muligheder for, at de forkerte hænder også har en scanner, der fortæller dem, hvad jeg har i min indkøbspose. Eller for at tyve kan køre forbi mit hus for at aflæse, om det jeg ejer, er værd at bryde ind for«, siger Peter Mogensen, formand for organisationen Digital Forbruger Danmark.
+Ingen konkrete planer endnu
+Ingen store danske supermarkeder har konkrete planer om at indføre Rfid. 
+Det nye system er foreløbig for dyrt, og så er man gennemgående godt tilfredse med de nuværende systemer. Her sker manuelle indscanningerne ved kassen, hvorefter der sendes automatisk besked til fjernlageret, når der er solgt tilstrækkelig mange kiks eller gulerødder. Men: 
+»Hvis prisen bliver tilstrækkelig lav, er der ingen tvivl om, at de (Rfid-chips, red.), bliver indført«, siger Peter Midtgaard, administrerende direktør i ISO.
+Store fordele for supermarkederne
+Peter Midtgaard peger på, at fordelene også for forbrugerne er betragtelige. Hvis alle varer er udstyret med chips, behøver man ikke længere lægge sine varer på kassebåndet.¨ 
+Vognen kan blot køres gennem kassen, hvorefter radiosignalerne og den øvrige teknik registrerer indholdet og udregner prisen. 
+For supermarkederne bliver fordelen desuden, at lageroptælling bliver uendelig nem. På grund af signalet fra hver enkelt vare vil supermarkedet altid have kontant viden om, hvad lageret egentlig indeholder.

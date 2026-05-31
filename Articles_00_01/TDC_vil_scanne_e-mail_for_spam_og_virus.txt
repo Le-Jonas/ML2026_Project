@@ -1,0 +1,9 @@
+Title: TDC_vil_scanne_e-mail_for_spam_og_virus
+Date: 2004-06-17
+Article Type: Økonomi
+Author: Teleselskabet TDC går til kamp mod uønskede reklamer via e-mail, såkaldt spam, og virusinficerede mails. Efter sommerferien indfører man et centralt spam- og virusfilter, der skal scanne alle mails for spam og vira, inden de når ud til kunderne. 
+»Spammails og computervira er problemer i eksplosiv vækst. De generer vores kunder, tager kapacitet i vores netværk og er et samfundsmæssigt problem på grund af de mange ressourcer, der bliver spildt på det«, siger Lars Torpe Christoffersen, administrerende direktør i TDC Totalløsninger. Kan vælges fra
+Filteret vil scanne alle mails til ca. en million mailkonti hos TDC's private internetkunder. Hvis kunden ikke ønsker at få scannet mails, kan filteret dog vælges fra. 
+TDC har også tidligere skannet e-mail og sorteret visse typer vedhæftede filer fra. Det vakte kritik fra modtagere, der ikke fik besked om, at en mail til dem var sorteret fra undervejs. 
+Presset for at skanne centralt kommer blandt andet fra videnskabsminister Helge Sander (V), der mener, at internetselskaberne skal tage byrden fra sine kunder. Nogle internetselskaber som Tele2 har allerede indført central skanning.
+

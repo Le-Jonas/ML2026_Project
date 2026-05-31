@@ -1,0 +1,12 @@
+Title: Microsoft_og_Sun_i_forlig
+Date: 2004-04-03
+Article Type: Økonomi
+Author: Der er sat punktum for et af det bitreste opgør i det amerikanske erhvervsliv. Det skete, da computerfirmaet Sun Microsystems i fredags opgav sin kamp mod arvefjenden Microsoft Corp. og opnåede et forlig på 1,6 mia. dollar, samtidig med at Sun lovede at samarbejde med Microsoft. 
+Den overraskende aftale blev underskrevet i fredags og afsluttede en langvarig juridisk tvist mellem rivalerne, der med EU's antimonopolbøde til Microsoft og Suns massive økonomiske tab siden it-boblen bristede har nok at se til i forvejen. En succeshistorie
+Sun, der før i tiden var en succeshistorie i Silicon Valley, laver servere som forbinder personlige computere og servicerer hjemmesider. Sun har gentagne gange beskyldt Microsoft for at sabotere Suns forretningsgrundlag, f.eks. ved at gøre styresystemet Windows ude af stand til at fungere sammen med Suns programmeringssprog, Java. 
+Suns anklager mod Microsoft for ulovlig udnyttelse af monopolstatus har været medvirkende til at igangsætte de undersøgelser, som ledte frem til den EU-bøde på 613 mio. dollar som Microsoft fik forelagt i sidste måned for udnyttelse af sit reelle monopol på styresystemer. Tæt på at være aprilsnar
+Eftersom Sun og Microsoft har haft et bittert fjendskab imellem sig, kunne meddelelsen være blevet opfattet som en aprilspøg, hvis den var kommet en dag tidligere. 
+»Dette skaber fred i stort omfang«, sagde McNealy under en pressekonference i fredags. 
+Den brede »samarbejdsaftale« opfordrer de to firmaer til at tilpasse deres produkter til hinanden, en sag som McNealy siger er blevet en voksende grund til bekymring blandt mange af de erhvervskunder, som de to firmaer betjener. 
+Microsoft vil betale 700 mio. dollar til Sun for at få afsluttet monopolsagen, som efter den hidtidige plan skulle have været afsluttet i januar 2006. Andre 900 mio. går også til Sun for at afslutte en strid om patentrettigheder. Sun og Microsoft vil også til at betale afgifter for at bruge hinandens teknologier, og Microsoft betaler 350 mio. dollar i forskud.
+

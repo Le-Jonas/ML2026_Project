@@ -1,0 +1,18 @@
+Title: SMS'er_skal_mindske_strømsvigt
+Date: 2003-09-14
+Article Type: Økonomi
+Author: Jesper Tornbjerg
+
+Elsystemer, der går i sort, rammer dagligt ulande - og af og til rige lande som USA. Heller ikke Danmark bliver skånet for blackout. Der er langt mellem de store nedbrud, men hvis højspændingsnettet bryder sammen, så kan teknikerne med det samme se, hvor det er gået galt. 
+Værre er det på de mindre elnet. Hver dag går en af NESA's 7.000 transformerstationer ned og henlægger cirka 5.000 hjem i mørke i en kortere periode.
+Gammeldags løsning
+Fejlen findes ved, at en af NESA's biler kører rundt i landskabet og leder, men det er en gammeldags måde at løse problemer på, erkender NESA. 
+Sammen med det lille tekniske idéhus Kasmatic og Ingeniørhøjskolen i Ballerup har NESA udviklet et simpelt og billigt system, der kan gøre livet lettere for elteknikerne - og dermed kunderne. NESA betegner systemet som 'en verdensnyhed'. 
+Hvis der fremover sker en fejl i en transformerstation, så vil der blive sendt en SMS-besked fra en mobiltelefon i dette elkassehus og ind til NESA's kontrolrum i Gentofte. SMS'en bliver aktiveret af en specialudviklet og patentanmeldt glasstang med polaroidfilter. Hvis der sker et nedbrud i strømforsyningen, så ændres lyset i glasset målbart - og signalet sendes af sted. 
+»Vi regner med at kunne reducere udetiden for vores medarbejdere til det halve«, siger Henrik Vikelgaard fra NESA. Han skønner, at systemet koster det halve i forhold til alternativer.
+Vil sælge ideen
+Teknologien er udviklet gennem det seneste års tid, og de første 100 apparater er ved at blive produceret. Ambitionen er nu at sælge teknologien. 
+NESA og Kasmetic ønsker ikke selv at producere sensorsystemet, men høster gerne royalties af solgte eksemplarer ude i den store verden. For at gøre det ekstra spiseligt for internationale elselskaber, er både kassen og den centrale dims blevet afingeniørificeret af designeren Marianne Tuxen.
+Billig overvågning
+»Vi kan sikkert tjene flere penge på selv at producere, men vi lever af at hjælpe kunderne med skæve teknologiske indgangsvinkler«, siger adm.dir. Allan Berg fra Kasmatic, der har seks ansatte, men derudover trækker på en stribe konsulenter. 
+En fare ved stadig mere liberaliserede elmarkeder er, at der spares på fornyelse og vedligeholdelse af elnettene. NESA og Kasmatic mener, at billig overvågning kan gøre det lettere at prioritere, hvor der skal sættes ind, så forsyningssikkerheden kan opretholdes.

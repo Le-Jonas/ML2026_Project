@@ -1,0 +1,8 @@
+Title: Huller_i_statens_IT-sikkerhed
+Date: 2004-02-02
+Article Type: Danmark
+Author: Hver sjette statslige myndighed har inden for det seneste år konstateret, at uvedkommende har haft adgang til myndighedens IT-systemer eller data. Det viser en undersøgelse fra Danmarks Statistik. Til sammenligning oplever kun tre procent af de private virksomheder uretmæssig indtrængen i IT-systemerne, skriver Morgenavisen Jyllands-Posten. Personlige oplysninger
+Uautoriseret indtrængen i datasystemer kan i værste fald betyde, at uvedkommende får adgang til information om bestemte eller tilfældige borgeres personlige forhold som for eksempel tidligere straf, økonomiske forhold, skilsmissesager med mere. 
+De høje procenter giver anledning til bekymring i Rådet for IT-sikkerhed, som er nedsat af videnskabsministeren. 
+»Uanset om vi taler om den private eller den offentlige sektor, er der ingen tvivl om, at undersøgelsen viser, at IT-sikkerheden ikke er god nok«, siger formand Allan Fischer-Madsen, som dog understreger, at man ikke på grundlag af Danmarks Statistiks opgørelse kan konkludere, at IT-sikkerheden er dårligst i staten.
+

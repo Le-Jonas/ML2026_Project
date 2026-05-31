@@ -1,0 +1,10 @@
+Title: It-systemer_krænker_ældres_rettigheder
+Date: 2004-01-07
+Article Type: Danmark
+Author: Når den kommunale ældrepleje via nye it-systemer udveksler oplysninger om en patient med hospitalet eller den praktiserende læge, sker det som regel uden, at den ældre har givet sit samtykke. 
+Det er ulovligt. Patienten skal i hvert tilfælde give sin tilladelse til at oplysningerne gives videre. 
+Men kravet om samtykke kan spænde ben for udviklingen af nye it-systemer i sundhedssektoren. Vanskeligt at overholde loven
+»Det er vanskeligt at overholde loven til punkt og prikke, når processerne gøres digitale. Samtykkeproblematikken kan sagtens blive en hindring for den videre udvikling af it-løsninger i sundhedssektoren. Især hvis man tolker lovgivningen rigidt«, siger Claus Nielsen fra KL's Kontor for social- og arbejdsmarkedsforhold til Nyhedsmagasinet Danske Kommuner. 
+I Nordjylland har man allerede måtte ændre i en it-løsning på ældreområdet. Projektets ide var netop at udveksle informationer frit mellem læge, sygehus og kommune for at lette arbejdet og skabe bedre kvalitet. Men systemet måtte justeres, så krav om samtykke kunne overholdes. 
+Socialministeriet arbejder i øjeblikket på at afklare, hvad myndighederne må og ikke må i forbindelse med udveksling af oplysninger om ældre.
+

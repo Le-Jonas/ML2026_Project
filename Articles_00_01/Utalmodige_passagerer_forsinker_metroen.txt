@@ -1,0 +1,9 @@
+Title: Utalmodige_passagerer_forsinker_metroen
+Date: 2003-10-27
+Article Type: Danmark
+Author: Metroen har ikke haft det nemt - og passagerne har sukket over, at softwaren ikke virkede, at strømmen røg og en dør faldt af toget, så driften igen og igen måtte indstilles, men nogle af forsinkelserne, der giver sure passagerer på perronerne skyldes faktisk passagerer. 
+Tredje gang man sætter foden i en dør, der er ved at lukke, giver døren op. Den forbliver åben, indtil den manuelt bliver aktiveret igen - og det tager tid. 
+Mandag morgen måtte et tog rømmes på Nørreport Station, netop fordi man ikke kunne få dørene til at lukke igen. Vil føre statistik
+»Vi oplever det dagligt, og derfor vil vi nu til at føre statistik over den slags forsinkelser«, siger driftssupervisor Thomas Eiersted fra Metroservice. 
+Tredje gang en dør ikke kan lukkes, tror togets computer, at der er kommet en person i klemme, og så skal en medarbejder bruge en nøgle for at lukke døren.
+

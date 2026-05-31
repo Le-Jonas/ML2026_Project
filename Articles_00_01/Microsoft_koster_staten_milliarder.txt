@@ -1,0 +1,30 @@
+Title: Microsoft_koster_staten_milliarder
+Date: 2002-10-09
+Article Type: Økonomi
+Author: Peder Bjerge
+
+Microsoft koster skatteyderne milliarder af kroner. Penge, som staten, amter og kommuner kan spare ved at droppe den amerikanske it-koncern som hovedleverandør af programmer. Det konkluderer ny analyse fra en arbejdsgruppe nedsat under Teknologirådet. 
+ Microsoft dominerer i dag markedet med produkter som Word og Excel, som de fleste offentligt ansatte kender fra deres egen pc-skærm.
+Skift til 'open source'-programmer'
+Analysen anbefaler, at de offentlige myndigheder bør gå over til
+open source
+-programmer, der ofte er gratis at anskaffe for brugerne. 
+ Til sammenligning koster Microsoft tæt på 2.000 kr. per computer om året gennem de offentliges indkøbsaftaler. Kernen i open source er, at koderne bag programmerne - som f.eks. Linux - er offentlige, mens Microsoft for det meste holder koderne hemmelige.
+Mange brugere
+Arbejdsgruppen bag den analyse, som Teknologirådet offentliggør i dag, skønner, at de offentlige myndigheder set over fire år kan spare 3,7 milliarder kroner. Over de næste 12 år kan skatteyderne spare op mod seks milliarder kroner om året. 
+ »Tallene er rigtig store, fordi der er så mange brugere i den offentlige sektor. Vi har på baggrund af tal fra Danmarks Statistik skønnet, at der er op imod en halv million brugere i det offentlige«, siger professor Mogens Kühn Pedersen fra Handelshøjskolen i København, der har deltaget i den fire mand store arbejdsgruppe.
+Microsoft knurrer
+Arbejdsgruppens beregninger vækker aldeles ikke umådeholden jubel i Microsofts danske hovedkvarter i Hellerup. 
+ »Det kan være meget dyrt for det offentlige at få programmerne gratis«, siger Dan Bælum, salgschef i Microsoft Danmark.
+'Vedligeholdelse koster'
+Ifølge Dan Bælum mangler rapporten at tage højde for, hvor dyrt det er at vedligeholde de ellers så fristende gratis produkter, når de er installeret. 
+ Han tager dog forbehold, fordi han har haft meget lidt tid til at læse den nye rapport fra arbejdsgruppen. Han undrer sig over de store besparelser, arbejdsgruppen mener, det offentlige kan spare ved at droppe Microsoft.
+Sælger 'kun' for 400 mio. kr.
+Ifølge Dan Bælum sælger Microsoft for »kun« 400 millioner kroner til offentlige myndigheder, og det harmonerer i hans verden slet ikke med de milliardbesparelser, som arbejdsgruppen er kommet frem til. 
+ »Vi har tidligere spurgt Microsoft om tallene på deres salg til det offentlige, og det har de ikke villet oplyse. Så når de nu siger, at tallet er 400 millioner kroner, så vil jeg gerne se dokumentation for det. Det tal har jeg svært ved at forene med min viden om offentlige myndigheders indkøb fra Microsoft«, siger Mogens Kühn Pedersen. 
+ Men det er ikke kun Teknologirådet, der gør af Microsofts dominans. 
+ Også andre virksomheder snapper Microsoft i hælene. En af it-verdenens absolutte sværvægtere IBM melder sig også på banen med en støtte til Teknologirådets rapport.
+IBM: Open source er godt
+I løbet af sommeren 2002 underskrev IBM en kontrakt med det tyske indenrigsministerium med henblik på at få de tyske myndigheder over på Linux-platformen. 
+ Carl Christian Ægidius, øverste direktør for IBM i Danmark mener ikke, at open source-programmer er dyrere at vedligeholde eller tilpasse for køberne. 
+ Tværtimod peger han på, at open source-programmer er mere fleksible end Microsoft, fordi de er lettere at flytte rundt mellem alle de elektroniske platforme, der sælges på markedet.

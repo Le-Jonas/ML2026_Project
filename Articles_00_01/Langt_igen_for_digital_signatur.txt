@@ -1,0 +1,16 @@
+Title: Langt_igen_for_digital_signatur
+Date: 2003-07-13
+Article Type: Økonomi
+Author: Peder Bjerge
+
+Familiens mindste skal skrives op til vuggestuen. Mor skal melde, at familien er flyttet, og far skal ansøge om boligstøtte. Alt sammen over internettet, fordi Københavns Kommune har indført den digitale signatur på kommunens it-systemer, så københavnerne kan underskrive de nødvendige dokumenter elektronisk og slippe for turen omkring kommunens forvaltninger. København har sammen med Odense, Helsingør og Århus Kommune indført digital signatur. 
+ Men selv om store kommuner har indført den digitale signatur, vil det tage år, før man når regeringens vision om, at alle danskere kan underskrive sig på internettet på samme måde, som de i dag underskriver lejekontrakter, ansøgninger og breve skrevet på hvidt papir. 
+ »Vi har stadig lang tid igen, og det bliver et langt sejt træk. Jeg tror først vi kommer til at se resultater i 2004 og 2005«, siger Jens Ole Back. 
+ Han er projektleder i Den Digitale Taskforce, som er en gruppe af folk fra forskellige ministerier og organisationer samlet under Finansministeriet. Opgaven er at få ministerier, kommuner og andre myndigheder til at udnytte internettet, så de bliver mere effektive og billige. 
+ Jens Ole Back peger på, at det tog mange år, før danskerne tog dankort og internetbanken til sig som den mest almindelige del af hverdagen. Han vurderer, at internettet nu er blevet en så almindelig del af danskernes hverdag, at det kommer til at gå hurtigere med den digitale signatur.
+Langsigtet projekt
+Landets største teleselskab TDC vandt den offentlige opgave med at udbrede den digitale signatur først i 2003. Ifølge Morten Brøgger, vicedirektør i TDC Erhverv har godt 30.000 danskere i dag fået en digital signatur. 
+ »Men de bruger den ikke ret flittigt, fordi de kan kun bruge den på Told & Skat, og det er jo begrænset, hvor mange gange man skal indrapportere noget til dem«, siger Morten Brøgger. 
+ Han peger på, at sammen med kommunerne er Arbejdsmarkedets Tillægspension (ATP) og KMD (Kommunedata) på vej med systemer til den digitale signatur. Han erkender, at projektet med at give alle danskere en digital signatur er langsigtet men tror på, at den store gruppe af danskere vil tage signaturen til sig i løbet af det næste år eller to. 
+ TDC vil i en overgangsperiode tilbyde koncernens kunder både at bruge deres almindelige passwords og en digital signatur. Men efterhånden som kunderne vænner sig til den digitale signatur, vil den blive eneste adgang til de tjenester, som teleselskabet tilbyder over nettet. Både når kunderne klikker sig ind i TDC online musikbutik, og når de læser mails via TDC's hjemmeside. 
+ »Men i nye services, som kommer i fremtiden fra os på internettet, vil kunder kun kunne bruge den digitale signatur«, siger Morten Brøgger, vicedirektør i TDC Erhverv. De nuværende tjenester vil blive omlagt, efterhånden som kunderne har vænnet sig til at bruge den digitale signatur.

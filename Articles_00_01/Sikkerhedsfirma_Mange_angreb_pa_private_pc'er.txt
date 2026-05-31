@@ -1,0 +1,13 @@
+Title: Sikkerhedsfirma_Mange_angreb_pa_private_pc'er
+Date: 2001-11-13
+Article Type: Danmark
+Author: Otte ud af ti pc-brugere, der surfer hjemme fra, udsættes for hackerforsøg. Det viser en ny undersøgelse, som det internationale sikkerhedsfirma Symantec har foretaget i de nordiske lande. I alt 301 brugere blev udstyret med en 'firewall', et program, der sikrer pc'en og samtidig registrerer forsøg på indtrængen i computeren. 
+Undersøgelsen viser også, at hacking-forsøgene er langt mere sofistikerede end ventet. Blandt de største trusler er såkaldte trojanske heste, som stjæler passwords og andre vigtige oplysninger fra computerne. 
+»Ifølge undersøgelsen udsættes mere end hver anden for hacking-forsøg fra de meget skadelige trojanere«, siger Gert Nielsen, sikkerhedsekspert hos Symantec i Danmark. Finske hjemmesider sikrest
+I undersøgelsen deltog 138 svenskere, 62 danskere, 25 finner og 60 nordmænd. Svenskere og nordmænd blev oftest angrebet, mens Danmark var mere sikker og Finland sikrest. 
+Ifølge log-filer fra computerne er Internet generelt 'forurenet', og uanset hvornår eller hvordan man surfer på nettet, er der risiko for et angreb. 
+Undersøgelsen peger dog på, at lande, hvor sproget ikke er meget udbredt, for eksempel Finland, er lidt mindre udsat for angreb, hvis surferne holder sig til Internet-sider på nationalsproget. Onde trojanske heste
+De trojanske heste, der ifølge undersøgelsen var den mest udbredte trussel mod private pc'er, kommer ind i computeren, gemt i programmer, spil eller andre typer af datafiler. 
+De ligger derefter gemt i pc'en og kan i al hemmelighed videresende information. De spredes videre, når man sender filer videre til andre pc'er. 
+De trojanske heste kan også bruges til at ødelægge antivirusprogrammer og dermed åbne for nye angreb.
+

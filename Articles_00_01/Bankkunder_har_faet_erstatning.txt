@@ -1,0 +1,9 @@
+Title: Bankkunder_har_faet_erstatning
+Date: 2003-05-06
+Article Type: Økonomi
+Author: Danske Banks it-nedbrud i marts kostede koncernens kunder 40 til 50 millioner kroner. Og kunderne har nu fået pengene retur. 
+Det oplyser bankens direktør Peter Straarup til Ritzau. Pengene er blevet betalt de kunder, der tabte på Danske Banks nedbrud i it-systemet fra tirsdag den 11. marts om morgenen til fredag morgen den 14. marts. 
+Den redegørelse som Danske Bank lagde frem efter nedbruddet viste, at det fire fejl i det IBM-program, som driver Danske Banks it-systemer, der betød, at mange kunder i Danske Bank ikke kunne komme til deres penge. 
+Det var især tab i relation til betalingsformidling og handel med værdipapirer og valuta, der betød tab for kunderne. Ifølge Danske Banks øverste chef - ordførende direktør Peter Straarup - er flere hundredetusinde transaktioner for milliarder af kroner blevet forsinket. 
+Driftsnedbruddet har fået Danske Bank til at revurdere deres it-system. Og for at undgå lignende nedbrud i fremtiden, vil man nu investere i systemer til sikring mod både fejl i hard- og software.
+

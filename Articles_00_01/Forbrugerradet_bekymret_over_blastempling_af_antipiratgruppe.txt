@@ -1,0 +1,40 @@
+Title: Forbrugerradet_bekymret_over_blastempling_af_antipiratgruppe
+Date: 2003-05-07
+Article Type: Kultur
+Author: Joel Goodstein
+
+Forbrugerrådet mener ikke, at krænkelser af ophavsretten kan begrunde Antipiratgruppens overvågning af internetbrugere, selv om metoden nu er godkendt. Der mangler domstolsafgørelser på området, siger advokat. 
+Det er i orden, at Antipiratgruppen overvåger og registrerer personer, som stiller film og musik frit til rådighed på internettet. Sådan lød Datatilsynets afgørelse i forrige uge. Hertil siger Forbrugerrådet nu, at krænkelser af ophavsretten ikke kan retfærdiggøre den form for registrering.
+Bekæmper ulovlig kopiering
+»Det er overtrædelserne ikke alvorlige nok til«, siger Anette Høyrup, jurist i Forbrugerrådet. 
+Datatilsynet har ansvaret for at administrere persondataloven. Derfor har det også været tilsynets opgave at kontrollere, at registreringen af personer, som angiveligt krænker ophavsretten på internettet, foregik i overensstemmelse med den tilladelse, som Antipiratgruppen tidligere har fået. Gruppen repræsenterer den danske musik- og videobranche og bekæmper ulovlig kopiering og distribution af film og musikværker.
+Registrerede 150 personer
+Datatilsynets afgørelse tager udgangspunkt i registreringen af 150 personer, som ifølge Antipiratgruppen udbød film- og musikfiler på internettet via fildelingstjenesterne Kazaa og eDonkey. De 150 personer blev uden eget vidende opsporet via deres ip-adresse, som er et unikt nummer, hver eneste computer på internettet får tildelt. 
+Med ip-adressen og et print af de udbudte filer fra hver enkelt computer gik Antipiratgruppen til en byretsdommer for at få en kendelse, så internetudbyderne skulle udlevere navn og adresse på de 150 personer. Herefter blev de 150 fildelere præsenteret for et økonomisk krav i forhold til, hvor mange og hvilke filer de stillede til rådighed for andre. Nogle regninger lød på op imod 100.000 kr.
+Det er en politiopgave
+Da de 150 sager blev offentligt kendt, henvendte Forbrugerrådet sig til Datatilsynet for at få en vurdering af metodens lovlighed. Anette Høyrup mener, at det virker krænkende for den almindelige internetbruger, at man kan blive overvåget og registreret af en privat organisation, uden at man ved det. 
+»Vi tager Datatilsynets afgørelse til efterretning, men vi blåstempler ikke Antipiratgruppens metode med at få dommerkendelser og opspore internetbrugere via deres ip-adresser. Vi mener, at det bør være en politiopgave at efterforske eventuelle overtrædelser af ophavsretsloven«, siger Anette Høyrup, som dog understreger, at Forbrugerrådet ikke har interesse i at beskytte personer, der overtræder reglerne for ophavsret. 
+»De skal selvfølgelig retsforfølges, men Antipiratgruppens overvågning rammer så bredt, at man risikerer at registrere personer, der ikke har gjort noget ulovligt«, mener Anette Høyrup.
+Afgørende dommerkendelse
+Hos TDC Privat, som er Danmarks største leverandør af internet til private husstande, siger direktør Allan Christiansen: 
+»For os som internetudbyder er det afgørende i disse sager, at der er en dommerkendelse. Det er vores garanti for, at der har været en uafhængig tredje part inde og vurdere, om der er sket en krænkelse af nogle regler, som betyder, at vi skal udlevere navne og adresser på vores kunder til Antipiratgruppen. Uanset om det er navne på brugere af fildelingsnetværk, nyhedsgrupper eller andre måder, som gør, at der er belæg for en dommerkendelse«.
+Ny persondatalov
+Advokat Per Overbeck, som repræsenterer klienter, der er mødt med erstatningskrav fra Antipiratgruppen, siger om Datatilsynets afgørelse: 
+»Persondataloven er stadig relativt ny, og der har hidtil manglet domstolsafgørelser, som kunne sætte nogle retningslinjer for lovens praktiske anvendelse. Det betyder, at der er meget elastik i fortolkningen af loven, særligt inden for to områder. For det første afvejningen af privatlivets fred - altså beskyttelsen af personlige data - over for kravet om at kunne retsforfølge lovovertrædelser, f.eks. ophavsretsloven. Nu har Datatilsynet så i dette tilfælde sagt, at hensynet til ophavsretsloven er vigtigere end hensynet til privatlivets fred, og det må man være opmærksom på som internetbruger«.
+Data skal slettes
+Det andet interessante aspekt i afgørelsen er ifølge Per Overbeck lovens krav til opbevaring af de indsamlede persondata, nærmere bestemt det tidsrum, det er lovligt at opbevare dem. Her hæfter han sig ved, at Datatilsynets afgørelse lægger det over til Antipiratgruppen at afgøre, hvor længe persondata i de konkrete sager skal opbevares. 
+»Selv om reglerne siger, at data skal slettes hurtigst muligt, kan der jo i praksis gå lang tid, typisk flere år, før der kommer en afgørelse i disse sager. Bliver der indgået forlig? Ender de i retten? Eller bliver de bare lagt til side på advokatkontoret? Her er hverken loven eller Datatilsynets afgørelse præcise i kravene til, hvornår persondata skal slettes«. 
+»Ved at loven bare taler om 'god databehandlingsskik', har Folketinget undladt at tage stilling til problemet og overladt det til domstolene. Der vil gå mange år, før en præcis retsstilling bliver fastlagt«, siger Per Overbeck.
+»Forventlig praksis«
+Hos Johan Schlüter advokatfirma, som repræsenterer Antipiratgruppen, siger advokat Torben Steffensen, at Datatilsynets afgørelse var 'forventelig' og blot en bekræftelse på den hidtidige praksis. 
+»For os er det dagligdag at opspore personer, som vi mener overtræder ophavsretsloven«, siger han. Persondatalovens krav om, at personoplysninger ikke må opbevares længere, end det er nødvendigt af hensyn til sagsbehandlingen, er dog ikke ensbetydende med, at personoplysningerne forsvinder fra Antipiratgruppens advokatkontor. 
+»Som det er normal praksis i alle vores sager, bliver akterne i de 150 sager gemt i vores arkiv i de fem år, der går indtil normal forældelse. Det er både et krav og nødvendigt af hensyn til en eventuel genoptagelse af konkrete sager inden for forældelsesfristen«, siger Torben Steffensen. 
+Han forventer i øvrigt, at en enkelt sag ud af de 150 kan havne i retten, da det indtil nu ikke har været muligt at opnå et forlig. Bliver retssagen en realitet, kan der gå yderligere 1-2 år, før der kommer en endelig afgørelse af Antipiratgruppens krav ved en domstol.
+Ingen krænkelse af privatlivet
+I Datatilsynet begrunder direktør Janni Christoffersen tilsynets afgørelse på følgende måde: »Forudsætningen for vores undersøgelse har været, at brugerne af fildelingstjenesterne frivilligt har offentliggjort materiale på deres pc'er for andre brugere. Derfor er det ikke vores vurdering, at Antipiratgruppens metode skal bedømmes i forhold til straffelovens paragraf 263 om 'uberettiget' brud på privatlivets fred«. 
+»Med hensyn til fristerne for opbevaring af personoplysninger kan vi ikke sætte helt præcis tidsangivelse på, hvor længe Antipiratgruppen må opbevare de indsamlede persondata, fordi sager kan have forskellige juridiske forløb. Det afgørende er, at persondata slettes, så snart sagsbehandlingen er afsluttet. I det ligger også, at Antipiratgruppen hurtigst muligt skal afslutte hver enkelt sag«.
+Datatilsyn foretager inspektioner
+Til kravet om, at advokater skal opbevare sagsakter i fem år indtil fristen for forældelse, siger Janni Christoffersen: 
+»Man kan ikke udelukke, at kravene til advokater om at opbevare sagsakter i fem år er et sagligt hensyn, som kan begrunde, at personoplysningerne ikke slettes, men lægges ind i advokatens sagsarkiv. Det er dog en særlig situation, som opstår, fordi det er et advokatkontor, som har fået tilladelse til at indsamle persondata«. 
+Janni Christoffersen oplyser i øvrigt, at Datatilsynet jævnligt foretager inspektioner for at se, om de dataansvarlige instanser følger de regler, som gælder for indsamling og opbevaring af persondata. 
+Sletning af persondata vil således være et centralt element ved et inspektionsbesøg hos Antipiratgruppen.

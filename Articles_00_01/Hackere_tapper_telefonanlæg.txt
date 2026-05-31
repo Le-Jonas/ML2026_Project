@@ -1,0 +1,17 @@
+Title: Hackere_tapper_telefonanlæg
+Date: 2001-07-16
+Article Type: Danmark
+Author: Peter Suppli Benson og Peder Bjerge
+
+Politiken tirsdag:
+Hackeren kom i al ubemærkethed om natten og efterlod sig en telefonregning på en million kroner efter bare fire dage. Sådan endte det hackerbesøg, som en stor dansk virksomhed for nylig blev udsat for. Svindlen blev udelukkende opdaget, fordi firmaets telefonregning pludseligt eksploderede. Men andre virksomheder bliver tappet, uden at de opdager det, fordi det drejer sig om mindre iøjnefaldende beløb. 
+ Danmark er blevet et let og yndet mål for udenlandske hackere, og virksomheder snydes for et ukendt antal millioner kroner hvert år, fordi tyvene tapper telefonanlæggene.
+Svindlen vokser
+»Den elektroniske svindel, blandt andet på teleområdet, vokser kraftigt. Vi efterforsker en sag, hvor hollandske hackere brød ind i telefonsystemet hos et dansk selskab og stjal telefontid for en million kroner. Vi tror, at telefontiden er solgt videre til et udenlandsk teleselskab«, siger Ole Wagner fra Københavns Politis Bedrageriafdeling, der af hensyn til efterforskningen ikke vil oplyse navnet på virksomheden. 
+ Det er firmaernes brug af computerstyrede omstillingsanlæg, der har åbnet for telesvindlen. 
+ »Langt de fleste danske virksomheder har ingen sikkerhedspolitik og beskytter sig ikke mod hackere. Danmark er kendt som et land, hvor det er let at hacke sig ind i systemerne, derfor har de udenlandske hackere et godt øje til os. Omfanget af svindel er formentligt langt større, end vi aner, fordi det kun sjældent opdages«, siger sikkerhedskoordinator Preben Andersen fra Uni-C, der driver en række statslige netværk.
+Så let som ingenting
+Ifølge Preben Andersen er det så let som ingenting at komme ind i de fleste virksomheders computersystemer, herunder at få adgang til telefonanlægget. Hackerne finder de nødvendige 'hacker-programmer' på Internettet. 
+ »Vi kan konstatere, at den elektroniske kriminalitet vokser så hurtigt, at lovgivningen dårligt kan følge med de kriminelle, der konstant finder nye metoder. Ofte er de væk, når vi først hører om problemerne, og så er det svært at finde de skyldige, selvom vi også arbejder sammen med Interpol«, siger Ole Wagner fra Københavns Politis Bedrageriafdeling. 
+ Politiet og teleselskaberne kæmper i det hele taget med voksende problemer på teleområdet. En frisk rapport fra det britiske teleanalysefirma Analysys viser, at de europæiske teleselskaber hvert år snydes for indtægter på op mod 200 mia. kroner. 
+ »Det er helt klart, at mulighederne for svindel er blevet mange flere. Vi regner med et vist svind og kan se, at mange forsøger at tanke brugte taletidskort og købe mobiltelefoner ved hjælp af forfalskede ID-kort«, siger sikkerhedschef Tommy Jensen fra Sonofon.
