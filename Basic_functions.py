@@ -1,6 +1,7 @@
 import numpy as np
 from scipy.sparse import coo_matrix
 import os
+from sklearn.metrics import roc_auc_score, roc_curve
 
 import requests
 from bs4 import BeautifulSoup
@@ -396,3 +397,18 @@ def train_val_test_split(data, labels, val_size=0.2, test_size=0.1):
     labels_test = labels[train_count + val_count:]
     
     return data_train, labels_train, data_val, labels_val, data_test, labels_test
+
+def calculate_tpr_fpr_auc(y_true, y_scores):
+    fpr = np.linspace(0, 1, 50000)
+    tpr = np.zeros_like(fpr)
+    for i in range(10):
+        fpr_part, tpr_part, _ = roc_curve(y_true, y_scores[:, i], pos_label=i)
+        old_idx = 0
+        for j, fpr_subpart in enumerate(fpr_part):
+            idx = np.searchsorted(fpr, fpr_subpart)
+            tpr[old_idx:idx] += tpr_part[j]
+            old_idx = idx
+    auc = roc_auc_score(y_true, y_scores, multi_class="ovr", average="macro")
+    tpr /= 10
+    tpr[-1] = 1
+    return tpr, fpr, auc
