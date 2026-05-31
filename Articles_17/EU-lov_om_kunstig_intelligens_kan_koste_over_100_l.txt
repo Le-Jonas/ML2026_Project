@@ -1,0 +1,9 @@
+Title: EU-lov_om_kunstig_intelligens_kan_koste_over_100_l
+Date: 2023-04-13
+Article Type: Internationalt
+Author: Et EU-forbud mod diskrimination i kunstig intelligens kan medføre, at livreddende teknologi på alarmcentralen må opgives, erkender EU-parlamentariker.
+
+Jens Bostrup
+Journalist
+Når patienter i Region Hovedstaden ringer til alarmcentralen, sidder der en kunstig intelligens og lytter med på samtalen. Den er trænet til at høre symptomer på et forestående hjertestop ved at mønstre i sproget, der minder om tidligere opkald.
+Men en ny EU-lov om kunstig intelligens kan i værste fald føre til, at systemet må stoppe. Europa-Parlamentet arbejder nemlig på at indføre et generelt forbud mod diskrimination. Systemet, der er udviklet af danske Corti, er trænet ved hjælp af virkelige opkald til 112. Derfor virker maskinen bedre på etniske danskere end på patienter, der taler med accent.

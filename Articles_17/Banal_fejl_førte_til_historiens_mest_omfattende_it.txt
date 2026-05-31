@@ -1,0 +1,9 @@
+Title: Banal_fejl_førte_til_historiens_mest_omfattende_it
+Date: 2024-07-19
+Article Type: Tech
+Author: Aldrig er så mange blevet ramt af samme it-fejl på samme tid som fredag, da en opdatering af udbredt sikkerhedssoftware fik computere til at vise it-dødens blå skærm.
+
+Magnus Bredsdorff
+Klimaredaktør
+Fredagens it-nedbrud, som lagde computere hos alt fra flyselskaber til hospitaler og butikker ned over hele verden, er sandsynligvis det største i historien.
+»Det er første gang, at vi ser en enkelt hændelse, som har så store konsekvenser«, siger Jens Myrup Pedersen, professor i cybersikkerhed ved Aalborg Universitet.

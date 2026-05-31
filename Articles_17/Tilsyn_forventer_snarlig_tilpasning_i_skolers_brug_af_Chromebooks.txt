@@ -1,0 +1,20 @@
+Title: Tilsyn_forventer_snarlig_tilpasning_i_skolers_brug_af_Chromebooks
+Date: 2023-01-23
+Article Type: Danmark
+Author: Mandag er sidste dag, kommuner kan sende materiale, der viser, at Google Workspace kan indgå lovligt i skolen.
+
+Arbejdet med at finde ud af, hvorvidt undervisningsprogrammet Google Workspace lovligt kan bruges i landets skoler, er kommet tættere på.
+Mandag er sidste dag, hvor landets kommuner kan indsende dets begrundelser for at bruge programmet i 52 kommuner.
+Det betyder, at Datatilsynet skal i gang med at kigge på, om det er lykkedes for kommunerne at gøre det inden for rammerne af loven.
+»Der har ikke tidligere været fuldstændig klarhed over, hvad børnenes data blev brugt til. Og der har også været problemer med, at børnenes data rent faktisk blev brugt til nogle formål, som ikke lå inden for det, folkeskoleloven gav lov til.
+»Så de ting forventer Datatilsynet, at kommunerne har fået styr på, fået beskrevet og en plan for at gøre godt igen, Allan Frank, it-sikkerhedsspecialist og jurist hos Datatilsynet.
+Det er 52 ud af landets 98 kommuner, som i dag bruger Google Workspace og Chromebooks og er en del af sagen. I efteråret gik KL, der er en forening for landets kommuner, ind i sagen.
+Kommunerne er blevet pålagt at finde løsninger i forhold til brugen af Google Workspace i flere af landets folkeskoler.
+Datatilsynet har tidligere vurderet, at hverken Google eller kommunerne havde tilstrækkeligt styr på børnenes data.
+Allan Frank kan endnu ikke sige, hvornår styrelsen vil være klar med en vurdering af, om skolerne fortsat kan bruge Googles program.
+Viser det sig, at der stadig er kommuner med planer, der ikke lever op til regler om datasikkerhed, så forventer han, at det bliver løst hurtigt muligt.
+»I det omfang det viser sig, at det ikke på nuværende tidspunkt er helt pingpong, forventer vi en klar tidsplan med en meget, meget kort frist til at få fikset de problemer, der måtte være.
+»Vi ønsker ikke at køre med nogle ulovlige programmer. Slet ikke når det er børns data, det gælder om her, siger Allan Frank.
+ritzau
+fortsæt med at læse
+Chromebook-afgørelse udsættes igen

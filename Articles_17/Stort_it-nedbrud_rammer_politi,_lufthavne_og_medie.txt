@@ -1,0 +1,28 @@
+Title: Stort_it-nedbrud_rammer_politi,_lufthavne_og_medie
+Date: 2024-07-19
+Article Type: Tech
+Author: Globalt it-nedbrud har ramt lufthavne og banker i Australien. Også USA og Tyskland er ramt.
+
+Josephine Mosbæk Quinones
+Journalist
+og Ritzau
+Et større it-nedbrud har fredag ramt adskillige lande verden over.
+Der er et globalt nedbrud, som skyldes en opdatering af antivirusprogrammet CrowdStrike. Opdateringen får computere, der bruger Microsofts styresystem Windows 10, til at gå ned.
+Til Politiken siger Microsoft, at de endnu ikke kan sige noget om omfanget af nedbruddet.
+Til TV 2 fortæller Microsoft, at de forventer, at en løsning er på vej. Direktøren i firmaet CrowdStrike skriver på X, at de har fundet problemet, og at de er i gang med at udbedre problemet.
+De første meldinger om problemer kom fra Australien, hvor blandt andet politiet, supermarkeder og lufthavnene i Canberra og Sydney er ramt. Det skriver det australske medie ABC News på sin hjemmeside. Nedbruddet har også ramt lande i Europa samt USA, hvor flere flyskaber er ramt. Turkish Airlines har måtte aflyse 84 afgange. Nyhedsformidlingen af aktiehandlen i London er også påvirket, det skriver BBC.
+Herhjemme har nedbruddet også forårsaget problemer.
+Tidligere skrev Hovedstadens Beredskab, at de oplevede problemer med at modtage informationer fra brandalarmer. Men til TV 2 melder de nu, at der er »tegn på at teknikken går i den rigtige retning«.
+I Københavns Lufthavns mærker de også nedbruddet. Flere passagerer er nødt til at tjekke ind manuelt, og på Kastrup Lufthavns hjemmeside kan man se, at flere fly er forsinket. Til TV 2 fortæller SAS, at de forventer »mange forsinkelser«. DSB’s hjemmeside har tidligere på dagen været nede, men den er oppe igen.
+I Tyskland er al trafik til og fra Berlin Lufthavn indstillet foreløbigt indtil klokken 10.00 på grund af tekniske problemer. Også Schiphol-lufthavnen i den hollandske hovedstad, Amsterdam, er påvirket.
+Billeder fra et supermarked i Canberra, viser, at selvbetjeningskasserne er ude af drift, mens skærmene, der viser afgange og ankomster, er gået ud i lufthavnen i Sydney.
+Også i lufthavnen i Canberra er der problemer. Her er der meldinger om fly, der ikke får lov at flyve på grund af problemer med it-systemerne, skriver ABC News.
+Ifølge mediet påvirker nedbruddet en række australske tv-stationer.
+Overblik
+Globalt IT-nedbrud
+Et massenedbrud har ramt flere lande verden over. Nedbruddet rammer flere forskellige instanser, men særligt lufthavne, togstationer, beredskaber og supermarkeder er påvirket.
+og Ritzau
+fortsæt med at læse
+Microsoft arbejder på at løse it-nedbrud midt i globalt kaos
+Københavns Lufthavn oplever problemer med nogle it-systemer
+It-nedbrud blokerer automatiske brandalarmer i København

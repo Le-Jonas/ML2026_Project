@@ -1,0 +1,22 @@
+Title: Københavns_Lufthavn_oplever_problemer_med_nogle_it
+Date: 2024-07-19
+Article Type: Tech
+Author: Drift i Københavns Lufthavn er indtil videre normal, men nogle passagerer skal indtjekkes manuelt, lyder det.
+
+I Københavns Lufthavn oplever man lige som i flere andre lufthavne verden over problemer med ’nogle it-systemer’.
+Men indtil videre er driften normal.
+Det fortæller Julie Pi Boll, der er pressevagt ved lufthavnen.
+»Der er nogle selskaber, som er nødt til at tjekke passagerer ind manuelt, og det tager lidt længere tid end normalt. Men driften fungerer overordnet ind til videre, siger hun.
+Også i Billund Lufthavn er der problemer med nogle af it-systemerne, fortæller Dan Prangsgaard, der er senior manager for presseafdeling i lufthavnen.
+»Det er meget de samme problemer som i Københavns Lufthavn. Det tager lidt længere tid, fordi nogle skal tjekkes manuelt ind, men driften kører sådan set meget godt.
+»Det er it-systemerne hos nogle af luftfartsselskaberne, der har problemer, siger han.
+Et it-nedbrud, der har ramt computere verden over på grund af en fejlslagen opdatering af antivirusprogrammet CrowdStrike, har fredag morgen dansk tid givet problemer for Microsoft-computere.
+Luftfartsselskabet SAS skriver blandt andet, at det har problemer med online bookinger af flybilletter, skriver det norske nyhedsbureau NTB.
+Også luftfartsselskaberne Lufthansa og Air France har meldt om problemer.
+I Danmark har nedbruddet også givet problemer for Hovedstadens Beredskab, der ikke kan modtage de såkaldte ABA-alarmer.
+De bliver normalt sendt automatisk direkte til alarmcentralen, hvis en branddetektor på en større virksomhed eller institution registrerer røg.
+Også DSB er ramt, da dennes hjemmeside er nede, og der kortvarigt har været problemer med DSB-appen.
+Center for Cybersikkerhed (CFCS) skriver på det sociale medie X, at det er ’opmærksom på, at der i øjeblikket er problemer flere steder med nogle Windows-klienter’.
+»Det skyldes sandsynligvis en fejl i en opdatering af sikkerhedsprogrammet Crowdstrike Falcon.
+»CFCS følger naturligvis situationen nøje, lyder det i opdateringen.
+ritzau

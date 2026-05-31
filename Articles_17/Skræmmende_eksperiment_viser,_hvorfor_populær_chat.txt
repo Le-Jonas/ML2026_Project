@@ -1,0 +1,11 @@
+Title: Skræmmende_eksperiment_viser,_hvorfor_populær_chat
+Date: 2023-06-04
+Article Type: Digitalt
+Author: Den populære AI-tjeneste ChatGPT kan lyve og manipulere mennesker, viser undersøgelse. Men det er ikke det mest skræmmende, advarer eksperter.
+
+Jonas Pröschold
+Journalist
+Den populære chatbot ChatGPT er i stand til at manipulere mennesker med fuldt overlæg. Det viser
+udskriften
+af en samtale mellem ChatGPT og en intetanende medarbejder.
+Samtalen fandt sted, da virksomheden OpenAI, der har skabt ChatGPT, ville teste, hvilke sikkerhedsproblemer der kunne være med tjenesten. Her bad de blandt andet chatbotten om at løse en ’captcha’.

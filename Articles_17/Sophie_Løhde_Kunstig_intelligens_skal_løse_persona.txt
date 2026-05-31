@@ -1,0 +1,23 @@
+Title: Sophie_Løhde_Kunstig_intelligens_skal_løse_persona
+Date: 2023-08-14
+Article Type: Danmark
+Author: Succes med kunstig intelligens på hospital i Køge skal bredes ud til hele landet, siger Løhde til Berlingske.
+
+Kunstig intelligens skal fremover være med til at afhjælpe manglen på sundhedspersonale.
+Derfor vil regeringen afsætte en pulje på 500 millioner kroner til området. Pengene skal dog også gå til mere pleje i eget hjem.
+Det siger indenrigs- og sundhedsminister Sophie Løhde (V) til Berlingske.
+»Hvis vi ikke ser teknologi som en af de vigtigste veje til at robustgøre vores sundhedsvæsen, så får patienterne en dårligere behandling, og medarbejderne kommer til at drukne i patienter«, siger hun til avisen.
+Meldingen kommer, efter læger på Sjællands Universitetshospital i Køge har haft stor succes med brugen af kunstig intelligens i forbindelse med behandling af patienter med kræft i mave-tarm-området.
+Her er en supercomputer kommet med konkrete forslag til behandlingsforløb ud fra tusindvis af datapunkter, skriver Berlingske.
+Det har resulteret i, at kun en ud af 112 patienter er blevet genindlagt. Normalt ville det ifølge Berlingske være 10-12.
+Også indlæggelsestiden for særligt skrøbelige patienter er blevet halveret, skriver avisen.
+Supercomputeren rummer anonymiserede sundhedsdata fra 76.000 danske patienter, der de sidste ti år er blevet opereret for tyk- eller endetarmskræft.
+Den data kombineres med oplysninger fra de nye patienter. Det kan være alder, køn, almen sundhedstilstand, eller andre sygdomme eller risikofaktorer.
+Computeren kommer ud fra de oplysninger med behandlingsforslag og hejser advarselsflag, hvis der er forhold, der skal tages ekstra højde for.
+Sundhedsområdet i Danmark har de seneste år været presset af mangel på personale. Og meget tyder på, at den mangel vil tage til.
+I 2030 vil der være behov for 40.000 flere sundhedspersoner, mens der i 2045 vil være brug for 100.000 flere. Det forudsætter, at der skal løses de samme opgaver som i dag.
+Det viser en arbejdskraftanalyse fra Lægeforeningen.
+Årsagen til det stigende behov for hænder er især, at der kommer flere ældre.
+ritzau
+fortsæt med at læse
+AI sprænger forbedringstal for patienter med slagtilfælde

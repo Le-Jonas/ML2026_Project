@@ -1,0 +1,19 @@
+Title: Dansk_it-gigant_taber_en_milliard_kroner_i_børsvær
+Date: 2024-02-26
+Article Type: Økonomi
+Author: Netcompany straffes igen mandag hårdt af investorerne efter hackerangreb, som har ført til læk af data.
+
+Aktien i den danske it-gigant Netcompany fortsætter mandag sit kursfald, efter at virksomheden fredag bekræftede at have været udsat for et hackerangreb over for mediet Version2.
+Aktien falder således omkring klokken 16.00 med knap fire procent siden børsåbning mandag morgen, hvor kursen var 295.
+Det er gruppen Zyndicate, som hævder at stå bag angrebet, hvor store mængder data er blevet lækket. Ifølge mediet har gruppen lækket blandt andet kildekoder, scripts og adgangskoder til udviklingsprogrammer.
+Jacob Pedersen, aktieanalysechef i Sydbank, vurderer ifølge
+Berlingske
+, at der er blevet skåret over en milliard af Netcompanys børsværdi af siden afsløringen fredag.
+Kildekoder er indholdet af et computerprogram skrevet som sætninger i et programmeringssprog, mens scripts er et stykke kode, der kan udføre en specifik funktion.
+Zyndicate truer samtidig med at have adgang til filer fra blandt andet Skattestyrelsen, lyder det.
+Også fredag eftermiddag dykkede aktien i Netcompany med omkring fire procent, men var umiddelbart efter nyheden nede med over syv procent.
+Pressechefen i Netcompany, David Tarp, siger i en skriftlig kommentar, at tyveriet af kildekode ikke har påvirket drift eller services.
+»Den nyligt lækkede fil stammer fra samme tyveri af kildekode til Netcompany-værktøjer samt simple manualer. Vi ved, hvordan tyveriet har fundet sted. Det er vigtigt at understrege, at vi på forhånd har foretaget foranstaltninger, der gør, at de stjålne filer ikke kan bruges til at opnå uautoriseret adgang til kørende produktionssystemer. Vi er i tæt dialog med de kunder, som er nævnt i vores kildekode og samarbejder med myndighederne«.
+ritzau/politiken
+fortsæt med at læse
+Datatilsynet politianmelder firma bag digital postkasse

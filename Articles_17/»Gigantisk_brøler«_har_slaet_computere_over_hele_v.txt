@@ -1,0 +1,11 @@
+Title: »Gigantisk_brøler«_har_slaet_computere_over_hele_v
+Date: 2024-07-19
+Article Type: Tech
+Author: Opdatering af store virksomheders antivirusprogrammer har fået Windows-computere til at gå i sort. Ifølge dansk ekspert kan det tage lang tid at få dem op at køre igen.
+
+Magnus Bredsdorff
+Klimaredaktør
+Det er fejlen, som bare ikke må ske. »En gigantisk brøler« og »et digitalt mareridt« for blot at videregive nogle af de udtryk, som it-sikkerhedschef Peter Kruse fra selskabet Clever benytter.
+Den amerikanske it-sikkerhedsvirksomhed Crowdstrike har mange af verdens største virksomheder som kunder til sin antivirussoftware Falcon. Men da Crowdstrike rullede en ny opdatering af programmet ud på pc’er med Windows-styresystemet, fik det ikke bare et ukendt, men meget stort, antal af computerne til at gå ned. Computerne viser den for Microsofts brugere frygtede blå fejlskærm, på engelsk kendt som
+Blue Screen of Death
+.

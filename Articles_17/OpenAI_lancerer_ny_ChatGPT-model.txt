@@ -1,0 +1,18 @@
+Title: OpenAI_lancerer_ny_ChatGPT-model
+Date: 2024-09-12
+Article Type: Tech
+Author: Techvirksomheden OpenAI starter forfra med en ny og klogere version af chatbotten ChatGPT.
+
+Artiklen er opdateret kl. 21.55.
+Techvirksomheden OpenAI lancerer en ny version af ChatGPT, der er bedre til at løse svære problemer end tidligere modeller, når det kommer til kodning og matematik, oplyser OpenAI ifølge Reuters.
+Den nye version af ChatGPT kommer til at svare langsommere, men kan løse sværere opgaver, skriver virksomheden bag.
+Opdateringen har fået navnet OpenAI o1. Navnet er et udtryk for, at OpenAI starter forfra med den nye version. Opdateringen kommer samtidig i en mindre og billigere version med navnet OpenAI 01-mini.
+»Vi har trænet de nye versioner til at være længere tid om at svare, ligesom et menneske ville gøre«, skriver OpenAI på sin hjemmeside.
+Ifølge virksomheden kan den nye version af chatbotten svare på linje med en ph.d.-studerende i spørgsmål om blandt andet kodning og matematik.
+»Igennem træning kan den lære at forbedre sin tankeproces og prøve forskellige strategier og opdage sine egne fejl«, lyder det.
+Det er anden gang i år, at OpenAI lancerer en ny version af ChatGPT. I maj lancerede firmaet modellen GPT-4o, der skulle være i stand til at føre en realistisk samtale, ligesom den skulle kunne interagere på tværs af tekst og visuelle indtryk.
+Chatbotten har hurtigt fået millioner af brugere verden over. Og herhjemme har cirka hver anden prøvet kræfter med den kunstigt intelligente hjælper, viste en undersøgelse af ChatGPT foretaget af Analyse Danmark for Ingeniørforeningen IDA i begyndelsen af august. Resultaterne var baseret på svar fra omkring 2.000 respondenter i alderen 18 til 70 år.
+Techvirksomheden OpenAI lancerede ChatGPT i november 2022. Den populære chatbot ChatGPT benytter AI ved hjælp af en såkaldt sprogmodel, der gør, at den kan svare og skrive på en måde, der minder om menneskeskabt tekst.
+ritzau
+fortsæt med at læse
+Elon Musk dropper søgsmål mod OpenAI

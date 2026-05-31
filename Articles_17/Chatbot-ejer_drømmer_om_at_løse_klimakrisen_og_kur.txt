@@ -1,0 +1,20 @@
+Title: Chatbot-ejer_drømmer_om_at_løse_klimakrisen_og_kur
+Date: 2023-05-16
+Article Type: Tech
+Author: Der er store muligheder, men også potentielle farer ved brugen af kunstig intelligens, erkender ChatGPT-chef.
+
+Den amerikanske Kongres tog tirsdag eftermiddag dansk tid hul på en høring af chefen for OpenAI, der er selskabet bag chatbotten ChatGPT.
+Det skriver den amerikanske avis The Washington Post og britiske BBC.
+OpenAI’s administrerende direktør, Sam Altman, erkendte under høringen helt generelt, at kunstig intelligens skal håndteres med omtanke.
+Altman sagde blandt andet, at der er brug for, at forskellige landes regeringer regulerer brugen af kunstig intelligens.
+Desuden nævnte han sine store ambitioner for, hvordan den avancerede teknologi måske kan komme til gavn i fremtiden.
+»Vi arbejder på at bygge værktøjer, der en dag kan hjælpe os med nye opfindelser og gøre noget ved nogle af menneskehedens største udfordringer - herunder klimaforandringer og at finde en kur mod kræft«, lød det.
+Ved høringens start beskrev den republikanske senator Josh Lawley kunstig intelligens som ’en af de vigtigste teknologiske opfindelser i menneskehedens historie’. Det skriver BBC.
+Senatoren spurgte herefter, om kunstig intelligens i fremtiden vil blive sammenlignet med opfindelsen af den trykte presse - altså som noget fordelagtigt og nyttigt - eller med opfindelsen af atombomben.
+Altman svarede, at det har potentiale til at kunne sammenlignes med den trykte presse, men ’at vi skal samarbejde for, at det ender sådan’.
+BBC’s teknologiredaktør har tirsdag vurderet høringen af OpenAI-chefen.
+»Han er ikke overraskende optimistisk om fordelen ved kunstig intelligens. Men han indrømmer, at han også har bekymringer«, skriver redaktøren, Zoe Kleinman, efter høringens start i Kongressen.
+Hun noterer sig desuden, at høringen foregår i en relativt venlig tone.
+Kongressens høringer af tech-chefer - eksempelvis Facebooks Mark Zuckerberg - har ellers før været præget af en ret anspændt stemning.
+ChatGPT kan blandt andet svare på spørgsmål og udføre komplekse opgaver eller eksempelvis skrive noveller, sange og digte.
+ritzau

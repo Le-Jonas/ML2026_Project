@@ -1,0 +1,39 @@
+Title: Det_Hvide_Hus_giver_regeringskontorer_30_dage_til_at_slette_TikTok
+Date: 2023-02-27
+Article Type: Tech
+Author: Også Canada har udstedt et forbud mod den kinesiske app på regeringsansattes telefoner.
+
+Det Hvide Hus har mandag givet regeringskontorer 30 dage til at sikre, at den kinesiskudviklede app TikTok ikke er at finde på nogle føderale enheder eller systemer, skriver nyhedsbureauet Reuters. Fra præsidentens kontorer i Washington D.C. lyder det i et vejledningsnotat, at kontorerne skal sikre amerikansk data ved at slette appen.
+I december vedtog den amerikanske kongres, at præsident Biden inden for 60 dage skulle lave direktiver på området. Det er det seneste af en række tiltag, der skal mindske brugen af kinesisk teknologi på grund af frygten for den nationale sikkerhed, da man er bange for, at den kinesiske regering spionerer på amerikanere. Sidste år blev TikTok også forbudt på telefoner, der bruges af medarbejdere i Repræsentanternes Hus og Senatet.
+Det amerikanske forbud mod TikTok på regeringsenheder gælder ikke, hvis appen bliver brugt til aktiviteter, der har at gøre med national sikkerhed, politiarbejde eller sikkerhedsvurderinger. Brugen skal dog godkendes af ledelsen.
+TikTok, som er ejet af ByteDance, har tidligere udtalt, at den amerikanske frygt er baseret på misinformation.
+Fakta
+TikTok
+TikTok minder om
+en blanding af Instagram, YouTube og Snapchat. TikTok henvender sig på verdensplan især til unge mellem 16 og 24 år. I Danmark er målgruppen lavere. De fleste brugere er 9-14 år.
+Formen er små videoer
+på op til 60 sekunder, som kan tilsættes musik eller brugerskabt lyd, filtre, tekst og emojis.
+TikTok er det hurtigst
+voksende sociale medie i verden, og har over 800 millioner aktive brugere. Ejeren af TikTok er det kinesiske firma ByteDance.
+Kilde: Red Barnets Leksikon
+Flere regeringskontorer – herunder Det Hvide Hus, Forsvarsministeriet og Homeland Security, der varetager landets interne sikkerhed – har allerede forbudt brugen af TikTok.
+Tidligere mandag annoncerede Canada også, at TikTok ikke længere må være på regeringsudstedte enheder på grund af den »uacceptabelt« store risiko i forbindelse med privatliv og sikkerhed.
+»Det kan være det første skridt, men det kan også være det eneste skridt, vi behøver at tage«, sagde premierminister Justin Trudeau og fortalte videre, at bandlysningen af appen måske ville brede sig til private brugere.
+I sidste uge forbød EU-kommissionen og ministerrådet appen på alle ansattes telefoner.
+I Danmark har flere partier bandlyst TikTok på deres politikeres og ansattes arbejdstelefoner, efter at Center for Cybersikkerhed (CFCS) har frarådet ansatte i staten at have appen TikTok installeret på tjenstlige enheder, herunder mobiltelefoner.
+Ifølge Jyllands-Posten har flere ministerier også droppet TikTok, men
+der er ikke udstedt noget generelt forbud af regeringen
+. For eksempel må Forsvarsministeriets ansatte fortsat have appen på deres arbejdstelefoner.
+Det undrer Jørn Guldberg, der er it-sikkerhedsekspert i ingeniørforeningen IDA og medlem af bestyrelsen for Rådet for Digital Sikkerhed.
+»Regeringen bør i mine øjne forbyde Tiktok helt og ikke kun anbefale det«, siger han til Jyllands-Posten og tilføjer:
+»Det er vigtigt, at hele statsadministrationen fravælger at bruge Tiktok. Der er en risiko for, at appen bliver brugt til at aflytte folk. Eller til at lave den slags angreb, som udnytter en lille adgang til din telefon til at afsøge en adgang til en større del. Det kan være en første trædesten til at hacke statsadministrationen.«
+André Ken Jakobsson, der er forsker i hybrid krigsførelse ved Syddansk Universitet, fastslog søndag over for Politiken, at han slet
+ikke vil anbefale nogen
+at have TikTok installeret på deres telefon.
+»Hvis TikTok udvikler sig til at blive lige så stort som Facebook eller Instagram, kommer appen til at ligge på børn og unges telefon gennem måske 15 til 20 år. Så er der godt nok meget personfølsom data, der ryger i kinesiske datalagre, og det vil jeg være utroligt bekymret for på alle måder«, sagde han og uddybede:
+»Jeg ser et kæmpe problem for børn og unge, der vokser op, og som voksne kommer til at sidde i vigtige stillinger i samfundet. Men også helt individuelt i forhold til evnen til at kunne forsvare sit privatliv, er det et problem«.
+ritzau/Politiken
+fortsæt med at læse
+Digitaliseringsminister sletter sin TikTok-arbejdsprofil
+'Kongen af TikTok' har slettet sin TikTok-app
+Partier bandlyser TikTok – og regeringen opfordres til at gøre det samme

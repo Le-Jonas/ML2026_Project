@@ -1,0 +1,18 @@
+Title: Datatilsynet_vil_undersøge_Rejsekort-apps_handteri
+Date: 2024-07-10
+Article Type: Danmark
+Author: Ifølge Datatilsynet er der problematikker med den nye Rejsekort-app, som tilsynet gerne vil undersøge.
+
+Datatilsynet vil undersøge den nye Rejsekort-apps indsamling og opbevaring af personoplysninger.
+Det oplyser jurist og it-sikkerhedsspecialist hos Datatilsynet, Allan Frank, til Berlingske:
+»Vi kan se nogle problemstillinger, som vi er nødt til at få noget dokumentation for og høre deres vurdering af. Den dokumentation, vi har fået, har ikke fuldstændig overbevist os om, at det var i overensstemmelse med de gældende regler. Derfor har vi behov for mere«.
+Allan Frank understreger over for avisen, at det er for tidligt at sige, om appen bryder loven. Men Datatilsynet vurderer, at det er alvorligt nok til, at der er behov for en undersøgelse.
+Fagbladet Ingeniøren skrev i starten af juni, at appen blev sat på pause for nye brugere, fordi en fejl gjorde, at den ikke anonymiserede data om brugernes lokation.
+Ifølge Berlingske er appen også tidligere blevet kritiseret for at bede brugere, som har en i-Phone, om lov til konstant at kende deres lokation - også når appen ikke bruges.
+Jens Willars, som er kundedirektør i Rejsekortet, siger til Berlingske, at det er naturligt, at appen bliver undersøgt af Datatilsynet.
+Han skriver i en kommentar til avisen, at hvis Datatilsynet har bemærkninger, vil det blive taget til efterretning.
+Rejsekort-appen blev lanceret i april. I øjeblikket kræver det, at man skriver sig op, hvis man vil have adgang til den.
+Appen, som man kan vælge at bruge i stedet for det blå-hvide plastikkort, kan blandt andet minde brugerne om at huske at checke ud, når de har rejst med offentlig transport.
+Appen har også en indstilling, der gør, at den kan checke ud automatisk.
+Den kan desuden automatisk registrere, om man skifter bus eller tog undervejs på sin rejse.
+ritzau

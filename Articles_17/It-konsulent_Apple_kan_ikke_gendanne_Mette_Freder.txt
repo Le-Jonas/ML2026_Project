@@ -1,0 +1,29 @@
+Title: It-konsulent_Apple_kan_ikke_gendanne_Mette_Freder
+Date: 2023-06-20
+Article Type: Politik
+Author: Keld Norman tvivler på, at såkaldte logfiler efter knap tre år stadig vil være lagret hos Apple.
+
+Artiklen er opdateret kl. 13.27.
+Apple kan ikke genskabe de beskeder, som blev sendt, modtaget og sidenhen slettet fra statsminister Mette Frederiksens (S) telefon under Minksagen, og det er usandsynligt, at Apple vil hjælpe med andre typer af data, vurderer Keld Norman, der er IT-sikkerhedskonsulent i virksomheden Dubex.
+»Det eneste, som Apple vil kunne hjælpe med, er såkaldte logfiler om, hvem der har sendt beskeder til hvem, men ikke hvad beskederne indeholder«, siger han.
+Han tvivler dog både på, at Apple vil udlevere filerne, eller at virksomheden har dem liggende efter knap tre år. Flere oppositionspolitikere har ellers opfordret til, at man forsøger at få Apple til at genskabe beskederne. Det skete, efter at fungerende forsvarsminister Troels Lund Poulsen (V) mandag aften fortalte, at det ikke er muligt for Forsvarets Efterretningstjeneste (FE) at genskabe de omtalte beskeder.
+Årsagen til, at Apple ikke kan gendanne selve beskederne skyldes ifølge Keld Norman den måde, som de såkaldte iMessages er krypteret på.
+»Beskederne er krypteret to gange. Med den tekniske viden, man har, så er det noget nært umuligt at dekryptere. Det vil tage mange millioner år blot at bryde den ene kryptering«, siger Keld Norman.
+Hvis Apple, mod it-sikkerhedskonsulents forventning, stadig har de såkaldte logfiler og er villig til at udlevere dem, vil det kunne hjælpe FE et skridt tættere på at finde de slettede beskeder.
+»Der kan ligge en kopi af beskeder på de her personers telefoner, iPads og Macbooks. Så vil FE kunne undersøge harddiskene på de enheder og se, om der er data at få fat i der«, siger han.
+Det er i den såkaldte iCloud, der kan ligge kopier af beskeder. Der er ifølge Keld Norman også en minimal chance for, at der kan være noget at hente i Mette Frederiksens iCloud.
+»Det kræver, at Mette Frederiksen udleverer login og kodeord. Normalt, når man har et sikkerhedsfokus og arbejder i regeringen, vil man nok ikke have en iCloud-backup, fordi man vil være bange for, at Apple kan kigge med i de data, siger han.
+Hvor sandsynligt er det, at de her beskeder nogensinde bliver gendannet?
+»Jeg tror ikke, at der er taget backup, og jeg tror ikke, at det er sandsynligt, at man får beskederne fra Mettes telefon. Den eneste sandsynlighed, som jeg ser det, er via andres enheder, og der er sandsynligheden også nærmest nul efter knap tre år«, siger Keld Norman.
+Thomas Haagendal, der er fagforeningen IDA’s ekspert i telekommunikation, deler i store træk Keld Normans vurdering. Han vurderer ud over Apple, at det også kan være et forsøg værd, hvis Danmark kontakter Google med henblik på at etablere et samarbejde om data.
+»Om der vil være noget at komme efter, afhænger af hvordan de pågældende telefoner har været konfigureret, og hvilke apps der har været på dem«, siger han.
+Thomas Haagendal understreger dog, at han finder det usandsynligt, at Google eller Apple vil udlevere de pågældende data.
+Ritzau har forsøgt at kontakte Apple for at høre, om det er muligt at genskabe beskeder eller logfiler, og om Apple i så fald vil udlevere dem. Apple er endnu ikke vendt tilbage.
+Regeringspartiet Moderaterne har ikke besluttet sig for, om partiet vil bakke op om at kontakte it-giganten Apple for at høre, om sms-beskeder fra blandt andre statsminister Mette Frederiksen (S) kan genskabes i Minksagen, siger gruppeformand Henrik Frandsen (M) tirsdag formiddag før partiets gruppemøde på Christiansborg.
+»Sagen er jo højt på den politiske dagsorden, så alene af den grund kan man godt på en måde sige, at det er en vigtig sag. Men hvorvidt man skal kontakte Apple eller ej, det kan jeg ikke svare på nu, om det er en god idé«, siger han.
+ritzau
+fortsæt med at læse
+Slettede sms'er i minksagen kan ikke genskabes:
+»Det får os til at overveje, om vi skal have en anden ordlyd«
+Her er, hvad FE sagde – og hvad Folketinget fik at vide i minksagen
+Enhedslisten kan kun se ét scenario for sig, som vil gøre, at de dropper krav i sms-sag

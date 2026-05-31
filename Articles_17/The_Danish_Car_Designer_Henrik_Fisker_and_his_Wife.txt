@@ -1,0 +1,113 @@
+Title: The_Danish_Car_Designer_Henrik_Fisker_and_his_Wife
+Date: 2024-05-12
+Article Type: Jonas Pröschold
+Author: The Fisker Ocean looked like everything the world had been waiting for.
+
+When the car was first presented in 2020, it was described as having an unprecedented long range of over 700 kilometers (440 miles), lightning-fast acceleration, and room enough for the whole family. In addition, it was to have unique features such as solar panels on the roof and a so-called ’California’ mode, allowing you to roll down all the windows – including the rear window – and turn the car into a convertible-like vehicle on warm summer days. And most importantly, the price was competitive with a base model costing $37,499.
+It seemed to be a revolution in the car market. And even though the term »Tesla killer« was already a cliché by then, the Fisker Ocean looked like a car that could challenge the world’s largest electric car company.
+Behind Fisker Inc. stood the Danish car designer and entrepreneur Henrik Fisker, who grew up in Allerød north of Copenhagen but has spent his adult life outside the country’s borders, where he has helped design several successful cars for BMW and Aston Martin.
+These were impressive luxury cars, some of which were used in a James Bond movie, but the cars on Henrik Fisker’s resume were only for the wealthiest car buyers. With the Fisker Ocean, he was set up for a popular breakthrough – and for a long time, it seemed that it was going to happen.
+Around 63,000 people paid a deposit of $250 for the car. And in Denmark, the enthusiasm was particularly great. The first Fisker Ocean in the world was delivered in this country, and nearly 1 in 16 Ocean cars has been sold to a Dane. But when the first expectant customers received their new cars in 2023, a number of features that had been promised were missing. Fisker said that they would come later with software updates, but today several features are still missing.
+Several of the car reviewers who were allowed to test drive the Fisker Ocean gave it a rough ride.
+FDM
+called it a »designer car in deep water«, and at
+Wired
+they stated that the car »is just not ready yet«. A reviewer even called it
+»the worst car I have ever reviewed«
+in a video that went viral on YouTube.
+The big mystery was: What went wrong for Fisker? Several observers have suggested that the company’s meltdown could be due to rising interest rates or that the rival Tesla has lowered the prices of their cars.
+But the reality is also that Fisker Inc. has been destroyed from within by brutal management, acording to a number of former employees at Fisker Inc. that Politiken has spoken with.
+They all say that the route from a billion-dollar company to now being on the verge of bankruptcy has two main reasons. One is Henrik Fisker, and the other is his wife, Geeta Gupta-Fisker, who is also a director in the company.
+»They have created a company that is based on fear. One had to be cautious if one pointed out that there were problems with the cars or the company’s finances. Those who did were dismissed or, in the worst case, fired«, says a former executive in the company, who, like the other former employees, has signed a non-disclosure agreement and therefore is not able to come forward with their criticism.
+Politiken has spoken with seven former employees who have worked at Fisker Inc. during various periods from the beginning of the Fisker Ocean’s development until this year. This includes several executives and engineers with in-depth knowledge of the car’s components and software.
+As evidence for their claims, they have shared emails, videos, internal documents, and information from the company’s accounting system with Politiken.
+Fisker Inc. has repeatedly refused to do an interview. Instead, an unnamed »Fisker spokesperson« has responded to the criticism in writing.
+The spokesperson strongly denies the criticism from former employees. Furthermore, the spokesperson does not wish to comment on the criticism of the company’s top executives, Henrik Fisker and Geeta Gupta-Fisker.
+»We don’t comment on individual employee matters, but startups have a demanding and dynamic culture that requires team members to be highly engaged and agile«, writes a Fisker spokesperson, emphasizing that »no one has been terminated at Fisker for disagreeing with leadership«.
+Henrik Fisker
+is 60 years old and grew up in Allerød, north of Copenhagen. He was educated at the Art Center in the city of Vevey in Switzerland, and he has worked as a designer for BMW, Aston Martin, and Ford.
+In 2007, he founded the company Fisker Automotive, which produced a hybrid car with the backing of a state loan of several hundred million dollars. The company went bankrupt in 2013, which triggered criticism from members of the U.S. Senate, who summoned Henrik Fisker to a hearing.
+In 2016
+, Henrik Fisker founded the company Fisker Inc. together with his wife Geeta Gupta-Fisker. The company went public in 2020 and was worth more than 50 billion Danish kroner in 2021.
+Geeta Gupta-Fisker
+is 49 years old and grew up in India. She describes her childhood as »tough« and »humble«. She studied zoology at the University of Delhi and then went to the University of Cambridge, where she earned a Ph.D. in biotechnology. Afterward, she worked in London’s financial world until she married Henrik Fisker in 2012 and became the manager of the Fisker family’s businesses and investments.
+According to former executives and employees at Fisker Inc., one of the company’s main problems is that it has launched a car on the market despite it having significant software issues. They describe how they and their colleagues repeatedly warned Henrik Fisker and Geeta Gupta-Fisker about serious problems with the car’s software and components, but their objections were either ignored or met with anger.
+As an example of the car’s issues, a former employee has given Politiken access to videos from a serious incident on January 10th this year. In the incident, a Fisker Ocean owner experienced that his car suddenly activated the emergency brake on the highway.
+The car owner described in a complaint to the National Highway Traffic Safety Administration, NHTSA, how the abrupt braking caused the car to swerve violently and then spin around its own axis while crossing two lanes on a highway just outside of Dallas, Texas.
+By a stroke of luck, no one was hit, and it was possible to tow the car away from the highway and onto a nearby parking lot.
+Here, the car owner recorded two videos showing that the car’s brakes had caught fire. According to the employee who provided Politiken with access to the videos, the videos were shared and discussed internally among staff at Fisker Inc. because they were so shocked by the incident.
+Politiken has not been able to identify the car owner, but we have seen his communication with an external legal advisor as well as his report to the NHTSA.
+Several potential safety issues with the cars are currently being investigated by the NHTSA. In April alone, they received 43 complaints about faults and safety issues from American Ocean owners, and they have three ongoing investigations into the car’s safety.
+According to the American authorities, there have been at least nine incidents, including one accident with injuries, where the regenerative brakes have not functioned when the car was driving on surfaces with poor traction such as over train tracks or on a slippery road.
+The problem has been known internally in the company for a long time and should have been resolved before the car was released to consumers, say the two former employees with extensive knowledge of the process.
+»I have test-driven hundreds of Fisker Oceans over time, and it has been a recurring problem. You get a shock when it happens because you try to brake, but the car instead accelerates«, says a former employee.
+The former employees and executives say that they and their colleagues tried to make the top management aware of the problems with the car’s regenerative brakes, but their objections were ignored and the problem was not resolved.
+According to a former executive with extensive knowledge of the car’s development, the primary focus was to produce the cars without delay and then get them to consumers as quickly as possible so that the company could secure more funding. This account is confirmed by six of the former executives and employees.
+»If employees pointed out critical faults with the cars, Henrik and Geeta would get angry and silence them. No one was allowed to talk about production problems. Some issues they would downplay, others it seemed like they didn’t understand the consequences of«, says the former executive, who is also supported in this account by other former employees and executives.
+Fisker’s spokesperson denies the employees’ description of the senior management. The spokesperson further states that they are »fully cooperating with NHTSA« in the ongoing investigations. Regarding the investigation into Fisker Ocean’s regenerative brakes, the spokesperson writes:
+»In December 2023, Fisker responded to customer feedback and issued a software update to the regenerative system, which improved the customer experience when driving over bumps and uneven surfaces, thereby resolving the issue«.
+The investigation by NHTSA has not yet been concluded. In April, the American authorities received 15 complaints about the brakes on the Fisker Ocean.
+The former employees and executives’ description of the leadership couple at Fisker Inc. is in stark contrast to the public image that has been cultivated so far.
+Henrik Fisker and his wife, Geeta Gupta-Fisker, were proclaimed by
+Forbes
+in 2020 as »the billionaire power couple taking on Tesla« and they have been ranked among the 2,000 richest people on Earth.
+The two have jointly led Fisker Inc. since 2016 – with Henrik Fisker as CEO and Chairman of the Board, and Geeta Gupta-Fisker as the Chief Operating Officer and Chief Financial Officer.
+When Fisker Inc. was at its most valuable, the couple were dollar billionaires, but since then the company’s value has fallen by more than 99 percent. At the end of April, Fisker Inc. was delisted from the New York Stock Exchange because its shares were worth so little. And the company itself has stated that there is a risk it will go bankrupt.
+Henrik Fisker has already once built a car company worth billions that subsequently went bankrupt. This happened when he founded Fisker Automotive in 2007, which counted among its customers Leonardo DiCaprio and Crown Prince Frederik, who is now King of Denmark. The company only managed to produce around 2,500 of their luxury hybrid car, the Fisker Karma, before it went bankrupt in 2013 due to a lack of funds and production problems.
+Back then, Henrik Fisker told Forbes that the company’s shortcut to success was that they would outsource the production of the cars and develop the Fisker Karma in just 2.5 years instead of the 5 years it normally takes in the car industry. And it was precisely the same strategy he presented 10 years later when he, with his new car company, Fisker Inc., had raised more than a billion dollars to produce the new electric car Fisker Ocean.
+One of the reasons it takes many years to develop a car is that it is a very complex task to get all the various systems and components in the car to work together. Therefore, one can take a shortcut if the car is built on an already existing platform.
+It can be compared to buying an almost fully assembled Lego set, where you can add and replace the bricks as you wish – instead of having to build all the bricks from scratch.
+Fisker considered basing its Ocean model on several different platforms – including from German Volkswagen and British JLR – but they ended up making a partnership with the company Magna. Through Magna, Fisker gained access to the electric vehicle platform BE21, which is developed by the state-owned Chinese car company BAIC Group.
+This is reported by several former employees at Fisker Inc., and the information is supported by a director from BAIC, who in the Chinese media
+CLS
+has stated that Fisker has bought the rights to use their platform.
+The BE21 platform had already been used in the Chinese electric car Arcfox Alpha-T. It is not normally sold outside of China, but Fisker imported it to the USA so they could use it as a reference for the development of the Fisker Ocean, say two former employees independently of each other. One has provided a picture of the production certificate from an Arcfox Alpha-T that was used as a reference vehicle.
+But it turned out that the Chinese platform had major problems.
+»The whole idea was that we would get access to an existing, well-functioning car, and then we could change the interior and add features while keeping the basic components. But it turned out that we had to change almost everything because the car in its original form did not meet Western legislation and safety standards«, says a former employee.
+The development of the Fisker Ocean was no longer like adapting an existing Lego set. Now they had to disassemble a Lego set and carefully insert new subcomponents.
+According to the former employees and executives, Henrik Fisker and Geeta Gupta-Fisker should have realized at this point that it was not possible to stick to the original plan of starting production of the car in Austria in November 2022.
+Henrik Fisker’s previous car company, Fisker Automotive, had repeatedly postponed its production of the Fisker Karma, and this was one of the decisive reasons why the company went bankrupt. Whether this was the reason why the production start of the Fisker Ocean could not be delayed remains uncertain. Henrik Fisker will not agree to an interview, and the company’s spokesperson simply concludes that »the production of the Ocean was not delayed«.
+However, the spokesperson acknowledges that »it required changes to meet EU and US regulations, and in the end, the platform had to be developed to such an extent that it became a distinctive Fisker platform«.
+The former employees and executives experienced that nothing was more important to the management than starting production as planned. This led to the development of the car happening at too fast a pace, and the car being released to customers a year too early, they believe.
+Many of the problems, according to the former employees, arose in the work of finding the companies that would produce new components for the platform that the Fisker Ocean is based on.
+According to Fisker’s spokesperson, the process involved Magna providing a purchasing system and team to source suppliers together with Fisker’s engineers.
+After that, a »sourcing council« decided which supplier would get the task. Up to this point, all parties agree.
+But the five former executives and employees who were part of the process experienced that Geeta Gupta-Fisker ignored their objections and warnings. Instead, she chose the suppliers based on who could deliver fastest and cheapest, they say.
+Henrik Fisker og Geeta Gupta-Fisker mødte hinanden i 2011 i London, da den danske bildesigner besøgte byen, har de fortalt til Forbes. De blev gift i 2012, kort tid inden Henrik Fiskers første bilfirma gik konkurs. Her er de fotograferet til en gallafest i januar 2024. Foto: Kathy Hutchins / Alamy Stock Pho/Ritzau Scanpix
+Geeta Gupta-Fisker has a Ph.D. in biotechnology and many years of experience in the finance industry in the UK and the US, but she had not worked in the car industry before she took the job as Chief Operating Officer and Chief Financial Officer at Fisker Inc.
+According to the former executives and employees, Geeta Gupta-Fisker was good at negotiating prices with suppliers, but they felt that she lacked an understanding of the deeper technical specifications of the components she ended up choosing.
+»It was impossible to change her mind. She didn’t listen to us. It was all about money, and the decisions she made ended up costing the company dearly«, says a former employee.
+The agreements with suppliers meant, among other things, that they ended up with subcomponents for the cars that did not have the correct software and technical specifications, the employees say.
+This account is rejected by Fisker’s spokesperson, who calls the description »false« and the former employees »unreliable«.
+»Magna was paid hundreds of millions in USD to develop, test, source suppliers, and to engage in production and launch activities for the Fisker Ocean«, the spokesperson writes.
+According to several of the former executives and employees, the incorrect specifications of the components were evident, for example, when the Fisker Ocean’s screen was filled with warning symbols while driving because the components had difficulty communicating with each other.
+A number of Fisker Ocean owners have described on social media how they cannot unlock their car, and that the key fob runs out of battery so often that they always have to carry extra batteries with them. But it did not come as a surprise to the former employees when car owners began reporting problems.
+»We knew well that the key had major problems because it was running on unstable software. We tried to make Geeta aware of the problems, but we were dismissed with an explanation that it would be fixed later. It didn’t happen, and now there are car owners who have to replace the battery in their car key every fourteen days«, says a former executive.
+Fisker’s spokesperson acknowledges that warning symbols can be displayed during driving, but this is due to »the advanced driver assistance system (ADAS). These features are planned to be added as part of future software updates«.
+According to the spokesperson, the problems with the key fob have been resolved with software updates.
+Henrik Fisker had promised that the first cars would be delivered in November 2022. That did not happen.
+According to Fisker’s spokesperson, the wait was due to the authorities taking a long time to approve the cars. The former executives and employees confirm this, but they describe that at the same time there was an internal struggle between them and Henrik Fisker and Geeta Gupta-Fisker. They tried to convince their bosses that the cars had too many problems with their software and safety to be released to customers. This included issues with the regenerative brake, door handles that did not work, and a fault in the driver’s seat sensor.
+These faults were later described by the media outlet TechCrunch, which in February 2024 published an article based on nearly 200 internal documents from Fisker Inc. According to TechCrunch, Fisker Ocean customers had reported a range of faults to the company after receiving their cars. Customers experienced cars that shut down in the middle of the road. Cars that could not brake. And hoods that opened themselves while the car was driving.
+Fisker’s spokesperson denies that there was an internal struggle within the company but acknowledges that there were problems with the driver’s seat sensor in some cars. A problem that they, according to the spokesperson, resolved at the factory.
+In the spring of 2023, Fisker Inc.’s market value had fallen by several billion dollars, but the stock price rose when the Fisker Ocean was approved for sale in the EU by the traffic authorities in Spain in April. After that, the cars slowly began to be sent out to customers in May and over the summer.
+But internally at Fisker Inc., they could feel that something was happening as customers received their cars. And it was not a good thing.
+Henrik Fiskers første job var at tegne brandslukningssystemer, men han kunne ikke lade være med at tegne biler. Derfor endte han med at køre til Schweiz for at blive uddannet bildesigner har han fortalt til mediet Ingeniøren. Ifølge de tidligere medarbejdere og ansatte i Fisker Inc., satte de da også stor pris på Henrik Fiskers evner som designer, men ikke som direktør. Foto: Astrid Dalum/Ritzau Scanpix
+Many of the expectant customers had joined Facebook groups for upcoming Ocean owners, and here complaints about software errors, poor quality, and brake problems quickly began to spread. By the fall of 2023, employees at Fisker could feel that there had been a shift in customers’ attitudes towards the car. Before, they were queuing to get their car delivered. Now they wanted their deposit back.
+In November 2023, sales had stalled so much that the company made a swift decision. One Saturday evening in November, a number of employees at Fisker Inc. received a message asking if they would immediately sign up for a new project.
+Those who signed up were trained the next day to use the company’s sales system, Salesforce, and then began to make calls to potential customers who had paid a deposit.
+»Most of the people I called were very angry. And that’s when I realized that all these people were no longer interested in the car. They just wanted their deposit back. We were asked to make a note in the system if people wanted their money back, and then they were called again and again in an attempt to persuade them to buy the car anyway, even though they were completely adamant and just wanted their money back«, says a former employee who was part of the improvised sales department.
+The effort continued throughout December, but the goal was not met. By the end of the year, Fisker Inc. had produced 10,193 Fisker Oceans, but only managed to sell 4,929.
+The former Fisker employees agree that they would not recommend anyone to buy the car. It is not an easy warning for them to give. Even though they believe the cars have faults and were released too early, most of them are still proud that they were able to create a car in such a short time.
+Several say that they still feel happy when they see a Fisker Ocean driving by on the road. But others cannot help but think about how things might have gone if the top management of the company had been different.
+Text: Jonas Pröschold
+Illustration: Mette Dreyer
+Editors: Kathrine Rossau og Tanja Parker Astrup
+Layout: Mads Djervig
+Editing: Oliver Kløvedal Reich &
+Tonny Pedersen
+PS Editor: Christian Ilsøe
+This article was translated by artificial intelligence and then edited by a human editor
+.
+Som abonnent kan du ubegrænset dele artikler med dine venner og familie. Læs mere om fordelene ved et abonnement
+her
+.

@@ -1,0 +1,15 @@
+Title: Softwarefejl_var_skyld_i_flere_ministeriers_it-pro
+Date: 2024-04-03
+Article Type: Danmark
+Author: Tirsdag havde flere ministerier og styrelser it-problemer. Det er løst og skyldtes en softwarefejl.
+
+En softwarefejl var skyld i, at flere ministerier og styrelser tirsdag oplevede it-problemer.
+Det skriver Statens It, der leverer it-drift og services til statslige ministerier, styrelser og selvejende uddannelsesinstitutioner, i en pressemeddelelse onsdag.
+Fejlen er blevet lokaliseret, og der er blevet genetableret normal drift.
+Kommunikations- og pressechef i Statens It Rasmus Onslev Kremmer sagde tirsdag, at problemerne resulterede i, at ansatte havde svært ved at bruge systemerne.
+Det betød blandt andet, at der var problemer med at bruge eksempelvis mail og nogle interne it-systemer.
+Allerede tirsdag afkræftede Rasmus Onslev Kremmer, at der skulle være mistanke om, at nedbruddet skyldtes et udefrakommende angreb.
+Netværket gik i første omgang ned tirsdag formiddag. Det blev i løbet af eftermiddagen genetableret, hvorefter det går ned igen om aftenen.
+I løbet af aftenen fik Statens It i samarbejde med sine leverandører genetableret driften endnu en gang.
+»Statens It lever af at levere stabil it-drift, så det giver naturligvis nogle alvorlige ridser i lakken og har store konsekvenser for vores kunder, når problemer af den kaliber som tirsdagens netværksproblemer rammer os. Vi er nu i gang med at udbedre softwarefejlen i samarbejde med vores leverandør«, siger direktør i Statens It Michael Ørnø i meddelelsen.
+ritzau

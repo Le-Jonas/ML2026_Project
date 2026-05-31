@@ -1,0 +1,28 @@
+Title: Efter_fransk_frygt_for_straling_EU-lande_vil_have
+Date: 2023-09-15
+Article Type: Tech
+Author: Apple laver en softwareopdatering af iPhone 12 i Frankrig. Flere lande ser gerne, at den indføres på EU-plan.
+
+Apple vil lave en softwareopdatering af iPhone 12 i Frankrig.
+Det melder techselskabet fredag ifølge nyhedsbureauet Reuters.
+Det sker, efter at Frankrig tirsdag meddelte, at salget af iPhone 12 i landet ville blive midlertidigt indstillet på grund af bekymringer om telefonens strålingsniveau.
+Den franske minister for digitalisering og telekommunikation, Jean-Nöel Barrot, vurderede ved indstillingen af salget, at strålingsniveauet formentlig kan løses med en softwareopdatering.
+Men uden en sådan opdatering ville det få konsekvenser, lød det. Frankrig krævede derfor et svar fra Apple inden for to uger.
+Nu er svaret landet.
+»Apple har forsikret mig om, at selskabet vil implementere en opdatering af iPhone 12 i løbet af de næste dage«, siger Jean-Nöel Barrot i en udtalelse ifølge AFP.
+Både Apple og Jean-Nöel Barrot understreger, at strålingen ikke er på et niveau, hvor det udgør en fare for den offentlige sundhed.
+»Dette (opdateringen red.) er relateret til en specifik testprotokol, der bliver brugt af de franske myndigheder, og ikke til et sikkerhedsproblem«, siger Apple i en udtalelse.
+»Vi vil lave en softwareopdatering til brugere i Frankrig for at imødekomme denne protokol«.
+Den franske tilsynsmyndighed vil nu teste opdateringen, og man regner med, at salget af telefonen derefter vil blive genoptaget.
+Forløbet har dog sendt bølger af bekymring til andre europæiske lande.
+Det kan derfor se ud til, at en bredere opdatering bliver nødvendig.
+Ifølge Reuters har Belgiens statssekretær for digitalisering, Mathieu Michel, fredag sagt, at en foreløbig belgisk gennemgang af potentielle sundhedsrisici ved telefonen viser, at den ikke udgør en fare for brugerne.
+Resultaterne var ’beroligende’, og en tilbagekaldelse af telefonen i landet bliver ikke nødvendig.
+Alligevel har Mathieu Michel meldt til Apple, han gerne ser opdateringen af iPhone 12 ske over hele Europa.
+Fra Tyskland lyder det ifølge Reuters også, at man er i kontakt med de franske myndigheder om at finde en løsning på EU-plan.
+En regeringskilde i Italien oplyser ifølge Reuters, at man vil bede Apple om at lave den franske softwareopdatering i Italien også.
+I Frankrig er det landets nationale strålingsagentur (ANFR), som har stoppet salget af telefonen.
+Det skete, efter at test har vist, at telefonens såkaldte Specific Absorption Rate (SAR) er en smule højere, end hvad der er tilladt.
+SAR siger noget om den stråling, som kroppen udsættes for af et apparat.
+Flere lande har af sundhedsmæssige hensyn myndigheder, der monitorer mængden af stråling, der kommer fra elektroniske produkter.
+ritzau

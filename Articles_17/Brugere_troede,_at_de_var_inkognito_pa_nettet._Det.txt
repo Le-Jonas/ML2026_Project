@@ -1,0 +1,11 @@
+Title: Brugere_troede,_at_de_var_inkognito_pa_nettet._Det
+Date: 2024-01-02
+Article Type: Tech
+Author: Den amerikanske it-gigant er ved at indgå et forlig med sagsøgere, der føler sig ført bag lyset. De troede, at de kunne browse inkognito i Chromes inkognito-indstilling. Det kunne det ikke.
+
+Søren Astrup
+Journalist
+Det er vistnok en udbredt misforståelse, at internetbrugere blot kan sætte deres browser til at surfe inkognito, hvis de vil være sikre på, at deres privatliv respekteres.
+Men den antagelse er helt forkert. Og det vil Google nu komme til at mærke i
+et forlig
+, hvor det kan koste it-giganten op mod 5 milliarder dollars (næsten 34 milliarder kroner), at man sagtens kunne indsamle følsomme oplysninger om brugere, der surfede på nettet ved hjælp af Chrome-browseren i den tro, at de var inkognito.

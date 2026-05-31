@@ -1,0 +1,9 @@
+Title: Unge_mennesker_kan_takke_de_to_nobelpristagere_for
+Date: 2024-10-08
+Article Type: Viden
+Author: De to nyslåede nobelprismodtagere i fysik har lagt fundamentet for, at ChatGPT, deepfake og computergenererede videoer er en realitet i dag.
+
+Lasse Foghsgaard
+Videnskabsredaktør
+Da jeg erfarer fra live-transmissionen i Stockholm, at fysikeren John J. Hopfield fra Princeton University og datalogen Geoffrey E. Hinton fra University of Toronto har modtaget Nobelprisen i fysik, ringer jeg straks til professor Ole Winther fra Københavns Universitet og DTU Compute.
+Jeg vil gerne have hans kommentar til, at de har fået prisen »for grundlæggende opdagelser og opfindelser, der muliggør maskinlæring med kunstigt neuralt netværk«.

@@ -1,0 +1,13 @@
+Title: Hackere_fik_ingen_data_med_sig_i_cyberangreb_mod_Forsvaret
+Date: 2022-12-12
+Article Type: Danmark
+Author: Torsdag var flere af Forsvarsministeriets hjemmesider sat ud af drift. Intet data blev tilsyneladende stjålet.
+
+Da hackere i sidste uge angreb blandt andet Forsvarets hjemmesider med et overbelastningsangreb, fik de tilsyneladende ikke noget data med sig, fortæller Thorbjørn Nørgaard Hein, der er pressechef i Forsvarets Materiel- og Indkøbsstyrelse.
+»Så vidt jeg er orienteret, har der på intet tidspunkt været noget data fra Forsvaret, som har været i fare for at blive kompromitteret. Det har udelukkende været en sabotage af at kunne tilgå vores hjemmesider«, siger han.
+Pressechefen har således ikke kendskab til, at personfølsom eller på anden måde følsom data er endt i forkerte hænder i forbindelse med cyberangrebet.
+Angrebet fandt sted torsdag, og her blev flere af Forsvarsministeriets hjemmesider sat ud af drift i nogle timer. I den periode var det blandt andet umuligt at tilgå Forsvarsministeriets hjemmeside, ligesom der var blokeret for adgang til hjemmesiderne tilhørende Forsvarets Efterretningstjeneste og Center for Cybersikkerhed.
+Det var ikke myndighederne, der selv lukkede for adgangen. De var derimod blevet udsat for et cyberangreb af typen DDoS, hvilket vil sige, at det var et overbelastningsangreb. Ved denne form for angreb sender gerningsmænd en hel masse forespørgsler mod en server – i det her tilfælde en webserver, der hoster hjemmesider. Når serveren oversvømmes med forespørgsler om at tilgå siderne, kan serveren ikke følge med, og hjemmesiderne bliver umulige at tilgå.
+Forsvarets Materiel- og Indkøbsstyrelse er ved at undersøge, hvad der skete ved angrebet, herunder hvem der stod bag. Styrelsen vil ikke sige, hvorvidt det har fundet frem til, hvilket land angrebet kom fra. Thorbjørn Nørgaard Hein vil heller ikke sige, om det var et angreb fra et sted i udlandet eller inden for Danmarks grænser.
+ritzau
+fortsæt med at læse

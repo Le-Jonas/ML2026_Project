@@ -1,0 +1,20 @@
+Title: Google_skal_abne_for_rivaliserende_app-butikker_ti
+Date: 2024-10-08
+Article Type: Tech
+Author: En dommer i USA pålægger Google at åbne dets Android-mobiloperativsystem for rivaliserende app-butikker.
+
+En amerikansk dommer har mandag pålagt techselskabet Google at åbne for rivaliserende app-butikker til Android-mobiloperativsystemet.
+Det sker, efter at Google i december sidste år tabte i en sag anlagt af spilfirmaet Epic Games, som blandt andet står bag spillet ’Fortnite’.
+I den sag konkluderede et nævningeting i San Francisco, at Google har ulovlig monopolmagt gennem sin Google Play Store.
+Nævningetinget i San Francisco brugte kun et par timer på at nå frem til sin beslutning. Den fastslog, at Google havde anvendt en række ulovlige strategier for at fastholde sit monopol på app-butikker til Android-telefoner.
+Disse strategier omfattede blandt andet at begrænse udviklernes muligheder for at tilbyde alternative betalingsmetoder og at straffe dem, der forsøgte at distribuere deres apps uden om Google Play Store.
+Ordren, som Google anker, følger et lignende nederlag i august, hvor en anden dommer fandt, at Googles søgemaskine også havde et ulovligt monopol.
+Google står desuden over for en anden monopolretssag i en tredje føderal sag i delstaten Virginia. Den sag handler om techselskabets dominans på annoncemarkedet.
+Ifølge ordren fra Epic Games-sagen vil Google de næste tre år forbydes at deltage i flere praksisser, som nævningetinget anser som konkurrencebegrænsende.
+Det betyder, at Google ikke længere må kræve indtægtsdeling fra potentielle konkurrenter, hvilket tidligere har været en barriere for udviklere, der ønskede at tilbyde deres apps uden om Google Play Store.
+Desuden må udviklere ikke længere tvinges til at lancere deres apps eksklusivt på Google Play Store.
+Dommeren har tilmed beordret, at der skal oprettes et udvalg, som skal overvåge implementeringen af forbuddene og håndtere eventuelle uenigheder, der måtte opstå mellem Google og udviklerne.
+Epic Games’ topchef, Tim Sweeney, opfordrer virksomheder til ’at gribe muligheden til at skabe et mere konkurrencedygtigt marked for app-butikker’.
+Sweeney bemærker også, at selv om ændringerne gælder i USA, vil kampen fortsætte i andre dele af verden.
+Ifølge dommeren gælder ordren fra 1. november. Nogle af bestemmelserne skal dog først være implementeret 1. juli 2025.
+ritzau

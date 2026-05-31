@@ -1,0 +1,20 @@
+Title: Rapport_Aktører_fra_Rusland_og_Israel_bruger_AI_t
+Date: 2024-05-31
+Article Type: Tech
+Author: Rapport fra selskabet bag ChatGPT peger på desinformation med oprindelse i blandt andet Rusland og Israel.
+
+Aktører fra Rusland, Kina, Israel og Iran bruger kunstig intelligens fra selskabet OpenAI, der står bag chatbotten ChatGPT, til at sprede desinformation.
+Det fremgår af OpenAI’s første rapport om brugen af selskabets teknologi til påvirkningskampagner, skriver mediet The Guardian.
+Ondsindede aktører i de fire lande bruger ifølge rapporten teknologien til at sprede propaganda på forskellige sociale medier.
+Ingen af påvirkningskampagnerne har dog fået bred opbakning, hævder rapporten.
+Forskere og politikere har længe været bekymret for, at kunstig intelligens - også kaldet AI - kan bruges til desinformation.
+Bekymringen er kun vokset i takt med teknologiens hastige udvikling.
+Siden ChatGPT blev introduceret i 2022, har der været skarp konkurrence på markedet for kunstig intelligens.
+Det gælder mellem techgiganterne Microsoft og Google såvel som Meta, der står bag de sociale medier Facebook og Instagram, samt tech-startups som Anthropic og Stability AI.
+OpenAI’s rapport på 39 sider er ifølge The Guardian en af de mest detaljerede opgørelser over, hvordan selskabets teknologi også kan bruges til propaganda.
+Selskabet hævder, at OpenAI i løbet af de seneste tre måneder har identificeret og bandlyst en række konti, som var involveret i fem separate påvirkningskampagner.
+Efter sigende er der tale om en blanding af statslige og private aktører, skriver The Guardian.
+I Rusland gik to påvirkningskampagner ud på at kritisere USA, Ukraine og flere baltiske lande.
+Og i Israel brugte en politisk organisation ved navn Stoic teknologien til et netværk bestående af falske konti på sociale medier. Kontiene blev blandt andet brugt til at lave opslag, der anklagede propalæstinensiske universitetsdemonstrationer i USA for at være antisemitiske.
+Det fremgår ikke, hvordan Stoic forholder sig til anklagerne. Meta bandlyste tidligere i år organisationen fra sine platforme, skriver The Guardian.
+ritzau

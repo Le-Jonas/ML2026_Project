@@ -1,0 +1,14 @@
+Title: Fransk_selskab_skal_overtage_driften_af_MitID_efte
+Date: 2023-11-09
+Article Type: Danmark
+Author: Driften af den digitale løsning MitID sælges til selskabet IN Groupe. Løsningen drives i dag af Nets.
+
+Nets sælger retten til at drive MitID for knap en milliard danske kroner. Det fremgår af en pressemeddelelse fra Nexi, som Nets er en del af.
+Nets sælger hele sin eID-forretning til det franske selskab IN Groupe. Foruden MitID er det blandt andet Nem-Login, Trust Services og Signaturgruppens broker- medarbejderservice.
+Prisen bliver op mod 127,5 millioner euro svarende til 956 millioner kroner. Størstedelen af beløbet – 90 millioner euro – skal betales med det samme. Derefter vil det være op til, hvor godt forretningen klarer sig, hvad det resterende beløb bliver.
+MitID bruges i Danmark til at tilgå digitale portaler i både det offentlige og private. Langt de fleste voksne danskere har et MitID. Ifølge tal fra Digitaliseringsstyrelsen har 98 procent af danskere over 15 år oprettet et MitID.
+Løsningen bruges op mod én milliard gange om året og betragtes som kritisk it-infrastruktur i Danmark. Salget af eID-forretningen til IN Groupe forventes at blive gennemført i sommeren 2024, skriver Nexi. Forinden skal salget godkendes af forskellige myndigheder.
+Formelt er det Digitaliseringsstyrelsen, der er ejer af MitID. Styrelsen ejer løsningen sammen med brancheorganisationen Finans Danmark, der har banker som medlemmer. Men det er Nets og dermed Nexi Group, der sidder på driften og udviklingen.
+Den kontrol vil med salget overgå til franske IN Groupe. Selskabet vil – såfremt salget går igennem – drive MitID indtil 2029.
+Ritzau
+fortsæt med at læse

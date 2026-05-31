@@ -1,0 +1,28 @@
+Title: Cyberangreb_Flertal_frygter_for_varme_og_strøm
+Date: 2024-07-02
+Article Type: Tech
+Author: Syv ud af ti bekymrer sig om at følgerne af et cyberangreb, viser måling. Betalingsrådet arbejder for at sikre brug af betalingskort i en krisesituation.
+
+For knap en måned siden blev truslen for et destruktivt cyberangreb mod Danmark fra fremmede magter hævet fra lav til middel.
+Bag vurderingen står Center for Cybersikkerhed under Forsvarets Efterretningstjeneste, der 4. juni oplyste, at mange typer af organisationer i samfundsvigtige sektorer kan være udvalgte mål.
+I befolkningen fylder især bekymringen for, at et angreb vil ramme internet- og mobilforbindelser, og at varme og strøm kan være i fare.
+Det viser en undersøgelse med svar fra godt 2000 borgere mellem 18 og 70 år, som Analyse Danmark har foretaget for Ingeniørforeningen, IDA.
+Syv ud af ti af de medvirkende svarer, at de i forlængelse af krigen i Ukraine er bekymrede for infrastrukturen i Danmark.
+De bekymrer sig enten i nogen grad, i høj grad eller i meget høj grad for et angreb mod samfundskritiske it-systemer.
+Det vidner om, at stadig flere er opmærksomme på, at cyberangreb er en reel trussel, siger Jørn Guldberg, der er ekspert i it-sikkerhed i IDA.
+»Bekymringen handler ikke så meget om en reel krig, men mere om nålestiksangreb, hvor der pludselig ikke kommer vand ud af hanerne, eller hvor strømmen ryger, så man ikke kan få lavet mad«.
+Når så mange bekymrer sig, hænger det ifølge Jørn Guldberg også sammen med en øget bevidsthed om, at Danmark er et meget digitaliseret land.
+»Det meste kører i dag over internettet. Vi skal sjældent møde op personligt, og fysiske breve modtager vi knap længere. Hvis internettet bliver ramt, vil det få store konsekvenser for os alle«, siger han:
+»Det vil kunne lamme et digitaliseret land som Danmark hårdt og skabe mere eller mindre kaos i de flestes hverdag«.
+Skulle Danmark blive udsat for et større cyberangreb, kan det blandt andet ramme systemet for betalingskort, som i dag tegner sig for ni ud af ti betalinger i den fysiske handel.
+Tirsdag fastslog Betalingsrådet, der repræsenterer finanssektoren, at det fortsat vil være muligt at bruge sit betalingskort.
+En ny rapport fra rådet viser, at 82 procent af borgerne allerede i dag vil kunne klare sig i tilfælde af, at butikkernes betalingsterminaler går offline og mister forbindelsen til de bagvedliggende systemer.
+Dankortet og visse Mastercard vil med tilhørende pinkode kunne bruges på terminaler, der er offline.
+Visa-kort er endnu ikke godkendt til offlinetransaktioner, men Visa er i dialog med myndighederne om at åbne op for muligheden for at tillade denne type transaktioner i nødstilfælde.
+På den baggrund er det Betalingsrådets vurdering, at man inden for en overskuelig fremtid derfor vil kunne klare sig med et hvilket som helst betalingskort i en situation, hvor dele af samfundet lukker ned.
+Det kræver dog, at man kan huske sin pinkode, og at der er strøm på betalingsterminalerne.
+Som situationen er nu, anbefaler Nationalbanken, at man har et eller flere fysiske betalingskort, som man kan huske pinkoderne til, og som kan bruges, hvis internet og telefonnet er nede.
+Samtidig skal man overveje at have et mindre beløb i mønter og små sedler.
+ritzau
+fortsæt med at læse
+Her er det, vi frygter mest, når vi gemmer vand, mad og medicin i privaten

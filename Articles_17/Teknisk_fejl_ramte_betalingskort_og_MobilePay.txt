@@ -1,0 +1,13 @@
+Title: Teknisk_fejl_ramte_betalingskort_og_MobilePay
+Date: 2023-09-24
+Article Type: Tech
+Author: Søndag kan en række danskere have oplevet at få afvist deres kort eller MobilePay som følge af teknisk fejl.
+
+Artiklen er opdateret kl. 14.19.
+Hvis du søndag er blevet forhindret i at bruge din kort eller swipe et beløb afsted på MobilePay, er du sandsynligvis en af mange. Virksomheden BEC, der er it-leverandør til finanssektoren, har nemlig været ramt af et teknisk fejl, fremgår det af en pressemeddelelse.
+BEC’s mobilbank, netbank og pengeautomater har således været ude af drift fra klokken 10.12, indtil systemet igen kom op at køre omkring klokken 13.30. For borgere i Danmark kan det betyde, at deres betalingskort og MobilePay-overførsler er blevet afvist, oplyser kommunikationsdirektør Jens Møller Nielsen:
+»Det kan være, man har oplevet, at man ikke har kunnet betale med sit betalingskort eller med MobilePay. Fejlen var i de centrale systemer i BEC, som resten af vores banksystemer er afhængige af. Vi har haft en planlagt opdatering i dag, hvor vi kunne konstatere, at de ikke fungerede korrekt efter opdateringen«.
+Jens Møller Nielsen kan ikke umiddelbart sætte tal på, hvor mange personer i Danmark, der er blevet ramt af den tekniske fejl. Mens nogle betalingskort kan fungere, uanset om der er forbindelse til BEC eller ej, kan andre ikke. Det varierer fra kort til kort og bank til bank, fortæller han.
+Cirka hver fjerde danske bankkunde er i pengeinstitutter, der benytter BEC, herunder banker som Nykredit, Spar Nord og Arbejdernes Landsbank. Udenlandske banker med danske afdelinger som Swedbank, Citi og BNP Paribas er også kunder hos BEC.
+ritzau
+fortsæt med at læse

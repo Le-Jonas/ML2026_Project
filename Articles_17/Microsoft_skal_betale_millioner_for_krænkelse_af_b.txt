@@ -1,0 +1,17 @@
+Title: Microsoft_skal_betale_millioner_for_krænkelse_af_b
+Date: 2023-06-06
+Article Type: Tech
+Author: Microsofts Xbox har indsamlet personlige oplysninger om børn uden forældrenes samtykke, og det koster nu.
+
+Microsoft skal som en del af et forlig betale 20 millioner dollar i en sag, hvor det amerikanske handelstilsyn, FTC, har anklaget virksomheden for på ulovlig vis at indsamle personlige oplysninger fra børn uden forældrenes samtykke, oplyser FTC mandag. 20 millioner dollar svarer til omkring 140 millioner kroner.
+Microsoft er anklaget for at overtræde en lov om børns privatliv på internettet ved at indsamle personlig information fra børn, der tilmeldte sig Microsofts Xbox-gamingsystem. Det er sket uden at give forældrene besked eller indhente deres samtykke. Microsoft har desuden beholdt børnenes personlige oplysninger, siger FTC i en udtalelse. Forliget indebærer også, at Microsoft skal sørge for at forbedre privatlivssikkerheden for børn, der bruger spillekonsollen Xbox.
+»Vores foreslåede kendelse gør det lettere for forældre at beskytte deres børns privatliv på Xbox og begrænser, hvilken information Microsoft kan indsamle og beholde om børn«, siger Samuel Levine, der er direktør i FTC’s afdeling for forbrugerbeskyttelse.
+»Denne sag bør også gøre det fuldstændig klart, at børns avatarer, biometriske data og sundhedsinformation ikke er undtaget fra loven«, tilføjer direktøren.
+En talsperson fra Microsoft siger, at selskabet vil leve op til betingelserne i forliget. Talspersonen siger også, at fremgangsmåden for at oprette en konto vil blive opdateret. Loven om børns privatliv på nettet betyder, at onlinetjenester og hjemmesider, der retter sig mod børn under 13 år, skal give forældrene besked om de personlige oplysninger, de indsamler. Selskaberne skal desuden opnå et verificerbart forældresamtykke, inden de indsamler og bruger personlige oplysninger, der er indsamlet fra børn.
+Fra 2015 til 2020 har Microsoft beholdt data, som det har indsamlet fra børn, når de oprettede en konto, selv om forældrene ikke har givet samtykke.
+ritzau
+fortsæt med at læse
+Pludselig stod statsministeren og viftede med sin mobiltelefon:
+Politikere vil gribe ind over for skærmens skadevirkninger på børn og unge
+Max Schrems sagde fra over for techgiganterne – og har givet millioner af europæere alvorlige problemer
+Britisk styrelse blokerer Microsofts køb af selskabet bag 'Call of Duty' og 'Candy Crush'

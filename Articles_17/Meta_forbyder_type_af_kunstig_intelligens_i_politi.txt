@@ -1,0 +1,19 @@
+Title: Meta_forbyder_type_af_kunstig_intelligens_i_politi
+Date: 2023-11-07
+Article Type: Tech
+Author: Meta, der står bag Facebook og Instagram, vil bekæmpe potentiel misinformation i forbindelse med valg.
+
+Facebook-ejeren Meta forbyder politiske kampagner at bruge generativ kunstig intelligens i reklamer på selskabets platforme i et forsøg på at hindre spredningen af misinformation.
+Det har selskabet mandag offentliggjort på sin officielle blog.
+»Vi tror på, at tilgangen gør os bedre i stand til at forstå potentielle risici og indføre de rigtige sikkerhedsforanstaltninger for brugen af generativ kunstig intelligens i reklamer, der er relateret til potentielt ømtålelige emner i regulerede industrier«, lyder det fra Meta.
+Det er blot en måned siden, at Meta, der også står bag Instagram, offentliggjorde, at man ville udvide annoncørers muligheder for at bruge kunstig intelligens på dets platforme.
+Generativ kunstig intelligens er en type kunstig intelligens, der kan skabe originalt indhold som eksempelvis billeder.
+Metas forbud gælder også andre regulerede industrier som medicinalindustrien og den finansielle sektor.
+Selskabets nye værktøjer til dets annoncører er indtil videre kun tilgængelige for et begrænset udsnit. Men Meta har planer om en global udrulning næste år.
+Meta og andre techselskaber har haft travlt med at komme med på bølgen i forhold til kunstig intelligens, siden selskabet OpenAI lancerede den populære chatbot ChatGPT sidste år.
+Indtil videre har selskaberne ikke fortalt meget om, hvordan de vil forhindre, at teknologien bliver misbrugt.
+Google, der er ejet af Alphabet, lancerede i sidste uge en type af generativ kunstig intelligens, som også er målrettet til annoncører.
+Produktet vil dog ifølge Google ikke godtage input med visse politiske emneord.
+Nick Clegg, der er Metas præsident for globale anliggender, advarede i sidste uge om, at regeringer og techselskaber skal forberede sig på, at kunstig intelligens kommer til at blive brugt ved politiske valg i 2024.
+ritzau
+fortsæt med at læse

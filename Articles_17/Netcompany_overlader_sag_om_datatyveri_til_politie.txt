@@ -1,0 +1,22 @@
+Title: Netcompany_overlader_sag_om_datatyveri_til_politie
+Date: 2024-02-28
+Article Type: Danmark
+Author: Tirsdag blev 34-årig fængslet for datatyveri hos Netcompany. Nu overlader virksomheden sagen til politiet.
+
+Netcompany overlader sag om datatyveri til myndigheder og anser sin egen rolle for afsluttet.
+Det skriver it-selskabet i en pressemeddelelse.
+Hvis der er brug for det i efterforskningen, vil Netcompany stadig bistå politiet, lyder det videre.
+Tirsdag blev en 34-årig mand varetægtsfængslet for at opnå uberettiget adgang til oplysninger fra myndigheder samt it-virksomheden.
+Den sigtede har erkendt de faktisk omstændighederne i sagen, men han har ikke forsøgt at afpresse nogen, påstår han ifølge anklager i sagen Anders Larsson.
+Netcompany leverer it-løsninger til det offentlige. Blandt løsningerne kan nævnes skolernes kommunikationsplatform Aula og Borger.dk.
+Ifølge selskabet drejede tyveriet sig om kildekode og nogle simple manualer til Netcompany-værktøjer. Det konkretiseres ikke, hvilke værktøjer der er tale om.
+Derudover har selskabets egne eksperter vurderet, at datatyveriet har haft til hensigt at sprede rygter om et angreb i forsøget på at påføre skade.
+Siden historien om angrebet begyndte at rulle i flere medier fredag eftermiddag, er aktiekursen faldet med mere end fire procent.
+Netcompany har flere gange afvist, at der er tale om et såkaldt ransomwareangreb.
+Et sådant angreb er en særlig form for cyberkriminalitet, hvor hackere trænger ind i et it-system og låser det, så de autoriserede brugere ikke længere kan få adgang.
+Derefter kræver hackerne løsepenge for at fjerne låsen.
+Alle involverede i Netcompany har under hele forløbet og efterforskningen af datatyveriet håndteret sagen med professionalisme og alvorlighed og har holdt hovedet koldt.
+Det siger selskabets topchef, André Rogaczewski.
+» Det har været afgørende for at sikre, at tyveriet ikke har påvirket drift eller services hos nogen kunder eller os selv. Vi har haft en god dialog med vores kunder og de relevante myndigheder og med anholdelsen i mandags, anser vi vores andel i sagen som afsluttet«, siger han i meddelelsen.
+ritzau
+fortsæt med at læse

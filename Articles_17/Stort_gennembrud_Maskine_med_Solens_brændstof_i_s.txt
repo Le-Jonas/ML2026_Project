@@ -1,0 +1,81 @@
+Title: Stort_gennembrud_Maskine_med_Solens_brændstof_i_s
+Date: 2024-02-08
+Article Type: Lasse Foghsgaard
+Author: I Europas største fusionsreaktor er det med deltagelse af danske forskere lykkedes at nå en ny milepæl i jagten på at lave den reaktion, der foregår i Solen. Drømmen om en uudtømmelig grøn energikilde, som ikke udleder drivhusgasser, lever.
+
+P
+å en grå, diset og råkold vinterdag, hvor Solen har gemt sig bag et tungt skydække, kan man godt lune sig ved tanken om, at vi lige nu står ved siden af det varmeste sted i kongeriget Danmark.
+Vi er i et laboratorium på Fysikvej hos DTU i Kongens Lyngby og står i sikker afstand til en fusionsreaktor, som er døbt en tokamak. En russisk opfindelse fra 1950’erne, som ved første øjekast kunne ligne noget, som den skøre professor fra filmen ‘Tilbage til fremtiden’ kunne have monteret på sin bil for at tage på en tidsrejse.
+Fusionsreaktoren har et vakuumkammer formet som en donut, der er fyldt med det plasma, som Solen er lavet af. Gennem et lille rundt vindue med gitter for kan man se plasmaet som en lyserød tåge, der banker rundt i vakuumkammeret med cirka 10.000 omdrejninger i sekundet.
+Den store energi kom altså fra en vægt, som svarer til en tyvendedel af et sesamfrø
+Stefan Kragh Nielsen
+Professor
+DTU
+De fire forskere i kontrolrummet, der har tændt for fusionsreaktoren og på millisekunder fået temperaturen til at stige til næsten en million grader ved hjælp af mikrobølger, er ikke taget på en tidsrejse.
+De forsøger at genskabe den reaktion, som foregår inde i Solens kerne, hvor brintkerner smadrer ind i hinanden og bliver til helium, som frigør så meget varme, at du vil søge skygge på en sommerdag, selv om Solen befinder sig cirka 150 millioner kilometer væk med en overfladetemperatur på 5.500 grader og en kernetemperatur på 15,5 millioner grader.
+Professor og sektionsleder Stefan Kragh Nielsen står ved siden af tokamak fusionsreaktoren, hvor en donutformet lyserød plasma med en temperatur på en million grader holdes svævende ved hjælp af et magnetfelt. Ambitionen er at efterligne reaktionen i Solens indre og lave en nærmest uudtømmelig grøn energikilde. og redde os fra klimakrisen.
+Professor og sektionsleder Stefan Kragh Nielsen står ved siden af tokamak fusionsreaktoren, hvor en donutformet lyserød plasma med en temperatur på en million grader holdes svævende ved hjælp af et magnetfelt. Ambitionen er at efterligne reaktionen i Solens indre og lave en nærmest uudtømmelig grøn energikilde. og redde os fra klimakrisen. Foto: Finn Frandsen
+Hvis man havde stået ved siden af en tændt brændeovn, ville man have kunnet mærke strålevarmen, men man kan ikke mærke varmen fra det en million grader varme plasma inde i fusionsreaktoren.
+»Det skyldes blandt andet, at plasmaet, som har form som en donut, holdes svævende af et magnetfelt, som kommer fra nogle elektromagneter og dermed ikke kommer i kontakt med væggene i fusionsreaktoren«, siger professor og sektionsleder Stefan Kragh Nielsen, mens han kigger ind til det lyserøde plasma, hvor positive brintkerner og negative elektroner suser rundt og smadrer ind i hinanden.
+»Selv om de positive brintkerner af natur vil frastøde hinanden, vil den høje temperatur give brintkernerne så høj en hastighed, at når to brintkerner støder frontalt sammen i fusionsreaktoren, vil de smelte sammen og blive til helium med afgivelse af en frygtelig masse varme. Kernekraften vil i den ekstreme situation vinde over de elektrostatiske kræfter og få fusionen til at ske«, siger Stefan Kragh Nielsen.
+Det kunne lyde, som om verdens fusionsforskere allerede er nået i mål med at genskabe det, som foregår i Solens indre. Det er de til dels også, men der er en stor udfordring, der skal løses, hvis det for alvor skal batte noget.
+Udfordringen er, at man lige nu bruger mere energi på at holde fusionsreaktionen i gang end den energi, man får ud i den anden ende. Det vil sige, at fusionsreaktionen kun kan holde sig selv kørende i få sekunder.
+Med en halv liter vand ville vi have nok brint til at forsyne en husstand med energi i et helt år
+Riccardo Ragona
+Fusionsforsker
+DTU
+Det er den udfordring, som forskere i fusionsenergi i hele verden forsøger at knække. Hvis det lykkes, vil man kunne løse klimakrisen med et fingerknips. For fusionsreaktionen frigiver ikke drivhusgasser i form af CO
+2
+, og fusionsproduktet i form helium vil man for eksempel kunne indånde uden at tage skade. Til gengæld vil man få en sjov stemme.
+Og man vil ikke få radioaktivt affald, der skal henfalde i tusindvis af år, som man kender det fra atomkraft.
+»Hvis vi knækker koden til den perfekte fusionsreaktion, vil den tunge brint, som man ville kunne få ud af et badekar fyldt med havvand, være nok til at forsyne en gennemsnitsdansker med al den energi, han har brug for i hele sin levetid«, siger Stefan Kragh Nielsen.
+Der er en særlig god grund til, at Stefan Kragh Nielsen og hans medarbejdere har inviteret os ind for at se Skandinaviens eneste tokamak-fusionsreaktor, der er døbt NORTH, og som har en lille flagstang med dannebrog plantet på toppen. For i denne uge kunne de offentliggøre en verdensnyhed, som vil give genlyd i fusionskredse og skabe klimahåb.
+Stefan Kragh Nielsen
+Født i 1978
+nær Aalborg
+Student fra
+Aalborghus Gymnasium, 1997
+Uddannet fysiker
+ved Aarhus Universitet, 2003
+Ph.d. i fusionsfysik
+ved DTU i 2007
+Professor og leder
+af sektionen for plasmafysik og fusionsenergi på DTU
+Medlem af
+EUROfusion general assembly og Fusion4Energy Governance Board, som bygger den eksperimentelle fusionsreaktor ITER i Sydfrankrig
+Tidligere sessionsleder
+på JET-tokamakken i England, og videnskabelig koordinator på TEXTOR (forskningscenter Jülich, Tyskland) og ASDEX Upgrade (Max Plank Instituttet for plasmafysik, Tyskland)
+I et internationalt samarbejde, som DTU deltager i, er det lykkedes at presse den største tokamak-fusionsreaktor i Europa til det yderste og har slået en verdensrekord. Det er foregået i fusionsreaktoren JET, der står i Oxfordshire i England, hvor man har fået tunge brintkerner til at fusionere til helium i hele fem sekunder ved en temperatur på 150 millioner grader. Den vellykkede fusionsreaktion har resulteret i en rekordstor frigivelse af 69 megajoule energi fra blot 0,2 milligram af de to tunge brintisotoper deuterium og tritium.
+»Energien svarer til cirka 20 kWh, som er, hvad min familie på fire bruger i el på to dage, eller hvad en elbil bruger på at køre cirka 150 kilometer. Og den store energi kom altså fra en vægt, som svarer til en tyvendedel af et sesamfrø. Det fortæller meget om fusionsreaktionens potentiale«, siger Stefan Kragh Nielsen, som i 2010 arbejdede som sessionsleder ved fusionsreaktoren i England.
+Det er dog for tidligt at åbne vinduet og råbe til genboen, at nu er det lykkedes at skabe en kunstig sol på jorden, som vil få os ud af klimakrisen.
+»På trods af at vi får store mængder energi ud af fusionsreaktionen, oplever vi samlet set stadig et energitab, fordi vi bruger meget energi på at varme plasmaet op. Men vores aktuelle rekord vækker et stort håb om, at den eksperimentelle fusionsreaktor, som man er i gang med at bygge i Sydfrankrig, som er endnu større og er døbt ITER, vil kunne producere ti gange så meget energi, som man bruger til at sætte reaktionen i gang. Sker det, er vejen banet til at lave kraftværker, som kører på grøn fusionsenergi, der vil gøre fossile brændstoffer overflødige«, siger Stefan Kragh Nielsen.
+Hvis det lykkes os at fjerne turbulensen i det glohede plasma, har vi knækket koden til, at fusionsreaktionen vil kaste meget mere energi af sig.
+Stefan Kragh Nielsen
+Professor
+DTU
+Henrik Bindslev, der er professor i plasmafysik og fusionsenergi og dekan ved det tekniske fakultet ved Syddansk Universitet, er også begejstret for verdensrekorden.
+»Det er den største mængde fusionsenergi, der er blevet produceret i et menneskeskabt eksperiment til dato. Det bekræfter, at vi nu har det vidensgrundlag, der skal til, for at bygge verdens største fusionsreaktor ITER«, siger Henrik Bindslev og fortsætter:
+»I lyset af, at man har arbejdet med fusion i mere end 60 år, kan jeg godt forstå, hvis folk kan blive utålmodige og mister troen på det. Men jeg kan garantere for, at hvis det lykkes, vil vi ikke blot have en ny grøn energikilde. Det vil være en gigantisk gamechanger. Vi vil have ressourcer nok til al den energi, som kloden har brug for, og lige indtil Jorden er brændt ned af Solen«.
+Hvis man lavede en fusionsreaktion med tung brint fra en halv liter havvand, kunne man forsyne en husstand med energi i et år. Det fortæller, hvor stort potentialet er, hvis man får en fusionsreaktor til at fungere optimalt.
+Hvis man lavede en fusionsreaktion med tung brint fra en halv liter havvand, kunne man forsyne en husstand med energi i et år. Det fortæller, hvor stort potentialet er, hvis man får en fusionsreaktor til at fungere optimalt. Foto: Finn Frandsen
+Det er ikke kun i Europa, at der er fusionsfeber. I USA jubler man også, fordi man tre gange i træk i en anden slags fusionsreaktor – senest i december – havde succes med at få mere energi ud, end man investerede i fusionsreaktionen.
+I stedet for at bruge superledende magneter til at indeslutte det glohede plasma, som man gør i en tokamak-reaktor, har man i stedet bombarderet en lille guldbeholder med en lille frossen pille på størrelse med et peberkorn, som indeholdt en blanding af de to tunge brintisotoper deuterium og tritium. Laserbehandlingen, som foregik ved The National Ignition Facility i Californien, fik de tunge brintkerner til at fusionere ligesom i Solen, og for første gang i verdenshistorien lykkedes det at få mere energi ud af en fusionsreaktion tre gange i træk.
+De nye store forskningsgennembrud har vakt så meget optimisme i feltet, at Stefan Kragh Nielsen og hans kolleger håber på, at en fusionsreaktor kan blive koblet til en dampturbine på et kraftvarmeværk inden for de næste 15-25 år, medmindre man bliver ramt af uforudsete forsinkelser.
+Når man står i laboratoriet ved siden af den lille danske tokamak-reaktor, stjæler det lille vindue al opmærksomheden, hver gang et kortlivet plasma kaster et lyserødt skær ud på omgivelserne. Forskerne studerer, dels hvordan man kan gøre opvarmningen mere effektiv, dels hvorfor der opstår turbulens i plasmaet. De forsøger at sætte det på formel ved hjælp af supercomputere.
+»Vores drøm er at lave en model, der kan beskrive, hvordan turbulensen opstår, og hvad vi kan gøre for at skaffe os af med den. For hvis det lykkes os at fjerne turbulensen i det glohede plasma, har vi knækket koden til, at fusionsreaktionen vil kaste meget mere energi af sig end den forbruger. Og så vil fusionsdrømmen blive til virkelighed«, siger Stefan Kragh Nielsen.
+Det er den største mængde fusionsenergi, der er blevet produceret i et menneskeskabt eksperiment til dato
+Henrik Bindslev
+Dekan
+Syddansk Universitet
+For at forstå, hvad der er på spil i laboratoriet, kommer ph.d. og fusionsforsker Riccardo Ragona ind med en halv liter stor vandflaske. På flasken står der 2.500 kWh, som svarer til, hvad en mindre dansk husstand bruger på et år.
+»Med en halv liter vand ville vi have nok brint til at forsyne en husstand med energi i et helt år. Det fortæller, hvor stort perspektivet er, hvis vi lykkes med at få en fusionsreaktor til at fungere optimalt«, siger Riccardo Ragona.
+På gangen hos DTU Fysik hænger der en planche, hvor man kan læse om fusionsreaktoren ITER, som man er ved at bygge i Sydfrankrig. Den står formentlig færdig i løbet af dette årti, og forventningen er, at den vil kunne producere 10 gange så meget energi end den man bruger til at sætte fusionsreaktionen i gang. Det er i den svævende lyserøde plasma, at reaktionen skal foregå, hvor tunge brintkerner fusionerer til helium.
+På gangen hos DTU Fysik hænger der en planche, hvor man kan læse om fusionsreaktoren ITER, som man er ved at bygge i Sydfrankrig. Den står formentlig færdig i løbet af dette årti, og forventningen er, at den vil kunne producere 10 gange så meget energi end den man bruger til at sætte fusionsreaktionen i gang. Det er i den svævende lyserøde plasma, at reaktionen skal foregå, hvor tunge brintkerner fusionerer til helium. Foto: Finn Frandsen
+Da vi forlader laboratoriet, passerer vi på gangen en stor flot planche med den store fusionsreaktor ITER, som man er i gang med at bygge i Cadarache i Frankrig. Ved første øjekast kunne det ligne amfiteateret Colosseum i Rom, hvor et svævende lyserødt plasma med donutform har overtaget kamppladsen, hvor de kæmpende gladiatorer tørnede sammen.
+»Vi har fået et område stillet til rådighed, hvor vores udstyr skal stå. Det skal stå lige der og måle på de hurtige heliumpartikler, når reaktoren er bygget færdig i løbet af dette årti«, siger Martin Jessen, der er edb-medarbejder og altmuligmand på fusionsprojektet, mens han sætter en finger på planchen.
+»Det er verdens største videnskabelige eksperiment på landjorden og koster 100 milliarder kroner med deltagelse af 35 nationer. Det er budgetmæssigt kun overgået af Den Internationale Rumstation, hvor Andreas Mogensen arbejder lige nu«, siger Stefan Kragh Nielsen.
+Da vi har taget afsked og forlader bygningen, gemmer Solen sig stadig bag en grå dyne af skyer. På en plads bag bygningen står der nogle kæmpe gasbeholdere. På en af dem står der ’brint’, og den forsyner fusionsreaktoren på tredje sal med brint til at lave plasma. Noget kunne tyde på, at det kun er den kunstige sol på DTU, som vil komme til at skinne i dag.
+Rettelse: I en tidligere version af denne artikel kom vi ved en fejl til at skrive, at man kan få 2.500 megawatt ud af en halv liter vand i fusion. Der skulle have stået 2.500 kWh, som svarer til, hvad en mindre dansk husstand bruger på et år.
+Som abonnent kan du ubegrænset dele artikler med dine venner og familie. Læs mere om fordelene ved et abonnement
+her
+.

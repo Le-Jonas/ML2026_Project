@@ -1,0 +1,23 @@
+Title: Microsoft_Iranske_hackere_offentliggjorde_abonnenters_navne_og_telefonnumre_ved_angreb_pa_Charlie_Hebdo
+Date: 2023-02-03
+Article Type: Tech
+Author: En hackergruppe tilbød at sælge personoplysninger på over 200.000 abonnenter på satiremagasin efter hacking.
+
+Det var en gruppe af hackere, som er støttet af den iranske regering, som hackede det franske satiremagasin Charlie Hebdo i januar.
+Sådan lyder det fredag fra Microsoft.
+Magasinet blev hacket i starten af januar. Det skete, efter at Charlie Hebdo havde trykt karikaturtegninger af Irans religiøse leder, Ayatollah Khamenei.
+Ifølge Charlie Hebdo trykte magasinet tegningerne for at vise støtte til de demonstrationer, der foregår i Iran.
+I hackerangrebet blev der lækket private kundeoplysninger fra Charlie Hebdo.
+Tegningerne fik kritik fra Iran. Den franske ambassadør i Iran blev kaldt til samtale, og Iran besluttede at lukke et fransk forskningsinstitut i landet.
+På samme tidspunkt skrev en hackergruppe, som hedder ’Holy Souls’, på et forum på internettet, at den havde navne og kontaktoplysninger på over 200.000 abonnenter på Charlie Hebdo.
+Hackerne tilbød at sælge kontaktoplysningerne.
+Microsoft mener, at der blev gjort brug af teknikker, som svarer til, hvad hackergrupper, som har forbindelse til Iran, tidligere har gjort.
+Den franske avis Le Monde kunne senere bekræfte, at et udsnit af oplysninger, som blev lækket til offentligheden, var rigtige.
+Oplysningerne indeholdt blandt andet information om kundernes navne og telefonnumre.
+Ifølge Microsoft blev de lækkede data blandt andet også delt af en bruger på Twitter, som lod som om, at vedkommende var redaktør fra Charlie Hebdo.
+Microsoft mener, at abonnenterne var i risiko for at blive ramt af ekstreme grupper – enten på internettet eller ude i virkeligheden.
+Det har ikke været muligt for Reuters at få en kommentar fra den franske eller den iranske regering til meldingerne fra Microsoft.
+Charlie Hebdo har ingen kommentarer.
+fortsæt med at læse
+Vi troede ikke, at vi skulle høre mere om Rasmus Paludan. Det kommer vi til nu. Det har han lavet siden 2019
+Paludans afbrænding skaber protester, men der er stadig langt til tegningekrisen

@@ -1,0 +1,19 @@
+Title: 350_aarhusianere_har_faet_lækket_personlige_oplysn
+Date: 2023-10-03
+Article Type: Danmark
+Author: Et datalæk i Socialforvaltningen i Aarhus Kommune betyder, at 350 borgeres oplysninger er blevet lækket.
+
+En forkert fil er blevet vedhæftet i udsendelsen af en standardbesked fra Socialforvaltningen i Aarhus Kommune.
+Det betyder, at hundredvis af borgere uberettiget har modtaget en liste med personoplysninger på 350 borgere i kommunen.
+Det skriver afdelingen for Sociale Forhold og Beskæftigelse ved Aarhus Kommune i en pressemeddelelse.
+På grund af en menneskelig fejl i magistratsafdelingen for Sociale Forhold og Beskæftigelse har 274 borgere fejl fået tilsendt en liste over 350 borgeres personoplysninger og information om, at de enkelte personer har oprettet en sag i Socialforvaltningen i marts 2022.
+Personoplysningerne omfatter navn, adresse og cpr-nummer.
+Kontorchef i magistratsafdelingens stab for digitalisering Cecilie Mortensen kalder det dybt beklageligt i meddelelsen.
+»Det undskylder vi for. Både over for de borgere, der har fået lækket deres persondata, og de borgere, der har modtaget dem«, siger hun.
+Hun tilføjer yderligere, at afdelingen opfordrer til, at man omgående sletter de oplysninger, man har fået i hænde uretmæssigt.
+I stedet for listen over de 350 borgere personoplysninger skulle de 274 borgere have modtaget en standardskrivelse, som ikke bliver nærmere beskrevet i pressemeddelelsen.
+Afdelingen indstiller udsendelsen af den såkaldte standardskrivelse, indtil sagen er analyseret til bunds.
+Det fremgår dog, at det ligger fast, at der er tale om en menneskelig fejl, hvor en forkert fil er blevet vedhæftet.
+»Men det skal undersøges, hvordan sagsgangen kan sikres yderligere, så fejlen ikke kan ske igen«, lyder det i meddelelsen.
+Datalækket vil blive indberettet til Datatilsynet, fremgår det.
+Ritzau

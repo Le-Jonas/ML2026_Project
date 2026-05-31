@@ -1,0 +1,21 @@
+Title: Meta_udsætter_træning_af_kunstig_intelligens_i_Eur
+Date: 2024-06-14
+Article Type: Viden og tech
+Author: Efter pres fra datasikkerhedsmyndigheder udskyder Meta planer om at anvende brugeres data til AI-træning.
+
+Meta, der er selskabet bag Facebook og Instagram, udskyder sine plan om at anvende brugeres data til at træne kunstig intelligens.
+Det sker, efter at Irlands databeskyttelseskommission (DPC) har bedt selskabet sætte en stopper for planerne.
+Det oplyser Meta fredag ifølge Reuters.
+»Vi er skuffede over anmodningen, der kommer fra DPC på vegne af de europæiske datasikkerhedsmyndigheder. Særligt fordi vi har indarbejdet feedback fra myndighederne, der har været informeret siden marts«, skriver Meta:
+»Vi er fortsat overbeviste om, at vores tilgang er i overensstemmelse med de europæiske love og regler. Træning af kunstig intelligens er ikke unik for vores tjenester, og vi er mere åbne end de fleste af vores konkurrenter«
+For en uge siden klagede den europæiske datasikkerhedsorganisation Noyb over Meta i 11 europæiske lande.
+Noyb mente ikke, at det var tilstrækkeligt, når Facebook ville nøjes med at informere brugerne om, at deres data fremover kan blive brugt til at træne kunstig intelligens.
+Organisationen mente i stedet, at Meta skal følge de gældende GDPR-regler i EU og bede om samtykke hos den enkelte bruger, som altså også skal have muligheden for at sige nej.
+Meta har tidligere informeret sine brugere om, at tech-giganten fra 26. juni forbeholder sig retten til at anvende brugernes data til at træne kunstig intelligens.
+Det kan være tekst, billeder og beskeder, som brugerne har lagt på Facebook, og det kan både være private og offentligt tilgængelige data.
+Der er ikke tale om data i form af private beskeder sendt via Messenger.
+Både Google, Microsoft og OpenAI har udviklet kunstig intelligens, der har sproglig forståelse. Det er sket ved at træne systemerne med millioner af menneskeskabte tekster.
+Meta vil gerne udvikle en lignende algoritme, der både kan generere tekst og billede, og det kræver altså råmateriale mage til det, som brugere af Facebook og Instagram i årevis har lagt op på selskabets servere.
+ritzau
+fortsæt med at læse
+Elon Musk dropper søgsmål mod OpenAI

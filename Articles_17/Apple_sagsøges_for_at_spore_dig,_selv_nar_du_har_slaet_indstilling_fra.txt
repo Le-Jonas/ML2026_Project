@@ -1,0 +1,32 @@
+Title: Apple_sagsøges_for_at_spore_dig,_selv_nar_du_har_slaet_indstilling_fra
+Date: 2022-11-15
+Article Type: Kultur
+Author: Amerikansk tech-virksomhed har anlagt sag mod Apple for at krænke privatlivets fred.
+
+Torben Benner
+Journalist
+Hvis du er bekymret for at dele dine digitale data med andre og har en iPhone, har du sikkert afvist at sende information om, hvad du foretager dig til Apple. Ligesom du svarer nej, hver gang Apple spørger, om en app må spore din færden på nettet.
+Alligevel ser det ud til, at Apple overvåger de brugere, der udtrykkeligt har frabedt sig den slags. Det viser en undersøgelse fra software-selskabet Mysk, der nu har sagsøgt Apple, skriver flere amerikanske medier, blandt andre
+Mashable
+og videnskabs- og teknologi-mediet
+Gizmodo
+.
+App-udviklere og sikkerhedsforskere fra Mysk har fundet ud af, at Apple får informationer om »hvert eneste tryk, du laver« i Mysks egne apps. Også selv om du i ’Indstillinger’ har bedt om ikke at dele oplysninger med Apple.
+Apple har ellers de senere år gjort meget ud af at sikre brugernes privatliv, hvilket blandt andet er gået hårdt ud over Meta, der ejer Facebook og Instagram.
+Men den sikring af anonymitet og privatliv omfatter tilsyneladende ikke Apple selv.
+Ifølge
+Gizmodo
+undersøgte Mysk den data, der bliver indsamlet via Apple-apps som App Store, Apple Music, Apple TV, Bøger og Værdipapirer, og det viste sig, at det ikke havde nogen indflydelse på, hvad Apple høstede af oplysninger, om man havde bedt om ikke at blive sporet.
+På eksempelvis appen App Store blev der høstet informationer i realtid om alt, hvad brugeren foretog sig – hvilke apps man søgte på, hvilke reklamer man så, og hvor længe man kiggede på de enkelte apps. Ligeledes sendte appen detaljer om brugeren og brugerens ID, hvilken smartphone der blev brugt, sproget på keyboardet, og hvordan man var koblet på internettet.
+Selv om man fravalgte det, eller slog personaliserede reklamer fra, havde det ingen begænsende effekt på de detaljerede oplysninger, som Apples app sendte til Apple, fortæller Mysk til Gozmodo. Selskabet slog alle muligheder for at følge som personlige reklamer, personlige anbefalinger og muligheden for at dele data og analyser med Apple fra, uden at det havde nogen betydning.
+Hvis Mysk for eksempel brugte Apples app Værdipapirer, modtog Apple en liste over, hvilke aktier der blev søgt på, hvad de hed, og hvornår der blev søgt, ligesom Apple modtog en liste over de nyhedsartikler i appen, der blev læst.
+Gizmodo har gentagne gange forsøgt at få en kommentar fra Apple, men det er ikke lykkedes, skriver online-mediet.
+Mysk gennemførte undersøgelsen på en såkaldt
+jailbroken
+iPhone med styresystemet iOS 14.6. Selskabet kunne også se en lignende aktivitet på en iPhone med styresystemet iOS 16, der ikke var omfattet af begrænsningerne Apple og andre producenter lægger ned over sit operativsystems rod og funktioner. Men på grund af kryptering kunne Mysk ikke fastslå præcis, hvilke data der blev sendt.
+Mysk har nu anlagt en sag mod Apple for at overtræde Californiens lovgivning om privatlivets fred. Søgsmålet fokuserer på Apples indstillinger som ’Apps må anmode om sporing’ og ’Del analysedata’, der giver brugerne indtryk af, at de kan undgå den form for sporing.
+Torben Benner
+fortsæt med at læse
+Giganterne har et problem med EU-forlig
+Facebook og Apple i hidtil uset krig
+Dine apps ved alt om din færden – og de sladrer mod betaling

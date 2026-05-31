@@ -1,0 +1,19 @@
+Title: Kinesisk_gruppe_hacker_sig_ind_i_amerikanske_reger
+Date: 2023-07-13
+Article Type: Internationalt
+Author: 25 institutioner, heriblandt regeringsinstitutioner, i USA fik deres e-mails åbnet af kinesisk hackergruppe.
+
+Artiklen er opdateret kl. 17.45.
+På jagt efter efterretningsoplysninger har en kinesisk gruppe af hackere kendt som Storm-0558 sikret sig adgang til e-mail-konti ved 25 amerikanske institutioner, heriblandt føderale styrelser, oplyser techgiganten Microsoft, som udbyder e-mail-konti til institutionerne igennem deres system Microsoft 365, ifølge nyhedsbureauet AFP onsdag.
+»Microsoft har afbødet et angreb fra en kinesisk baseret trusselsaktør, som Microsoft kalder Storm-0558«, skriver techgiganten i en pressemeddelelse.
+En talsmand fra det amerikanske udenrigsministerium bekræfter, at der er blevet opdaget »unormal aktivitet« i ministeriets it-systemer, og at ministeriet »øjeblikkeligt har taget affære for at få sikret systemerne«.
+»Jævnfør vores politik om it-sikkerhed drøfter vi ikke detaljerne for vores reaktion, og hændelsen er stadig under efterforskning«, siger talsmanden.
+Ifølge den amerikanske avis The Washington Post har hackergruppen ikke sikret sig adgang til hemmelige dokumenter.
+Pentagon (det amerikanske forsvarsministerium, red.), efterretningstjenesterne og konti hos det amerikanske militær ser ikke ud til at være blevet ramt af angrebet.
+Udenrigsministeriet siger desuden ifølge nyhedsbureauet Reuters, at det ikke ser nogen grund til at betvivle Microsofts antagelser om, at det er en kinesisk hackergruppe, som står bag angrebet. Ministeriet siger desuden, at det blev gjort opmærksom på angrebet på øjeblikkelig vis af Microsoft.
+Omfanget af angrebet er endnu en smule uklart, men en embedsmand fra den amerikanske regering siger, at det slet ikke betragtes som værende i samme størrelsesorden som SolarWind – et stort formodet russisk cyberangreb, som blev offentligt kendt i 2020.
+ritzau
+fortsæt med at læse
+USA er langsomt ved at forstå omfanget af russisk hackerangreb, og nu breder bekymringen sig
+Ukraine har afværget russisk cyberstorm. Her er tre forklaringer
+Microsoft: Iranske hackere offentliggjorde abonnenters navne og telefonnumre ved angreb på Charlie Hebdo

@@ -1,0 +1,19 @@
+Title: ChatGPT_undskylder_for_at_have_kopieret_Scarlett_J
+Date: 2024-05-21
+Article Type: Tech
+Author: OpenAI, som står bag ChatGPT, dropper midlertidigt en af sine AI-stemmer, da den lyder som skuespilleren Scarlett Johansson.
+
+Artiklen er opdateret kl. 15.48.
+Selskabet OpenAI, som står bag den populære chatbot ChatGPT, har mandag meddelt, at det vil fjerne af de AI-stemmer, som ChatGPT kan tale med. Det sker, fordi stemmen lyder for meget som skuespillerinden Scarlett Johansson. Det fremgår af et blogopslag fra selskabet.
+Det drejer sig om kvindestemmen ’Sky’, som er udviklet på baggrund af en anden professionel skuespillerindes stemme, og det er ikke meningen, at den skal lyde som Scarlett Johansson, skriver OpenAI.
+»Vi mener ikke, at AI-stemmer med overlæg bør efterligne en berømtheds karakteristiske stemme«.
+Alligevel vil OpenAI nu sætte brugen af Skys stemme på pause, mens selskabet får styr på den forvirring, der er opstået omkring kvindestemmen, skriver selskabet i et opslag på det sociale medie X.
+»Vi har fået mange spørgsmål om, hvordan vi udvælger stemmer til ChatGPT, særligt Sky«, lyder det i opslaget.
+Ud over Sky kan ChatGPT også tale med en række andre kunstige stemmer. De hedder Breeze, Cove, Ember og Juniper.
+Sky trak også opmærksomhed, da OpenAI i sidste uge offentliggjorde sin nyeste model af teknologien – eller motoren – bag ChatGPT ved navn GPT-4o. Til demonstrationen af den nye model lagde Sky stemme til ChatGPT og viste, hvordan den nye teknologi skal få chatbotten til at virke mere menneskelig og realistisk – blandt andet som samtalepartner.
+Flere gange under demonstrationen kom Sky med kommentarer, som blev opfattet som sjove og endda flirtende. Deltagere bemærkede også her, at Sky i høj grad lyder som Scarlett Johansson, der i filmen ’Her’ fra 2013 lagde stemme til en AI-assistent, som en mand spillet af Joaquin Phoenix bliver forelsket i.
+Efter sidste uges præsentation skrev Sam Altman, som er administrerende direktør for OpenAI, et kortfattet opslag på det sociale medie X med teksten ’Her’. Flere har opfattet dette som en reference til filmen med Johansson, og det har skabt yderligere forvirring omkring baggrunden for skabelsen af Sky.
+OpenAI har tirsdag beklaget over for skuespilleren Scarlett Johansson. Altmans undskyldning fremgår af en erklæring, som nyhedsbureauet AFP har læst.
+»Af respekt for fru Johansson har vi sat brugen af Skys stemme på pause. Vi beklager over for fru Johansson, at vi ikke kommunikerede bedre«, lyder det.
+Scarlett Johansson udtalte mandag, at hun var »chokeret og vred« over, at stemmerne lød så ens, at »mine nærmeste venner samt medier ikke kan høre forskel«.
+ritzau

@@ -1,0 +1,21 @@
+Title: Microsoft_arbejder_pa_at_løse_it-nedbrud_midt_i_gl
+Date: 2024-07-19
+Article Type: Tech
+Author: Først på natten blev Microsoft opmærksom på problemer, som siden ramte myndigheder og lufthavne i hele verden.
+
+It-selskabet Microsoft meddeler, at det fredag formiddag arbejder på at løse problemerne, som har ramt brugere over hele verden, og som påvirker flytrafikken både i Australien, Asien, Europa og USA.
+Selskabet skriver på det sociale medie X, at dets tjenester ’ser fortsat vedvarende forbedringer’.
+Arbejdet med at løse problemerne har varet flere timer.
+Allerede omkring klokken 01.40 meddelte Microsoft på X, at det var blevet opmærksom på, at dets brugere havde problemer med at tilgå visse af selskabets programmer og tjenester.
+Siden bredte problemerne sig.
+Der er tale om et globalt nedbrud, som tilsyneladende skyldes en opdatering af antivirusprogrammet CrowdStrike. Opdateringen får computere, der bruger visse Microsoft-styresystemer, til at gå ned.
+Konkret bliver brugerne mødt af en blå skærm og en besked om, at deres computer skal genstartes.
+»Din enhed er ramt af problemer og skal genstartes, står der på skærmen.
+Det hjælper dog ikke at tænde og slukke computeren.
+Særligt Australien ser ud til at være hårdt ramt. Her er både supermarkeder, tankstationer, banker og flere lufthavne påvirket.
+Det har blandt andet givet problemer med check-in-systemerne og bagagehåndteringen, og fly er blevet forhindret i at lette.
+Supermarkeder og andre butikker er samtidig blevet tvunget til at lukke.
+I Europa er det især lufthavnene, som mærker til problemerne. Alle lufthavne i Spanien er påvirket, mens lufthavne og flyselskaber i blandt andet Danmark, Tyskland, Holland og Storbritannien også er ramt i et vist omfang.
+Blandt andet har driften været helt indstillet i Berlin Brandenburg Lufthavn.
+Der er foreløbig ingen prognose for, hvornår Microsoft har løst problemerne.
+ritzau

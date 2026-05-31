@@ -1,0 +1,27 @@
+Title: Danske_forfatteres_bøger_bliver_udnyttet_uden_till
+Date: 2023-07-18
+Article Type: Kultur
+Author: Bøger af danske forfattere bliver uden tilladelse brugt til at træne kunstig intelligens og chatbots, siger Dansk Forfatterforening.
+
+Lotte Thorsen
+Journalist
+Danske forfatteres ophavsretsligt beskyttede værker bliver uden tilladelse brugt til at træne kunstig intelligens og chatbots.
+Det fortæller Dansk Forfatterforenings formand, Morten Visby, til
+Jyllands-Posten
+. Ifølge formanden har foreningen konkrete eksempler på, at danske forfatteres værker i fuld længde indgår i datasæt, som bliver brugt til at træne AI-værktøjer.
+Han vil ikke fortælle, hvilke danske forfatteres værker det drejer sig om. Men han oplyser, at Forfatterforeningen i samarbejde med Rettighedsalliancen – en sammenslutning af organisationer i den kreative branche – er i gang med at afklare omfanget.
+»Det har potentiale til at undergrave rettighedshavernes mulighed for at tjene penge på deres værker, når de bliver brugt på den her måde,« siger Maria Fredenslund til Jyllands-Posten. Hun er advokat med speciale i internetrettigheder og direktør for Rettighedsalliancen.
+De to organisationer har fået indsigt i et offentliggjort datasæt kaldet Books3, som blandt andet bruges til at træne Bloombergs og Facebooks AI-sprogmodel. Hele Books3-datasættet stammer fra et ulovligt tysk fildelingssite, hvor Rettighedsalliancen og Dansk Forfatterforening har fundet ulovlige kopier af danske forfatteres bøger.
+Kunstig intelligens trænes typisk ved, at man fodrer en algoritme med en masse materiale, som den kan bruge til at træne sig selv i at føre en dialog med mennesker.
+I USA er forfattere allerede begyndt at sagsøge Meta Platforms, der ejer Facebook og Instagram, og skaberen af ChatGPT, OpenAI, for uden tilladelse at have brugt
+deres værker til at træne kunstig intelligens
+.
+Senest har standupkomiker Sarah Silverman og forfatterne Richard Kadrey og Christopher Golden sagsøgt de to selskaber for at bruge deres værker til at træne deres AI-modeller.
+De mener, at de to selskaber har brugt deres værker til træning af kunstig intelligens, og at man angiveligt kan se på svaret fra ChatGPT, at den er blevet trænet med deres bøger.
+Både Maria Fredenslund og Morten Visby forventer ifølge Jyllands-Posten, at der kommer lignende danske søgsmål.
+I begyndelsen af juni tråde et nyt EU-direktiv i kraft, som betyder, at alle må foretage såkaldt tekst- og datamining, som anvendes, når man vil træne en kunstig intelligens, medmindre rettighedshaverne udtrykkeligt har taget forbehold.
+Det har fået blandt andre brancheorganisationen Danske Forlag til at anbefale sine medlemmer »hurtigst muligt« at tage forbehold for denne datahøst.
+»Man kan altid på et senere tidspunkt åbne op igen og eventuelt gøre en tilladelse betinget af et vederlag,« skriver Danske Forlag på deres hjemmeside.
+Lotte Thorsen
+fortsæt med at læse
+Kunstnere har fået nok: Nu vil de stoppe kunstig intelligens

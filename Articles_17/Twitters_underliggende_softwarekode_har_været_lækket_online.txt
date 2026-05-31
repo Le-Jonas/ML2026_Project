@@ -1,0 +1,24 @@
+Title: Twitters_underliggende_softwarekode_har_været_lækket_online
+Date: 2023-03-27
+Article Type: Internationalt
+Author: Tidligere medarbejdere er i søgelyset, efter at Twitters kildekode blev lækket på onlineplatform.
+
+En del af det sociale medie Twitters kildekode har været lækket på internettet.
+Det viser retsdokumenter ifølge den amerikanske avis The New York Times.
+Kildekoden er den underliggende computerkode, som det sociale netværk kører på. Den er normalt en forretningshemmelighed.
+Fredag bad Twitter platformen GitHub, hvor softwareudviklere kan samarbejde, om at fjerne koden fra platformen.
+Det ønske efterkom GitHub, men kildekoden kan have været tilgængelig i flere måneder ifølge den amerikanske avis. Det vides dog ikke, præcist hvor længe den har ligget på platformen.
+Twitter har påbegyndt en intern undersøgelse af lækket. To anonyme personer med kendskab til undersøgelsen melder ifølge The New York Times, at Twitter antager, at de ansvarlige for lækket er tidligere ansatte.
+Her skal Twitter dog også lede blandt en ganske stor gruppe mennesker.
+Siden Elon Musk købte selskabet i oktober og indsatte sig selv som direktør, vurderes omkring 75 procent af selskabets 7.500 ansatte enten at være blevet fyret eller selv at have opsagt deres stilling. Det skriver det amerikanske medie.
+Twitter har indleveret dokumenter til distriktsdomstolen for Californiens nordlige distrikt. Her beder Twitter om, at GitHub identificerer personen bag lækket. Også personer, som har downloadet koden, ønsker Twitter at kende til.
+Elon Musk har tidligere sagt, at han vil give offentlig adgang til den kode, der bruges til at anbefale Twitter-opslag til brugere.
+Det står ikke klart, om den del af kildekoden er blandt de lækkede dele.
+Twitter er ikke umiddelbart vendt tilbage på en henvendelse om en kommentar fra mediet CNBC.
+Ifølge The New York Times går den person, som lækkede kildekoden under navnet ’FreeSpeechEnthusiast’ på GitHub - altså ytringsfrihedsentusiast.
+Det menes at være en stikpille til Musk, der har beskrevet sig selv som ’free speech absolutist’.
+Musks Twitter-opkøb blev i løbet af 2022 en langvarig saga.
+Efter at have opkøbt Twitter-aktier i starten af året tilbød Musk at købe hele platformen for 44 milliarder dollar i april.
+Han trak sig senere fra aftalen, men Twitters ledelse lagde sag an mod rigmanden for at sørge for, at han holdt sig til aftalen.
+Det endte med, at mediet blev købt i oktober for den oprindeligt tilbudte købssum, men for at finansiere købet var Musk nødt til at sælge ud af sine Tesla-aktier for millioner af dollar.
+ritzau

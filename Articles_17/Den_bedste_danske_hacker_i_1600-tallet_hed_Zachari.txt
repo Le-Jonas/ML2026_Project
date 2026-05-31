@@ -1,0 +1,10 @@
+Title: Den_bedste_danske_hacker_i_1600-tallet_hed_Zachari
+Date: 2023-10-11
+Article Type: Bagsiden
+Author: Vi taler ofte om stærke og svage koder og om sjusket omgang med koder til it-systemer. Selv om man ikke havde it i 1600- og 1700-tallet, er der en del ligheder mellem datiden og nutiden.
+
+Vi taler ofte om stærke og svage koder og om sjusket omgang med koder til it-systemer. Selv om man ikke havde it i 1600- og 1700-tallet, er der en del ligheder mellem datiden og nutiden.
+Jørgen Mikkelsen
+arkivar
+M ange bliver jævnligt irriteret over koder på 8-12 tegn med store og små bogstaver, tal og specialtegn. Men kast så et blik på billedet ovenfor. Det viser en afskrift af et brev, som en købmandssvend i Göteborg sendte til sine arbejdsgivere under den dansk-svenske krig i 1650’erne. Brevet blev opsnappet af danske myndigheder og endte i København, hvor det lykkedes kancellisekretæren Zacharias Lund at omsætte alle ordene til ’klartekst’.
+Købmandssvenden benyttede en såkaldt chiffernøgle, hvor hvert bogstav, stavelse eller ord kunne oversættes til tal, bogstaver eller andre tegn. Sådanne nøgler havde været i brug rundtom i Europa gennem flere hundrede år. Det var nemlig en velkendt sag, at alle – især i krigstid – kunne risikere at få åbnet og læst deres breve under transporten til modtageren, hvorefter brevet som regel blev forseglet igen og sendt videre. I Rigsarkivet er der dog en del pakker med opsnappede breve fra 1600- og 1700-tallet – altså breve, der aldrig nåede frem til den rette modtager. Arkivet har også en række chiffernøgler, og de er for det meste blevet udstedt af de danske centralmyndigheder til brug for danske diplomater i udlandet eller andre, der havde behov for at kryptere deres breve helt eller delvis.

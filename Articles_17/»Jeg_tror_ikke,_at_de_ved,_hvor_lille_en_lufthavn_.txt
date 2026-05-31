@@ -1,0 +1,38 @@
+Title: »Jeg_tror_ikke,_at_de_ved,_hvor_lille_en_lufthavn_
+Date: 2024-02-25
+Article Type: Danmark
+Author: Flere cyberangreb har ramt danske hjemmesider søndag. Prorussisk hackergruppe vil ramme infrastrukturen.
+
+Artiklen er senest opdateret kl. 21.33.
+Flere danske hjemmesider er søndag eftermiddag og aften blevet lagt ned efter at være ramt af cyberangreb. Det gælder blandt andet Københavns Lufthavn, Trafikstyrelsen og Movia. Ifølge TV 2 har den
+russiske hackergruppe NoName057
+, taget ansvaret for angrebet på danske hjemmesider som gengældelse for Danmarks løfte om fortsat støtte til Ukraine.
+TV 2 citerer gruppen for søndag at skrive på beskedtjenesten Telegram, at den for anden dag i træk giver Danmark en »uforglemmelig weekend« og vil ramme tre transportwebsteder og en kommune.
+Københavns Lufthavn oplyser således også på Facebook, at hjemmesiden cph.dk udsættes for cyberangreb, og at siden er gået ned.
+»Har du behov for informationer om din flyrejse, beder vi dig bruge vores smartphone-app, som du kan downloade gratis i din app-store«, skriver lufthavnen på Facebook.
+Derudover påvirker angrebet booking af parkeringspladser ved lufthavnen.
+Pressevagten ved Københavns Lufthavn Lene Elmegaard siger til TV 2 Kosmopol, at det drejer sig om et
+overbelastningsangreb
+.
+»Det er et DDoS-angreb, som er et overbelastningsangreb, hvor hjemmesiden bliver bombarderet med henvendelser«, lyder det.
+Ifølge hende virker angrebet mere professionelt organiseret end tidligere set.
+Hjemmesiden blev ramt ved middagstid søndag, og forventningen er, at den vil være oppe igen om et par timer, skrev TV 2 Kosmopol ved 17-tiden. Ifølge TV 2 News vil hjemmesiden dog først være oppe igen mandag formiddag, har pressechef ved Københavns Lufthavn Lise Agerley oplyst.
+Det har ikke været muligt for Ritzau at få afklaring om, hvornår hjemmesiden forventes at være oppe igen. Lene Elmegaard siger, at lufthavnen arbejder på at få problemet løst.
+Også Thisted Kommune fik lagt sin hjemmeside ned af hackerangreb. Michael Max, der er leder af kommunens kommunikation, bekræfter over for TV Midtvest, at
+russiske hackere
+har været på spil. Her har angrebet været rettet mod Thisted Lufthavns hjemmeside, har kommunen oplyst til mediet.
+»Jeg tror ikke, at de ved, hvor lille en lufthavn der er tale om«, siger han til TV Midtvest.
+Han tilføjer, at borgernes følsomme oplysninger ikke er i fare. Det drejer sig kun om praktiske informationer på hjemmesiden.
+Målet er at skabe utryghed i en digitaliseret verden, hvor vi kommunikerer rigtig meget ud via internettet, lyder det fra Peter Kruse, der er it-sikkerhedsekspert i sikkerhedsfirmaet CSIS:
+»Når man rammer transport, så rammer man kritisk infrastruktur, som er noget, vi er afhængige af«.
+Han tror dog, at målene søndag har været at ramme tilfældig infrastruktur.
+»Jeg tror, gruppen har søgt på ’airport’ (lufthavn, red.), og så har de valgt noget af det, der kom frem i deres søgning«, siger han.
+Det er ifølge ham derfor, at både store og små virksomheder er blevet ramt.
+Peter Kruse regner med, at Danmark vil blive ramt af flere lignende angreb både søndag og mandag, fordi gruppen er lykkedes med at lægge hjemmesiderne ned, da de ikke har været beskyttet godt nok mod angrebene. Men ifølge Peter Kruse, kan det undgås i fremtiden, hvis virksomhederne sikrer sig mod DDoS-angreb:
+»Det koster nogle penge, men pengene vejer op mod det, man oplever nu af tab af tillid og usikkerhed«.
+Ritzau
+fortsæt med at læse
+Situationen er så alvorlig, at politikerne ikke kan få at vide, hvilke it-systemer der har problemer med sikkerheden
+Cybertrussel mod kritisk infrastruktur kan stige uden varsel
+Hackergruppe hævder at stå bag:
+Lufthavnes hjemmesider lagt ned

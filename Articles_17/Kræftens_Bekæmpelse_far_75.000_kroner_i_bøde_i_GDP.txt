@@ -1,0 +1,24 @@
+Title: Kræftens_Bekæmpelse_far_75.000_kroner_i_bøde_i_GDP
+Date: 2024-10-01
+Article Type: Danmark
+Author: Computere hos Kræftens Bekæmpelse var ikke tilstrækkeligt beskyttet, da de blev stjålet og udsat for hacking.
+
+Kræftens Bekæmpelse idømmes en bøde på 75.000 kroner for brud på EU’s databeskyttelsesforordning, kendt som GDPR, i forbindelse med tyveri af 11 computere og to hackerangreb rettet mod organisationen.
+Datatilsynet og anklagemyndigheden havde forlangt en bøde på 800.000 kroner.
+Det oplyser Københavns Byret i et resumé af dommen bragt på rettens hjemmeside.
+Kræftens Bekæmpelses direktør, Jesper Fisker, har givet møde på organisationens vegne i sagen. Han udtrykker tilfredshed trods domfældelsen.
+»Vi havde naturligvis hellere været bøden foruden, men vi er umiddelbart tilfredse med bødestørrelsen. Der er langt op til de 800.000 kr., som anklagemyndigheden havde nedlagt påstand om. Vi har hele tiden været af den holdning, at det beløb var alt for voldsomt«, siger han i en pressemeddelelse.
+Sagen drejer sig om en række episoder i en periode fra 2018 og to år frem. Her blev organisationens lokaler først ramt af to indbrud, og i alt 11 computere blev stjålet.
+Efterfølgende lykkedes det et par gange for hackere via såkaldte phishingangreb at få adgang til ansattes brugerkonti og få adgang til forskellige oplysninger.
+Datatilsynet meldte i efteråret 2021 ud i en pressemeddelelse, at datasikkerheden hos organisationen var kompromitteret i en sådan grad, at det skulle udløse en bøde på 800.000 kroner.
+Ifølge Datatilsynet var kræftsyge borgeres følsomme oplysninger blevet gjort tilgængelige for uvedkommende. I et udkast til pressemeddelelsen, som blev dokumenteret under retssagen, fremgik det tilmed, at der blandt andet var tale om patientjournaler.
+Under retssagen fortalte direktør Jesper Fisker, at det ikke var tilfældet. Der var mestendels tale om artikler beregnet til udgivelse, hvor i alt 28 kræftramte medvirkede.
+Derudover blev der lækket nogle personnumre og oplysninger om, at en medarbejder var på barsel og havde født.
+I dommen lægger Københavns Byret vægt på, at organisationen ikke i tilstrækkelig grad havde beskyttet sine computere og it-systemer med kryptering og såkaldt multifaktorgodkendelse. Derfor findes organisationen skyldig.
+Bødestraffen er imidlertid markant lavere end de 800.000, som var kravet fra myndighedernes side. Her har retten blandt andet lagt vægt på, at Kræftens Bekæmpelse har et godgørende formål og ikke har profit for øje.
+Retten har desuden lagt vægt på, at sagsbehandlingstiden har været lang, uagtet at sagen ikke har været kompleks.
+Kræftens Bekæmpelse oplyser i forbindelse med dommen, at organisationen har strammet op på it-sikkerheden siden datasikkerhedsbruddene.
+»Der er tale om sikkerhedsbrud, som ligger flere år tilbage og er blevet håndteret for længe siden«, lyder det fra Jesper Fisker.
+»Som konsekvens af bruddene har vi gennemført en række tiltag for at sikre, at noget lignende ikke vil kunne ske igen, for eksempel kryptering af computere og tofaktor-systemer ved login. Vi har stor opmærksomhed på GDPR og håndtering af brugernes personoplysninger«, siger han.
+Parterne har mulighed for at anke sagen til Østre Landsret. Fristen er to uger.
+ritzau

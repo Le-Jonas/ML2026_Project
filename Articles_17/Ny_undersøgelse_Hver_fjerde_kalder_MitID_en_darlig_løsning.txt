@@ -1,0 +1,27 @@
+Title: Ny_undersøgelse_Hver_fjerde_kalder_MitID_en_darlig_løsning
+Date: 2022-11-19
+Article Type: Danmark
+Author: Ny rapport viser, at brugere af MitID ikke synes om den. Samtidig har en restgruppe svært ved at følge med.
+
+Med udskudte deadlines og lange ventetider for hjælp har udrulningen af den nye digitale løsning MitID mødt bump på vejen. Selv om mange har fået installeret MitID, er der stadig en vis skepsis i forhold til løsningen, viser en ny rapport fra Rambøll og Dansk IT, der har spurgt 1.000 repræsentativt udvalgte borgere om blandt andet omlægningen til MitID.
+Svarene er indhentet i perioden april til august via spørgeskemaer. 86 procent af de adspurgte svarer, at de på tidspunktet for undersøgelsen har installeret MitID, typisk på telefonen. 26 procent af dem vurderer MitID som dårlig, mens 32 procent finder den god. 42 procent siger nogenlunde.
+»Det er ikke overraskende, at noget nyt ikke er elsket fra dag ét, for al forandring er svær. Men det er nogle ret markante tal«, siger Asger Højen Danielsen, der er direktør ved Rambøll Management Consulting.
+32 procent er i den lave ende og »på Aula-niveau«, siger Asger Højen Danielsen med henvisning til skolernes kommunikationsplatform, Aula, som kun 33 procent synes om:
+»Det er cirka halvt så mange, der vurderer den (MitID, red.) som god, som når vi har spurgt, om folk kan lide løsninger som sundhed.dk eller Min Læge«.
+Oprindeligt skulle alle være flyttet fra den gamle løsning, NemID, til MitID inden udgangen af juni. Men den frist blev til 31. oktober på grund af lange ventetider hos Borgerservice i foråret. Rapporten fra Rambøll viser også, at 14 procent på tidspunktet for undersøgelsen endnu ikke havde MitID. For knap hver anden, 46 procent, handlede det om, at de ikke kunne finde ud af det. Knap hver tredje, 33 procent, havde ikke en egnet telefon.
+MitID er først og fremmest en app til smartphone eller tablet.
+»Tidligere med NemID krævede det et papkort og ikke ret meget it derhjemme. I dag tager man afsæt i, at verden er en anden, og det betyder, at for dem, der ikke har en telefon, eller for dem, der finder teknologi svært, bliver det sværere«, siger Asger Højen Danielsen.
+Det er problematisk, mener han, fordi MitID er en central del af den digitale infrastruktur i Danmark.
+»Derfor er det også vigtigt, at den er velsmurt og velkørende, og at vi alle føler, at vi har styr på det«.
+Når myndigheder i fremtiden skal udrulle lignende projekter, kræver det bedre forberedelse. Særligt i forhold til de grupper, det er svært for, mener Asger Højen Danielsen.
+»Der må vi teste løsningerne, kommunikationen og hjælpevejledningerne rigtig godt og sikre os, at vi har testet brugsscenarierne helt ud i yderste instans, så alle kan komme med over relativt gelinde«.
+Politiken har siden i sommer sat fokus på den store gruppe af danskere, der føler sig hægtet af samfundet som følge af øget digitalisering i det offentlige. Læs artiklerne i serien ’Den digitale underklasse’
+her
+.
+ritzau
+fortsæt med at læse
+Tusindvis af danskere mister adgang til egne penge
+»Et mareridt«:
+Tusindvis af danskere i udlandet bliver bedt om at tage i borgerservice for at komme på MitID
+Kommuner må hjælpe de samme borgere igen og igen:
+Opgaven med MitID er »langt større« end NemID

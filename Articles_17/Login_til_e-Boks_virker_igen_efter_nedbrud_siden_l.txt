@@ -1,0 +1,17 @@
+Title: Login_til_e-Boks_virker_igen_efter_nedbrud_siden_l
+Date: 2023-04-23
+Article Type: Danmark
+Author: Søndag eftermiddag er det muligt at logge ind på e-Boks.dk, efter det har været nede siden lørdag formiddag.
+
+Artiklen er opdateret klokken 14.00
+Søndag eftermiddag er det muligt at logge ind på e-Boks.dk, efter det har været nede siden lørdag formiddag.
+Det skulle søndag eftermiddag igen være muligt for borgere at tilgå deres digitale post på nettet.
+Det oplyser Digitaliseringsstyrelsen til Ritzau.
+Det har siden lørdag formiddag ikke været muligt for borgere at tilgå deres digitale post på nettet.
+»Der opleves tekniske problemer med den offentlige NemLog-In løsning, som kan medføre, at du ikke kan logge på e-Boks med MitID eller NemID, har det lydt på e-Boks’ hjemmeside siden lørdag«.
+Digitaliseringsstyrelsen oplyste tidligere søndag formiddag, at der ud over e-Boks også var problemer med login på borger.dk og virk.dk, hvor man også kan få vist post fra det offentlige.
+Det var en fejl hos en af styrelsens leverandører, der var skyld i nedbruddet.
+Det betød, at der var problemer, hvis man forsøgte at tilgå hjemmesiderne, når man skulle bruge NemID eller MitID til at logge ind.
+Disse problemer skulle nu være løst, og det skulle være muligt at logge ind fra alle platforme igen.
+E-Boks er en platform til digital post mellem private, virksomheder og myndigheder. Tjenesten betjener 5,8 millioner brugere i Danmark og involverer både private brugere og virksomhedsbrugere.
+ritzau

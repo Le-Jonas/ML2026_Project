@@ -1,0 +1,19 @@
+Title: Datalæk_efter_hackerangreb_kan_være_større_end_ant
+Date: 2023-09-26
+Article Type: Danmark
+Author: I august skaffede hackere sig adgang til data fra fem uddannelsesinstitutioner i Sønderjylland.
+
+Et hackerangreb 31. august hos IT-Center Syd, som er et IT-center for Sønderborg Statsskole, kan være mere alvorligt end hidtil antaget.
+Sådan lyder det fra rektor på Sønderborg Statsskole Ole Kamp Hansen i en pressemeddelelse.
+Hackerne kan muligvis have haft adgang til anden data end det, som berører elever og ansatte på Sønderborg Statsskole.
+Det kan for eksempel være personfølsomme data fra tidligere ansatte, tidligere elever, samarbejdspartnere, ansøgere og forældre (CPR-numre).
+Det er ikke alle i de ovennævnte grupper, som skolerne har data liggende på. Det er heller ikke alle data, som er blevet lækket, oplyser Statsskolen i pressemeddelelsen.
+»Men vi anbefaler, at man, hvis man potentielt falder inden for én af de ovennævnte grupper, er ekstra opmærksom og tager sine forholdsregler. Datalækket er stoppet, men skolen har ikke mulighed for at slette de data, som befinder sig på the dark web«, siger Ole Kamp Hansen.
+IT-Center Syd er IT-center for fem uddannelsesinstitutioner, som alle er ramt af hackerangrebet.
+Det drejer sig om EUC Syd, Sønderborg Statsskole, Gråsten Landbrugsskole, Privatskolen-Als og Sønderborg International School.
+Hackerne har lagt store mængder af personfølsomme oplysninger om 7500 elever og 750 lærere ud på internettet.
+Hackerangrebet blev opdaget 31. august, men det er først mandag - efter DR skrev om angrebet - at politiet er blevet bekendt med sagen.
+Sammen med National Enhed for Særlig Kriminalitet (NSK) har Syd- og Sønderjyllands Politi nu indledt en efterforskning af sagen.
+Politiet opfordrer borgere til, at man ikke forsøger at komme i besiddelse af det lækkede materiale. Og at man ikke deler det videre, hvis man er i besiddelse af det.
+ritzau
+fortsæt med at læse

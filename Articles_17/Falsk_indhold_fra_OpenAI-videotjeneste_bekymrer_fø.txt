@@ -1,0 +1,26 @@
+Title: Falsk_indhold_fra_OpenAI-videotjeneste_bekymrer_fø
+Date: 2024-02-17
+Article Type: Tech
+Author: OpenAI, som står bag ChatGPT, har oplyst, at en ’tekst-til-video’ løsning ved navn Sora bliver testet.
+
+Selskabet bag ChatGPT er på vej med en ny tjeneste, der kan generere korte videoer ved hjælp af simple tekstkommandoer og kunstig intelligens.
+Det skaber bekymring hos både kunstnere og medieprofessionelle, skriver nyhedsbureauet AFP.
+Selskabet OpenAI, som også står bag chatrobotten ChatGPT, har torsdag oplyst, at en ’tekst-til-video’ løsning ved navn Sora bliver testet.
+Brugerne kan komme med input til både stil og indhold af videoklip, der kan vare op til et minut. Sora kan generere komplekse scener med flere karakterer, bevægelser og nøjagtige detaljer, har OpenAI oplyst.
+Tjenesten er dog endnu ikke perfekt, lyder det. Eksempelvis har Sora stadigvæk svært ved at skelne mellem højre og venstre.
+Her er et eksempel på, hvad der kan lade sig gøre, som tjenesten selv har lagt ud på X:
+Tidligere journalist og nu forsker ved Stanford University Basile Simon mener, at det indtil videre har været nemt af spotte falske billeder.
+»Men det her nye software ser ud til at fungere på et nyt niveau«, siger Basile Simon.
+Han frygter, at mediebrugere ikke længere vil kunne være sikre på, hvad de skal tro på.
+Sora har ifølge The Guardian fået sit navn fra det japanske ord for ’himmel’.
+OpenAI har givet flere videoproducenter samt forskere adgang til at bruge Sora før lancering.
+De tester eksempelvis tjenesten for huller i retningslinjerne, der ikke tillader generering af voldeligt, seksuelt eller hadefuldt indhold. Heller ikke efterligning af kendte personer eller andre personer er tilladt ifølge retningslinjerne, skriver The Guardian med henvisning til OpenAI-retningslinjerne.
+Kunstig intelligens, på engelsk artificial intelligence (AI), er digitale systemer. De er blevet fodret med data og udviklet og kodet til at udføre forskellige, afgrænsede opgaver, der hidtil har krævet menneskelig intelligens.
+Det kan for eksempel være at styre en bil, skabe kunst, diagnosticere mennesker eller skrive videnskabelige artikler.
+30. november 2022 lancerede OpenAI ChatGPT.
+ritzau
+fortsæt med at læse
+Minister lufter bekymring over danskernes afslappede holdning til at tage ansvar for brugen af AI
+Professor har givet kunstig intelligens fri til de studerende
+Tesfaye:
+»Vi lærer bedst børn at leve i en digitaliseret verden ved at lære dem at slukke for den«

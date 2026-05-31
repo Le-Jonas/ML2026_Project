@@ -1,0 +1,24 @@
+Title: Elektronikkædes_hjemmesider_ramt_af_hackerangreb_p
+Date: 2023-11-25
+Article Type: Forbrug
+Author: Elektronikkæden Power blev fredag aften ramt af et hackerangreb, og kædens hjemmesider var nede i en time.
+
+Elektronikkæden Power blev fredag aften klokken 20.15 ramt af et hackerangreb, der lagde virksomhedens hjemmesider i hele Norden ned.
+Det skriver Power i en pressemeddelelse.
+Ifølge Joakim Sigvardt, der er omnichannel director i Power, kom angrebet fra hackerne ’fra overalt på kloden’.
+»De testede vores systemer klokken 18.20 og kunne se, at de havde mulighed for at presse dem«.
+»Klokken 20.15 sendte de 628 millioner købsforespørgsler mod os inden for 40 sekunder - og det lagde vores systemer fuldstændig ned«, siger han i pressemeddelelsen.
+Angrebet skete på en af årets helt store handelsdage, black friday.
+En times tid efter angrebet var hjemmesiden oppe igen, men angrebet er fortsat i løbet af natten og lørdag morgen, hvor det var særlig intenst.
+Ifølge administrerende direktør i Power, Jesper Boysen, var nedbruddet en ’reel katastrofe’.
+»Det skete på det absolut værst tænkelige tidspunkt, men heldigvis var vi forholdsmæssigt hurtigt oppe at køre igen, og vi kunne se, at der efterfølgende var endnu større kundetrafik på vores website«, siger han.
+Mange af elektronikkædens black friday-tilbud udløb ved midnat fredag, men grundet hackerangrebet er de blevet forlænget.
+Selv om hjemmesiden var nede, har Power i løbet af black friday omsat for 11 procent mere end samme dag sidste år, der ellers var et rekordår.
+Der er generelt set blevet sat rekorder i forbindelse med den store handelsdag, der oprindeligt stammer fra USA, men som de seneste år er blevet et stort fænomen i Danmark.
+I løbet af black week, der løb fra mandag til torsdag som optakt til black friday, blev der handlet via MobilePay 2,1 millioner gange for samlet 1,35 milliarder kroner.
+Fra midnat til klokken 12.00 fredag var omsætningen i forhold til sidste år i samme tidsperiode steget med tre procent. I perioden blev der handlet for 290 millioner kroner svarende til 390.000 transaktioner.
+Det fremgår ikke af pressemeddelelsen, om Power har kendskab til, hvem der stod bag angrebet.
+ritzau
+fortsæt med at læse
+Samira Nawa:
+Lad os på black friday tage brug og smid væk-kulturen op til revision

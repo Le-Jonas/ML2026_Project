@@ -1,0 +1,23 @@
+Title: Google_integrerer_AI_i_søgemaskine
+Date: 2023-05-10
+Article Type: Tech
+Author: Kunstig intelligens vil fremover være at finde i Googles søgemaskine, mail og fototjeneste.
+
+Google integrerer kunstig intelligens i dets kerneprodukt, søgemaskinen Google.
+Det har internetgiganten lanceret ved dets årlige konference for software udviklere, I/O, onsdag. Det skriver Reuters.
+Teknologien hedder ’Search Generative Experience’, og den kan både svare på åbne spørgsmål, samtidig med at søgemaskinen bevarer sine velkendte søgeresultater.
+»Vi genskaber alle vores kerneprodukter - inklusiv søgning«, lød det fra Sundar Pichai, administrerende direktør i Googles moderselskab, Alphabet.
+Det er ikke kun søgemaskinen, der kommer til at benytte sig af kunstig intelligens. I Gmail vil kunstig intelligens for eksempel kunne hjælpe med at skrive e-mails, mens det i Google Photos bliver muligt nemt at redigere og lave om på billeder.
+Også korttjenesten Google Maps kommer til at gøre brug af teknologien. Her vil det fremover være muligt at se sin rute i 3D og samtidig vil man få vist vigtige informationer som for eksempel, hvordan vejret og trafikken er.
+Det skriver techmediet The Verge.
+I løbet af de kommende uger bliver det muligt for amerikanske forbrugere at få adgang til den nye teknologi. Det foregår gennem en venteliste.
+Brugerne får adgang til en prøveversion af teknologien. Her vil Google overvåge den kunstige intelligens kvalitet og hurtighed samt omkostningerne ved de nye søgefunktioner.
+Ved konferencen løftede Google også sløret for en opgradering af dets samtalerobot, Bard. Den kommer til at bruge en mere kraftfuld AI-model, som Google kalder PaLM 2.
+Bard kommer fremover også til at være multimodal. Det betyder, at den ikke udelukkende kan forstå spørgsmål og give svar, der er tekstbaserede.
+For eksempel kan man give den input i form af et billede og bede Bard om at finde på en billedtekst til det konkrete billede.
+Desuden vil samtalerobotten blive tilgængelig i mere end 180 lande, annoncerede Google.
+Foruden kunstig intelligens præsenterede Google også to nye telefoner. Den ene har navnet ’The Pixel Fold’, og dens touchskærm kan foldes sammen på midten.
+Dermed følger Google i techgiganten Samsungs fodspor, der tidligere har lanceret flere foldbare telefoner.
+Den anden telefon, der onsdag så dagens lys, var Googles nyeste mobiltelefon i Pixel-serien, Google Pixel 7. Den kommer blandt andet med bedre kamera og skærm end dens forgængere.
+Der blev samtidig offentliggjort en iPad-konkurrent i form af Googles første tablet, Google Pixel Tablet.
+ritzau

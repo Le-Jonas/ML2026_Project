@@ -1,0 +1,9 @@
+Title: Forsker_Brugerne_vil_have_Viva_væk,_hurtigst_muligt
+Date: 2022-12-18
+Article Type: Viden og tech
+Author: Microsoft Viva er en af de mest udbredte teknologier, der analyserer danskernes arbejdsmønstre. For de fleste er det blot irriterende, men det kan skubbe os i en helt forkert retning, siger forsker.
+
+Jens Bostrup
+Journalist
+På de fleste kontorer, der bruger Microsoft, dumper der hver dag eller hver uge en mail ind, der giver en detaljeret oversigt over den enkeltes arbejdsmønstre: Bruger du energi nok på at vidensdele med kollegaer? Bruger du for meget tid på møder, som du alligevel ikke følger, fordi du bruger tiden på at skrive e-mails? Arbejder du for meget i fritiden? Bruger du tid nok til at fordybe dig?
+Mailen fra Microsoft Viva er formentlig et af de mest udbredte eksempler på ’algoritmisk ledelse’, dvs. programmer, som holder øje med de ansattes produktivitet. Men for de fleste brugere er det blot en irritationsfaktor, siger Stine Lomborg, der forsker i digitale medier på Københavns Universitet og har gennemført en række interviews med brugere af Viva. Hun fremlagde sin forskning på en konference om algoritmer og ledelse.

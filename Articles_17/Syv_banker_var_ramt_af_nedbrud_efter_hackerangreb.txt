@@ -1,0 +1,24 @@
+Title: Syv_banker_var_ramt_af_nedbrud_efter_hackerangreb
+Date: 2023-01-10
+Article Type: Danmark
+Author: En række bankers hjemmesider er tirsdag eftermiddag igen tilgængelige efter et overbelastningsangreb.
+
+Nationalbanken har mandag og tirsdag været udsat for et cyberangreb, som betød, at bankens hjemmeside ikke var tilgængelig for brugere. Det skriver
+DR
+.
+»Nogle brugere oplevede mandag og tirsdag morgen vanskeligheder ved at tilgå Nationalbankens hjemmeside. Hjemmesiden var udsat for et overbelastningsangreb, DDoS-angreb«, skriver Nationalbanken til mediet.
+Angrebet skulle ikke have fået betydning for den daglige drift eller bankens centrale systemer, lyder det videre.
+Desuden blev syv banker tirsdag ramt af et it-nedbrud, som gjorde, at kunderne ikke kunne tilgå bankernes hjemmeside – og dermed deres netbank.
+Det skriver
+Avisen Danmark
+.
+Siden klokken 13 har det dog igen været muligt at tilgå bankernes hjemmesider, lyder det.
+Indledningsvist oplyste datacentralen Bankdata, som leverer it-løsninger til i alt otte banker, at der var tale om et it-nedbrud.
+Siden har det dog vist sig, at centralen har været udsat for et overbelastningsangreb. Det er en type hackerangreb.
+Bankerne, som har været berørt, tæller Sydbank, Skjern Bank, Jyske Bank, Ringkjøbing Landbobank, Sparekassen Sjælland-Fyn, Djurslands Bank og Kreditbanken.
+Som den eneste af de otte banker, der er kunde hos Bankdata, gik Nordfyns Bank fri, skriver mediet.
+Oprindeligt var kun seks banker omfattet af nedbruddet. De kørte alle på samme server.
+Derfor vurderede Bankdata tirsdag formiddag, at der var tale om tekniske problemer.
+Men tirsdag eftermiddag var en syvende bank – Jyske Bank – også omfattet. Det fik Bankdata til at genoverveje, om der kunne være tale om et hackerangreb.
+ritzau
+fortsæt med at læse

@@ -1,0 +1,19 @@
+Title: IBM-direktør_vil_erstatte_7.800_ansatte_med_kunsti
+Date: 2023-05-03
+Article Type: Tech
+Author: Techgiganten stopper med at ansætte nye inden for et bestemt område, da kunstig intelligens kan gøre arbejdet.
+
+Eksamensopgaver, hjælp til kodning og perfekt imitation af internationale sangstjerner. Kunstig intelligens kan meget, men kan det også udføre dit arbejde?
+Ja, er svaret i hvert fald for en lang række medarbejdere i den amerikanske teknologigigant IBM, der indfører en pause i at ansætte nyt personale inden for bestemte områder.
+I et interview med mediet Bloomberg siger selskabets administrerende direktør, Arvind Krishna, at IBM kan skære op mod 7.800 stillinger i de kommende år, fordi arbejdet kan erstattes af kunstig intelligens.
+»Op mod 26.000 ansatte har intet med kunder at gøre. Jeg kan nemt se for mig, at 30 procent af dem bliver erstattet af kunstig intelligens og automatisering over en femårig periode«, siger han.
+De ansatte, som han taler om, udgør kun en lille del af IBM’s samlede stab på 260.000. Virksomheden er ifølge Bloomberg fortsat med at hyre nye ansatte i en række roller trods en nylig fyringsrunde, hvor 5.000 mistede jobbet.
+I en udtalelse siger en talsperson fra IBM, at der ikke indføres en generel ansættelsespause.
+»Vi er meget selektive, når det kommer til at udfylde roller, der ikke direkte berører vores klienter eller teknologi«, siger talspersonen.
+De store fremskridt inden for kunstig intelligens gør det muligt at udføre mindre komplekst arbejde i en række sektorer. Siden lanceringen af chatrobotten ChatGPT sidste år er dets muligheder kun blevet tydeliggjort. Men indtil videre er det praktiske brug af teknologien begrænset, da den stadig er tilbøjelig til fejl.
+Mandag offentliggjorde Geoffrey Hinton, der af visse bliver betragtet som godfatheren inden for kunstig intelligens, at han stopper i Googles udviklingshold inden for netop den teknologi. Det gør han, fordi han mener, at konkurrencen mellem techgiganterne presser dem til at udgive kunstig intelligens i en faretruende hastighed, hvilket ifølge ham er en trussel for arbejdspladser og samfundet generelt.
+ritzau
+fortsæt med at læse
+Så markant er den teknologiske revolution
+Tre ingeniører bad ChatGPT om hjælp, og pludselig havde de lækket en hemmelighed
+Endnu en techgigant varsler massefyringer

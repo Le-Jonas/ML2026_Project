@@ -1,0 +1,20 @@
+Title: EU-domstol_ophæver_milliardbøde_til_Google
+Date: 2024-09-18
+Article Type: Tech
+Author: I 2019 gav EU-Kommissionen en af flere milliardbøder til Google. Den er nu ophævet af en EU-domstol.
+
+EU-Retten har onsdag ophævet en bøde til selskabet Google på 1,5 milliarder euro.
+Bøden blev givet i 2019 af EU-Kommissionen i en konkurrencesag. De 1,5 milliarder euro svarer til lige over 11 milliarder danske kroner.
+Begrundelsen for bøden var, at selskabet havde udnyttet sin dominerende position på annoncemarkedet til at forhindre konkurrenter i at placere annoncer på tredjeparters hjemmeside.
+Centralt i den anklage stod Googles egen annonceplatform AdSense. Ifølge Kommissionen blev hjemmesider forhindret i at bruge andre platforme end den.
+EU-Retten erklærer sig enig i de fleste af EU-Kommissionens vurderinger i sagen, men ophæver alligevel bøden.
+Det skyldes, at Kommissionen ikke har inddraget ’alle relevante omstændigheder i sin vurdering af længden af de kontraktmæssige klausuler, der blev vurderet som uretfærdige’.
+Selv om ophævelsen er en sejr for Google, kan den fortsat ankes. Derudover udgør beløbet kun en mindre del af Googles samlede bøder.
+Således er AdSense-bøden kun en af tre bøder, som i alt har kostet Google over 60 milliarder kroner.
+Bøden blev givet på grund af en klage fra Microsoft.
+Google har tidligere forklaret, at selskabet ændrede de målrettede kontrakter i 2016, inden Kommissionen kom med sin beslutning.
+EU-Retten, som har ophævet bøden, er en del af den samlede institution, EU-Domstolen.
+Ophævelsen kan stadig ankes til institutionens højeste instans, der - ligesom hele institutionen - hedder EU-Domstolen.
+ritzau
+fortsæt med at læse
+Vestager havde forberedt sig på et nederlag, men sejren fik hende til at græde

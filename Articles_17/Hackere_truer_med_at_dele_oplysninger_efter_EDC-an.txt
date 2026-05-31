@@ -1,0 +1,21 @@
+Title: Hackere_truer_med_at_dele_oplysninger_efter_EDC-an
+Date: 2023-11-19
+Article Type: Danmark
+Author: En hackergruppe har krævet en løsesum på seks millioner dollar fra ejendomsmæglerkæden EDC, skriver DR.
+
+Hackergruppen Black Basta truer med at frigive personlige oplysninger fra tusindvis af kunder efter et hackerangreb mod ejendomsmæglerkæden EDC.
+Det skriver
+DR
+søndag aften.
+Black Basta har krævet en løsesum på seks millioner dollar – omkring 41 millioner kroner – fra EDC og truer på sin hjemmeside med at frigive 2,5 terabyte data om få dage.
+Hackergruppen har fået fingrene i kopier af over 1300 personers dokumenter. Det gælder for eksempel pas, kørekort og sundhedskort.
+Hackerangrebet fandt sted 1. november. Der er ikke tale om data på EDC-kunder, men i stedet data som ejendomsmæglerkæden er kommet i besiddelse af i forbindelse med overtagelsen af en anden virksomhed for nogle år siden, skriver DR.
+It-sikkerhedsekspert Jan Kaastrup fra sikkerhedsfirmaet CSIS Security Group, der har efterforsket angrebet for EDC, siger til DR, at Black Basta er en prorussisk hackergruppe og er formentlig bosiddende i Rusland.
+EDC’s kommunikationschef, Jan Nordmann, ønsker over for Ritzau ikke at sige noget om EDC’s forhandlingsposition – og dermed heller ikke om, hvorvidt man vil betale løsesummen eller ej.
+Han siger, at man hos EDC er kede af det på både egne og kundernes vegne.
+»Vi havde et højt sikkerhedsniveau – nu har vi et ekstremt højt sikkerhedsniveau«.
+»Men det her er jo ikke to drenge i en kælder i Valby. Det er statsfinansierede professionelle kriminelle, som i øjeblikket angriber masser af danske virksomheder med hackerangreb«, siger Jan Nordmann.
+EDC har tidligere meldt ud om angrebet på sin hjemmeside. Her blev det oplyst, at Datatilsynet var blevet underrettet, og at det var blevet meldt til politiet.
+»De kunder, som vi har kontaktoplysninger på, og som kan have fået kompromitteret deres personoplysninger som følge af hackerangrebet, orienterer vi direkte«, skrev EDC.
+ritzau
+fortsæt med at læse

@@ -1,0 +1,19 @@
+Title: Dyre_smartphones_dumper_i_stor_dansk_antennestest
+Date: 2023-05-09
+Article Type: Forbrug
+Author: Apples iPhones og Samsungs Galaxy-smartphones scorer lavt i forhold til at sende og modtage tale- og datasignaler, viser ny dansk test af antenner på mobiltelefoner fra Aalborg Universitet.
+
+Antennerne i dyre flagskibstelefoner fra Apple og Samsung scorer lavt, når det handler om at sende og modtage tale og data-signaler. Resultaterne fremgår af en test af de 18 mest populære telefoner i Danmark, som Gert Frølund Pedersen, der er professor og antenne-forsker ved Aalborg Universitet, har udført, skriver
+Ingeniøren
+.
+Apples seneste generation, iPhone 14 ligger langt nede på listen når det handler om antennens evne til at modtage data fra en mobilmast, mens Samsung Galaxy S22 scorer dårligst til at sende tale-signaler videre til en mobilmast.
+»Jeg har lavet den her type målinger i over 20 år, og selv om variationen mellem de dårligste og bedste antenner er blevet mindre over tid, er der stadig stor forskel,« siger Gert Frølund Pedersen til Ingeniøren.
+Samlet set, på tværs af forskellige 4G og 5G-frekvensbånd, scorer Sony Xperia 5 III bedst til tale, mens OnePlus 10 Pro er bedst til data.
+Når vi taler om taleopkald, er det typisk signalet fra en telefon til mobilmasten der er svagest, mens det er omvendt, når vi downloader data fra mobilmasten til telefonen, og det er de to brugssituationer som Gert Frølund tester, altså talesignal fra telefon til mobilmast, og datasignal fra telefon til mobilmast.
+Antenne-kvaliteten varierer mest ved taleopkald, og kan i værste fald være afgørende for, om man kan ringe op til 112 eller sende data, hvis man befinder sig i områder med svage signaler. I den mindre alvorlige afdeling kan en dårlig antenne koste på strømforbruget, og dermed batteritiden, fordi antennerne skal sende med højere effekt for at kunne aflevere og modtage signaler.
+Selv om man har en god mobildækning, kan der stadig opstå problemer med tale- og datakvaliteten. Generelt er telefonens evne til at opfange et signal fra en mobilmast bedre, hvis der ikke er genstande, der kan blokere for signalet. For når man holder telefonen almindeligt op til øret og taler, ’skygger’ dit hoved og arm for signalets styrke og dermed kvalitet. Hvis man i stedet bruger et trådløst headset og placerer telefonen væk fra kroppen, viser undersøgelsen, at signalet går bedre igennem.
+Det er heller ikke ligegyldigt, om telefonen placeres ved det højre eller venstre øre. Faktisk er der målt op til 7 dB variation mellem den ene og anden side af hovedet. Antennernes placering og design varierer fra mærke til mærke og model til model. Derfor er det ikke til at sige om det er bedst at placere telefonen ved højre eller venstre side. Her skal man prøve sig frem.
+Gert Frølund Pedersen har længe opfordret til at målinger af antennerne bliver offentlige, så forbrugere kan sammenligne antenner på tværs af modeller.
+»Vi har længe haft en standardiseret metode til at måle antennekvaliteten, og alle producenter bruger de test til intern brug, og mobiloperatørene kræver at se disse målinger for alle telefoner. Så det vil være let at frigive de data til forbrugerne,« siger Gert Frølund Pedersen.
+Citathistorie fra Ingeniøren
+fortsæt med at læse

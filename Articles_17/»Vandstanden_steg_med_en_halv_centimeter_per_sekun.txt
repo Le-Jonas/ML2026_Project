@@ -1,0 +1,9 @@
+Title: »Vandstanden_steg_med_en_halv_centimeter_per_sekun
+Date: 2023-06-06
+Article Type: Internationalt
+Author: En tysk professor har skabt en model, der viser, hvilke kræfter der blev sluppet løs, da den ukrainske kæmpedæmning blev sprængt.
+
+Jonas Pröschold
+Journalist
+Den store Nova Kakhovka-dæmning blev natten til tirsdag udsat for en sprængning, og det frigav flere kubikkilometer vand. Det er endnu uklart, hvem der står bag eksplosionen, men en computermodel viser nu, hvilke kræfter der blev sluppet løs.
+Daniel Bachmann er professor i hydromekanik på det tekniske universitet i Magdeburg, hvor han arbejder med modellering og oversvømmelsesrisikostyring. Han har på kort tid skabt en model, baseret på offentlig tilgængelig data, der giver et estimat af, hvordan vandet har bevæget sig.

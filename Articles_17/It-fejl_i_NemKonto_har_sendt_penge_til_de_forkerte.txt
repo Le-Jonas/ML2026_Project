@@ -1,0 +1,25 @@
+Title: It-fejl_i_NemKonto_har_sendt_penge_til_de_forkerte
+Date: 2024-09-11
+Article Type: Danmark
+Author: En fejl i udbetalingssystemet har ført til, at en række danskere har fået udbetalt andre folks penge.
+
+En teknisk fejl har ført til, at en række borgere har fået udbetalt andre folks penge. Det skriver Ingeniøren onsdag.
+Årsagen til problemet er en fejl i systemet hos NemKonto.
+Fejlen har medført, at forskellige danskeres data er blevet blandet sammen, når to personer har forsøgt at ændre deres indstillinger i systemet på samme tid, skriver mediet.
+Ifølge Digitaliseringsstyrelsens egne optællinger er der tale om 26 forskellige udbetalinger, der er gået til forkerte modtagere.
+Ti borgere mangler fortsat at få deres egne penge udbetalt som følge af fejlen, skriver Ingeniøren.
+Digitaliseringsstyrelsen oplyser til Ritzau, at fejlen blev opdaget for omkring fire uger siden. Den formodes at være opstået i forbindelse med en opdatering af systemet den 11. juni i år.
+Fejlen nåede altså at eksistere i lidt mere end to måneder, før problemet blev opfanget, og adgangen til systemet blev lukket ned den 21. august.
+NemKonto er en selvbetjeningsløsning, hvor man som borger normalt kan indtaste sit kontonummer og udpege, hvilken bankkonto man ønske som sin NemKonto.
+Det er for eksempel her, at løn, feriepenge og pensionsydelser udbetales.
+I dette tilfælde har nogle borgere registreret en anden persons bankkonto som sin NemKonto, skriver Ingeniøren.
+Ifølge Digitaliseringsstyrelsen kommer ingen danskere til at lide økonomiske tab på baggrund af denne fejl.
+»Digitaliseringsstyrelsen gennemgår alle fejl og sørger for, at der rettes op på alle transaktioner«, lyder det i et skriftligt svar til Ritzau.
+Det tilføjes, at styrelsen arbejder på at sikre, at en lignende fejl ikke sker igen.
+Digitaliseringsstyrelsen fortæller, at man ikke har oplysninger om, hvor mange penge det drejer sig om.
+ritzau
+fortsæt med at læse
+Ingen banker vil give Casper Enemark en bankkonto, så han kan ikke få kontanthjælp og må stjæle mad for at overleve
+59-årige Michael Henriksen har arbejdet, siden han var 14 år. Nu har banken skubbet ham på gaden. Uden en krone
+»Alle har naturligvis ret til en konto«:
+Nu skal det være slut med, at banker udelukker hjemløse fra at få en konto

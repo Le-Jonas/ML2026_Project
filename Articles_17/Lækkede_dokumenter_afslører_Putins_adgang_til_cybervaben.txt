@@ -1,0 +1,19 @@
+Title: Lækkede_dokumenter_afslører_Putins_adgang_til_cybervaben
+Date: 2023-03-30
+Article Type: Internationalt
+Author: En russisk it-virksomhed har leveret cybervåben til Ruslands militær og efterretningstjenester, viser lækage.
+
+Et omfattende læk af dokumenter har afsløret, hvordan den russiske it-virksomhed NTC Vulkan har leveret cybervåben til det russiske militær og russiske efterretningstjenester.
+Det skriver DR, der er et af 11 medier, der har fået adgang til de lækkede dokumenter.
+Værktøjerne menes at være blevet brugt af præsident Vladimir Putins styre til eksempelvis at overvåge, censurere og sprede propaganda.
+Lækket afslører blandt andet et system med navnet ’Amezit’.
+Det vurderes ifølge DR at give russiske spioner og militære hackere en lang række muligheder for at udføre omfattende desinformation.
+Det inkluderer en vejledning til, hvordan man kan lave en stor mængde falske profiler på sociale medier.
+Henrik Moltke, der er tech-korrespondent i DR, siger, at systemet kan bruges til at plante falsk information og så tvivl om sandheden.
+»Det er et meget omfattende system - en slags digital schweizerkniv for ’bad guys’, der kan bruges til at starte og holde styr på desinformation gennem for eksempel troldehære - altså falske profiler på sociale medier«.
+»Det ville for eksempel kunne bruges i et besat område til at forsøge at skifte et narrativ hos lokalbefolkningen og skabe tvivl om begivenheder, der kan anspore til modstand«, siger Henrik Moltke.
+Det er over 5.000 sider med hemmelige oplysninger, der er blevet delt med journalister anført af tyske Der Spiegel og det nye undersøgende medie Paper trail media.
+Også The Guardian, Le Monde og The Washington Post er blandt de medier, der har set dokumenterne.
+Dokumenterne har fået tilnavnet VulkanFiles og strækker sig fra 2016 til 2021. De er blevet lækket af en anonym whistleblower, der er vred over russernes invasion af Ukraine.
+»Folk bør kende til farerne ved det her«, har whistlebloweren sagt med henvisning til Vulkans cybervåben ifølge The Guardian.
+ritzau

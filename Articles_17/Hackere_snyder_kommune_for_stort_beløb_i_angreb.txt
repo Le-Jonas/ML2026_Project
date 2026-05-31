@@ -1,0 +1,18 @@
+Title: Hackere_snyder_kommune_for_stort_beløb_i_angreb
+Date: 2023-12-18
+Article Type: Danmark
+Author: Hackere har brugt en medarbejders e-mail-konto i Guldborgsund Kommune til at overføre over en million kroner.
+
+Guldborgsund Kommune har været udsat for et hackerangreb og økonomisk kriminalitet over en længere periode. Men ifølge kommunen er angrebene nu stoppet, og sagen er anmeldt til politiet, oplyser kommunen i en pressemeddelelse.
+»Vi har i den konkrete sag handlet hurtigt og konsekvent, efter at svindlen blev opdaget. Det gælder både i forhold til datasikkerhed, økonomi og øvrige interne tiltag«, siger kommunaldirektør i kommunen Søren Bonde i pressemeddelelsen.
+I perioden fra 3. november til 12. december har hackerne brugt en medarbejders e-mail-konto til at overføre omkring 1,4 millioner kroner til konti i fire forskellige banker i henholdsvis Belgien, Tyskland og Spanien. Her har beløbene været maskeret som betalinger for eksterne leverancer.
+De mails, som hackerne har sendt ud, har været identiske med Guldborgsund Kommunes mailskabelon. Desuden har det været anført, at betalingerne vedrørte konkrete EU-projekter, som kommunen er en del af.
+Angrebet er stoppet af kommunen selv, men de ved ikke, hvordan hackerne har fået indsigt i de interne forhold.
+»Vi melder sagen åbent ud, fordi vi gerne vil advare alle andre om truslen, så vi ikke glemmer, at den er der hele tiden«, siger Søren Bonde.
+Opdateres ...
+ritzau
+fortsæt med at læse
+Situationen er så alvorlig, at politikerne ikke kan få at vide, hvilke it-systemer der har problemer med sikkerheden
+Hackere gør alvor af trussel:
+Knap 100.000 cpr-numre er blevet lagt på nette efter cyberangreb på ejendomsmæglerkæde
+Hackere truer med at dele oplysninger efter EDC-angreb

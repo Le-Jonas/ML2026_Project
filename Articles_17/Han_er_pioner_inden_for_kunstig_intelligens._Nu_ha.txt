@@ -1,0 +1,10 @@
+Title: Han_er_pioner_inden_for_kunstig_intelligens._Nu_ha
+Date: 2023-05-02
+Article Type: Viden og tech
+Author: En af hovedkræfter bag Googles udvikling af kunstig intelligens melder sig blandt dommedagsprofeterne. Han frygter menneskehedens fremtid.
+
+Jens Bostrup
+Journalist
+En af de mest betydningsfulde pionerer inden for kunstig intelligens, Geoffrey Hinton, har opsagt sin stilling i Google og melder sig nu i koret af dommedagsprofeter, der frygter for menneskehedens overlevelse.
+Vi har allerede set nettet blive oversvømmet af falske billeder og tekster, som for den almindelige bruger er meget vanskelig at skelne fra det menneskeskabte. Det er i praksis blevet umuligt at stole på, hvad man ser, hører og læser. Lige om lidt mister mange af os det job, vi lever af. Og lidt længere nede ad vejen vil maskinerne ikke bare skrive nogle programstumper, der kan hjælpe udviklerne, men selv udvikle og køre programmerne, simpelthen fordi de er så meget bedre til det end mennesker. Og det vil blandt andet blive brugt af militæret til at udvikle dræberrobotter, der fungerer på egen hånd, lyder Geoffrey Hintons skræmmescenario i et
+interview til The New York Times.

@@ -1,0 +1,22 @@
+Title: 53_kommuner_skal_rette_op_Skolebørns_pc-brug_strid
+Date: 2024-01-30
+Article Type: Danmark
+Author: I sagen om Chromebooks på flere skoler har Datatilsynet undersøgt kommunernes behandling af data.
+
+Artiklen er opdateret kl. 16.38.
+Når skoleelever bruger deres elevcomputere, deles deres oplysninger med Google, som bruger oplysningerne til forskellige formål. Og det er ikke alle formål, som harmonerer med lovgivningen. Det er kommunernes ansvar, at der bliver rettet op.
+Datatilsynet kræver i en afgørelse tirsdag, at 53 kommuner fra 1. august får bragt orden i sagerne. Og allerede 1. marts skal kommunerne melde ud, hvordan de vil gøre. Det fremgår af en afgørelse fra tilsynet.
+Afgørelsen er truffet som en del af en større sag, der handler om, hvorvidt 53 kommuners brug af bærbare Chromebook-computere og Google Workspace-programmerne i undervisningen i folkeskolen er lovlig eller ej. Datatilsynet blev opmærksom på sagen, da en far i 2019 klagede over, at man kunne se hans otteårige søns navn og skole på platformen YouTube. Oplysningerne endte på YouTube, fordi en af sønnens venner havde lånt hans Chromebook og skrevet en besked på platformen.
+Efterfølgende har Datatilsynet undersøgt kommunernes behandling af data i forbindelse med brug af Chromebooks og Google Workspace. Tirsdag er tilsynet så kommet med en afgørelse. Her gives der påbud til kommunerne om, at behandlingen af personoplysninger skal ske i overensstemmelse med reglerne ved at sikre, at der er hjemmel til alle de behandlinger, der sker.
+»I lovgivningen er der ikke taget stilling til, hvor mange af elevernes oplysninger, der skal videregives til en tredjepart, eller om der i det hele taget kan videregives oplysninger til en tredjepart. Det betyder, at der ikke hjemmel til alt det, der sker«, siger Allan Frank, der er it-sikkerhedsspecialist og jurist i Datatilsynet.
+Kommunerne skal efterleve påbuddet fra 1. august 2024, men skal senest 1. marts tilkendegive, hvordan de har til hensigt at efterleve det. I Kommunernes Landsforening (KL) er man ærgerlig over, at der ikke er kommet en endelig afgørelse endnu, lyder det fra kontorchef Pia Færch.
+»Vi ville gerne have lukket sagen og fået skabt tryghed om, at alle data bliver håndteret inden for lovgivningen. Men vi går ind i de forslag, som Datatilsynet har givet, og prøver også at gå i forhandling med Google og med staten om det«, siger hun.
+Pia Færch forklarer, at KL på vegne af de 53 kommuner vil arbejde på at få lavet en tilkendegivelse inde 1. marts og finde frem til den rigtige forståelse af reglerne. Men hun ærgrer sig også over, at der er så kort frist.
+»Vi har flere gange efterlyst, at vi kunne få noget hjælp fra staten eller fra EU. Man kan ikke sidde som enkelt kommune med sådan nogle techgiganter som Google«, siger kontorchefen.
+Datatilsynet kommer med forslag til, hvad kommunerne kan gøre.
+»Det er, at kommunerne får Google til at lade være med at bruge de her elevoplysninger, eller at man ændrer it-systemet, så de her oplysninger slet ikke flyder ud til den pågældende leverandør. Man kan også tage stilling til, i hvilket omfang det er en del af samfundskontrakten, at man skal aflevere sine oplysninger, når man bliver betjent i den offentlige sektor. For det her kan være et problem på alle mulige andre områder, hvor man bruger it-systemer«, siger Allan Frank.
+En Chromebook er en computer, der kører på styresystemet ChromeOS, som er udviklet af Google. Man kan ikke installere almindelige programmer på en Chromebook. I stedet kan man hente apps og bruge internettet. Det gør kravene til hukommelse og lagerplads mindre, og derfor er Chromebooks typisk billigere end almindelige computere.
+ritzau
+fortsæt med at læse
+Borgmester undrer sig over pludselig opstået mulighed:
+»Hvorfor filan er vi ikke blevet præsenteret for den noget før?«

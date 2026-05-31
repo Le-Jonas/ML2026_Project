@@ -1,0 +1,17 @@
+Title: Kunstig_intelligens_kan_hjælpe_læger_med_at_opdage
+Date: 2024-06-26
+Article Type: Sundhed
+Author: Ved hjælp af kunstig intelligens blev der opdaget ’signifikant’ flere tilfælde af brystkræft i nyt studie.
+
+Kunstig intelligens kan hjælpe med at opdage brystkræft, viser et nyt studie fra Datalogisk Institut på Københavns Universitet og screening-programmet for brystkræft i Region Hovedstaden.
+Studiet viser, at samspillet mellem speciallæger i brystradiologi og AI-systemet fører til, at »signifikant flere tilfælde af brystkræft bliver opdaget«, lyder det i en pressemeddelelse fra Københavns Universitet.
+I studiet analyserede AI røntgenbilleder, som kaldes en mammografi, og som tilbydes til kvinder mellem 50 og 69 år hvert andet år. Normalt udføres en mammografi af radiologer.
+I studiet fra Datalogisk Institut fandt radiologerne i gennemsnit 70 tilfælde af brystkræft ud af 10.000 screeninger. Med hjælp fra AI fandt de 82 tilfælde.
+Og det viser, at kunstig intelligens er en stor hjælp, siger førsteforfatter på studiet samt postdoc fra Datalogisk Institut Andreas Lauritzen i pressemeddelelsen:
+»I kombination med de erfarne speciallægers bedømmelse findes flere tilfælde af brystkræft i tidlige stadier og færre falsk positive resultater, end man gjorde, før AI blev introduceret«.
+Også mammografiscreeninger fra Region Hovedstaden var med i studiet. Her viste studiet, at AI også opdagede flere tilfælde af små kræftknuder. Der blev opdaget knap 44 procent små knuder på en centimeter eller mindre, hvor der før blev opdaget knap 37 procent.
+Før kunstig intelligens blev alle de mange tusinde røntgenbilleder læst af to brystradiologer. Med AI kan 70 procent af billederne blive læst af en enkelt erfaren brystradiolog.
+Dermed vil AI også nedbringe arbejdsbyrden blandt radiologer, og det får betydning for kvinders sandsynlighed for at blive helbredt, forklarer Ilse Vejborg, cheflæge på Herlev og Gentofte Hospital, screeningschef i Region Hovedstaden og ansvarlig for at implementere AI i screeningsprogrammet:
+»Der er mangel på speciallæger i brystradiologi, såvel i Region Hovedstaden som i resten af landet – og i hele verden. Samtidig bliver der mange flere ældre i samfundet i disse år og dermed flere, der skal screenes. Derfor var vores mål at reducere arbejdsbyrden uden at gå på kompromis med kvaliteten, og det er lykkedes«.
+Studiets resultat er statistisk signifikant. Det betyder, at det ikke kan bygge på tilfældigheder.
+ritzau

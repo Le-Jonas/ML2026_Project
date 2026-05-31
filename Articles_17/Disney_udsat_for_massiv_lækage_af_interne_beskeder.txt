@@ -1,0 +1,11 @@
+Title: Disney_udsat_for_massiv_lækage_af_interne_beskeder
+Date: 2024-07-17
+Article Type: Kultur
+Author: En anonym hackergruppe har lækket information fra Disneys interne kommunikationssystem. Herunder fotos af medarbejdernes hunde.
+
+Lotte Thorsen
+Journalist
+Intern kommunikation fra Disney-koncernen er blevet lækket. Det gælder både diskussioner om reklamekampagner, samtaler om vedligeholdelse af Disneys website, vurderinger af folk, som koncernen overvejer at ansætte, og fotos af Disney-medarbejderes hunde.
+Det skriver
+The Wall Street Journal
+, der har set materialet. Det rummer data, der går tilbage til mindst 2019 og stammer fra Disneys interne kommunikationssystem, Slack.

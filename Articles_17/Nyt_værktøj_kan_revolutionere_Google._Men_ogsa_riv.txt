@@ -1,0 +1,9 @@
+Title: Nyt_værktøj_kan_revolutionere_Google._Men_ogsa_riv
+Date: 2024-05-16
+Article Type: Viden og tech
+Author: Snart skal vi ikke længere tvinges til selv at læse hjemmesider. Googles søgemaskine læser dem for os. Men de, der har leveret informationerne, mister trafikken og annoncepengene.
+
+Jens Bostrup
+Journalist
+Google lancerer en ny version af deres søgemaskine, der vil gøre livet på nettet lettere for omkring en milliard mennesker verden over, heriblandt de danske brugere. Hvor de i dag får en liste med links, de selv må søge svar i, kan de fremover få et meningsfuldt svar i et læseligt sprog direkte i toppen af Googles søgeside.
+En kunstig intelligens har læst alle de relevante sider igennem og giver – sandsynligvis – brugerne lige præcis den information, de har brug for. De slipper dermed for besværet med at finde det mest lovende link og læse den side, der kommer frem.

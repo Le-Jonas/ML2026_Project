@@ -1,0 +1,24 @@
+Title: Ny_Rejsekort-app_sættes_pa_pause_for_nye_brugere_e
+Date: 2024-06-07
+Article Type: Rejser
+Author: Den nye Rejsekort-app anonymiserer ikke brugernes lokation. Det skriver Fagbladet Ingeniøren.
+
+Den nye Rejsekort-app bliver sat på pause for nye brugere, fordi en fejl på appen gør, at den ikke anonymiserer data om brugernes lokation.
+Det har nye dokumenter vist, skriver fagbladet Ingeniøren.
+Selskabet bag appen har tidligere oplyst, at data om brugernes lokation var anonymt. 60.000 borgere har indtil videre fået lov til at oprette sig som bruger i appen.
+Fejlen, som selskabet bag appen har fundet, drejer sig om den måde, appen indsamler og behandler information om brugernes færden.
+Det fortæller Jens Willars, der er kundedirektør i Rejsekort & Rejseplan A/S, til Ingeniøren.
+Ifølge ham har undersøgelser vist, at der fortsat er nogle ting, der skal ændres, før appen kan blive tilgængelig for flere brugere, lyder det.
+Appen indsamler blandt andet data om brugernes placering, når brugerne har checket ind i appen undervejs på rejsen, indtil de checker ud.
+Hvis en bruger har glemt at checke ud i appen, kan appen i nogle tilfælde fortsætte med at indsamle data om, hvor personen befinder sig, skriver Ingeniøren.
+Det sker indtil klokken 04 næste dag, hvor alle brugere automatisk bliver checket ud.
+De data bliver ifølge Jens Willars opbevaret i pseudonymiseret form, hvilket vil sige, at eksempelvis navne og adresser og andre personoplysninger udskilles til et særskilt dokument.
+I fremtiden vil løsningen dog ikke være at stoppe dataindsamlingen, siger Jens Willars til Ingeniøren.
+»Vi skal bruge de her data, for at appen kan fungere«, siger han.
+I stedet vil løsningen være at lave en opdatering af appens privatlivspolitik, og selskabet vil begrænse, hvor lang tid data bliver opbevaret i systemet, lyder det.
+Data gemmes ifølge ham for at opdage snyd og for at kunne hjælpe kunder, som har fået deres rejsekort registreret forkert i systemet.
+Rejsekort-appen åbnede for de første brugere den 9. april 2024. Meningen var, at appen skulle åbne for alle brugere i løbet af året.
+Det er endnu uvist, hvor lang tid der går, før appen bliver åbnet for flere brugere.
+Ritzau
+fortsæt med at læse
+DSB byder Rejsekortet op til dans med ny funktion i app

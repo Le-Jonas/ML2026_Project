@@ -1,0 +1,11 @@
+Title: Kunstig_intelligens_har_lavet_et_af_disse_billeder
+Date: 2024-03-08
+Article Type: Danmark
+Author: Dag for dag og minut for minut bliver falsk indhold forfinet i sin efterligning af mennesker. Værktøjer, der skal afsløre deepfakes, træner den maskinelle manipulator til at blive mere raffineret.
+
+Jakob Sorgenfri Kjær
+Journalist
+Kan du se forskel på et billede eller en video af et rigtigt menneske og et, der er genereret af kunstig intelligens?
+Forskere fra University of Waterloo i Canada har i et nyt
+studie
+samlet 260 testpersoner og vist dem 20 billeder af mennesker, hvoraf halvdelen var rigtige, og halvdelen genereret af AI-værktøjer.

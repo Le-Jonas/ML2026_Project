@@ -1,0 +1,24 @@
+Title: Forskere_vil_forebygge_selvmord_med_kunstig_intell
+Date: 2024-08-20
+Article Type: Viden og tech
+Author: En ny algoritme kan bruges til at finde brugere på sociale medier, der potentielt er selvmordstruede.
+
+Ved hjælp af kunstig intelligens mener forskere at kunne afgøre, om et opslag på et socialt medie indikerer, at personen bag har selvmordstanker.
+Det siger Serkan Ayvaz fra Syddansk Universitet, der er en af forskerne bag.
+»Der har været andre før os, der har lavet algoritmer med det her formål. Men vores er den hidtil mest nøjagtige. Når vi tester den, rammer den rigtigt i 93 procent af tilfældene«, siger han.
+Forskningsartiklen om algoritmen er endnu ikke blevet udgivet i et videnskabeligt tidsskrift. Den er fortsat ved at blive bedømt af fagfæller.
+Allerede nu er den dog offentligt tilgængelig på internettet.
+På den måde kan andre forskere arbejde videre på området og måske lave et endnu bedre værktøj, siger Serkan Ayvaz.
+Algoritmen vil kunne integreres på et socialt medie, så en bruger får en besked med råd om at søge hjælp, hvis et af personens opslag ifølge algoritmen indikerer, at personen har selvmordstanker.
+I dag kan brugere på flere sociale medier få sådan en besked, hvis en anden bruger anmelder deres opslag.
+Den kunstige intelligens vil være hurtigere og i den henseende nyttig, lyder det fra Livslinien, som anonymt rådgiver personer med tanker om selvmord.
+Men der er en bagside af medaljen, siger rådgivningens direktør, Jeppe Kristen Toft.
+Hans bekymring er, at folk vil holde op med at anmelde opslag eller række ud til personen, fordi de tænker, at algoritmen vil gøre det.
+»Den medmenneskelige omsorg må ikke blive erstattet af kunstig intelligens. Det har en enorm betydning for folk, der har det svært, at de føler sig set og anerkendt af et andet menneske«.
+»Jeg tror ikke, at det vil have samme effekt, hvis man får en besked på baggrund af kunstig intelligens, som når den kommer, fordi nogen er blevet bekymret«, siger han.
+Hvert år begår omkring 600 mennesker selvmord i Danmark, mens det estimeres, at der er omkring 10.000 selvmordsforsøg.
+Hvis du har tanker om selvmord, kan du få hjælp på Livsliniens telefonrådgivning på 70 201 201.
+ritzau
+fortsæt med at læse
+Sygeplejerske:
+Personale bliver beskyldt for at være onde, men det er rammerne, der fører til forråelse

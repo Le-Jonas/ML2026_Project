@@ -1,0 +1,20 @@
+Title: Omstridt_Rejsekort-app_abner_for_alle
+Date: 2024-09-04
+Article Type: Rejser
+Author: Fremover kan man lade Rejsekortet ligge derhjemme og i stedet bruge appen til at checke ind og ud.
+
+Alt imens Datatilsynet undersøger Rejsekort-appen, åbner selskabet bag appen nu for, at alle kan bruge den. Rejsekort og Rejseplan, der lancerer appen, skriver i en pressemeddelelse, at rejsende over 18 år fra onsdag kan lade det fysiske rejsekort ligge i skuffen og få adgang til appen og bruge den.
+Datatilsynet påbegyndte i juli en undersøgelse af appens indsamling og opbevaring af personoplysninger, efter at Rejsekort lancerede appen – dog ikke for alle. Rejsekort-appen blev lanceret i april. Men indtil nu krævede det, at man skrev sig op, hvis man ville have adgang til den, da der var begrænset adgang.
+Da Datatilsynet påbegyndte sin undersøgelse af appen, der endnu ikke er færdig, lød det fra tilsynet, at det var for tidligt at sige, at appen bryder loven, men at der var behov for en undersøgelse, sagde jurist og it-sikkerhedsspecialist Allan Frank til Berlingske i juli:
+»Vi kan se nogle problemstillinger, som vi er nødt til at få noget dokumentation for og høre deres vurdering af. Den dokumentation, vi har fået, har ikke fuldstændig overbevist os om, at det var i overensstemmelse med de gældende regler. Derfor har vi behov for mere«.
+Allan Frank siger dog onsdag, at det er »lidt frisk«, at appen nu er blevet åbnet for alle, inden Datatilsynets undersøgelse er færdig, »når de nu ikke ved, hvad vi mener«, siger han til DR.
+»Men på den anden side må vi også som datatilsyn acceptere, at det er Rejsekort som dataansvarlig, der selv skal vurdere, om de overholder loven. Og så kan vi efterprøve det på bagkant«, siger han til mediet.
+Kundedirektør Jens Willars siger til DR, at man vil gennemgå undersøgelsen grundigt, når den kommer og rette ind, hvis det »mod forventning« er relevant.
+Appen har desuden stødt på en række problemer inden opstart. Fagbladet Ingeniøren skrev i starten af juni, at appen blev sat på pause for nye brugere, fordi en fejl gjorde, at den ikke anonymiserede data om brugernes lokation.
+Den er også tidligere blevet kritiseret for at bede brugere, som har en iPhone, om lov til konstant at kende deres lokation – også når appen ikke bruges.
+Appen, som man kan vælge at bruge i stedet for det blå-hvide plastikkort, kan blandt andet minde brugerne om at huske at checke ud, når de har rejst med offentlig transport. Appen har også en indstilling, der gør, at den kan checke ud automatisk. Den kan desuden automatisk registrere, om man skifter bus eller tog undervejs på sin rejse.
+På sigt vil det fysiske rejsekort blive udfaset – hvornår er endnu uvist.
+ritzau
+fortsæt med at læse
+Ny Rejsekort-app sættes på pause for nye brugere efter fejl
+Rejsekorts nye app gør livet lettere, men der er en bagside

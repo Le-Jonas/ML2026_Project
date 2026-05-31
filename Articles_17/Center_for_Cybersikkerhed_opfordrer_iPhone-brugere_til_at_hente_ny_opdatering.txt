@@ -1,0 +1,23 @@
+Title: Center_for_Cybersikkerhed_opfordrer_iPhone-brugere_til_at_hente_ny_opdatering
+Date: 2023-02-14
+Article Type: Tech
+Author: Fundet af to nye sårbarheder betyder, at borgerne i Danmark bør opdatere deres Apple-produkter.
+
+Borgerne i Danmark bør hente den seneste softwareopdatering til deres Apple-produkter.
+Det meddeler Center for Cybersikkerhed (CFCS) på det sociale medie Twitter.
+CFCS, som er en del af Forsvarets Efterretningstjeneste (FE), meddeler, at der er fundet to såkaldte nye zero-day sårbarheder i systemerne iOS, iPadOS og MacOS.
+En softwareopdatering udgivet af Apple kan milde disse sårbarheder, oplyser Center for Cybersikkerheds Situationscenter.
+Centeret oplyser ikke, hvilke konsekvenser det kan have, hvis man ikke opdaterer sit Apple-produkt. Det fremgår heller ikke af tweetet, hvordan sårbarhederne er opdaget.
+En zero-day sårbarhed er en brist i et system, der er nyfunden, og som producenten hidtil ikke har været opmærksom på. Det fortæller Jens Myrup Pedersen, der er professor i cybersikkerhed på Aalborg Universitet.
+»Det betyder, at alle de iPhones og Macbooks, der har den software, er sårbare, og kan blive udnyttet af hackere«, siger han.
+Derfor er det vigtigt, at man opdaterer sine Apple-enheder hurtigst muligt.
+Det gør man ved at gå ind i ’Indstillinger’ på en iPad eller en iPhone og ’Systemindstillinger’ på en Mac-computer. Vælg derefter ’Generelt’ og så ’Softwareopdateringer’. Her burde den seneste opdatering til din enhed dukke op, så du kan hente den.
+En af sårbarhederne kan allerede være blevet udnyttet af hackere. På sin hjemmeside skriver Apple:
+»Apple er bekendt med en meddelelse om, at dette problem kan være blevet aktivt udnyttet«.
+Det er med til at gøre sikkerhedsbristen særlig alvorlig, fortæller Jens Myrup Pedersen.
+»Der er nogen, der har fundet ud af, hvordan man udnytter sårbarheden og ikke bare, at den eksisterer«.
+»Hackere, der udnytter sårbarheden kan få ret vidtgående adgang til ens systemer. For eksempel til at installere skadelig software og få adgang til data, der ligger på ens telefon, computer eller iPad«, siger han.
+Center for Cybersikkerhed har ikke haft mulighed for at uddybe yderligere tirsdag.
+Det er Xinru Chi fra det kinesiske cybersikkerhedsfirma Pangu Lab og Ned Williamson fra Googles sikkerhedsgruppe Project Zero, der opdagede den ene sårbarhed.
+Den anden blev opdaget af en anonym researcher. Det oplyser Apple på sin hjemmeside.
+ritzau

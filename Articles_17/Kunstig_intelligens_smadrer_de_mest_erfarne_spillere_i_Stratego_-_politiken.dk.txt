@@ -1,0 +1,14 @@
+Title: Kunstig_intelligens_smadrer_de_mest_erfarne_spillere_i_Stratego_-_politiken.dk
+Date: 2022-12-01
+Article Type: Viden
+Author: Der er flere spilkombinationer i brætspillet Stratego, end der er partikler i hele universet. På trods af det svimlende høje tal er det nu lykkedes forskere at lave en kunstig intelligens, som kan slå de bedste spillere.
+
+Som abonnent kan du ubegrænset dele artikler med dine venner og familie. Læs mere om fordelene ved et abonnement
+her
+.
+J
+eg kan stadig huske, da jeg som dreng spillede det svære og nervepirrende brætspil Stratego sammen med min lillebror ved det røde bord i det lille køkken i mit barndomshjem.
+Hvis jeg kunne fornemme, at jeg var på vej til at tabe spillet – hvis min stærkeste brik feltmarskalen for eksempel blev taget af min lillebrors spion, eller hvis hans minerydder fjernede en bombe lige foran det spilafgørende flag – kunne jeg godt finde på med armen at feje alle spillebrikkerne væk fra spillepladen og ned på gulvet.
+Det var ikke særlig modent, men jeg ville garanteret møde den samme frustration, hvis jeg besluttede mig for at tage et slag Stratego mod spillerobotten DeepNash, som den britiske virksomhed DeepMind har udstyret med kunstig intelligens. For den kunstige intelligens er så klog, at den kan slå selv de allerbedste spillere i Stratego. Bedriften er så stor, at den netop er blevet offentliggjort i det anerkendte videnskabelige tidsskrift Science.
+Dermed kan kunstig intelligens sætte endnu en pokal i pokalskabet. For tidligere er det lykkedes med kunstig intelligens at slå stormestre i spil som skak, Go, Texas Hold’em poker, Scotland Yard og Gran Turismo.
+Allerede abonnent? Log ind her

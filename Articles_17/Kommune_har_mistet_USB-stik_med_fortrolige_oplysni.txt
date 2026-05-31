@@ -1,0 +1,17 @@
+Title: Kommune_har_mistet_USB-stik_med_fortrolige_oplysni
+Date: 2023-10-05
+Article Type: Tech
+Author: Ringsted Kommune har meldt et sikkerhedsbrud til Datatilsynet i en sag, som kommunen kalder meget alvorlig.
+
+Et lille USB-stik med personfølsomme og fortrolige oplysninger om borgere i Ringsted Kommune er forsvundet. Det melder kommunen selv efter at have anmeldt sagen til Datatilsynet, da det behandles som et brud på kommunens datasikkerhed, skriver Ingeniørens it-medie,
+Version2
+.
+Kommunen har på nuværende tidspunkt ikke det fulde overblik over, hvilke data der er på USB-stikket. Det står dog klart, at det vedrører voksenhandicapområdet og blandt andet indeholder helbredsoplysninger på borgere og medarbejdere.
+USB-stikket er heller ikke krypteret eller på anden måde sikret teknisk, hvorfor det ikke kan udelukkes, at oplysningerne kan misbruges, hvis stikket findes og stadig er brugbart, siger direktør i kommunen Kasper Sonne i meddelelsen.
+»Det her er en meget alvorlig sag, både fordi der er tale om personfølsomme oplysninger, og fordi det er en klar overtrædelse af vores interne retningslinjer for, hvordan vi behandler borgernes og medarbejdernes oplysninger«, siger han.
+Stikket er mistet i forbindelse med en opgaveoverdragelse. Hvordan det helt specifikt er sket, er ikke nærmere uddybet i kommunens pressemeddelelse. Det efterlader også et stykke arbejde til kommunen, som skal kigge sin sikkerhed igennem, lyder det.
+»Der er ingen tvivl om, at vi i kølvandet på denne sag skal indskærpe reglerne, men også vurdere om vores procedurer er gode nok«, siger Kasper Sonne.
+Kommunen oplyser, at man kan ringe til Digitaliseringsstyrelsens hotline for digital sikkerhed alle døgnets timer, hvis man mistænker identitetstyveri.
+ritzau
+fortsæt med at læse
+Region Sjælland får alvorlig kritik af tilsyn

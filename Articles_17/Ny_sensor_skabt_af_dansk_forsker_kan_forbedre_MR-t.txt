@@ -1,0 +1,18 @@
+Title: Ny_sensor_skabt_af_dansk_forsker_kan_forbedre_MR-t
+Date: 2024-05-02
+Article Type: Sundhed
+Author: En dansk forsker har skabt en ny sensor, der kan gøre MR-scanninger mindre fejlbehæftede i fremtiden.
+
+En forsker på Københavns Universitet og Hvidovre Hospital har skabt en sensor, der kan finde fejl i MR-scanninger.
+Det er Hans Stærkind, der er post.doc på Niels Bohr Instituttet og MR-forskningssektionen på Hvidovre Hospital, der står bag sensoren.
+Sensoren er stadig en prototype og har derfor ikke løst nogen problemer endnu, men det vil den forhåbentligt i fremtiden.
+»Først og fremmest så har vi udviklet sensoren til at blive brugt i en MR-scanner, der har et rigtig kraftigt magnetfelt. Hvis man kan måle, at det magnetfelt ikke er lige præcis, hvad det burde være, kan du gå ind og rette billederne til«, siger Hans Stærkind.
+På sigt vil den nye opfindelse gøre MR-scanninger mindre fejlbehæftede og måske endda billigere og hurtigere, fortæller han.
+MR-scannere bruges hver dag af sundhedspersonale verden over. De kraftige magnetfelter inde i MR-scannerne, der danner scanningsbilleder, har udsving, der skaber fejl og forstyrrelser i billederne.
+Ved at måle og kortlægge de sløringer og fejl, der kan opstå på MR-scannerens billeder, kan man i princippet korrigere for det.
+»Du kan ikke lave en MR-scanner, der altid kan lave det magnetfelt, som du programmerer det til. Idéen er, at du kan måle magnetfeltet i stedet for, så du får mere retvisende data og dermed bedre billeder. Og det vil så i nogle tilfælde føre til bedre diagnoser«, siger han.
+Selv om den nye sensor i første omgang skal bruges i MR-scannere, kan den nye teknologi på sigt også bruges indenfor andre felter, der arbejder med høje magnetfelter.
+»Sensoren kan måle magnetfelter på en helt anden måde, end man tidligere har kunnet, og der er nogle klare fordele i forhold til de tilgængelige metoder. I dag er der fire måder at gøre det på, og de har eksisteret i 50 år. Nu har vi så opfundet en ny«, siger han.
+Da det drejer sig om medicinsk teknologi, der skal testes grundigt og godkendes, kan det nok godt tage fem-ti år før sensoren kan blive rullet ud på de danske hospitaler, fortæller Hans Stærkind.
+»I første omgang handler det om at forbedre og afprøve teknologien«, siger han.
+ritzau

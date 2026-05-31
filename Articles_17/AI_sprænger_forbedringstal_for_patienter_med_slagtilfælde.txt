@@ -1,0 +1,15 @@
+Title: AI_sprænger_forbedringstal_for_patienter_med_slagtilfælde
+Date: 2022-12-27
+Article Type: Sundhed
+Author: Kunstig intelligens har i indledende forskning vist sig uhyre brugbar for patienter med slagtilfælde.
+
+Et nyt studie i Storbritannien viser, at det kan have afgørende effekt for patienter med slagtilfælde, hvis lægen, som tilser dem, er bevæbnet med kunstig intelligens.
+Faktisk viser den indledende analyse af 111.000 formodede patienter med slagtilfælde, at tre gange så mange kan vende tilbage til hverdagsaktiviteterne, hvis de blev tilset af en læge med hjælp fra kunstig intelligens, som hvis de fik den almindelige behandling.
+Den specifikke form for kunstig intelligens er udviklet af selskabet Brainomix. Teknologien er i brug på 11 klinikker i Storbritannien, hvor den hjælper lægen med at identificere slagtilfælde og vælge den bedste behandling.
+Helt specifikt hjælper teknologien med at analysere hjerneskanninger og deler billederne med specialister over hele verden, som kan tilgå dem på nettet.
+En af patienterne, Carol Wilson, siger, at netop den prompte udredning og behandling gjorde, at hun senere samme dag sad oprejst og sms’ede med sin familie.
+Wilson, som sidenhen er vendt tilbage til sit arbejde, fortæller, at hun ’blev udskrevet og kunne gå rundt i hjemmet to dage efter sit slagtilfælde’.
+Andelen af patienter i testgruppen, som efter slagtilfældet kunne vende tilbage til de daglige aktiviteter, steg fra 16 to 48 procent med brugen af kunstig intelligens.
+Storbritanniens sundhedsminister, Steve Barclay, kalder teknologien et ’helt utroligt eksempel på, hvordan kunstig intelligens’ kraft kan skære livreddende minutter af en af de mest tidsfølsomme diagnoser i lægevidenskaben’.
+»Kunstig intelligens kan transformere vores sundhedsvæsen. Ved at levere hurtigere, mere præcise diagnoser og ved at sikre, at patienter får den behandling, de har behov for, når de har behov for det«, siger han.
+ritzau

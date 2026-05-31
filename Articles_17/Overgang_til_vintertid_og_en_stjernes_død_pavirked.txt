@@ -1,0 +1,13 @@
+Title: Overgang_til_vintertid_og_en_stjernes_død_pavirked
+Date: 2023-12-30
+Article Type: Tech
+Author: I 2023 har Telenor-kunder brugt 210 millioner gigabyte data. Det er en stigning på 17 procent fra året før.
+
+Det var særdeles populært at følge Jonas Vingegaard fra mobiltelefonen, da han i sommer satte konkurrenterne til vægs i verdens største cykelløb, Tour de France, viser en opgørelse fra Telenor, som har kigget på kundernes forbrugsvaner gennem 2023.
+Særligt for danskere i udlandet var interessen for at følge den danske triumf massiv. 18. juli, da Jonas Vingegaard på enkeltstarten smadrede alt og alle og konsoliderede sin førsteplads i klassementet, har således sat en foreløbig rekord for Telenor, som aldrig før havde målt et højere dataforbrug på én dag blandt kunder i udlandet.
+Dataforbruget er i det hele taget opadgående for selskabets kunder, og det sætter hvert år rekord. Det har også været tilfældet i 2023. Mere end 210 millioner gigabyte data er blevet brugt, hvilket er en stigning på 17 procent fra året før. Det svarer ifølge Telenor til, at det ville kunne understøtte et uafbrudt forbrug af Teams-møder i mere end 12.000 år.
+Kigger man mere bredt på forbruget, står det klart, at Telenor-kunderne forbruger mest data om søndagen. 3. december, 29. oktober og 19. november blev dagene med højst dataforbrug. De har alle det tilfælles, at de er søndage.
+»Dataforbruget får altid et ekstra nøk opad søndag aften, for det er i høj grad streaming, der driver datatrafikken i mobilnetværket«, siger Jesper Mølbak, der er netværksekspert hos Telenor
+Særligt søndag den 29. oktober skilte sig ud, fordi vi gik over til vintertid den dag. Det betød, at der var en ekstra time i løbet af døgnet. Desuden kom det frem, at ’Venner’-stjernen Matthew Perry var afgået ved døden. Det kan have sat gang i streamingforbruget af tv-serien, vurderer Telenor.
+For selskabet har det krævet en omfattende opgradering af mobilnetværket at kunne følge med det hastigt voksende dataforbrug. Det er man snart i mål med, lyder det i en pressemeddelelse.
+ritzau

@@ -1,0 +1,14 @@
+Title: Sikkerhedsbrud_i_Region_Syddanmark_omfatter_titusindvis_af_borgere
+Date: 2023-02-25
+Article Type: Danmark
+Author: Både akut- og førstehjælpere samt borgere, som har haft brug for akut hjælp, er omfattet af sikkerhedsbristen.
+
+Region Syddanmark har konstateret et brud på persondatasikkerheden i et udkaldssystem, skriver regionen i en pressemeddelelse. Systemet indeholder oplysninger om akut- og førstehjælpere, ejere af hjertestartere samt borgere, som de har være ude hos. Bruddet omfatter 17.300 personer, hvoraf 2.300 er ansatte. De resterende 15.000 er borgere – heriblandt ejere af hjertestartere.
+Konkret benyttes udkaldssystemet til at tilkalde de nærmeste akut- og førstehjælpere, når der er borgere, som har brug for akut hjælp. Systemet har været i brug siden september 2015.
+Sikkerhedsbristen blev opdaget af Region Syddanmark selv. Fejlen blev rettet 6. februar i år, fremgår det i pressemeddelelsen.
+Bruddet betyder, at de berørte personers personlige oplysninger kan være blevet misbrugt. Udefrakommende har kunnet få adgang til borgernes alder, køn og helbredsoplysninger samt akut- og førstehjælpernes fulde navn og kontaktoplysninger. Derudover har de også kunnet få indsigt i oplysninger om hjertestartere, som kan indeholde ejernes personoplysninger.
+Hvis man er i tvivl om, hvorvidt man er omfattet af databruddet, kan man kontakte Region Syddanmarks AMK-vagtcentral. Bliver man kontaktet af personer, som siger, at de har ens personoplysninger, bør man anmelde det til myndighederne, lyder opfordringen fra regionen.
+Også tidligere på måneden konstaterede Region Syddanmark databrud i tre it-systemer. Blandt andet havde medarbejdere på sygehusplan fået adgang til 5.802 filer med patienters helbredsoplysninger og navne samt cirka 1.700 skolebørns cpr-numre og navne.
+ritzau
+fortsæt med at læse
+Datatilsynet udtrykker hård kritik af SSI's måde at håndtere personfølsomme data

@@ -1,0 +1,17 @@
+Title: PET_og_FE_far_igen_kritik_for_darlig_databehandlin
+Date: 2023-11-06
+Article Type: Danmark
+Author: Tilsynet med Efterretningstjenesterne (TET) påpeger i årsredegørelser dårlig databehandling i både PET og FE.
+
+Det står skidt til med databehandlingen i de danske efterretningstjenester.
+Det viser Tilsynet med Efterretningstjenesternes (TET) årsredegørelser for 2022, som udkom mandag.
+Blandt andet finder TET det ’overordentligt kritisabelt’, at Politiets Efterretningstjeneste (PET) specifikt ikke havde fået etableret logning for to af PET’s særlige databaser.
+Forsvarets Efterretningstjeneste (FE) får kritik for i 112 tilfælde at have behandlet oplysninger, som burde have været slettet, i et internt mailsystem. I 117 tilfælde har man ligeledes behandlet oplysninger, der burde have været slettet, i et system til håndtering af FE’s eksterne kommunikation.
+Det bliver samtidig konstateret, at FE sidste år uberettiget indhentede oplysninger om syv personer i Danmark.
+»TET noterede sig imidlertid, at FE selv konstaterede den uberettigede indhentning samme dag, som den var iværksat, og at tjenesten straks herefter indstillede indhentningen«, lyder det i årsredegørelsen for FE.
+TET fandt det desuden ikke muligt at vurdere, ’om FE i to systemer havde truffet de fornødne sikkerhedsforanstaltninger’.
+»TET fandt det problematisk, at tilsynet i 2022 ikke var i stand til at foretage en effektiv kontrol af en betydelig mængde oplysninger, som FE opbevarer i tre drevstrukturer, idet der fortsat ikke var etableret en løsning som muliggør søgning i indholdet af drevstrukturerne«, lyder det ligeledes i FE’s årsredegørelse.
+Det er i tidligere årsredegørelser fra TET blevet kritiseret eller påpeget, at efterretningstjenesterne på flere punkter ikke behandler data på en korrekt måde.
+TET har også tidligere konstateret, at PET og FE i flere tilfælde uberettiget har indhentet oplysninger om danskere.
+TET holder også tilsyn med Center for Cybersikkerhed (CFCS). CFCS får i årsredegørelsen for 2022 ikke kritik af TET, som dog påpeger enkelte tilfælde af problematisk databehandling.
+ritzau

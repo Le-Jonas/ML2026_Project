@@ -1,0 +1,19 @@
+Title: Flere_netbanker_igen_lagt_ned_af_cyberangreb
+Date: 2023-01-14
+Article Type: Forbrug
+Author: Jyske Bank, Sydbank og Djursland Bank er blandt de banker, hvis hjemmesider lørdag har været ramt af angrebet.
+
+En række danske banker har lørdag været udsat for et cyberangreb, som har betydet, at kunderne i en periode ikke har kunne bruge netbankerne. Det skriver BT.
+Bankdata leverer blandt andet it-løsninger til Jyske Bank, Sydbank og Djursland Bank.
+Jens Refsgaard, som er kommunikationskonsulent hos Bankdata, bekræfter nedbruddet overfor avisen.
+»Vi har i dag oplevet et angreb på vores pengeinstitutters hjemmesider. Samtidig har vi tidligere lørdag haft et problem på vores mobil- og netbank. Problemet er nu løst, og vi er online igen, siger Jens Refsgaard til BT.
+Tirsdag var de samme bankers it-systemer ude af drift i flere timer. Nedbruddet skyldtes et såkaldt overbelastningsangreb. Det kaldes også en DDos-angreb. Det udføres ved, at angriberne udsætter bestemte hjemmesider for tusindvis af forespørgsler på kort tid. Det kan få hjemmesiderne til at gå ned.
+Foruden Bankdatas kunder blev også Nationalbanken i ugens løb udsat for cyberangreb, hvilket betød, at hjemmesiden i en periode ikke var tilgængelig.
+Jens Myrup Pedersen, der er professor i cybersikkerhed ved Aalborg Universitet, manede dog eventuel frygt hos bankkunder til jorden.
+»DDos-angreb giver ikke adgang til de data. Der er ikke noget, der bliver hacket eller trængt ind i. Det er nogle services, der bliver utilgængelige i en periode, sagde han til Ritzau i kølvandet på angrebene.
+I forbindelse med angrebet tidligere på ugen oplyste partner i sikkerhedsfirmaet CSIS Jan Kaastrup, at den russiske hackergruppe Killnet havde skrevet på beskedtjenesten Telegram, at den havde iværksat et angreb mod den danske banksektor.
+Også en sikkerhedschef i Danske Bank oplyser til Computerworld, at den russiske hackergruppe havde påtaget sig skylden.
+Danske Bank oplyste desuden til Ritzau, at den blev angrebet mandag, men at DDoS-angrebet blev afværget.
+ritzau
+fortsæt med at læse
+Syv banker var ramt af nedbrud efter hackerangreb

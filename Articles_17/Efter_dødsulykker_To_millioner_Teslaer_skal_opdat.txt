@@ -1,0 +1,18 @@
+Title: Efter_dødsulykker_To_millioner_Teslaer_skal_opdat
+Date: 2023-12-13
+Article Type: Internationalt
+Author: Tesla udsender en softwareopdatering af kontrollen med autopilotsystemet, der har vist sig at være fejlfyldt.
+
+I to år har en amerikansk myndighed undersøgt autopiloten i Tesla-biler i forbindelse med en række ulykker, hvor nogle har kostet liv.
+Konklusionen lyder nu, at over to millioner af elbilproducentens biler på det amerikanske marked skal opdateres, da der er risiko for fejl i kontrollen med autopilotsystemet.
+Det oplyser den amerikanske trafiksikkerhedsmyndighed, skriver nyhedsbureauet AP.
+Det fejlfyldte system skal sikre, at bilens fører er opmærksom, selv om autopiloten er sat til. Men flere eksempler har vist, at førere har lykkedes med at sidde på bagsædet af bilen, mens den har kørt, eller førere har været tydeligt påvirkede af alkohol.
+Autopilotsystemet kan styre, accelerere og bremse automatisk i den bane, bilen kører i, men kan ikke køre bilen selv til trods for sit navn.
+Tesla har til den amerikanske myndighed selv konstateret, at kontrollen med autopilotsystemet »muligvis ikke er fyldestgørende for at undgå misbrug fra føreren«, skriver AP.
+Tesla vil udsende en softwareopdatering, der skal rette op på fejlen i systemet.
+Autopiloten inkluderer autostyring og fartpilot. Opdateringen vil begrænse, hvor autostyringen kan blive brugt.
+AP skriver, at fortalere for trafiksikkerhed i årevis har kaldt på mere kontrol og regulering med autopilotsystemer. Særligt har de efterspurgt bedre regulering med systemer, der skal registrere om førerens hænder er på rattet, når autopilotsystemet er slået til.
+Den amerikanske trafiksikkerhedsmyndighed har undersøgt 35 ulykker med Tesla-biler, hvor myndigheden mener, at autopiloten har været slået til, siden 2016.
+Mindst 17 personer er blevet dræbt i ulykkerne, der har været inkluderet i undersøgelsen, skriver AP.
+Undersøgelsen er ikke afsluttet, og myndigheden vil følge op på Teslas ageren og den opdatering, der sendes ud til de over to millioner elbiler.
+ritzau

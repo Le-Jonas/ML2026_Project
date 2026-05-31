@@ -1,0 +1,18 @@
+Title: Dansk_domstol_frifinder_Google_i_sag_om_ophavsret
+Date: 2024-08-27
+Article Type: Tech
+Author: Danske Medier og Jobindex havde krævet fem millioner kroner fra Google for påståede lovbrud.
+
+Teknologigiganten Google er tirsdag blevet frifundet i Sø- og Handelsretten i en omfattende sag om påståede krænkelser af ophavsretten.
+Det var brancheorganisationen Danske Medier, som på vegne af jobportalen Jobindex havde sagsøgt Google for brud på ophavsretsloven, varemærkeloven og markedsføringsloven.
+Kravet var på den juridiske front, at Google skulle anerkende at have brudt loven, mens der på den mere kontante side var et krav om betaling af fem millioner kroner.
+Sagen drejer sig om stillingsannoncer udgivet hos jobportalen Jobindex. Disse er efter sagsøgerens opfattelse beskyttet af ophavsret, hvilket betyder, at andre ikke må udbrede dem offentligt - og slet ikke i en kommerciel sammenhæng.
+Og det var netop, hvad Google ifølge Danske Medier og Jobindex gjorde. For Googles søgemaskine rummer en særskilt funktion for stillingsannoncer. Og via den kunne Googles brugere læse jobannoncer hos Jobindex uden at tilgå selve portalen.
+Men ophavsretten er ikke krænket, mener Sø- og Handelsrettens dommere.
+For Jobindex har selv struktureret data på en sådan måde, at de tillader en søgemaskine, i dette tilfælde Google Search, at vise udvidede søgeresultater, i dette tilfælde de fulde jobopslag.
+Med andre ord fremsøger Googles søgemaskine blot data, som er gjort offentligt tilgængelige andre steder af andre, og dermed er der ifølge Sø- og Handelsretten ikke sket en krænkelse.
+Domstolen siger desuden, at Google ikke er en konkurrerende virksomhed til Jobindex, og der er efter domstolens opfattelse hverken tale om brud på markedsføringsloven eller varemærkeloven.
+Jobindex havde som nævnt forlangt fem millioner kroner fra Google i sagen. Men frem for et udbytte er sagen nu endt i en udgift. Jobindex er nemlig dømt til at betale 1,7 millioner kroner i sagsomkostninger.
+ritzau
+fortsæt med at læse
+Margrethe Vestager giver milliardbøde til Apple

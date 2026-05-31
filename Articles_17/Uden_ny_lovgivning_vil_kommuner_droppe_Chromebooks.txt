@@ -1,0 +1,30 @@
+Title: Uden_ny_lovgivning_vil_kommuner_droppe_Chromebooks
+Date: 2024-03-01
+Article Type: Danmark
+Author: Kommuner, der bruger Chromebooks i folkeskoler, efterspørger ny lovgivning for at kunne leve op til påbud.
+
+53 danske kommuner og Kommunernes Landsforening vil frem mod 1. august arbejde videre med tre anbefalinger fra Datatilsynet vedrørende brug af Chromebooks i folkeskoler.
+Det skriver Kommunernes Landsforening (KL) i en pressemeddelelse fredag.
+Her er der frist for, at kommunerne skal tilkendegive, hvordan de vil efterleve et påbud fra Datatilsynet.
+Påbuddet handler om, at kommunerne skal sikre, at der fra 1. august ikke bliver videregivet data fra skoleelever, der bruger Chromebooks, uden lovhjemmel.
+Det er endnu ikke lykkedes for kommunerne at finde en teknisk løsning i samarbejde med Google, som står bag de bærbare computere.
+Samtidig er der ikke blevet lavet ny lovgivning på området, som kommunerne tidligere har efterspurgt.
+Derfor vil de 53 kommuner ikke have andet valg end at droppe brugen af Chromebooks fra 1. august, hvis påbuddet skal efterleves, lyder det.
+Ifølge kommunerne selv er sagen blevet principiel.
+Det siger Peter Rahbæk Juel (S), Odenses borgmester og formand for KL’s udvalg for arbejdsmarked og borgerservice.
+Han refererer til, at problematikken også eksisterer i forhold til brug af Microsoft 365, som blandt andet indeholder OneDrive og Office-pakken.
+»Det her handler om servicedata, der bruges til at optimere systemerne. De data er bærende for, at man kan udvikle it«, siger Peter Rahbæk Juel.
+Han gentager kommunernes ønske om ny og klarere lovgivning.
+»Regeringen er nødt til at finde en balance, hvor Danmark kan være et fremsynet, digitalt land, samtidig med at brugerne kan være trygge«.
+»Alternativet er, at der er sort skærm efter sommerferien for rigtigt mange skoleelever«.
+Sagen om de bærbare computere kom på Datatilsynets radar tilbage i 2019.
+Flere år senere - den 30. januar 2024 - kom tilsynet så med sin afgørelse. Den lød, at kommunerne videregiver data uden lovhjemmel.
+I den forbindelse kom tilsynet med et påbud om at bringe orden i sagerne.
+Datatilsynet foreslog tre mulige løsninger. En af dem er, at der laves ny lovgivning.
+De andre to handler om at begrænse Googles adgang til de data, der i dag ulovligt videregives, eller at aftale med Google, at virksomheden ikke bruger dataene til formål, der er i strid med loven.
+I praksis er det dog ikke farbare veje, siger Peter Rahbæk Juel.
+»Vi har løbende været i dialog med Google, som har været meget tydelig om, at der er tale om servicedata - ikke personfølsomme oplysninger. Så der er brug for ny lovgivning«.
+Har Google afvist de to muligheder for tekniske løsninger?
+»Jamen, det findes ikke. Google er der, hvor Google er. Deres overvejelser må du snakke med Google om. Jeg tror ikke, at der findes it-udvikling, hvis man ikke kan bruge servicedata«.
+Peter Rahbæk Juel tilføjer dog, at KL og kommunerne fortsat er i dialog med Google.
+ritzau

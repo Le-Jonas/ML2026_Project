@@ -1,0 +1,16 @@
+Title: Microsoft_melder_om_stabile_systemer_efter_driftsforstyrrelse
+Date: 2023-01-25
+Article Type: Tech
+Author: De berørte tjenester er genoprettet og stabile, skriver Microsoft efter omfattende driftsforstyrrelse onsdag.
+
+Artiklen er opdateret kl. 19.09.
+Brugere af Microsoft-programmer som Outlook, Teams og Sharepoint har onsdagen igennem haft problemer med at tilgå tjenesterne. Men nu er problemerne løst, oplyser Microsoft onsdag aften dansk tid på Twitter.
+»Vi har bekræftet, at de berørte tjenester er genoprettet og forbliver stabile«, skriver it-virksomheden.
+Microsoft meldte onsdag morgen om problemer med flere af dets platforme.
+»Brugere kan være ude af stand til at tilgå flere Microsoft 365-services«, skrev Microsoft i en servicemeddelelse.
+Det var blandt andet Microsoft Teams, Exchange Online, Outlook, Sharepoint Online, OneDrive for Business og Microsoft Graph, som var påvirket.
+Det fremgår ikke af tweetet onsdag aften, hvad der har forårsaget problemerne.
+Onsdag formiddag skrev Microsoft på Twitter, at det formentlig var en netværksændring, som har været årsag til nedbruddet.
+»Vi har tilbagerullet en netværksændring, som vi mener, forårsager problemer. Vi overvåger programmerne, imens tilbagerulningen gennemføres«, skrev Microsoft.
+Over for BBC har Microsoft afvist, at det skulle være cyberangreb, som har været anledning til driftsforstyrrelsen. På hjemmesiden Downdetector.com, hvor brugere kan melde, hvis de oplever fejl på en software, begyndte fejlmeldingerne for Outlook at tikke ind klokken 07.58. Microsoft Teams bliver ifølge BBC brugt af flere end 280 millioner mennesker verden over.
+ritzau

@@ -1,0 +1,22 @@
+Title: It-virksomhed_46_hackerangreb_mod_Danmark_og_Sverige_pa_11_dage
+Date: 2023-02-09
+Article Type: Danmark
+Author: Danmark har været ramt af en række politisk motiverede hackerangreb, viser data fra it-sikkerhedsvirksomhed.
+
+Både Danmark og Sverige har i slutningen af januar og starten af februar været udsat for en lang række hackerangreb.
+Det viser data fra it-sikkerhedsvirksomheden Tehtris, der nu kan sætte et præcist tal på bølgen af angreb over en periode på 11 dage.
+I perioden fra 23. januar til 2. februar 2023 har virksomheden registreret 46 angreb mod blandt andet offentlige myndigheder, virksomheder, organisationer og pengeinstitutter.
+Omkring 80 procent af angrebene har ramt Danmark. Resten af dem Sverige.
+Hackerne kan ifølge Tehtris spores tilbage til både Tyrkiet og Rusland.
+De to lande har i øjeblikket et anspændt forhold til Danmark på grund af politikeren Rasmus Paludans koranafbrændinger og Danmarks støtte til Ukraine.
+Derfor vurderer Torben Clemmensen, som er it-sikkerhedsspecialist hos Tehtris, at angrebene er politisk motiverede, hvilket gør dem farligere.
+»Nu handler det ikke længere om at lave et opråb. Nu handler det om at ødelægge noget og få noget ud af det«, siger han.
+Hackerangrebene, som Tehtris har registreret, har ramt blandt andet Nationalbanken, Forsvaret, YouSee, Jyske Bank og Danmarks Statistik.
+Virksomheden har ved hjælp af såkaldte honeypots - en form for virtuelle fælder for hackere - registreret de pågældende angreb.
+En honeypot kan maskere sig som en legitim server, hjemmeside eller lignende. En hacker vil først opdage, at vedkommende er faldet i en fælde, når de har interageret med honeypotten.
+Værktøjet kan hurtigt spore hackerens lokation samt give indsigt i, hvordan personen arbejder.
+Ifølge Torben Clemmensen kan en honeypot på den måde være med til at forebygge fremtidige angreb.
+Hackerangrebene har været såkaldte ddos-angreb - også kendt som overbelastningsangreb.
+De udføres ved, at angriberne udsætter bestemte hjemmesider for tusindvis af forespørgsler på kort tid. Det kan få hjemmesiderne til at gå ned.
+Torben Clemmensen vurderer, at angrebene vil blive intensiveret i den kommende tid på grund af den spændte politiske situation i både Ukraine og Tyrkiet.
+ritzau

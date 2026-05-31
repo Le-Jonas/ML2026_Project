@@ -1,0 +1,23 @@
+Title: TikTok_abner_europæisk_datacenter_for_at_lette_fry
+Date: 2023-09-05
+Article Type: Tech
+Author: TikTok åbner europæiske datacentre for at ’styrke datasikkerheden for danske og europæiske brugere’.
+
+Artiklen er opdateret kl. 15.51.
+TikTok har åbnet sit første europæiske datacenter i Dublin, skriver TikTok i en pressemeddelelse.
+Det er den europæiske sikkerhedsvirksomhed NCC Group, der fremover skal håndtere og opbevare TikToks europæiske brugerdata. Det nye samarbejde er en del af virksomhedens Project Clover, der skal styrke datasikkerheden for danske og europæiske brugere, skriver TikTok i pressemeddelelsen.
+Sidenhen vil TikTok åbne yderligere to europæiske datacentrer – et i Norges Hamar-region og et yderligere i Irland. Data fra TikToks mere end 150 millioner europæiske brugere vil blive opbevaret i et af disse tre centre.
+Åbningen af datacentrene i Europa sker i kølvandet på bekymringer om datasikkerheden på det sociale medie. En del af bekymringerne er, at den data, som TikTok har om sine brugere, kan tilgås af den kinesiske stat.
+TikTok, som er grundlagt af det kinesiske firma ByteDance, har tidligere afvist nogensinde at have delt data med den kinesiske regering og har sagt, at man ikke vil gøre det, hvis man bliver bedt om det. Kritikere frygter dog, at den kinesiske stat kan anmode om adgang når som helst. Som en del af sin indsats for at lette disse bekymringer vil TikTok altså nu gemme europæiske brugerdata lokalt.
+Flere regeringer, heriblandt USA’s, Canadas og flere europæiske landes, har allerede gjort appen forbudt på statsudstedte telefoner.
+TikTok er blandt verdens mest populære sociale medier. Ifølge statistikbanken Statista havde mediet i januar lige godt én milliard månedligt aktive brugere på verdensplan. Facebook lå øverst med knap tre milliarder brugere, mens Instagram lå på to milliarder brugere og det kinesiske WeChat på 1,3 milliarder brugere.
+Ken Friis Larsen, der er lektor ved Datalogisk Institut ved Københavns Universitet, synes umiddelbart, at det er positivt, at en uafhængig tredjepart skal opbevare de europæiske data. Dog kommer den reelle forbedring af datasikkerheden an på, hvad ens trusselsbillede er.
+»Hvis man er en udsat person, det vil sige politiker, erhvervsperson, erhvervsleder eller militærperson, og er bange for spionagetruslen mod ens person specifikt, tror jeg ikke, at det er en reel forbedring«, siger han og tilføjer:
+»Hvis man på den anden side er en almindelig bruger, er det en forbedring, fordi TikTok bliver bedre til at overholde og leve op til europæiske regler«.
+Ken Friis Larsen mener, at det bedste, man kan gøre for at beskytte sin data, er at lade være med at bruge TikTok:
+»Hvis man er en udsat person, så er det næstbedste at have en meget streng mobildisciplin, hvor man har en separat mobil, som man bruger til TikTok. Den skal ikke med ind til møder og lignende, hvis man er særligt udsat for en spiontrussel«.
+Som almindelig bruger skal man gå igennem sine sikkerhedsindstillinger og slår det højeste niveau til, anbefaler Ken Friis Larsen.
+ritzau
+fortsæt med at læse
+TikTok har fået et nyt hit – og det er fantastisk
+Da 12-årige Eva skrottede sin iPhone, skete der helt nye ting i hendes liv

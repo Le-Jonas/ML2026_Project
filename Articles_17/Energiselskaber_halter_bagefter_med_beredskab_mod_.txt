@@ -1,0 +1,23 @@
+Title: Energiselskaber_halter_bagefter_med_beredskab_mod_
+Date: 2023-11-20
+Article Type: Danmark
+Author: 6 ud af 10 energiselskaber mangler kompetencer til at håndtere cybersikkerhed.
+
+De danske energivirksomheder halter markant bagefter det generelle marked, hvad angår klarheden til at modstå et eventuelt cyberangreb, og mere end halvdelen mener ikke, at de har kompetencerne til det, viser en rapport fra konsulentvirksomheden Rambøll Management Consulting, som sammen med interesseorganisationen Dansk IT har interviewet danske energivirksomheder.
+Helt konkret svarer 61 procent af energibranchens virksomheder, at de mangler kompetencer til håndtering af cybersikkerhed. Kun 39 procent svarer, at de rette kompetencer er til stede.
+Af de danske top-1.000-virksomheder svarer 50 procent, at de har de rette kompetencer til at reducere det nuværende sikkerhedsniveau.
+Steen Christensen, som er direktør i Rambøll Management Consulting, siger, at problemet »er meget alvorligt«.
+»Hver dag ser vi cyberangreb i Danmark, inklusive i energisektoren. Det er selvfølgelig vigtigt, at man har styr på sin cybersikkerhed, når man arbejder i en sektor, hvor man arbejder med kritisk infrastruktur«, siger Steen Christensen.
+Mens 66 procent af alle danske top-1000 virksomhed har beredskabsplaner på plads i tilfælde af et cyberangreb, er dette tal for energibranchen nede på 54 procent.
+»Det kan jo i yderste konsekvens betyde, at danskerne kommer til at mangle el, varme eller vand, siger Steen Christensen.
+De 61 procent af energivirksomhederne, som svarer, at de mangler kompetencer, mangler især personale, som har styr på cybersikkerhed, siger Steen Christensen.
+»En af de kompetencer, som er svær at få adgang til, er det, man kalder kompetencer i OT-sikkerhed. Der er generelt for få af de kompetencer i Danmark, så det er svært for virksomhederne at rekruttere til«, siger Steen Christensen.
+OT står for operationel teknologi. Det kan for eksempel være de computerprogrammer, som elselskaber bruger til at overvåge deres elnet.
+»Det, som flere af virksomhederne foreslår, det er, at der fokuseres mere på området rent uddannelsesmæssigt, så det bliver muligt at tage flere uddannelser – for eksempel inden for OT-sikkerhed«, siger Steen Christensen.
+ritzau
+fortsæt med at læse
+»Vild rapport« om afværget cyberangreb:
+Forsyningsselskaber kan ikke reagere på angreb uden for almindelig arbejdstid
+Angreb på Danmarks infrastruktur: Er vi midt i en cyberkrig?
+Direktør om afværget cyberangreb:
+»Det her er det tætteste, vi har været på, at fjendtlige aktører har kunnet slukke for vores el, varme og vand«

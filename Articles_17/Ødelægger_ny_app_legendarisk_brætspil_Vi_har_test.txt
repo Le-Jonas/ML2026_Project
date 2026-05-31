@@ -1,0 +1,11 @@
+Title: Ødelægger_ny_app_legendarisk_brætspil_Vi_har_test
+Date: 2023-12-29
+Article Type: Bagsiden
+Author: En ny computersimulation, der kan forudsige vinderhestene i brætspillet Derby, er blevet udråbt til et masseødelæggelsesvåben. En tryktest afslører, hvordan det fungerer i virkelighedens verden.
+
+Sune Højrup Bencke
+Journalist
+Apokalypsen er aflyst. Det må være konklusionen, efter at jeg har tryktestet en ny
+app
+, der på baggrund af 1.860.480 computersimuleringer påstår at kunne forudsige de bedste heste i et givent løb i brætspillet Derby og dermed for evigt tage al spænding ud af det elskede 1980’er-brætspil.
+Testen blev foretaget 2. juledag til et større Derby-arrangement, hvor jeg gik til brættet med to hovedstrategier, som jeg senere vil komme tilbage til.

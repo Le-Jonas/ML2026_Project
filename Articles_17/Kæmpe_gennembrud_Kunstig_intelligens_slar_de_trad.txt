@@ -1,0 +1,9 @@
+Title: Kæmpe_gennembrud_Kunstig_intelligens_slar_de_trad
+Date: 2023-11-21
+Article Type: Viden
+Author: Baseret på 6 timers vejrdata kan en bærbar computer ved hjælp af kunstig intelligens lave en vejrudsigt, som slår de traditionelle vejrudsigter i 9 af 10 tilfælde. Vildt, siger ekspert fra DMI.
+
+Lasse Foghsgaard
+Videnskabsredaktør
+Nutidens vejrudsigter er en triumf for videnskab og ingeniørkunst, hvor supercomputere i løbet af nogle timer kan forudsige vejret de næste fem dage ved at fodre vejrmodeller baseret på fysiske love med vejrdata.
+Men hvis der sker noget uventet, holder vejrudsigten ikke altid, hvad den lover, og der er plads til forbedringer. Hvem er for eksempel ikke blevet fanget i en regnbyge, selv om meteorologerne havde lovet, at vi endelig ville få en dag med tørvejr?

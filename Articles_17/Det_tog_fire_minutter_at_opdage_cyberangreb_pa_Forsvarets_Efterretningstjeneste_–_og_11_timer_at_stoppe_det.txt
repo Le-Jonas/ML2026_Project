@@ -1,0 +1,18 @@
+Title: Det_tog_fire_minutter_at_opdage_cyberangreb_pa_Forsvarets_Efterretningstjeneste_–_og_11_timer_at_stoppe_det
+Date: 2023-01-04
+Article Type: Danmark
+Author: Hjemmesider tilhørende blandt andet Forsvarets Efterretningstjeneste blev ramt af et cyberangreb i december.
+
+Et cyberangreb, der blokerede adgangen til Forsvarets Efterretningstjenestes (FE) hjemmeside 8. og 9. december, blev opdaget efter fire minutter, men det tog 11 timer at stoppe angrebet.
+Det oplyser Forsvarets Materiel- og Indkøbsstyrelse (FMI) i en pressemeddelelse.
+Angrebet gjorde, at en række hjemmesider var utilgængelige fra klokken 09.38 den pågældende dag. Det blev opdaget inden for fire minutter.
+»Cyberangrebet blev udført aktivt med varierende intensitet, skiftede angrebsvektor undervejs og blev afværget efter 11 timer«, skriver FMI i pressemeddelelsen.
+Det var hjemmesider under Forsvarsministeriets koncern, der blev ramt.
+Foruden Forsvarsministeriets hjemmeside var det i timevis blandt andet umuligt at komme ind på hjemmesiderne tilhørende Forsvarets Efterretningstjeneste (FE) og Center for Cybersikkerhed (CFCS), der hører under FE.
+Det var et cyberangreb af typen DDoS, som hjemmesiderne blev udsat for, og koncernens beskyttelse mod den type angreb blev aktiveret automatisk. Bagefter blev der også sat gang i en manuel beskyttelse mod angrebet.
+DDoS er betegnelsen for et overbelastningsangreb. Her sender gerningsmænd en masse forespørgsler mod en server, så den overbelastes med forespørgsler.
+I tilfældet fra december var det en webserver, der hoster hjemmesider, som blev angrebet. Da en server har en grænse for, hvor mange anmodninger der kan behandles ad gangen, gjorde cyberangrebet det umuligt at tilgå forskellige webadresser.
+Forsvarets Materiel- og Indkøbsstyrelse, der undersøger cyberangrebet, har tidligere oplyst til Ritzau, at gerningsmændene ikke slap afsted med nogen form for data ved angrebet.
+»Det har udelukkende været en sabotage af at kunne tilgå vores hjemmesider«, sagde pressechef Thorbjørn Nørgaard Hein nogle dage efter DDoS-angrebet.
+ritzau
+fortsæt med at læse

@@ -1,0 +1,9 @@
+Title: Han_har_et_alternativ_klar_til_skolernes_Chromeboo
+Date: 2024-02-19
+Article Type: Tech
+Author: Skolerne må ikke længere bruge Google, medmindre Folketinget gør datahøsten lovlig. Men Skandinaviens største udbyder af open source står klar med et alternativ.
+
+Jens Bostrup
+Journalist
+Eleverne i de 53 kommuner, der bruger Chromebook, er i fare for at miste adgangen til digital læring. Inden 1. august skal problemerne med Googles håndtering af elevernes data enten være væk eller lovliggjort. Allerede 1. marts – om mindre end to uger – skal kommunerne meddele Datatilsynet, hvad de vil gøre.
+Derfor applerer kommunerne til regeringen om at få Googles løsning lovliggjort i en fart. Og gør det samtidig klart, at store dele af digitaliseringen i det offentlige står på spil.

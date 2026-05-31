@@ -1,0 +1,9 @@
+Title: Internt_notat_viser,_at_Twitter_vidste,_det_kunne_ga_galt_–_og_det_gjorde_det
+Date: 2022-11-15
+Article Type: Viden og tech
+Author: Musk var advaret om, hvor galt det ville gå, viser interne dokumenter.
+
+Jens Bostrup
+Journalist
+Et syv sider langt notat fra Twitters sikkerhedsafdeling, som tech-mediet Platformer er i besiddelse af, beskriver i pinagtigt præcise detaljer, hvad der kan ske, hvis man gør det muligt at købe en ’verificeret’ profil på Twitter for 60 kroner, uden at gøre noget for at sikre sig, at kontohaveren er ægte.
+Medicinalselskabet Eli Lilly er et godt eksempel på, hvad der rent faktisk skete. En ukendt person købte en profil, der gav sig for at være Eli Lilly komplet med både navn og logo, og skrev torsdag: »Vi er glade for at kunne meddele, at insulin fremover vil være gratis«. Fredag morgen tabte selskabet fem procent af sin værdi på børsen.
