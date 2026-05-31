@@ -1,0 +1,19 @@
+Title: Mail_er_bedste_spor_efter_brandattentat
+Date: 2005-06-10
+Article Type: Danmark
+Author: Sisse K. Ibsen
+
+Silke Bock og Matias Seidelin
+Et af politiets foreløbig bedste spor i sagen om brandattentatet mod integrationsminister Rikke Hvilshøjs (V) hjem er faldet til jorden. 
+Manden, som et vidne havde set løbe væk fra ministerens bolig, i minutterne efter at flammerne blussede op, blev identificeret, og politiet fastslog, at han ikke var mistænkt, da der blot var tale om en nysgerrig fra lokalområdet.
+It-spor
+Dermed peger mere og mere i retning af it-spor fra den computer, som Aktionsgruppen Grænseløse Beate brugte til at afsende den pressemeddelelse, hvor de med begrundelse i regeringens »racistiske flygtningepolitik« påtog sig skylden for attentatet. 
+Lars Højberg, produktchef for mail hos TDC, vurderer, at politiet kan gå flere veje for gennem computeren at finde frem til aktivisten, der sendte mailen til pressen. 
+Politiet har allerede sporet sig frem til, at pressemeddelelsen er afsendt fra computer nummer 84 hos netcafeen Surf & Play på Indre Nørrebro.
+Yahoo kan have oplysninger
+Mailen er sendt fra en yahooadresse med afsenderen "eæoi" >werpal@yahoo.com>, og derfor ligger Yahoo sandsynligvis inde med oplysninger, som politiet kan bruge. Yahoo kan formentlig fortælle, hvornår mailkontoen er oprettet, og det kan have stor betydning, om den er oprettet på netcafeen, kort før pressemeddelelsen blev sendt af sted, eller et par dage før. 
+»Hvis adressen er oprettet, før aktivisten besøgte netcafeen, vil det kunne føre politiet til en anden computer- og til den computer er der jo også en ejermand«, siger Lars Højberg.
+Andre meddelelser
+En anden ting, politiet sandsynligvis undersøger, er, om mailkontoen er blevet brugt til at sende meddelelser til andre. Det er nemlig ikke sikkert, at det kan bruge adressen "eæoi" >werpal@yahoo.com> til noget, for man kan sagtens skrive, at man hedder Holly Hunter og bor i Hundslund, når man opretter en mailkonto, fordi ingen tjekker, at oplysningerne er korrekte. 
+»Det tyder på, at personen har ladet hænderne danse over tastaturet. Mange af bogstaverne sidder tæt på hinanden, så jeg tror, at det er helt tilfældige bogstaver«, siger Lars Højberg. 
+Aktivisten kan have sendt mail til andre. Er det sket, er håbet, at der bag de mailadresser sidder folk, som har været mere sanddru og givet rigtige informationer, da de oprettede kontoen, forklarer it-eksperten: »Det kan føre politiet til en personkreds omkring vedkommende og dermed indkredse, hvem der er tale om«.

@@ -1,0 +1,25 @@
+Title: Kun_supermarkeder_kan_redde_chipdankort
+Date: 2005-08-09
+Article Type: Økonomi
+Author: Louise Zabel
+
+Det sidste håb for det udskældte chipdankorts overlevelse ligger hos landets to store supermarkedskæder Coop Danmark og Dansk Supermarked. 
+Det erkender firmaet bag kortet, Dankort A/S, efter at Jysk som en af mange store butikskæder har valgt chippen fra og i stedet benytter den mindre sikre magnetstribe. 
+»Det er jo klart, at når hver anden dansker dagligt handler i en af de to kæder, at det er altafgørende, at de deltager i indførelsen af chipdankortet, for at det kan fungere«, siger firmaets kommunikationschef, Jakob Rasborg.
+Kæder tøver
+Men det kan have lange udsigter. 
+Begge kæder tøver nemlig med at tage det i brug, fordi der har været for mange problemer med kortet. Chippen falder af, kortet virker ikke, og det tager simpelthen for lang tid at bruge for kunderne. 
+»Når det nye kort bliver lige så hurtigt som det gamle at benytte, så er vi da på. Men det må ikke være langsommere, og det har det været indtil nu«, siger Coop Danmarks informationsdirektør, Jens Juul Nielsen.
+Tættere på tidskravet
+Mellem 15 og 20 sekunder har det hidtil taget at gennemføre en transaktion med chipkortet. Det skal ned på 10 sekunder, før supermarkedskæden er tilfreds, og vil sætte de allerede indkøbte chipterminaler i brug. 
+Hos konkurrenten Dansk Supermarked har man hverken købt terminaler eller bestemt, hvornår man vil starte med at bruge chippen. Men det er da tanken en dag at være med, siger kommunikationschef Poul Guldborg. 
+Helt håbløst ser det dog ikke ud. Coop Danmark har netop modtaget målinger fra PBS, der viser, at man nærmer sig 10-sekunders-kravet. Hvis deres egne prøver viser det samme, er man kommet et væsentligt skridt nærmere brugen af chipdankortet. Der går dog mindst et år, vurderer Jens Juul Nielsen.
+Sikkerheden ryger
+1. januar 2006 kan der ellers være en overordentlig god grund til at gøre det. Her stopper bankerne nemlig med at dække butikkernes eventuelle tab ved svindel med magnetstribekortene, netop for at få dem til at bruge chippen i stedet. 
+»Hvis butikken ikke vil bruge chippen, har man selv valgt ikke at være sikret mod kopierede kort, og så må man selv betale skaden. Men forbrugeren er sikret på alle leder og kanter, da de er beskyttet af pengeinstituttet, der betaler, hvis nogen misbruger kortet«, siger Jakob Rasborg fra Dankort A/S. 
+Om butikken vil bruge chipkortet, er dog dens eget valg. Jo større butikken er, jo større incitament kan der være. 
+»Hvis man bor i Sengeløse og bliver klippet hos Frisør Maren, har hun ikke samme incitament til at investere i sikkerhed, fordi hun kender de hoveder, hun klipper. Men det har en landsdækkende supermarkedskæde nok«, siger Jakob Rasborg.
+Langt billigere
+Desuden er der store økonomiske fordele for supermarkeder med mange daglige dankorttransaktioner. 
+De gamle magnetstribekort kører nemlig over en ISDN-forbindelse, hvor hver enkelt terminal ringer op hver eneste gang, kortet er i brug, og dermed koster masser af teletid. Chipkortet kører derimod over en ADSL-forbindelse, hvor butikken kun behøver én forbindelse til alle terminaler, og derfor vil være langt billigere, vurderer Jakob Rasborg. 
+»Når kæderne ønsker at indføre chipterminalen, er det jo ikke kun for at give kunderne bedre sikkerhed. De sparer også sindssygt mange penge på det«.

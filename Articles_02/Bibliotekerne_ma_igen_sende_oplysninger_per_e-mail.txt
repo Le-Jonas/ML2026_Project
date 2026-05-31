@@ -1,0 +1,19 @@
+Title: Bibliotekerne_ma_igen_sende_oplysninger_per_e-mail
+Date: 2005-10-14
+Article Type: Kultur
+Author: Otto Lerche
+
+Datatilsynet har givet bibliotekerne en femårig dispensation fra de sikkerhedskrav, som tilsynet normalt stiller til offentlige myndigheder. 
+ Tilsynet pålagde i juli måned bibliotekerne at fjerne muligheden for at få tilsendt kvitteringer, meddelelser om hjemkommet materiale og hjemkaldelser per e-mail.
+Tilbageskridt
+Begrundelsen var, at de personfølsomme låneoplysninger ikke må sendes ukrypteret over internettet. 
+ Men afgørelsen var et tilbageskridt for serviceniveauet, mente mange lånere, som protesterede til Biblioteksstyrelsen. 
+ Siden har Datatilsynet og Biblioteksstyrelsen løbende diskuteret, hvad der vejer tungest - hensynet til borgerservice eller hensynet til beskyttelse af personfølsomme oplysninger. 
+ I sidste ende tog Datatilsynet altså hensyn til borgerservicen, og det glæder Leif Andresen, bibliotekskonsulent og ansvarlig for bibliotek.dk: 
+ »Vi hilser Datatilsynets afgørelse velkommen. Det kommer brugerne til gode, for nu bliver det igen enkelt at se, om og hvornår man har bestilt en bog«, siger han. 
+ Datatilsynet har lagt vægt på, at de ukrypterede e-mail er en service, som bruges af mange mennesker, og som har været tilgængelig i mange år.
+Sikre løsninger på vej
+»Derudover har vi skelet til, at andre mere sikre løsninger endnu er for lidt udbredt og for indviklede for mange almindelige brugere«, siger Ib Alfred Larsen, it-chef i Datatilsynet.
+Men går I ikke på kompromis med sikkerheden for borgernes personlige oplysninger?
+»Jo, og vi mener jo stadig, at der er tale om fortrolige oplysninger, og vi mener, at lånerne udsætter sig selv for en risiko. Men vi har lyttet til Biblioteksstyrelsen og har besluttet at give en femårig dispensation i forventning om, der i fremtiden kommer løsninger, som gør det sikrere og mere brugervenligt at kommunikere«, siger Ib Alfred Larsen. 
+ Leif Andresen fra Biblioteksstyrelsen fortæller, at styrelsen allerede arbejder på tekniske løsninger, som kan gøre kommunikationen mellem lånere og biblioteker mere sikker. Han nævner den digitale signatur som en nærliggende løsning.

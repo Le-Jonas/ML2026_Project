@@ -1,0 +1,12 @@
+Title: VM_kan_blive_med_chip_i_bolden
+Date: 2005-10-04
+Article Type: Fodbold
+Author: Bo Moshage
+
+Mållinjeteknologi kan blive virkelighed ved VM i fodbold i Tyskland næste sommer. Det er FIFA s konklusion efter det netop overståede U17 VM i Peru. 
+ Verdensforbundet har derfor besluttet, at teste systemet endnu en gang i forbindelse med VM for klubhold i Japan i midten af december. 
+ »FIFA, IFAB (den lovgivende instans mht. regler i fodboldens verden, red.), dommerne og de ansvarlige for systemet er overbeviste om, at mållinjeteknologien har en fremtid i fodbolden«, lyder det i en pressemeddelelse fra FIFA, som dog tilføjer, at en række forbedringer er ønskelige.
+Chip sender signaler
+Den elektroniske mållinjeteknologi virker på den måde, at bolden er udstyret med en lille chip som sender signaler til antenner placeret omkring banen. Antennerne sender signalerne videre til en computer, der ud fra signalerne kan beregne boldens nøjagtige position. 
+ Har bolden passeret mållinjen, videresendes der et elektronisk signal til dommerens og de to assistenters ur og vibrator. Herefter er det så op til dommertrioen om der skal dømmes mål. 
+ På et møde i marts næste år tager IFAB endelig stilling til, om systemet skal benyttes ved VM i Tyskland.

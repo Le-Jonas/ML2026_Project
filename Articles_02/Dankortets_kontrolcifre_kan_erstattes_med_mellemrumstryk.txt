@@ -1,0 +1,25 @@
+Title: Dankortets_kontrolcifre_kan_erstattes_med_mellemrumstryk
+Date: 2005-01-31
+Article Type: Økonomi
+Author: Sisse K. Ibsen
+
+På vej på indkøb på nettet? Ja, så er det nok at kunne huske dit kortnummer og udløbsdatoen på dankortet. 
+De tre kontrolcifre, der egentlig også skal indtastes, før man kan få sine varer tilsendt, behøver du derimod ikke kunne huske. De tal kan nemlig indtastes med tre tryk på tastaturets mellemrumstast i nogle af nettets butikker. Andre har systemer, der sikrer, at det ikke er nok.
+Hensyn til kunder uden kontrolcifre
+PBS erkender, at kontrolcifrene kan erstattes med mellemrumstastetryk og oplyser, at sikkerhedsbristen skyldes et hensyn til kunder. 
+Frem til 1. januar i år har der nemlig cirkuleret cirka en million dankort uden kontrolcifre. Først fra 1. april i år vil det derfor være et obligatorisk krav, at netbutikkerne tjekker kontrolcifrene. 
+Kontrolcifrene er indført for tre år siden af bankerne og PBS netop for at sikre, at den, der tastede de øvrige dankortoplysninger, rent faktisk sad med det fysiske dankort i hånden.
+Klassisk begynderfejl
+Sikkerhedsbristen vækker kritik - også selv om forbrugerne er sikret mod at skulle betale for eventuelt misbrug. 
+»For mig ligner det en helt basal programmeringsfejl, som enhver programmør burde have fanget, inden det sættes i drift. Der checkes for tal - men skriver man mellemrum ind, checkes der ikke. Det er en klassisk begynderfejl«, siger Per Høyer, konsulentfirmaet Qwert.dk til Berlingske Tidende.
+Forbrugerombudsmanden vil tale med PBS
+Også Forbrugerombudsmandens folk rynker brynene. 
+»Det er bankernes og PBS' egen beslutning, hvilke procedurer de vil bruge. Men det er meget uheldigt, hvis man indfører kontrol, der ikke virker eller er meget let at gennemhulle«, siger Søren Iversen for Forbrugerombudsmanden. 
+Søren Iversen oplyser, at Forbrugerombudsmanden i første omgang vil diskutere med PBS, hvordan firmaet vil løse problemet. 
+»Kan vi ikke nå en løsning af mindelig vej, kan vi give et direkte påbud, som de er forpligtet til at efterleve«, siger Søren Iversen. 
+PBS oplyser, at man hurtigst muligt vil spærre for muligheden for at erstatte kontrolcifre med tast på mellemrumstasten.
+Tusindvis af klager over dankortnethandler
+Sagen er ny ammunition til den massive kritik, der har været af PBS i sagen om chip-dankortet og det udskældte 50-øres gebyr. For PBS, der nu kritiseres for ikke at have ordentlig sikkerhed omkring online betalinger, tager sig også solidt betalt med gebyrer hos netbutikkerne - der i få tilfælde sender gebyret videre til forbrugerne. Det koster 1,95 kr. + 0,1 procent af købet i gebyr at gennemføre en nethandel. 
+PBS oplyser, at der gøres indsigelse over for 0,2 procent af handlerne med dankort via nettet. Tallet dækker over både misbrug og f.eks. ikke-leverede varer. 
+I fjerde kvartal 2004, hvor der i alt var 3.379.022 dankortbetalinger via nettet, svarer det til mere end 6.700 klager. 
+Dankort A/S oplyser, at de sager, hvor folk ikke vil vedkende sig et køb og der er mistanke om misbrug udgør mindre end en halv promille. Et skøn kan dermed lyde på 1.500 sager i 4. kvartal.

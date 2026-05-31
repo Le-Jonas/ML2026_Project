@@ -1,0 +1,18 @@
+Title: Dødsdom_til_skandale-systemet_Amanda
+Date: 2004-12-10
+Article Type: Økonomi
+Author: Sisse K. Ibsen
+
+It-systemet Amanda havde ikke en let fødsel eller barndom - og nu - efter forholdsvis kort levetid - er dødsdommen udstedt. 
+En konsulentrapport fra Gartner Consulting konkluderer, at Amandas vedligeholdelse om føje år »bliver risikabel og til sidst umulig«. Det skyldes, at det teknologiske fundament for Amanda i løbet af en fem års periode ikke længere vil eksistere, mener konsulenterne. 
+Hos Arbejdsmarkedsstyrelsen er man enig i, at Amandas dage er talte - selv om det endelig sluttidspunkt ikke ligger fast.
+En kolos
+»Den teknologiske udvikling er løbet fra Amanda på flere områder. Gartner anbefaler, sammen med andre, at vi opbygger et serviceorienteret system, som er baseret på forskellige moduler. 
+Amanda er den diametral modsætning. En mainframe-kolos med indbygget afhængighed, der er meget tung at vedligeholde«, siger Mikala Kreiser, kontorchef i Arbejdsmarkedsstyrelsen til Berlingske Tidende. Mikala Kreiser tør ikke sige, om Amanda eksisterer om tre år.
+Frustrerede AF-folk
+Amanda blev taget i brug i april 2000. Systemet skulle ellers efter planen været taget i brug 1. januar 1998. I forsinkelsesperioden steg prisen på systemet endvidere til det tredobbelte, så prisen til statskassen endte på 650 millioner kroner. 
+Trods forsinkelse og fordyrelse kørte Amanda i udgangspunktet så dårligt, at nogle AF-medarbejdere i frustration nedlagde arbejdet.
+Mindre effektivitet
+Senere konkluderede en rapport, at medarbejdernes effektivitet var faldet med 25 procent sammenlignet med produktiviteten sammen det gamle it-system AF-Match. 
+Siden er mange tekniske forbedringer gennemført, for at få Amanda til at køre bedre. Blandt andet er Amandas styresystem udskiftet. Det samme er alle pc'er hos AF. Det skyldtes, at en anden rapport havde konkluderet, at systemet trods problemerne havde en fremtid. 
+Det modsiges nu Gartner Consulting.

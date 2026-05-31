@@ -1,0 +1,12 @@
+Title: Værd_at_vide_om_HAPPS
+Date: 2004-10-10
+Article Type: Kultur
+Author: Hvad betyder HAPPS?
+ HAPPS står for Hen-Assisted Pregnancy Prediction System 
+ og er et hønsebaseret graviditetsforudsigelsessystem. Hvordan virker HAPPS?
+ Systemet kombinerer de gamle romeres kunst at tage varsler fra fjerkræ med moderne digital teknik: Med en megafon får spåhønsene forelagt neutrale spørgsmål, og deres stillingtagen i form af gok sendes trådløst til en målepult. Kernen i systemet er et specialudviklet computerbaseret fjerkræresponsmodul. Kan HAPPS forudsige andet end graviditeter?
+ I princippet ja. Med forbehold for, at systemet stadig er under udvikling, kan hønsene give svar på alt mellem himmel og jord. Virker HAPPS med alle høns?
+ I princippet ja. Men racen Lys Sussex, suppleret med Orpington, giver erfaringsmæssigt de bedste resultater. På grund af fejlrisiko må hæse høns ikke levere data. Tager spåhønsene skade?
+ Nej. Fuglene færdes frit i deres vante nærmiljø, og megafonen anvendes med den største varsomhed. I modsætning til den tidligere anvendte feng shuimetode skal fuglene ikke bære farvede veste eller give signal gennem deres pikkeadfærd. Hønsene kan spise og drikke, som de har lyst. Er systemet fejlsikret?
+ Overalt hvor mennesker er involveret, kan der opstå fejl. Men teknisk såvel som fjerkræmæssigt er sikkerhedsniveauet i HAPPS ekstremt højt: Fuglenes gokken transmitteres fra hønsegård til målestation på 40,18 MHz, og senderen er indrettet, så fuglene ikke kan skifte kanal.
+

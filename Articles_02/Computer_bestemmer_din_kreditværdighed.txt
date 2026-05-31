@@ -1,0 +1,21 @@
+Title: Computer_bestemmer_din_kreditværdighed
+Date: 2005-09-19
+Article Type: Økonomi
+Author: Anders Emil Møller
+
+Har du brug for et 42 tommer stort tv og en blød sofa til fodboldkampen i aften? Så tag et lynlån. Renten er ganske vist høj som Ulf Pilgaard, men kampen fløjtes i gang om en time, så både skærm og slængemøbel skal købes på nul komma dut. Eller på 15 sekunder. 
+Så hurtigt kan du blive godkendt til at hæve 50.000 kroner. 
+Eller også kan du ikke.
+Intelligente it-systemer
+Butikker som Silvan, Merlin og Ikea flyder med på bølgen af de intelligente it-systemer, der kan analysere sig frem til kundernes kreditværdighed - eller mangel på samme. Ved hjælp af en række oplysninger kan de vurdere, hvilken kategori af betalere kunden hører til. 
+»Vi foretager ikke en vurdering af personen, der vil låne, men en vurdering af typen. På baggrund af vores spørgeskema beregner vores system sandsynligheden for kundens betalingsmønster«, siger Ola A. Johansen, salgs- og marketingchef i Ikano, der står bag lånegodkendelsen i blandt andet Merlin, Ikea og Fætter BR. 
+Firmaer og butikker går således fra at vurdere på mavefornemmelse til en form for sandsynlighedsregning.
+Tidligere sager
+Systemerne baserer sine vurderinger på tidligere sager, hvor kunder har udfyldt et spørgeskema og lånt penge. Når de nye kunder svarer på et standard-spørgeskema i butikken, sker det på en computer koblet på den store kundedatabase. Samtidig med at kunden taster sine personlige svar ind, krydser systemerne oplysningerne med tidligere sager. 
+»Kunderne skal blandt andet svare på, hvilket job de har, hvor meget de tjener, og hvor længe de har haft jobbet. Ligesom de også skal svare på, hvor de bor, og hvor længe de har gjort det«, siger Ola A. Johansen. 
+Det kan også være et postnummer eller en adresse. Ligesom det kan være et tjek hos RKI. Alt sammen indikationer, der afgør, i hvor høj grad butikken kan regne med kunden som betaler.
+Ingen begrænsninger
+Hos SPSS, der er en af de største leverandører af denne type systemer, har man omkring 6.000 kunder i Danmark. I de seneste to år har de leveret yderligere 300 avancerede systemer, der skal hjælpe virksomheder med den form for intelligent vurdering, fortæller Morten Hansen, nordisk marketingchef for SPSS. 
+»Systemet optimerer og automatiserer den viden, butikker eller firmaer har om deres kunder. På den måde kan systemet afgøre, om kunden kan godtages til fuldt lån, lidt af det eller ingen ting«, siger Morten Hansen. 
+I Danmark er der begrænsninger på, hvor mange oplysninger, man må hente om sine kunder. 
+I Sverige findes der derimod et centralt register, som alle kreditudbydere har adgang til. Her kan man eksempelvis se kundens lønforhold, og hvor ofte de beder om lån. Det kan man ikke i Danmark, så derfor er der stor efterspørgsel på it-systemernes sandsynlighedsregning.

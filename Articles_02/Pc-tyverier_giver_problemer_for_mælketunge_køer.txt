@@ -1,0 +1,9 @@
+Title: Pc-tyverier_giver_problemer_for_mælketunge_køer
+Date: 2005-02-16
+Article Type: Økonomi
+Author: Politiet i Ribe har på få dage fået anmeldelser fra tre landmænd, der har fået stjålet den computer, der styrer malkerobotterne. 
+Det betyder i nogle stalde - afhængig af typen på malkerobotten - store problemer for køerne og landmanden: Problemer for køerne
+Normalt kan køerne gå ind i robotten og lade sig malke efter behag, men den mulighed har de ikke, når computeren er stjålet. 
+Ukendte køer får ikke lov at blive malket, så landmanden er nødt til at kode alle oplysninger om køerne ind påny. 
+Tyveriet giver den enkelte mælkeproducent store problemer, hvis producenterne ikke har taget back-up af den stjålne computers indhold.
+

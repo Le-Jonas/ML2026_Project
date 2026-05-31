@@ -1,0 +1,7 @@
+Title: Amter_og_læger_vil_undersøge_elektronisk_journal
+Date: 2004-12-20
+Article Type: Danmark
+Author: Lægeforeningen og Amtsrådsforeningen kræver en nøje undersøgelse af en rapport fra det uafhængige konsulentfirma PSO Sundhedsinformatik, der skarpt kritiserer det system, som skal sikre elektronisk udveksling af sygejournaler mellem sygehusene, lægerne og kommunerne. 
+Rapporten konstaterer, at det såkaldte GEPJ system, der som platform skal gøre det muligt at udveksle elektroniske patientjournaler, selv om sygehusene har forskellige journaliseringssystemer (EPJ), ikke lever op til sin opgave. 
+Det formår ikke at få amternes forskellige journalsystemer til at kommunikere, det er for indviklet og besværligt at arbejde med for personalet, og det stjæler tid fra patientplejen, lyder kritikken.
+

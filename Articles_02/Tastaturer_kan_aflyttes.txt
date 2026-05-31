@@ -1,0 +1,9 @@
+Title: Tastaturer_kan_aflyttes
+Date: 2005-09-25
+Article Type: Viden og tech
+Author: En billig mikrofon og et ret simpelt computerprogram er alt, hvad der kræves for at aflytte, hvad folk skriver på et almindeligt tastatur. 
+Det er forskere fra University of California i Berkeley, der har udviklet systemet, der rekonstruerer den skrevne tekst ud fra de forskellige lyde, som tasterne laver. Dybe taster i midten
+Jo længere inde mod midten en tast sidder, jo dybere lyder den. Ved at analysere lydene kan programmet (som når man bryder en simpel kode, hvor bogstaver er erstattet med andre tegn) rekonstruere op til 96 procent af det skrevne. 
+Og det virker uden skelnen til, hvem der skriver, hvilket tastatur det er, og om der bruges tifinger- eller politi-system. 
+»Jeg tror ikke, det vil være særlig svært for nogen at lave det samme, som vi gør. Måske har nogen allerede gjort det«, siger Doug Tygar, datalog ved University of California i Berkeley.
+

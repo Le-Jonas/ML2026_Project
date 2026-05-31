@@ -1,0 +1,17 @@
+Title: Læserne_løser_igen_forsvarets_test
+Date: 2005-06-29
+Article Type: Danmark
+Author: Gorm Vølver
+
+Det er ikke let at være talredaktør. 
+I går beskrev vi, hvordan Politikens mailboks var blevet fyldt til langt over bristepunktet, efter at vi havde efterlyst forklaringen på en af opgaverne til forsvarets intelligenstest. 
+For at undgå yderligere henvendelser skyndte vi os derfor at bringe en af læsernes forklaringer i avisen. Men uintelligente som vi er, undlod vi at bringe en af de mest indlysende løsninger. Hvorefter mailboksen atter voksede foruroligende. 
+'Ud af 2.000 mail bringer I den forkerte', 'Om igen', 'Sludder', 'Uelegant løsning', som overskrifterne lød i bare nogle få af de henvendelser vi fik (en enkelt mail havde overskriften 'Bare bryster', men det var udelukkende for at undgå at blive slettet ulæst).
+En gang til
+Derfor. Vi tager den én gang til - og det bliver den allersidste, selv om der skulle findes andre løsninger. 
+Først opgaven igen: Hvad er det sidste tal i rækken: 572937 - 84632 - 4657 - 624 - 38 -.......? 
+Løsningen er som bekendt 1, og den umiddelbart mest indlysende forklaring (som vi undlod at bringe) kommer her:
+Tværsummen af tværsummen
+Når man har taget tværsummen af de fem tal, får man tallene 33, 23, 22, 12 og 11. Tværsummen af disse tal giver 6, 5, 4, 3 og 2. Herefter vil det næste tal i rækken være 1. 
+Den forklaring er blandt andre Torben Norling kommet med. 
+En enkelt læser havde en mere alternativ besvarelse. Han mente ikke, at svaret på opgaven 'Hvad er det sidste tal i rækken?' skal være 1, men 38.

@@ -1,0 +1,8 @@
+Title: Fejl_pa_17.000_dankort_og_Visa_dankort
+Date: 2005-07-07
+Article Type: Økonomi
+Author: Omkring 17.000 danskere har i perioden fra den 2. til den 7. juli modtaget et nyt, men ubrugeligt Dankort, Visa/Dankort, Visa Electron eller MasterCard. 
+En softwarefejl hos PBS betyder, at en del af en uges kortproduktion ikke duer, og de berørte kortejere vil inden for en uges tid modtage et nyt kort automatisk, ligesom de vil blive kontaktet af deres bank. 
+»Fejlen er sket i forbindelse med en softwareopgradering hos PBS. Den er nu rettet, og yderligere gennemgår vi vores procedurer for at sikre, at det ikke sker igen«, siger direktør for betalingskort i PBS, Nils Hilbard, til Ritzau. 
+Fejlen hos PBS opstod på et uheldigt tidspunkt, idet bankernes kortvirksomhed samtidig med EDB-kokset havde ekstra gang i korttrykkeriet på grund af et efterslæb i produktionen.
+

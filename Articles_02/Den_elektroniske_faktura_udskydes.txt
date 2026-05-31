@@ -1,0 +1,11 @@
+Title: Den_elektroniske_faktura_udskydes
+Date: 2005-01-20
+Article Type: Økonomi
+Author: Planen var ellers helt klar. Den 1. februar i år skulle alle firmaer, der leverer til det offentlige, også levere en faktura i elektronisk form. 
+Det skal spare papirgange og administration, men flere erhvervsorganisationer har klaget over, at virksomhederne ikke kunne nå at tilrette deres systemer med den forholdsvis korte frist. Thor P. ser på sagen
+Fire erhvervsorganisationer - Handel, Transport og Serviceerhvervene, Dansk Transport og Logistik, De Samvirkende Købmænd og Dansk Byggeri - har derfor bedt og fået tildelt et møde med finansminister Thor Pedersen (V) om sagen. 
+Han vil ifølge sin pressechef se på sagen endnu engang - og muligvis gå med til, at fristen for indførelse af de elektroniske fakturaer udskydes fra 1. februar til 1. juli. 
+Mødet mellem organisationerne og finansministeren bliver afholdt fredag. Det skriver it-nyhedstjenesten Comon.dk. Kan kun modtage e-fakturaer
+Ikke kun praktiske problemer har ramt de elektroniske fakturaer. De kritiseres også for at bygge på en allerede forældet standard. 
+Der betyder, at det offentliges systemer nok kan modtage de elektroniske fakturaer, men ikke afsende dem, hvis det offentlige leverer elektroniske bestilte ydelser mod betaling.
+

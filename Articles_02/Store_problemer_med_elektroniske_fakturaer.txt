@@ -1,0 +1,14 @@
+Title: Store_problemer_med_elektroniske_fakturaer
+Date: 2005-03-17
+Article Type: Økonomi
+Author: Ubetalte regninger, forsinkede betalinger og manglende styr på systemerne. 
+Sådan er status, halvanden måned efter at startskuddet gik til det omfattende projekt med elektroniske fakturaer i det offentlige, skriver avisen Computerworld. 
+Elektronisk fakturering til offentlige myndigheder er i fuld gang - men både leverandører og offentlige kunder er utilfredse og opfyldt af frustrationer. Dropper offentlige kunder
+»E-fakturering er en ren katastrofe. I dag har jeg måttet afvise tre kommuner, der ville handle på e-faktura, fordi vi simpelthen ikke får pengene, eller vi får dem for sent«, siger Henrik Møller, der er administrerende direktør i it-leverandørvirksomheden Informatic DK, til Computerworld. 
+Han er begyndt at droppe offentlige kunder, selv om de udgør over halvdelen af hans forretning. Fejle rammer leverandører
+Både Håndværksrådet og Dansk Handel & Service har modtaget klager fra medlemsvirksomheder, der har haft problemer med de elektroniske betalinger. 
+Henrik Hyltoft fra DHS peger på, at e-faktura alt for sent blev meldt ud, at der har været massiv mangel på information hele vejen rundt, og at systemet er lavet sådan, at fejl rammer leverandørerne, der bliver trængt økonomisk, fordi betalingerne trækker i langdrag, og de oplever regninger gå helt tabt i systemerne. Økonomistyrelsen beklager
+På den anden side af bordet har mange offentlige kunder hverken fået systemerne eller deres organisationer klar. 
+Både Økonomistyrelsen, der har ansvaret for e-faktura, og indscanningsbureauerne, som mindre virksomheder typisk bruger til at sende de elektroniske fakturaer, erkender, at der både er mange fejlmuligheder og mange fejl. 
+Begge siger også, at der er tale om indkøringsvanskeligheder, og at problemerne bliver løst.
+

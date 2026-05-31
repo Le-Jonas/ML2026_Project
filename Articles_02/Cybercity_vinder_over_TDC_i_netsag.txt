@@ -1,0 +1,12 @@
+Title: Cybercity_vinder_over_TDC_i_netsag
+Date: 2005-01-25
+Article Type: Økonomi
+Author: Teleselskabet Cybercity har vundet en strid med konkurrenten TDC om adgang til at indføre den nye teknologi VDSL. 
+TDC har ellers afvist at give Cybercity adgang til at udbyde VDSL via kobbernettet, fordi det ville karambolere med nye typer af ADSL-teknologi, f.eks. ADSL 2++, der på et tidspunkt i fremtiden ventes at kunne give hastigheder på op til 48 megabit pr. sekund. 
+Ifølge TDC vil den bedste udnyttelse af nettet være at udnytte det til de forskellige ADSL-typer. TDC afvist
+IT- og Telestyrelsen afviser imidlertid, at TDC kan holde Cybercitys VDSL-teknologi væk med henvisning til ADSL 2++. 
+Styrelsen mener, at man ikke kan afvise en teknologi med henvisning til en anden, som kun potentielt kommer i brug inden for en årrække. I stedet henviser styrelsen til, at man må tage udgangspunkt i eksisterende forhold. 
+VDSL-teknologien kan også komme til at genere en anden fremtidig teknolgi, ADSL 2+-, (der vil give hastigheder på 25 megabit pr. sekund). Men her mener IT- og Telestyrelsen, at det forholdsvis let kan lade sig gøre at opstille regler, så VDSL og ADSL 2+ kan leve sammen. Cybercity: TDC har forsøgt at skade os
+I Cybercity er man glade for afgørelsen, men samtidig irriteret over, at det har taget mere end et år at komme så langt. 
+»I vores optik er sagen klokkeklar: TDC har forsøgt at forhindre deres primære konkurrent på bredbånd i at kunne tilbyde et nyt DSL-produkt til kunderne. Det er klart utilfredsstillende og til skade for konkurrencen på markedet«, siger Jesper Hansen, udviklingsdirektør i Cybercity.
+

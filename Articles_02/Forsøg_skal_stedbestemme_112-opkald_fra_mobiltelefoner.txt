@@ -1,0 +1,10 @@
+Title: Forsøg_skal_stedbestemme_112-opkald_fra_mobiltelefoner
+Date: 2005-08-30
+Article Type: Økonomi
+Author: Et pilotforsøg med at stedbestemme opkald fra mobiltelefoner til alarmnummeret 112 er indledt i Viborg, Ringkøbing og Århus amter. 
+Forsøget skal medvirke til at sikre færre fejl og hurtigere hjælp. Mangler sikker løsning
+Pilotforsøget skal afklare, om den nye løsning er driftssikker og giver korrekte oplysninger til alarmcentralerne. 
+»Målet er, at der primo 2006 kan udrulles en velfungerende og sikker løsning i hele landet, der gør, at alarmopkald fra mobiltelefoner kan stedbestemmes og dirigeres til den relevante alarmcentral«, siger videnskabsminister Helge Sander (V). 
+Bag forsøget står mobilselskaber med eget net samt alarmmyndighederne. 
+I forsøget afprøves den såkaldte celle-ID-metode, der bruger information om mobilcellerne i nettet til at stedbestemme mobilopkald.
+

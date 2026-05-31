@@ -1,0 +1,36 @@
+Title: Fra_bøger_til_bits
+Date: 2005-10-21
+Article Type: Bøger
+Author: Joel Goodstein
+
+Bibliotekerne står i et vadested - mellem bøger og bits. 
+En ny rapport fra Teknologirådet fremhæver bl.a. manglende aftaler mellem rettighedshaverne og de offentlige nyheds- og kulturformildere, herunder bibliotekerne, som en væsentlig barriere for at sikre borgerne et tilstrækkelig stort udbud af informationer, nyheder og kultur i digitale formater.
+Rettigheder
+»De digitale medier giver os nu mulighed for at gøre det, biblioteker altid har drømt om, nemlig at give direkte adgang til informationer 24 timer i døgnet syv dage om ugen«, siger Jens Thorhauge, direktør for Biblioteksstyrelsen. 
+»De tekniske barrierer er ved at være løst med forøgelsen af kapaciteten på internettet, men rettighedssituationen er langt vanskeligere at finde løsninger på, fordi det kræver forretningsmodeller, som både rettighedshavere, biblioteker og brugere synes er rimelige«, siger han.
+Tilbageholdende forlæggere
+Allerede i dag er mere end to tredjedele af udlånene på forskningsbibliotekerne elektroniske, bl.a. i form af online-adgang til store udenlandske tidsskriftsamlinger. 
+Men selv om forskningsbibliotekerne har et stort digitalt udlån, så gælder det primært udenlandske værker, og derfor efterlyser Jens Thorhauge større imødekommenhed hos forlæggerne, når det gælder aftaler om digital distribution af danske bøger og tidsskrifter til både folke- og forskningsbiblioteker. 
+»Forlæggerne har været meget tilbageholdende med at etablere digital distribution af deres bøger på grund af frygten for piratkopiering, men vi mener, at bibliotekerne kan være den formidler af digitale bøger, som brugerne vil acceptere«. 
+»Det har jo vist sig meget svært at få private brugere til at betale, og vi tror ikke, man kan få noget sundt op at stå uden bibliotekerne«, siger Jens Thorhauge.
+Ny portal på vej
+Hos Dansk Forlægger Forening siger direktør Ib Tune Olsen om muligheden for at etablere digitale udlån af bøger og tekster: 
+»Vi forstår godt brugernes ønske om at kunne erhverve digitale bøger. Derfor arbejder Forlæggerforeningen på at etablere en salgsportal for digitale bøger«. 
+»Portalen bliver lanceret næste år og skal drives af erfarne markedsaktører, nemlig InfoMedia og Dansk BiblioteksCenter, som har stor erfaring med at producere og formidle bibliografiske data og informationsservices til de danske biblioteker«. 
+»Vi håber, at portalen kan imødekomme brugernes behov for bøger i digital form. Det er et spørgsmål, hvilket behov der reelt vil være for en parallel biblioteksløsning, men det vil være lettere at vurdere, når e-bogsportalen er i funktion«, siger Ib Tune Olsen.
+Ingen skønlitteratur
+I begyndelsen forventer han, at portalen primært vil sælge bøger rettet mod studerende og uddannelsesinstitutioner, dvs. fagbøger, lærebøger og forskellige slags opslagsværker, mens læsere af skønlitteratur nok ikke skal regne med at se særlig mange digitale titler foreløbig. 
+»Skønlitteratur egner sig ikke til computeren, den læser man i sofaen«, siger Ib Tune Olsen. 
+På den kommende e-bogsportal vil det være muligt at købe en tidsbegrænset adgang til hele bøger eller kapitler, og der vil være mulighed for at lave berigede udgaver af bøgerne, hvor der er indlagt f.eks. links til kilder og andre relevante værker. 
+Betalingen vil afspejle de rettigheder, brugeren får i sin adgang til værkerne: Jo flere rettigheder, desto højere pris: Ønsker man bare at læse, er det en lavere pris, end hvis man f.eks. også vil kunne printe ud.
+Hvad er et digitalt udlån?
+En anden problemstilling for bibliotekerne er at definere, hvad et udlån er i en digital virkelighed. Teknisk er det nu muligt at give ubegrænset adgang til værker på ubestemt tid - uden at der opstår ventetid for andre lånere. 
+»Selv om digitalt udlån teknisk set afskaffer eksemplarbegrænsningen, så vil der formodentlig blive lavet løsninger, som fastholder et udlånsbegreb, så låneren ikke kan beholde værket på ubegrænset tid«, siger Jens Thorhauge fra Biblioteksstyrelsen. 
+Man kan forestille sig løsninger, hvor der bliver henvist til køb af værket, som det allerede sker på Bibliotekernes Netmusik, hvor man kan låne et værk i en uge. 
+»På den måde bliver bibliotekerne en slags udstillingsvindue for kunsterne. Vi er endnu tidligt i processen, men man kan forestille sig alle mulige kombinationer af lån, leje eller køb. Det afgørende er at få lavet modeller, som rettighedshaverne kan leve med og som vi har økonomiske ressourcer til«, siger Jens Thorhauge.
+Lovkrav
+Et tjek i Bibliotekernes Netmusik afslører, at man kun kan låne ét nummer af Kim Larsen, mens f.eks. Gnags er repræsenteret med over 200 numre. 
+»Det er beklageligt med den slags forskelle, men det er et eksempel på, at det er rettighedshaverne, der bestemmer, hvilke værker vi kan stille til rådighed«, siger Jens Thorhauge. 
+Et af spørgsmålene i rapporten er netop, om biblioteker og public service-kanalerne lever op til lovkravene om kvalitet, alsidighed og aktualitet, når det gælder det digitale udbud. Hertil siger Jens Thorhauge: 
+»Kravene skal forstås således, at kvalitetskravet naturligvis stilles til hvert enkelt værk, uanset om det er analogt eller digitalt, mens kravene om alsidighed og aktualitet må stilles i forhold til det samlede udbud af analoge og digitale værker«. 
+»Derfor vil bibliotekerne også kunne leve op til lovkravene, selv om udbuddet af digitale værker ikke er lige så stort og alsidigt som de analoge værker«, siger Jens Thorhauge.

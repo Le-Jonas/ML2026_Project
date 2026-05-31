@@ -1,0 +1,10 @@
+Title: Datatrafik_og_mobiltelefoni_generet_af_kabelfejl
+Date: 2005-05-10
+Article Type: Økonomi
+Author: En større mængde datatrafik og mange mobilkunder i København er tirsdag formiddag ramt af en større kabelfejl, oplyser TDC. 
+Fejlen er opstået på strækningen mellem Albertslund og Kundby på Sjælland, men rammer TDC-kunder i hele landet. 
+Årsagen til fejlen var ikke umiddelbart kendt. Fastnetstelefoner er også ramt
+Ca. 20.000 adsl-kunder var oprindelig berørt af fejlen, men en del af denne trafik kunne lægges om, så betydeligt færre blev generet af problemet. Det er især adsl-kunder i Slagelse og Kolding, der er ramt. 
+Fejlen omfatter foruden adsl, datatrafik og mobiltelefoni også i mindre omfang fastnettelefoni og opkald til og fra udlandet. 
+Kabelfejlen er lokaliseret til en mark ved Ringsted og er opstået i forbindelse med flytning af elmaster.
+

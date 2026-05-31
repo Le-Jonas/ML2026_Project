@@ -1,0 +1,9 @@
+Title: Metroskinner_tæret_af_rust
+Date: 2005-02-17
+Article Type: Økonomi
+Author: Efter blot få års brug skal Københavns Metro i slutningen af februar udskifte 50 meter skinner ved Stadsgraven, der hvor metroen kører under voldgravene mellem Christianshavn og Amager. 
+ Skinnerne er tæret i en grad, som gør det nødvendigt at skifte dem ud. Bund skal udjævnes
+ Årsagen er, at der løbende trænger lidt vand ind i tunnelrørene, hvilket i sig selv ikke er usædvanligt. 
+ Men vandet er saltholdigt, og selvom der er afløb, står der en lille smule vand i bunden. Ved fordampning er saltopløsningen med tiden blevet så koncentreret, at det har tæret på skinnerne. 
+ For at undgå, at det sker igen, vil strækningen nu blive tætnet bedre. Yderligere skal bunden udjævnes, så selv den mindste vandpyt kan løbe ud, og der ikke vil stå vand i bunden af tunnelrøret.
+

@@ -1,0 +1,9 @@
+Title: Det_Hvide_Hus_gemmer_sig_for_søgemaskiner
+Date: 2005-12-20
+Article Type: Internationalt
+Author: Mens præsident Bush gør sit yderste for at bevise, at han ikke har noget at skjule i forbindelse med Irak-krigen, tyder hans hjemmeside på, at der måske er noget, der helst skal forblive skjult. 
+ På Det Hvide Hus' hjemmeside ligger en lille fil, der foretæller søgerobotter, at de skal ignorere 2.447 mapper på siden, skriver Ingeniøren. Fundet på Google
+ Filen er blevet fundet af en blogger fra webloggen 'BlogSEO', som søgte på 'robots txt' på Google og faldt over filne, som blev vist som det tredje søgeresultat. 
+ Søgemaskiner som Google og MSN Search, fungerer på den måde, at hvis de støder på en sådan fil, men navnet 'robots.txt', vil de modtage instrukser fra denne fil på, hvordan de skal indeksere hjemmesiden. 
+ Af sider som Det Hvide Hus ikke vil have bliver opfanget af søgerobotterne kan nævnes:
+

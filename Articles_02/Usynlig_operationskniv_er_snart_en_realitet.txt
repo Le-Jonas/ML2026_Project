@@ -1,0 +1,38 @@
+Title: Usynlig_operationskniv_er_snart_en_realitet
+Date: 2006-01-06
+Article Type: Danmark
+Author: Henrik Larsen
+
+Nanoværktøjskassen - verdens absolut mindste værktøjskasse, hvor knivene, borene, saksene og pincetterne blot måler milliontedele af en millimeter og indirekte styres ved hjælp af laserstråler - vil takket være forskning fra Risø og Danmarks Tekniske Universitet (DTU) kunne være en realitet om ganske få år. 
+Der er tale om en helt ny teknik, hvor værktøjet vil blive så fintfølende, at eksempelvis en kniv kan lægge et snit tværs gennem én enkelt celles membran - uden at beskadige cellens kerne. 
+Og hvor en saks kan styres ind i cellen for at foretage et ganske bestemt klip, og absolut intet andet!
+Avancerede celleundersøgelser
+Teknikken, der i første omgang vil være anvendelig i laboratorier, vil blandt andet kunne bruges i forbindelse med avanceret kræftforskning. 
+Men den vil også kunne komme til nytte ved en lang række andre former for sygdomsforskning, hvor videnskabsmænd har brug for at gennemføre avancerede celleundersøgelser.
+Flytbare lysstråler
+I virkeligheden er der tale om en meget avanceret instrumentplatform, der kan operere i nanoformat (1 nanometer = en milliontedel millimeter, red.). 
+Opfindelsen hviler på et særligt system til manipulation af laserlys. 
+Det er udviklet af en gruppe forskere på Risø under ledelse af dr.techn. Jesper Glückstad, og det er lykkedes gruppen at spalte laserlys i 80 stråler.
+Tredimensional
+Hver stråle virker som en pincet, og den kan her og nu - i såkaldt realtime - ved hjælp af en computermus bevæges i tre dimensioner (3D). 
+Disse lys'pincetter', som hver er 1/1.000 millimeter tykke, kan bruges til at flytte mikroskopiske partikler, for eksempel celler; en teknik, Risøforskerne allerede har arbejdet med i nogle år. 
+Tricket kan lade sig gøre, fordi lyset ledes gennem et snedigt system af såkaldte Fourierlinser.
+Kraftoverføring
+Processen, der styres med avanceret datateknologi, får laserlyset til at foretage en kraftoverføring - og det er denne kraft, der gør de spaltede laserlysstråler i stand til at fungere som pincetter. 
+Fordi lysstrålerne er så manipulerbare, har tanken om at lade dem være styremekanisme i en 'værktøjsplatform' for operationsredskaber i nanoskala imidlertid været nærliggende. 
+Og det er det, Jesper Glückstad og hans kolleger på Risø sammen med forskere fra Mikroelektronik Centret ved DTU har gjort: 
+DTU-forskerne konstruerede en række mikrostrukturer i silica, der er en slags kvartsglas.
+Komplekse bevægelsesmønstre
+Disse strukturer lignede det korsformede landingsstel på et månefartøj - og på hver af de fire ender af 'korset' blev der hæftet en laserstråle. 
+Disse stråler er så bevægelige, at de på én gang kan både skubbe, trække, vende og dreje. 
+Resultatet var, at mikrostrukturerne, der målte 1/100 millimeter, via laserstrålerne kunne udføre utrolig komplekse bevægelsesmønstre; bevægelser af den art, der skal til, for at man overhovedet kan håndtere et operativt indgreb på nanoniveau.
+Værktøj kobles på
+Ser man lys'pincetterne' og mikrostrukturerne som den samlede instrumentplatform, så mangler nanoværktøjet stadig. Men det kan fremstilles i løbet af meget få år, fortæller Jesper Glückstad: 
+»Man kan forestille sig, at det laves i silica, men en anden mulighed er 2-foton fotopolymerisering. Her har man nemlig allerede formået alt lave strukturer i nanoskala«.
+Japansk opfindelse
+2-foton fotopolymerisering vil sige, at man ved hjælp af koncentreret laserlys 'skriver' mønstre i en plastikmasse. Mønstrene hærder, 'skylles' med en særlig teknik fri af massen - og så har man et objekt i utrolig småt format. 
+Metoden er udviklet af japanske fysikere ved Osaka Universitet, og i 2001 lykkedes det dem på denne måde at skabe verdens hidtil mindste figur: en tyr, hvis mindste fysiske træk blot målte 150 milliontedele af en millimeter. Historien fik hæderspladsen i et nummer af det ansete videnskabstidsskrift Nature - og skaffede minsandten også Osakaforskerne optagelse i Guinness Rekordbog. 
+»Ved hjælp af 2-foton fotopolymerisering vil man kunne skabe de mikroskopiske knive, save, bor og sakse, der skal til for at operere i nanoformat, og de vil uden større besvær kunne kobles på en instrumentplatform, der styres af vores laserlyssystem. Det er noget, vi skal i gang med nu via et EU-forskningsprojekt, og den samlede værktøjskasse bør kunne være klar i løbet af få år«, siger Jesper Glückstad.
+Amerikansk interesse
+Interessen for de særlige laser'pincetter' til styring af nanoværktøj er også til stede i udlandet. 
+I USA søger blandt andre National Institute of Health om støtte til et stort kræftforskningsprojekt, hvor den danske opfindelse indgår.

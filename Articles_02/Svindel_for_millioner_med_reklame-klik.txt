@@ -1,0 +1,27 @@
+Title: Svindel_for_millioner_med_reklame-klik
+Date: 2005-07-13
+Article Type: Økonomi
+Author: Anders Legarth Schmidt
+
+Virksomheder bekriger hinanden på internettet ved at sætte konkurrentens bannerreklamer ud af spil, viser en undersøgelse. 
+Det sker ved - enten manuelt eller automatisk - at firmaet klikker tusindvis af gange på en annonce, så udbyderen fjerner den fra nettet, fordi den dermed hurtigere når det antal klik, som annoncøren har betalt for. En anden metode er at generere et højt antal visninger ved hjælp af et lille stykke software. 
+Konsekvensen er, at færre forbrugere ser reklamen.
+Hvert femte klik
+Hvert femte klik på bannerreklame er behæftet med den type snyd, viser den internationale undersøgelse, som SEMPO, foreningen af søgemaskiner på nettet, har gennemført. 
+Sidste år brugte danske virksomheder tilsammen 582 millioner kroner på at komme i kontakt med forbrugerne på internettet, og omsætningen stiger år efter år. 
+SPSS, der hjælper virksomheder med at målrette deres kommunikation på nettet, vurderer på den baggrund, at danske virksomheder står til at tabe 100 millioner kroner årligt og endnu større beløb i fremtiden, hvis de ikke beskytter sig mod klik-snyd.
+Spild af penge
+»Problemet er, at annoncører investerer penge, som de ingen værdi får ud af, fordi en konkurrent har været inde og ødelægge annoncekampagnen. Det vil i princippet svare til, at hvis jeg havde indrykket en annonce i jeres avis, så sad konkurrenten i trykkeriet og klippede alle mine annoncer ud, så den ikke blev vist til mulige kunder. Så er dyrt brugte marketingskroner spildt«, siger Morten Hansen, marketingchef i Nordeuropa for SPSS.
+Elendig beskyttelse
+For nylig lagde en amerikansk virksomhed sag an mod Google. 
+Firmaet mente, at Google ikke havde beskyttet bannerannoncen godt nok mod klik-snyd. 
+Når en virksomhed køber bannerannoncer hos eksempelvis Google, foregår det på to måder. Enten køber den et vist antal visninger, altså hvor mange forbrugere der
+ser
+annoncen, eller et vist antal klik, altså hvor mange gange forbrugere klikker sig ind på annoncørens hjemmeside via banneret. 
+»Det er svært at sige, hvor udbredt klik-snyd er i Danmark. Det er allerede nået fra USA til England, og der er ingen grund til at tro, at det ikke også sker for danske virksomheder«, siger Morten Hansen og tilføjer, at det ikke kun er virksomheder, der står bag klik-snyd. Også hackere, der har set sig sure på multinationale selskaber, ødelægger deres markedsføring ved at generere tusindvis af klik.
+Overvåg trafikken
+»Man opdager typisk klik-snyd, hvis man overvåger trafikken på sin hjemmeside. Hvis du eksempelvis annoncerer på de gule sider, og der så pludselig er genereret 50.000 klik derfra på kort tid, så ved du, noget er galt«. 
+En sådan mistanke fik for nylig en stor dansk internetportal til at bede SPSS analysere trafikken på hjemmesiden. Den viste ifølge Morten Hansen, at der var betænkeligt mange klik på én type annoncer. 
+»Der var flere tusinde klik på fem minutter. Det er temmelig usandsynligt, at de klik opstod som en tilfældighed, når man ser på historikken for klik på deres bannerannoncer«. 
+Han forudser, at tilliden til internettet som annoncemedie kan tage skade, hvis der ikke bliver dæmmet op for klik-snyd. 
+»Den yderste konsekvens er, at annoncører så vil være tilbøjelige til at lægge annoncer andre steder end på internettet, så reklameomsætningen på nettet falder«, siger Morten Hansen.

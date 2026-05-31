@@ -1,0 +1,19 @@
+Title: Datatilsynet_blastempler_salg_af_personoplysninger
+Date: 2005-05-20
+Article Type: Danmark
+Author: Søren Kitaj
+
+Datatilsynet har i en ny udtalelse indskærpet reglerne i forbindelse med CPR-kontorets udlevering af data til for eksempel RKI, der videresælger oplysningerne. 
+Men det er grundlæggende i orden, at CPR-kontoret giver virksomheder adgang til at ajourføre kundeoplysninger via RKI Kreditinformation - også kaldet Ribers - , der henter navne- og adresseoplysningerne hos CPR-kontoret. 
+»Det mener vi er i orden, forudsat at den egentlige modtager er berettiget til at behandle oplysningerne, for eksempel fordi borgeren er kunde hos denne virksomhed«, siger Janni Christoffersen, direktør for Datatilsynet til Ritzau.
+2,5 mio. danskeres personoplysninger
+Udtalelsen kommer efter at det i marts kom frem, at RKI videresælger personoplysninger til omkring 500 virksomheder, for eksempel mobilselskaber, banker, forsikringsselskaber og advokatfirmaer, der gerne vil holde snor i deres kunder, hvis de for eksempel skal stævnes eller til inkasso. 
+RKI har en abonnementsaftale med CPR om hver aften at få opdateret oplysninger om 2,5 mio. danskeres navn, stilling, adresse, flytning i Danmark, flytning til udlandet, navnændring, dødsfald, umyndiggørelse og forsvinden.
+CPR skal holde øje
+Men fremover skal CPR-kontoret aktivt holde øje med, at en virksomhed, som anmoder om navne- og adresseoplysninger via RKI, også er berettiget til det. 
+Ifølge CPR-loven, må CPR-kontoret kun sælge vedligeholdelse af oplysninger. En virksomhed må altså ikke købe navne og adresser, den ikke har i forvejen. 
+Datatilsynet foreslår, at vilkårene for levering af CPR-data til virksomhederne skal gøres mere tydelige for virksomhederne.
+Skal kende modtageren
+Desuden skal borgerne fremover sikres kendskab til, hvilke virksomheder der abonnerer på CPR-oplysninger om dem. Indtil nu har man typisk kun kunnet få oplyst, at RKI var abonnent - ikke hvem de har videresolgt oplysninger til. 
+»Problemet er, at en borger, der får at vide, at RKI abonnerer på oplysninger om vedkommende, ikke kan få klar besked om den egentlige modtager. Det er ikke holdbart«, siger Janni Christoffersen. 
+Hun understreger, at reglerne om udlevering af navneoplysningerne for langt de fleste er en stor fordel, fordi man slipper for at melde flytning til en række parter.

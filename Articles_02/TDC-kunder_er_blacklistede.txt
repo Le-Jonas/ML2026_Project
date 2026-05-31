@@ -1,0 +1,23 @@
+Title: TDC-kunder_er_blacklistede
+Date: 2005-12-10
+Article Type: Økonomi
+Author: Lars Dahlager
+
+Pas på med at købe en ADSL-forbindelse fra TDC til dit firma. Du risikerer nemlig, at din e-mailadresse allerede fra starten er blacklistet på internationalt plan. 
+Virksomheder, der har et spamfilter til at sortere uønskede reklame-mail fra, vil nægte at modtage de mail, du forsøger at sende. 
+Tag f.eks. Dispachørkontoret Jens Middelboe & Vibeke Kofoed i Studiestræde, København. Her begyndte man for et par uger siden at undre sig over, hvorfor vigtige e-mail, firmaet sendte til kunder som Nordea, Codan og visse store rederier, kom tilbage i hovedet på dem. Dispachørkontoret er et femmandsfirma med ekspertise i havarisager og som så mange andre moderne firmaer afhængige af e-mail. 
+Det viste sig, at firmaet - udelukkende af tekniske årsager - var blevet blacklistet i en international database, der hedder SORBS. SORBS er en database, som virksomheder som f.eks. Nordea slår op i for at blokere e-mailadresser, der er kendt for eller blot i stand til at udsende de spam-mail, der plager folks indbakker. Og SORBS-databasen tror, at e-mailadresser fra TDC's ADSL-abonnementer til erhvervslivet kan bruges til at udsende spam. 
+»Det er ikke holdbart, at bare fordi man er TDC-kunde, bliver man blacklistet med det samme«, siger fuldmægtig Jørgen Boberg Christensen fra Dispachørkontoret. 
+»I øjeblikket er vi henvist til at faxe til visse af vores kunder. Det duer ikke i en digital verden. Hvis det her ikke bliver løst, må vi finde en anden internetudbyder. Vi kan ikke leve med ikke at kunne komme i kontakt med vores kunder«, siger han.
+Alvorligt problem
+TDC erkender, at problemet er alvorligt. Internetudbyderen får et par henvendelser om dagen om problemet, men det kan hurtigt ændre sig til det værre. 
+»Vi kan risikere, at det er alle vores erhvervskunder med ADSL-forbindelser, der har det her problem«, siger Kim Høse Jensen, salgschef hos TDC Erhverv. TDC har omkring 90.000 erhvervskunder med faste ADSL-forbindelser, men det er dog kun kunder, der har deres egen postserver, der bliver ramt. TDC er i dialog med SORBS og har indtil videre fået fjernet nogle tusind adresser fra blacklistningen. 
+»Det er meget alvorligt. Mail er blevet næsten lige så kritisk som telefonen for mange virksomheder«, siger Høse. 
+Miseren skyldes den tekniske måde, TDC skruer sin ADSL-løsning sammen på. En måde, der får SORBS til at konkludere, at TDC's løsning er ideel for folk, der vil sende irriterende og ulovlige e-mail til millioner af mennesker. 
+På det tekniske plan ligner TDC's ADSL nemlig en internetforbindelse med såkaldt
+dynamisk ip-adresse
+, også selv om det drejer sig om en forbindelse med
+fast
+ip-adresse
+. 
+Dynamisk ip-adresse betyder, at din computer skifter til en tilfældigt valgt ip-adresse, hver gang den går på nettet. Den slags forbindelser er ideelle for spammere, der ønsker at sløre, hvilken ip-adresse de sender deres spam-mail fra. Myndigheder har nemlig svært ved at retsforfølge en spammer, hvis de ikke kan finde ip-adressen og oversætte den til en fysisk adresse som f.eks. Østerbrogade 1b.

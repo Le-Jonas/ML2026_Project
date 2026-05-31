@@ -1,0 +1,19 @@
+Title: Super-solsejl_kan_na_Mars_pa_en_maned
+Date: 2005-02-01
+Article Type: Viden og tech
+Author: Niels-Peter Granzow Busch
+
+Syv gange hurtigere end det tog rumfartøjet, der transporterede de to små marsbiler, Spirit´og Opportunity, til Mars for et år siden. Så meget hurtigere mener to brødre fra university of California, USA, at de kan få et rumfartøj fra Jorden til Mars. 
+Alt hvad de to brødre, Gregory og James Benford, behøver, er ifølge det anerkendte videnskabsmagasin New Scientist et solsejl, der er smurt ind i en speciel maling, samt en mikrobølge-generator.
+Motor bliver på Jorden
+De to brødres ide er at sende en kraftig mikrobølge fra en generator på Jorden efter rumfartøjet med solsejlet. Mikrobølgerne vil koge de letfordampelige molekyler, som den specielle maling på sejlet indeholder. 
+Ifølge brødrene vil rekylet fra de kogende molekyler, der undslipper solsejlet give rumfartøjet et kraftigt skub fremad. 
+Ideen kom til de to brødre, da de bomberderede et meget tyndt sejl kulstof-net. Brødrene fandt ud af, at varmen fra mikrobølgen fik kulstof-nettet til at afgive kulstofilte, der dermed drev sejlet et ekstra skub fremefter.
+Fra Jorden til Mars på en måned
+Benford-brødrene udviklede herefter en speciel maling, der netop afgav gas, når den blev bpmbarderet med mikrobølger. konceptet skulle i følge brødrene kunne sende et rumfartøj til Mars på mindre end en måned. 
+Først bliver en konventionel rumfærge dog nødt til at bære rumfartøjet 300 kilometer op til den yderste del af Jordens atmosfære. 
+Her er det så meningen, at fartøjet skal folde sit sejl ud, så en mikrobølge-generator på Jorden kan ramme sejlet med mikrobølgerne og derved drive fartøjet frem. 
+Bare en enkelt times bombardement med en mikrobølge-generator på 60 megawatt skulle ifølge brødrene kunne drive fartøjet frem med 60 kilometer per sekund.
+Endnu ingen generator kraftig nok
+NASA finder ifølge New Scientist konceptet yderst interessant. Problemet er bare, at der indtil videre ikke findes mikrobølge-generatorer, der er bare i nærheden af de påkrævede 60 megawatt. 
+Selv det meget kraftige kommunikations-netværk, som NASA bruger til at kommunikere med de to marsbiler på MARS, kan ikke generere mere end en halv megawatt.
