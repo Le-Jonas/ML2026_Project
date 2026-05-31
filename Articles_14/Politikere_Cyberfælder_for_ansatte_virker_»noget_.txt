@@ -1,0 +1,23 @@
+Title: Politikere_Cyberfælder_for_ansatte_virker_»noget_
+Date: 2019-02-03
+Article Type: Danmark
+Author: Fem partier er skeptiske over for indgreb i nyt cyberlovforslag, men forsvarsministeren er ikke bekymret.
+
+Jacob Svendsen
+Sebastian Stryhn Kjeldtoft
+Undersøgende redaktør
+Det er moralsk betænkeligt og et udtryk for hysteri, når Forsvarsministeriet vil lade Center for Cybersikkerhed lægge digitale fælder for ansatte, som i sidste ende kan koste dem jobbet. Både Socialdemokratiet, Dansk Folkeparti, Enhedslisten, Radikale og Alternativet udtrykker bekymring over for et nyt lovforslag, som inden længe skal behandles i Folketinget.
+Formålet med loven er at styrke centerets rolle som national it-sikkerhedsmyndighed. Men lovforslagets ønske om at lade centret lave simulerede angreb på ansatte virker »hysterisk«, mener Dansk Folkepartis retsordfører Peter Kofod.
+»Jeg synes, det er ret vidtgående, at man i yderste konsekvens kan blive fyret, hvis man foretager sig noget, som er et ’set-up’ fra efterretningstjenestens side«, siger han. Eftersom lovforslaget endnu er i høring, har Peter Kofod endnu ikke læst sig dybt ned i det. Han udtaler sig derfor på baggrund af en gennemgang af lovforslaget, som Politiken har fremsendt til partierne.
+I Alternativet kalder forsvarsordfører Rasmus Nordqvist lovforslaget »en uhyggelig måde at gribe cyberforsvaret an på«.
+»Vi står med en reel udfordring om cybersikkerhed, og det bedste forsvar, vi har, er at gøre den enkelte medarbejder klog og stærk på området. Det skal ikke være gennem frygt og paranoia, som det her lovforslag lægger op til i sin nuværende form, hvor det kan koste ansatte jobbet. Når høringssvarene er klar, vil vi gå meget aktivt ind i lovbehandlingen og sikre ordentlige forhold for de ansatte«, siger Rasmus Nordqvist.
+Samme frygt har Enhedslistens forsvarsordfører, Eva Flyvholm. Hun bemærker, at eftersom centeret er en del af Forsvarets Efterretningstjeneste, er det undtaget de fleste love og kontroltilsyn, som skal beskytte borgerne mod misbrug og sikre åbenhed og gennemsigtighed i forvaltningen.
+»Det betyder, at vi ikke kan være sikre på, hvordan de her følsomme oplysninger, centeret vil indsamle om ansatte, bliver brugt eller opbevaret. Det viser igen, hvor fuldstændig gak det er, at centret ligger som en militær myndighed, når det burde være en civil myndighed, hvor de almindelige regler for databeskyttelse, indsigt, kontrol og tilsyn gælder«.
+Radikales Martin Lidegaard er skeptisk, men vil læse høringssvarene, inden han formulerer sin endelige holdning:
+»Ideen om at stressteste kritisk infrastruktur er god, men det er en hårfin balance mellem hensynet til fællesskabets sikkerhed og den enkelte medarbejders personlige retssikkerhed«.
+I Socialdemokratiet vil forsvarsordfører Henrik Dam Kristensen ikke udtale sig skråsikkert om lovforslaget, da han endnu ikke har læst sig ned i materien. Men han mener, indgrebet mod ansatte lyder »alvorligt«, og at det derfor er nødvendigt at finde en balance.
+Liberal Alliance og SF har grundet travlhed ikke ønsket at udtale sig om lovforslaget, mens Konservative ikke har haft mulighed på grund af sygdom. Venstre henviser til forsvarsminister Claus Hjort Frederiksen (V), der skriver i en mail:
+»De fælder, som CFCS kan sætte op, er eksempler på de fælder, som en ondsindet hacker kan sætte op. Jeg tror, at langt de fleste medarbejdere faktisk vil foretrække, at det er CFCS og ens arbejdsplads, som opdager det, hvis man ikke har styr på sikkerheden. For medarbejderen vil det jo være uendelig mere ubehageligt, hvis medarbejderen er blevet lokket til at hjælpe en hacker med at angribe arbejdspladsen«.
+Sebastian Stryhn Kjeldtoft
+fortsæt med at læse
+Efterretningstjenesten vil have lov til at bruge hemmelige agenter til at lægge it-fælder for almindelige lønmodtagere

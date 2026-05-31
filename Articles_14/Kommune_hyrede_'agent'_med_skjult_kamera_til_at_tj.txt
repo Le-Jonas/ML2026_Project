@@ -1,0 +1,33 @@
+Title: Kommune_hyrede_'agent'_med_skjult_kamera_til_at_tj
+Date: 2019-02-06
+Article Type: Danmark
+Author: En lokkedue, et skjult kamera og et påstået datalæk i Nyborg Kommune har vakt opsigt og kritik. Ekspert i ansættelsesret vurderer, kommunens aktion er i strid med arbejdsretten.
+
+Simon Baastrup
+Journalist
+Kontroversielle undercover-metoder fra Nyborg Kommune udløser nu kritik.
+En mand, hyret ind fra sikkerhedsfirmaet Prueba Cybersecurity, mødte uanmeldt op på 4kløverskolen i Nyborg Kommune i november sidste år. Han bar et falsk id-kort med kommunens byvåben og et skjult kamera i en taske og forklarede skolelederen, at han var blevet sendt ud for at følge op på et formodet datalæk.
+Kommunens mission var at kontrollere, om skolen var villig til at udlevere følsomme personoplysninger og dermed overtræde databeskyttelseslovgivningen.
+Skolelederen er tilsyneladende dybt påvirket af forvaltningens omstridte metoder.
+»Vi har været udsat for en person, som har opført sig grænseoverskridende/forsøgt at lokke os i en alvorlig fælde på vores egen hjemmebane og på vores egen arbejdsplads – en arbejdsplads, som vi hæger og værner om. Hvis man kan tale om, at et menneske kan udsættes for et ’psykisk overgreb’, er jeg helt klart blevet udsat for et ’psykisk overgreb’!«, skriver skolelederen i en mail til kommunen, som
+DR Nyheder
+refererer.
+Til eleverne og forældrene skrev han tirsdag på skolens hjemmeside, at havde været udsat for en kontroversiel ’penetrationstest’.
+»Den falske person med det falske ID-kort - finder jeg senere ud af - er hyret og udsendt af Nyborg Kommune. Et sådant initiativ kan synes kontroversielt«.
+Nyborg Kommunes it-chef havde siden oktober 2018 haft en mailkorrespondance med sikkerhedsfirmaet.
+Heraf fremgår det, ifølge DR Nyheder, at man ville forsøge at lokke fortrolige oplysninger ud af skolen.
+Men aktionen kan, ifølge ekspert i ansættelsesret Christian Højer Schjøler, være i strid med arbejdsretten.
+»Det er en voldsom presset situation at blive sat i som medarbejder, at man pludselig hører om, at der er sket læk af fortrolige oplysninger. Den karakter, som foranstaltningen havde, mener jeg godt kan berettige en bod fra Arbejdsretten. I sidste ende er det et spørgsmål om, hvor langt man må gå for at sikre it-sikkerheden«, siger Schjøler, der er adjunkt ved Juridisk Institut på Syddansk Universitet, til DR Nyheder.
+Kommunaldirektør i Nyborg Kommune, Lars Svenningsen, beklager situationen og forklarer, at direktionen ikke har været bekendt med undercover-aktionen, og at den på ingen måde harmonerer med de værdier, man har i kommunen.
+»Da jeg hørte om den konkrete episode, har vi stoppet samarbejdet med firmaet, og jeg tager meget afstand fra de metoder, der er blevet anvendt med skjult kamera«, siger han til DR Nyheder.
+I Kommunernes Landsforening bliver aktionen heller ikke taget godt imod:
+»Vi synes absolut ikke, at metoderne med skjult kamera på skolen i Nyborg er okay. Men jeg har noteret mig, at man heldigvis også har reageret på det i Nyborg Kommune og beklaget forløbet«, siger Kristian Wendelboe, administrerende direktør i KL.
+Her kommer flere eksempler på dårlig håndtering af datasikkerhed:
+Nyborg Kommunes kontroversielle tiltag om at styrke sit værn mod lækager og it-kriminelle kommer efter talrige eksempler på kommuners ringe it- og datasikkerhed.
+Politiken
+har eksempelvis de seneste måneder fortalt om store sikkerhedsbrister og ulovlig databehandling i Gladsaxe Kommune. I december skete der et større datalæk i kommunen, der berørte borgere fra i alt 82 kommuner landet over – svarende til knap 20.000 personer. Fire måneder forinden var et parallelt datalæk sket, uden at kommunen fik rettet op på sikkerheden.
+Med databeskyttelsesforordningen GDPR’s ikrafttræden er det blevet muligt at straffe offentlige myndigheder med bøder for sjusk eller fusk med data svarende til 4 procent af myndighedens driftsbevilling – dog med et loft på 16 millioner kroner.
+Skolelederen fra Nyborg Kommune skrev tirsdag på skolens hjemmeside, at intet slap ud, og at han dermed bestod ’testen’.
+Simon Baastrup
+fortsæt med at læse
+Efter skjult datalæk af personfølsomme oplysninger: Flertal kræver uvildig undersøgelse i Gladsaxe Kommune

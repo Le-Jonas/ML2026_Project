@@ -1,0 +1,38 @@
+Title: Stor_datalæk_holdt_skjult_for_politikere_i_Gladsax
+Date: 2019-03-01
+Article Type: Danmark
+Author: Hverken byråd eller berørte borgere er orienteret om tyveri af 70 ukrypterede pc’er fra kommunens jobcenter.
+
+Ib Keld Jensen
+Gladsaxe Kommune er ramt af endnu en alvorlig sag om læk af personfølsomme oplysninger. I alt 70 personlige og ukrypterede computere er stjålet ved to indbrud med få dages mellemrum fra kommunens jobcenter.
+I forvejen kan kommunen ifølge datatilsynet imødese bøder i den tunge ende efter flere tidligere alvorlige datalæk. Det fik i sidste uge Gladsaxe til som den første kommune i landet at rykke ud med en komplet liste over såkaldte datahændelser. Imidlertid fremgår tyveriet af de 70 computere, der fandt sted i december 2016, ikke af listen.
+Ifølge kommunens optegnelser fandt de to indbrud sted med få dages mellemrum midt i december 2016. Ved det første indbrud blev 51 computere stjålet, og få dage senere forsvandt yderligere 19 computere. I begge tilfælde skaffede tyvene sig adgang via et midlertidigt stillads.
+Kommunaldirektør Bo Rasmussen afviser, at byrådet burde være orienteret hverken dengang eller i dag.
+»Det sker desværre løbende, at der er indbrud i kommunens ejendomme, og det er også sket tidligere. Det bliver behandlet som almindelige tyverisager, og dem orienterer vi ikke byrådet om«.
+Når tyveriet af de 70 pc’er ikke fremgår af den liste, kommunen offentliggjorde i sidste uge, så skyldes det, at listen kun går ni måneder tilbage.
+»Vi har valgt at sætte 25. maj 2018 som skæringsdato. Det var den dag, persondataforordningen trådte i kraft. Man kan altid diskutere, hvor langt man skal gå tilbage, men det er altså dér, vi har trukket stregen«, siger Bo Rasmussen.
+Venstres medlem af økonomiudvalget, Pia Skou, er ikke tilfreds med, at hun ikke er blevet informeret. Det er hende, der har bedt om listen, efter at hendes egne personlige oplysninger ved et tidligere læk blev lagt ud på kommunens hjemmeside.
+»Jeg har aldrig hørt om tyveriet før, men det burde jeg være informeret om. Vi har tidligere spurgt borgmesteren, om der var flere sager, og det benægter hun jo. Vi kan ikke rette op, hvis ikke vi kender til de fejl, vi skal gardere os imod, og jeg synes, at dette er en understregning af behovet for en uvildig undersøgelse«, siger Pia Skou.
+Heller ikke Enhedslistens medlem af økonomiudvalget, Trine Henriksen, har hørt om tyveriet.
+»Det er utroligt, at vi ikke har fået information om tyveriet med al den fokus, der har været på datalæk. De berørte borgere burde være informeret dengang«, siger hun:
+»Mange borgere føler virkelig, at der er sket et tillidsbrud, og derfor mener jeg, at det havde været bedre med en ekstern undersøgelse«.
+Et flertal i byrådet uden om den socialdemokratiske borgmester var oprindelig enige om at iværksætte en uvildig undersøgelse af lækkene, men det modsatte borgmester Trine Græse sig.
+»Vi kender de sager, der er. Dem kan vi sagtens lave en redegørelse på. Det er der ingen grund til, at vi får en ekstern konsulent til«, udtalte Trine Græse ved den lejlighed og endte med at få flertal for en intern undersøgelse.
+Den er foretaget af kommunens egen datasikkerhedsrådgiver, som er ansat i en halvtidsstilling med kontor på rådhuset, hvor han refererer til kommunaldirektøren.
+Mens tyveriet af de mange computere ikke har været vendt politisk, så er der imidlertid én politiker, der kendte til indbruddet. Flemming Holst var formand for beskæftigelsesudvalget. Han blev orienteret om indbruddet på et møde med jobcenterchefen og socialdirektøren.
+»Det var ikke et punkt på dagsordenen, men blot en orientering om de vanskeligheder, indbruddet havde medført. Persondata blev ikke nævnt med et ord«, fortæller han:
+»Der er to ting, der virkelig overrasker mig. Det ene er, at sagen ikke har været fremme i forbindelse med de andre datalæksager. Det andet, og det undrer mig virkelig, er, at man har haft computere, der ikke er krypterede eller tyverisikrede. Det anede jeg ikke, for ellers havde jeg spurgt ind til det. Jeg så det som en selvfølge«.
+»Jeg er selv ansat i Københavns Kommune, hvor computerne har været sikret i mange år. Der havde sådan en sag været absolut
+no go
+«, siger Flemming Holst, der i dag er flyttet fra kommunen.
+Klaus Kongsted, der er ekspert i håndtering af persondata for it-sikkerhedsfirmaet Dubex, mener, at kommunens risikovurdering har været for ringe.
+»Når tyveriet er foregået for mere end to år siden, så burde kommunen have taget ved lære og sikret sig. Men når der længe efter forsvinder en pc med personfølsomme oplysninger i en bus, så tyder det ikke på, at det er sket. Der findes mange relativt simple måder at beskytte persondata på, og kryptering har været en anbefaling fra Datatilsynet i adskillige år«.
+Han mener ikke, at det er relevant at bruge indførelsen af persondataforordningen som skæringsdato for, hvor langt man bør gå tilbage for at lære af sine fejltagelser.
+»Persondataforordningen har i princippet ingen betydning. Den har ændret nogle regler for indberetningspligt og bøder, men pligten til at passe på personoplysninger er den samme. Så at bruge forordningen som skæringsdato er noget fis, rent ud sagt«, siger Klaus Kongsted.
+Ib Keld Jensen
+fortsæt med at læse
+Læk på læk af borgeres personoplysninger:
+To undersøgelser skal nu afdække, hvad der er gået så galt i Gladsaxe
+Kommune hyrede 'agent' med skjult kamera til at tjekke folkeskoles it-sikkerhed
+Det er sket før, men blev holdt hemmeligt:
+Gladsaxe blev ramt af samme fejl og læk blot fire måneder før kæmpelæk

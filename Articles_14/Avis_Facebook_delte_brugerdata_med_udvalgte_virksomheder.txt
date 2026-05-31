@@ -1,0 +1,14 @@
+Title: Avis_Facebook_delte_brugerdata_med_udvalgte_virksomheder
+Date: 2018-06-09
+Article Type: Tech
+Author: Facebook har tilsyneladende givet adgang til brugerdata gennem særlige aftaler med udvalgte samarbejdspartnere efter det tidspunkt i 2015, hvor Facebook ellers har fastholdt, at man lukkede for den slags aftaler og adgange.
+
+Det skriver The Wall Street Journal fredag aften med henvisning til retsdokumenter, kilder i Facebook og andre kilder med kendskab til sagen.
+De særlige aftaler, som man hidtil ikke har oplyst om, og som internt i Facebook er blevet kaldt for 'whitelists', gav i visse tilfælde også adgang til Facebook-brugernes venner. Det gjaldt blandt andet deres telefonnumre og en måling af, hvor tætte brugerne var med hver enkelt ven på Facebook.
+The Wall Street Journal skriver, at mange af disse særaftaler ikke var med på den liste af datadelingsaftaler med 60 producenter af mobiltelefoner eller andre mobile kommunikationsenheder, som Facebook lagde frem tidligere på ugen.
+»Aftalerne viser, at Facebook gav særlig dataadgang til et bredere univers af selskaber, end man hidtil har vidst. De rejser også yderligere spørgsmål ved, hvem der har haft adgang til milliarder af Facebook-brugere«, skriver avisen.
+Facebook oplyser til The Wall Street Journal, at selskabet indgik et mindre antal aftaler med udviklere for at forbedre brugeroplevelsen, teste nye funktioner eller tillade enkelte partnere en mulighed for at afvikle eksisterende datadelingsprojekter.
+Ifølge avisen varede disse forlængelser uger og måneder. Man har ikke tal på, hvor mange aftaler det drejer sig om.
+Tirsdag i denne uge kom det også frem, at Facebook har haft et partnerskab med mindst fire kinesiske firmaer om deling af data. Blandt firmaerne var den kinesiske smartphonegigant Huawei, som ifølge den amerikanske efterretningstjeneste udgør en national sikkerhedstrussel.
+Kritik af det fik torsdag Facebook til meddele, at selskabet dropper datasamarbejdet med Huawei ved udgangen af ugen.
+ritzau

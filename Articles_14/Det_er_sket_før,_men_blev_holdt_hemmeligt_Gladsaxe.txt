@@ -1,0 +1,41 @@
+Title: Det_er_sket_før,_men_blev_holdt_hemmeligt_Gladsaxe
+Date: 2019-01-27
+Article Type: Danmark
+Author: Kommune mistede en ukrypteret pc med persondata, kort før det skete igen med følger for 20.000 borgere. Forvaltning har holdt sikkerhedsbruddet skjult, men mener ikke, sagerne kan sammenlignes.
+
+Jakob Sorgenfri Kjær
+Journalist
+De 20.000 berørte borgere over hele landet har fået det at vide af Gladsaxe Kommune. Den øvrige offentlighed har fået det at vide, ligesom de folkevalgte i byrådet er blevet oplyst om det fra forvaltningen og borgmester Trine Græse (S):
+Det var et »uheldigt sammentræf af tyveri og en menneskelig fejl«, da godt 20.000 borgere i startdecember fik lækket deres fortrolige og i nogle tilfælde følsomme personoplysninger af kommunen.
+En medarbejder havde på sin computers skrivebord lagt et regneark med i alt 20.620 borgeres cpr-nummer, adresse, familiære forhold og i nogle tilfælde oplysninger om deres ydelser, handikap og religion. Computeren var, i strid med sikkerhedsregler, ukrypteret og blev i weekenden op til den første dag i december stjålet fra rådhuset.
+»Det er vanskeligt at gardere sig helt mod tyveri og menneskelige fejl«, lød det en pressemeddelelse 11. december fra kommunaldirektør Bo Rasmussen.
+Men kommunen begik samme fejl og oplevede et helt parallelt fortilfælde blot fire måneder forinden. Det viser en aktindsigt, som Politiken har fået fra kommunen. Inden Politikens mellemkomst søndag har forvaltningen undladt at orientere byrådet samt de berørte borgere om denne første sag.
+Aktindsigten viser, at Gladsaxe 20. juli 2018 anmeldte et sikkerhedsbrud til Datatilsynet:
+»18. juli 2018 klokken 14.20 konstaterede medarbejder i Gladsaxe Kommune, at pågældendes PC var væk. Medarbejderen er ansat som jobkonsulent, og på skrivebordet på computeren var en liste over ca. 40 borgere, som pågældende er i kontakt med. Listen indeholder navn, adresse og cpr-nummer og oplysninger om job og praktikophold«, lyder det i anmeldelsen.
+Kommunen forklarede til Datatilsynet, hvorfor den valgte ikke at orientere de dengang over 40 berørte borgere om lækket: »Samlet vurderes det ikke, at hændelsen sandsynligvis vil indebære en høj risiko, mens det dog desværre ikke kan udelukkes, at hændelsen kan få konsekvenser for de berørte personer«.
+Sagen kort
+Gladsaxe-læk
+Gladsaxe mistede i december 20.000 borgeres fortrolige persondata, da en ukrypteret computer med et regneark blev stjålet fra rådhuset. Kommunen har erkendt flere lovbrud, blandt andet en uretmæssig behandling af data. Nu viser det sig, at 40 borgeres data blev lækket 4 måneder før, da en ubeskyttet computer blev mistet i en bus, uden at kommunen rettede op på sikkerheden.
+It-sikkerhedsspecialist Peter Kruse finder kommunens håndtering af forløbet »decideret uansvarlig«. Han kritiserer, at kommunen ikke efter det første datalæk øjeblikkeligt sikrede sig mod en gentagelse ved at kryptere sine computere. Peter Kruse siger, at det foruden i datalovgivningen samt i offentlige sikkerhedsstandarder fremgår »på side 2 i grønspættehåndbogen«, at en organisation bør kryptere sine computere for at mindske skadevirkningen ved eksempelvis menneskelige fejl eller bortkommet it-udstyr.
+»Sagen skriger til himlen, og kommunens håndtering er helt på månen. Kommunen burde få røde ører over ikke at efterleve de almindelige sikkerhedsprincipper i den første sag. Men at man så derfra ikke skynder sig at sikre alt udstyr for at undgå gentagelser, ja det er ud over min fatteevne«, siger Peter Kruse fra sikkerhedsfirmaet CSIS.
+Han tilføjer, at en korrekt beskyttelse ikke kræver meget mere end at slå de rigtige indstillinger i styresystemet Windows til.
+Havde kommunen reageret korrekt efter det første databrud i juli, havde de godt 20.000 berørte borgere, fordelt over 82 kommuner, sandsynligvis ikke fået kompromitteret deres persondata.
+En af dem er 55-årige Mette, der har fået lækket en række persondata, herunder oplysninger om sin kommunale ydelse. Hun frygter, at kriminelle vil forsøge at afpresse hende, hvorfor hun har fået sat en kreditadvarsel op på sit cpr-nummer for at undgå identitetsmisbrug.
+»Jeg mangler ord; det her er jo skandaløst. Jeg er glad for at bo i kommunen, men jeg kan simpelthen ikke stole på forvaltningen. De siger hele tiden, at de tager datasikkerhed alvorligt, men det er jo en joke – de prøver kun at dække over sig selv«, siger Mette, hvis efternavn Politiken har valgt at skjule.
+Det er chokerende nye oplysninger, siger Venstres byrådsmedlem Martin Skou Heidemann. Til et byrådsmøde 19. december spurgte han specifikt ind til, »om det er sket før«, da han fandt det »usandsynligt, at en enkelt medarbejder pludselig laver sådan en bommert«. Hverken borgmesteren eller forvaltningen har af egen drift siden orienteret byrådet om fortilfældet.
+»Det er simpelthen for galt og må få konsekvenser. Dels er det rystende, at det samme skete i sommer, uden at man rettede op på fejlen, dels er det vildt forargeligt, at forvaltningen har valgt ikke at orientere byrådet«, siger Skou Heidemann, der vil tage initiativ til en ekstern undersøgelse af forløbet.
+Politiken har stillet en række spørgsmål til den ansvarlige borgmester, Trine Græse. Men hun har ingen kommentarer. Forvaltningen skriver i en mail, at »borgmesteren ikke er orienteret om denne hændelse«. I stedet svarer chef for byrådssekretariatet, Mikael Wolf, at de to sikkerhedsbruds »omstændigheder er forskellige«. Af den grund blev der ikke strammet op på sikkerhedsprocedurerne efter den første sag, og af samme grund blev borgmesteren ikke orienteret.
+»I det ene tilfælde er der tale om, at en pc er mistet i et offentligt transportmiddel, mens det andet tilfælde handler om et tyveri fra rådhuset. Samtidig er der forskel på oplysningernes omfang, karakteren af personoplysningerne og antallet af berørte borgere«, skriver chefen for byrådssekretariatet.
+Først efter decemberlækket indførtes der kryptering »for at mindske risikoen for tab af data, hvis en computer mistes eller bliver stjålet«, skriver Mikael Wolf.
+Peter Kruse ryster på hovedet: »Det er direkte forkert at kalde hændelserne forskellige. Om så en computer var faldet ud af et fly og landet på en mark, så handler det her ene og alene om, at de data skulle beskyttes og krypteres fra start«.
+Det samme siger lektor Hanne Marie Motzfeldt, der har ekspertise i dataloven og den digitale forvaltning. Med henvisning til databeskyttelsesforordningen, GDPR, forventer hun, at Gladsaxe Kommune vil få en væsentlig bødestraf for de mange fejl og overtrædelser i sagen.
+»Sagen var alvorlig nok i forvejen, men bliver endnu mere alvorlig af, at den nu viser sig at være et gentagelsestilfælde. En væsentlig mekanisme i GDPR er, at man skal lære af sine fejl. Gør man ikke det, bliver sanktionen også hårdere«, siger Motzfeldt fra Københavns Universitet.
+20. november svarede Datatilsynet på Gladsaxes redegørelse og oplyste, at man ikke umiddelbart ville foretage sig mere. Godt 10 dage senere skete så det store datalæk.
+I et svar til Politiken skriver tilsynsmyndigheden, at »den første sag bliver ikke genåbnet, men kan blive inddraget i vurderingen af den anden sag som en skærpende omstændighed«.
+Jakob Sorgenfri Kjær
+fortsæt med at læse
+Fejl på fejl i Gladsaxe:
+Kommune hjælper med at udstille lækage-ofre på Facebook
+Regeringen har lagt sin plan om overvågning af børnefamilier i skuffen
+Efter brøleren i Gladsaxe:
+»Vi er absolut i den højere ende af alvorsskalaen«

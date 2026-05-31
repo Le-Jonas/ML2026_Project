@@ -1,0 +1,20 @@
+Title: Enorme_mængder_data_om_borgere_giver_travlhed_i_kommuner
+Date: 2018-05-23
+Article Type: Danmark
+Author: Hvis der er nogle steder i Danmark, hvor der er samlet mange personlige oplysninger om borgerne, så er det i de 98 kommuner, som borgerne er i kontakt med i alle faser af livet.
+
+25. maj træder en lov om beskyttelse af personlige oplysninger i kraft. Det giver travlhed rundt om i landet, siger Pia Færch, kontorchef i kontor for Digitalisering og Borgerbetjening i kommunernes landsorganisation, KL.
+»Vi ved, at kommunerne har arbejdet med dataforordningen meget længe, og at de altid har skullet behandle persondata. Der har hele tiden været regler i det offentlige, for hvordan man behandler persondata«.
+»Men kommunerne har rigtig travlt med at blive klar«, siger Pia Færch.
+Med EU's databeskyttelseslov skærpes kravene til virksomheder og offentlige myndigheders håndtering af persondata.
+Ifølge Pia Færch er noget af det nye, at kommunerne skal udpege en databeskyttelsesrådgiver og have en aftale om databehandling på plads med alle deres leverandører af it-systemer.
+Kommunerne har ansvar for eksempelvis folkeskoler, daginstitutioner, ældrepleje, tandpleje, jobcentre, biblioteker, integrationsindsats og meget mere.
+Ifølge Hanne Marie Motzfeldt, lektor og leder af Center for Ret og Digitalisering ved Juridisk Institut på Aarhus Universitet, har kommunerne så enorme mængder data om borgerne, at det er svært helt at forestille sig.
+»De har alt fra neutrale oplysninger om boliger og byggesager til de mest sårbare emner for mennesker - forældreskab, barndom, sygdom, mobning, misbrug. Det går helt ind i kernen af privatlivet«, siger hun.
+Og ifølge lektoren er det tiltrængt, at kommunerne tvinges til at få styr på datasikkerheden. Det sker, fordi den nye lov gør det muligt at udstede bøder til kommuner, der ikke overholder loven.
+Offentlige myndigheder kan fremover straffes med op til 16 millioner kroner.
+»Det har fået dem i gang med at rydde op og få styr på sikkerheden«, siger Hanne Marie Motzfeldt.
+Hun nævner tidligere sager for eksempel om sagsakter, der sendt til de forkerte borgere, og frit tilgængelige cpr-numre.
+Pia Færch mener dog, at kommunerne generelt allerede har godt styr på datasikkerheden.
+»Der kan selvfølgelig ske fejl, som der også har gjort indimellem. Det er ofte enkeltstående, menneskelige fejl, som man har lært af. Men man skal nok være meget forsigtig med at sætte sig op på en høj hest og sige, at det aldrig vil ske igen«, siger hun.
+ritzau

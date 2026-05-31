@@ -1,0 +1,56 @@
+Title: Vi_tror,_netsvindel_altid_skyldes,_at_vi_selv_kvaj
+Date: 2019-02-11
+Article Type: Forbrug
+Author: Selv om du er en snusfornuftig netbruger, kan dine digitale data blive lækket bevidst eller ved en fejl. Dermed kan svindlere finde vej ind til dine kreditkortoplysninger. Det sker oftere og oftere, advarer eksperter.
+
+Michael Olsen
+Journalist
+Sofie Clausen
+Jurist og journalist
+Hjemmesiden Bahne.dk er stadig lukket ned, mens netbutikken får en gennemgribende sikkerhedsopdatering.
+Det var i det sene efterår – i dagene omkring tilbudsfesten Black Friday – at den danske design- og tøjvirksomhed opdagede, at hackere havde fundet vej gennem netbutikkens forsvarsværker – og ind til tusindvis af private kunders kreditkortoplysninger.
+Et datalæk af de store. Et angreb på intetanende danskeres kreditkort, blot fordi de havde handlet på nettet.
+Heldigvis blev kortene spærret i tide. Så vidt vides, var der ingen, der nåede at tabe penge på lækagen.
+Men den slags datatyverier og lækager dukker i stigende grad op i statistikkerne over svindel på nettet, advarer Danske Banks ekspert i bekæmpelse af netsvindel, senioranalytiker Sune Gabelgaard.
+»Med de store mængder digitale data, der kører rundt på internettet, kan ingen længere vide sig sikre. Vi er alle potentielle ofre for netsvindel, uanset hvor meget vi passer på«:
+»Vi har lidt haft en tendens til at tænke, at al den netsvindel handler om, at vi selv er kommet til at kvaje os, har trykket på et link eller glemt kortet på en restaurant. Og den slags er der da stadig masser af. Men det store altoverskyggende problem er kompromitteringer og lækager af data, hvor du ikke som forbruger eller kunde har nogen jordisk chance for at vide, at du bliver snydt. Og du har slet ingen muligheder for at stoppe snyderiet«, siger Sune Gabelgaard, der har en fortid i politiet.
+»Selv jeg kan ikke gardere mig mod, at mit kort bliver misbrugt og kompromitteret i morgen, selv om jeg arbejder fuldtids med det her område«.
+Den typiske datalæksag opstår, når vi køber ind i en butik på nettet.
+Her kan store mængder af data blive lækket, enten fordi de bliver håndteret forkert, eller fordi de bliver stjålet af eller solgt til hackere, som så selv kan arbejde sig længere ned i datamaterialet og ind i kundernes kreditkortoplysninger.
+»Det er en hel industri, der bare bliver mere og mere effektiv. Du kan sidde med dit kort i lommen, og så fordi du engang har brugt det til en handel på internettet, er der nogen i den anden ende, som ikke helt kunne finde ud af at håndtere kortet korrekt. Så er dine data faktisk sluppet fri i cyberspace, og så kan de forkerte mennesker få fat i dem«, siger Sune Gabelgaard og tilføjer:
+»Vi har set kæmpe lækagesager derude, og jeg tror desværre kun, vi har set toppen af isbjerget«.
+Daske Bank kunne sidste år registrere næsten 18.000 sager om internetsvindel, hvor kunderne bad banken erstatte deres tab på netsvindel.
+En stor del af sagerne er netop den nye type af datalæksager, hvor kontooplysninger bliver misbrugt, uden at kunderne selv er gået i en digital fælde.
+Der findes, så vidt vides, ingen opgørelser af sager om datalæk, men et kig i arkivet afslører stribevis af sager om lækager og datatyverier bare de seneste år.
+Et af de absolut største ramte den amerikanske hotelkæde Marriott, der i november 2018 beklagende måtte bekendtgøre, at hackere havde skaffet sig adgang til kædens reservationssystemer og dermed til 383 millioner gæsters personlige oplysninger om blandt andet pasnumre og kreditkort.
+Fakta
+Om datatyveri
+Den typiske datalæksag opstår, når vi handler på nettet.
+Her kan store mængder af data blive lækket via de webbutikker, vi handler i, enten fordi vores data bliver håndteret forkert, eller fordi de bliver stjålet af eller solgt til hackere, som så selv kan arbejde sig længere ned i datamaterialet og ind i dine og mine kreditkortoplysninger.
+Langt de fleste tab på netsvindel bliver dog dækket af banken. Er der hævet penge på dit dankort, skal banken have en anmeldelse, senest 12-13 måneder efter at datatyveriet har fundet sted.
+Vil du forsøge at gardere dig, kan du få lavet en såkaldt saldokontrol i banken. Den fortæller dig, når der bliver trukket større beløb på dit kort. Har du ikke selv hævet pengene, ved du, at der er noget galt.
+Angrebet begyndte helt tilbage i 2014, og datalækken resulterede i, at Marriott udfasede sit reservationssystem ved udgangen af 2018. Det er stadig uklart, hvor mange kunder der har tabt penge på den affære.
+Måneden før var det flyselskabet British Airways, der måtte meddele, at omkring 500.000 kunders personlige data og betalingskortoplysninger var blevet stjålet i et gigantisk datalæk.
+Politiken har forsøgt at få en kommentar fra Bahne.dk, der blev lige så chokeret som kunderne over det digitale indbrud sidste år. Men ifølge direktør Jacob Bahne Sørensen er det endnu ikke lykkedes at få en »specifik viden om, hvad der er sket i vores angreb«, som han udtrykker det i en mail
+Derfor vil Bahne vente med at udtale sig, til sagen er fuldt belyst.
+»Meget af den svindel, vi kommer til at se fremadrettet, bliver svindel med data, for data er penge på nettet, og hvor der er penge, er der kriminelle hackere«, siger Aleksander Buus Bergstedt, it-ekspert og alliance manager i firmaet 2ndC, der rådgiver og hjælper virksomheder og organisationer med at kontrollere og styre adgange til personfølsomme oplysninger.
+»Vi har i mange år været for gavmilde med at give vores personlige data væk til fremmede. Altså du ville jo nok studse lidt, hvis du gik ned og købte en liter mælk hos købmanden og så blev bedt om at oplyse dit navn, din adresse, telefonnummer og andre personlige oplysninger«.
+»Men på nettet gør vi det gerne. Her har vi heller ikke noget imod at udlevere vores dankortoplysninger. Dermed overlader vi en masse magt til dem, vi handler med på nettet, i troen på at vi bliver behandlet lige så godt dér som nede hos købmanden«.
+Aleksander Buus Bergstedts budskab er, at danske forbrugere er nødt til at blive bedre til at mobilisere en »sund skepsis og mistro«, når de bevæger os ud på nettet.
+Her må de vurdere benhårdt, om de føler, at de data, de giver væk også står mål med det produkt, de så får ud af det, lyder rådet fra Aleksander Buus Bergstedt.
+Han har selv krydset datatyvenes spor:
+»Jeg blev for ikke så lang tid siden ringet op af min bank, der spurgte mig, om jeg var i Chile i øjeblikket. Det kunne jeg klart afvise – jeg var her på vores kontor på Kongens Nytorv i København«.
+»Der var nogen, der prøvede at hæve penge på mit kort i Chile, men heldigvis fik banken lukket det ned i tide. Jeg tror desværre, vi må indstille os på, at vi alle sammen før eller siden bliver ramt af det her«, siger han.
+Og den erkendelse har for længst nået 46-årige Brian Madsen, der bor i Rødding i Sønderjylland. Han er stadig pænt chokeret over mødet med den digitale underverden.
+Den åbenbarede sig en tidlig mandag morgen, hvor han måtte opgive at fylde benzin på bilen på vej til sit job på småkagefabrikken Kelsen i Ribe.
+Banken havde spærret hans dankort og med god grund, for samtidig med at Brian Madsen befandt sig i Rødding med sit dankort i lommen, forsøgte nogen at hæve penge på det selvsamme kort i den lille by Waldron i Arkansas i USA.
+Svindelnummeret blev stoppet, kortet spærret, og alle kunne ånde lettet op.
+Indtil i sidste uge.
+Her modtog Brian Madsen en ny, alarmerende besked fra kortselskabet Nets, der kunne meddele, at der nu igen var sporet aktivitet på Brian Madsen dankort »fra en IP-adresse i udlandet«.
+»Jamen, for fanden, man tror jo, det er løgn. Det gør mig nervøs, for så er det, som om der ikke er noget, der er sikkert«, siger Brian Madsen. Han kunne dog trøste sig med, at kortet var lukket og skiftet ud med et nyt.
+»Jeg er utrolig glad for, at banken fanger den slags snyd, for ellers fik vi lænset vores kreditkort i tide og utide. Det er jo lige før, man skal til at have kontanter i madrassen. Jeg har også en ven, der har oplevet det her, og hvor der faktisk forsvandt penge fra hans konto«.
+Langt de fleste tab på netsvindel bliver dog dækket af banken. Er der hævet penge på dit dankort, skal banken have en anmeldelse, senest 12-13 måneder efter at datatyveriet har fundet sted.
+Det eneste, du kan gøre selv, er at holde øje med din konto. Og her kan du eventuelt få lavet en såkaldt saldokontrol i banken, der hele tiden fortæller dig, når der bliver trukket større beløb på dit kort.
+»Hvis det så ikke er dig selv, der har hævet pengene, jamen, så ved du, at der er noget galt«, siger Sune Gabelgaard.
+Sofie Clausen
+fortsæt med at læse

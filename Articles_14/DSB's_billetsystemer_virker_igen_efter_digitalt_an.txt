@@ -1,0 +1,16 @@
+Title: DSB's_billetsystemer_virker_igen_efter_digitalt_an
+Date: 2019-09-02
+Article Type: Danmark
+Author: Natten til mandag kom alle billetsystemer op at køre igen hos DSB, der søndag var ramt af digitalt angreb.
+
+DSB’s billetsalg fungerer mandag morgen normalt, efter at der søndag var knas med flere digitale systemer.
+Det oplyser pressevagten hos DSB.
+Problemerne, der ramte digitale salgskanaler såvel som billetautomater og betjente salgssteder, blev løst ved midnatstid natten til mandag.
+Det var angiveligt et såkaldt DDoS-angreb, som var årsag til problemerne.
+DDoS står for Distributed Denial of Service og går ud på at overbelaste en server i så voldsom en grad, at den lukker ned.
+Det er uvist, hvad eller hvem der har udløst angrebet.
+Ifølge pressevagten er der dog ingen tvivl om, at problemerne skyldes et udefrakommende angreb.
+Det er i øvrigt ikke første gang, at DSB oplever sådanne angreb, tilføjes det.
+Det var søndag middag, at DSB fik melding om, at der var problemer ved køb af billet på dsb.dk, i DSB’s app, i billetautomater og hos betjente salgssteder.
+Rejsekortets ind- og udtjekningsstandere var ikke påvirket af angrebet.
+ritzau

@@ -1,0 +1,36 @@
+Title: Løsladelser_kan_være_pa_vej_Rigsadvokaten_stopper
+Date: 2019-08-19
+Article Type: Danmark
+Author: De nye oplysninger rokker ved tilliden til vores retssystem, siger justitsminister Nick Hækkerup.
+
+Anders Legarth Schmidt
+Journalist
+Rigsadvokaten stopper midlertidigt brug af teledata som bevis for domfældelse efter fund af nye alvorlige fejl. Det oplyser Justitsministeriet.
+Det sker, efter at ministeriet har fået nye oplysninger om yderligere alvorlige fejl i de teledata, der bliver anvendt i straffesager. Teledata bruges i retssager blandt andet til at fastslå, hvor en anklaget person har opholdt sig.
+Indtil videre vil Rigsadvokaten undlade at bruge teledata som grundlag for varetægtsfængsling eller til brug for domfældelse i to måneder. I den periode skal fejlene undersøges nærmere.
+I en pressemeddelelse udtaler justitsminister Nick Hækkerup (S), at de nye oplysninger i telesagen »rokker ved vores tillid til retssystemet«.
+»På baggrund af de nye, alvorlige oplysninger har rigsadvokaten nu besluttet at trække i håndbremsen, så teleoplysninger indtil videre ikke anvendes i retten som bevis på, at tiltalte er skyldig, eller som grundlag for varetægtsfængsling. Det synes jeg er en rigtig og nødvendig beslutning«, siger ministeren.
+De - foreløbigt - to måneders pause i anklageres brug af teledata får en helt konkret og øjeblikkelig betydning ude i de danske retssale. Sager, hvor anklagemyndigheden vurderer, at igangværende og kommende hovedforhandlinger ikke kan gennemføres uden teledata, vil blive udsat.
+Samtidig skal anklagemyndigheden tage stilling til, om der er varetægtsfængslede, som skal løslades. Det kan ske på to måder.
+For det første kan deres sager blive forsinkede, og deres varetægtsfængsling risikerer dermed at blive så lang, at den overskrider længden af den straf, som anklagemyndigheden vurderer, sagen kan bære. I disse tilfælde skal anklagemyndigheden ud fra en lovfæstet betragtning om proportionalitet løslade den varetægtsfængslede.
+For det andet skal anklagemyndigheden gennemgå grundlaget for fængslingen af samtlige aktuelle varetægtsarrestanter. Såfremt teleoplysninger er en del af grundlaget for fængslingen, skal der anmodes om et retsmøde for at afgøre, om varetægtsfængslingen kan opretholdes uden at bruge teleoplysninger. En dommer skal her tage stilling til, om personen skal løslades.
+I sager, hvor anklagemyndigheden på forhånd vurderer, at fængslingen ikke kan opretholdes uden brug af teleoplysninger, skal arrestanter løslades, uden at spørgsmålet prøves ved retten.
+Nick Hækkerup har
+i et brev orienteret Folketingets Retsudvalg
+om udviklingen i sagen. Det fremgår af brevet, at Rigspolitiet under gennemgang af konkrete straffesager har »identificeret fejl i forbindelse med konverteringen af geografiske koordinater for telemasters placering«. Dette oplyste Rigspolitiet til Justitsministeriet i fredags.
+Det betyder ifølge brevet, at der ved behandlingen af straffesager kan være brugt forkerte oplysninger, om hvor telemasterne står placeret. Det er disse placeringer, der i retssager bruges til at sandsynliggøre, at en telefon - og dermed dens ejer - har befundet sig et bestemt sted.
+I går oplyste Rigspolitiet så til ministeriet, at der under gennemgangen af straffesager også er fundet flere forskellige fejl i i den rådata, som politiet modtager fra teleselskaberne.
+»Omfanget og betydningen af disse fejl er endnu ikke afdækket«, står der i brevet.
+Rigsadvokaten
+skriver selv i et brev til landets anklagere
+, at disse oplysninger »sætter nye alvorlige spørgsmålstegn ved kvaliteten af de teledata, som anklagemyndigheden anvender i straffesager«.
+Den nyeste udvikling i sagen, kommer efter at Rigspolitiet forleden var nødt til at udvide sin undersøgelse af sagen.
+Det er ikke nok at gennemgå de omkring 10.700 straffesager fra perioden 2012 til 2019, som hidtil har været omfattet af sagen, men undersøgelsen må også gå længere tilbage i tiden før 2012.
+Sagen har tiltrukket sig stor offentlig opmærksomhed, da fejl i teledata i værste fald kan betyde, at uskyldige mennesker er blevet dømt.
+Samtidig har der været kritik af, at offentligheden for sent fik kendskab til sagen. Blandt andet har politikere kritiseret, at dommere først fik besked om de fejlagtige teledata et stykke tid efter, at Rigsadvokaten kendte til sagens omfang.
+Anders Legarth Schmidt
+fortsæt med at læse
+Rigsadvokat udskød orientering om teleskandale til efter valg
+Telebeviser om borgeres uskyld kan være slettet
+Dommernes formand om fejl i teledata:
+Det eksploderer jo mellem fingrene på os tirsdag morgen

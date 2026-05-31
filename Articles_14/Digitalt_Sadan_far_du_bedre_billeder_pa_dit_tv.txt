@@ -1,0 +1,14 @@
+Title: Digitalt_Sadan_far_du_bedre_billeder_pa_dit_tv
+Date: 2018-12-16
+Article Type: Digitalt
+Author: De fleste fladskærms-tv kommer med en udglatnings-effekt slået til, der får dyre storfilm til at ligne hjemmevideo fra 1990’erne. Men det er relativt nemt at slå fra.
+
+Morten Bay
+For nylig gik en video med Tom Cruise og filminstruktøren Christopher McQuarrie viralt. I videoen anbefaler de at slå den såkaldte
+video interpolation
+eller
+motion smoothing
+fra på dit tv, hvis du gerne vil se filmen, sådan som filmfolkene havde tiltænkt det. Videoen forvirrede nok mere, end den gavnede, men budskabet er godt nok.
+Den korrekte betegnelse for det, de taler om, er
+motion interpolation
+, og du kender måske allerede effekten. Det er den funktion, der får dyrt producerede storfilm med masser af effekter til at ligne hjemmevideo fra 1990’erne. Så er du filmfan, der gerne vil have mest muligt ud af dit fladskærms-tv, er det vigtigt at forstå, hvad det handler om.

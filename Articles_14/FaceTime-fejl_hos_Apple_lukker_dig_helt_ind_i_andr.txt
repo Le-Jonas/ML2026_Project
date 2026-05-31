@@ -1,0 +1,23 @@
+Title: FaceTime-fejl_hos_Apple_lukker_dig_helt_ind_i_andr
+Date: 2019-01-29
+Article Type: Digitalt
+Author: Emil Valdimarsson
+
+Redaktør
+Tirsdag morgen dansk tid gjorde tech-giganten Apple gruppeopkald på selskabets populære videoplatform, FaceTime, utilgængelig. Det fremgår på
+Apples hjemmeside
+.
+Det skete, fordi en fejl i systemet betød, at folk kunne se og høre de personer, de ringede til, allerede inden personen besvarede opkaldet. Det skriver den britiske avis The Guardian, efter at techmediet 9to5mac afslørede fejlen mandag aften dansk tid.
+FaceTime er udviklet af Apple, og derfor er det kun på Apple-produkter som iPhones og iPads, at problemet eksisterer.
+Så snart en person bliver ringet op, blev telefonens mikrofon tændt, på trods af at modtageren ikke accepterede opkaldet. Klikkede man på iPhonens tænd-knap, hvilket i normale tilfælde bruges til at ignorere et opkald, tændte telefonens kamera i stedet og streamede direkte video til personen, der forsøgte at ringe op.
+Inden Apple selv lukkede ned for gruppeopkald på FaceTime, efterprøvede journalister fra The Guardian har FaceTime for at se, om fejlen virkelig var der. Og rigtig nok oplevede de, at telefonens mikrofon og kamera blev tændt, så snart en person blev ringet op af en gruppesamtale.
+Apple er ifølge nyhedsbureauet Reuters opmærksomme på problemet og har angiveligt i sinde at gøre en software-opdatering tilgængelig senere på ugen.
+Ifølge The Guardian er den bedste måde at sikre sig at undgå problemet på, ved at gå ind i telefonens indstillinger og slå FaceTime fra, indtil softwareopdateringen er tilgængelig.
+Det er angiveligt kun, når det er gruppesamtaler på FaceTime, at den ufrivillige live-sending er et problem.
+Ikke desto mindre er det rigtig dårlig timing for Apple at få en sag om dårlig behandling af brugernes privatliv på halsen, fordi en række lignende sager om lemfældig databehandling fra andre tech-giganter har vakt stor opmærksomhed fra forbrugere og myndigheder.
+Facebook havde sidste år et forfærdeligt år med stribevis af sager om dårlig databehandling, og flere forbrugere frygter, at Amazons og Googles stemmestyrede digitale assistenter Google Home og Amazon Alexa lytter mere med, end man lige skulle tro.
+Apple har imidlertid forsøgt at fremstille sig selv som tech-kæmpen, der forstår at behandle brugernes data og privatliv ordentligt.
+Til tech-messen Consumer Electronics Show (CES), der fandt sted i Las Vegas tidligere på måneden havde Apple sat en 13-etager stor billboard reklame op i byen med teksten »Hvad der sker på din iPhone, bliver på din iPhone«.
+Emil Valdimarsson
+fortsæt med at læse
+Vores bredbåndsforbindelser bliver hele tiden hurtigere

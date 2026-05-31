@@ -1,0 +1,42 @@
+Title: Gladsaxe_indstiller_arbejdet_med_omstridt_overvagn
+Date: 2019-02-06
+Article Type: Danmark
+Author: Efter kritik og manglende lovgrundlag lægger kommunen sit arbejde med at udvikle en algoritme til at opspore udsatte børn på køl.
+
+Jakob Sorgenfri Kjær
+Journalist
+Trods manglende lovgrundlag har Gladsaxe Kommune arbejdet videre i kulissen med sit omstridte overvågningssystem. Den såkaldte Gladsaxe-model skulle, ved hjælp af kunstig intelligens og samkørte data om børn og forældres adfærd og historik, udvikles til at opdage udsatte børn tidligere end det menneskelige øje.
+Efter Gladsaxes læk af over 20.000 borgeres fortrolige oplysninger og flere erkendte tilfælde af ulovlig databehandling, oplyste regeringen til
+Politiken
+i december 2018, at den havde lagt sin plan om at skabe lovgrundlag for Gladsaxe-modellen i skuffen.
+Selv om der ikke var umiddelbar udsigt til et grønt lys for dataeksperimentet, har kommunen ufortrødent fortsat sit udviklingsarbejde. Indtil nu.
+I en mail til techsitet
+Version2
+skriver Gladsaxes kommunikationschef:
+»Da Gladsaxe Kommune ikke har fået tilladelse til at gennemføre projektet, har vi sat udviklingen på pause«, lyder det fra kommunikationschef Ulla Baden.
+Politiken bragte sagen frem om regeringens overvågningsplaner og Gladsaxe-modellen i marts 2018. Der lød et ramaskrig, og en bred samfundsdebat om statens brug af kunstig intelligens og borgernes persondata tog fart. Kritikere, dataetiske og -juridiske eksperter advarede mod kinesiske tilstande og omridset af en overvågningsstat, der sår mistillid blandt borgerne. Siden har der også været
+international fokus
+på den kontroversielle brug af borgernes personoplysninger, som Danmark har i støbeskeen.
+Omvendt har fortalerne fremhævet de gode intentioner bag den databaserede opsporingsmodel.
+»Folk har altid været vant til, at deres persondata er fortrolige, og har selv bestemt, hvad de skal bruges til. Men vi bevæger os ind i en tidsalder, hvor borgere skal vænne sig til, at deres data anvendes til flere ting. Og målet helliger midlet her – det handler jo om at få fat i udsatte børn meget tidligere og bryde den sociale arv«, lød det eksempelvis fra Gladsaxes familiechef, Tine Vesterby Sørensen til Politiken.
+Konkret har kommunen arbejdet ud fra en hypotese om, at udsatte børn har en række fællestræk, såkaldte risikoindikatorer. Indikatorerne er blandt andet børns udeblivelse fra tandplejen, fra sundhedsplejen, forældrenes psykiske lidelser, arbejdsløshed eller skilsmisse.
+Kommunen har aldrig haft sin datamodel i egentlig anvendelse til sagsbehandling på grund af manglende lovhjemmel, men i kulissen har kommunen trænet sin algoritme med data om kommunens udsatte børn, en kontrolgruppe med børn i trivsel samt data fra Danmarks Statistik.
+I et notat til byrådet 1. november 2018 skrev forvaltningen, at »data indhentes fra relevante fagsystemer både på gruppen af udsatte børn og vores kontrolgruppe samt forældre«.
+Det fremgik videre, at der på det tidspunkt var udpeget 44 potentielle risikoindikatorer fordelt på 9 forskellige datakilder, som kommunen råder over i sine databaser.
+»Datasikkerhed og informationssikkerhed vægtes højt i Gladsaxe Kommune, hvilket er hvorfor man har valgt at investere i et system, kaldet Alteryx, som muliggør, at vi kan holde os inden for loven i forhold til datasikkerhed samt håndtering at store datamængder«, lød det i forvaltningens notat.
+Men netop lovligheden af udviklingsarbejdet blev mandag betvivlet af tre juridiske eksperter over for
+Version2
+.
+»Min juridiske vurdering er, på baggrund af notatet, at kommunen ikke overholder persondatalovgivningen, fordi man anvender data til et nyt formål,« lød det blandt andre fra advokat med ekspertise i dataret, Catrine Søndergaard Byrne.
+»Persondataforordningen taler meget om ‘formålsbestemthed’. Hvis man skal genbruge data til noget andet end det første formål, så skal det ligge indenfor en forventning, som borgeren har, om hvordan data vil blive brugt. Men her går vi efter min opfattelse langt ud over, hvad man kan forvente«, fortsatte hun.
+Gladsaxe Kommune replicerede, at man alene bearbejdede data på et statistisk niveau og således ikke har brugt borgernes konkrete personoplysninger i udviklingen af algoritmen.
+»Der er således ikke tale om, at Gladsaxe Kommune i det nuværende arbejde med Gladsaxe-modellen foretager personhenførbare analyser af børn eller forældre«, lød svaret fra Tine Vesterby Sørensen til Version2.
+Uanset hvad der er op og ned, er Gladsaxe-modellen nu lagt på is. Først af regeringen og nu også af ophavsmanden bag hele konceptet, Gladsaxe Kommune.
+»Vi går ikke videre med projektet, før der ligger en bekendtgørelse på området. Og derfor ønsker vi ikke på nuværende tidspunkt at bruge flere ressourcer på at besvare spørgsmål om projektet«, lyder det fra kommunen over for Version2.
+Politiken har stillet spørgsmål i sagen til Gladsaxe Kommune, der endnu ikke har kunnet svare.
+Jakob Sorgenfri Kjær
+fortsæt med at læse
+Borgere over hele landet er ramt af datalæk:
+Gladsaxe indrømmer mere ulovlig databehandling
+Regeringen vil overvåge alle landets børnefamilier og uddele point
+Regeringen har lagt sin plan om overvågning af børnefamilier i skuffen

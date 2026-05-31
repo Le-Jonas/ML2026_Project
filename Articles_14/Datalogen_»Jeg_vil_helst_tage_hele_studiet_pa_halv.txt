@@ -1,0 +1,43 @@
+Title: Datalogen_»Jeg_vil_helst_tage_hele_studiet_pa_halv
+Date: 2019-01-24
+Article Type: Danmark
+Author: Når man taler om dataloger, bliver det ofte lidt mytisk – som om de har medfødte evner. Men i virkeligheden handler det mest om tålmodighed og googlesøgninger, mener 23-årige Rasmus Rottwitt. Han elsker at bruge datalogien til at løse virkelighedens problemer, men kan godt blive teoritræt.
+
+Silja Thøgersen
+Journalist
+Det er en råkold og mørk dansk vinteraften. Det regner på den der måde, hvor man først for alvor forstår, hvorfor man føler sig så våd, når man ser den bølgende støvregn stå klart frem under de skarpe lamper. 23-årige Rasmus Rottwitt løber taktfast rundt på Østerbro Stadions baner tæt fulgt af sin testperson Christoffer Haslev. En ven hvervet fra kollegiekøkkenet.
+Hvad der umiddelbart kunne ligne en almindelig omgang motion på en tirsdag aften, er i virkeligheden en del af Rasmus Rottwitts bachelorprojekt på datalogistudiet. Han undersøger det, han kalder løberes ’subjektive oplevelse af træthed’ under løbet. Sammen med sin vejleder har han udviklet et teknologisk ærme, hvor løberen kan tilkendegive sin træthed på en skala fra et til fire undervejs på løbeturen, som han har brugt til at måle en række løbere. I aften gælder det dog interviews, hvor løberen efter løbet skal beskrive sin oplevelse.
+Rasmus Rottwitt
+Drømmen, det bedste og det værste
+Hvad drømmer du om at bruge studiet til?
+»Helt klart at være et sted, hvor man synes, at ens arbejde gør en forskel for nogen og har en betydning. Jeg var i Sillicon Valley i sommer med mit arbejde, og blev meget inspireret af, at der hvor alle pengene og ideerne er, kan tingene realiseres virkelig hurtigt. Det ville være en drøm at bruge nogle år på at arbejde der«.
+Hvad er det bedste ved dit studie?
+»Det fedeste er at have tid til virkelig at gå i dybden med noget, som jeg for eksempel har haft mulighed for at gøre med min bacheloropgave. Det er fedt, at studiet giver de her rammer for virkelig at kunne prøve noget af, og se om det er den vej, man gerne vil gå«
+Hvad er det værste ved dit studie?
+»Det er nok, at studiemiljøet er så homogent. Det er mennesker, der er interesserede i computerspil og matematik og ikke nødvendigvis så meget andet. Og da vi startede, var der omkring 15 piger ud af 166 studerende. Det gør altså noget ved studiemiljøet, der mangler noget dynamik og noget diversitet«
+Ikke en typisk datalog
+Rasmus Rottwitt er meget optaget af at bruge datalogien ude i virkeligheden. Det gør ham lidt atypisk, mener han. De fleste på datalogi studiet bliver helst tæt ved computeren.
+»Det er et ret homogent studiemiljø, hvor folk gerne bruger det meste af dagen foran computeren. Mange er glade for computerspil og gamingevents, og så bliver pausen fra computerarbejdet et spil på computeren i stedet. Det kan jeg bare ikke; jeg bliver alt for rastløs«, siger Rasmus Rottwitt.
+Ved siden af bachelorundersøgelserne er han i gang med en certificeringseksamen, som skal give ham adgang til nye opgaver på sit arbejde som konsulent i datalogikonsulenthuset Inviso. Han arbejder meget. Nok til, at gangens øvrige beboere klassificerer ham som ’den rige’ på gangen. Og han elsker at arbejde.
+»Det er super fedt at arbejde med virkelige tal. At man kan løse problemer for virkelig mennesker, ikke bare problemer med matematikken eller i teorien, men hjælpe mennesker og virksomheder med at finde svar i deres data på, hvordan de kan skabe mere værdi«, siger Rasmus Rottwitt.
+Han har selv for sjov lavet en dataoversigt over kollegiets køb af øl og sodavand. Hvilken gang køber mest, hvornår er salget størst og så videre. Til daglig går han også selv med en pulsmåler, der indsamler data om hans krop og anbefaler ham, hvornår han skal i seng, og hvornår han har for meget om ørerne. Han kan simpelthen ikke få nok af data.
+»Gennem mit arbejde har jeg lært, at problemet ikke er, at der ikke er nok data, problemet er, at der er sindssyg meget data. De fleste giver helt op ved synes af de lange tabeller. Der kan jeg som datalog skabe et brugbart overblik, og det er fedt og meningsfuldt«, siger Rasmus Rottwitt.
+Allerede da han søgte ind på studiet som 18-årig, var det efterfølgende arbejdsmarked i fokus. Han havde allerede et ambitiøst studiejob i en solcellevirksomhed og vidste, at han ville holde så mange døre som muligt åbne efter studiet.
+»Jeg tænkte mest på, hvad jeg gerne ville, når jeg var færdig. Ikke så meget på selve studiets udformning. Så jeg besluttede, at det var klogt at vælge et gammelt og anerkendt studie frem for noget nyt ude på it-universitetet«, siger Rasmus Rottwitt.
+Gid der var mere plads til studiejobs
+Fordi Rasmus Rottwitt elsker at arbejde med datalogien i praksis, kan det tætpakkede universitetsskema godt tage pusten lidt fra ham. Han læste de to første år på fuld tid med store mængder af teoriundervisning og følte, at han kørte død i processen, fortæller han. Da manglende plads på valgfag tvang ham ned på halv tid i efteråret, var det det bedste, der kunne ske, siger han.
+»Hvis jeg selv kunne vælge, ville jeg tage hele studiet på halv tid. Så kunne jeg arbejde og lære på en sjov og praktisk måde og så få de der 20-25 timers teoretiske perspektiv hver uge på studiet, men stadig have tid til fritid«, siger han.
+Han oplever universiteterne som lidt for rigide. Man kan kun tage bestemte valgfag på bestemte tidspunkter, og alligevel skal man helst hele tiden have fuldt skema. Det er ærgerligt på et studie, hvor mange har relevante og lærerige job ved siden af, mener han.
+»Man siger, at der er cirka tre job per datalog, når de er færdige, fordi dataloger er så eftertragtede. Men alligevel tror jeg, at det er godt at komme i gang under studiet, hvis man vil noget bestemt. Det er også en måde at få afprøvet, hvilken vej man gerne vil med faget.
+Selv vil han helst arbejde et lille sted med andre dataglade som der, hvor han er nu. Eller måske starte noget selv en dag ude i fremtiden.
+Han har oplevet, at datalogi godt kan have et lidt mytisk rygte, hvor arbejdsgivere meget gerne vil have en datalog ansat, men samtidig ikke er helt sikre på, hvad sådan en egentlig kan.
+»Så bliver man hurtigt ham gutten ovre i it, som man sender sine mailproblemer til. Så kan han sidde og spørge om man har prøvet at genstarte. Den gut kunne jeg bare ikke være. Mange tror måske, at det er det, man får med en datalog, men det er ikke det, som studiet går ud på, det er ikke 15 ects-point i fejlfinding i mail«, siger Rasmus Rottwitt.
+Han forstår godt, at de, der ikke har nogen baggrund i it, kaster hænderne i vejret og giver op, når der opstår problemer. Man han er glad for at arbejde et sted, hvor ingen er bange for it, og alle tør prøve nye ting af, indtil noget virker. Men han får lyst til at fortælle folk, at dataloger og it-folk ikke har mytiske medfødte kræfter, men bare er tålmodige med Google:
+»Af og til joker vi med, at datalogi bare er en bachelor i
+stack-overflow
+, som er et online forum for dataloger og programmører og den slags. Jeg tror, det, man lærer som datalog, er, at ingen ved mere end andre, og at ham, der virker som et it-geni, bare er rigtig god til at google«, siger Rasmus Rottwitt.
+Derfor mener han også, at studiejobbet er en vigtig del af studietiden, for det er her, man selv bliver sikker på, hvad man vil, så det ikke bliver en fremtidig arbejdsgivers forestillinger om en datalogs evner, der bliver styrende, siger han.
+Tilbage på Østerbro Stadion tager Rasmus Rottwitt de sidste omgange sammen med sin testperson. Løbetøjet med hans løbeklubs navn påtrykt lyser næsten drillende, mens han løber foran sin testperson Christian Haslev, der efterhånden er ved at være ’ret subjektivt træt’.
+Trætheden satte ind efter et par kilometer, fortæller han forpustet.
+»Efter da begyndte jeg at tælle runder«, fortæller Christian Haslev, og datalogen nikker, tilfreds med sine nye data.
+Silja Thøgersen

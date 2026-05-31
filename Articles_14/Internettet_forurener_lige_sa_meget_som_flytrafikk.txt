@@ -1,0 +1,80 @@
+Title: Internettet_forurener_lige_sa_meget_som_flytrafikk
+Date: 2018-12-02
+Article Type: Viden
+Author: Lasse Foghsgaard
+
+Videnskabsredaktør
+Du tænker næppe over det til hverdag. Men hver eneste gang du laver den mindste aktivitet på internettet, koster det energi i form af strøm.
+Når du sender en mail, lytter til en podcast, laver et opslag på Facebook, spiller Fortnite på en spilkonsol eller ser et afsnit af din yndlingsserie på Netflix. Eller hvis du læser denne artikel på vores netavis, hvor en eller flere datatunge annoncevideoer også vil forsøge at stjæle din opmærksomhed.
+Jo større datamængden er, desto større bliver energiforbruget. Så i den forbindelse er streamingtjenester som Spotify, Netflix, HBO og Amazon Prime de helt store strømslugere, når de tilbyder musik, serier eller film i hd-kvalitet.
+Den store aktivitet på internettet har en pris. Den bruger i dag cirka 10 pct. af hele verdens elektricitetsforbrug og udleder over 2 pct. af det menneskeskabte CO
+2
+-udslip. Dermed udleder internettrafikken lige så meget CO
+2
+som verdens samlede flytrafik og vil formentlig snart overhale den.
+For internettet har vokseværk og øges med cirka 25 pct. om året. En stor del af vokseværket skyldes Internet of Things, hvor ting og maskiner kommunikerer med hinanden, for eksempel din robotstøvsuger, din spinningcykel, den selvkørende bil eller sågar din kompostbunke.
+»Folk ved godt, at man skal spare på antallet af flyrejser, skifte den gamle udtjente bil ud med en elbil og introducere kødfrie dage, hvis de skal gøre noget ved deres CO
+2
+-udslip. Det er de færreste, der tænker på, at hver gang man henter data ned fra skyen, sender man et eller flere af verdens datacentre på arbejde, hvilket koster energi og dermed udslip af CO
+2
+. Den uvidenhed skal der gøres noget ved«, siger professor Leif Katsuo Oxenløwe fra DTU, som til daglig forsker i, hvordan man kan gøre datatrafikken på nettet så energieffektiv som muligt, så internettets CO
+2
+-udslip kan reduceres. En jagt på det grønne internet, som netop har modtaget 60 millioner kroner i støtte fra Innovationsfonden.
+Hvis man laver en grundig Google-søgning (hvor én søgning i øvrigt ifølge netgiganten selv koster samme mængde energi som at tænde en 60-watts elpære i 17 sekunder, hvilket udleder 0,2 gram CO
+2
+), finder man mange forskellige bud på, hvor meget eller hvor lidt energi det koster, hvis man for eksempel uploader en minutlang video på Facebook eller sætter sig til rette i sofaen for at se en time af sin yndlingsserie, mens ungerne spiller Fortnite i kælderen.
+For at komme nærmere sandheden har Politiken bedt Leif Katsuo Oxenløwe og ph.d.-studerende Júlio César Medeiros Diniz fra DTU i samarbejde med lektor Martijn Heck fra Aarhus Universitet og seniorøkonom Torsten Hasforth fra Dansk Energi om at foretage regnestykkerne i en dansk kontekst.
+Resultaterne er mildest talt overraskende og øjenåbnende. For eksempel viser eksperternes beregninger, at en times streaming af en film i hd-kvalitet på Netflix eller en anden streamingtjeneste bruger lige så meget energi, som man bruger til at koge 8 liter vand på en elkedel, og ville resultere i et udslip af CO
+2
+på 163 gram.
+»Det vil sige, at hvis man ser 2 timers Netflix hver dag året rundt, svarer CO
+2
+-udslippet til at flyve 384 kilometer i en flyvemaskine, spise 6 kilogram oksekød eller køre lidt under 1.000 kilometer i en ny bil«, siger Torsten Hasforth, som understreger, at beregningerne har taget udgangspunkt i en dansk kontekst, hvor 70 procent af strømmen stammer fra vedvarende energi.
+Så der er både energi og CO
+2
+at spare, hvis man som kærestepar eller som familie kan enes om at se en film sammen, som man gjorde i gamle dage, i stedet for at hvert familiemedlem sidder bag sin egen skærm i form af en mobiltelefon, en tablet eller et smart-tv og ser sin egen film.
+Hvis det høje strømforbrug i forbindelse med streaming nu vil få dig til at løbe hen til elmåleren, næste gang I ser film i familien, vil det måske undre dig, at elmåleren ikke tikker meget hurtigere, end den gør. Eller hvorfor din mobiltelefon eller din tablet ikke for længst er løbet tør for batteri. Det skyldes, at størstedelen af den energi, som streamingen bruger, foregår uden for husstandens fire vægge.
+»Den energi, som streamingen koster dit eget hjem, er kun toppen af isbjerget. Når brugeren trykker ’play’ på sin mobiltelefon, tablet, computer eller smart-tv, vil den sætte et datacenter på arbejde et sted ude i verden, som så vil finde filmfilen frem og sende de tunge data i form af lys den lange vej tilbage til Danmark. Gennem lyslederkabler med en hastighed på 200.000 kilometer per sekund. Det at flytte data fra et sted til et andet koster energi, ligesom jeg bruger energi, hvis jeg løfter en kuglepen op fra bordet og flytter den et andet sted hen«, siger Leif Katsuo Oxenløwe.
+Så en stor del af strømforbruget ved streaming stammer fra transporten til og fra et datacenter og aktiviteterne i selve datacentret, hvor man også skal bruge energi på at køle serverne ned, så de ikke overopheder.
+Det samme er i spil, når man har optaget en video på 60 sekunder af en kat, der leger med et garnnøgle, eller et barn, som hopper i trampolin, og man så midt i begejstringen vælger at dele videoen med sine 333 venner på Facebook.
+Den energiudladning har vores danske eksperter også regnet på og er kommet frem til, at manøvren samlet set vil koste 400 watt-timer og udlede 75 gram CO
+2
+, som ville svare til at koge cirka 4 liter vand.
+Med det regnestykke og klimaet i tankerne kunne man måske godt overveje en ekstra gang, om det var det værd at dele videoen med katten eller det trampolinhoppende barn med sine facebookvenner.
+Det er ikke lykkedes Politiken at få Facebook til at regne efter og tjekke vores eksperters bud på, hvor meget energi og CO
+2
+-udslip det koster i 2018 at uploade en 60 sekunder lang video og dele den med sine 333 følgere på Facebook.
+Derimod ville det sociale medies kommunikationschef i Norden, Peter Münster, gerne indvie vores læsere i et regnestykke, som man også kan finde på Facebooks hjemmeside under ’Our Footprint’.
+Der skriver Facebook, at hvis man tager de 979.000 tons CO
+2
+, som Facebook udledte til atmosfæren i 2017, og dividerer med alle de 2,1 milliard brugere, som det sociale medie havde i 2017, udleder en facebookbruger i gennemsnit 300 gram CO
+2
+om året. Det svarer ifølge Facebook til det udslip, man får, når man brygger en caffe latte i størrelse medium.
+Og så til det sidste regnestykke, som vi satte vores eksperter til at løse. Hvad koster det i energi og udslip af CO
+2
+at spille computerspillet Fortnite i to timer sammen med tre venner? Det bruger 140 watt-timer, udleder 24 gram CO
+2
+og ville svare til at koge 1,2 liter vand i en elkedel.
+Hvis de fire gamere spillede i et år med cirka ti timers forbrug hver uge, og man lægger de jævnlige spilopdateringer til, bliver det til 440 kWh, svarende til at koge cirka 4.000 liter vand og udlede 80 kg CO
+2
+.
+Hvis man så tænker på, at Fortnite bliver spillet af 125 millioner gamere verden over, og man forestiller sig, at de havde det samme spilforbrug som i vores tænkte eksempel, ville det betyde, at der mindst ville blive udledt 2,5 millioner tons CO
+2
+på verdensplan om året. Det ville svare til cirka 5 pct. af Danmarks samlede udledning af drivhusgasser på et år.
+Tips og tricks
+Gode råd til at spare på dit CO
+2
+-aftryk, når du bruger internettet
+Pludselig var vores eksperter ikke til at stoppe og begyndte at regne på ting, som vi ikke havde bedt dem om. Som for eksempel hvad det noget mere datatunge onlinespil Destiny, som bruger 2.000 megabyte i timen, bruger af energi i løbet af to timer. Det blev til 450 watt-timer for en spiller og 4.500 watt-timer for en gruppe på ti spillere. Energiforbruget for de ti spillere ville svare til at koge 41 liter vand og udlede 815 gram CO
+2
+.
+Eksperterne regner sikkert stadig, men nu må det være tid til at sætte en kedel vand over til en stempelkande kaffe. Det vil koste 18 gram CO
+2
+.
+Politiken har i tilblivelsen af denne artikel forgæves forsøgt at få en kommentar fra Netflix.
+Lasse Foghsgaard
+fortsæt med at læse
+Her er klimaduksen og klimasynderen:
+Kan du genkende din egen indsats i kampen for et bedre klima?
+Klima:
+Lad os droppe flyet og komme ind i toget

@@ -1,0 +1,17 @@
+Title: Apps_fra_DSB_og_Folketinget_sendte_oplysninger_til_Google
+Date: 2018-04-20
+Article Type: Danmark
+Author: De danskere, der har benyttet sig af at stemme til X-Factor, set folketingsdebatter eller købt billetter via deres mobiltelefon, kan uden at vide det have sendt oplysninger videre til globale it-selskaber.
+
+Det viser en gennemgang af datatrafik fra en mobiltelefon, som er foretaget af Filip Wallberg, der er lektor i journalistik på Syddansk Universitet.
+Han fortæller i Jyllands-Posten, at de omtalte offentlige apps leverer data til blandt andet Google og Facebook via digitale analyseværktøjer.
+Det betyder, at it-selskaberne får viden om brugerne, som kan bruges i kommerciel sammenhæng, men også kan bruges til at tegne en profil af den pågældende.
+Undersøgelsen er foretaget kort før en ny persondataforordning træder i kraft med nye, skrappe krav til, hvordan man skal omgås persondata som disse.
+»Man skal som dataansvarlig for personoplysninger sikre sig, at de ikke bliver videregivet«.
+»Og med den kommende persondataforordning er der i hvert fald ingen tvivl om, at det her ville være et brud på reglerne«.
+Både hos DR, Folketinget og DSB forlyder det, at man ikke var bevidst om, at der blev indsamlet data om brugerne, som ikke burde deles med andre.
+Derfor har man eller vil man ændre de pågældende apps og lukke for datastrømmen til it-giganterne.
+Filip Wallberg fortæller, at også mange private selskaber benytter sig af de problematiske værktøjer.
+»Der er brugerne nok også opmærksomme på, at de bliver opfattet som kunder«.
+»Spørgsmålet er, om de også er det, når de er i kontakt med Folketinget eller DSB via en app«, siger han til Jyllands-Posten.
+ritzau

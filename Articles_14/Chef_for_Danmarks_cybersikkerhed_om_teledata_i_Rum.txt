@@ -1,0 +1,45 @@
+Title: Chef_for_Danmarks_cybersikkerhed_om_teledata_i_Rum
+Date: 2019-08-02
+Article Type: Danmark
+Author: Der er ikke grund til politisk bekymring over, at kontrollen med TDC’s mobilnetværk flytter til Rumænien. Det siger chef for Center for Cybersikkerhed Thomas Lund Sørensen.
+
+Sebastian Stryhn Kjeldtoft
+Undersøgende redaktør
+Er det en sikkerhedsrisiko, at kontrollen med TDCs mobilnetværk udflyttes til Rumænien?
+»Først er det vigtigt at slå fast, at det ikke er indholdsdata, som tilgår Rumænien. I nogle medier har det fremstået, som om der bliver adgang til indholdet af sms’er, telefonsamtaler og websider. Det er ikke tilfældet. NOC’en er et sted, hvor man undersøger fejlalarmer. Det kan være en antenne, der er faldet ud, eller i den dur. Man ser, om der er noget galt – og hvis det er tilfældet, så sender man besked til teknikere i Danmark om, at det skal fikses, eller fikser det i NOC’en«.
+Kan man spore, hvor en telefon er, og hvem den ringer eller sender en sms til?
+»Man vil kunne se, at en telefon er forbundet til en radiomast, men ikke hvem brugeren af telefonen er. Men man sidder ikke og holder øje med, hvor din telefon er, eller hvad du gør. Man anvender kun de her informationer fra masten, når der er behov for fejlretning«.
+Og så spørger jeg – er det en sikkerhedsrisiko, at de oplysninger kan tilgås fra Rumænien?
+»Det anser vi ikke for at være en sikkerhedsrisiko af den simple grund, at det er måden, Ericsson og andre store netværksleverandører driver deres telenet på. Og vi skal huske på, der er to former for sikkerhed. Et er, hvem der har adgang til data, og hvilke data det er. Det andet er sikkerhed for, at nettet fungerer. De to hensyn skal følges ad, og det gør de her.
+Da kinesiske Huawei overtog driften af TDC’s netværk i 2013, fik Huawei besked om at placere deres NOC i Danmark, og at I skulle sikkerhedsgodkende medarbejderne i NOC’en. Hvorfor var det vigtigt?
+»Huawei kom med et særligt ry som kinesisk virksomhed, så vi drøftede med dem og TDC om, hvordan vi håndterede de bekymringer, der omgav Huawei. Vi kom frem til, at Huawei lagde NOC’en i Danmark, så vi kunne stille krav om, at aktiviteten blev logget, og at vi kunne få adgang. Sikkerhedsgodkendelserne handlede om at sikre, at det var personer fra EU- og Nato-lande, der sad i centret. Det var Huawei med på. Der var altså tale om en frivillig aftale«.
+Hvad var I bange for kunne ske?
+»Vi var særligt bekymrede for, at netværket fik ekstra funktionalitet, hvor man – for at sætte det på spidsen – kunne trykke på en knap op få det vigtigste danske telenetværk til at gå ned«.
+Hvis jeg vidste, hvad dit telefonnummer var, kunne jeg fra NOC’en finde ud af, hvor du befinder dig, hvem du taler med, og samle analyse på det. Var det en bekymring, I havde?
+»Misbrug er grundlæggende en bekymring, vi har, når man har adgang til data. En NOC har til opgave at rette fejl, og så er det nødvendigt at have adgang til den form for oplysninger i konkrete tilfælde. Men det er ikke nødvendigt at samle eller lagre data ud over fejlretningen. Det bygger i vidt omfang også på en tillidskonstruktion suppleret med kontrol. Man må gå ud fra, det er i det danske teleselskabs og den svenske underleverandørs interesse at sikre netværkets integritet og sikkerhed om data«.
+Hvorfor er de ekstra sikkerhedskontroller, I aftalte dengang, ikke nødvendige i dag, når Ericsson overtager driften?
+»Vi ser den konstruktion, vi lavede med Huawei, som undtagelsen fra det normale. Loven giver os ikke mulighed for at stille præcis den type krav. Til gengæld kan vi forlange, og det gør vi også, at der foretages uafhængige sikkerhedsundersøgelser. Vi kan stille krav om, at en sikkerhedsgodkendt medarbejder fra TDC udstationeres i NOC’en for at overvåge, at tingene foregår, som de skal. Vi kan også deltage, når teleudbyderen er på tilsyn«.
+En ting er, at loven ikke giver jer mulighed for at stille de her krav. Noget andet er, hvis I ikke mener, det er nødvendigt. Er det begge dele?
+»Jeg kan ikke løfte sløret for alle de sikkerhedsforanstaltninger, vi har fået TDC til at skrive ind i kontrakten med Ericsson, som betrygger os tilstrækkeligt. Men jeg kan sige, hvad vi blandt andet lægger vægt på, uanset om det foregår i Danmark eller udlandet. Der skal være en meget stærk adgangskontrol. At det kun er dem, som må logge på systemet, der logger på. Der skal også være sporbarhed. Altså at der er en effektiv logning, som ikke kan ændres, og som kontrolleres«.
+Foreslog I TDC og Ericsson at holde NOC’en i Danmark, hvor I kan sikkerhedsgodkende medarbejderne?
+»Nej. Vi har ikke lagt vægt på det aspekt. Vi lægger stor vægt på, at TDC og Ericsson har en fælles interesse i at sikre, at sikkerheden er i orden. Og at de giver os mulighed for at følge med i, hvordan sikkerheden håndteres, og foreslå initiativer. Vi har mødt stor imødekommenhed«.
+Men da I bad Huawei om det her dengang, må det trods alt være udtryk for, at I syntes, det var vigtigt?
+»Ja, vi syntes det var vigtigt. Huawei kom med den bagage, retfærdigt eller uretfærdigt, som de nu har. De sagde til os: ’Vi forstår godt den kontekst. Vi vil gerne lette den bekymring’. Derfor lavede vi den fælles aftale«.
+Hvilken kontrol har I med de tredjepartsleverandører, der leverer til Ericssons NOC i Rumænien?
+»Vi har grundlæggende ikke anden kontrol med dem end den kontrol, TDC har ansvar for at føre i forhold til sin leverandørkæde, og som vi fører kontrol hos TDC med. Men lad mig generelt sige, at mange televirksomheders netværk bliver drevet fra Rumænien. Det siger måske lidt om, at den bekymring, nogen kunne have her i Danmark, det er ikke en bekymring, der er delt af vildt mange andre. Jeg vil ikke sige, den ikke kan genfindes, selv om jeg ikke er stødt på den. Men det er ikke usædvanligt, at fejlretningsopgaven i netværket udflyttes«.
+Ericsson har et ’3rd line support system’ som følger solen. Der er altid et åbent kontor et sted i verden, hvor eksperter kan forbindes til netværket. Det er blandt andet i Indien og USA, og måske også i Kina?
+»Så vidt jeg ved, sker det ikke fra Kina«.
+Vil 3rd line-teknikere i Indien kunne få adgang til TDC’s NOC?
+»3rd line support går ikke via NOC’en, men via TDC’s kontor i Danmark. Der er en række sikkerhedsforanstaltninger, når man åbner op for en tredjepart i netværket, herunder at en 3rd line ikke kan gå ind og arbejde på systemet uden direkte tilladelse og overvågning fra teleudbyderen«.
+Jeg har talt med eksperter, som siger, at rumænske spiontjenester kan få udleveret oplysninger fra NOC’en. Udgør det en sikkerhedsrisiko?
+»Hvis vi kigger på NOC’ens funktion og de data, den behandler, og den værdi, det i givet fald måtte have, jamen, så anser vi det ikke for at være en væsentlig sikkerhedsrisiko. Jeg har i øvrigt svært ved at se, at Rumænien ikke også har en stærk interesse i, at industrien, som er vigtig for deres økonomi, ikke kompromitteres«.
+Har Rumænien et efterretningssamarbejde med USA eller Danmark om at indsamle mobiloplysninger?
+»Vi udtaler os helt principielt aldrig om hverken eksistensen eller fraværet af samarbejde med andre efterretningstjenester«.
+Sebastian Stryhn Kjeldtoft
+fortsæt med at læse
+Forhadt efterretningstjeneste spøger stadig:
+Danmark frygter korruption, men outsourcer it-sikkerhed til Rumænien
+Ekspert:
+Spiontjenester kan få adgang til »hvilken som helst information«, Danmark lagrer i Rumænien
+Politikere:
+Minister må redegøre for TDC-udflytning til Rumænien

@@ -1,0 +1,37 @@
+Title: Gymnasiernes_formand_Den_Digitale_Prøvevagt_skal_s
+Date: 2019-03-07
+Article Type: Uddannelse
+Author: Undervisningsministeriets moderne svar på en eksamensvagt bliver i dag testet rundt omkring på landets gymnasiale uddannelser. Den Digitale Prøvevagt er en fordel for elever, der bliver mistænkt for snyd uden at have gjort det, lyder det fra Danske Gymnasiers formand.
+
+Simon Baastrup
+Journalist
+I dag sidder tusindvis af elever foran deres computere for at besvare årets terminsprøver i fag som dansk, matematik og afsætning. Nogle har formentlig svedige håndflader, mens andre kører prøven hjem på rutinen.
+Flere af eleverne har forinden prøverne installeret Undervisningsministeriets nye dokumentationsværktøj, der har til formål at afgøre, om eleverne under prøven tilgår sider, som de ikke må. Det kan være Dropbox og Facebook, hvor filer med svar og spørgsmål kan deles.
+»Det er rigtig magtpåliggende for os, at der ikke skal kunne herske nogen form for tvivl omkring eksamen. Det nye værktøj har den fordel for de elever, der uretmæssigt bliver mistænkt for snyd – og dem er der nogle af hvert år – at de nu har mulighed for at dokumentere, at de ikke har snydt«, siger formand for Danske Gymnasier, Birgitte Vedersø, der støtter ministeriets forslag.
+Sådan fungerer det
+Den Digitale Prøvevagt indsamler data under prøven.
+Her registrerer programmet skærmbilleder og elevens aktiviteter på computeren.
+Der bliver ligeledes registreret, hvilke hjemmesider eleven tilgår, og hvilke programmer der kører på computeren.
+Den Digitale Prøvevagt indeholder en ’keylogger-funktion’, men den bliver ikke taget i brug. Der bliver dermed ikke opsamlet nogle af de taster, eleven trykker på.
+Den pågældende institutionen kan tilgå dataene i op til fire måneder efter prøven, hvorefter de slettes.
+Kilde: Undervisningsministeriet
+I og med programmet tager billeder af elevernes computerskærme to gange pr. minut, kan man hele tiden følge, hvad der foregår. Såfremt der ikke er foregået noget ulovligt, vil den enkelte elev altså kunne dokumentere dette, hvorfor en situation, hvor det er påstand mod påstand i forhold til hændelsesforløbet, undgås.
+Alligevel er det ikke alle elever, der er positivt stemte over for Den Digitale Prøvevagt. På Danske Gymnasieelevers Sammenslutnings (DGS) Facebookside opfordres elever til at beskytte deres »ret til digitalt privatliv«. Under terminsprøverne i dag er det nemlig frivilligt, om eleverne vil installere overvågningssystemet.
+DGS har tilmed lavet »en lille spydig fastelavnssang«, der afsluttes med linjen: »Riisager (undervisningsministeren (LA),
+red
+.) hun koger. Vi vil ikke have en stat, der masseovervåger«.
+Hvad tænker du om, at flere elever har tilkendegivet, at programmet krænker deres personlige frihed, hvorfor de boykotter det?
+»Hvis det viser sig, at der er problemer med programmet, kan jeg 100 procent godt forstå det. Men det har jeg ikke forudsætninger for at udtale mig om lige nu«.
+Men kan du forstå deres bekymring?
+»Det vil jeg ikke tage stilling til, da det ville forudsætte, at jeg vidste noget om det tekniske – altså om programmet er krænkende over for eleverne – og det ved jeg simpelthen ikke. Men det er ikke min opgave at vide det; det er ministeriets«.
+På Undervisningsministeriets hjemmeside står der: »Den Digitale Prøvevagt registrerer kun skærmbilleder og elevens aktiviteter på computeren under prøven«. Ministeriet mener ikke, at eleverne har noget at frygte, da systemet først indsamler data, når prøven går i gang og afslutter, når eleven afleverer sin besvarelse.
+Alligevel kan der være flere datasikkerhedsmæssige problemer ved programmet.
+»Problemet er, at man har meget svært ved at sikre, at det kun er ’snyd’, det samler ind. Den vil i princippet samle alt det ind, der ligger på den pågældende computer«, siger Peter Kruse, medstifter af IT-sikkerhedsvirksomheden CSIS Security Group, siger til
+Fyens Stifttidende
+.
+Danske Gymnasier er klar over, at der er blevet rejst nogle spørgsmål vedrørende programmets datasikkerhed. De mener derfor, at det skal være fuldstændig klart, at der ikke er nogen risiko for, at der er spyware, som overvåger elevers computere, der sidenhen kan blive brugt imod eleverne, fastslår Birgitte Vedersø.
+Programmet har været testet på tre skoler, hvor man fandt nogle småfejl, der skal rettes, inden den store generalprøve finder sted i dag. Der er stadig fysiske vagter til stede, men ifølge formanden for Danske Gymnasier er det blevet sværere for dem at opspore snyd, fordi alting foregår digitalt.
+Men til trods for digitaliseringen har eleverne krav på at få den samme faglige vurdering, hvorfor der aldrig skal kunne drages tvivl om, hvorvidt eleverne selv har udarbejdet deres studentereksaminer, mener hun.
+»Uanset hvor mange det er, om det er en promille eller en procentdel, skal vi snyd til livs. Jeg er ikke ude på at mistænkeliggøre eleverne, men hvis der foregår snyd, vil ærlige elever risikere at få et dårligere gennemsnit end snyderne – og dermed ikke have mulighed for at komme ind på den uddannelse, de gerne vil – fordi andre har snydt. Det er er jo ikke rimeligt«.
+Simon Baastrup
+fortsæt med at læse

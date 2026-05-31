@@ -1,0 +1,16 @@
+Title: Nasa_sender_Tess-satellit_op_for_at_lede_efter_nye_planeter
+Date: 2018-04-19
+Article Type: Tech
+Author: Det amerikanske rumagentur, Nasa, har natten til torsdag dansk tid opsendt endnu en mission fra Cape Canaveral i USA.
+
+Denne gang er det Nasas omfattende Tess-mission, det handler om.
+En satellit skal efter planen sendes i omløb om Månen og Jorden og undersøge rummet for exoplaneter.
+Missionen skal identificere interessante exoplaneter, der kredser omkring meget klare stjerner, og blandt andet levere data, der kan bruges til at fastslå, hvor store planeterne er.
+Efterfølgende skal planeterne undersøges via teleskoper fra Jorden og rummet med henblik på at karakterisere dem ved blandt andet at fastslå deres masser og undersøge deres atmosfærer.
+Nasa forventer, at satellitten vil opdage omkring 20.000 exoplaneter. Blandt dem kan 50 være på størrelse med Jorden, forudser Nasa.
+Det er en omfattende amerikansk satsning, men faktisk har DTU Space og Danmark en stor aktie i missionen.
+Således er DTU Space inviteret med af Nasa, fordi instituttet har indsigt i både den videnskab og den teknologi, der ligger til grund for missionen
+Dels har DTU Space leveret navigationsudstyr i form af to stjernekameraer. De skal være med til at sikre, at satellitten peges i den rigtige retning ud mod universet, når planeterne skal findes.
+Dels har forskningsinstituttet ved årsskiftet etableret en ny exoplanetforskningsgruppe. Den er med i Tess-projektet som rådgiver og forskningsenhed.
+Opsendelsen af SpaceX Falcon 9-raketten skulle egentlig have fundet sted mandag, men den blev udsat i to dage som følge af problemer med raketten.
+ritzau

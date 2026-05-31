@@ -1,0 +1,7 @@
+Title: Cambridge-forsker_Facebooks_lukning_af_400_datain
+Date: 2018-08-23
+Article Type: Tech
+Author: Morten Bay
+
+Facebook har lukket for adgang til over 400 apps, der indsamler brugerdata. Men forskeren Dr. David Stillwell fra Cambridge-universitetet, der står bag en af disse apps, sår tvivl om Facebooks oprigtighed og kalder suspensionen »kosmetisk«.
+Det har skabt en del opmærksomhed, ikke mindst fordi Stillwells forskning var inspirationen for den kolossale dataindsamling, der udmøntede sig i Cambridge Analytica-skandalen.

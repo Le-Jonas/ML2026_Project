@@ -1,0 +1,79 @@
+Title: Professor_Dyrkelsen_af_data_hærger_vores_sundhedsv
+Date: 2019-02-03
+Article Type: Debat
+Author: I forsøget på at blive mere og mere datadrevet, risikerer vi at producere dårligere og dårligere data, mener professor Klaus Høyer.
+
+I forsøget på at blive mere og mere datadrevet, risikerer vi at producere dårligere og dårligere data, mener professor Klaus Høyer.
+Kenneth Lund
+Journalist og debatredaktør
+Poul Aarøe Pedersen
+Debatredaktør
+Politikerne kræver et datadrevet sundhedsvæsen, og ambitionen er klar: Jo flere oplysninger vi kan trække ud af sektorens omfattende, digitale registre, desto klogere bliver vi på patientgruppers overlevelse, optimering af arbejdsgange på operationsstuen og den rette dosering af medicin. Sundhedsvæsenet bliver simpelthen mere effektivt.
+Problemet er, at efterspørgslen efter data de seneste år er steget voldsomt, og politikere og højtplacerede ansatte i sundhedssektoren kræver i dag, at der bliver indsamlet og analyseret data på områder, som ifølge medarbejdere med praktisk erfaring grænser til det meningsløse.
+Blå bog
+Klaus Høyer
+Født
+1972. MA, cand.scient.anth., ph.d. og professor ved Institut for Folkesundhedsvidenskab, KU.
+Han er
+leder af et forskningsprojekt om brugen af sundhedsdata finansieret af Det Europæiske Forskningsråd og modtager af EliteForsk-prisen 2017.
+Det siger professor i medicinske videnskabs- og teknologistudier ved Afdeling for Sundhedstjenesteforskning ved Københavns Universitet, Klaus Høyer, der netop har udgivet bogen ’Hvem skal bruge sundhedsdata – og til hvad?’ fra Informations forlag.
+Klaus Høyer – sundhedsdata betragter vi normalt som en grundsten i et moderne, evidensbaseret sundhedsvæsen. Kan man ligefrem få for meget data?
+»Lad det stå helt klart: Jeg elsker data. Jeg er forsker og lever af at have adgang til gode data. Data er forudsætningen for at blive klogere på effekter, bivirkninger og risici i vores sundhedsvæsen. Men vi ser for tiden en
+dataficering
+af hele sundhedssektoren. Alt skal være datadrevet, og kun de færreste stopper op og spørger »hvad koster det at indsamle og behandle de her data? Og giver de egentlig mening?«. Der bliver i dag lavet mange dataanalyser i det danske sundhedsvæsen, som er fuld af usikkerheder, men som alligevel bliver lavet, fordi politikere eller forvaltninger beder om dem«.
+Siger du, at vi har fagfolk siddende i det danske sundhedsvæsen, som sender meningsløse analyser op i systemet til embedsmænd og politikere?
+»De giver mening som politiske redskaber, men de giver ikke nødvendigvis et billede af, hvad der sker eller virker ude i sundhedsvæsenet. Når jeg kommer rundt og snakker med de mange dygtige folk, der sidder og laver dataanalyser, fortæller de bekymrende ofte, at de er blevet bedt om at lave analyser, som de har svært ved at forsvare videnskabeligt, eller som er behæftet med enorm usikkerhed, men de skal lave dem alligevel«.
+Hvor sidder de medarbejdere?
+»Over det hele. På hospitalerne, i forvaltningerne, i regionerne og kommunerne«.
+Kan du give et eksempel på en dataanalyse, der opfattes som meningsløs?
+»Det kan f.eks. være, når politikere ønsker et dataudtræk om, hvor godt det går med at nedbringe tvang i psykiatrien, men det er uklart, om data viser, at brugen af tvang reelt er gået ned, eller om det bare er registreringspraksis, som har ændret sig. Det samme gælder med nogle opgørelser af ventetider. Alligevel sendes analysen op i systemet, politikerne får det resultat, de havde håbet på, og sundhedspersonalet kan måske få arbejdsro«.
+»Et andet eksempel er hurtige sammenligninger af, hvem der er bedst til en eller anden behandling. Men det er ikke sikkert, at dem, man sammenligner, har samme type patienter, og der kan være tusinde forskellige socioøkonomiske og helbredsmæssige grunde til, at forskellige behandlere og behandlingssteder har forskellige resultater. Men det siger de overfladiske dataanalyser intet om«.
+»Eller måske ønsker man en sammenligning af patienttilfredshed. Egentlig ved vi godt, at folk bruger skalaer forskelligt alt afhængig af, hvor i landet man bor, og derfor får den samme tilfredshedsfølelse forskellige karakterer forskellige steder i landet. Alligevel siger vi, at de er mere tilfredse med behandlingen i Jylland«.
+Men bør de medarbejdere, der har forstand på at lave en dataanalyse, ikke råbe: ’Stop! Det er meningsløst! Vi kan ikke lave analysen!’?
+»Jo, men det sker ikke altid. Det er aldrig sjovt at skulle sige til sin overordnede, at man ikke kan skaffe de data, som ønskes, og som gerne skulle vise, at den førte politik er en succes«.
+»Data handler ofte om at sikre fælles standarder, og det giver ikke altid mening. Jeg kender til en sag om såkaldt ’medicinafstemning’, hvor nogle afdelinger klagede over, at de skulle medicinafstemme alle patienter – også patienter, der slet ikke fik medicin. Ledelsen i regionen vidste egentlig godt, at standarden gav dette problem, men de havde brug for den i deres overordnede overvågning«.
+»På samme måde med udredningsgarantien, som forudsætter, at alle kan få en diagnose på en given tid, selv om det ikke altid giver klinisk mening. Resultatet er, at man nogle gange snyder lidt på vægten med sin registrering for at leve op til kravene. Det er
+dataficering
+i en nøddeskal: I forsøget på at blive mere og mere datadrevet og gennemsigtige, risikerer vi at producere dårligere og dårligere data«.
+Kender de politikere, der efterspørger data, simpelthen for lidt til de metodiske vanskeligheder? Eller kender de til dem, men er bare ligeglade?
+»Det må I jo spørge politikerne om. Der er da sikkert politikere, der har en agenda, og som søger at skaffe tal, der kan understøtte denne agenda – uanset de metodiske vanskeligheder. Andre ved måske ikke, at de slet ikke kan bruge de data, de efterspørger, fordi de ikke har den træning eller uddannelse, det kræver. Men det er vigtigt at huske, at politikerne også er under pres. Hvis ikke de hele tiden har styr på fakta og kan dokumentere ditten og datten, så står I – medierne – jo klar til at hænge dem ud. Der er altså noget i den politiske kultur, hvor alle hele tiden skal stå til regnskab, som skaber et miljø for dårlige data«.
+Ifølge Klaus Høyer har mange politikere i dag et nærmest religiøst forhold til data: De tror, data kan løse alverdens problemer, men de færreste undersøger, om det passer.
+»Det lyder jo som lutter evidens og forskning, når nogen siger, at noget er datadrevet. Men sandheden er, at mange forholder sig til data, som de forholder sig til et trossystem. De ved reelt ikke, om det har en effekt, men det skaber mening i deres tilværelse, så derfor fortsætter de med at tro på det«.
+Data er den nye Gud i sundhedsvæsenet?
+»Ja, sat på spidsen. Men det er ikke kun i sundhedsvæsenet. Vi ser det i hele den offentlige sektor. Da regeringens digitale vækstpanel fremlagde sine anbefalinger, var det med en næsten religiøs forestilling om, at mere data vil vise os vejen til
+’the land of milk and honey’
+, den nye himmelske verden. Nogenlunde samtidig kom det frem, at forsøget på at digitalisere Skat og gøre systemet mere datadrevet har været et brag af en fiasko, der nok har kostet over 100 mia. kroner. Det er et godt billede på den skizofrene medievirkelighed, vi ser i disse år: Politikere, strategipapirer og kommissioner taler om det datadrevne samfunds uendelige potentiale; alt vil blive mere effektivt, nemmere, billigere og bedre, hvis bare vi udløser potentialet. Imens sidder medarbejdere med den praktiske erfaring lokalt og kæmper med indhentning og bearbejdning af data og føler ikke, der bliver lyttet til dem, når de gør opmærksom på begrænsningerne og fejlkilderne«.
+Men det ændrer vel ikke på, at data har et stort potentiale …
+»’Potentiale’ er en virkelig sjov størrelse, for det er jo noget, der ikke findes, og det er så
+fluffy
+, at man ikke for alvor kan være imod det. Men jeg håber da i dén grad, at data har et stort potentiale. Jeg er forsker og håber virkelig, at vi med bedre brug af data kan nå frem til løsninger, vi ikke har i dag. Men for at komme derhen, bliver vi nødt til at forholde os til det, vi ved nu, og bruge den metode, viden og evidens, vi allerede har. Også organisatorisk viden. For hvad sker der, når vi pålægger folk at indsamle data, der ikke giver mening for dem? Ja, så producerer de dårlige data, og dårlige data kan altså ikke visen vejen til
+’the land of milk and honey’
+. Så spænder vi bare ben for os selv«.
+Hvordan er hele denne datadyrkelse opstået? Det er vel ikke noget politikerne selv har fundet på?
+»Det er altid svært at lokalisere en idés oprindelse, men det ligger i tidsånden. Ludwik Fleck (polsk-israelsk læge, biolog og videnskabsteoretiker, red.) kaldte det et tankekollektiv. Når man befinder sig i et givent tankekollektiv, kan man ikke skabe mening hos andre, med mindre man følger tankestilen. Man skal altså artikulere tingene på én bestemt måde, for at det, man siger, fremstår meningsfuldt og legitimt. I dag sker det ved, at vi hele tiden henviser til data«.
+Så vi har brug for et nyt tankekollektiv?
+»Ja, vi skal skabe en ny måde at artikulere vores argumenter på. Vi har brug for nyt tankegods, simpelthen. Mit bidrag er bl.a. at sige, at vi skal have
+bedre
+dataanalyser – ikke
+flere
+dataanalyser. Og så ville jeg gerne have, at der var en lille rød alarm, der lyste, hver gang folk begyndte at tale om ’potentiale’. Der er en klar tendens til, at hvis bare man kan henvise til potentialet, så
+overruler
+det al eksisterende viden og praktisk erfaring«.
+Skruer man ned for antallet og op for kvaliteten af dataanalyser, bliver der samtidig bedre plads til fagpersoners personlige dømmekraft. Og det er tiltrængt, mener Klaus Høyer.
+»Jeg bliver bekymret, når jeg hører, at ansatte
+overruler
+deres egen bedste dømmekraft, fordi tal i et Excelark siger noget andet. Vi skal huske at tro på vores egen dømmekraft. Derfor giver det heller ikke mening at sige, at vi skal være datadrevet. Man driver kvæg – ikke læger, sygeplejersker eller skolelærere. Vi skal bruge data, når de giver mening, og huske, at data ikke bare er noget, der er givet, og som viser den nøgne sandhed. Data er også produceret«.
+»F.eks. har vi set, at sundhedsprofessionelle brugte de samme koder forskelligt i Aarhus og København, og at laboratorier har brugt forskellige standarder for testresultater. Man skal altså vide, hvordan data bliver til, for at vide hvordan de kan bruges. Du kan lave rigtig mange fejlslutninger med data, hvis du ikke ved, hvordan de er fremkommet«.
+Brugen af data udelukker vel ikke, at man bruger sin faglige dømmekraft. Er målet ikke at kombinere de to?
+»Jo, det er netop målet. Faren opstår, når balancen tipper. Data er ofte éndimensionelle, dvs. at de viser én faktor ud af de mange, der kan være for, at f.eks. et præparat mod en leversygdom virker for en given patient. Det er fint at have adgang til denne oplysning, men som læge er du nødt til at veje disse data op imod alle de andre relevante forhold: Hvad er patientens socioøkonomiske vilkår? Er patienten deprimeret? Har patienten pårørende, der kan hjælpe med besværlig medicin? Og hvor stort er presset på afdelingen for tiden – kan vi støtte patienten på andre måder? Dømmekraft handler om at kunne kombinere oplysninger af meget forskellig karakter og prioritere dem. I vores overvågning og kvalitetsmonitorering skal vi passe på, at de endimensionelle data ikke får overtaget«.
+Man skal simpelthen lytte lidt mindre til data og se lidt mere på patienten?
+»Vi skal i hvert fald sikre, at simple data ikke
+overruler
+praktisk erfaring. Det gælder ikke kun i sundhedsvæsenet. I folkeskolen kræver man nu, at lærerne skal se på data om deres elever. Men de færreste lærere har statistisk kunnen og ved for det meste intet om grundige dataanalyser. De kan med andre ord sjældent bruge data til ret meget. Og har de overhoved tid? De har i omegnen af 16 minutter til at forberede og efterbearbejde en undervisningstime – det efterlader ikke meget tid til at lave gode dataanalyser. Kig i stedet for på eleven! Snak med dem! I stedet for at tro, at alt skal være datadrevet, burde vi vise fagpersonerne større tillid. Og samtidig respektere, at det er svært at lave gode analyser, der faktisk siger noget«.
+Er du grundlæggende dataskeptisk?
+»Jeg er hverken datafob eller datafil. Jeg lytter til dataskeptikerne, men jeg sidder ikke med nej-hatten på og længes efter de gode gamle dage. Jeg går fuldt ind for nye digitale løsninger og vil rigtig gerne facilitere gode dataanalyser. Men formålet må være, at vi bliver klogere af at bruge dem. Ikke dummere«.
+Poul Aarøe Pedersen
+fortsæt med at læse
+Adgang til vores data kan fundamentalt ændre forsikringsbranchen. Men hvor går grænsen?
+Eksperters opråb:
+Vi skal selv eje vores data. Indfør lovgivning nu

@@ -1,0 +1,54 @@
+Title: Læk_pa_læk_af_borgeres_personoplysninger_To_unders
+Date: 2019-02-07
+Article Type: Danmark
+Author: Borgmester Trine Græse har fuld tillid til, at hendes forvaltning ikke bevidst har fortiet fejl og læk af borgernes data. Hun har overbevist de andre partier om, at forvaltningen skal undersøge sig selv.
+
+Jakob Sorgenfri Kjær
+Journalist
+Gladsaxe Byråd har besluttet at igangsætte to undersøgelser af, hvordan og hvorfor det er gået så grueligt galt med it-sikkerheden i den københavnske forstadskommune.
+Det sker efter to parallelle datalæk i 2018, hvoraf det første kun er kommet til politikernes kendskab med Politikens mellemkomst i sidste uge.
+»Vi vil gerne, inden vi træffer beslutninger om, hvad der skal ske, have et ordentligt beslutningsgrundlag. Derfor sætter vi nu to forskellige undersøgelser i gang«, siger borgmester Trine Græse (S).
+Kommunens økonomiudvalg har besluttet at få foretaget en ekstern granskning af kommunens it-sikkerhed »for at klarlægge om vores sikkerhed har det rette niveau og for at få anvisninger på, hvad der yderligere kan og bør iværksættes«.
+Sagen Kort
+Gladsaxe-læk
+Gladsaxe mistede i december sidste år 20.600 borgeres fortrolige og i nogle tilfælde følsomme persondata, da en ukrypteret computer med en fil gemt på pc’ens skrivebord, blev stjålet fra rådhuset. Kommunen har erkendt flere lovbrud, blandt andet en uretmæssig behandling af data om borgernes religion.
+Over 1.300 bekymrede borgere har siden henvendt sig til kommunen for at få svar om sagen.
+Politiken har afsløret, at 40 borgeres data blev lækket 4 måneder før, i juli 2018, da en ubeskyttet computer med en frit tilgængelig fil blev mistet i en bus, uden at kommunen rettede op på sikkerheden.
+Havde kommunen reageret korrekt efter det første databrud i juli, havde de godt 20.000 berørte borgere, fordelt over 82 kommuner, sandsynligvis ikke fået kompromitteret deres persondata i december.
+Derudover har økonomiudvalget bestilt en intern afdækning af de brud på datasikkerheden, som Gladsaxe har oplevet, siden dataforordningens ikrafttræden 25. maj sidste år.
+»Herunder belyse hvornår og hvilke kommunale aktører i Gladsaxe, det vil sige forvaltningschefer, byrådsmedlemmer, borgmester med flere er blevet orienteret og har ageret på hændelserne«, lyder det i den vedtagne tekst.
+Baggrunden er, at 20.600 borgere fra hele landet i slutningen af 2018 fik lækket deres personoplysninger på grund af fejl, ringe it-sikkerhed og en stjålet computer i Gladsaxe Kommune.
+Politiken har afdækket, hvordan kommunen har begået
+fejl på fejl
+i behandlingen af borgernes data. Og i sidste uge
+afsløret
+, at datalækket i december faktisk var et gentagelsestilfælde.
+Bare fire måneder forinden, i juli 2018, var der sket et helt parallelt datasikkerhedsbrud i kommunen, hvor 40 borgeres personoplysninger blev tabt på grund af fejl og en mistet, ubeskyttet computer.
+Ifølge eksperter kunne det store læk i december være undgået, hvis kommunen havde rettet op på fejlene og sikkerheden.
+Men borgere, byrådet og tilsyneladende heller ikke borgmesteren blev ikke orienteret om fortilfældet fra juli, før Politiken lagde sagen frem. Og det på trods af, at et Venstre-medlem spurgte specifikt ind til eventuelle fortilfælde på et byrådsmøde 19. december.
+Et flertal uden om borgmesteren fremsatte i sidste uge et krav om, at hele forløbet omkring sikkerhedshændelserne skulle granskes af en ekstern undersøger. Men borgmesteren har siden formået at overbevise de øvrige partier om, at kommunens egen borgerrådgiver og databeskyttelsesrådgiver skal gennemføre undersøgelsen. Kun et mindretal bestående af Venstre og Enhedslisten holdt fast i ønsket om en ekstern kulegravning.
+»På baggrund af den mundtlige redegørelse, vi har fået, føler jeg ikke længere behov for en uvildig undersøgelse«, siger viceborgmester Serdal Benli, der er gruppeformand for SF i Gladsaxe.
+»Jeg føler ikke, forvaltningen eller borgmesteren skulle have intentioner om at fortie noget. Nogen har måske ikke været vakse eller set sammenhængene, men det får vi nu afdækket i en intern undersøgelse, og så kan vi tage bestik af det«, siger Serdal Benli, der også er folketingskandidat for SF.
+Borgmester Trine Græse fastholder, at hun ikke kendte til det forudgående datalæk fra juli 2018, før Politiken præsenterede sagen for hende fredag 25. januar. Alligevel erklærer hun sig tilfreds med forvaltningens orienteringsniveau til hende og byrådet. Og nu vil hun se fremad i stedet for at skue tilbage.
+»Man kan selvfølgelig stille spørgsmål ved de rette tidspunkter, men orienteringsniveauet har været fuldstændig i overensstemmelse med praksis; der er ingen, der har gjort noget for at holde noget skjult. Jeg har fuld tillid til, og det har øvrige partier også, at der ikke er holdt noget skjult. Og så har vi en databeskyttelsesrådgiver, der er ansat til at varetage sådan en opgave her, og som kan give os en fuldstændig afdækning af, om vi løser de opgaver, som vi skal«, siger Trine Græse.
+Er du tilfreds med, at forvaltningen ikke af egen drift har orienteret dig om fortilfældet i juli, selv ikke efter, at byrådet 19. december specifikt spurgte ind til eventuelle fortilfælde?
+»At der er blevet spurgt specifikt ind til det på byrådsmødet – det er ikke korrekt«, siger borgmesteren.
+Martin Skou Heidemann (V) siger det da på byrådsmødet?
+»Nej. Jeg har lyttet det igennem, og jeg kan ikke høre det. Det mener jeg ikke, der er blevet spurgt ind til. Og hvis han havde spurgt ind til det, ville jeg ikke kunne sige andet end, at det var jeg ikke bekendt med«, siger borgmesteren.
+På
+lydoptagelsen fra byrådsmødet 19. december
+siger Venstre-politikeren 27 minutter inde i mødet:
+»Jeg er også rigtig ærgerlig over, at det bliver omtalt som en enkeltstående fejl. For ved vi overhovedet, om det forholder sig sådan? Jeg synes det er usandsynligt, at en enkelt medarbejder pludselig laver sådan en bommert. Vi ved reelt ikke om det er sket før, bare uden at computeren blev stjålet?«, siger Martin Skou Heidemann.
+Han tilføjer på byrådsmødet, at hver gang der er sket fejl i kommunens databehandling bliver det udlagt og affejet af forvaltningen som »enkeltstående fejl«. Han kalder på en kulturændring i forvaltningen og foreslår en grundig redegørelse af, hvad der er sket før, under og efter det store datalæk.
+Men hverken borgmester eller forvaltning svarede da eller efterfølgende, at der var et konkret fortilfælde med parallelle konsekvenser og tilsvarende fejl fra juli 2018.
+Venstre fremsatte et forslag på tirsdagens økonomiudvalgsmøde om, at kulegravningen af forløbet skulle foretages af en ekstern undersøger, men i sidste ende bakkede kun Enhedslisten op.
+»Hvad der er sket, og hvem der vidste hvad og hvornår, havde vi gerne set var blevet undersøgt af en ekstern uvildig part. Vi skal jo have tilliden tilbage til Gladsaxe Kommune ved at få vendt hver en sten og tage ved lære af fejlene. Borgernes datasikkerhed skal tages mere alvorligt, og der skal være en høj grad af gennemsigtighed, og det ville være bedst, hvis der kom nogen udefra og tjekkede det«, siger Pia Skou.
+Økonomiudvalget har besluttet, at der, når de to rapporter foreligger senest om to måneder, skal tages stilling til niveauet af orientering om datasikkerhed til både borgere og byrådet.
+Desuden forpligtes kommunens databeskyttelsesrådgiver til fremover at fremlægge halvårlige redegørelser om informationssikkerheden i stedet for blot en gang om året.
+Jakob Sorgenfri Kjær
+fortsæt med at læse
+Gladsaxe indstiller arbejdet med omstridt overvågning af børnefamilier
+Borgere over hele landet er ramt af datalæk:
+Gladsaxe indrømmer mere ulovlig databehandling
+Efter brøleren i Gladsaxe:
+»Vi er absolut i den højere ende af alvorsskalaen«

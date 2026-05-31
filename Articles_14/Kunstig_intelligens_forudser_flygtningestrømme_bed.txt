@@ -1,0 +1,9 @@
+Title: Kunstig_intelligens_forudser_flygtningestrømme_bed
+Date: 2019-03-02
+Article Type: Tech
+Author: Nye flygtningestrømme kan forudses af maskiner, der ikke bliver distraheret af forskning og menneskelig indsigt, viser et samarbejde mellem IBM og Dansk Flygtningehjælp. Perspektivet er skræmmende, siger IBM.
+
+Jens Bostrup
+Journalist
+Christian Friis Bach, generalsekretær i Dansk Flygtningehjælp, blev lettere forbløffet, da han første gang hørte om kampen mellem to maskiner, der begge er ansat til at spå om, hvor de næste flygtningestrømme går hen, og hvor store de vil være.
+Begge maskiner er fodret med alt, hvad man kan finde af data om vejret, vandstanden, økonomien, korruptionen, konfliktniveauet og meget andet – i alt 85 forskellige datasæt om livets gang i Etiopien.

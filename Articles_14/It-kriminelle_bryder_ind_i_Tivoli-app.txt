@@ -1,0 +1,13 @@
+Title: It-kriminelle_bryder_ind_i_Tivoli-app
+Date: 2019-08-15
+Article Type: Danmark
+Author: Tivolis app, Mit Tivoli, har været udsat for et it-angreb, hvor uvedkommende har fået adgang til hundrede af kunders oplysninger. Det oplyser Tivoli til Version2.
+
+Det er kundernes oplysninger såsom navne, adresser og telefonnumre, som har været tilgængelige for uvedkommende.
+»Omkring 15 procent af de kompromitterede brugere har haft et betalingskort gemt på deres profil«, siger Tivolis direktør for it-udvikling, Jonas Buhl Gregersen, til Version2.
+»Vi har selvfølgelig tjekket alle sammen igennem, og der er ikke blevet foretaget et eneste køb på de kort«.
+Det skyldes blandt andet en sikkerhedsmekanisme i Mit Tivoli, hvor brugerne skal indtaste kortets kontrolcifre, før de kan købe noget.
+Tivoli bliver opmærksom på angrebet, da der fredag aften er en usædvanlig høj aktivitet i appen. Samtidig ringer en kunde til Tivoli og oplyser, at hans bruger er blevet brugt på en ny enhed - uden at han selv mener at have brugt appen.
+»Derefter lukker vi ned for hele platformen Mit Tivoli«, siger Jonas Buhl Gregersen til Version2.
+Sagen er meldt til politiet og Datatilsynet.
+ritzau

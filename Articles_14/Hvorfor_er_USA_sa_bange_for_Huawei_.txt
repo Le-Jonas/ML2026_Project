@@ -1,0 +1,44 @@
+Title: Hvorfor_er_USA_sa_bange_for_Huawei_
+Date: 2018-12-16
+Article Type: Tech
+Author: 5G er ikke bare en ny generation af mobilnetværk. Det er nøglen til viden, kontrol og økonomisk dominans.
+
+Jens Bostrup
+Journalist
+Edward Snowdens dokumenter efterlod os med en forestilling om, at den amerikanske efterretningstjeneste NSA sidder trygt og sikkert på alt, hvad der er værd at vide om de fleste mennesker i verden.
+Men det billede er under hastig forandring. Ikke fordi de amerikanske lovgivere greb ind og standsede overvågningen; det gjorde de ikke. Men fordi de amerikanske virksomheder mister det teknologiske overtag.
+Kampen står om 5G – femte generation af mobile netværk. Men det er ikke bare endnu et generationsskifte, understreger den amerikanske efterretningstjeneste i en fortrolig briefing til Det Hvide Hus.
+Overgangen fra 4G til 5G skal snarere sammenlignes med den revolution, indførelsen af Gutenbergs trykpresse indvarslede, skriver efterretningstjenesten i notatet, der tidligere på året blev lækket til det amerikanske netmedie Axios.
+»Hvem der end bliver teknologisk førende og markedsledende i udbredelsen af 5G, vil have en kolossal fordel i forhold til at styre udviklingen af tingenes internet og kunstig intelligens og vil således kontrollere hele informationsområdet«, hedder det.
+»Vi er ved at tabe«, konstateres det tørt. Hvor nordiske Ericsson og Nokia stod i spidsen for 3G, var det amerikanske Cisco, der førte an i 4G. Og alt tyder på, at kinesiske Huawei vinder kampen om 5G.
+Men hvad er det, der gør 5G så revolutionerende, at det ligefrem kan sammenlignes med trykpressens indførelse?
+Det vigtigste er svartiden – den tid, der går, før kommunikationen kommer i gang. Med 5G kommer forsinkelsen ned under en tiendedel sekund. Dermed kan selvkørende biler orientere sig hurtigere end mennesker.
+Dertil kommer hastigheden. De mest avancerede 4G LTE-netværk kan i dag downloade 1.000 megabit i sekundet. 5G vil tidoble hastigheden.
+Det baner vej for, at helt nye og virkelig tunge tjenester som forstærket og virtuel virkelighed kan blive udbredt, fremgår det af en oversigt fra netværksoperatørernes internationale brancheorganisation, GSMA.
+De fire første generationer af mobile netværk rettede sig mod vores telefoner. Med 5G kan vi lægge smartphonen ned i kælderen ved siden kassettebåndoptageren og skrivemaskinen. Og i stedet gå ind i et helt nyt univers.
+Dialogen går direkte gennem kroppen og sanserne. Vi surfer ved at tale, flytte øjnene og bevæge os. Og modtager informationerne gennem et lag af kunstige sanseindtryk, i første omgang kun billeder og lyd, der bliver lagt ind over vores oplevelse af verden. Det gør os i stand til at se gennem mure og høre interessante historier om de ting, vi ser på. Eller få simultantolkning, når vi hører fremmede tungemål.
+Teknikken er stort set på plads. Vi mangler bare et netværk, der kan få den ud i virkeligheden.
+Samtidig bliver stort set alle fysiske produkter koblet til nettet, så de kan kommunikere med os og med hinanden.
+Og det går alt sammen gennem 5G-masterne. Den, der kan skaffe sig adgang til de informationer, der går gennem netværket, ved alt om, hvad der foregår i samfundet.
+»Simpelthen
+alt
+«, understreger Peter Kruse, grundlægger af sikkerhedsfirmaet CSIS.
+Snowdens dokumenter afslørede, at de amerikanske efterretningstjenester har installeret bagdøre i de amerikanske techfirmaers udstyr og software, herunder Cisco, der leverer netværksudstyr.
+Mistanken om, at Huawei forsyner den kinesiske efterretningstjeneste med data, er aldrig blevet bevist, selv om Huawei har underkastet sig en omfattende kontrol med alt udstyr og alle kildekoder. Det var en betingelse for at få adgang til det britiske og danske marked for 4G.
+Men der er ingen grund til at tro, at det ikke sker alligevel, siger Peter Kruse. Der findes masser af sikkerhedshuller og sårbarheder i Huaweis udstyr og software – det er der i alle de meget komplekse systemer. Og det er nærmest umuligt at føre bevis for, at sårbarhederne ikke er blot er resultatet af en menneskelig fejl, men bevidst er konstrueret som en bagdør, de kinesiske spioner kan komme ind igennem, forklarer han.
+»Man må gå ud fra, at bagdørene findes. Alle spionerer på alle. Der er så enorme økonomiske og sikkerhedspolitiske interesser i det. Spørgsmålet er kun, hvem vi helst vil dele vores data med«, siger Peter Kruse.
+Den store mængde data er ikke kun interessant for spionerne. De kommer også til at fodre den kunstige intelligens, der står til at trænge ind i stort set alle hjørner af vores tilværelse. Jo flere og bedre data, des mere intelligent og konkurrencedygtig bliver algoritmen.
+Kampen om at blive førende på markedet for udstyr til 5G afgør derfor også, hvem der sætter sig på den teknologiske udvikling i mange andre brancher, advarer den amerikanske efterretningstjeneste i den fortrolige briefing af Det Hvide Hus.
+Kina har lagt sig i spidsen i de tre afgørende discipliner: Udstyr til 5G, udvikling af kunstig intelligens og indsamling af data.
+Kina begynder den kommercielle udrulning til næste år og ventes fuldt klar i 2020. Samme år planlægger USA og Europa at begynde opbygningen af 5G, der skal være afsluttet i 2025.
+De amerikanske efterretningstjenester betragter den kinesiske trussel med så stor alvor, at man anbefalede regeringen at tage et – i USA – nærmest uhørt skridt: at nationalisere udviklingen af 5G-udstyret.
+Kineserne støtter Huawei massivt, og det er en af hovedforklaringerne på, at Huawei sætter sig på markedet. Hvis USA skal ind i kampen, må vi gøre det samme, lød argumentet.
+Men ifølge Axios’ kilder er den del af briefingen forældet. Efterretningstjenesten har indset, at nationalisering ikke kommer på tale.
+Hvad gør man så? De seneste måneder har amerikanske embedsmænd lagt pres på allierede over hele verden for at få dem til at nedlægge forbud mod, at Huawei leverer udstyr til deres 5G-netværk.
+En lang række lande har fulgt opfordringen, herunder Storbritannien.
+I Danmark er Huawei kørt i stilling til at bygge 5G for TDC og har allerede deltaget i de første tests. Chefen for Forsvarets Efterretningstjeneste, Lars Findsen, siger imidlertid, at Huawei er »kommet på radaren«.
+Jens Bostrup
+fortsæt med at læse
+Huawei-chef må skifte pas ud med fodlænke i Canada
+I kan stole på os:
+Kinesisk kæmpe sender dette brev til danske politikere i forsøg på at dæmpe frygt

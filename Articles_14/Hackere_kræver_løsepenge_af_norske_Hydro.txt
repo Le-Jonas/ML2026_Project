@@ -1,0 +1,13 @@
+Title: Hackere_kræver_løsepenge_af_norske_Hydro
+Date: 2019-03-19
+Article Type: Internationalt
+Author: Den norske tv-kanal NRK rapporterer, at hackere krævede løsepenge af norske Hydro efter et målrettet angreb på selskabets brugerdatabase.
+
+Hydro er en af verdens største aluminiumproducenter.
+Den norske myndighed for cybersikkerhed, Norcert, har samtidig udsendt en advarsel til en række af Hydros samarbejdspartnere om angrebet.
+Ifølge oplysningerne er der ved hackerangrebet anvendt en virus, som hedder 'Lockergoga', som gør alt indhold på de angrebne computere utilgængeligt.
+Myndigheden for cybersikkerhed opfordrer andre til at melde ind, hvis andre virksomheder har oplevet tilsvarende hændelser.
+Det er et ransomware-angreb, som virksomheden angiveligt er blevet udsat for.
+Ransomware åbner en dør til offerets data eller gør systemer utilgængelige, og bagmændene kræver en løsesum for at gøre disse tilgængelige igen.
+Hydro, der har 36.000 ansatte i 40 lande, har endnu ikke kommenteret hændelsen, men holder pressekonference klokken 15.
+ritzau

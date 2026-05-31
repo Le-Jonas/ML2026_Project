@@ -1,0 +1,48 @@
+Title: Kritikere_frygter,_dataetik_er_mere_ord_end_handli
+Date: 2019-02-04
+Article Type: Tech
+Author: Erhvervsministeren præsenterer torsdag otte dataetiske tiltag, der skal hjælpe forbrugere og virksomheder.
+
+Emil Valdimarsson
+Redaktør
+Tilbage i november præsenterede en af Erhvervsministeriet nedsat ekspertgruppe ni dataetiske anbefalinger, som de mente, Regeringen burde lytte til. Og lytte, det har de gjort.
+Fakta
+De otte dataetiske tiltag
+Etablering
+af et uafhængigt Dataetisk Råd
+Indføre et
+lovkrav om erklæring af virksomheders dataetiske politik
+Indføre et
+dataetisk mærke
+Gennemføre
+et nationalt dataetisk vidensløft
+Udarbejdelse af en
+dataetisk værktøjskasse
+Danmark skal
+være frontløber for dataetik
+Følge udviklingen
+med nye innovative virksomheder med forretningsideer med etisk dataanvendelse
+Undersøge muligheden
+for styrket fokus på dataetik i offentlige indkøb
+Kilde: Erhvervsministeriet
+På torsdag kan erhvervsminister Rasmus Jarlov (K) på Disruptionrådets afsluttende møde nemlig fortælle, at regeringen kommer med otte dataetiske tiltag.
+Politiken har set de otte tiltag. De fleste tiltag er en videreudvikling af ekspertgruppens anbefalinger og indeholder blandt andet oprettelsen af et uafhængigt dataetisk råd, indførelse af et dataetisk mærke samt midler til, at Danmark kan blive international frontløber, når det kommer til dataetik.
+Fælles for alle tiltagene, undtagen et, er, at virksomhederne helt frivilligt kan følge dem eller lade være, fortæller erhvervsminister Rasmus Jarlov.
+»Det er meget lidt, vi presser ned over hovedet på virksomhederne, så det kræver selvfølgelig, at virksomhederne skal kunne se relevansen af det, før at det bliver en succes. Efter min opfattelse er der ret stor opmærksomhed på dataetik, og mange virksomheder ser det som en potentiel konkurrencefordel, hvis de kommer forrest med at beskæftige sig med dataetik«, siger han til Politiken.
+I maj sidste år trådte Databeskyttelsesforordningen (GDPR) i kraft. Virksomheder skulle nu leve op til en række nye lovkrav vedrørende databehandling. De dataetiske tiltag skal ses som en række ekstra tiltag, virksomhederne kan vælge at leve op til.
+Håbet er, at det bliver en konkurrencefordel for virksomheder at være åbne omkring, hvordan de behandler data, og at de behandler dem ordentligt.
+Tiltagene glæder Forbrugerrådet Tænks datajurist, Anette Høyrup.
+»Det er et meget positivt udspil. Det er fint med nogle konkrete initiativer, og jeg tror, det er helt rigtigt set af ministeriet, at vi skal sikre forbrugernes tillid fremadrettet, for ellers får vi ikke innovation og vækst«, siger Anette Høyrup.
+Hun frygter dog, at virksomhederne for let kan ignorere eller undgå at leve op til de dataetiske tiltag, de indfører.
+»Dataetik handler ikke blot om at overholde loven, men om reelt at give forbrugeren mulighed for at forstå, hvordan virksomhederne arbejder, og hvordan de bruger data. Virksomhederne skal ønske at give forbrugerne nogle reelle valg og stoppe med at indhente pseudosamtykker. Det er ambitiøse tiltag, og det er noget, der skal arbejdes virkelig meget med for at sikre, at det ikke bare bliver gode ord«, siger Anette Høyrup.
+Erhvervsminister Rasmus Jarlov er klar over, at tiltagene ikke bliver en succes, såfremt virksomhederne ikke ønsker at leve op til dem.
+»Det er klart, at det skal drives af, at virksomhederne skal kunne se fordelen i det, fordi der overvejende er tale om frivillige tiltag. Forventningen er, at der vil være efterspørgsel efter de her redskaber og værktøjer, som bliver stillet til rådighed for dem, og at de vil bruge dem. Men vi må se, hvordan det går i det kommende stykke tid«, siger erhvervsministeren.
+Pernille Tranberg, der er medgrundlægger af den dataetiske tænkehandletank DataEthics.eu, har fulgt udviklingen i sagen, siden Erhvervsministeriet nedsatte den dataetiske ekspertgruppe sidste år, og som hendes kollega i øvrigt bidrog til.
+Nu, hvor tiltagene er klar, ærgrer hun sig over, at Erhvervsministeriet ikke har fulgt op på ekspertgruppens to sidste anbefalinger, der handler om medfinansiering af dataetiske startups, og at det offentlige skal købe dataetisk ind. De to punkter er nu så vage, at de ikke får nogen betydning, mener Pernille Tranberg.
+»Først og fremmest ros for, at de gør noget. Det er fantastisk, at de følger op på anbefalingerne, og et dataetisk råd er en rigtig god idé. Når det er sagt, er jeg rigtig ked af, at de ikke har de to sidste oprindelige punkter med. For hvis Danmark nogensinde skal blive et foregangsland inden for dataetik, skal vi skabe nye, dataetiske virksomheder ved at medfinansiere dem og købe ind hos dem«, siger Pernille Tranberg og fortsætter:
+»Hvis vi gjorde det, arbejdede man sig i den rigtige retning, og så ville Danmark inden for få år komme på forkant. Det kommer vi ikke til nu, er jeg bange for. Vi risikerer, at det er mere ord end handling, eller at staten bare gentager det arbejde, som andre allerede har lavet«.
+Emil Valdimarsson
+fortsæt med at læse
+Jarlov opretter dataetisk råd:
+Syltekrukke eller en helt ny dagsorden?
+Regeringen reducerer dataetik til erhvervspolitik

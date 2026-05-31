@@ -1,0 +1,32 @@
+Title: Kommune_advarer_Fortrolige_oplysninger_om_20.000_
+Date: 2018-12-11
+Article Type: Danmark
+Author: Tyveri af en computer i Gladsaxe afslører en overtrædelse af dataloven. Cpr-numre og andre fortrolige data på 20.000 borgere er faldet i hænderne på tyven.
+
+Jakob Sorgenfri Kjær
+Journalist
+Fortrolige oplysninger om 20.000 borgere er ved en fejl blevet gemt i et regneark lokalt på en computer i Gladsaxe Kommune.
+Computeren blev i weekenden mellem 30. november og 3. december stjålet fra rådhuset under et indbrud. Dermed er 20.000 borgeres fortrolige data faldet i forkerte hænder.
+Der er tale om personnummer, alder, køn, adresse, familiære forhold og i nogle tilfælde kommunale ydelser, oplysninger om botilbud samt medlemskab af folkekirken.
+Det fremgår af en orienteringsskrivelse, som Gladsaxe Kommune mandag sendte til berørte borgere:
+»Oplysningerne på kommunens computere er beskyttet via tekniske og organisatoriske sikkerhedsforanstaltninger. Foranstaltninger, som også beskytter oplysningerne, hvis vi mister vores computere ved tyveri eller ved et hændeligt uheld. Men i dette tilfælde indeholdt én af disse computere dog undtagelsesvis et regneark med fortrolige oplysninger, som ved en menneskelig fejl var gemt midlertidigt lokalt på computeren«, lyder det i skrivelsen til borgerne.
+Det er uklart, om der kun er tale om Gladsaxe-borgere. Regnearket med oplysninger skulle bruges til en halvårlig kontrol af den økonomiske afregning mellem Gladsaxe og andre kommuner«.
+Kommunen har meldt sagen til Datatilsynet og politiet. Der er øjensynligt tale om en åbenbar overtrædelse af datalovgivningen. Med indførelsen af databeskyttelsesforordningen GDPR kan kommuner blive straffet med væsentlige bøder for grove overtrædelser.
+Kommunen fortsætter i sin orienteringsskrivelse:
+»Vi ser med stor alvor på hændelsen og skal beklage, at vi har mistet fortrolige oplysninger om dig og andre borgere. Vi har i forbindelse med den nye databeskyttelsesforordning gjort en stor indsats for blandt andet at informere og instruere ledere og medarbejdere om deres ansvar i forbindelse med behandling af persondata. Samtidig vil erfaringerne fra denne hændelse blive brugt til endnu engang at indskærpe over for alle medarbejdere, hvordan de håndterer dine og andre borgeres data på en sikker og forsvarlig måde«.
+Politiken har talt med en af de Gladsaxe-borgere, hvis fortrolige persondata er blevet lækket. Han modtager sygedagpenge fra kommunen og er bekymret over, at nogle kriminelle typer nu ligger inde med hans fortrolige oplysninger.
+»Med de oplysninger i de forkerte hænder kan man blive holdt som gidsel af nogle ubehagelige typer, eller de kan bruges til identitetstyveri«, siger Rasmus med henvisning til de udbredte kriminalitetsformer, som følger af lækkede personoplysninger.
+Han er samtidig fortørnet over, at Gladsaxe Kommune ikke har passet bedre på de fortrolige oplysninger, som borgerne i vid udstrækning deler digitalt.
+»Databeskyttelsesloven er blevet indført for at få styr på sikkerheden om borgernes private oplysninger. En kommune burde være foregangssted, så at de ikke har haft styr på databeskyttelsesloven er da noget bekymrende«, siger Rasmus, der ikke ønsker sit efternavn frem.
+I en pressemeddelelse tirsdag skriver Gladsaxe Kommune, efter at have rådført sig med en unavngiven it-sikkerhedsekspert, at »sikkerhedsrisikoen vurderes som lille«:
+»I denne sag er der alene tale om tyveri af en computer og ikke, at oplysninger har været tilgængelige for en bredere offentlighed. Derfor er harddisken og dermed oplysningerne efter al sandsynlighed blevet slettet med henblik på videresalg af computeren«, skriver kommunen.
+Kommunaldirektør Bo Rasmussen beklager hændelsen:
+»Jeg er rigtig ærgerlig over, at det her kunne ske. Det er vanskeligt at gardere sig helt mod tyveri og menneskelige fejl. Men vi har de seneste måneder gjort en massiv indsats for at oplyse vores ledere og medarbejdere om, hvordan de håndterer fortrolige oplysninger på en sikker måde ifølge de nye datasikkerhedsregler. Og så sker det her alligevel. Det er ikke godt nok«, siger Bo Rasmussen.
+Bo Rasmussen tilføjer, at han »håber, at der er tale om et brugstyveri, hvor harddisken er blevet slettet umiddelbart efter tyveriet med henblik på videresalg af computeren«.
+Den berørte borger Rasmus hæfter sig ved, at kommunen nu oplyser offentligheden og dermed også tyven om, at den stjålne computer kan være mere værd:
+»Kommunen kan jo ingen garantier give i forhold til, at de her oplysninger falder i de forkertes hænder. Særligt når det nu kommer frem. Så finder tyven jo ud af, at han i stedet for kun at sælge computeren for 1.500 kroner kan videresælge indholdet til en større sum«, siger Rasmus.
+Kommunen vil nu søge at sikre, at erfaringerne fra hændelsen bliver brugt til igen at indskærpe over for medarbejderne, hvordan de håndterer borgernes oplysninger på en sikker måde. Samtidig vil kommunaldirektøren se på mulighederne for at kryptere kommunens computere samt sætte en undersøgelse i gang af, om adgangen til rådhuset kan sikres bedre.
+Jakob Sorgenfri Kjær
+fortsæt med at læse
+Hvem vil styre, om velfærdsstaten skal være mere ligesom Facebook?
+Regeringen tvinges til at indføre demokratisk kontrol med datadeling

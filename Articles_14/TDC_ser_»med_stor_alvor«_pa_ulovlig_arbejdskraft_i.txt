@@ -1,0 +1,40 @@
+Title: TDC_ser_»med_stor_alvor«_pa_ulovlig_arbejdskraft_i
+Date: 2019-02-05
+Article Type: Danmark
+Author: Telegigantens kinesiske partner har to gange på under fire år overtrådt den danske udlændingelovgivning. TDC har før fyret Huaweis underleverandør for løndumping.
+
+Jakob Sorgenfri Kjær
+Journalist
+I milliardkontrakterne mellem TDC og Huawei er det, ifølge tidligere udmeldinger, indskrevet, at alle leverandører og underleverandører skal leve op til danske krav og regler.
+Men den kinesiske virksomhed er i nu to tilfælde blevet grebet af myndighederne i at bruge ulovlig udenlandsk arbejdskraft.
+Først blev Huawei givet to bøder i 2015 for at forbryde sig mod udlændingelovgivningens regler. Og trods forsikringer om bod og bedring dengang er to kinesere nu blevet udvist af Danmark efter at have arbejdet for Huawei uden lovlig arbejds- og opholdstilladelse.
+De to kinesiske arbejdere blev i torsdags snuppet af Københavns Politi under en kontrolaktion på Huaweis hovedkontor i Københavns Sydhavn. Det er lokaliteter, som firmaet lejer af TDC, der selv har sit hovedkontor et stenkast derfra.
+Politiken har stillet en række spørgsmål til TDC om, hvordan firmaet kontrollerer sin partner og forholder sig til det kinesiske firmas nu gentagne brug af ulovlig arbejdskraft.
+TDC svarer ikke på de specifikke spørgsmål, men skriver i en kort kommentar:
+»Vi er naturligvis orienteret om sagen hos Huawei, som vi ser på med stor alvor og følger tæt«.
+»TDC Group forventer, at vores underleverandører lever op til dansk lovgivning og følger gældende overenskomster. Det stiller vi også krav om i vore aftaler og kontrakter med vore underleverandører«, oplyser TDC, der på nuværende tidspunkt ikke har yderligere kommentarer.
+TDC indgik med virkning fra 2014 en 6-årig leverandøraftale til 4 milliarder kroner med Huawei om at drive og udvikle Danmarks største mobilnetværk, 4G-nettet, og i 2016 skrev TDC så under på en 6-årig kontrakt med Huawei om at levere udstyr og sikre kapaciteten af TDC’s kabelnet.
+Netop på leverancen til kabel tv-nettet har TDC tidligere fyret Huaweis serbiske underleverandør Roaming Networks, der blev taget i løndumping. Arbejderne fik blandt andet ikke betaling for overarbejde og natarbejde, afslørede
+DR
+i 2017.
+I en udtalelse dengang, som Huawei erklærede sig enig i, lød det fra TDC:
+»Vi har indskrevet kravet om at leve op til danske arbejdsforhold i vores kontrakter, fordi det er afgørende for os. I dette tilfælde er der for stor usikkerhed om medarbejdernes forhold, og derfor kan Roaming Networks ikke udføre arbejde for TDC Group«.
+Huawei skrev 10. december et åbent brev til Folketinget, hvori virksomhedens administrerende direktør forsikrede de folkevalgte om, at firmaet efterlever alle danske love og regler.
+Det skete for at imødegå det voksende pres i den vestlige verden på Huawei efter spionagemistanker og frygt for kinesisk forstyrrelse af kritisk infrastruktur.
+Regeringen har oplyst, at den af sikkerhedspolitiske årsager overvejer skridt til at begrænse Huawei fra leverancer til kritisk infrastruktur, såsom det kommende 5G-telenetværk. Foruden TDC samarbejder også teleselskabet 3 med Huawei om sit telenetværk, og 5G-netværket er allerede i en testfase.
+I Folketinget er flere partier også foruroliget over Huaweis hænder på den kritiske infrastruktur. SF’s it- og erhvervsordfører har ikke på noget tidspunkt stolet på Huaweis forsikringer i brevet fra december.
+»Og den nye sag med brug af ulovlig arbejdskraft viser med al tydelighed, at de i hvert fald har løjet i den forbindelse, så hvad kan der ellers ikke gemme sig. Forsvarsministeren sagde på et samråd, at regeringen vil kigge på, hvad den kan gøre. Det vil jeg give den tid til, men der kommer et samråd igen, for vi skal vide, hvordan der følges op på Huawei, og virksomhedens brug af ulovlig arbejdskraft kommer også til at spille ind«, siger Lisbeth Bech Poulsen.
+Hun peger på, at der er en sammenhæng til spionagemistankerne og Huaweis tråde til den kinesiske stat på den måde, at en væsentlig del af sikkerheden er at have styr på, hvem der arbejder for virksomheden, og hvad de laver.
+DR Dokumentar og Politiken
+afdækkede
+i 2015, hvordan Huawei havde medarbejdere gående i TDC’s driftsovervågningscenter uden de fornødne sikkerhedsgodkendelser.
+»Man kan ikke tage for gode varer, hvad Huawei siger og gør, og hvordan hænger det så sammen med de sikkerhedsprocedurer, som Center for Cybersikkerhed skal se tilse bliver overholdt«, siger Lisbeth Bech Poulsen.
+Hun mener ligeledes, at TDC har et stort ansvar for at føre løbende kontrol med sin underleverandør:
+»TDC må jo have en kontrakt med Huawei, hvor noget så grundlæggende som at overholde danske love og regler om arbejdskraft må være indskrevet. Det bliver spændende at se, hvad TDC har af sanktionsmuligheder over for Huawei. Der burde jo være ekstra fokus på Huawei og deres arbejdere i Danmark, nu det er så kontroversielt et selskab«.
+Politiken har stillet en række spørgsmål til Huawei om, hvordan firmaets tidligere forklaringer om bod og bedring hænger sammen med de nye udvisningssager samt det åbne brev til Folketinget. Huawei svarer ikke på spørgsmålene, men skriver alene i en kort udmelding på engelsk:
+»Vi kan bekræfte, at de danske myndigheder har gennemført en rutinemæssig visumkontrol, snarere end en egentlig efterforskning af nogen art. Og vi samarbejder med myndighederne, hvilket vi altid gør«, lyder det via Huaweis eksterne kommunikationsbureau Radius.
+Jakob Sorgenfri Kjær
+fortsæt med at læse
+Udelukkelse af Huawei kan forsinke fremtidens internet
+Banedanmark annullerer sin nye kontrakt med Huawei-udstyr
+Huaweis salgschef i Polen anholdt for spionage

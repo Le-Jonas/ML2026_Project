@@ -1,0 +1,20 @@
+Title: Landsret_Teleselskaber_kan_afvise_at_udlevere_data
+Date: 2018-05-07
+Article Type: Tech
+Author: Teleselskaber er ikke forpligtede til at udlevere oplysninger om deres kunder, selv om kunderne er mistænkt for at have brugt ulovlige tjenester til download eller deling af film på nettet. Det slår Østre Landsret fast.
+
+Kundernes ret til at beskytte personlige oplysninger vejer tungere end film- og serieindustriens muligheder for at beskytte ophavsret, lyder det.
+Landsretten når dermed frem til det modsatte resultat af Retten på Frederiksberg i oktober sidste år.
+DOKUMENTATION
+Læs landsrettens afgørelse her
+Sagen handler om, hvorvidt Telenor og Telia i Danmark kan pålægges at udlevere oplysninger om kunderne til et selskab, der repræsenterer rettighedshaverne af de pågældende film. Anmodningerne drejede sig om cirka 4000 ip-adresser.
+Telia og Telenor indbragte sagen for retten. De mener, at borgernes retssikkerhed ville blive krænket unødigt, hvis de udleverede oplysningerne.
+Det er blandt andet advokatfirmaerne Opus og Njord, der i de seneste år har øget presset på brugerne af de ulovlige hjemmesider.
+Med trusler om retssager tilbydes telekunder, hvis ip-adresser har tilgået de ulovlige sider, et forlig på 2200 kroner.
+Hos Telia mener administrerende direktør Morten Bentzen, at landsrettens kendelse er en sejr for databeskyttelse af telekunder.
+»I Danmark er teleselskaberne forpligtet til at logge rigtigt mange personlige oplysninger om vores kunder. Det er et meget stort ansvar, som vi i Telia tager meget seriøst«.
+»Vi udleverer kun data om vores kunder til politiet og kun, hvis der foreligger en dommerkendelse«, siger Morten Bentzen i en pressemeddelelse.
+»Formålet med lovgivningen er terrorbekæmpelse og bekæmpelse af grov kriminalitet. Telia skal ikke udlevere vores kunders data til andre formål«, siger han.
+Samme melding kommer fra Telenor Danmark.
+»Vi og andre danske teleselskaber er pålagt at logge kundedata for, at politiet kan bekæmpe grov kriminalitet og terror - men lovgivningen har bare ikke været klar nok i forhold til anvendelsen af logget data«, siger juridisk direktør Mette Eistrøm Krüger.
+ritzau

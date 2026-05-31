@@ -1,0 +1,15 @@
+Title: Nye_computerprogrammer_skal_beskytte_USA's_valgkam
+Date: 2019-08-26
+Article Type: Internationalt
+Author: USA's regering har planer om snart at lancere et ny computerprogram, som skal beskytte databaser og datasystemer i forbindelse med registrering af vælgere forud for præsidentvalgkampen i 2020.
+
+Russiske hackere kom til at sætte præg på den amerikanske valgkamp i 2016. Det er frygten for udenlandsk indblanding, som er baggrunden for udviklingen af de nye programmer.
+Efterretningstjenester oplyser, at udenlandske hackere i 2020 ikke kun er en trussel mod databaser, men også vil kunne manipulere eller ødelægge data.
+»Vi vurderer, at der er en stor risiko mod disse systemer, som ofte bruges ved vurderingen af vælgere, når de skal registreres som vælgere«, siger en amerikansk embedsmand.
+Sikkerhedsorganet Cisa er underlagt indenrigsministeriet. Det frygter, at hackere vil bruge ransomware - en type virus, som kan bruges til at afpresse personer ved at blokere deres computersystemer.
+»Vi har for nylig set eksempler på dette hos delstatsregeringer«, siger Christopher Krebs, som er Cisas direktør.
+»Derfor arbejder vi tæt sammen med valgtilforordnede og deres partnere for at beskytte deres databaser mod potentielle ransomware-angreb, siger han.
+Bestræbelserne på at forhindre ransomware-angreb i cyberspace ledsages af andre initiativer, hvor der tages bestik af, hvilke andre områder, som kan blive mål for digitale angreb under valgkampen op til valget i november næste år.
+FBI siger i en erklæring, at myndighederne må begrænse adgangen til informationer om valgsystemer og administrative processer.
+I de seneste par år har kriminelle i cyberspace og store hackergrupper på vegne af nationalstater brugt ransomware til at skabe kaos og til at afpresse ofre.
+ritzau

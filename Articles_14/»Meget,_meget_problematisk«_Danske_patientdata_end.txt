@@ -1,0 +1,25 @@
+Title: »Meget,_meget_problematisk«_Danske_patientdata_end
+Date: 2019-06-21
+Article Type: Danmark
+Author: It-medarbejdere i USA har adgang til alle patientjournaler fra Sundhedsplatformen. Myndighederne har svigtet, mener eksperter.
+
+Carl Emil Arnfred
+Journalist
+En større gruppe amerikanske it-medarbejdere har adgang til dybt personlige oplysninger om patienter i hovedstaden og på Sjælland.
+Det fremgår af en rapport om beskyttelse af persondata i Sundhedsplatformen fra advokatfirmaet Bech-Bruun, som Politiken har fået aktindsigt i.
+Rapporten kaster lys over 22 punkter, som indebærer en potentiel risiko for privatlivet, hvoraf »overladelse af personoplysninger til tredjelande« er markeret med rødt og kategoriseres som en trussel, hvor »personer kan opleve betydelige konsekvenser«.
+»Supportmedarbejdere hos Epic i England og USA har adgang til personoplysninger på patienter og ansatte i Sundhedsplatformens produktionsmiljø«, skriver Bech-Bruun i rapporten, som er bestilt af Region Hovedstaden og Region Sjælland.
+Sundhedsplatformen er en elektronisk journal, som skulle gøre det lettere for læger og plejepersonale at behandle patienterne. Men på baggrund af Bech-Bruun-rapporten vurderer flere eksperter, at sundhedsmyndighederne har taget alt for let på patientdatasikkerheden.
+»Jeg er rystet over, at det har kunnet ske. Jeg havde ikke forestillet mig, at man kunne gå så langt, at man stiller borgernes helbredsoplysninger til rådighed for nogen, som skal udføre en servicefunktion i et usikkert tredjeland«, siger lektor i sundhedsret Kent Kristensen fra SDU.
+Professor Thomas Ploug, som forsker i it- og medicinsk etik på Aalborg Universitet, kalder sagen »meget, meget problematisk«.
+»Det viser, at Sundhedsplatformen udgør en betydelig risiko for patienter og også de ansattes privatliv«, siger han.
+I Danmark er sundhedsdata beskyttet af EU-databeskyttelsesforordningen. Problemet med, at personlige sundhedsoplysninger sendes til USA, er, at der ikke er den samme kontrol og sanktionsmulighed, fortæller lektor Kent Kristensen.
+»Det er overordentlig kritisabelt. Det betyder, at de danske myndigheder har afgivet kontrol med alle de følsomme oplysninger, som de har indsamlet«, siger han.
+I august 2018 havde 152 Epic-medarbejdere adgang til Sundhedsplatformen. Af Bech-Bruun-rapporten fremgår det, at der generelt er »givet adgang til de supportmedarbejdere hos Epic, som har bedt om adgang til produktionsmiljøet«. Dette miljø indeholder oplysninger om patienter og personale i Danmark, »da der er tale om den version, som anvendes ’live’ ude på hospitalerne«, lyder det.
+Det har ikke været muligt at få en kommentar fra regionsrådsformand Sophie Hæstorp Andersen (S). Men Region Hovedstaden tager Bech-Bruun-rapporten »meget alvorligt«.
+»Det er rigtigt, at de har adgang til personoplysninger. Der er dog langtfra tale om en ubegrænset adgang, hvor Epic-medarbejderne har frit lejde til se på data. Epic-medarbejderne må kun tilgå data, hvis de bliver bedt om det af en af de to regioners medarbejdere«, siger vicedirektør Pia Kopke fra Region Hovedstadens Center for It, Medico og Telefoni og tilføjer, at it-medarbejderne kun må se på data, som er nødvendige for at løse en sag.
+Er der Epic-medarbejdere i USA, som i princippet har adgang til alle journaler i Sundhedsplatformen?
+»Ja, det er korrekt, at et begrænset antal Epic medarbejdere kan se alle data«, siger hun.
+Datatilsynet har indledt en undersøgelse af sagen, som endnu ikke er afsluttet.
+Carl Emil Arnfred
+fortsæt med at læse

@@ -1,0 +1,9 @@
+Title: »Jeg_er_rystet«,_siger_ekspert_Kontrollen_med_Dan
+Date: 2019-07-18
+Article Type: Danmark
+Author: Center for Cybersikkerhed mister sin kontrolfunktion, når Ericsson rykker driften af TDC’s telenetværk til Bukarest. Stærkt kritisabelt, mener eksperter.
+
+Sebastian Stryhn Kjeldtoft
+Undersøgende redaktør
+Opgaven med at overvåge tre millioner danskeres mobilnetværk, heriblandt alle statens mobiltelefoner, bliver 31. august udflyttet til Rumænien. Det sker for at spare på omkostningerne, når Ericsson overtager driften af TDC’s telenetværk.
+Udflytningen medfører, at Center for Cybersikkerhed ikke længere kan stille krav om at sikkerhedsgodkende alle de ansatte, som håndterer de mest følsomme dele af netværket, eller komme på uanmeldte kontrolbesøg.

@@ -1,0 +1,21 @@
+Title: KL_politianmelder_hackerangreb_40.000_navne_er_lækket
+Date: 2018-06-09
+Article Type: Danmark
+Author: Kommunernes Landsforening (KL) har politianmeldt et hackerangreb på kommuneforeningens hjemmeside.
+
+Det er lykkedes ukendte hackere at få fingre i en database med 40.000 brugere af hjemmesiden kl.dk og Dialogportalen, som er et forum for faglig sparring.
+»Vi anser det for at være meget alvorligt. De mennesker, der går ind og laver et login på vores hjemmeside, skal kunne føle sig trygge, så vi tager det meget alvorligt«, siger KL's kommunikationschef Ida Thuesen.
+Rigspolitiet rettede fredag henvendelse til KL, da man havde fået nys om, at oplysningerne fra databasen var sat til salg på internettet.
+Det fik KL til at skrive ud til alle brugere og nulstille deres adgangskoder.
+Brugerne af kl.dk og Dialogportalen er hovedsageligt kommunalpolitikere og kommunalt ansatte, der abonnerer på en række nyhedsbreve.
+I den forbindelse har de afgivet oplysninger om navn, stilling, arbejdssted, mailadresse, telefonnummer og adgangskode.
+Det er disse oplysninger, som hackerne har fået adgang til.
+Der er ingen personfølsomme oplysninger som eksempelvis cpr-numre eller bankoplysninger, som er blevet hacket.
+Alligevel tager KL sagen meget alvorlig og vil nu bede en systemleverandør om en redegørelse.
+»Vi havde bedt vores systemleverandør om at få brugernes passwords krypteret. Det var de ikke, og nu vil vi have undersøgt, hvorfor det ikke er sket«, siger Ida Thuesen.
+Det er første gang, at KL oplever at blive offer for datakriminalitet.
+»Vi har faktisk et ret højt sikkerhedsniveau og fik for over en måned siden alle vores sikkerhedsforanstaltninger gennemgået«.
+»I den forbindelse højnede vi nogle niveauer, og implementerede alle de forslag, leverandøren kom med«, siger Ida Thuesen.
+»Vi vil selvfølgelig kigge på det igen og se, om vi kan sikre os yderligere«, siger kommunikationschefen.
+Hackerangrebet er blevet politianmeldt, og derudover har KL informeret Center for Cybersikkerhed og Datatilsynet om sagen.
+ritzau

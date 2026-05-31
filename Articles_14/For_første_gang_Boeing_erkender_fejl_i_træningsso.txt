@@ -1,0 +1,20 @@
+Title: For_første_gang_Boeing_erkender_fejl_i_træningsso
+Date: 2019-05-19
+Article Type: Rejser
+Author: Boeing erkender fejl i den software, som piloter har brugt til at træne manøvreringen af 737 MAX-fly.
+
+Det oplyser den amerikanske flyproducent i en pressemeddelelse lørdag.
+»Boeing har lavet korrektioner til 737 MAX-simulationssoftwaren og har tilføjet yderligere informationer til piloterne for at sikre, at den simulerede oplevelse er repræsentativ i forhold til forskellige flyveforhold«, hedder det i meddelelsen.
+Boeing oplyser ikke, hvornår selskabet første gang er blevet opmærksom på problemet.
+Det er første gang, at Boeing anerkender, at der har været fejl i software, der har forbindelse til 737 MAX-fly.
+Efterforskere mistænker fejl i denne flytypes advarselssystem for at stå bag to tragiske flystyrt med 737 MAX-fly det seneste år, hvor i alt 346 personer har mistet livet.
+Ifølge Boeing har den software, som piloterne bruger til at træne manøvreringen af 737 MAX-fly, ikke formået at simulere de flyveforhold, som minder om dem ved de to styrt.
+Men de seneste ændringer vil 'forbedre simulationen', lyder det fra Boeing.
+Det er en ændring i 737 MAX-flyenes advarselssystem, som menes at være årsag til de to ulykker.
+Advarselssystemet var designet til at advare piloter, hvis en af flyets sensorer leverede mangelfulde eller fejlagtige data til cockpittet om flyets hældning i luften.
+Men Boeing oplyste i begyndelsen af maj, at man måneder inden flyets debut i 2017 vidste, at advarselssystemet kun virkede, hvis man installerede en indtil nu valgfri funktion.
+Boeing understregede dog i udtalelsen, at ændringen ikke havde udgjort en selvstændig sikkerhedsrisiko.
+Den amerikanske luftfartsmyndighed, FAA, er som udgangspunkt enig i den konklusion, men har alligevel rettet kritik mod Boeing for ikke at varsle flyselskaber og piloter om ændringen.
+ritzau
+fortsæt med at læse
+Boeing er forsinket – ulykkesfly kommer ikke i luften til tiden

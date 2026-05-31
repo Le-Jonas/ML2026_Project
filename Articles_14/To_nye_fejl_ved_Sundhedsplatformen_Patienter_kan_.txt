@@ -1,0 +1,19 @@
+Title: To_nye_fejl_ved_Sundhedsplatformen_Patienter_kan_
+Date: 2018-12-24
+Article Type: Sundhed
+Author: Det udskældte it-system Sundhedsplatformen kan skrive to nye fejl på listen over medicinfejl.
+
+Det fremgår af en orientering til politikerne i Region Hovedstaden, som blev udsendt i fredags,
+skriver DR København.
+Den mest omfattende fejl minder om en fejl, der blev afsløret i oktober.
+Dengang kom det frem, at Sundhedsplatformen i flere tusinde tilfælde var skyld i, at der kom forkerte mærkater på de pilleglas, patienter hentede på apoteket.
+Selv om man troede, at fejlen var lukket, viser det sig, at også recepter, der ikke er oprettet i Sundhedsplatformen, er ramt af fejlen.
+Det drejer sig om recepter oprettet i Det Fælles Medicinkort, når lægen efterfølgende ændrer i dosis i Sundhedsplatformen.
+Fejlen betyder, at yderligere 5.700 recepter og lægeordinationer gennem det seneste halve år kan være fejlbehæftede, skriver DR København.
+Derfor kan et stort antal patienter i Region Hovedstaden forvente at blive kontaktet i den kommende tid. Det skal tjekkes, om de har taget skade af fejlen.
+Fejlen har været i systemet, siden det blev lanceret i marts 2016. Regionen vil kun undersøge patienter fra det seneste halve år.
+DR København har ikke kunnet få svar fra Region Hovedstaden på, om det også skal undersøges, om patienter er afgået ved døden som følge af fejlen.
+Den anden fejl handler om lægemidlerne Metoprolol og Seretide. 593 lægeordinationer og recepter og i alt 334 patienter er ifølge DR København ramt af denne fejl.
+Regionen troede egentlig, at sagen var lukket, men det har vist sig, at fejlen stadig spøger.
+ritzau
+fortsæt med at læse

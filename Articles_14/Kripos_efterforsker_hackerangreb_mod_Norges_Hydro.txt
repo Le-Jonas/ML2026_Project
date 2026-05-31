@@ -1,0 +1,17 @@
+Title: Kripos_efterforsker_hackerangreb_mod_Norges_Hydro
+Date: 2019-03-20
+Article Type: Internationalt
+Author: Det norske politis særlige afdeling for efterforskning af organiseret kriminalitet, Kripos, efterforsker et omfattende hackerangreb mod selskabet Hydro.
+
+Det oplyser chefen for politiets sikkerhedstjeneste i Norge, Benedicte Bjørnland. Hydro blev tirsdag angrebet med krypteringsvirus, der også kendes som løsepengevirus.
+Benedicte Bjørnland ser ikke umiddelbart tegn på en statslig aktør bag angrebet. Derfor er det Kripos og ikke Politiets Sikkerhedstjeneste, som står for efterforskningen.
+»Politiets job er på samme måde som ved anden alvorlig kriminalitet at klarlægge den strafbare handling bedst muligt. Det sigter på at strafforfølge de personer, som står bag«, siger politiadvokat Knut Jostein Sætnan i Kripos i en pressemeddelelse.
+Der er endnu ingen oplysninger om, hvem der står bag angrebet mod Hydro.
+Hydros netværk af computere blev angrebet med krav om løsepenge.
+Selskabet er en af verdens største producenter af aluminium. Hydro har 36.000 ansatte i 40 lande. Angrebet fik tirsdag prisen på aluminium til at stige rundt i verden.
+»Ved midnatstid mandag opdagede vores it-eksperter usædvanlige aktiviteter på serverne i vores globale it-system«, fortæller Hydros finansdirektør Eivind Kallevik.
+»Efter angrebet har vi arbejdet på at isolere og neutralisere virusset. Alle anlæg er isolerede. Det ser ikke ud til at have angrebet anlæg uden for Norge«, siger Kallevik.
+Den norske myndighed for cybersikkerhed, Norcert, har advaret en række af Hydros samarbejdspartnere om angrebet.
+Løsepengesoftware eller ransomware åbner en dør til offerets data eller gør systemer utilgængelige. Bagmændene kræver en løsesum for at gøre disse tilgængelige igen.
+ritzau
+fortsæt med at læse

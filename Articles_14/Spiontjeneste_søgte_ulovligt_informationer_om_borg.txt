@@ -1,0 +1,27 @@
+Title: Spiontjeneste_søgte_ulovligt_informationer_om_borg
+Date: 2019-07-16
+Article Type: Danmark
+Author: Det kniber for Forsvarets Efterretningstjeneste (FE) med at overholde reglerne for søgning efter personlige oplysninger.
+
+Det fremgår af en redegørelse, som Tilsynet med Efterretningstjenesterne (TET) tirsdag har offentliggjort. TET er et uafhængigt kontrolorgan.
+En kontrol af FE's indhentning af oplysninger i 2018 viser, at tjenesten 'i 13 procent af de udtrukne tilfælde uberettiget har foretaget søgning i rådata'.
+Dermed vurderer tilsynet, at Forsvarets Efterretningstjeneste 'fortsat' har en udfordring med at overholde reglerne om 'tilvejebringelse af oplysninger om i Danmark hjemmehørende personer'.
+I 2017 besluttede TET at skærpe kontrollen med FE. Den beslutning blev truffet, da det kom frem, at 12 procent af FE's søgninger på personer hjemmehørende i Danmark i 2016 havde været ulovlige.
+Begrebet 'hjemmehørende personer' omfatter danske og nordiske statsborgere og andre udlændinge, der har ret til ophold i Danmark, og som er tilmeldt folkeregistret.
+Om den aktuelle kontrol af FE's håndtering af personfølsomme oplysninger lyder det i redegørelsen:
+»Tilsynet noterer sig imidlertid, at fejlraten er nedbragt i forhold til resultatet af kontrollen af området i 2017, og at FE har et betydeligt fokus på at nedbringe antallet af fejl«.
+Sidstnævnte sker ved at øge den interne kontrol på området samt ved at styrke undervisningen af tjenestens medarbejdere.
+I redegørelsen skriver TET, at det i 2018 fik informationer, der tydede på, at det havde modtaget mangelfulde eller vildledende oplysninger i sin kontrol af FE. Derfor blev en ekstra kontrol sat i værk.
+Her kom det frem, at FE ikke havde orienteret tilstrækkeligt om sin måde at håndtere personfølsomme oplysninger.
+» Tilsynet finder FE's manglende orientering kritisabel«, skriver TET.
+Det særlige tilsyn har både undersøgt arbejdsgangen hos Forsvarets Efterretningstjeneste og Politiets Efterretningstjeneste (PET).
+I forbindelse med kontrollerne er det kommet frem, at PET ikke har indhentet retskendelse til at foretage indgreb i meddelelseshemmeligneden, når tjenesten har anmodet FE om at lave søgninger i rådata.
+'Meddelelseshemmeligheden' dækker over borgeres ret til at kommunikere med hinanden uden at blive overvåget.
+PET's og FE's praksis på omtrådet lå ikke inden for lovens rammer, konkluderede TET allerede sidste år. På den baggrund besluttede begge tjenester at stoppe den ulovlige overvågning i sommeren 2018.
+Hvad angår PET, påpeger TET, at tjenesten i et 'ikke ubetydeligt omfang' har undladt at overholde slettefristerne.
+PET skal ifølge lovgivningen slette personfølsomme oplysninger, som er indhentet under efterforskning, når der ikke i forbindelse med efterforskningen er indhentet nye oplysningen inden for de seneste 15 år.
+TET udgiver hvert år en redegørelse af sit tilsyn med efterretningstjenesterne.
+ritzau
+fortsæt med at læse
+Forsvarets Efterretningstjeneste har stadig ikke styr på it-sikkerheden
+Mulig blotlægning af udsendtes persondata: Det er dybt uforsvarligt

@@ -1,0 +1,28 @@
+Title: Skatteministeriet_taber_principiel_sag_om_flere_hu
+Date: 2019-01-31
+Article Type: Danmark
+Author: Skatteministeriet taber torsdag principiel sag om transfer pricing mod Microsoft i Højesteret. Det oplyser Højesteret på sin hjemmeside.
+
+Skatteministeriet mente, at Microsoft i Danmark ikke havde levet op til reglerne om transfer pricing og derfor havde haft en skattepligtig indkomst i perioden 2004-2007, der var flere hundrede millioner kroner lavere, end den burde være.
+»Højesteret fandt det ikke godtgjort, at honoreringen af Microsoft Danmarks markedsføringsaktiviteter ikke var sket på armslængdevilkår«, skriver Højesteret, der dermed stadfæster en tidligere dom fra landsretten.
+Sagen, der har kørt næsten ti år, handler om, at Skat har ment, at Microsoft i Danmark burde have fået betaling for markedsføring af produkter i Danmark solgt af Microsoft i Irland.
+Hvad er transfer pricing?
+Transfer pricing omhandler, hvordan et firma værdisætter varer og tjenester, når det handler med sig selv.
+* Her skal handler - hvis de skal kunne beskrives som transfer pricing - ske ud fra et armslængdeprincip. Det betyder, at priserne skal være fastsat som hvis aftalen var indgået mellem to uafhængige parter.
+* At det sker er afgørende i forhold til, hvor meget selskabet skal betale i skat - altså hvad den skattepligtige indkomst er i et land.
+* Det er det, fordi prisen, der bliver betalt mellem forbundne selskaber, afgør, hvor stort overskuddet er i de enkelte selskaber. Og altså, hvad der skal betales i skat.
+* Transfer pricing er samtidigt et afgørende element, når det kommer til, at virksomheder udnytter forskellige landes beskatning til at få den lavest mulige skat.
+* Specielt store teknologifirmaer har meget aktivt arbejdet med, at indtægter så vidt så muligt bliver placeret i for eksempel et irsk selskab, for at betale den irske selskabsskat.
+* I sagen mod Microsoft har myndighederne ment, at selskabets danske selskabs skattepligtige indkomst burde have været 307 millioner kroner højere i 2004-2007 i forhold til det indberettede.
+* Myndighederne har ikke ment, at Microsoft rettidigt havde redegjort for sine interne handler - og altså om der var tale om transfer pricing.
+* Myndighederne har også haft øje for vederlag til den danske forretning for Microsoft i Irlands salg på det danske marked samt om der skulle betales skat, når en computer blev solgt med Microsofts styresystem allerede installeret.
+Kilder: Skat.dk, BDO
+Ikke mindst fra solgte computere, der havde Microsofts styresystem installeret. Den betaling ville skulle beskattes.
+Derudover har Skat ment, at Microsoft Danmark ikke i ordentlig tid og fyldestgørende har udarbejdet dokumentation for de prisaftaler, der er med resten af koncernen. At dokumentere, hvordan priserne internt i koncernen er udregnet - og at de svarer til markedspris - er afgørende for, hvor indtægter må bogføres.
+Skat valgte at estimere, at Microsoft Danmarks indkomst fra 2004 til 2007 var 307 millioner kroner højere end indrapporteret, og at selskabet derfor skyldte penge i skat.
+Microsoft har fra starten ment, at man skulle frifindes i begge forhold.
+Dommen er dog kun faldet med tre dommerstemmer mod to. De to dommere, der har været uenige med flertallet, mener, at:
+»Aflønningen af Microsoft Danmark for dets markedsføring af Microsofts produkter i Danmark er herefter ikke sket i overensstemmelse med, hvad der kunne være opnået, hvis transaktionerne var afsluttet mellem uafhængige parter«.
+Derfor har de stemt for, at sagen blev sendt tilbage til Skattestyrelsen til fornyet behandling. Dommen følger dog flertallet på tre, der stadfæstede landsrettens dom og afslutter sagen.
+Skatteministeriet skal nu betale sagsomkostninger, der lyder på 1,5 millioner kroner, til Microsoft.
+ritzau

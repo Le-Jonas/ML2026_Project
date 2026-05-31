@@ -1,0 +1,20 @@
+Title: Boeing_far_positiv_feedback_pa_opgradering_til_uly
+Date: 2019-04-16
+Article Type: Internationalt
+Author: Et tilsynsudvalg ved de amerikanske luftfartsmyndigheder (FAA) har tirsdag meddelt, at en opdatering til Boeings 737 MAX-fly er 'operationelt egnet'.
+
+Boeing har i flere uger arbejdet på en softwareopgradering til flyene.
+Årsagen er, at flytypens såkaldte MCAS-system mistænktes for at have været skyld i to dødelige flyulykker inden for det seneste halve års tid.
+Det har fået flere lande og myndigheder til at holde flyene på jorden.
+Ud over et opdateret system oplyser FAA's udvalg også, at der fremover bliver indført yderligere træning til at håndtere MCAS-systemet.
+Boeings nye opdatering er ikke endeligt godkendt af FAA endnu.
+Der kom for alvor fokus på Boeings 737 MAX-fly efter to flystyrt med netop den flytype. Det ene skete i Etiopien i marts. Her mistede 157 mennesker livet. Det andet var i Indonesien i oktober, hvor 189 personer omkom.
+MCAS-systemet, der mistænkes at være skyld i styrtene, er et automatisk anti-stall-system, der skal forhindre, at flyet mister opdrift.
+Softwaren er udviklet på grund af det nye flydesign, der har rykket de kraftigere motorer længere frem på skroget.
+Det giver ifølge Boeing flyet en større tendens til, særligt under take-off, at presse flyets næse opad mod himlen. Bliver flyets stigning for stejl, taber det for meget hastighed, og det kan føre til det, man kalder at 'stalle'.
+Det betyder, at flyet kommer så langt ned i hastighed, at det styrter ned.
+MCAS-systemet virker ved, at det peger flyets snude nedad, når det registrerer, at dets vinkel i luften er for stejl.
+Ved både ulykken i Etiopien og i Indonesien har det været fremme, at flyet efter take-off fluktuerede meget op og ned i hastighed og højde.
+Det har ledt eksperter til at mistænke, at MCAS-systemet kan have tvunget flyene ned, hvis ikke piloterne har kunnet slå det fra.
+For eksempel hvis den sensor, som MCAS -systemet bruger til at læse flyets hældning, har været defekt.
+ritzau

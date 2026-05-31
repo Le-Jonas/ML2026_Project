@@ -1,0 +1,15 @@
+Title: 3G-nettet_pa_vej_mod_nedlæggelse
+Date: 2019-07-03
+Article Type: Viden og tech
+Author: Med over 130.000 deltagere er Roskilde Festival, der afvikles i disse dage, Danmarks fjerde største by målt på indbyggertal.
+
+De mange mennesker samlet på et lille areal presser teleselskaberne til det yderste, når forventningen er, at man problemfrit skal kunne opdatere sociale medier, sende fotos, og hvad deltagerne ellers foretager sig af datakrævende ting.
+Samtidig giver det teleselskaberne en unik mulighed for at stressteste systemerne og afprøve nye tiltag.
+Hos teleselskabet 3, der er partner med Roskilde Festival, bruger man i år muligheden til at tjekke den nedlæggelse af 3G-nettet, som vil komme indenfor en overskuelig årrække.
+Når 3G-nettet skal nedlægges, hænger det sammen med, at man dermed får frigjort frekvenser til det langt hurtigere 4G-net, forklarer Stefan Ring, der er ansvarlig for 3’s netværk på Roskilde Festival.
+»Når vi frigiver frekvensspektrum fra 3G til 4G, vil man som bruger af netværket tydeligt kunne mærke den ekstra 4G-kapacitet i form af forbedret lydkvalitet ved opkald og hurtigere datahastigheder, siger Stefan Ring.
+Langt de fleste nye smartphones kan bruge 4G-nettet, men enkelte, der har ældre telefoner, for eksempel de helt gamle iPhones, bruger 3G-nettet. Ifølge Stefan Ring skal brugerne af de gamle telefoner ikke være bange for, at de bliver sat helt af lige foreløbig.
+»Vi kommer ikke til at lukke helt ned for 3G-nettet lige foreløbig. Når testen på Roskilde Festival er veloverstået, skal vi først og fremmest til at kigge på de større byer, hvor behovet for mere 4G-kapacitet er størst.
+»Her vil vi langsomt implementere teknologien, men vi kommer til at efterlade nogle af frekvenserne på 3G, så det stadig er muligt at bruge dem nogle år endnu, siger Stefan Ring.
+Forventningen hos 3 er, at 3G-nettet, der var 3's vej ind på det danske marked i 2003, vil blive nedlagt gradvist over en årrække fra om et par år.
+ritzau

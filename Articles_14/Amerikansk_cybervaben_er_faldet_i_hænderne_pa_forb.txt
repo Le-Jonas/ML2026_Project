@@ -1,0 +1,8 @@
+Title: Amerikansk_cybervaben_er_faldet_i_hænderne_pa_forb
+Date: 2019-06-03
+Article Type: Tech
+Author: Baltimore og andre storbyer afpresses af hackere, som har lukket e-mailservere og forstyrret offentlige tjenester.
+
+Nicole Perlroth og Scott Shane, The New York Times
+Igennem de seneste tre uger har den amerikanske storby Baltimore forsøgt at forsvare sig mod et cyberangreb begået af digitale pengeafpressere, der har sat tusinder af computere ud af spillet, lukket e-mailservere og grebet forstyrrende ind i ejendomshandler, vandregninger, kommunikation mellem sundhedsvæsen og patienter og en lang række andre tjenester.
+Men hidtil har de frustrerede kommunalt ansatte og indbyggere ikke vidst det her: En central komponent i den skadelige software, såkaldt malware, som hackerne brugte under angrebet, er udviklet på skatteydernes regning en kort køretur fra Baltimore, nemlig hos efterretningstjenesten NSA. Det siger flere sikkerhedseksperter med indsigt i sagen.

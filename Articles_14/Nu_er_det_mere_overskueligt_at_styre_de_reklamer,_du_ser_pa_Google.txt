@@ -1,0 +1,7 @@
+Title: Nu_er_det_mere_overskueligt_at_styre_de_reklamer,_du_ser_pa_Google
+Date: 2018-06-15
+Article Type: Tech
+Author: Morten Bay
+
+Efter flere skandaler gør de flere af de store tech-firmaer nu bod overfor brugerne, når det gælder deres data. Såvel Facebook som Google har givet brugerne mere kontrol over, eller i det mindste lettere adgang til, hvordan indsamlede brugerdata bliver brugt til f.eks. annoncering. I Googles tilfælde kan brugerne nu også få mere styr på annoncerne, de ser.
+I forbindelse med relanceringen af den portal, hvor Google-brugere kan se og styre, hvordan deres data bliver brugt, er reklame-indstillingerne også blevet mere overskuelige rent grafisk. Det betyder, at det nu er nemmere som Google-bruger at slå såvel den personlige tilpasning af annoncerne fra, samt sortere i, hvilke annoncører, du f.eks. gerne vil se tilbud fra.

@@ -1,0 +1,19 @@
+Title: Guf_for_hackere_Snart_kan_du_med_fa_klik_se_alt_de
+Date: 2018-10-23
+Article Type: Digitalt
+Author: Offentlige myndigheder har store mængder oplysninger om danskerne, og fremover skal man kunne logge ind ét sted og se samtlige data.
+
+Det er en del af regeringens digitaliseringsreform, som præsenteres tirsdag, oplyser innovationsminister Sophie Løhde i en pressemeddelelse.
+Lektor ved Institut for Elektroniske Systemer på Aalborg Universitet Jens Myrup Pedersen mener, at det er godt at give danskerne et samlet overblik over alle de oplysninger, da det kan øge tilliden til det offentlige.
+Omvendt er der også en risiko ved at skabe én indgang til alle informationer, lyder det.
+»Man lægger alle æg i en kurv og skaber et attraktivt mål for angreb. På den anden side kan jeg godt lide idéen om, at man kan finde sine oplysninger ét sted«, siger han.
+Henning Mortensen, der er formand for Rådet for Digital Sikkerhed, finder det alt i alt positivt, at danskerne får et samlet overblik.
+»Det er helt sikkert positivt, at der bliver skabt en transparens om, hvad det offentlige ved. Det er en god idé, at det samles ét sted, for så er det enormt nemt for borgerne at få adgang til, siger han og peger dog også på risikoen«.
+»Når man skaber ét sted, hvor man samler adgangen til alle data, skaber man et singlepoint-of-failure - altså ét sted, hvor det kan gå galt«.
+»Så hvis man som hacker vil have adgang til alle de her data, skal man bare hacke ét sted«.
+Ifølge Berlingske er en del af den nye reform også, at alle skal kunne se, hvem der har logget ind på ens oplysninger, og det roses også af Jens Myrup Pedersen.
+»Det er rigtig vigtigt, at man kan se, hvem der har tilgået hvilke data på hvilket tidspunkt«, siger lektoren.
+Oplysningerne om danskerne samles trinvis. Det begynder i 2020. I 2023 vil alle informationer være samlet et sted, skriver Berlingske.
+Ifølge avisen vil det betyde, at alt fra data om borgernes boligforhold, våbentilladelser, skilsmisser og kønssygdomme samles ét sted.
+Sophie Løhde understreger over for avisen, at det kun er borgerne selv, der skal have adgang til det samlede overblik. Man vil altså fortsat selv skulle give samtykke til, at myndighederne deler data.
+ritzau

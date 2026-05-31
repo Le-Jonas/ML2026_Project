@@ -1,0 +1,29 @@
+Title: Skat_opruster_med_nyt_vaben_før_arsopgørelsen_Nyt
+Date: 2019-03-08
+Article Type: Forbrug
+Author: Skattestyrelsen slipper nyt, avanceret digitalt fejlfindersystem løs på 4,6 millioner færdigbehandlede årsopgørelser, der bliver lagt ud på nettet på mandag eller måske før. Dermed bliver manuelle stikprøver afløst af et fast it-analysesystem, der kan spotte fejl, fusk og mistænkelig adfærd.
+
+Skattestyrelsen slipper nyt, avanceret digitalt fejlfindersystem løs på 4,6 millioner færdigbehandlede årsopgørelser, der bliver lagt ud på nettet på mandag eller måske før. Dermed bliver manuelle stikprøver afløst af et fast it-analysesystem, der kan spotte fejl, fusk og mistænkelig adfærd.
+Michael Olsen
+Journalist
+Bevæbnet med ny avanceret teknologi skruer skattemyndighederne nu op for kontrollen med danskernes private skatteregnskaber.
+Det nye digitale kontrolvåben bliver allerede taget i brug senest mandag, når 4,6 millioner færdigbehandlede årsopgørelser for 2018, bliver lagt ud på Skattestyrelsens hjemmeside, så borgerne selv kan tjekke, om de skal have skattepenge tilbage eller betale nogle flere.
+De nye årsopgørelser ventes også denne gang at blive et sandt tilløbsstykke, og traditionen tro vil hundredtusindvis af borgere forsøge at rette i årsopgørelsens felter over fradrag, hvis de mener, der er begået fejl, eller de er utilfredse med bundlinjen.
+Og det er lige her, det nye kontrolvåben skal vise sit værd.
+Sagt noget forenklet kan det nye system løbende gennemgå og analysere de ændringer, borgernes taster ind i årsopgørelsens fradragsfelter – og spotte fejl, fusk og atypisk adfærd på baggrund af borgernes reaktionsmønstre og de øvrige data, der knytter sig til den enkelte skatteyder.
+Begynder en ung borger pludselig at indberette store fradrag på aktier og værdipapirer, selv om profilens øvrige oplysninger tegner portrættet af en ung studerende eller arbejdsløs, reagerer systemet, og borgeren bliver udtaget til kontrol.
+Det samme sker, hvis der er usædvanlig mange – eller usædvanlig store – rettelser i fradragsfelterne i forhold til borgerens lønindkomst – eller hvis en borger anvender en atypisk kombination af felter.
+»Den nye model kan overskue enorme datamængder og er i stand til løbende at gennemgå de årsopgørelser, der dannes. Dermed får vi et nyt værktøj, der kan identificere de årsopgørelser, der skal have et ekstra manuelt tjek – uanset om det drejer sig om simple fejl eller forsøg på snyd«, siger Karoline Klaksvig, underdirektør i Skattestyrelsen.
+Det nye system er baseret på principperne i den såkaldte maskinlæring, hvor computersystemer populært sagt lærer selv at tænke, analysere og forudsige adfærd på baggrund af enorme datamængder og algoritmer.
+Teknologien er for alvor slået igennem inden for de seneste år, blandt andet i forsikringsbranchen, hvor det digitale detektivsystem kan afsløre forsikringssnydere, fortæller it-ekspert Henrik Larsen, chef for it-sikkerhedsorganisationen DKCert og medlem af bestyrelsen i Rådet for Digital Sikkerhed:
+»Det giver rigtig god mening også at bruge dette værktøj i skattekontrollen. Og skattemyndighederne har jo ikke haft voldsomt stor succes med de kontroller, de har lavet indtil nu«, siger han og tilføjer:
+»I dag er skattekontrollen i vidt omfang baseret på, at der sidder nogle mennesker og fortager nogle få stikprøvekontroller, men den slags kontroller er meget tidskrævende, og man kan blive afbrudt eller overse nogle væsentlige oplysninger«.
+»Det sker ikke med en fast maskinel, automatiseret kontrol. Her får du en helt anden grundighed i kontrollen, og jeg vil tro, at man også med fordel kan bruge systemet i kontrollen med virksomhedernes skattebetaling«, siger han.
+Som tidligere omtalt i Politiken har Skattestyrelsen også lagt en række digitale fælder og stopklodser ind i TastSelv-funktion på nettet. Stopklodser, som krydstjekker de oplysninger, borgerne retter i deres årsopgørelse, og som blokerer fradragsfelterne, hvis rettelserne er ulogiske.
+Mens de digitale fælder stopper de borgere, der er ved at indtaste faktuelt forkerte oplysninger, opfanger det nye digitale værktøj de atypiske mønstre og den skæve adfærd, også når det ser tilforladeligt ud på papiret.
+Dermed er der bygget en effektiv digital kontrolmur ind i personligningen, mener Karoline Klaksvig.
+»Ud fra de erfaringer, vi gør os i år, vil vi udvikle og tilpasse værktøjet, så det bliver endnu mere effektivt i de kommende år. Jeg er sikker på, at det bliver et vigtigt redskab i fremtidens kontrol«, siger hun.
+Skattestyrelsen vil ikke sætte tal på, hvor mange mange fejl og hvor meget snyd Skattestyrelsen forventer at fange med det nye system.
+Men sidste år blokerede de digitale stopklodser mere end 20.000 årsopgørelser på grund af ulogiske ændringer i fradragsfelterne.
+Ifølge Skattestyrelsen bliver de færdigbehandlede årsopgørelser for 2018 lagt ud på nettet på mandag, men går det som sidste år, bliver opgørelserne allerede tilgængelige i løbet af weekenden eller allerede i dag.
+Michael Olsen

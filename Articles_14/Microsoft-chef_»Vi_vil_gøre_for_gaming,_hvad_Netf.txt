@@ -1,0 +1,7 @@
+Title: Microsoft-chef_»Vi_vil_gøre_for_gaming,_hvad_Netf
+Date: 2018-11-10
+Article Type: Digitalt
+Author: Morten Bay
+
+»Der er flere end syv milliarder mennesker i verden. Fire milliarder af dem er på nettet. To milliarder af dem er gamere«. Denne statistiske udmeldinger kom fra Sarah Bond, der er chef for Microsofts globale gaming-initiativer og -partnerskaber, da hun torsdag trådte op på scenen og gav en præsentation under Samsungs udviklerkonference i San Francisco.
+Bond fortalte om projektet xCloud, som Microsoft er igang med, der kombinerer firmaets viden om spil fra Xbox-platformen med den massive server-infrastruktur i skyen, som de også er ved at bygge op. Idéen er, at du i fremtiden slet ikke behøver at have en ret kraftig maskine stående derhjemme til at spille på.

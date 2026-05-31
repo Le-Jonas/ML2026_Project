@@ -1,0 +1,23 @@
+Title: Twitter_opfordrer_mere_end_300_millioner_til_at_skifte_kode
+Date: 2018-05-04
+Article Type: Medier
+Author: Det sociale medie Twitter opfordrer dets mere end 330 millioner brugere til at skifte deres kodeord.
+
+Et teknisk problem har ifølge Twitter betydet, at brugeres kodeord for en kort stund har fremstået umaskerede i Twitters interne computersystem.
+Problemet er ifølge Twitter blevet løst, og der er umiddelbart ikke noget, der tyder på, at de mange kodeord skal være blevet stjålet eller misbrugt. Men brugere rådes alligevel til at skifte kode.
+Oplysningen om sikkerhedsbruddet er blevet lagt ud på
+Twitters blog
+.
+Her fremgår det ikke, hvor mange kodeord der skal have været udsat.
+Men til nyhedsbureauet Reuters siger en person, der kender til baggrunden for sikkerhedsbruddet, at det omhandler en 'substantiel' del af brugerne, og at deres kodeord skal være blevet udsat i 'adskillige måneder'.
+Ifølge kilden opdagede Twitter fejlen for et par uger siden.
+Twitter har også undskyldt for fejlen på firmaets blog.
+Her forklares det også, at fejlen skyldes, at kodeord er blevet logget i virksomhedens computersystem inden en maskering var komplet.
+Normalvis maskeres kodeord ved at erstatte de valgte tegn med nye numre og bogstaver, forklares det på Twitters blog.
+Ved at skifte kodeord kan brugerne forhindre, at deres konto på det sociale medie kan blive hacket.
+ritzau
+fortsæt med at læse
+Kampen mod falske nyheder:
+Facebook vil give mere plads til troværdige medier og undertrykke dem, som folk ikke tror på
+Sagen forfra:
+Fake news går (mindst) tilbage til 1700-tallet

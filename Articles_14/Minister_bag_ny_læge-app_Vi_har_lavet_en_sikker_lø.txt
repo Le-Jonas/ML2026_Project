@@ -1,0 +1,26 @@
+Title: Minister_bag_ny_læge-app_Vi_har_lavet_en_sikker_lø
+Date: 2019-01-26
+Article Type: Sundhed
+Author: Min Læge har været igennem nødvendige tests af sikkerheden, siger sundhedsminister Ellen Trane Nørby.
+
+Anders Legarth Schmidt
+Journalist
+Ellen Trane Nørby, hvordan sikrer I, at ingen uvedkommende får adgang til personlige oplysninger i appen Min Læge?
+»Vi har brugt mange kræfter på at lave en sikker løsning, hvor man bruger NemID, som borgerne kender fra blandt andet netbank. Appen har gennemgået de sikkerhedstests, der er nødvendige, når man skal håndtere følsomme personoplysninger. Når man logger på første gang med NemID, opretter man en pinkode og bruger herefter den, eller touch-id og face-id, til at logge på. Man skal derfor ikke frygte, at andre får adgang til ens oplysninger, hvis ens telefon skulle blive stjålet«.
+Fakta
+Min Læge
+Risikerer lægen ikke at drukne i information, når vi nu nemt kan sende beskeder og billeder ind?
+»Der er altid en risiko for, at der kommer en overflod af informationer. Men tanken er at spare tid for både lægen og patienten. I dag er der mange konsultationer hos lægen, som kunne være ordnet mere effektivt via beskeder, hvor det afklares, om der er behov for at se lægen, eller om der ingen grund er til at bekymre sig. Og mange oplever at hænge i en telefonkø for endelig at komme igennem og tale med en læge eller sygeplejerske om noget, som lige så godt kunne være ordnet digitalt«.
+Men det kræver noget selvdisciplin fra borgerne, der vel ikke skal kontakte lægen med alt muligt?
+»Sådan er det altid. Det er klart, at patienten skal vurdere, om det er relevant at tage kontakt til lægen. Men sådan er det allerede nu med mail og telefon. Svaret er dog ikke at lade være med at lave en digital brugervenlig adgang for alle vores 3.500 praktiserende læger. Nu har vi en indgang, som er bygget sikkert op og giver os det samlede overblik«.
+Mange patienter har jo aftaler både hos egen læge, på hospitalet og i et kommunalt tilbud. Ville det ikke være bedre, om man kunne se alle aftaler ét sted?
+»Jo, det er også en af de muligheder, som ligger fremadrettet. Der er kørt forsøg med det, og jeg mener, det er fremtiden, så det skal vi finde en løsning på. Det er en vigtig del«.
+Hvad er succeskriteriet, hvor mange skal bruge den?
+»Vi har med appen Medicinkortet allerede nået over 750.000 brugere, og den har vi ikke promoveret, så vi skulle gerne op i samme omfang. Vi håber, at folk vil bruge den på linje med andre populære apps i dagligdagen. Det centrale er her, at din egen læge sidder i den anden ende og for eksempel kan vurdere et billede og afgøre, om du skal op til en akut tid om eftermiddagen, eller om du kan tage det stille og roligt«.
+Men kun få læger har åbnet for, at man kan indsende billeder. Hvad tænker du om det?
+»Jeg håber, at alle læger åbner for billeder, og at alle vil tilbyde videokonsultationer, selv om jeg medgiver, at nogle læger ser det som en udfordring. Jo mere ensartede løsninger, jo stærkere bliver Min Læge«, siger sundhedsministeren.
+Anders Legarth Schmidt
+fortsæt med at læse
+Mens regeringen vil reformere sundhedsvæsnet, kværner hverdagen videre hos lægen:
+»Jeg giver dig mit private nummer. Ring til mig, hvis der sker noget«
+Lysten skal drive lægen til praksis i ny sundhedsreform - men kan den det?

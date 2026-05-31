@@ -1,0 +1,17 @@
+Title: Algoritmer_Derfor_kan_maskiner_blive_til_sexistis
+Date: 2019-03-13
+Article Type: Tech
+Author: Politiken stiller tre gode spørgsmål om kunstig intelligens og svarer på dem.
+
+Jens Bostrup
+Journalist
+Det store gennembrud, der kommer i disse år, skyldes en kombination af let adgang til mange data og hurtigere og billigere computere, der kan behandle store mængder data. Trods udtrykket er maskinerne er ikke specielt intelligente. De kan finde statistiske mønstre i de store datamængder og bruge mønstrene til at beregne sandsynligheder omkring aktiekursernes udvikling, forudse, hvad du vil se i fjernsynet, genkende ansigter, eller om en indsat vil begå kriminalitet efter en prøveløsladelse.
+De kan kun løse en ganske snævert defineret opgave. En maskine, der ligesom mennesker kan tænke over mange forskellige ting på flere forskellige måder, er vi meget langt fra.
+Der er tre hovedforklaringer: skæve programmører, skæve data og skæve mennesker.
+Algoritmerne, der bruges i den vestlige verden, er hovedsagelig skrevet af hvide mænd. Deres arbejde afspejler deres kulturelle horisont. Der er aspekter af livet og tilværelsen, som unge hvide mænd ikke forstår eller prioriterer på samme måde som andre mennesker.
+Maskinerne bliver fodret med overvældende mængder data, og jo flere data, jo bedre fungerer maskinen. Når de har flere data om en bestemt befolkningsgruppe, fungerer maskinen bedre for dem.
+De data, maskinen arbejder sig igennem, afspejler menneskers faktiske adfærd. Maskinerne kan ikke gennemskue, at nogle af vores handlinger i et vist omfang hviler på politiske og etisk ukorrekte fordomme. Den vil blot konstatere, at det er sådan, man gør. De fordomme, maskinen på den måde lærer sig, bliver stadig mere udbredt, i takt med at maskinerne får øget indflydelse.
+Det kræver, at man kan få maskinerne til at se forskel på adfærd, der skyldes fordomme, og andre former for adfærd. Forskerne har i årevis arbejdet på at løse det, men det er overordentlig kompliceret.
+IBM forsøger sig med at bruge en specialiseret kunstig intelligens til at gennemskue, hvad de andre kunstige intelligenser foretager sig og hvorfor, siger Kim Escherich, ledende innovationsarkitekt.
+Måske kan det lade sig gøre inden for fem år, vurderer en af de førende på feltet, Manuela Veloso, forskningschef i JP Morgan. Men da kun på en helt specifik maskine, der er trænet til et snævert formål. Hvis det endelig lykkes at rense fordommene ud af en algoritme, der bedømmer kreditværdighed, kan man ikke bruge det til noget på den maskine, der sorterer jobansøgninger. Man skal starte helt forfra, forklarer hun.
+Jens Bostrup

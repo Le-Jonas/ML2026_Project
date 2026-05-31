@@ -1,0 +1,37 @@
+Title: Sophie_Hæstorp-Andersen_Vi_passer_pa_patienternes_
+Date: 2019-07-05
+Article Type: Debatindlæg
+Author: Debatindlæg afSophie Hæstorp-Andersen
+
+Regionsrådsformand i Region Hovedstaden
+Region Hovedstaden har sikret, at alle de aftalemæssige rammer er på plads, og at der derigennem er skabt trygge og sikre rammer for vores samarbejde med den amerikanske leverandør Epic.
+Dette er et debatindlæg. Indlægget er udtryk for skribentens holdning. Alle holdninger, som kan udtrykkes inden for straffelovens og presseetikkens rammer, er velkomne, og du kan også sende os din mening
+her
+.
+Efter sidste weekends omtale i Politiken af beskyttelsen af personlige helbredsoplysninger i den elektroniske patientjournal, Sundhedsplatformen, kan man som borger godt sidde tilbage med den oplevelse, at alle vores personlige sundhedsoplysninger ligger og sejler rundt ’et mystisk sted i USA’.
+Lad mig slå fast: Region Hovedstaden har sikret, at alle de aftalemæssige rammer er på plads, og at der derigennem er skabt trygge og sikre rammer for vores samarbejde med den amerikanske leverandør Epic.
+Data ligger på servere i Danmark, og de ejes af Region Sjælland og Region Hovedstaden, der sammen har indført Sundhedsplatformen.
+Når en supportmedarbejder i Epic hjælper os med at rette en fejl, der gør det nemmere for lægerne at passe deres behandling af patienter, har vi givet medarbejderen lov til at kigge ind i de data, som er relevante for at løse opgaven. Under strenge krav om tavshedspligt – og logget, selvfølgelig.
+Foruden det rent aftalemæssige har regionerne også sikret sig ved at stille krav om, at Epic årligt leverer en ekstern revisionserklæring til regionerne.
+Vi arbejder tæt sammen med de øvrige regioner og Sundhedsdatastyrelsen om udmøntningen af den nye nationale strategi for cyber- og informationssikkerhed i sundhedssektoren. Og vi bakker helt og fuldt op om de nye rammer for persondatabeskyttelse, som er sat med GDPR og den nye lov om databeskyttelse.
+Og ja, vi skal hele tiden holde et skarpt øje med borgernes oplysninger. Med den elektroniske patientjournal sikrer vi, at lægerne hurtigt kan få et overblik over patienternes helbredsoplysninger og give patienterne den bedst mulige behandling. Stadig flere digitale løsninger finder vej i vores sundhedsvæsen.
+Dialogen mellem borgere, patienter og sundhedsvæsen vil blive hjulpet på vej af digitale løsninger med apps og lignende, og behandlingen vil være understøttet af digitalt styrede pumper, robotter og andre intelligente maskiner.
+Vi taler ikke om den fagre nye verden – den er her allerede. Mange patienter har allerede i dag glæde af de digitale løsninger på vores hospitaler. Digitale løsninger gør det nemmere for mange mennesker at få en hverdag til at hænge sammen med plads til arbejde, familie og fritid, samtidig med at de bliver behandlet eller holder øje med en kronisk sygdom.
+Men i takt med udviklingen af digitale løsninger følger et stadigt større ansvar i forhold til at håndtere digitale sårbarheder og risici.
+Vi arbejder løbende på at forbedre databeskyttelsen i Sundhedsplatformen. Det er også derfor, at vi nu to gange har bestilt en ekstern analyse af databeskyttelsen i Sundhedsplatformen – omtalt i medierne som Bech-Bruun-rapporten.
+Når vi får øjne til at kigge på os udefra, får vi vigtig viden om, hvor vi kan forbedre os. Og nok så vigtigt: Vi følger struktureret op på de områder, hvor der hejses et rødt flag.
+Eksempelvis har vi været inde at arbejde med en mere konkret tekst i den databehandleraftale, vi har med Epic. Og vi er netop nu ved at indføre automatisk opfølgning på den logning, vi i dag foretager af hver enkelt læge eller sundhedspersons opslag i patientjournalen, så vi fremadrettet får en stærkere kontrol med de opslag, vores medarbejdere foretager i Sundhedsplatformen.
+Hvis vores ambition er et sundhedsvæsen i verdensklasse, er vi nogle gange nødt til også at kigge ud over Danmarks grænser – og nogle gange ud over Europas grænser.
+Derfor er vi glade for, at GDPR og databeskyttelsesloven har defineret rammerne for, hvordan vi trygt og sikkert kan samarbejde med globale aktører, så digitaliseringen på sundhedsområdet ikke skal være begrænset af de muligheder, der er inden for EU’s grænser.
+Vi skal tænke os godt om, men lad os nu ikke blive angste for globalisering. Masser af offentlige og private virksomheder har amerikanske leverandører, og selvfølgelig skal de kunne hjælpe os med it-support.
+Formålet med GDPR og databeskyttelsesloven er jo heller ikke at forhindre globale samarbejder, men at sikre en streng og fornuftig regulering af persondata, der gøres tilgængelige uden for EU.
+Sophie Hæstorp-Andersen
+fortsæt med at læse
+Dybt uansvarligt:
+Sundhedspersonale kan uopdaget snage i patienternes data i hovedstaden
+»Jeg ved, at der er nogle, der logger ind og kigger på operationsprogrammet for at finde kendte mennesker«
+Politiker efter ny sag om Sundhedsplatformen:
+»Hvad i alverden laver mine sundhedsoplysninger et mystisk sted i USA?«
+Dette er et debatindlæg. Indlægget er udtryk for skribentens holdning. Alle holdninger, som kan udtrykkes inden for straffelovens og presseetikkens rammer, er velkomne, og du kan også sende os din mening
+her
+.

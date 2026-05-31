@@ -1,0 +1,17 @@
+Title: Ekspert_Angreb_pa_elforsyning_kan_destabilisere_e
+Date: 2018-07-18
+Article Type: Tech
+Author: Danske energiselskaber er oplagte mål for hackerangreb, lyder det fra it-sikkerhedsekspert Peter Kruse.
+
+»Vi har set, at elsektoren i eksempelvis Ukraine har været mål for angreb, som afskar befolkningen fra elnettet. Hvis man på den måde kan lamme en vital del af infrastrukturen, kan man destabilisere et land«, siger Peter Kruse fra it-sikkerhedsfirmaet CSIS.
+Danske energiselskaber har ifølge Center for Cybersikkerhed ved flere lejligheder været udsat for målrettet cyberspionage.
+Chefen for centret, Thomas Lund-Sørensen, siger til Jyllands-Posten, at man har indikationer på, at »mange forstadier til et destruktivt angreb finder sted«.
+Der har med andre ord ikke været tale om cyberangreb, der er lykkedes, men der har været 'følere' ud for at teste sikkerhedsniveauet.
+Det overrasker ikke Peter Kruse.
+»Det er meget respekteret i hackerkredse, hvis man kan få adgang til kritisk infrastruktur som forsyningsvirksomheder, hospitaler, transportselskaber og internetudbydere«.
+Peter Kruse understreger, at vi ikke kan vide, om hackergrupper på eget initiativ eller på vegne af en fjendtligt indstillet stat har spioneret mod danske energiselskaber.
+I 2015 røg strømmen hos over 200.000 indbyggere i Ukraine, da en række elselskaber blev lagt ned af hackere.
+»Det, der sker i sådan en situation er dels, at det har store økonomiske konsekvenser for et samfund. Dels går det ind og sår tvivl hos befolkningen om, hvorvidt staten har styr på vitale interesser«, siger Peter Kruse.
+At angrebene mod danske energiselskaber tilsyneladende ikke er lykkedes, tilskriver han en høj bevidsthed om truslen hos de selskaber, der sidder med nøglen til danskernes el og strøm.
+»Mit indtryk er, at man i de danske forsyningsselskaber står skulder ved skulder og deler, alt hvad man ser af mulige trusler. Så går man ud og kommunikerer det til hinanden. Alene det gør, at vi ligger et godt stykke over niveauet i tilsvarende forsyningsvirksomheder i andre lande«, siger Peter Kruse.
+ritzau

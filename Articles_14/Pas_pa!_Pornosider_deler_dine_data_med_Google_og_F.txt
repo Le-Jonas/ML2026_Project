@@ -1,0 +1,28 @@
+Title: Pas_pa!_Pornosider_deler_dine_data_med_Google_og_F
+Date: 2019-07-23
+Article Type: Tech
+Author: Tech-giganter som Google og Facebook sporer dine data, når du ser porno, viser nyt studie.
+
+Majlinda Urban Kuci
+Hvad er du til? Teenagepiger? Girl on girl? Måske noget med pisk?
+Det kommer ikke andre mennesker ved, men et nyt studie viser, at pornohjemmesider er fyldt med sporingsudstyr fra blandt andre Google og Facebook.
+Forskere har skannet 22.484 pornohjemmesider, hvoraf langt de fleste var fyldt med sporingsudstyr. 93 procent af de pornohjemmesider, som indgår i studiet, sendte i gennemsnitligt data videre til syv forskellige tredjeparter.
+Studiet er lavet af Jennifer Henrichsen fra University of Pennsylvania, Elena Maris fra Microsoft og Tim Libert fra Carnegie Mellon University. De har benyttet sig af et redskab, der hedder
+webXray
+, som kan identificere, hvem der sporer tredjeparts data på bestemte sider.
+Forfatterne kritiserer i deres artikel, at den information som indsamles på pornohjemmesider, er dybt personlig, og at hjemmesiderne ikke har sørget for brugernes sikkerhed.
+»De her pornosider bliver nødt til at tænke mere over det data, de har, og hvordan det er lige så følsomt som sundhedsdata«, siger Elena Maris, der er hovedforfatter på studiet til
+New York Times
+.
+»Beskyttelse af data er afgørende for de besøgendes sikkerhed. Og det, vi har set i vores studie, peger på, at de her hjemmesider og platforme måske ikke har tænkt det ligeså ordentligt igennem, som de burde have«, siger hun.
+Google er en af de helt store syndere i studiet, og skanningen viste, at tech-mastodonten har sporing på 74 procent af hjemmesiderne. Sporingsudstyr fra softwarefirmaet Oracle viste sig på 24 procent af sider, og Facebook havde sporing på 10 procent af hjemmesiderne.
+Facebook og Google har afvist, at de bruger data indsamlet på pornohjemmesider til at målrette reklamer til brugerne, skriver New York Times. Til avisen siger en talsmand fra Google, at de ikke tillader annoncer på sider med voksenindhold, og at det er forbudt at lave individuelt målrettede reklamer baseret på brugernes seksuelle interesser.
+Facebook giver en lignende forklaring til avisen, og fortæller at den data der indsamles er anonym.
+Men selv om dataene teknisk set er anonym, så vil noget information fra brugernes browser stadig ende i firmaernes databaser. Og når det kommer til porno, så er den mest basale browserinformation meget personlig og afslørende.
+Elena Martis og Tim Libert påpeger i studiet, at 45 procent af sidernes URL (enhedsressourcefinder) i høj grad afslører den pågældende sides indhold, som derfor kan udstille en besøgendes seksuelle orientering eller præferencer.
+Elene Martis nævner blandt andet URL-koder, som afslører interesse for vold og incest.
+Kun 17 procent af de 22.484 sider var krypterede, hvilket yderligere gør dem sårbare for hackere.
+Majlinda Urban Kuci
+fortsæt med at læse
+Kina installerer overvågnings-app på turisters telefoner
+Antallet af anmeldelser for sexafpresning vokser

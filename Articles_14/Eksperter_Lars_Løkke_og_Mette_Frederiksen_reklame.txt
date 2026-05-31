@@ -1,0 +1,68 @@
+Title: Eksperter_Lars_Løkke_og_Mette_Frederiksen_reklame
+Date: 2019-05-28
+Article Type: Medier
+Author: Private oplysninger om vores adfærd på Facebook uden accept fra brugerne, benyttes af S og V til at målrette annoncer for hver deres kandidat til statsministerposten, mener juridiske eksperter.
+
+Facebook har analyseret sig frem til, hvilke partier over en million danskere er interesserede i ud fra vores adfærd på det sociale medie.
+De data bruger Venstre og Socialdemokratiet, som er to af de største danske Facebook-annoncører lige nu, til at målrette annoncer for hver deres kandidat til statsministerposten.
+Det viser en kortlægning fra
+DR Nyheder
+.
+Men ifølge to juridiske eksperter er det ulovligt for annoncører at bruge Facebooks data om brugernes politiske interesser.
+For det er private oplysninger om vores adfærd på Facebook, som partierne benytter uden accept fra brugerne.
+Det siger Sten Schaumburg-Müller, som er professor i IT-ret på Syddansk Universitet.
+»Når annoncører målretter annoncer på baggrund af persondata, så gør de efter min vurdering noget ulovligt, for de har ikke noget samtykke«.
+Samme vurdering kommer fra professor i IT- og medieret ved Aalborg Universitet Søren Sandfeld Jakobsen og Ayo Næsborg-Andersen, lektor i persondataret på Syddansk Universitet.
+Datatilsynet overvejer nu at gå ind i sagen.
+»Der er jo som udgangspunkt et forbud mod at behandle de her oplysninger«, siger Allan Frank, der er IT-sikkerhedsspecialist og jurist hos Datatilsynet.
+Når man højreklikker på en aktuel Facebook-annonce fra statsminister Lars Løkke Rasmussen (V) og vælger »hvorfor ser jeg denne annonce«, står der følgende:
+»En af årsagerne til, at du ser denne annonce er, at Lars Løkke Rasmussen gerne vil nå ud til personer, som er interesserede i Venstre. Dette er baseret på din aktivitet på Facebook, som f.eks. at synes godt om sider eller klikke på annoncer«.
+Således kan Lars Løkke Rasmussen målrette en politisk reklame til danskere, som har en adfærd på deres profil, som gør, at Facebook har stemplet de personer som interesserede i Venstre.
+Lige nu ligger det tal på 400.000 personer.
+Ved hjælp af den type data kan Lars Løkke Rasmussen nå ud blandt fem gange så mange potentielle vælgere, som de 73.000 danskere, der aktivt har givet partiet Venstre et like på Facebook.
+Hvis Lars Løkke Rasmussen havde valgt at målrette sin annonce til de Facebook-brugere, der aktivt havde givet ham eller hans parti et like, havde det til gengæld været lovligt, siger lektor Ayo Næsborg-Andersen.
+»Hvis de, Lars Løkke målretter til, selv offentligt har sagt, at de stemmer på Venstre, så må man gerne«.
+»Men i de tilfælde, hvor man har analyseret sig frem til, at vedkommende godt kunne stemme på Venstre, så må man ikke, uden de personer har sagt ja til, at deres oplysninger måtte bruges på den måde«.
+Lars Løkke Rasmussen og Venstre ønsker ikke at stille op til interview. Men i en mail afviser de at være på kant med loven, når de annoncerer på Facebook.
+»Vi følger til enhver tid Datatilsynets gældende anvisninger. Desuden forventer vi naturligvis, at Facebook overholder alle GDPR-regler på området. Vi har fået bekræftet hos Facebook, at deres annoncemodul overholder reglerne«.
+»Og det er værd at understrege, at vi hverken afgiver eller modtager personhenførbare data i forbindelse med annonceringen«, lyder svaret fra Venstre.
+Tilsvarende har Mette Frederiksen (S) målrettet en annonce til at nå ud blandt 750.000 danskere, som Facebook har registeret som interesserede i Socialdemokratiet, som det fremgår af en annonce fra valgkampen:
+»En af årsagerne til, at du ser denne annonce er, at Mette Frederiksen gerne vil nå ud til personer, som er interesserede i Socialdemokraterne. Dette er baseret på din aktivitet på Facebook, som f.eks. at synes godt om sider eller klikke på annoncer«.
+Da Socialdemokratiet har 105.000 likes, kan Mette Frederiksen altså ved at betale Facebook nå målrettet ud blandt syv gange så mange potentielle vælgere.
+DR Nyheder har flere gang bedt Mette Frederiksen og Socialdemokratiet om et interview, men de har takket nej.
+Ud over Lars Løkke Rasmussen og Mette Frederiksen har DR Nyheder fundet en partileder mere, som har gjort brug af målrettet annoncering på Facebook under valgkampen.
+Det er den konservative formand, Søren Pape Poulsen, som har målrettet Facebook-annoncer til folk, der er interesserede i de Konservative.
+Partiet har ingen kommentarer, skriver deres pressechef i en mail til DR Nyheder.
+DR Nyheder har også fundet et eksempel på, at Enhedslisten bruger målrettet Facebook-annoncering efter politiske interesser.
+Men partiet har sagt stop, efter DR har forelagt sagen for dem. Enhedslisten har ikke ønsket at stille op til interview, men skriver følgende i en mail.
+»Det er direkte mod vores ønsker og intentioner, at der er blevet annonceret målrettet mod facebook-brugere, som har vist interesse for et specifikt politisk parti«.
+Hos de Radikale er der også fundet en enkelt kandidat ved navn Ruben Kidde, som har målrettet en Facebook-annonce til Facebookbrugere, der er interesseret i hans eget parti.
+Det er sket til trods for, at Det Radikale Venstre allerede i januar meldte ud både eksternt og internt, at partiet ikke vil bruge følsomme interesser til annoncering på Facebook.
+Men det viser sig at være en fejl, fortæller Ruben Kidde, som er folketingskandidat i hovedstaden.
+»Jeg og Radikale Venstre har et forsigtighedsprincip om, at vi ikke målretter annoncer efter politiske partier, hvilket jeg mener er det helt rigtige, også selvom det kan stille os dårligere i konkurrencen med andre partier. Før i tiden annoncerede jeg også efter partinavne, men vi radikale har turde tage en vigtig samtale om Facebook-annoncering, og det har fået mig til at ændre tilgang«.
+»Det er således sket ved en fejl, at en af mine gamle annoncer blev genaktiveret sidste uge, og så snart jeg blev gjort opmærksom på det, blev den naturligvis fjernet igen«.
+Facebook kan analysere sig frem til dine politiske interesser ved hjælp af såkaldt profilering, ifølge en ekspert.
+Profilering handler ikke bare om, at brugerne selv giver Facebook oplysninger om en politisk interesse ved for eksempel at ‘synes godt om’ et konkret parti.
+Facebook tager oplysninger, som i sig selv ikke siger noget om folks politiske interesser. Men når de kører dem sammen, kan de ret præcist sige, hvilken interesse folk har, forklarer Ayo Næsborg-Andersen.
+»Facebook går ikke ud og spørger, hvad brugerne stemmer på, men de sammenkører for eksempel, hvilke indkøb de foretager, hvilke film de ser, eller hvilke aviser de abonnerer på. Det giver en ret solid viden«.
+Men profilering er problematisk, når samkørslen afdækker noget, der er følsomt og privat.
+»Politiske interesser er følsomme oplysninger, og så skal der ligge et helt udtrykkeligt samtykke. Facebook indhenter ikke et samtykke til, at man må profilere sig frem til politiske interesser, og så det er politikernes ansvar, at samtykket foreligger«, siger lektoren.
+Det bakkes op af professor Søren Sandfeld Jakobsen fra Aalborg Universitet, at politikerne bliver medansvarlige, fordi de bruger følsom data, som Facebook har indsamlet og analyseret uden samtykke.
+»Når politikerne bruger de data til deres formål, bliver de ansvarlige for hele indsamlingen sammen med Facebook«.
+Det er en ny udtalelse fra Det Europæiske Databeskyttelsesråd fra 13. marts, der er årsagen til eksperternes vurdering af, at politikeres målrettede annoncer på Facebook er ulovlige.
+Det Europæiske Databeskyttelsesråd er en sammenslutning af de nationale datatilsyn i EU.
+»De er kommet med en udtalelse om, at annoncører også kan være dataansvarlige, ligesom Facebook, fordi de behandler data. Og så skal de have en hjemmel, eksempelvis et samtykke«, forklarer Sten Schaumburg-Müller fra Syddansk Universitet.
+Udgangspunktet i den europæiske databeskyttelseslov er nemlig, at virksomheder og institutioner slet ikke må behandle følsomme oplysning om borgerne, for eksempel om folks politiske holdninger, med mindre de har et specifikt grundlag, såsom et samtykke.
+Datatilsynet i Danmark, som er en del af det Europæiske Databeskyttelsesråd, bekræfter, at de har været med til den nye og strammere fortolkning af databeskyttelsesreglerne.
+»Vi har selvfølgelig været med i forhold til behandling af den pågældende udtalelse, og derfor står vi bag den udtalelse på lige fod med de andre datatilsyn i de andre europæiske lande«, siger IT-sikkerhedsspecialist Allan Frank.
+DR Nyheder har forelagt eksperternes kritik af, at Facebook analyserer følsomme politiske data og sælger dem til annoncører uden brugernes samtykke, hvilket er i strid med lovgivningen.
+Facebook afviser, at de skulle give annoncører mulighed for at målrette på baggrund af følsom data.
+»Vi tillader ikke annoncører at målrette annoncer på baggrund af følsomme data, og en persons annonceinteresser kan ikke bruges til at drage konklusioner om deres politiske tilhørsforhold«, skriver Facebook i en mail til DR Nyheder.
+Facebook forklarer samtidig, at deres registrering af brugernes politiske interesser ikke skal forstås bogstaveligt som et politisk tilhørsforhold. Desuden siger virksomheden, at de overholder den europæiske databeskyttelseslov, GDPR.
+»Vi overholder naturligvis GDPR-lovgivningen, hvilket de eftersyn databeskyttelsesmyndighederne har gennemført da også viser«, skriver Facebook.
+fortsæt med at læse
+Macron vil gribe ind mod Facebook:
+Zuckerberg kan li' det
+Margrethe Vestager:
+Facebook skal ikke splittes op
+Facebook strammer Live-regler efter angreb i Christchurch

@@ -1,0 +1,9 @@
+Title: Henrik_FøhnsVelkommen_indenfor_Fremtidens_interne
+Date: 2018-08-25
+Article Type: Viden og Tech analyser
+Author: Henrik Føhns
+
+Hvis du har set dine børn spille ’Pokémon Go’, hvor smartphonen placerer pokémons i vores verden, så har du en idé om, hvordan den næste version af internettet kommer til at se ud. En digital kopi af den virkelige verden, som kan læses af maskiner og manipuleres med af algoritmer. Den vil ikke være befolket af pokémons, men fuld af eksakte kopier af maskiner, fabrikker og boligblokke fra den virkelige verden. Fremtidens internet er nemlig i 3D ligesom et computerspil eller en verden i virtual reality.
+Det kræver, at tre ting fungerer gnidningsløst sammen: computerskærme lige fra briller til mobilskærme, kunstig intelligens og augmented reality. I Silicon Valley kalder man det the AR-cloud, som står for
+augmented reality cloud
+. Det kan oversættes til bearbejdet virkelighed, fordi vi placerer et lag eller et net af information oven på en video af virkeligheden.

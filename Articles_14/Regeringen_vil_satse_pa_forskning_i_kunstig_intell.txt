@@ -1,0 +1,22 @@
+Title: Regeringen_vil_satse_pa_forskning_i_kunstig_intell
+Date: 2018-10-11
+Article Type: Tech
+Author: Danske forskere inden for disciplinen kunstig intelligens kan se frem til et økonomisk rygstød til næste år.
+
+I hvert fald hvis det står til uddannelses- og forskningsminister Tommy Ahlers (V), der vil afsætte 300 millioner kroner af forskningsreserven til forskning i digital udvikling.
+Ifølge ministeren skal pengene især udvikle forskningen i kunstig intelligens, hvor computere populært sagt lærer at tænke selv.
+»Vi skal være med helt fremme på det her område«.
+»Kunstig intelligens giver så mange muligheder for at gøre både offentlige serviceydelser og private virksomheder bedre og smartere«, siger Tommy Ahlers.
+Ifølge professor Jacob Sherson, der forsker i området på Aarhus Universitet, er teknologien ikke til at komme udenom.
+»Der er lidt strid om, hvor mange job, der vil forsvinde på grund af kunstig intelligens«.
+»Alle er dog enige om, at 100 procent af vores arbejdspladser bliver influeret af kunstig intelligens inden for de næste par årtier«, siger han.
+På verdensplan er især Kina og USA i færd med at investere milliarder og atter milliarder i kunstig intelligens.
+Og it-giganter som Google har længe haft et internt motto: 'AI first'(kunstig intelligens først, red.).
+Alligevel mener Tommy Ahlers, at de danske millioner kan gøre en forskel, fordi der er behov for at udvikle kunstig intelligens i en etisk ansvarlig retning.
+»Vi skal insistere på at udvikle en dansk måde, hvor borgerne altid, når vi overlader beslutninger til en computer, kan få indsigt i, hvordan den beslutning blev truffet af computeren«, siger ministeren.
+Han henviser til et eksempel fra USA, hvor en domstol brugte en computer til at afgøre simple sager, men hvor den anklagede ikke kunne få indblik i algoritmen bag computerens beslutning.
+»Sådan noget skal altid være gennemsigtigt i Danmark«, siger Tommy Ahlers.
+Professor Jacob Sherson fremhæver, at selskaber som Apple og Google, der i dag driver udviklingen af kunstig intelligens, er 'ekstremt bundlinjefikserede'
+Derfor er der ifølge forskeren behov for at udvikle en 'dansk model', som andre lande også vil efterspørge.
+»Det mener jeg, at vi skal satse meget stærkt på«, siger han.
+ritzau

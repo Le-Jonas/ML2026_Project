@@ -1,0 +1,9 @@
+Title: 590_ansatte_i_danske_fængsler_har_faet_lækket_personfølsomme_data
+Date: 2018-06-19
+Article Type: Tech
+Author: Jakob Sorgenfri Kjær
+
+Journalist
+Morten Frich
+I 20 dage hen over årsskiftet lå hundredvis af statsansattes cpr-numre, navne, funktioner og ansættelsessted frit tilgængeligt på internettet på en testside, som it-leverandøren Miracle arbejdede med. Datalækket blev kun opdaget, fordi en ansat i Kriminalforsorgen på en tilfældig søndag googlede sit eget navn og fik rækken af fortrolige oplysninger frem på skærmen.
+Sagen er hidtil ukendt i offentligheden, men Kriminalforsorgen, Udenrigsministeriet og Socialstyrelsen bekræfter over for Politiken, at de er berørt af Miracles persondatalæk. Socialstyrelsen og Udenrigsministeriet kunne tirsdag ikke oplyse, hvad og hvor mange der er berørt af lækket.

@@ -1,0 +1,13 @@
+Title: Nye_oplysninger_om_sikkerhedsbrud_Data_fra_29_mil
+Date: 2018-10-12
+Article Type: Tech
+Author: Facebook siger ifølge Reuters, at hackere fik adgang til data hos 29 millioner brugere ved et angreb sidst i september. Ifølge Facebook var sikkerhedsbruddet det værste nogensinde mod Facebook.
+
+»Ukendte hackere har udnyttet en sikkerhedsbrist på Facebook til at få adgang til 50 millioner brugere, sagde Facebook sidst i september.
+Facebook oplyste, at personerne bag hackerangrebet havde brugt funktionen 'view as', som tillader Facebookbrugere at se, hvordan deres egen profil tager sig ud for andre, til at overtage kontiene
+Selskabet siger nu, at hos 15 millioner brugere fik hackerne adgang til to forskellige sæt informationer: navne og kontakter - det vil sige blandt andet telefonnumre og/eller e-mail-adresser.
+Hos andre 14 millioner fik hackerne også adgang til andre detaljer såsom brugernavne, køn, sprog, status i forbindelse med fast forhold, religion, hjemby, nuværende adresse, fødselsdage, uddannelse, arbejde og de seneste 10 hjemmesider, som de havde besøgt.
+»Vi samarbejder med FBI, som efterforsker sagen. Vi har fået besked på ikke at fremsætte spekulationer om, hvem der kan stå bag angrebet, hedder i det i en Facebook-erklæring på en blog.
+Der ingen oplysninger om hackernes lokation. Det vides heller ikke, om det er specifikke brugere, som personerne er gået efter. Facebooks direktør, Mark Zuckerberg, har sagt, der var tale om et 'rigtigt seriøst sikkerhedsproblem'.
+Facebook kom i offentlighedens søgelys tidligere på året, da det kom frem, at det kontroversielle analysefirma Cambridge Analytica havde høstet data om amerikanske vælgere på Facebook.
+ritzau

@@ -1,0 +1,7 @@
+Title: Mikkel_Flyverbom_Den_populære_lærer_Sarah_Wysocki_
+Date: 2018-08-19
+Article Type: Viden og Tech analyser
+Author: Mikkel Flyverbom
+
+Sarah Wysocki, en ung amerikansk lærer, blev fyret af en algoritme. For selv om både kolleger og forældre var glade for hende, så tildelte et nyt algoritmestyret vurderingssystem, som borgmesteren i hendes skolekommune havde bestilt, hende så lave point, at hun blev fyret. Algoritmerne havde talt.
+Sagen om Sarah Wysocki illustrerer et nyt og hastigt voksende fænomen – algoritmisk styring – som afsætter stadig større fodspor i vores dagligdag.

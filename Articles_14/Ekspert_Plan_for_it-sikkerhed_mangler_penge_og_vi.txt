@@ -1,0 +1,30 @@
+Title: Ekspert_Plan_for_it-sikkerhed_mangler_penge_og_vi
+Date: 2019-01-07
+Article Type: Tech
+Author: Regeringen vil have øget it-sikkerhed, men den vil ikke betale tilstrækkeligt for den, mener ekspert.
+
+Perry MacLeod Jensen
+Journalist
+Intentionen er sådan set god nok og i allerhøjeste grad tiltrængt. Anbefalingerne er også de helt rigtige, men der mangler både penge og hoveder til at efterleve de høje ambitioner.
+Sådan vurderer ekspert i cybersikkerhed Peter Kruse den nationale strategi for cyber- og informationssikkerhed, som regeringen fremlagde mandag. Han er medstifter af it-sikkerhedsvirksomheden CSIS og teknisk rådgiver for både Interpol, Europol og Dansk Industris udvalg for it-sikkerhed.
+Strategien er delt ud på seks sektorer: sundhed, finans, tele, søfart, transport og energi. Finans- og energisektoren har i lang tid haft strenge digitale sikkerhedskrav. Derfor er der ikke grund til bekymring for, at Danmarks penge og energiinfrastruktur skulle blive angrebet, mener Peter Kruse.
+Men særligt i sundhedssektoren er man dårligt gået i gang, og derfor er han bekymret for, hvordan sygehusene overhovedet skal kunne leve op til de ellers gode intentioner i strategien.
+»It-sikkerheden har sejlet i mange år, og sikkerhedssystemerne er ikke blevet opdateret. Problemet er, at systemer virker, og så er folk glade, selv om de er nemme at bryde ind i«, siger Peter Kruse.
+Baggrunden for den nye strategi er, at Center for Cybersikkerhed vurderer, at truslen fra cyberspionage og kriminalitet er meget høj. Skrækscenariet er, at helt centrale systemer i vores højteknologiske velfærdssamfund kan bryde sammen, hvis ondsindede kriminelle eller stater vil os det ondt.
+»I løbet af et par måneder kan hackerne sende os tilbage til stenalderen, hvis de eksempelvis angriber vores energinet, medicindosering eller søfartsnavigation«, siger Peter Kruse.
+For ikke særlig lang tid siden var han på sygehuset, da hans far var indlagt. Her lagde han mærke til, at nogle af computerne stadig kørte på det næsten 20 år gamle styresystem Windows 2000. Det udgør en sikkerhedsrisiko, fordi der ikke længere bliver udgivet opdateringer til det gamle styresystem, som kan lappe de sikkerhedshuller, der sidenhen er opstået.
+Store dele af sundhedsvæsnet er i dag digitaliseret. Men sikkerheden har ikke været tænkt ind fra starten af digitaliseringsrevolutionen. Nu er de mange brister spredt ud over hele sundhedssektorens gigantiske netværk af forskellige it-systemer, som er fordelt blandt de fem regioner, landets mange sygehuse, praktiserende læger, psykiatere og mange flere.
+Det betyder, at det bliver ekstremt dyrt at rette op på sikkerheden, og det kræver mange dygtige sikkerhedseksperter, for at opgaven kan blive løst. Netop her findes de to alvorligste mangler i sikkerhedsstrategien, mener Peter Kruse: Den er underfinansieret, og der er ikke uddannet sikkerhedsspecialister nok til at gøre strategien til virkelighed.
+For det bliver virkelig dyrt at lappe sikkerhedshullerne i sundhedssektoren, og de 1,5 milliarder kroner, som er fulgt med strategien, er langtfra nok til at leve op til ambitionerne, vurderer Peter Kruse.
+»Det bliver virkelig dyrt at rette op på sundhedssektoren, og den er allerede spændt hårdt for økonomisk. Ventelisterne er for lange, patientgarantierne smuldrer, og lægerne sygemelder sig med stress«, siger han.
+Både sundheds- og innovationsministeren afviser dog ikke, at der kan komme yderligere penge til at forbedre cybersikkerheden i sundhedssekstoren.
+»Det har været en væsentlig del af strategien, at der ikke skal ligge en skjult regning til nogen. Derfor lægger vi også med strategien op til, at vi i fællesskab løbende prioriterer aktiviteter og aftaler finansiering af dem«, siger sundhedsminister Ellen Trane Nørby (V).
+Sektorstrategien åbner også for en yderligere afsøgning af finansiering, når sektorens konkrete behov er afdækket.
+»Vi investerer omkring 1,5 milliarder kroner de kommende år i at styrke vores cyber- og informationssikkerhed, og der vil sikkert være behov for at investere endnu flere midler«, siger innovationsminister Sophie Løhde (V).
+Men selv om der skulle blive afsat penge nok til sektoren, kommer vi til at mangle specialister, der kan bruge pengene, vurderer Peter Kruse.
+»Vi er kommet for sent i gang med at uddanne folk. Det er først for fem-seks år siden, at vi begyndte at uddanne folk i it-sikkerhed«, siger Peter Kruse, der efterlyser, at uddannelserne bliver tænkt ind strategien for de enkelte områder.
+Perry MacLeod Jensen
+fortsæt med at læse
+Sundhedsminister frygter lammende cyberangreb mod hospitaler
+»Det handler om liv og død«:
+Cyberangreb kan skade Danmark lige så meget som krig og terror

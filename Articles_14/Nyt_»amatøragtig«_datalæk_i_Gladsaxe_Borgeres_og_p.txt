@@ -1,0 +1,53 @@
+Title: Nyt_»amatøragtig«_datalæk_i_Gladsaxe_Borgeres_og_p
+Date: 2019-02-12
+Article Type: Danmark
+Author: 82 borgere fik mandag besked om, at deres personlige oplysninger har været eksponeret for alle på kommunens hjemmeside. Det er den tredje alvorlige sikkerhedsbrist i kommunen på få måneder.
+
+Jakob Sorgenfri Kjær
+Journalist
+Sebastian Stryhn Kjeldtoft
+Undersøgende redaktør
+Beskyttelse af dine personlige oplysninger er vigtig for Gladsaxe Kommune«, lyder det i mailsignaturen fra alle kommunens ansatte og politikere.
+Men nu er der sket en datalæk i Gladsaxe Kommune. Igen igen.
+82 borgere i Gladsaxe Kommune fik mandag eftermiddag besked om, at kommunen har ladet deres fortrolige personoplysninger ligge frit tilgængeligt på sin hjemmeside i 4 måneder.
+Ifølge orienteringsbrevet, som Politiken er i besiddelse af, har kommunen lækket borgernes navne, adresse og personnumre, i visse tilfælde også deres statsborgerskab og underskrift. Oplysningerne kan i værste fald misbruges til at købe varer i offerets navn, ansøge om kviklån, oprette kreditkort eller få adgang til følsomme dokumenter, såsom et testamente.
+Den nye sag i Gladsaxe er det tredje alvorlige brud på datasikkerheden på få måneder. I december mistede kommunen 20.600 borgeres fortrolige og følsomme personoplysninger som følge af ringe sikkerhed og en mistet computer. 4 måneder inden da skete det samme med konsekvens for mindst 40 borgere.
+Blandt de berørte af den nye lækage er Venstres byrådspolitiker og gruppeformand i Gladsaxe, Pia Skou. Hun kalder det »amatøragtigt«, at kommunen nu for tredje gang på kort tid har behandlet borgeres oplysninger usikkert.
+»De seneste måneder har jeg som politiker snakket med mange borgere, som føler sig hængt ud og klædt af, fordi kommunen ikke har passet godt nok på deres oplysninger. Jeg må sige, at jeg føler nogle af de samme ting nu. Det er amatøragtigt, at det bliver ved, og at der er tale om forskellige typer læk. Det er simpelthen ikke i orden«, siger Pia Skou.
+Byrådspolitikerens oplysninger er blevet lækket, ved at lukkede dagsordensbilag i forbindelse med valg til integrationsrådet ved en fejl lå åbne på kommunens hjemmeside. Dermed kunne alle tilgå dem i perioden 1. oktober-30. januar.
+Ifølge Politikens oplysninger er yderligere en politiker ramt af lækket.
+Sagen kort
+Gladsaxe-læk
+I december 2018 mistede Gladsaxe Kommune 20.600 borgeres personlige oplysninger, da en ukrypteret computer med en fil på skrivebordet blev stjålet. Kommunen har erkendt flere fejl og lovbrud, blandt andet en uretmæssig behandling af data om borgernes religion.
+Over 1.300 bekymrede borgere har siden henvendt sig til kommunen for at få svar.
+Politiken har siden afsløret, hvordan kommunen begik samme svigt fire måneder forinden, i juli 2018. Her blev mindst 40 borgeres data lækket, da en tilsvarende ubeskyttet computer blev mistet i en bus, uden at kommunen efterfølgende rettede op på sikkerheden.
+Senest har kommunen meddelt 42 borgere, herunder nogle lokalpolitikere, at deres cpr-nummer og andre persondata har været eksponeret på kommunens hjemmeside i 4 måneder.
+Gladsaxe Kommune skriver i orienteringsbrevet, at »risikoen for misbrug vurderes som lille«, fordi dagsordensarkivet har »meget få besøgende«. Men det er alt for uklart, siger Pia Skou:
+»De skriver, at det er ikke så mange, men jeg vil simpelthen vide, præcis hvor mange der har besøgt det arkiv. Én person med ondsindede hensigter er jo nok til, at mine oplysninger kan misbruges. Generelt synes jeg, orienteringsbrevet er mangelfuldt, og det frustrerer mig. Det må kommunen rette op på«, siger byrådspolitikeren.
+Der er tale om flere forskellige datalæk, som tilsammen berører de 82 borgere i Gladsaxe Kommune. Foruden bilag fra integrationsrådet har også ansøgninger om alkoholbevillinger ved en fejl været frit tilgængelige. Tre borgere har fået deres cpr-numre eksponeret i kommunens digitale byggesagsarkiv.
+Gladsaxe Kommune beklager over for de borgere, som har fået lækket deres oplysninger. Men kommunaldirektør Bo Rasmussen kan ikke afvise, at der vil komme flere orienteringsbreve i den kommende tid.
+»Der er tale om en leverandør, der har lavet en fejl i omlægningen af et system, så oplysningerne har ligget tilgængelige. Men det er vores ansvar som dataansvarlig kommune, og det er drønærgerligt. Jeg kan godt forstå, at borgerne føler sig krænket. Det er ikke en rimelig situation for dem. Vi gør vores bedste for at rette op«, siger Bo Rasmussen.
+Rækken af sager viser, at Gladsaxe Kommune har svært ved at leve op til sit løfte til borgerne om at beskytte deres personlige oplysninger. Da over 20.000 borgere fra hele landet fik lækket deres personoplysninger i december som følge af ringe sikkerhed og en tabt computer, erkendte kommunen samtidig, at man i strid med reglerne havde behandlet persondata, der var irrelevante for formålet med arbejdsopgaven.
+I forrige uge kunne Politiken afsløre, at lækket i december faktisk var et gentagelsestilfælde. I juli 2018 skete et parallelt datasikkerhedsbrud i kommunen, hvor 40 borgeres personoplysninger blev tabt på grund af fejl og en mistet, ubeskyttet computer.
+Ifølge eksperter kunne det store læk i december være undgået, hvis kommunen efter første sag havde rettet op på fejlene og sikkerheden.
+Politiken har også talt med gladsaxeborgeren Britt Christoffersen. Hendes datter er blandt dem, der torsdag fik at vide, at hun har fået lækket sine personoplysninger.
+»Min datter er ret langt nede lige for tiden. Så får hun det brev her fra kommunen og bliver hylet helt ud af den. Jeg fik selv et brev sidste gang, fordi mine oplysninger var med i det store læk i december. Det var hendes i øvrigt også, så det er anden gang nu på kort tid for hende. Hvad fanden har de gang i inde på kommunen«, spørger Britt Christoffersen.
+Hun siger, at de mange datalækager udfordrer hendes tillid til kommunen.
+»Ja for at sige det pænt, er den dalende«.
+Bruger du 12-skalaen eller 13-skalaen?
+»Jeg kan godt lide 13-skalaen … Og jeg vil give Gladsaxe Kommune et 5-tal. Ikke bestået«, siger Britt Christoffersen.
+Det er i forbindelse med et ’skærpet internt sikkerhedsarbejde’, at de seneste lækager er blevet opdaget. Kommunaldirektør Bo Rasmussen vil ikke afvise, at kommunen kan blive nødt til at oplyse om flere lækager den kommende tid.
+»Jeg ved ikke, hvad der kommer frem. Men der kommer formodentlig mere. Vi er gået i gang med at feje fra kælder til kvist med den store kost, og vi kigger alle vores registre og hjemmesiden igennem. Det vigtigste for os nu er, at vi er åbne over for de fejl, der har været, og at vi retter op«, siger Bo Rasmussen.
+Gladsaxe byråd besluttede i sidste uge at iværksætte to undersøgelser af, hvordan og hvorfor det er gået så grueligt galt med it-sikkerheden og databeskyttelsen i den københavnske forstadskommune.
+Borgmester Tine Græse (S) modsatte sig dog en uvildig ekstern undersøgelse af hændelsesforløbet, men gav i stedet opgaven til kommunens egen databeskyttelsesrådgiver.
+Kun Venstre og Enhedslisten stemte for en ekstern undersøgelse.
+»Flertallet, de andre partier, ønskede, at kommunen skulle undersøge sig selv. At databeskyttelsesrådgiveren skulle undersøge sig selv«, konstaterer Venstres gruppeformand, Pia Skou.
+Har du fortsat tillid til, at embedsapparatet i Gladsaxe Kommune får vendt hver en sten i de her sager?
+»… Jeg synes, det er rigtig svært, når der bliver ved med at komme datalæk. Og især fordi det er forskellige måder, det lækkes på. Vi skal prioritere borgernes datasikkerhed højt. Og derfor skal vi virkelig tage de her sager alvorligt«.
+Sebastian Stryhn Kjeldtoft
+fortsæt med at læse
+Læk på læk af borgeres personoplysninger:
+To undersøgelser skal nu afdække, hvad der er gået så galt i Gladsaxe
+Det er sket før, men blev holdt hemmeligt:
+Gladsaxe blev ramt af samme fejl og læk blot fire måneder før kæmpelæk
+Gladsaxe indstiller arbejdet med omstridt overvågning af børnefamilier

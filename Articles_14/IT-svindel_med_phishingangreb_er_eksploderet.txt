@@ -1,0 +1,39 @@
+Title: IT-svindel_med_phishingangreb_er_eksploderet
+Date: 2019-03-01
+Article Type: Tech
+Author: Selv om flere typer af IT-svindel er faldet markant, er antallet af svindel ved brug af de såkaldte phishingangreb eksploderet med 250 procent.
+
+Mynthe Villadsen
+Journalist
+Vi er langt hen ad vejen blevet meget bedre til at beskytte os sig selv mod forskellige former for IT-svindel ifølge en ny rapport fra Microsoft. Men på et område har cybersvindlere kronede dage.
+Security Intelligence Report er Microsofts årlige rapport om udviklingen i den globale IT-sikkerhed, som udkom torsdag. Den viste, at der er sket et markant fald i tilfælde med svindel ved brug af metoder som ransomware, der er faldet med 73 procent globalt og 83 procent i Danmark.
+Ransomware er en metode, hvor svindlere får adgang til en computer, krypterer vigtigt indhold og derefter truer med at slette det, hvis ejeren ikke betaler løsesum.
+IT-svindel
+Ransomware
+er en metode, hvor svindlere får adgang til en computer, krypterer vigtigt indhold og derefter truer med at slette det, hvis ejeren ikke betaler løsesum.
+Phishing
+er at tager en anden identitet og udgiver sig for eksempelvis at være en virksomhed, en kollega eller en anden man normalt har tillid til for at franarre oplysninger og få adgang til enten penge eller oplysninger.
+Malvare
+er et program, der i al hemmelighed bliver installeret på computeren, hvorefter bagmændene eksempelvis får adgang til billeder, private oplysninger eller netbank. Undersøgelser har tidligere vist, at hver anden annonce, der ligger på ulovlige sites, er inficeret med malware.
+Og det er er både privatpersoner og virksomheder, der er blevet bedre til at forsvare sig mod svindel, fortæller Microsofts tekniske direktør, Ole Kjeldsen.
+»Vi er blevet rigtig gode til at holde vores generelle IT-hygiejne i vores virksomheder relativt godt opdateret, så der ikke er for store huller«, siger Ole Kjeldsen.
+Malware, der er et program, som giver kriminelle mulighed for at snage i din computer, er ligeledes faldet markant med henholdsvis 34 på globalt plan og 83 procent i Danmark.
+Til gengæld ser det ud til, at svindlerne har flyttet deres kriminelle aktiviteter over til phishing, som er steget med 250 procent.
+Phishing er en metode, hvor kriminelle gemmer sig bag en falsk identitet – eksempelvis Microsoft, Danske Bank eller NemID – og franarrer folk informationer for at få adgang til enten penge eller oplysninger.
+Når phishing tilsyneladende er de cyberkriminelles foretrukne svindelmiddel, så skyldes det ifølge Ole Kjeldsen det menneskelige aspekt, der ligger i metoden.
+»Det er en angrebsmetode, hvor man lukrerer på vores allesammens godtroenhed, eller at vi en gang imellem mangler omtanke i forhold til det digitale miljø, at der også lurer trusler derude«.
+I rapporten er det ikke muligt at se konkrete tal for tilfælde af phishing i Danmark, derfor kan det ikke afgøres, hvordan udviklingen ser ud herhjemme.
+Men Ole Kjeldsen er ikke i tvivl om at der også er en stor stigning i antallet af tilfælde med phishing herhjemme.
+»Det vil jeg næsten garantere dig. Jeg taler med rigtig mange organisationer rundt omkring i Danmark, og det sidste år har jeg nærmest ikke talt med en organisation, som ikke enten har set en stigning eller en markant stigning i antallet af phishingangreb, der rammer dem«, fortæller han.
+I maj 2017 inficerede ransomwareprogrammet ’WannaCry’ over 230.000 computere i 99 lande. Filer blev krypteret, så brugerne ikke kunne få adgang til deres indhold, medmindre de betalte løsesum i form af bitcoin svarende til omkring 300 amerikanske dollars.
+To måneder senere angreb et andet ransomwareprogram NotPetya, som blandt andet kostede Mærsk 1,9 milliarder kroner.
+Og de to store cyberangreb er ifølge Ole Kjeldsen årsagen til, at det er lykkedes at få et så markant fald i den typer af IT-svindel,
+»Det store fald, der er på ransomware, er et spejl af, at vi havde de to store angreb WannaCry og NotPetya, som gav et enormt fokus på ransomware, og hvordan man kunne beskytte sig mod det. Når der kommer fokus på, at vi skal beskytte os imod det, så bliver det sværere for de kriminelle at benytte den angrebsmetode«, siger han, og advarer både virksomheder og privatpersoner mod at hvile på laurbærrene, blot fordi der er sket et stort fald.
+Hver gang man finder et forsvar, så har det en effekt, men det flytter samtidig farerne over et andet sted. For kriminelle vil tjene penge.
+»Cyberkriminelle er lige som vand. De flytter derhen, hvor der er mindst modstand, der hvor der er huller, så de skal nok finde nye angrebsmetoder. Og den her gang har de valgt phishing«, siger Ole Kjeldsen.
+Han har tre råd til, hvordan du beskytter dig mod IT-svindel; hold din computer opdateret, hold dig informeret med, hvad der florerer af IT-trusler fx med appen ’Mit digitale selvforsvar’, og helt almindelig, sund skepsis.
+»Hvis noget virker til at være for godt til at være sandt, så er det nok ikke sandt. Vi er nødt til alle sammen at tage det ansvar, at holde vores teknologi opdateret, holde os informeret, og være kritiske i vores stillingtagende – også digitalt«, lyder det fra Ole Kjeldsen.
+Mynthe Villadsen
+fortsæt med at læse
+Guide: Sådan sikrer du dit privatliv på nettet
+Skoleelever undervises i sikker adfærd på internettet – men har lidt svært ved at se problemet

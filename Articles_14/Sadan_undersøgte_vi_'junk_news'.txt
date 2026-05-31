@@ -1,0 +1,49 @@
+Title: Sadan_undersøgte_vi_'junk_news'
+Date: 2019-04-17
+Article Type: Danmark
+Author: Carl Emil Arnfred
+
+Journalist
+Sebastian Stryhn Kjeldtoft
+Undersøgende redaktør
+Misinformation
+har de seneste år været et tema i forbindelse med flere demokratiske valg i vore nabolande. Særligt begrebet ’fake news’ med opdigtede og faktuelt forkerte historier har fået megen omtale. Men erfaringer fra lande som Storbritannien, Tyskland og Sverige viser, at såkaldt ’junk news’ er mere udbredt. Derfor satte Politiken sig for at undersøge fænomenet i Danmark forud for det kommende folketingsvalg.
+Forskere
+på Oxford Universitet har undersøgt fænomenet. De definerer ’junk news’ som »propaganda og ideologisk ekstreme, hyper-partiske eller konspiratoriske politiske nyheder«. Der måles på fem kriterier. Oxford undersøgte det svenske valg i efteråret 2018 og konkluderede, at for hver gang der blev delt tre normale artikler på Twitter, blev der delt en ’junk news’ artikel.
+Oxford
+undersøger ikke folketingsvalget. Politiken nedsatte derfor et ekspertpanel med hjælp fra de tre journalistuddannelser i Danmark. I panelet sidder: Peter Bro, leder af Center for Journalistik på Syddansk Universitet. Vibeke Borberg, advokat og docent i medieret med orlov fra Danmarks Medie- og Journalisthøjskole. Jannie Møller Hartley, leder af Digital Media Lab på Roskilde Universitet.
+Ekspertpanelet
+diskuterede, hvad der er ’junk news’. De læste flere af Oxfords rapporter, men konkluderede, at Oxford-kriterierne var mangelfulde. I stedet opstillede panelet 20 kriterier for, hvordan de ville vurdere, hvad der er ’junk news’.
+De tre P’er
+, blev kriterierne døbt – en forkortelse for Platform, Producenter og Produkt.
+Alle 20 kriterier kan læses på Politikens hjemmeside
+.
+Hvad platform angår
+, er det kriterier som ’hvem ejer mediet?’ og ’er forretningsmodellen gennemsigtig?’.
+Hvad producenter angår,
+er det kriterier som ’deklarerer mediet artikelgenrer korrekt, såsom nyheder og holdningsstof?’ Og ’Er mediet villigt til at rette fejl, og hvordan gør det i givet fald opmærksom på det?’.
+Hvad produkt angår,
+er det kriterier som ’følger mediet det kontradiktoriske princip – at den anklagede i en artikel har ret til at se og svare på kritik?’. Et andet kriterium er: ’Er de oplysninger, mediet videreformidler, vildledende?’.
+Panelet valgte
+at fokusere på nye, digitale medier. Kriteriet for at blive en del af undersøgelsen var, at medierne skulle omtale sig selv som ’medier’, som lavede ’journalistik’ eller ’nyheder’, eller havde en opsætning, som mindede om nyhedsmedier. Partipolitiske medier og egentlige blogs blev frasorteret i undersøgelsen, da Politiken vurderede, at de udgør en kategori for sig selv.
+På den baggrund
+fandt Politiken 15 medier, som ekspertpanelet kunne undersøge. Artikler fra de 15 medier blev indsamlet i den samme undersøgelsesperiode, 25. februar-4. marts, når det var muligt. For de mest produktive medier frasorterede Politiken læserbreve, Ritzau-artikler, debatindlæg og politiets døgnrapporter, så ekspertpanelet kun skulle gennemgå den redaktionelle produktion.
+Nogle medier
+producerede så få artikler i perioden, at deres undersøgelsesperiode blev udvidet til at dække perioden tilbage fra 1. januar. Årsagen til det var, at panelet ville have en vis mængde artikler at bedømme ud fra, så enkeltartikler ikke blev afgørende for bedømmelsen.
+Ekspertpanelet
+gennemgik i alt 237 artikler fra 15 medier. Panelet konkluderede, at ni af medierne producerede journalistik af så ringe kvalitet, at de kan betegnes junkmedier. De ni medier er: 24Nyt, NewSpeek, Folkets Avis, Den Korte Avis, Dagens, Nyheder24, Digitale Nyheder/Krammet, dkdox.tv og Døgnets. Dem gennemgår Politiken i dag og de kommende dage.
+Seks medier
+blev af ekspertpanelet vurderet til IKKE at være junkmedier. Det var: 180Grader, NewsBreak, Document, Solidaritet, Opdateret og Respons. Eksperternes begrundelser var forskellige afhængige af medierne. Nogle leverede indhold af en kvalitet, der var tilfredsstillende. Andre medier blev af panelet vurderet til at være blogs eller sociale medier, ikke nyhedsmedier. Derfor var de ikke relevante for undersøgelsen, mente panelet.
+Udbredelsen
+af junkmedier på sociale medier blev undersøgt med et såkaldt Twitter Capture and Analysis Toolset (TCAT). Værktøjet er oprindeligt udviklet hos Digital Methods Initiative på Amsterdam Universitet i Holland, men kan hentes af enhver. Dertil har Politiken modtaget data om Facebook via konsulentbureauerne Common Consltancy og Analyse & Tal.
+Historierne
+om linkbuilding og skjult reklame er baseret på tilbudslister fra reklamebureauer, Politiken kom i besiddelse af, samt interviews med en lang række kilder i branchen. Politiken havde i en periode også adgang til en lukket Facebook-gruppe, hvor handlerne blev foretaget.
+Omfanget
+af skjult reklame blev afdækket ved hjælp af søgninger i såkaldte ’backlinks’ - altså bagudrettet analyse af, hvilke hjemmesider, der linker til en bestemt hjemmeside.
+Sebastian Stryhn Kjeldtoft
+fortsæt med at læse
+Politikere narres af junkmedier og bruger manipulerende artikler til at udfritte ministre
+DF-politiker:
+»Der er lige så meget junk på Danmarks Radio og TV 2, som der er i Den Korte Avis«
+Peter Kofod spurgte ministeren om junk news:
+»Man skal passe på med, hvad man læser, for vi kan alle blive snydt«

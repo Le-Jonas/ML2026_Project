@@ -1,0 +1,35 @@
+Title: Partier_Telesikkerheden_i_Rumænien_ma_afklares
+Date: 2019-08-02
+Article Type: Danmark
+Author: Korruption og rumænske spiontjenester må ikke kompromittere danske teledata, siger politikere.
+
+Sebastian Stryhn Kjeldtoft
+Undersøgende redaktør
+Hvis regeringen ikke højner sikkerheden omkring danske teledata, skal udflytningen af TDC’s netværkscenter til Rumænien 31. august stoppes. Det siger udenrigsordfører Søren Espersen (DF), efter Politiken torsdag beskrev landets problemer med korruption og magtmisbrug i spiontjenesterne.
+»Det her lyder simpelthen for usikkert. Det går ikke, hvis de her rumænske efterretningstjenester kan få adgang til oplysninger om danskere. Det må være muligt at kræve, at Center for Cybersikkerhed kan komme på uanmeldte tilsynsbesøg i Rumænien. Kan TDC og Ericsson ikke acceptere det, synes jeg, regeringen skal sige, at så bliver udflytningen ikke til noget«, siger Søren Espersen.
+Han har indkaldt forsvarsminister Trine Bramsen (S) i samråd om sagen, som er skemalagt til 23. august med forbehold for ændringer.
+Fra TDC’s netværkscenter kan ondsindede personer potentielt få adgang til såkaldte metadata om danskernes mobiltelefoner. Det er værdifulde oplysninger, som kan misbruges af fremmede spiontjenester og kriminelle, vurderede den tidligere operative chef i PET, Hans Jørgen Bonnichsen, i Politiken torsdag.
+Også Konservatives forsvarsordfører Niels Flemming Hansen vil have svar på, om sikkerheden er god nok i Rumænien, der har udviklet en stor it-sektor, men generelt er plaget af korruption.
+»Jeg er glad for, der er indkaldt samråd i sagen – ellers ville vi gøre det. Det er jo ikke kun den almindelige danskers oplysninger, som potentielt kan spores. Kongehuset og vores statsminister har også telefonforbindelser. Det kan ikke nytte noget, hvis det kan kompromitteres«, siger han.
+Niels Flemming Hansen forstår ikke, hvorfor TDC hidtil har nægtet at forklare sig:
+»Jeg undrer mig over tavsheden fra TDC. Jeg håber, det skyldes sommerferie«, siger den konservative ordfører.
+18. juni fortalte Politiken, at TDC outsourcer det såkaldte ’Network Operations Center’, eller NOC, til Rumænien. Her skal svenske Ericsson drive NOC’en, som selskabet i forvejen gør det for en række andre teleudbydere i andre lande.
+Også Telia og Telenor har en NOC i Rumænien, som finske Nokia driver. Men retssikkerheden i Rumænien halter efter, særligt når det gælder landets seks efterretningstjenester. Det fortalte rumænske eksperter torsdag til Politiken.
+»Min vurdering er, at de rumænske efterretningstjenester med loven i hånden kan få adgang til hvilken som helst information, det danske selskab placerer i Rumænien. Den bedste beskyttelse, forbrugerne har, er rumænske myndigheders frygt for at lægge sig ud med Danmark«, sagde Lavinia Stan, som forsker i Rumæniens overgang til demokrati ved St. Francis Xavier Universitet i Canada, hvor hun er professor.
+Forsvarsminister Trine Bramsen (S) ville torsdag ikke udtale sig om de rumænske forhold. Men regeringen må til at komme på banen, siger Radikales retsordfører Kristian Hegaard:
+»Vi politikere skal have nogle oplysninger, så vi kan tage en debat på et oplyst grundlag. Vi må vide, hvilke data det her drejer sig om, og om det er noget, vi skal være bekymrede for. Vi har en pligt over for borgerne til at drøfte det her. Vi må aldrig gamble med danskernes sikkerhed«, siger Kristian Hegaard.
+Rumænien er de sidste ti år blevet et populært outsourcing-land for Europas it-sektor, fordi personalet er højt kvalificeret og billig i løn.
+Flere andre teleselskaber benytter allerede Ericssons services i Bukarest, har Ericsson oplyst. Politiken ved ikke, hvilke selskaber der er tale om.
+I Center for Cybersikkerhed hæfter chef Thomas Lund-Sørensen sig ved, at mange teleudbydere føler sig trygge ved forholdene i Rumænien. Torsdag konstaterede han, »at mange andre teleselskabers netværk drives fra Rumænien, og at der er ikke tegn på nogen ændring i det billede«.
+I Enhedslisten har forsvarsordfører Eva Flyvholm dog en fornemmelse af, at udflytningen mere handler om penge end sikkerhed.
+»Indtil videre har vi ikke kunnet få en ordentlig forklaring fra TDC og Ericsson, hvilket er bekymrende. Sandsynligvis bliver det her udliciteret for at spare penge. Det er ekstra vigtigt, at vi får fuldstændig åbenhed om, hvordan man sikrer, at det her ikke kan give sikkerhedsbrud eller kompromittere folks private informationer«, siger Eva Flyvholm.
+TDC og Ericsson fastholder, at de har fuldstændig tillid til sikkerheden og hinanden. Det giver Søren Espersen ikke meget for:
+»Det skal de jo sige, når de er samarbejdspartnere – alt andet ville være mærkeligt. Det er lige som en regeringschef, der siger, han har tillid til en minister og så fyrer ham 28 minutter efter. Sådan er spillets regler. Den slags forsikringer skal man ikke bare tage for gode varer«.
+Sebastian Stryhn Kjeldtoft
+fortsæt med at læse
+Forhadt efterretningstjeneste spøger stadig:
+Danmark frygter korruption, men outsourcer it-sikkerhed til Rumænien
+Ekspert:
+Spiontjenester kan få adgang til »hvilken som helst information«, Danmark lagrer i Rumænien
+»Jeg er rystet«, siger ekspert:
+Kontrollen med Danmarks centrale telenetværk flytter fra København til Rumænien

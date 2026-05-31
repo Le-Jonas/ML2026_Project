@@ -1,0 +1,23 @@
+Title: It-giganter_vil_beskytte_folketingsvalg_mod_russis
+Date: 2019-02-20
+Article Type: Danmark
+Author: Truslen fra udenlandske hackere, der forsøger at påvirke valg og demokratiske processer rundt om i verden, er stor.
+
+Sådan lyder det fra Microsoft, der onsdag lancerer et gratis beskyttelsesprogram mod cyberangreb i flere europæiske lande - heriblandt Danmark.
+Virksomheden har opsporet tre hackerangreb mod større europæiske politiske organisationer.
+»Derfor udvider vi nu programmet til at omfatte Danmark og 11 andre europæiske lande, fordi der i de her lande dels er EU-valg, valg til Folketinget eller nationale parlamenter«.
+»Vi har konkrete historier om, hvordan hackerangreb har påvirket valg i USA og senest også i UK (Storbritannien red.). Så det er en konkret trussel«, siger Marianne Dahl, administrerende direktør i Microsoft Danmark.
+Ifølge Microsoft står den russiske hackergruppen Strontium - der også er kendt som Fancy Bear eller ATP28 - bag nogle af angrebene.
+Samme gruppe er af Microsoft også afsløret i at stå bag hackerangrebet mod det demokratiske parti og Hillary Clinton under præsidentvalgkampen i USA i 2016.
+Også EU, Facebook, Google, Twitter og Mozilla er gået aktivt ind i bekæmpelse af misinformationer online i et nyt initiativ.
+Initiativet er sat i værk i et forsøg på at stoppe spredning af fake news via sociale medier og digitale platforme før valget til Europa-Parlamentet og andre nationale valg i Europa.
+Microsofts program, der går under navnet 'Defending Democracy', så dagens lys sidste år. Det skete i erkendelse af den stigende cybertrussel mod demokratiske institutioner og valgprocesser i både USA og Europa.
+Alle politiske kandidater, partier, tænketanke, ngo’er og øvrige non-profit-organisationer, der arbejder med demokratiudbredelse og valgprocesser, får gennem programmet tilbudt sikkerhedsløsninger, der minimerer risikoen for cyberangreb.
+»Lige præcis over for denne kundegruppe synes vi, at vi har et ansvar, der går ud over det at være en kommerciel virksomhed, for at sikre, at alle vores demokratiske processer er beskyttet i sådan en valgsituation, som vi står i nu«, siger Marianne Dahl.
+ritzau
+fortsæt med at læse
+Kold krig breder sig på internettet:
+Putin vil have en internetmur som den i Kina
+Ny cyberovervågningslov skaber usikkerhed
+Forsvarsministeren:
+Ny cyberlov er vigtig og gennemtænkt

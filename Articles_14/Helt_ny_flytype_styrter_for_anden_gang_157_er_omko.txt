@@ -1,0 +1,34 @@
+Title: Helt_ny_flytype_styrter_for_anden_gang_157_er_omko
+Date: 2019-03-10
+Article Type: Internationalt
+Author: Omstændighederne ved flystyrtet i Etiopien ligner en tilsvarende fatal ulykke med et fly af samme type i oktober.
+
+Jacob Svendsen
+Der er ingen overlevende, efter at et fly fra Ethiopean Airlines styrtede ned søndag morgen syd for den etiopiske hovedstad Addis Ababa. Ifølge flyselskabet kommer de omkomne fra 35 forskellige lande, og det formodes, at en del af dem var på vej til den årlige generalforsamling i FN’s miljøorganisation, UNEP i den kenyanske hovedstad Nairobi.
+Mødet begynder mandag og er planlagt til at vare fire dage. Knap 5.000 ministre, statsledere, embedsmænd og organisationsfolk deltager i mødet. Blandt deltagerne vil være FN’s generalsekretær Antonio Guterres og den franske præsident Emmanuel Macron. Ofrene for flystyrtet er endnu ikke identificeret, men ifølge flyselskabet var der ingen danskere om bord, mens tre svenskere og en nordmand formodes at være omkommet.
+Mens kondolerende tweets strømmer ind fra hele verden, er spekulationerne om årsagerne til flystyrtet begyndt. Ethiopian Airlines, der modtog det styrtede Boeing 737 Max i november, er et af Afrikas mest velrenommerede selskaber, og det er endog meget sjældent, at der sker ulykker med så nye fly. Flyet var ankommet tre timer tidligere fra Sydafrika på en rejse, hvor der ifølge flyselskabet ikke var rapporteret om nogen problemer.
+Men flymønsteret til sidst i den omkring seks minutter lange flyvning fra starten i Addis Ababa, indtil flyet ramte jorden ved byen Bishoftu 60 kilometer fra lufthavnen, ligner de dramatiske minutter forud for et andet fatalt styrt i oktober med et tilsvarende fly fra det indonesiske selskab Lion Air.
+Den svenske internetside Flightradar24.com indsamler i realtid oplysninger om blandt andet positioner, flyvehøjder, retninger og hastigheder for civile fly over hele verden.
+Ifølge den tidligere driftsdirektør i Københavns Lufthavn, Hans Christian Stigaard ligner data fra flightradar24 om det etiopiske fly de sidste minutters flyvning forud for et indonesisk fly af samme type i oktober. Det helt nye fly fra selskabet Lion Air styrtede med stor kraft i havet nord for Java, og alle 189 passagerer og besætningsmedlemmer omkom.
+»Her ser vi ser et tilsvarende flyvemønster, hvor piloterne forsøger at trække flyets næse op, mens det automatisk bliver ved med at trække nedad. Det ligner hinanden ganske meget.«, siger Hans Christian Stigaard, der i dag er rådgiver i blandt andet flysikkerhed.
+Han peger også på, at piloterne på det etiopiske fly ligesom de indonesiske kollegaer havde anmodet om at vende om, umiddelbart før flyet bragede direkte i jorden og efterlod et dybt krater på markerne ved Bishoftu.
+Fakta
+Boeing 737 Max
+Boeing fortalte
+første gang om 737 Max-modellen i 2010. Konkurrenten Airbus klarede sig godt med nye brændstofbesparende fly, og 737 Max skulle være Boeings modspil.
+For at spare
+på brændstoffet blev de nye letvægstmotorer fysisk større end på de seneste 737 modeller, og samtidig blev motorerne rykket frem under vingerne. For at få plads til de nye motorer, når flyet er på jorden, måtte flyets næsehjul også hæves med knap 20 centimeter.
+Resultatet blev
+et driftsøkonomisk fly med op mod 20 procent mindre brændstofforbrug. Men ændringerne betød, at flyet kan have en tendens til at ændre flyvinklen, så opdriften ved vingerne blev mindre og i yderste konsekvens med risiko for, at flyet ’staller’ og styrter.
+Derfor blev det såkaldte MCAS-system sat ind i flyets computere. MCAS skal automatisk rette flyet op, hvis der er indikationer på en forkert vinkel. Problemet er imidlertid, at MCAS også træder i kraft, hvis oplysningerne om flyvinklen er fejlbehæftede eller forkerte. Det betyder, at flyets næse dykker nedad. I den situation skal piloterne slået systemet fra og rette flyet op manuelt.
+Den danske ekspert understreger, at der endnu ikke er nogen konkret viden om styrtet i Etiopien, og at den officielle havarirapport fra Indonesien ikke er offentliggjort endnu. Alligevel peger alle oplysninger fra Indonesien på et særligt softwaresystem i den nye type Boeing 737: Maneuvering Characteristics Augmentation System (MCAS) som årsag til det mystiske flystyrt.
+»MCAS er et system, som først er kommet til på denne Max udgave af Boeing 737. Det system er den grundliggende forskel på Max og alle andre 737 typer. Systemet griber automatisk ind, hvis flyets systemer tror, at det er ved at stalle (flyets vinger mister opdriften på grund af en kritisk stejl stigende vinkel, red.). MCAS får automatisk flyet til at dykke næsen ned, hvilket også er det rigtige, hvis det er ved at stalle. Men det kan være katastrofalt, hvis det er forkerte informationer, og flyet i virkeligheden har en korrekt vinkel og opdrift over vingerne.«, forklarer Hans Christian Stigaard.
+I den situation skal piloterne ikke stole på systemet, men straks slå det fra ved hjælp af en kontakt i cockpittets midterkonsol for derefter at bringe flyet i en korrekt vinkel igen. Men efter omfattende research offentliggjorde New York Times 3. februar en artikel, hvor det fremgår, at Boeing - med tilladelse fra de amerikanske luftfartsmyndigheder, FAA - har undladt at fortælle om det nye system.
+Ifølge New York Times, der har talt med en stribe kilder i i luftfartsbranchen og piloter i Southwest Airlines - en af Boeings storkunder - skyldes det et ønske om, at piloterne fra de andre 737 fly ikke skulle igennem kostbar simulator-træning, før de satte sig ind i cockpittet på en 737 Max.
+Efter flystyrtet i Indonesien er forløbet genstand for en undersøgelse hos National Transportation Safty Board, der er den amerikanske havarikommission: »FAAs certificering af 737 Max er en del af vores og de indonesiske myndigheders undersøgelse«, står der i et svar til New York Times. Havarikommissionen vil ikke kommentere yderligere, før den endelige officielle havarirapport fra Indonesien er færdig.
+Ifølge Hans Christian Stigaard rejser den indonesiske ulykke spørgsmålet, om undervisningen af piloterne på Max versionen har været god nok. »Det blev der rejst alvorlig tvivl om efter Lion-ulykken. Det ser ud som om, mønstret nu er det samme. Man kan frygte det, men jeg vil understrege, at vi ved det ikke endnu«, siger Hans Christian Stigaaard.
+Efter ulykken i Indonesien udsendte Boeing en besked om problemstillingen med MCAS på Boeing 737 Max, men det er op til myndighederne i de enkelte lande, om og hvordan de vil ændre i sikkerhedsreglerne for flyselskaber med flytypen. Det står ikke klart, om Ethiopian Airlins instruerede sine piloter om risikoen, for at fejl i flyets data får MCAS-systemet til at reagere og dermed frembringe en risiko, for at flyet styrter.
+Jacob Svendsen
+fortsæt med at læse
+Tre svenskere og en nordmand er dræbt i etiopisk flystyrt
+Nedstyrtet fly i Indonesien havde fejl på fartmåler

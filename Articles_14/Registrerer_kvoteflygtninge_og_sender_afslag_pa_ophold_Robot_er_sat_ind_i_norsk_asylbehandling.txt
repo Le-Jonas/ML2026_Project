@@ -1,0 +1,8 @@
+Title: Registrerer_kvoteflygtninge_og_sender_afslag_pa_ophold_Robot_er_sat_ind_i_norsk_asylbehandling
+Date: 2018-05-03
+Article Type: Tech
+Author: Simone Scheuer-Hansen
+
+Journalist
+Den norske udlændingestyrelse har indsat en robot i behandlingen af asylsager.
+Uden hjælp fra ansatte behandler robotten Ada alt fra registrering af kvoteflygtninge og udrejserapporter til udsendelse af opholdstilladelse og afslag på selvsamme.

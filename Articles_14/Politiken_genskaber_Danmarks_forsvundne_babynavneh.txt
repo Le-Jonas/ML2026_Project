@@ -1,0 +1,47 @@
+Title: Politiken_genskaber_Danmarks_forsvundne_babynavneh
+Date: 2019-03-26
+Article Type: Babynavne fra 1900 til i dag
+Author: Illustration: Sandra Bertelsen
+
+Illustration: Sandra Bertelsen
+Helt nye data gør dig klog på, hvordan dit og dine børns navne har udviklet sig gennem 118 år.
+Som abonnent kan du ubegrænset dele artikler med dine venner og familie. Læs mere om fordelene ved et abonnement
+her
+.
+Går du forbi en legeplads i dag, vil du nærmest med garanti løbe ind i William, Lucas og Noah eller Emma, Sofia og Ella, som er nogle navne, der scorer højt på popularitetsbarometeret i disse år.
+Vi er ikke helt nået til Bent, Poul, Birthe og Jytte endnu, mens for eksempel Carl, Aksel, Esther og Nora er på heftig fremmarch.
+Vi er generelt pjattede med vores bedste- og oldeforældres navne, og sådan har det altid været, når vi skal vælge navne til de nye familiemedlemmer.
+Navneforskere taler om 100-års cyklusser. På et tidspunkt har ’de gamle navne’ modnet længe nok og begynder at lyde gode og nutidige igen, og selv om de fleste forældre nok tror, at de er originale i deres navnevalg, så viser det sig år efter år, at nej, det var de overhovedet ikke.
+Eller i hvert fald ikke mere originale end et par hundrede andre, der tilfældigvis fik den samme geniale indskydelse på samme tidspunkt.
+Det er i dag via Danmarks Statistik kun muligt at se navnes udbredelse og udvikling tilbage til 1985, men ved at tage udgangspunkt i cpr-registerets oprettelse i 1968 har Politiken fået skabt et datasæt, der går tilbage til 1900.
+Datasættet rummer ikke navne på personer, der er døde i perioden 1900-1968, men da der ikke formodes at være nogen sammenhæng mellem navnevalg og dødelighed, bør den enorme datamængde stadig give et retvisende billede af danske babynavnes udvikling siden 1900.
+Politiken har bygget flere digitale indgange til datasættet, som du kan finde på
+denne overbliksside
+, og i
+denne artikel
+kan du læse en uddybende forklaring på datasættets tilblivelse.
+Data fra 1900 til 2014 er baseret på CPR. Derfra får vi hvert år navnedata fra Danmarks Statistik.
+På trods af denne evigt gentagende cyklus ved vi forbavsende lidt om, hvor populære vores navne egentlig har været gennem tiderne.
+Det har nemlig i Danmark indtil nu kun været muligt at gå godt og vel 30 år tilbage for at se et navns popularitetskurve år for år, fordi Danmarks Statistiks opgørelser ikke går længere tilbage end til 1985.
+Det gør Politiken nu noget ved.
+I det nye datasæt
+’Babynavne fra 1900 til i dag’
+har vi genskabt den danske navnearv helt tilbage til forrige århundredeskifte og gjort data søgbar og lettilgængelig gennem flere forskellige interaktive værktøjer.
+Du kan derfor nu for første gang se, hvordan udviklingen har været for dit navn gennem de seneste 118 år og ikke mindst researche på navne til den kommende arving på et lidt mere oplyst grundlag.
+Alt i alt har vi forsøgt at give dig flere digitale indgange til at gå på opdagelse i det nye datasæt, som navneforsker og lektor ved Institut for Navneforskning på Københavns Universitet Michael Lerche Nielsen glæder sig til at dykke ned i.
+»Det er faktisk lidt ligesom juleaften. Vi har selv gået med drømme om det, I har lavet her, men det er strandet hver eneste gang«, siger Michael Lerche Nielsen.
+Han mener, at det nye datasæt åbner op for helt nye måder at forske i navnearven på herhjemme ud over blot at tjene som inspiration for danskerne, der er mere eller mindre umættelige, når det kommer til navnestatistik.
+»Dybest set har vi ikke før haft mulighed for at kigge på det på den måde, som I kan nu, og der er jo en kolossal interesse for navnestof, så det bliver spændende at se, om man kan finde nogle mønstre, vi ikke har været opmærksomme på før«, siger Michael Lerche Nielsen.
+Datasættet ’Danskernes Navne fra 1900 til i dag’ er skabt på baggrund af data fra cpr-registeret. Gennem Forskerservice på Statens Serum Institut fik vi lov at lave et træk fra registeret med udgangspunkt i 1968, der var året, hvor alle danskere for første gang fik et cpr-nummer.
+Med baggrund i alle disse cpr-numre var det muligt at plotte navne ud på årstal tilbage i tid og på den måde år for år udregne, hvor mange der blev navngivet det ene og det andet i 1967, 1966, 1965 osv.
+Den fremgangsmåde gav os til sidst et samlet datasæt over danskernes navne siden 1900 – dog uden dem, der både er født og døde i perioden fra 1900 til 1968, da de af gode grunde ikke fik et cpr-nummer i 1968.
+Den mangel bør dog ikke betyde noget for navnenes popularitet i forhold til hinanden, som er det, man normalt kigger efter, når det handler om navnestatistik.
+Er du mere interesseret i metoden og baggrunden for datasættets tilblivelse, har vi givet den lidt længere og mere uddybende forklaring sin helt egen artikel, som
+du kan læse her
+.
+Er du bare klar til at gå navneamok i de nye data, så kom indenfor i
+vores navneunivers
+, hvor vi har samlet alle de nye søgeværktøjer og artikler.
+Som abonnent kan du ubegrænset dele artikler med dine venner og familie. Læs mere om fordelene ved et abonnement
+her
+.

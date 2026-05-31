@@ -1,0 +1,48 @@
+Title: Den_jyske_model_virker_bedre_nu,_erkender_regionsf
+Date: 2019-08-15
+Article Type: Danmark
+Author: »Vi skal tilpasse vores system til den virkelighed, der er ude på hospitalerne, og det kan ikke gå hurtigt nok«, siger Sophie Hæstorp Andersen.
+
+Hans Drachmann
+Journalist
+De største problemer med Sundhedsplatformen er løst, men der er stadig problemer, der skal løses, og det vil alle kræfter nu blive sat ind på.
+Sådan siger formanden for regionsrådet i Region Hovedstaden, Sophie Hæstorp Andersen (S), efter at et ekspertråd torsdag fremlagde en skarp kritik af en uklar og mangelfuld ledelse i regionen, som ikke har evnet at skabe de nødvendige forbedringer af den sjællandske elektroniske patientjournal, Sundhedsplatformen. Systemet, der blev indkøbt for omkring 1 milliard kroner af det amerikanske firma Epic, og som samlet har kostet 2,8 milliarder kroner at installere.
+»Du hører mig ikke sige, at alle problemer er løst. Det er derfor, vi har bestilt denne rapport, og det er derfor, jeg har bedt koncernledelsen om en plan for det videre arbejde«, siger Sophie Hæstorp Andersen.
+Sundhedsplatformen er, siden den blev taget i brug på de første hospitaler i Herlev og Gentofte i maj 2016, blevet kritiseret for at være alt for omstændelig og ulogisk at bruge. Det har betydet, at lægerne skal bruge mere tid bag computeren og har mindre tid til patienterne, og samtidig har der været alvorlige problemer med Sundhedsplatformens medicinmodul, som har ført til både fejlmedicineringer og manglende medicineringer med alvorlige konsekvenser for patienter.
+I juni 2018 fastslog Rigsrevisionen, at de sjællandske regioners ibrugtagning af Sundhedsplatformen havde været uprofessionel og kritisabel. Det fik Region Hovedstaden til at nedsætte det uafhængige ekspertråd, som skulle følge arbejdet med at forbedre Sundhedsplatformen, og i den rapport, som rådet fremlagde i går, fik regionsledelsen i hovedstaden med egne ord »med grovfilen«. Arbejdet med at forbedre Sundhedsplatformen er sket uden en klar plan, uden styring, og uden klare meldinger fra ledelsen i Region Hovedstaden om, hvad der skulle ske. It-afdelingen har slet ikke været i stand til at håndtere opgaven, konkluderede rådet.
+Er virkeligheden ikke, at de to rapporter beskriver, at man har haft tre et halvt år med elendig ledelse af projektet?
+»Virkeligheden er, og det har vi også erkendt, at implementeringen har været katastrofal, og ledelsesmæssigt har det simpelt hen ikke været godt nok«, siger regionsformanden.
+Skal det have konsekvenser?
+»Det har da haft konsekvenser. Vi har fået en ny regionsdirektør. Det er en af konsekvenserne. Nu sidder jeg med en ny ledelse og en ekspertgruppe, som peger fremad med en række anbefalinger, og det har jeg tænkt at benytte mig af«.
+Ekspertrådet konkluderer, at det »haster med fokuseret forbedringsindsats«. Nogle af forslagene fra rådet har regionen, der har haft en løbende dialog med eksperterne i løbet af året, allerede iværksat. En centerdirektør på Rigshospitalet er blevet bedt om at få Sundhedplatformens medicinmodul til at fungere, og på hospitalerne har ledelsen fået lov at træffe hurtigere beslutninger på egen hånd.
+»Og så skal vi have lagt pres på Epic for at levere hurtigere. Det er der også klare planer for, hvordan vi griber an«.
+Har I overvejet, om det ud fra en økonomisk betragtning er det rigtige at blive ved at bruge penge på Sundhedsplatformen, eller om man ville få mere ud af at skifte til et andet system?
+»Jeg hører fra de fleste medarbejdere og organisationer, som jeg møder i Region Hovedstaden, at de ønsker ro om Sundhedsplatformen og videreudvikling og forbedring af systemet. De ønsker ikke at skulle begynde forfra med et nyt system«.
+Hvornår vil Sundhedsplatformen virke fornuftigt?
+»Jeg oplever det sådan, at den virker fornuftigt for rigtig mange, men der er også nogle steder, hvor det ikke fungerer godt nok«.
+For et år siden sagde du, at opgraderingen af Sundhedsplatformen i februar ville løse de vigtigste problemer. Det fremgår af ekspertrådets rapport, at det ikke skete. Risikerer man ikke, at det går på samme måde igen?
+»Der er jo ikke andet at gøre end at blive ved med at arbejde på at gøre tingene bedre. Jeg hører det også sådan, at medarbejderne oplever løbende forbedringer, men de oplever bare ikke, at det går hurtigt nok, og de ved ikke altid, hvornår forbedringerne kommer. Det er den del, vi er nødt til at arbejde videre med«.
+Hvor mange penge vil du smide efter det her?
+»Det kan jeg ikke sige konkret. Vi bruger jo løbende flere penge på sundheds-it, og det gjorde vi også, før vi fik Sundhedsplatformen. Jeg kan ikke se, at pengene ville være givet bedre ud, hvis vi begyndte forfra«.
+»For nogle enkelte kritikere handler det her om, at man nu har fået endnu en rapport, som man vil bruge til at slå Sundhedsplatformen ihjel med. Det synes jeg ikke er relevant. Jeg synes faktisk, det i stigende grad er kedsommeligt. For mig handler det om, hvordan vi hurtigst muligt får løst de problemer, der er, så vi har et velfungerende system«.
+Men det centrale spørgsmål er vel, om det kan lade sig gøre til en pris, der er fornuftig?
+»Det centrale er for mig, at vi har et ekspertudvalg, der siger, at det kan lade sig gøre, og det vil jeg gerne lytte til«.
+Du er ikke bange for, at Region Hovedstaden og Region Sjælland kommer til at hænge i bremsen med langt højere driftsomkostninger og langt mindre effektivt arbejde ude på sygehusene, end man ser i de jysk-fynske regioner?
+»Det er ikke noget, som jeg synes, man kan se i sol og måne, at der er frygt for. Vi er tværtimod kommet op på den aktivitet, vi havde tidligere. Og der er ofte større risiko ved at begynde helt forfra igen. Tænk, hvis de var begyndt helt forfra i Region Midtjylland, da de havde problemer. Så havde de jo aldrig fået det her Midt-Epj, som alle roser til skyerne i dag«.
+Burde I ikke undersøge, om der kan være et alternativ?
+»Vi har fået afdækket, at alternativet er at begynde forfra med et fuldstændig nyt udbud, at man så skal tilpasse et system en gang til, og det vil kræve udgifter i milliardklassen og sætte udviklingen i stå i mange år fremover«.
+Vil det sige, at I hænger på Sundhedsplatformen fra Epic for tid og evighed?
+»Nej, det gør vi ikke«.
+Men du siger, at det er så omfattende og koster så mange milliarder, at det er en dårlig idé at udskifte systemet?
+»Ja, det vil det være på nuværende tidspunkt. For vi ville ikke skifte fra noget velfungerende til noget andet velfungerende. Vi ville skifte fra noget, som vi allerede er et godt skridt på vejen med, men som vi ikke er nået i mål med, til noget, som vi skulle begynde fuldstændig forfra med at tilpasse. Ja, måske ville det endda være et andet amerikansk system. Det er jo dem, der er førende internationalt på området«.
+I kunne jo også vælge det danske system fra Systematic, som de har valgt i Jylland og på Fyn?
+»Jeg tror ikke, vi ville kunne tilsidesætte, at man skal lave et udbud, og jeg tror ikke, at vi bare kan overtage det midtjyske system«.
+Hvis I ikke skal have Sundhedsplatformen fra Epic for tid og evighed, hvornår skal den så skiftes ud?
+»Den dag, vi vurderer, der igen er behov for at springe et skridt fremad i den internationale superliga, og vi kan se, at andre kan gøre det bedre end de nuværende leverandører, så må det være på sin plads«.
+Mener du, at I i dag har et bedre fungerende system end Region Midtjylland har?
+»Nej, det mener jeg ikke, vi har«.
+Deres er bedre?
+»Deres har været i gang i langt flere år og er derfor tilpasset deres kliniske virkelighed, og det er også det, vi skal. Vi skal tilpasse vores system til den virkelighed, der er ude på hospitalerne, og det kan ikke gå hurtigt nok«, siger Sophie Hæstorp Andersen.
+Hans Drachmann
+fortsæt med at læse
+Uvis pris for at lappe Sundhedsplatformen

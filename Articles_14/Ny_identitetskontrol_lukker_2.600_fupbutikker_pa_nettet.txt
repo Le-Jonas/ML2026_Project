@@ -1,0 +1,32 @@
+Title: Ny_identitetskontrol_lukker_2.600_fupbutikker_pa_nettet
+Date: 2018-04-18
+Article Type: Økonomi
+Author: Michael Olsen
+
+Journalist
+Bagmandspolitiet har svært ved at skjule begejstringen.
+For første gang i flere år falder antallet af henvendelser fra borgere og organisationer, der mener, at de er blevet snydt og bedraget af fupfirmaer på nettet.
+»Det ser lovende ud«, siger specialkonsulent i bagmandspolitiet Henrik Vestergård Nielsen med direkte henvisning til en ny, enkel og uhyre effektiv identitetskontrol for alle danske domænenavne.
+Kontrollen er udviklet af Dansk Internet Forum (Difo) og DK Hostmaster, der administrerer og forvalter godt én million danske domænenavne på nettet.
+Her skal alle danske domæneejere nu registrere og identificere sig via deres NemID, mens alle udenlandske ejere af danske domæner bliver underkastet en særlig kontrol-screening, der vurderer risikoen for fup.
+Ved den mindste mistanke bliver de udenlandske domæneejere bedt om at identificere sig, og sker det ikke, bliver domænet ganske enkelt lukket ned.
+På bare fem måneder har den nye kontrol lukket 2.600 formodede fupbutikker i .dk-zonen, og det svarer til et fald i antallet af fupdomæner på 85 procent, fortæller Jakob Bring Truelsen, direktør i DIFO og DK Hostmaster.
+»Vi føler selv, at vi har knækket koden med en identitetskontrol, der virker, og vi fortsætter selvfølgelig kontrolindsatsen«, siger han.
+Hos bagmandspolitiet kalder Henrik Vestergård Nielsen den nye kontrol for et gennembrud.
+Næsten 1.700 formodede fupfirmaer har bagmandspolitiet beslaglagt og lukket ned i 2016 og 2017, og alle forventede, at bunken af nye sager ville vokse til nye højder.
+Men nu falder antallet af anmeldelser, og faldet er markant.
+»Vi håber, at der er en sammenhæng, og at det fortsætter. Og vi håber, at den nye kontrol fremadrettet vil lette vores arbejde«, siger Henrik Vestergård Nielsen og tilføjer:
+»Vi har oplevet et stort pres på området, og kontrollen kan forhåbentlig blive et af vores vigtige værktøjer og en stor hjælp i kampen mod svindel på nettet«.
+Den danske identitetskontrol er ifølge DIFO den første af sin art i verden, men den omfatter udelukkende .dk-domæner. Dermed kan it-kriminelle fuppe videre i andre landes domæne-zoner, erkender Jakob Bring Truelsen.
+»Vores opgave er jo at få styr på vores egen zone, og her har vi nu gjort det mere sikkert for danske forbrugere at købe ind i danske webbutikker. Men vi kan håbe, af vores model kan inspirere andre lande, for de er velkommen til at bruge den«, siger han.
+Overalt i Europa bliver udtjente og nedlagte domænenavne opkøbt og genoplivet af it-kriminelle, der opbygger store netværk af fupfirmaer i forsøget på at fange de købelystne forbrugere – og få dem til at kaste penge efter fiktive, kopierede eller defekte møbler, tøj, smykker eller cykler. Som tidligere omtalt i Politiken blev flere end 20.000 danskere sidste år snydt for mere end 38 millioner kroner i hurtige nethandler, hvor varerne enten aldrig dukkede op eller var kopier eller umulige at bruge, bytte og erstatte.
+Med den nye kontrol er nethandel nok blevet mere sikkert på danske domæner, men det betyder ikke, at fupfirmaerne er udryddet.
+Derfor kan det fortsat betale sig at ruste sig med lige dele sund fornuft og kritisk sans, lyder det gode råd fra bagmandspolitiet:
+»Et god redskab er at tjekke, om der er en logisk sammenhæng mellem domænets navn og de produkter, der bliver sat til salg«.
+»For der er jo nok et eller andet, der ikke stemmer, hvis der bliver solgt dyre møbler eller mærkevarer på domænenavnet Birgittes Strikkeshop. Eller hvis der også bliver solgt Adidas-sko fra et Nike-domæne. Så skal man lige klappe hesten, inden man betaler«, siger Henrik Vestergård Nielsen.
+Difo og DK Hostmaster fortsætter kontrollen af danske domænenavne hen over sommeren og forventer at finde flere fupfirmaer. Samlet set har det nye kontrolsystem indtil videre reduceret antallet af formodede fupbutikker i .dk-zonen fra 3.075 i november 2017 til nu 475.
+Michael Olsen
+fortsæt med at læse
+Erfaren tilbudsjæger: »Jeg faldt i med begge ben, da jeg handlede på et site, der så dansk ud«
+Pas på:
+Julen er højsæson for digitale bankrøvere - og de i er i aktion allerede nu

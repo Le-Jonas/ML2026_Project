@@ -1,0 +1,32 @@
+Title: Telebeviser_om_borgeres_uskyld_kan_være_slettet
+Date: 2019-07-01
+Article Type: Danmark
+Author: Rigspolitiet har kun gemt de oprindelige og korrekte teleoplysninger i to år, og derfor kan ældre beviser om borgeres mulige skyld og uskyld være tabt for altid.
+
+Jakob Sorgenfri Kjær
+Journalist
+En 23-årig tyrkiskdansker afsoner lige nu sin straf på 6 års fængsel for at have medvirket til drabsforsøg på fem personer foran Riccos Kaffebar i Holmbladsgade i København 31. juli 2016. Efter endt afsoning er den tyrkiske statsborger dømt til udvisning.
+Manden har hele tiden fastholdt sin uskyld i sagen om de mindst 12 skud, der blev affyret mod en gruppe personer foran kaffebaren for 3 år siden. Men først i byretten og senest i landsretten i oktober 2018 blev han fundet skyldig, mestendels på grund af de teleoplysninger, der koblede hans telefon til gerningsstedet.
+Hans forsvarsadvokat, Karoline Normann, har fået bekræftet af anklagemyndigheden, at sagen er en af dem, der nu skal undersøges nærmere på grund af risikoen for, at politiet ikke har haft alle teleoplysninger til rådighed som konsekvens af en alvorlig it-fejl i Rigspolitiet.
+Men der er et problem. Det er særdeles tvivlsomt, om politiet overhovedet kan genskabe det korrekte billede af teleoplysninger, der er mere end to år gamle. Det viser en aktindsigt, som Politiken har fået i Justitsministeriet.
+»Alle er enige om, at det var de telehistoriske oplysninger, der lå til grund for dommen i sagen. Hvad gør man så, hvis der har manglet teleoplysninger, men man ikke kan genskabe det oprindelige billede af dem? Det tør jeg slet ikke tænke på«, siger Karoline Normann fra Stagetorn Advokater.
+Aktindsigten rummer et dokument fra 4. juni om Rigspolitiets udkast til presseberedskab om systemfejlen. Det fortæller, at der i alt skal granskes 10.776 straffesager og cirka 40.000 rekvisitioner om teledata i perioden mellem 2012 og 2019.
+Systemfejlen består i, at de oprindelige rå teledata fra landets teleselskaber er blevet konverteret forkert i Rigspolitiets it-system, så nogle af de efterspurgte oprindelige teledata er gået tabt i processen. Konkret skal Rigspolitiet i samarbejde med politikredsene derfor forsøge at genskabe de oprindelige rådata og rekonstruere det korrekte billede af mistænktes adfærd i telenettet. Men:
+»Rigspolitiet råder som udgangspunkt kun over rådata to år tilbage, medmindre der er tale om verserende efterforskninger i forbindelse med uopklarede sager«, lyder det i materialet fra Rigspolitiet.
+Karoline Normann er også formand for Advokatrådets strafferetsudvalg, og hun siger, at de nye oplysninger rejser en helt ny kategori af problemsager:
+»Alle har hidtil i denne telesag ageret ud fra den tanke, at man kunne rekonstruere de manglende bevismaterialer og på den baggrund tage stilling til, om en ny proces skulle sættes i gang. Nu står vi i en ny situation, hvor man i nogle sager slet ikke kan rekonstruere billedet. Det gør jo hele problemstillingen endnu mere ærgerlig og endnu mere principielt problematisk«, siger Karoline Normann og uddyber:
+»Der er jo sager, hvor folk standhaftigt har insisteret på, at de har opholdt sig et bestemt sted på et bestemt tidspunkt, men retten har ikke troet på dem. Om manglerne i deres telehistorik kunne have bekræftet deres ophold, det finder vi så aldrig ud af«, siger Karoline Normann.
+Rigspolitiet svarede for to uger siden Politiken, at både de oprindelige rå teledata og de anvendte konverterede teledata overdrages til de enkelte politikredse. »Vi har for indeværende ikke et samlet overblik over datatilgængeligheden i alle sager«, lød svaret.
+Men politikredsene har løbende slettet deres historiske teledata, fremgår det af et brev, som Rigsadvokaten 13. juni sendte til alle landets anklagere:
+»Som følge af gennemgangen (af de tusindvis af sager, red.) skal alle procedurer vedrørende sletning af teleoplysninger i muligt berørte sager sættes i bero«.
+Politiet kan i de ældre sager ikke få hjælp af teleselskaberne, da de, ifølge loven, kun må gemme borgernes loggede teledata i et år.
+Københavns Politi, som havde sagen om det femdobbelte drabsforsøg ved Riccos Kaffebar, henviser alle spørgsmål til Rigspolitiet. Men Rigspolitiet har i nu 13 dage undladt at svare på Politikens opfølgende spørgsmål om muligheden for at genskabe de ældre data.
+Rigspolitiets indledende undersøgelser af alle sager med teleoplysninger i 2018 viste, at der var mangler i knap 9 procent af alle indhentninger af teledata.
+I én politikreds har man i maj undersøgt perioden tilbage til 2017, i alt to år og tre måneder, og her var der huller i overførslerne af teledata i 24 af 75 sager, altså knap en tredjedel.
+»Politikredsen har lavet en foreløbig gennemgang af disse 24 sager og fundet anledning til, at man revurderer 13 af disse, idet telehistorik umiddelbart har haft betydning for sagen«, lyder det i dokumentet fra Rigspolitiet.
+Jakob Sorgenfri Kjær
+fortsæt med at læse
+Eksperter:
+Anklagemyndigheden har forbrudt sig mod et fundamentalt princip i retssystemet
+Rigspolitiet inviterer uvildige øjne til at se på tusindvis af telesager
+I 102 dage afgjorde domstolene sager uden at få at vide, at politiets teledata var usikre

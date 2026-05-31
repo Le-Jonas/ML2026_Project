@@ -1,0 +1,22 @@
+Title: DSB_Hackerangreb_var_skyld_i_teknisk_nedbrud
+Date: 2018-05-14
+Article Type: Danmark
+Author: Det var et hackerangreb - et såkaldt DDoS-angreb - der søndag aften var skyld i, at DSB's systemer brød sammen.
+
+Det oplyser DSB's pressevagt tidligt mandag morgen klokken 05.25.
+Nedbruddet betød, at togpassagerer rundt om i landet søndag aften havde problemer med at købe billet til deres rejse med DSB.
+Tidligt mandag morgen er systemerne oppe at køre igen, oplyser DSB.
+Søndag aften kunne der ikke købes billet via selskabets app, på hjemmesiden, i billetautomater og i 7-Eleven-kiosker på stationerne. Det var dog stadig muligt at rejse med rejsekortet.
+Passagerer uden rejsekort kunne købe billetter i de tog med togpersonale, der kontrollerer billetter.
+»De har sat alle eksperter på sagen, og de knokler for at få systemet i gang igen. Vi håber selvfølgelig, at det er oppe at køre i morgen tidlig, men vi kan ikke give nogen garantier«, sagde underdirektør i DSB Aske Wieth-Knudsen sent søndag aften.
+De interne mail- og telefonsystemer, der bruges blandt medarbejderne i DSB, var også ramt af nedbruddet.
+Der har en gang tidligere det seneste år været et lignende, omfattende udfald. Dengang skyldtes det et strømnedbrud.
+Meldingen om angrebet mod DSB kommer på dagen, hvor en undersøgelse om cyberangreb mod danske virksomheder er blevet offentliggjort af Ingeniørforeningen IDA og Danske Revisorer.
+Undersøgelsen afslører, at to ud af tre virksomheder har været udsat for et cyberangreb det seneste år.
+Undersøgelsen er baseret på besvarelser fra 113 it-ansvarlige, hvoraf 89 er fra den private sektor, og 24 er fra den offentlige sektor.
+I rapporten bliver det blandt andet slået fast, at der hos mange danske virksomheder mangler et ordentligt it-beredskab, der kan holde kriminaliteten ude.
+Kun hver femte virksomhed har eksempelvis en beredskabsplan, der skal træde i kraft i tilfælde af et angreb.
+ritzau
+fortsæt med at læse
+Ny undersøgelse:
+Hvert ottende cyberangreb på danske virksomheder lykkes

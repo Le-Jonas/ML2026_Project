@@ -1,0 +1,37 @@
+Title: Spyware_far_gymnasieelever_til_at_boykotte_prøver_
+Date: 2019-03-06
+Article Type: Danmark
+Author: Undervisningsministeriets digitale program, som skal forhindre eksamenssnyd, møder stor kritik fra landets gymnasieelever. Nu vil tusinder af elever nægte at installere programmet til torsdags terminsprøver.
+
+Cecilie Markussen
+Undervisningsministeriet har udviklet et computerprogram, som skal forhindre landets gymnasieelever i at snyde til de skriftlige eksaminer.
+Programmet, Den Digitale Prøvevagt, gør det blandt andet ved løbende at tage skærmbilleder af elevernes computere og registrere, hvilke programmer og hjemmesider, de bruger under prøven.
+Planen er, at programmet skal testes, når omkring 50.000 elever i de kommende uger skal til terminsprøve, før det for alvor rulles ud til sommerens eksaminer.
+Men det vil en stor del af eleverne ikke være med til. På
+Facebook-begivenheden
+’Boykot af Den Digitale Prøvevagt’ har over 4.000 elever meldt ud, at de vil nægte at installere programmet til de kommende terminsprøver.
+Eleverne kritiserer både, at de bliver tvunget til at installere programmet, og at der ikke er klarhed over, hvordan det fungerer.
+Peter Kruse, medstifter af IT-sikkerhedsvirksomheden CSIS Security Group, siger til
+Fyens Stifttidende
+, at han kan se flere datasikkerhedsmæssige problemer ved programmet.
+»Problemet er, at man har meget svært ved at sikre, at det kun er ’snyd’, det samler ind. Den vil i princippet samle alt det ind, der ligger på den pågældende computer. Så det har en meget omsiggribende indsamling af oplysninger, som gør, at jeg ville være meget betænkelig ved at bruge programmet«, siger han til avisen.
+Baltazar Dydensborg er en af eleverne, der står bag boykotten. Han går i 3.g og er elevrådsformand på Kruses Gymnasium i Farum.
+Hvorfor boykotter I terminsprøven i morgen?
+»Vi synes, det er et forkert signal at sende til gymnasieelever, at det er i orden at masseovervåge alle, fordi en promille snyder. Forestil dig, hvis alle folk med computere i deres biler skulle overvåges, fordi et fåtal kørte for stærkt. Det ville vække et ramaskrig, hvis man begyndte at overvåge, hvor alle kørte hen, og hvor hurtigt de kørte. Det er ikke et samfund, jeg har lyst til at have. Og det er et usikkert stykke software, som vi ikke rigtig ved, hvad gør og kan. Der er ikke nogen, der skal udsætte sine data for fare, bare for at få sin studenterhue«.
+Handler boykotten i morgen mest om, at programmet måske kan krænke jeres privatlivs fred, eller at politikerne vælger at overvåge og på den måde ikke har tillid til jer?
+»For en stor del af os er det principielt. Jeg var ikke selv inde i det datasikkerhedsmæssige, da jeg foreslog at lave en boykot – jeg tænkte bare, at masseovervågning var forkert. Men hvis jeg spørger en masse af mine klassekammerater, er det også fordi, de er bange for, hvad der sker med deres computere«.
+Der er jo også nogle få elever, der overvejer at snyde eller rent faktisk snyder til eksamen. Er det ikke nok grundlag til, at Undervisningsministeriet gerne vil overvåge eleverne på en eller anden måde for at undgå snyd?
+»Det synes jeg ikke. Til en prøve (i 2017, red.) var der 229 formodninger om snyd mod over 200.000 afleverede opgaver. Det er en promille, vi snakker om. Og jeg tror på, at hvis man har en formodning om snyd, så er det de færreste elever, der vil prøve at dække over det. Og jeg tror også, at de fysiske prøvevagter kan fange rigtig meget snyd, for der sker alt håndhævelse i øjeblikket«.
+Kan man finde en anden digital løsning?
+»Der en masse andre programmer, der ikke er nær så usikre. På nogle universiteter har man for eksempel et program, der gør, at hvis man går ud af sit tekstbehandlingsprogram, så slutter prøven. Man kunne også gøre det sådan, at overvågningsprogrammet lavede filer, som kun eleven havde adgang til med en kode. Hvis eleven så blev mistænkt for at snyde, kunne man sige ’vi tror du snyder – har du nogle billeder på din computer, der kan bevise, at du ikke gør?’. Så er dataene som udgangspunkt kun elevernes, og de kan bruge det til at vinde deres egen sag, i stedet for at de bliver mistænkeliggjort fra starten af«.
+Hvad håber I på at få ud af boykotten i morgen?
+»Vi håber, at vi kan sende et signal til Undervisningsministeriet om, at det her ikke er i orden. Det ideelle scenarie ville jo være, at de indser, at de ikke skal overvåge gymnasieelevers eksaminer. Eller at man satte sig ned og snakkede om, hvordan man kunne gøre det på en ordentlig måde, hvor der også var nogle IT-sikkerhedseksperter med«.
+Hvad nu hvis Undervisningsministeriet holder fast i, at det er en sikker løsning og ikke vil droppe programmet?
+»Så vil vi selv se på, om vi kan finde en anden løsning, som gør, at så mange som muligt ikke kan køre programmet på deres computer. Men ellers må vi jo underkaste os, for jeg vil ikke have, at der er nogle, der skal dumpe sin studentereksamen, på grund af at ministeriet har lyst til at lege autoritær supermagt. Men jeg vil klart gøre mit bedste for, at så mange som muligt slipper for at gå til eksamen med Den Digitale Prøvevagt«.
+Cecilie Markussen
+fortsæt med at læse
+Politikere vil stoppe eksamenssnyd med virtuelle sladrehanke på elevernes computere
+Gymnasieelever om nul internetadgang under eksamen:
+»De, der vil snyde, kan stadig finde smuthuller«
+Snyd får konsekvenser:
+Minister lukker gymnasieelevers netadgang ved eksamener

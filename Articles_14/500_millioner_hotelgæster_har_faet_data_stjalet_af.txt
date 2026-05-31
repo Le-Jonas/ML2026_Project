@@ -1,0 +1,15 @@
+Title: 500_millioner_hotelgæster_har_faet_data_stjalet_af
+Date: 2018-11-30
+Article Type: Internationalt
+Author: Op mod 500 millioner gæster hos hotelkæden Marriott har fået stjålet private oplysninger af hackere.
+
+Det oplyser selskabet fredag.
+Marriott siger, at det 8. september blev informeret om, at der har været forsøg på at hacke selskabets database for reservationer. Databasen hedder Starwood.
+Hotelkæden opdagede, at 'at der havde været uautoriseret adgang til Starwood-netværket siden 2014', hedder det.
+Her var det blandt andet lykkedes at stjæle navne, telefonnumre, fødselsdatoer og pasnumre på gæster.
+I Starwood-netværket behandles også reservationer fra hotelkæderne Sheraton, Westin, Four Points og W Hotels.
+»Vi beklager dybt, at denne hændelse er sket«, lyder det fra Marriotts chef, Arne Sorenson.
+Hotelkæden siger, at den fra fredag vil begynde at informere tidligere og nuværende gæster om, hvordan de skal forholde sig.
+Oplysningen om datalækket fik børskursen på Marriott International til at falde med fire procent.
+ritzau
+fortsæt med at læse

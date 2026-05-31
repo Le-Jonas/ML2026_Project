@@ -1,0 +1,7 @@
+Title: Henrik_Føhns_Kan_vi_skabe_en_global_etik_for_kunst
+Date: 2018-11-10
+Article Type: Viden og Tech analyser
+Author: Henrik Føhns
+
+Uddannelses- og forskningsminister Tommy Ahlers (V) udtalte for nylig, at det er vigtigt at præge udviklingen af kunstig intelligens, så den er i overensstemmelse med danske værdier. Hvad det betyder, og hvordan man fører det ud i livet, er et mere åbent spørgsmål.
+Skal dansk kunstig intelligens rumme Alternativets klimamål, Nye Borgerliges holdninger til muslimer eller repræsentere mainstream Højskoledanmark? Og hvordan udtrykker man det matematisk i en algoritme?

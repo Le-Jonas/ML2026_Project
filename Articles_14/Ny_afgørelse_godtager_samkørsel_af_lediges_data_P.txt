@@ -1,0 +1,45 @@
+Title: Ny_afgørelse_godtager_samkørsel_af_lediges_data_P
+Date: 2019-07-16
+Article Type: Viden og tech
+Author: Datatilsynet kritiserer Styrelsen for Arbejdsmarked og Rekruttering for at spille med skjulte kort. En ekspert mener, at det er det mindste problem.
+
+Lasse Danielsen
+Journalist
+Må man samkøre oplysninger om etnisk herkomst, alder, helbredsmæssige forhold og borgerens jobmotivation i et forsøg på at forudse, om en arbejdsløs har risiko for at ende som langtidsledig?
+Det var Datatilsynet ikke blevet hørt om, da Folketinget 30. april underskrev en ny beskæftigelseslov, der blandt andet indeholdt forslaget om at indføre en algoritme, som kan bruges til at vurdere arbejdsløses risiko for at ende i langtidsledighed.
+Sidetallet i den samlede beskæftigelseslov var meget omfattende, så Styrelsen for Arbejdsmarked og Rekruttering (Star) udvalgte de relevante dele af forslaget til gennemsyn i Datatilsynet, hvilket er normal praksis ved større lovforslag. De vedhæftede dog ikke delen om brug af de lediges data.
+Ikke optimalt, udtalte Datatilsynets direktør, Cristina Gulisano, dengang.
+»Det er jo både i borgernes og de involverede myndigheders interesse, at vi får fanget det i tide, hvis der er noget i et lovforslag, der kan være i strid med de databeskyttelsesretlige regler«, lød det fra Cristina Gulisano.
+Derfor satte man sig for at granske beskæftigelseslovens paragraffer igennem endnu engang, denne gang også om profileringsværktøjet til de ledige.
+Det nye høringssvar blev offentliggjort lige op til weekenden og de store sommerferieuger. Datatilsynet har to hovedbudskaber:
+For det første er værktøjet ikke i strid med hverken databeskyttelsesforordningen, GDPR, eller databeskyttelsesloven.
+Det skyldes, at der ikke træffes beslutninger alene på grund af profilafklaringsværktøjets vurdering, men at det kun indgår som et redskab i sagsbehandlingen.
+For det andet udtrykker Datatilsynet kritik over, at der ikke blev hentet en udtalelse hos dem forud for lovforslagets vedtagelse.
+Så det stred ikke imod lovgivningen, det værktøj, der blev stemt igennem, hvilket der ellers var tvivl om.
+Men sagen slår en kile direkte ned i en debat, som vi først lige er begyndt at dykke ned i.
+Kritikerne kalder det et skridt mod overvågningssamfund, mens tilhængerne betegner det som hjælp til at forebygge samfundsmæssige problemer – såsom langtidsledighed.
+Uagtet om man er tilhænger af det ene eller det andet synspunkt, ændrer det dog ikke ved, at beslutninger af samfundsdefinerende karakter skal træffes af de folkevalgte, mener lektor i digital forvaltning ved Københavns Universitet Hanne Marie Motzfeldt.
+Og det var ikke tilfældet ved gennemførelsen af den omtalte beskæftigelseslov, hvor adskillige politikere, Politiken talte med, end ikke vidste, at profileringsværktøjet havde været en del af loven, de stemte om.
+Paragraffen om profilering af samtlige ledige lå nemlig helt nede på side 212 i beskæftigelsesloven, og den blev aldrig taget op til diskussion i Folketingssalen.
+Det til trods for, at Folketinget efter sagen om Gladsaxe-modellen, der omhandlede samkørsel af data for at finde socialt udsatte børn, aftalte, at sager om datasamkøring og profilering af borgerne skal underlægges de folkevalgtes demokratiske kontrol.
+»Det her handler om, hvem det egentlig er, der bestemmer, hvordan fremtidens danske samfund skal være. Mit budskab har altid været, at den slags beslutninger skal være hos de danske folkevalgte«, siger Hanne Marie Motzfeldt.
+Men ligger de valg ikke hos de folkevalgte nu?
+»Nej, det gør de ikke. Vi kører med så mange bemyndigelser rundt omkring, at det offentliges brug af teknologier og data i vidt omfang styres af embedsværket inden for nogle alleryderste grænser fra EU«, siger Hanne Marie Motzfeldt.
+Teknologien bag de her profileringsværktøjer med kunstig intelligens og komplicerede algoritmer kan være svær at forstå. Derfor støder Hanne Marie Motzfeldt ofte på argumentet om, at politikerne ikke forstår sig på den her slags.
+»Til det siger jeg – vrøvl, måske kan de ikke kode og programmere, men de folkevalgte er fuldt kompetente til at tage værdimæssig stilling til, om vi vil hobe store datamængder om ledige op i Star og lave profiler af alle ledige – og i øvrigt bestemme, hvordan Star i så fald må gøre det«, siger Hanne Marie Motzfeldt.
+Kenneth Mejlstrup var i foråret 2018 ledig og jobsøgende. Og da han troppede op på jobcentret i Lejre Kommune, var det hos en kommune, som på det tidspunkt var en del af det pilotprojekt, der blev forløber for profileringsværktøjet, som nu kan bruges landet over.
+»Jeg følte lidt, at jeg skulle puttes ned i en kasse, jeg ikke nødvendigvis hørte hjemme i«, siger Kenneth Mejlstrup.
+Modsat det nuværende profileringsværktøj, hvor den arbejdssøgende selv skal udfylde skemaet på Jobnet.dk forud for jobsamtalen, skulle Kenneth Mejlstrup i pilotprojektet udfylde skemaet med en sagsbehandler, som stillede spørgsmål til eksempelvis hans motivation og forventninger om, hvornår han ville blive ledig igen.
+»Jeg tænker umiddelbart, at det er en hurtig stigmatisering at blive mødt af. Hvis jeg på forhånd sidder derhjemme og får en besked op på skærmen, om at jeg er i farezonen for at blive langtidsledig, vil jeg da blive nervøs forud for mit kommende forløb. Jobsøgende er jo ret sårbare i forvejen«, siger Kenneth Mejlstrup.
+Med sin baggrund i it stejlede Kenneth Mejlstrup dog op, da han blev bedt om at udfylde værktøjet. Hvordan var det befordrende for, at han kom i beskæftigelse, at han blev puttet ind i en algoritme? Og hvor kom de data hen? Kunne han rette eventuelle fejldata?
+»Det at gå i gang med at profilere mig som menneske rakte langt over, hvad jeg ville gå med til i forhold til min privatsfære. Det er nogle ret private data, vi taler om her. En ting er også, at man taler ansigt til ansigt med sin sagsbehandler og kan forklare og nuancere nogle af tingene. Men i det øjeblik man taster sin motivation ind på en skala, forsvinder nuancerne«, siger Kenneth Mejlstrup.
+Hos 3F’ A-kasse siger Thomas Bentsen, der er a-kassesekretær, at de har anbefalet deres afdelinger ikke at gøre brug af Styrelsen for Arbejdsmarked og Rekrutterings profileringsværktøj.
+»Det har vi gjort på grund af de spørgsmål, der følger med. De har været for værdiladede og personlige til, at vi har kunnet stå inde for den behandling«, siger Thomas Bentsen.
+Han kritiser især det faktum, at man skal udfylde værktøjet hjemmefra og får sit resultat, uden at der er en vejleder til stede.
+»Det er ikke rimeligt, at man skal sidde alene og få en kvittering for, hvilken gruppe man er i. Den slags bør gøres med en vejleder, der kan sætte nogle ord på, hvad det betyder for en. På den her måde får den jobsøgende jo ikke at vide, hvad der gør, at de er i risiko for langtidsledighed«, siger Thomas Bentsen.
+Selve idéen om at undersøge de lediges risiko for langtidsledighed via et profileringsværktøj er man dog ikke imod hos 3F. De har bare valgt at udvikle deres eget værktøj i stedet for at bruge det fra Styrelsen for Arbejdsmarked og Rekruttering.
+Digital profilafklaring er desuden en betingelse for at være med i det såkaldte a-kasseforsøg, der giver mere ansvar til a-kasserne.
+Lasse Danielsen
+fortsæt med at læse
+Analyse:
+Først helt omme på side 212-213 forstår man, at der er tale om masseovervågning af ledige

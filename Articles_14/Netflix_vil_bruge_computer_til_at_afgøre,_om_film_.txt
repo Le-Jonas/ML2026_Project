@@ -1,0 +1,20 @@
+Title: Netflix_vil_bruge_computer_til_at_afgøre,_om_film_
+Date: 2019-03-14
+Article Type: Film og tv
+Author: Film og serier vil blive gennemset af et menneske, som registrerer, om der er vold eller sex i dem. Men det bliver et computersystem, som endeligt fastslår, om for eksempel børn under 15 år skal holde sig væk, som anbefalingen var med Susanne Biers ’Bird Box’.
+
+Johan Moe Lindskov
+Områderedaktør, kulturredaktionen
+Hos Netflix sætter man sin lid til teknologien.
+Også når det gælder spørgsmålet om, hvor gammel man bør være for at se en given film eller serie på den populære streamingtjeneste.
+I Storbritannien vil Netflix fremover ved hjælp af et algoritmebaseret computersystem selv sætte vejledende aldersgrænser på sine film og serier, skriver
+BBC.
+Systemet er udviklet i et samarbejde mellem Netflix og organisationen British Board of Film Classification, som i Storbritannien står for at vurdere, om en film frarådes bestemte aldersgrupper.
+For eksempel vurderede organisationen for nylig, at Susanne Biers Netflix-film ’Bird Box’ ikke er egnet for børn under 15 år.
+British Board of Film Classification mener, at systemet er så godt, at organisationen automatisk vil blåstemple de anbefalinger, algoritmerne leverer.
+Systemet fungerer ved, at en ansat i Netflix gennemser en film og angiver, om filmen indeholder for eksempel voldelige scener eller sex. Den information bruger det algoritmiske system så til at fastslå, om filmen skal være tilladt for alle, eller om den bør frarådes børn under for eksempel 12 år. Systemet har på baggrund af data om, hvordan film tidligere er blevet vurderet, lært selv at sætte aldersgrænser.
+»Det er første gang, at British Board of Film Classification har samarbejdet med en indholdsudbyder og sammensat et system, som vil føre til, at indholdsudbyderen selv vurderer sit indhold«, udtaler en talsmand for organisationen til BBC.
+I første omgang er der tale om et etårigt pilotprojekt, men British Board of Film Classification forventer, at systemet vil levere gode resultater.
+Johan Moe Lindskov
+fortsæt med at læse
+YouTube forbyder alle videoer med farlige eller krænkende narrestreger

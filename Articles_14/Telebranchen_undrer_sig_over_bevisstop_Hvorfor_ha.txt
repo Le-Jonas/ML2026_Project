@@ -1,0 +1,30 @@
+Title: Telebranchen_undrer_sig_over_bevisstop_Hvorfor_ha
+Date: 2019-08-19
+Article Type: Danmark
+Author: På grund af nye fejl stopper rigsadvokaten for, at teledata kan bruges til at fælde dom i straffesager.
+
+Rigsadvokaten stopper midlertidigt brug af teledata som bevis for domfældelse, efter at der er fundet nye alvorlige fejl i de data, der bliver brugt i straffesager.
+Teleoplysningerne vil heller ikke kunne bruges som grundlag for varetægtsfængsling af mistænkte, oplyser Justitsministeriet.
+Jakob Willer, direktør i Teleindustrien, teleskabernes branchesamarbejde, undrer sig dog over udmeldingen.
+»Jeg undrer mig over, at de melder ud og konstaterer, at der er tale om fejl, når de ikke har været i dialog med os om, hvad det drejer sig om og heller ikke har afdækket, om der er en naturlig forklaring på tingene«, siger han.
+Desuden understreger han, at teleselskaberne ikke er sat i verden for at levere et »skudsikkert overvågningssystem af danskerne«.
+Det nye midlertidige stop vil indtil videre gælde i to måneder frem til 18. oktober. Indtil da skal fejlene undersøges.
+Fejlen er opstået i et it-program til håndtering af teledata og kom frem tidligere på sommeren. Det kan ikke bare have været medvirkende til, at uskyldige er blevet dømt. Det kan også have forhindret opklaring af sager.
+Problemerne skal være opstået i det program, som konverterer teleselskabers såkaldte rådata til oplysninger, der er blevet brugt i retssager.
+Det er typisk rådata fra telefoner, som politiet får fra teleselskaber. Det kan sige noget om, hvor en person har opholdt sig på et givent tidspunkt.
+Rigspolitiet har også meddelt ministeren, at der er fundet flere konkrete fejl i rådata, som politiet modtager fra teleselskaberne. Omfanget og betydningen af disse fejl er endnu ikke blevet afdækket.
+Justitsminister Nick Hækkerup (S) har i et brev orienteret Folketingets Retsudvalg om den nye udvikling i sagen.
+Her skriver han, at ministeren fredag blev orienteret om, at politiet har identificeret fejl i forbindelse med »konverteringen af geografiske koordinater for telemasters placering«.
+»Det medfører ifølge oplysningerne fra Rigspolitiet, at der ved behandlingen af straffesager kan være indgået fejlbehæftede masteplaceringer, som er anvendt til at sandsynliggøre en telefons position«, skriver ministeren.
+Anklagemyndigheden skal nu gennemgå grundlaget for varetægtsfængslinger i sager, hvor teleoplysninger indgår.
+Herefter skal der afholdes et nyt retsmøde, hvor det skal afprøves, om varetægtsfængslingen kan opretholdes uden anvendelse af teleoplysninger.
+Hvis anklagemyndigheden ikke mener, at der vil være grundlag for en varetægtsfængsling uden brug af teledata, vil den anholdte blive løsladt.
+Torsdag i sidste uge meddelte justitsministeren, at endnu flere sager kan være påvirket i sagen.
+Tidligere hed det, at omkring 10.700 sager fra 2012 og frem til 8. marts 2019, hvor der er indhentet historiske teleoplysninger, skal undersøges. Men nu skal også sager fra før 2012 undersøges.
+Det er endnu uvist, hvor mange sager det drejer sig om.
+ritzau
+fortsæt med at læse
+Advokat:
+»Den her skandale er nået op til et helt nyt niveau««
+Løsladelser kan være på vej:
+Rigsadvokaten stopper midlertidigt brug af teledata som bevis i retssager efter fund af flere fejl

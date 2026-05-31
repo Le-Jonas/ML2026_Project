@@ -1,0 +1,10 @@
+Title: Voksende_cybertrussel_skal_bekæmpes_med_deling_af_viden
+Date: 2018-05-14
+Article Type: Tech
+Author: Jakob Sorgenfri Kjær
+
+Journalist
+Sebastian Stryhn Kjeldtoft
+Undersøgende redaktør
+Fra søndag aften ved 18-tiden og ti timer frem var det umuligt at købe en billet til DSB’s tog i hele landet.
+Et såkaldt ddos-angreb, designet til at overbelaste it-systemer, lammede DSB’s mailsystem, hjemmeside, apps og fysiske billetautomater. Rejsekortet fungerede som normalt, men DSB anslår, at 15.000 kunder potentielt blev forhindret i at købe en billet søndag aften og tidligt mandag morgen.

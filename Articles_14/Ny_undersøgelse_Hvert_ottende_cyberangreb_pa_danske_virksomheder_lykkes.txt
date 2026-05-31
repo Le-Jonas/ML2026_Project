@@ -1,0 +1,15 @@
+Title: Ny_undersøgelse_Hvert_ottende_cyberangreb_pa_danske_virksomheder_lykkes
+Date: 2018-05-14
+Article Type: Danmark
+Author: Søndag nat blev DSB's billet system lagt ned med et cyberangreb, og DSB er langt fra den eneste virksomheder, der har måtte bukke under for et cyberangreb.
+
+Det viser en undersøgelse fra det fagtekniske selskab IDA-it under Ingeniørforeningen.
+IDA-it har spurgt 113 it-ansvarlige og 555, der arbejder med persondata, i private virksomheder og i offentlige institutioner.
+To ud af tre virksomheder svarer, at de er blevet angrebet det sidste år. Og hvert ottende angreb lykkes ifølge undersøgelse.
+Ifølge Kåre Løvgren, der er formand for IDA-it, viser undersøgelsen, at virksomhederne kan blive bedre til at dele viden for deres egne og hinandens skyld.
+»Der er kun omkring en tredjedel, der fortæller et angreb videre til politiet eller Center for Cybersikkerhed. Det er et signal til mig om, at der mangler en let og sikker måde at råbe alarm på, så man kan forhindre at smitten spredes«, siger Kåre Løvgren.
+DSB's billetsystem blev søndag nat overbelastet og lagt ned i et såkaldt DDoS-angreb. Men langt de fleste virksomheder møder dog en anden type af cyberangreb.
+»Undersøgelsen viser, at det mest almindelige angreb er ransomware, hvor data krypteres, og man skal betale for at få sine data tilbage. Det er vist 80 procent af angrebene«, siger Kåre Løvgren.
+»DDoS er mere almindeligt hærværk. Det er der ikke umiddelbart nogen, der får noget ud af. Det generer bare nogen. Ransomware får man penge ud af det, hvis nogen er pressede nok til at betale«.
+IDA-its undersøgelse er lavet sammen med FSR - danske revisorer og udført af Rambøll.
+ritzau

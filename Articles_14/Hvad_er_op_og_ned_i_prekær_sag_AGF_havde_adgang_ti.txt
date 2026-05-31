@@ -1,0 +1,34 @@
+Title: Hvad_er_op_og_ned_i_prekær_sag_AGF_havde_adgang_ti
+Date: 2019-04-02
+Article Type: Superligaen
+Author: Analyse. En sag om nordjyske dødbolde har vakt et ramaskrig i dansk fodbold, men blev lukket effektivt ned af en beklagelse fra AGF.
+
+Jeppe Laursen Brock
+Journalist
+AGF har haft uretmæssig adgang til AaB’s fortrolige data om dødbolde.
+Så meget står klart efter halvandet døgns ramaskrig i Superligaen, der brat sluttede tirsdag eftermiddag med en meddelelse fra Aarhus-klubben:
+»AGF beklager sag om adgang til AaB-data«, lød overskriften i beskeden, der konkluderede, at »begge klubber har besluttet at lukke sagen ned«.
+Men det kan være svært at finde rundt i den prekære sag. Politiken forsøger her at give svar på, hvad der er op og ned – og om det stadig kan få nogen følger.
+På sin vis handler det om en superligakamp 17. marts. Den fandt sted i Aalborg, hvor AaB tog imod AGF og vandt 3-1 – blandt andet på et mål af Kasper Pedersen efter hjørnespark. Umiddelbart var der intet mystisk at se, men i kulissen foregik et drama om data og mistanker om industrispionage.
+Kort før kampen ændrede AaB ifølge Ekstra Bladet på aftalerne vedrørende dødbolde, fordi aalborgenserne havde utvetydige informationer om, at personer i AGF havde haft adgang til deres skematiske optegnelser over hjørne- og frispark. De var lagret i programmet Sideline Sports. Der kunne nordjyderne konstatere, at assistent Allan K. Jensens data over dødbolde var blevet tilgået fra en computer i Aarhus-området.
+Indtil efteråret 2018 arbejdede han for netop AGF, hvor han også arbejdede med Sideline Sports, men i dette forår var han altså skiftet til AaB. Og arbejdede blandt andet med hjørne- og frispark. Så da nordjyderne hørte fra folk i Aarhus-klubben, at en træner havde pralet med at have adgang til taktikken bag alle AaB’s dødbolde, undersøgte de sagen og slog siden alarm. Derfor ændrede de skabelonerne før kampen og scorede altså efter hjørnespark i 3-1-sejren.
+Men uden for banen fortsatte spillet.
+Søndag aften afslørede Ekstra Bladet de første mistanker under overskriften ’Voldsom anklage: AGF hackede AaB før gyserkamp’. Om der er tale om decideret hacking i juridisk forstand, er dog tvivlsomt – Aarhus-lejren afviser i hvert fald klart at have brudt nogen adgangskoder for at trænge ind i it-systemet.
+Til gengæld virker det til, at en AGF-træner har spillet en aktiv rolle. Ved en »administrativ fejl« hos Sideline Sports fik han mulighed for at se AaB’s data og gjorde det. Både Ekstra Bladet, Århus Stiftstidende og Politiken erfarer, at AGF-lejren havde adgang gennem længere tid og tilgik informationerne talrige gange. Aarhusianerne oplyste ikke Aalborg-klubben om, at de kunne se deres tidligere kollega, Allan K. Jepsens, AaB-data.
+Men spørgsmålet er, om de brugte oplysningerne til noget.
+De første officielle ord fra AGF kom i form af en kortfattet kommentar på klubbens hjemmeside klokken 13.03 mandag.
+»AGF er i øjeblikket i færd med at undersøge sagen internt, men kan allerede nu blankt afvise anklagerne om hacking«.
+Senere på dagen satte direktør Jacob Nielsen flere ord på i forbindelse med klubbens 2-2-kamp mod Vejle. Og han bekræftede, at AGF har kunnet se fortrolige oplysninger om Aalborg-holdet:
+»Vi fik adgang til AaB’s dødboldsmønstre dagen før den sidste grundspilskamp mod dem. Vi har ikke brugt de data, og det er vores egen konto, så jeg kan ikke se, at vi har gjort noget forkert«, sagde Jacob Nielsen til Ritzau.
+Og tirsdag eftermiddag kom så den endelige besked om, at klubberne lukker sagen ned.
+»AGF har i dialogen med Sideline konstateret, at der er blevet begået en administrativ fejl, der har betydet, at AGF utilsigtet har fået adgang til AaB’s data i Sideline via AGF’s brugerlogin og password. De ting er nu blevet rettet«, lyder det:
+»AGF beklager, at klubben ikke har gjort AaB opmærksom på det hul (...) Som det dog også er blevet understreget, har AGF ikke gjort brug af den data. For alle parter er det en beklagelig sag«.
+Der står intet om, hvor mange gange AGF har tilgået modstanderens data, men klubben »har ikke yderligere kommentarer«.
+Fra den anden part i sagen har der været knap så mange ord. Men nu, hvor sagen er lukket ned, siger AaB’s sportsdirektør, Allan Gaarde, til Politiken:
+»Vi er glade for, at AGF er ude at beklage. Vi har fået den forsikring, at AGF ikke har misbrugt den data, de har haft adgang til, og det har vi tillid til«.
+Også Allan K. Jepsen har modtaget en undskyldning fra Aarhus.
+Med sagen lagt ned får den næppe nogen konkrete konsekvenser for AGF. Og mens det via digitale spor bør være let at bevise, hvor mange gange aarhusianerne har tilgået AaB’s data, ville det da også være svært at komme helt i mål: At fastslå endeligt om AGF har misbrugt den unikke viden.
+Det siger klubben, at den ikke har, og så slutter sagen vel der. Ingen politianmeldelse for industrispionage, ingen klage til DBU, ingen disciplinærundersøgelse af, om AGF har bragt spillet i miskredit.
+Til gengæld kan sagen meget vel føre til en akut debat mellem klubberne om moral, om at varsle hinanden om datalæk – og om der er behov for klarere retningslinjer på området.
+Jeppe Laursen Brock
+fortsæt med at læse

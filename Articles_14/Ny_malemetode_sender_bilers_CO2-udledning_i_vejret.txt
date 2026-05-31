@@ -1,0 +1,25 @@
+Title: Ny_malemetode_sender_bilers_CO2-udledning_i_vejret
+Date: 2018-08-15
+Article Type: Danmark
+Author: Nye udregningsmetoder gør ifølge Danmarks Statistik, at CO2-udslippet for den gennemsnitlige nye danske personbil bliver markant højere.
+
+Det skriver Danmarks Statistik
+.
+Målemetoden indfases frem mod 2019, og fra september i år skal alle nye biler være typegodkendt med et brændstofforbrug målt efter WLTP-metoden, skriver Færdselsstyrelsen.
+»Formålet med den nye såkaldte WLTP-metode er at få et mere realistisk billede af udslip og forbrug end den gamle NEDC-metode. Metoden bruges ved typegodkendelse af biler til blandt andet det europæiske marked«, skriver Danmarks Statistik.
+Med den nye - og altså mere realistiske metode - ligger den gennemsnitlige nye danske personbils beregnede CO2-udslip for hver kørte kilometer 21 procent højere end tidligere. Det er en markant forskel.
+»Et aktuelt niveau på 135 gram per kilometer mod 113 gram per kilometer«, skriver Danmarks Statistik.
+»Samtidig er energieffektiviteten samlet set lidt over 17 procent lavere - et aktuelt niveau på lidt over 18 km/liter mod 22 km/liter«, skriver Danmarks Statistik videre.
+Ændringen kommer dog ikke til at få indflydelse på opgørelsen af Danmarks samlede CO2-udledning for køretøjer.
+Den baserer sig nemlig på den solgte diesel og benzin og ikke bilers energieffektivitet, oplyser chefkonsulent ved Aarhus Universitets Institut for Miljøvidenskab Ole-Kenneth Nielsen.
+Den tidligere testmetode, kaldet 'New European Driving Cycle' (NEDC), blev udviklet i 1980'erne, skriver Færdselsstyrelsen.
+Men man har længe vist, at det reelle brændstofforbrug for biler var højere, fortæller professor i transportøkonomi ved Københavns Universitet Mogens Fosgerau.
+»I mange år har nærmest alle jo vidst, at den ikke var retvisende. Jeg tror, at alle, som har tænkt på at købe bil, var klar over, at brændstoføkonomien var bedre på papiret end i virkeligheden«, siger han.
+Derfor foreslog EU-Kommissionen allerede inden den store skandale om miljøsnyd med biler hos blandt andet VW, at en bedre og mere retvisende test skulle tages i brug.
+Og fra årsskiftet skal nye biler anvende WLTP-metoden til forbrugeroplysning i reklamemateriale.
+For forbrugerne er det en klar fordel, da det giver et mere retvisende billede af en ny bils brændstofforbrug og CO2-udledninger, forklarer professoren.
+I praksis kører bilerne dog hverken kortere eller længere på literen.
+Men registreringsafgiften og ejerafgiften kan stige for nye biler, skriver bilejernes forening FDM.
+Folketinget ventes dog i september at justere afgiftssatserne for nye biler, så den nye norm ikke i gennemsnit betyder højere bilafgifter.
+Ritzau har præciseret overskrift, underrubrik og indledning, da den oprindelig publicerede artikel gav indtryk af, at den samlede CO2-udledning for alle danske biler med ny målemetode vurderes som højere. Det er kun tilfældet for enkeltkøretøjers beregnede brændstoføkonomi.
+ritzau

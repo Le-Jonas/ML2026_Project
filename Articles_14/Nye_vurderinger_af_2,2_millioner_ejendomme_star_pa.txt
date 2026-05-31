@@ -1,0 +1,57 @@
+Title: Nye_vurderinger_af_2,2_millioner_ejendomme_star_pa
+Date: 2018-12-28
+Article Type: Danmark
+Author: Et væld af nye oplysninger skal medtages, når et nyt system til ejendomsvurderinger tages i brug. Statens It-råd betegner det som et system med »høj risiko«, men mangler fortsat det påkrævede budget og en tidsplan.
+
+Hans Drachmann
+Journalist
+Når 1,7 millioner ejerboliger for fremtiden skal vurderes, skal det ske på baggrund af en syndflod af oplysninger om boligerne.
+Ud over de oplysninger om bygningernes alder og størrelse, grundens størrelse, tagmaterialet og antallet af toiletter og bad, som altid har indgået i vurderingen, vil der blive inddraget en række nye oplysninger:
+Hvor langt er der til kysten eller den nærmeste sø? Hvor langt ligger ejendommen fra skov, togstation eller togspor? Skråner grunden? Hvordan er udsigten? Er der en vindmølle i nærheden, og hvor langt fra ejendommen står den og snurrer? Og hvordan med motorveje, er der sådan en i nærheden?
+Ejendommene vil blive fotograferet med gadefoto og skråfoto, så Vurderingsstyrelsen, der skal stå for de nye vurderinger, vil komme så tæt på at kunne kigge ind i folks køkkener og soveværelser, at Datatilsynet har rejst en stilfærdig advarsel og bedt om at blive orienteret, når systemet er på plads.
+Men for Vurderingsstyrelsen er det et større problem, at man ikke rigtigt kan forklare, hvad de mange oplysninger vil betyde for, hvor meget ejendommene eller grundene er værd.
+Bliver et parcelhus for eksempel mere eller mindre værd af, at der ligger en skov 194 meter fra huset, blev Vurderingsstyrelsen spurgt, da en del af det nye system blev præsenteret for en gruppe pressefolk for en måneds tid siden.
+Det kunne Vurderingsstyrelsens underdirektør Morten Jensen ikke selv svare på, men svaret vil komme fra it-systemet.
+»Det er ligesom at trykke på en lommeregner«, forklarede han.
+»Man kan ikke nødvendigvis se, hvad der sker inde i den, men det er resultatet, der kommer ud af den, der er det vigtige«.
+Håndteringen af de mange, mange forskellige oplysninger, som bliver lagt ind i et nyt, forkromet it-system, hvor det skal omsættes til kontante skatteopkrævninger, er en af de opgaver, som i juli 2015 fik Statens It-råd til at kategorisere det nye ejendomsvurderingssystem som et system med »høj risiko«.
+Det nye it-system skal kobles op på en række andre både nye og gamle registre og it-systemer, og så er der stor risiko for, at noget går galt.
+Og risikoen stiger, mente rådet, fordi Skatteministeriet dengang selv erkendte, at man var under tidspres, og derfor var man begyndt at udvikle ejendomsvurderingssystemet flere år, før politikerne havde besluttet, hvad det skulle kunne. En strategi, som skatteminister Karsten Lauritzen (V) selv betegnede som en »procesrisiko«.
+Skatteministeren skulle som alle andre ministre, der vil udvikle større it-systemer, indsende en plan – en såkaldt
+business case
+– med en tidsplan og et budget til Statens It-råd, der så skal give gode råd og vejledning om, hvordan ministeren undgår, at systemet kører i grøften med store forsinkelser og fordyrelser.
+Men det kunne det center i Skatteministeriet, som under navnet ICE arbejdede med det nye ejendomsvurderingssystem, ikke levere i 2015, som det ellers skulle.
+Statens It-råd måtte konstatere, at »ICE ikke har afdækket totaløkonomien i projektet«. Rådet anbefalede, at det skete »snarest muligt«.
+Statens It-råd havde dog forståelse for, at det var en vanskelig opgave, som Skatteministeriet havde sat sig selv på, så derfor fik ministeriet en ekstraordinær tilladelse til at vente med at indsende business casen med budget og tidsplan, til politikerne på Christiansborg havde vedtaget den nye lov om, hvad systemet skulle bruges til.
+Sekretariatet for It-rådet forklarer i dag sin »forståelse for projektets situation« på denne måde i en skriftlig udtalelse til Politiken:
+»For at formalia ikke skulle stå i vejen for, at projektet fik en god opstart, blev det aftalt, at ejendomsvurderingsprojektet skulle indsende en business case, så snart en ny ejendomsvurderingslov var vedtaget«.
+Efter planen skulle den nye lov være vedtaget i foråret 2016, men den blev forsinket til juni 2017. Og siden da har hverken Skatteministeriet eller dets Udviklings- og Forenklingsstyrelse, som nu har ansvaret for det nye system, formået at indsende den samlede plan med budget og tidsplan.
+Det betyder, at Statens It-råd er afskåret fra at løse sin opgave med hvert halve år at vurdere, om projektet skrider frem efter tidsplan og budget, eller det er ved at kuldsejle, som det er sket med andre store projekter i Skatteministeriet og andre ministerier.
+Statens It-råd skal i sine halvårlige rapporter give projekterne et trafiklys med enten grønt, gult eller rødt lys, som viser, hvordan det går med at holde budget og tidsplan. I sine halvårsrapporter må Statens It-råd derfor blot konstatere, at når det gælder ejendomsvurderingssystemet, er status: »Intet trafiklys«.
+Statens It-råd har gentagne gange rykket og presset på for at få projektets samlede budget og tidsplan. Det fremgår af en korrespondance, som Politiken har fået aktindsigt i.
+Også Rigsrevisionen har kritiseret, at der tilsyneladende hverken er styr på budget eller tidsplan for det nye system. I juni 2017 fremlagde Rigsrevisionen og Folketingets statsrevisorer en hård kritik af Skatteministeriets arbejde med det nye vurderingssystem, som nu havde stået på i næsten tre år.
+Skatteministeriet havde over for Rigsrevisionen oplyst, at der samlet var bevilget 1,2 milliarder kr. – heraf knap 700 millioner på Skatteministeriets område – til det nye ejendomsvurderingssystem.
+Folketingets statsrevisorer konkluderede, at Skatteministeriets styring af økonomien »har været utilfredsstillende«.
+Statsrevisorerne pegede på, at »størstedelen af Skatteministeriets bevillingsansøgninger« til finansudvalget »har været baseret på udokumenterede skøn og forudsætninger«, og at ministeriets oplysninger til Folketinget dermed var »uigennemsigtige og usikre«.
+Skatteminister Karsten Lauritzen lovede som svar på kritikken, at den efterspurgte business case med tidsplan og budget nu ville blive udarbejdet, så ejendomsvurderingsprojektet kunne blive fulgt og vurderet af It-rådet på lige fod med andre it-projekter.
+Skatteministeriet fik da også fremsendt et udkast, men det blev kasseret på et møde med Statens It-råd i januar i år. Udkastet »opfylder ikke formalia«, oplyser rådets sekretariat.
+Ministeriet lovede, at der ville komme en ny og holdbar plan, så ejendomsvurderingssystemet fra august kunne blive vurderet på linje med de andre it-systemer i staten.
+Det løfte kunne ministeriet dog heller ikke opfylde.
+I juni var It-rådet derfor ved at miste tålmodigheden. Rådets sekretariat har »taget fat i os« for at få at vide, hvornår business casen kan forventes, skrev en kontorchef i juni til sine kolleger i Udviklings- og Forenklingsstyrelsen.
+Mette Ring Rossing, der er underdirektør i styrelsen, talte med lederen af It-rådets sekretariat.
+»Vi har aftalt, at vi nu sætter gang i arbejdet med at udarbejde en mere retvisende business case«, svarede hun.
+»Vi starter på det nu og mødes allerede i næste uge«.
+Men det har heller ikke ført til noget resultat, og da Politiken før jul talte med Mette Ring Rossing, kunne hun ikke sige præcist, hvornår styrelsen vil være klar med det materiale, der skulle være afleveret i sommeren 2017, ud over at det vil være »primo 2019«.
+»Jeg kan ikke på nuværende tidspunkt komme det nærmere. Der er mange ting, der skal klikke sammen«, sagde Mette Ring Rossing.
+Mogens Pedersen, der er kommitteret i Finansministeriet og formand for Statens It-råd, betegner det som en helt særlig situation.
+»Det er klart, at en situation, hvor budget og tidsplan først kommer, når projektet er afsluttet, det er ikke noget, vi kan anbefale. Det er ikke nogen hemmelighed«, siger han.
+Skatteminister Karsten Lauritzen (V) meddelte i slutningen af oktober, at udarbejdelsen og udsendelsen af nye vurderinger af 2,2 millioner ejendomme ville blive udsat endnu en gang. Planen er nu, at de første nye vurderinger skal udsendes i andet halvår 2020. Det betyder, at økonomien i det store projekt skal gennemgås igen, oplyser han i en skriftlig udtalelse til Politiken.
+»Min forventning er, at vi har det på plads i starten af det nye år. Og nej, det gør mig ikke utryg. Den tidsplan, vi har meldt ud, den tror vi på. Og hvis der så senere kommer justeringer i planen, så må vi tage den derfra. Men det regner jeg ikke med«, siger Karsten Lauritzen.
+Han finder det »naturligt nok«, at det bliver dyrere at udvikle it-systemet.
+»Men som jeg hele tiden har sagt, så er vi i regeringen klar til at investere de penge, der skal til, for at boligejerne får nogle ordentlige ejendomsvurderinger. Vi opkræver mange milliarder i boligskatter i det her land. Det skal foregå på et så retvisende grundlag som muligt, og derfor er det ikke her, der skal spares – i hvert fald ikke på min ministervagt«.
+Hans Drachmann
+fortsæt med at læse
+Overblik:
+De nye ejendomsvurderinger volder problemer på stribe
+Ventetid forlænget med to år:
+Imens må boligejerne fortsat betale den høje skat

@@ -1,0 +1,7 @@
+Title: ’Creepy’_maskine_giver_fysisk_ubehag,_nar_dine_data_bliver_lækket_pa_nettet
+Date: 2018-04-23
+Article Type: Tech
+Author: Jeppe Valeur
+
+Musklerne i min venstre underarm udvider og trækker sig sammen i små, hurtige ryk, der er kraftige nok til at få min tommel- og pegefinger til at hoppe op og ned på bordpladen. En ufrivillig dans, der starter på ny, hver gang jeg bladrer i tilbudskataloget på tabletcomputeren foran mig.
+De elektriske impulser, der dikterer dansen, løber gennem sorte ledninger fra en lille orange kasse og ind i elektroder på min arm. Creepy Leaks – som den lille kasse kaldes – er indstillet til at sende impulserne, hver gang en app eller hjemmeside sender mine private data videre til en tredjepart uden at fortælle mig det. At dømme ud fra mine hoppende fingre sker det nærmest hele tiden, mens jeg åbner programmer på tabletten.

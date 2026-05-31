@@ -1,0 +1,23 @@
+Title: 13-arig_dansker_indblandet_International_politiakt
+Date: 2019-01-28
+Article Type: Danmark
+Author: Seks danskere er anholdt i stor aktion. Flere mindreårige er kaldt til præventive samtaler.
+
+Seks danskere er blevet sigtet i forbindelse med en stor, international aktion imod cyberkriminalitet. Det oplyser Rigspolitiet i en pressemeddelelse.
+Det er EU's politienhed, Europol, der står bag efterforskningen og har lukket en hjemmeside. På siden kunne man bestille hackerangreb.
+Og det har de seks danskere ifølge politiet altså været indblandet i.
+Sidens bagmænd er blevet anholdt, og 150.000 brugere er identificeret. Tilsammen har de ifølge Europol bestilt fire millioner angreb mod computere verden over.
+I alt 19 lande har været involveret i efterforskningen, og i Danmark har det altså ført til seks sigtelser.
+Claus Birkelyng, der er leder af Nationalt Cyber Crime Center (NC3) under Rigspolitiet, oplyser, at de danske brugere har bestilt angrebene for et beskedent beløb.
+Desuden har man i Danmark fundet frem til en række mindreårige, hvor politiet efterfølgende har haft præventive samtaler. Den yngste var blot 13 år, skriver
+DR
+.
+»Vi kigger altså med på nettet, ligesom vi samarbejder med en lang række myndigheder på nationalt og internationalt niveau om at efterforske de her sager«, siger Claus Birkelyng i pressemeddelelsen og fortsætter:
+»Derfor vil jeg også opfordre de unge mennesker, der har evner inden for it, til at bruge dem mere konstruktivt«.
+Bliver man dømt for et såkaldt DDoS-hackerangreb, som hjemmesiden har tilbudt, kan det give fængsel i op til to år, hvis der er tale om gentagelsestilfælde.
+Mange sager ender dog med en bøde.
+Anholdelserne er alle foretaget i januar, mens siden blev lukket ned allerede i april sidste år.
+Siden lukningen er antallet af DDoS-angreb faldet med 60 procent, oplyser Europol.
+fortsæt med at læse
+Sådan blev DSB's billetsystemer lagt ned:
+DDoS-angreb er internettets brostenskast

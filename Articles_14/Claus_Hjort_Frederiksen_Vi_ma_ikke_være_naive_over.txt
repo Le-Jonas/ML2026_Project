@@ -1,0 +1,29 @@
+Title: Claus_Hjort_Frederiksen_Vi_ma_ikke_være_naive_over
+Date: 2018-12-11
+Article Type: Danmark
+Author: Claus Hjort Frederiksen siger, at FE er »meget opmærksomme« på dynamikken mellem Kina og Huawei. Men det er uklart, om danske politikere overhovedet kan bremse den kinesiske tech-gigant.
+
+Jakob Sorgenfri Kjær
+Journalist
+Den kinesiske leverandør til kritisk dansk infrastruktur, Huawei, er havnet i internationalt stormvejr. Stadig flere af Danmarks allierede lande bandlyser firmaet fra at få adgang til deres fremtidige 5G-telenetværk, mens efterretningstjenesterne advarer mod spionagerisikoen som følge af tætte bånd mellem den kinesiske stat og erhvervsliv.
+Af frygt for at blive ramt af forbud i Danmark har Huawei fremsendt et åbent brev til Folketinget: 'I kan stole på Huawei', lyder overskriften.
+Men det kan Danmark ikke partout, siger forsvarsminister Claus Hjort Frederiksen (V) i en kommentar til Politiken:
+»FE og Center for Cybersikkerhed er meget opmærksomme på den dynamik, der er mellem den kinesiske stat og kinesiske virksomheder som Huawei. Dette gælder især de sikkerhedsmæssige udfordringer for vores teleinfrastruktur, der kan opstå i den forbindelse«, skriver Claus Hjort Frederiksen.
+Ingen beviser for spionagevirksomhed gennem Huaweis adgang til kritisk netværk er blevet fremlagt rundt omkring i verden. Men chefen for Center for Cybersikkerhed, Thomas Lund-Sørensen, sagde mandag til Politiken:
+»Vi har stadigvæk ikke fundet den berømte rygende pistol, som viser, at Huawei har gjort noget af sikkerhedsmæssigt skadelig karakter. Men der er til gengæld et skarpladt våben i form af den kinesiske lov, der pålægger enhver virksomhed at optræde som hjælper i statens efterretningsmæssige arbejde«.
+Claus Hjort Frederiksen erklærer sig »meget tilfreds« med, at der er en god dialog om sagen mellem Center for Cybersikkerhed og TDC. Det er TDC, der har budt Huawei indenfor som leverandør til sit 4G-telenet samt kabel tv-net. Derudover udfører TDC test på fremtidens 5G-netværk sammen med kineserne. Det samme har teleselskabet 3 gjort.
+»Vi skal naturligvis kunne være helt trygge ved de udenlandske selskaber, som leverer til det danske telenet. Vi har brug for konkurrence, så vi får de bedste løsninger til gavn for danskerne. Det gælder også på telemarkedet, hvor den nye 5G-teknologi snart bliver introduceret i Danmark. Men vi skal heller ikke være naive«, siger forsvarsministeren.
+Huaweis danske direktør Jason LanYang skriver i en kommentar til Politiken:
+»Vi er ikke en sikkerhedstrussel. Huawei har aldrig brugt sit udstyr til at høste nationale data, forretningshemmeligheder eller andre fortrolige data. Vi vil aldrig støtte eller tolerere sådanne aktiviteter, og vi vil aldrig deltage i sådanne aktiviteter på andres forespørgsel«.
+Politiken har spurgt efter direktørens kommentar til ministerens udmelding. Den dialog foretrækker vi at have med de danske myndigheder selv, siger han.
+Om Danmark overhovedet kan blokere for Huaweis adgang til telenettet, som det er sket i andre lande, er fortsat uklart. Politiken har stillet det spørgsmål til forsvarsministeren, men han har ikke svaret.
+Thomas Lund-Sørensen siger til Politiken, at Center for Cybersikkerhed under den nuværende lovgivning alene kan stille sikkerhedskrav til teleselskabernes samarbejde med leverandører og føre et opfølgende tilsyn:
+»Vores opgave som myndighed er at sikre tilstrækkelig sikkerhed i nettet, og det vil være forkert at tolke, at man kan bruge denne lov som et skalkeskjul for at holde nogle leverandører ude. Vi er en saglig organisation, der har til opgave at bistå med sikkerheden. Det er så muligt, at vores involvering vil gøre nogle leverandører dyrere at anvende end andre, men det må den konkrete dialog med teleselskaberne vise«, siger Thomas Lund-Sørensen.
+SF's it- og erhvervsordfører Lisbeth Bech-Poulsen har som følge af sagen stillet en byge spørgsmål til regeringen og vil nu indkalde forsvarsministeren i samråd om de folkevalgtes muligheder for at skærme dansk infrastruktur fra kinesiske interesser.
+»Tidligere har det politiske niveau lænet sig op ad FE og Center for Cybersikkerhed, som ikke har set noget problem med Huawei under de nuværende sikkerhedsforanstaltninger. Det giver ingen mening, hvis politikerne sidder og venter på FE, mens FE venter på os«, siger Lisbeth Bech Poulsen.
+Hendes holdning i sagen er klar:
+»Det er fuldstændig vanvittigt, at man i det hele taget har lukket det selskab ind i Danmarks kritiske infrastruktur«.
+Jakob Sorgenfri Kjær
+fortsæt med at læse
+Eksperter undrer sig over Danmarks tillid til Huawei
+Kina giver Canada skarp advarsel for fængsling af Huawei-chef

@@ -1,0 +1,33 @@
+Title: Henrik_Føhns_Hvordan_far_vi_sociale_medier,_som_tj
+Date: 2018-12-29
+Article Type: Viden og Tech analyser
+Author: I 2019 skal vi samle stumperne, men vi skal ikke slette Facebook.
+
+Henrik Føhns
+Hvordan får vi sociale medier, som tjener demokratiet? Det spørgsmål stillede lederen af afdelingen for medieforskning på MIT MediaLab i Boston, Ethan Zuckerman, i en kommentar i onlinemediet Medium lige før jul.
+Årsagen var naturligvis Facebooks deroute. I midten af december kunne New York Times afsløre, at Facebook havde givet andre virksomheder som for eksempel streamingtjenesten Spotify adgang til at læse, skrive og slette facebookbrugeres personlige beskeder, hvilket fik en del brugere op i det røde felt.
+En uge senere stak amerikaneren Jeff Jarvis, lektor i journalistik ved New York University, en spade lidt dybere i sagen, da han i en kommentar på Medium påpegede, at journalisterne måske bevidst eller ubevidst havde misforstået Facebooks model.
+Henrik Føhns
+Henrik Føhns er
+tidligere vært på DR’s populære P1-radioprogram ’Harddisken’.
+Han redigerer i dag
+Ingeniørforeningens podcast ’Techtopia’.
+Han skriver her i avisen jævnligt klummer
+om teknologiske forandringer.
+Bevidst, fordi Facebooks åbenlyst ryggesløse adfærd på andre områder har åbnet for, at platformen kan angribes 24/7, og dermed øjner den traditionelle mediebranche endelig en chance for at få sin værste konkurrent ned med nakken. Facebook har scoret annoncerne fra de gamle medier og demokratiseret meningsdannelsen gennem at undergrave de gamle mediers monopol.
+Ubevidst, fordi journalisterne måske ikke helt har forstået, hvordan internettet er bundet sammen, og hvorfor en facebookpartner som Spotify kan få adgang til dele af brugernes kommunikation.
+Lad os i et par linjer skrue tiden tilbage til 2010, hvor bogen ’The Facebook Effect’ udkom. Den er skrevet af journalisten David Kirkpatrick, og de mange timers interview med Zuckerberg afslørede hans hensigt med Facebook.
+De to vigtigste pointer var, at Facebook skulle brede sig over hele nettet og binde vores sociale relationer sammen på tværs af nettet gennem partnerskaber med medier som New York Times, Politiken, DR osv. Den anden pointe var Zuckerbergs vision om total transparens; hvis ingen skjuler noget for andre, får vi et bedre samfund.
+De to pointer er årsag til, at man kan bruge sit facebooklogin på et væld af andre services spredt over nettet. Facebook bliver på den måde en altomfattende social medie-infrastruktur. Og det er en del af de servicevilkår, man som bruger af Facebook accepterer.
+Når Spotify får ’adgang til at læse, skrive og slette brugerens personlige meddelelser’, er det ifølge Facebooks egne forklaringer kun gældende for de beskeder, en bruger har skrevet på Spotify for også at kunne dele dem med venner på Facebook. Man kan altså dele information om musik, man hører, men Spotify har ikke adgang til at redigere i ens andre meddelelser på Facebook, påpeger Jeff Jarvis, der ikke er alene med sin kritik af New York Times’ artikler.
+Den deles af både teknologer og journalister i kommentartråde på Facebook, Twitter og Medium. Bundlinjen er, at hvis man ikke bryder sig om den feature, skal man undlade at bruge facebooklogin på andre tjenester, hvilket næppe overrasker de mere begavede internetbrugere. Slet ikke dem, som læste Kirkpatricks bog og brugte deres sunde fornuft til at justere deres adfærd på de sociale medier efter den.
+Det frikender dog ikke Facebook for det ansvar, som platformen gennem implementeringen af Zuckerbergs vision har opnået. Facebook er blevet infrastruktur, og nu går diskussionen på, om platformen skal administreres som et medie med redaktører og medieansvar. Eller om man stadig kan bruge en global social medieplatform i ånden fra det åbne internet og lade den tilhøre brugerne.
+En gruppe amerikanske journalister med rødder i 90’ernes bloggermiljø har hen over juledagene besluttet sig for at prøve at redde de sociale medier, fordi bevægelser som #MeeToo og #BlackLivesMatter aldrig ville være kommet igennem filtret hos de traditionelle gamle medier, fordi de er domineret af velhavende halvgamle hvide mænd. Der er simpelthen brug for sociale medier for at understøtte den demokratiske debat.
+Hverken Zuckerman, Jarvis eller deres kollegaer mener, at vi skal forlade Facebook, fordi det ikke lukker platformen, men blot forringer vores mulighed for at påvirke udviklingen i en mere åben og demokratisk retning. Som Zuckerman skriver: »Du kan slippe ud af Facebook, men du kan ikke slippe af med Facebook«.
+Henrik Føhns
+fortsæt med at læse
+Mikkel Flyverbom:
+Er teknologi vores herre eller vores slave?
+Stribevis af skandaler gør 2018 til det værste år i Facebooks historie
+Mikkel Flyverbom:
+Nettet åbner vores verden – og ensretter os kulturelt

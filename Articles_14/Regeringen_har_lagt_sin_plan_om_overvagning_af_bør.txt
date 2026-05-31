@@ -1,0 +1,38 @@
+Title: Regeringen_har_lagt_sin_plan_om_overvagning_af_bør
+Date: 2018-12-14
+Article Type: Danmark
+Author: Den omstridte Gladsaxe-model om at samkøre børns og børnefamiliers data i algoritmer med point er lagt på køl. LA vil helt skrotte forslaget efter kommunens lemfældige omgang med borgernes data.
+
+Jakob Sorgenfri Kjær
+Journalist
+Det affødte en ophedet samfundsdebat, da Politiken 2. marts afdækkede regeringens plan om at give kommuner lov til at samkøre data om børn og børnefamilier. Ud fra opstillede risikoindikatorer, såsom missede besøg ved tandlægen og sundhedsplejersken samt forældrenes skilsmisse og ledighed, skulle data via en algoritme udpege potentielt socialt udsatte børn.
+Regeringens forslag, der var led i ghettoudspillet, udsprang af en frikommune-ansøgning fra Gladsaxe Kommune, og projektet er derfor blevet døbt Gladsaxe-modellen.
+Men tiltaget er efter massiv kritik røget i regeringens skuffe, og dernede vil det forblive, lyder det nu fra regeringspartiet Liberal Alliance:
+»Jeg er ikke parat til at sætte det forslag systematisk i værk, før kommunerne bliver langt bedre rustet til at håndtere det store ansvar, der ligger i at passe på borgernes personoplysninger. Intet tyder på, at kommunerne i dag er klar til at håndtere mere komplekse opgaver med samkøring af data«, siger LA’s politiske ordfører, Christina Egelund.
+De seneste dage har netop Gladsaxe bragt sig selv i et uheldigt lys ved at lække knap 20.000 borgeres fortrolige persondata.
+Kommunen har erkendt flere overtrædelser af databeskyttelsesreglerne blandt andet ved at samle flere persondata, end formålet med sagsbehandlingen tilsiger.
+Derudover har kommunen bidraget til at udsætte de lækage-ramte borgere for yderligere risici ved at føre dialog om deres sag i fuld offentlighed på Facebook.
+»Når jeg læser om datalækagen og Gladsaxe Kommunes håndtering af sikkerhedsbruddet, så tænker jeg, at Monty Python ikke har levet forgæves«, siger Egelund, der også er LA’s retsordfører.
+Da forslagets implikationer blev åbenbaret i marts, stod kritikerne i kø og kaldte tiltaget for både dyneløfteri og indførelse af kinesiske tilstande.
+Det skete blandt andet med henvisning til, at Gladsaxe i sit arbejde med datasamkøring og kunstig intelligens opererede med et bagvedliggende pointsystem over risikoindikatorerne for potentielt udsatte børn: Forældres ledighed per år medførte 500 point, mens en psykisk lidelse gav 3.000 point, fremgik det af kommunens udviklingspapirer.
+Børne- og socialminister Mai Mercado understregede, at det ikke var hensigten at masseovervåge Danmarks børnefamilier. På et samråd 21. juni holdt hun dog fast i nødvendigheden af tiltaget samt behovet for en hastig vedtagelse:
+»Vi lader børnene i stikken, hvis vi ikke gør noget nu«, sagde hun blandt andet.
+Men ministeren har ikke rørt ved sagen siden. For at imødekomme kritikken lovede Mai Mercado at indkalde alle partier til drøftelse af tiltaget, og det er heller ikke sket endnu.
+Ifølge Politikens oplysninger er tiltaget, som konsekvens af kritikken og andre sager, blevet nedprioriteret i ministeriet. Og det er yderst tvivlsomt, at det kommer op fra skuffen igen før et folketingsvalg. Således lader der også til at være udbredt skepsis i centrale dele af det andet regeringsparti, Venstre.
+Børne- og socialminister Mai Mercado (K) er dog ikke helt klar til at afskrive, at en model kan blive indført. Men det vil i givet fald blive i en anden form end den
+oprindeligt skitserede
+.
+»Regeringen er meget optaget af at finde en model, som balancerer de forskelligrettede hensyn bedst muligt, så kommunerne kan sætte tidligere ind med hjælp til udsatte børn og unge – samtidig med, at vi sikrer klare og trygge rammer, hvor borgernes retssikkerhed vægtes højt. Det kræver et grundigt forarbejde. Samtidig har jeg også sagt, at jeg vil drøfte en model med de andre partier, så det bliver ikke hastet igennem«, siger hun i en skriftlig kommentar til Politiken.
+Gladsaxe Kommune arbejder i kulissen videre på sit projekt, hvor den med kunstig intelligens vil forsøge at udpege børn, der er i farezonen for mistrivsel. Derefter vil risikofamilier blive opsøgt af kommunen med henblik på screening og rådgivning.
+I dag har kommunen ikke lovhjemmel til at samkøre borgernes persondata til dette nye formål. Det vil kræve en bekendtgørelse fra ministeren samt en godkendelse af de ministerielle regler fra Folketingets Retsudvalg samt Socialudvalget.
+»Situationen lige nu er, at vi ikke har fået tilladelse til at bruge ’Gladsaxe-modellen’. Derfor har vi aldrig brugt vores oplysninger til tidlig opsporing af sårbare børn. Men hvis vi får tilladelsen, så skal projektet forbi vores politikere en gang til. Så kan de vurdere, om de stadig mener, det er en god ide, at vi skal bruge de oplysninger, vi har, til at hjælpe sårbare børn til at få et bedre liv ved at tilbyde familien en håndsrækning«, siger Thomas Berlin Hovmand, direktør for Gladsaxe Kommunes Børne- og Kulturforvaltning.
+Den verserende lækagesag og kritikken af kommunens evner ud i databeskyttelse har intet at gøre med det at lave en forsvarlig datadrevet opsporingsmodel, mener han:
+»Med hensyn til sikkerheden så er det planen, at det her arbejde kommer til at foregå i lukkede, sikrede fagsystemer. Derfor ser vi ingen sammenhæng mellem tyveriet og det her projekt«, siger Thomas Berlin Hovmand.
+På Twitter oplyste kommunen onsdag aften, at den i et lukket system er i gang med at »træne« sin algoritme »med konkrete eksisterende sager og data fra Danmarks Statistik«.
+Jakob Sorgenfri Kjær
+fortsæt med at læse
+Fejl på fejl i Gladsaxe:
+Kommune hjælper med at udstille lækage-ofre på Facebook
+Efter brøleren i Gladsaxe:
+»Vi er absolut i den højere ende af alvorsskalaen«
+Regeringen vil overvåge alle landets børnefamilier og uddele point

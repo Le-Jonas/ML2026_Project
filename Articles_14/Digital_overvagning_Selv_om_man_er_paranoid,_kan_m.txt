@@ -1,0 +1,9 @@
+Title: Digital_overvagning_Selv_om_man_er_paranoid,_kan_m
+Date: 2019-08-23
+Article Type: Tech
+Author: Skeptikere har længe advaret om, at digitale tjenester og smarthøjttalere lytter med helt inde i privatsfæren.  De seneste afsløringer, der viser, at techfirmaer  endda har ansat folk til at analysere vores mest intime stunder, vil nok få den skepsis til at brede sig.
+
+Mikkel Flyverbom
+professor mso på Copenhagen Business School og medlem af Dataetisk Råd
+Vor tids digitale overvågning kan bedst forstås som en lang glidebane. De første tegn på at techfirmaer udnyttede vores digitale spor, virkede ret uskyldige.
+Det var jo meget smart, at Amazon brugte vores købshistorik og data om andre kunder til at anbefale den næste bog. Og at musiktjenesterne kunne finde mere musik i stil med det, vi allerede kunne lide. Samtidig fremstod det mest som underholdning, når Googles Zeitgeist-projekt samlede alle vores søgninger og f.eks. kunne vise, at verden var optaget af den islandske askeky i 2010, af iPhone 5s i 2013 og af Donald Trump i 2016. Datahøst handlede i starten mest om at sælge varer og levere underholdning.

@@ -1,0 +1,8 @@
+Title: Forvekslede_hver_femte_kvinde_med_en_mand_Eksperte
+Date: 2019-04-06
+Article Type: Tech
+Author: Forskere er bekymrede over, at fordomme er et systemisk problem i teknologi, der bruges til ansigtsgenkendelse.
+
+Cade Metz og Natasha Singer, The New York Times, San Francisco
+Mindst 25 fremtrædende forskere i kunstig intelligens, herunder eksperter hos Google, Facebook og Microsoft og en nylig vinder af den ansete pris Turing Award, har underskrevet et brev, der opfordrer Amazon til at standse salget af selskabets teknologi til ansigtsgenkendelse til politiet, fordi teknologien er forudindtaget over for kvinder og ikkehvide personer.
+Brevet, der blev offentliggjort i den forløbne uge, afspejler, at der i den akademiske verden og techindustrien er stigende bekymring for, at fordomme er et systemisk problem i teknologi til ansigtsgenkendelse. Nogle forskere – og sågar nogle selskaber – siger, at teknologien ikke kan styres på forsvarlig vis uden regulering fra staten.

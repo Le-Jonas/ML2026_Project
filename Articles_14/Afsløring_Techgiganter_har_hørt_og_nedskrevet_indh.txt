@@ -1,0 +1,33 @@
+Title: Afsløring_Techgiganter_har_hørt_og_nedskrevet_indh
+Date: 2019-08-19
+Article Type: Tech
+Author: I flere lande er det kommet frem, at techgiganter har lyttet til brugeres fortrolige informationer. Nu kan Politiken for første gang afdække, at projektansatte i selskaber hyret af Apple og Google har hørt og nedskrevet indhold fra danskeres telefoner og smarthøjtalere, som brugerne næppe var klar over.
+
+Pia Buhl Andersen
+Journalist
+Jóhann Thór Haahr Hansen
+Journalist
+»Hej Siri« og »Hej Google«.
+Sådan lyder det typisk, når du indleder en samtale med den digitale assistent på din telefon eller på din smarthøjtaler på køkkenbordet. Måske skal du finde vej, lytte til ny musik eller høre morgendagens vejrudsigt. Men hvad færre ved er, at samtaler og anden lyd, hvor assistenten er aktiveret, kan blive optaget og skrevet ud af et menneske i den anden ende.
+Tre nuværende og tidligere projektansatte i virksomheder, der evaluerer og behandler data fra techgiganterne Google og Apple, fortæller til Politiken, at de har arbejdet med at gennemlytte og transskribere danske optagelser fra Apples Siri og Googles Assistants brugere. Og de har også lagt øre til optagelser, hvor de vurderer, at det ikke var brugernes hensigt, at der skulle optages.
+En af de ansatte arbejdede med danske transskriberinger af Siri i 2016 hos en af Apples samarbejdspartnere, hvor han at lyttede og transskriberede et par hundred lydfiler om dagen.
+»Alt blev transskriberet. Når optagelserne kom ind, filtrerede vi ikke nogen fra. Arbejdet var det samme – at skrive ned, hvad der blev sagt. Jeg har overhørt skænderier, samlejer samt almindelige samtaler, der tydeligt ikke henvender sig mod Siri«, siger Henrik i dag.
+Henrik er ikke kildens rigtige navn, men hans identitet er Politiken bekendt.
+En anden kilde, som har arbejdet med danske optagelser fra Siri i 2017, fortæller, at han flere gange hørte optagelser, der kunne lyde som vold og seksuelle aktiviteter.
+»Vi fik at vide, at vi skulle anmelde optagelserne, hvis de indeholdt ulovlige forhold. Men vi fik ikke retningslinjer for, hvordan vi skulle behandle sensitive og fortrolige oplysninger eller samtaler, der var optaget fejlagtigt«
+I både Googles og Apples privatlivsreglementer står der, at optagelser, der indtales til de digitale assistenter, kan gemmes og bruges til at videreudvikle og forbedre teknologien. Det vil sige, at brugerne giver tilladelse til, at lydoptagelserne kan optages. Men i disse reglementer er det ikke specificeret, at der sidder mennesker, som har adgang til og lytter til optagelserne, og hvornår de lytter med.
+Det kan være problematisk, siger Jesper Lund, formand for IT-Politisk Forening, der arbejder for at forbedre borgernes rettigheder: »Hvis nogen lytter til optagelserne, uden at folk er klar over det, vil jeg betegne det som misbrug. Det, at der er mennesker, der lytter til det, du har sagt i din stue, er relativt indgribende«.
+I løbet af de seneste måneder er det kommet frem, at flere techgiganter har projektansatte, der lytter og transskriberer optagelser i mange forskellige europæiske lande. Det drejer sig om virksomhedernes respektive digitale assistenter, som også tæller Amazon Alexa.
+Afsløringerne har ført til, at datatilsynsmyndigheder i flere lande har iværksat undersøgelser. Det har fået Apple og Google til at sætte deres praksis med optagelser på pause i hele EU. Amazon er i forhandlinger med de luxembourgske myndigheder om det samme.
+Politiken har været i kontakt med det danske datatilsyn, der henviser til, at sagerne i Danmark hører under datatilsynet i det land, hvor virksomhederne har hovedsæde. Google har tysk hovedsæde i Hamburg. Der debatterer man, om det er et brud på de europæiske dataregler.
+Byens kommissær for databeskyttelse og informationsfrihed, Johannes Caspar, udtalte i begyndelsen af august: »Brugen af stemmeassisterede systemer i EU skal overholde databeskyttelsesforholdene, der er nedskrevet i GDPR-lovgivingen. I tilfældet med Google Assistant er der lige nu sået tvivl om det«.
+Også herhjemme er Google og Apple for nylig stoppet med, at mennesker aflytter og transskriberer. Politiken har ikke haft mulighed for at interviewe Apple, men virksomheden skriver i en mail: »Mens vi foretager en grundig undersøgelse, suspenderer vi Siri-evalueringen globalt. Som en del af en fremtidig softwareopdatering vil brugerne desuden have mulighed for at vælge at deltage i evalueringen«.
+Det har heller ikke været muligt at få et interview med Google, men virksomheden skriver i en mail, at de »har sat den menneskelige gennemgang af lyduddrag på pause«.
+Ifølge Google gennemgår sprogeksperterne omkring 0,2 procent af alle lyduddrag: »Disse eksperter instrueres i ikke at transskribere baggrundssamtaler eller andre lyde, men kun lydbidder, der er henvendt til Google«.
+Politiken har henvendt sig til tre af de underleverandører, der transskriberer lydoptagelser for techgiganterne. En af dem, firmaet Appen, er vendt tilbage.
+»Vi er meget opmærksomme på datasikkerheden, og vi følger GDPR-forordningen. Vi ved også, at det arbejde, vi udfører, potentielt kan udsætte vores projektarbejdere for foruroligende materiale. Vores mål er at beskytte vores medarbejdere fra dette«, siger marketingchef Jodie Ruby fra Appen.
+I Folketinget finder it-ordfører Ida Auken (R) sagen dybt problematisk. I Europa-Parlamentet kalder Peter Kofod (DF) det grotesk, og Christel Schaldemose (S) vil tage sagen op for at få EU-Kommissionen til at præcisere reglerne.
+Jóhann Thór Haahr Hansen
+fortsæt med at læse
+Grafik:
+Sådan aflytter techgiganterne os
