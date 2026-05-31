@@ -1,0 +1,21 @@
+Title: Ny_app_kan_vise,_hvilken_svamp_man_har_fat_i
+Date: 2019-10-25
+Article Type: Forbrug
+Author: Forskere fra Naturhistorisk Museum på Københavns Universitet har udviklet en app, der via fotogenkendelse kan artsbestemme skovens svampe.
+
+»Det er første gang, at det er muligt at få hjælp til at artsbestemme svampe med det samme ved hjælp af elektronisk billedgenkendelse i Danmark«, siger lektor og projektleder Jacob Heilmann-Clausen.
+Appen er koblet sammen med Danmarks Svampeatlas, som er en stor database over tusindvis af danske svampe.
+Når man har taget et billede af en svamp, bliver billedet analyseret. Herefter foreslår appen en række bud på, hvilke svampearter der kan være tale om.
+Den svampeart, som algoritmen anser for at være den mest sandsynlige, vil ligge øverst.
+Ifølge forskerne rammer appen rigtigt i fire ud af fem tilfælde. Det betyder også, at man ikke kan stole blindt på den.
+»Du må aldrig spise en svamp, bare fordi fotogenkendelsen foreslår, at det er en spiselig svamp, du har fundet«.
+»Du bør altid sørge for også at spørge en erfaren svampekender til råds«, siger Jacob Heilmann-Clausen.
+Der er hvert år svampeplukkere, som kommer galt afsted, når de plukker og efterfølgende spiser af skovens svampe.
+I 2017 omkom to børn fra en familie i Haslev, efter at de ifølge Sydsjællands og Lolland-Falsters Politi havde indtaget giftige svampe plukket i det fri.
+Overlæge Niels Ebbehøj fra Giftlinjen ved Bispebjerg Hospital har tidligere over for Ritzau anslået, at giftige svampe i gennemsnit koster et til to dødsfald om året samt et tilsvarende antal levertransplantationer.
+Giftlinjen modtager omkring 700 opkald om året om svampe.
+Løsningen bag fotogenkendelsen er udviklet af forskere fra Det Tjekkiske Tekniske Universitet i Prag i samarbejde med Danmarks Svampeatlas.
+Det er en server i Prag, der analyserer billederne og giver svar. Hvis netdækningen er god, sker det ifølge Jacob Heilmann-Clausen i løbet af få sekunder.
+Den nyudviklede app hedder 'Svampeatlas', og den er gratis at downloade.
+ritzau
+fortsæt med at læse

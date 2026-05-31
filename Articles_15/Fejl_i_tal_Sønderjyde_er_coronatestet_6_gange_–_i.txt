@@ -1,0 +1,15 @@
+Title: Fejl_i_tal_Sønderjyde_er_coronatestet_6_gange_–_i
+Date: 2020-10-02
+Article Type: Sundhed
+Author: Det vakte opsigt, da det kom frem, at en borger i Region Syddanmark var blevet testet for coronavirus 24 gange på bare to uger. Men nu viser det sig, at det alligevel ikke er tilfældet. Det korrekte tal er derimod seks gange på to uger, oplyser Region Syddanmark i en pressemeddelelse.
+
+Regionen har de seneste uger udleveret tal for, hvor mange gange enkelte borgere er blevet testet for covid-19. Men der er fejl i de tal, forklarer Kurt Espersen, der er koncerndirektør i Region Syddanmark.
+»Det er dybt beklageligt, at der er meldt tal ud, som ikke er helt korrekte. Det er i elektroniske systemer blevet indrapporteret, at den samme prøve er taget flere gange. Datasystemerne er blevet fyldt med nogle tal, som ikke er korrekte, så vi har fået nogle forkerte tal ud«, siger Kurt Espersen.
+Og de korrekte tal viser altså, at den person, som er testet flest gange i perioden 3. til 16. september, har været forbi til tjek seks gange. Statistikken omfatter test foretaget både på hospitalerne og i de hvide telte rundtomkring i Danmark. Fejlen er opstået ved, at test foretaget i Testcenter Danmark, der står for at undersøge borgere i de hvide telte, er blevet indrapporteret flere gange.
+Både Statens Serum Institut og Testcenter Danmark er opmærksomme på fejlen og arbejder på en løsning.
+»Vi er helt klart blevet opmærksomme på, at vi skal have ekstra kontroller ind over de data, der kommer ud. Og vi har en dialog med Testcenter Danmark og seruminstituttet om, at det her skal der findes en løsning på. Og man er godt i gang med at finde en løsning, så man kun får rapporteret en test pr. cpr-nummer pr. dag«., siger Kurt Espersen.
+Region Syddanmark havde også oplyst, at 1.316 personer er blevet testet tre eller flere gange i perioden på to uger, men det passer altså heller ikke. Det korrekte tal er, at 1.043 borgere i regionen er blevet testet tre eller flere gange.
+ritzau
+fortsæt med at læse
+Sundhedsstyrelsen løfter lidt af sløret:
+System til test for corona ændres snart

@@ -1,0 +1,29 @@
+Title: Dansk_corona-app_kan_advare_efter_kontakt_med_smit
+Date: 2020-06-18
+Article Type: Sundhed
+Author: På et pressemøde i Det Kongelige Biblioteks Have præsenterer sundhedsminister Magnus Heunicke (S) torsdag den længe ventede app til smartphones, som skal hjælpe med opspore smittede med coronavirus.
+
+Appen har fået navnet 'Smittestop'.
+»Kontaktopsporing er helt afgørende for at opspore og stoppe smittekæder. Appen er et godt våben til at bryde ukendte smittekæder. Vi ved eksempelvis, at der har været en smittet person ved en stor demonstration i København. Der vil den nye app være god til at opspore smittekæderne«, siger Magnus Heunicke.
+Med appen kan brugere give besked til andre brugere af appen, som man har været tæt på, hvis man bliver testet positiv med ny coronavirus.
+Om appen
+Formålet med appen er at give borgere mulighed for at orientere personer, man har været i nærheden af, hvis man bliver smittet med coronavirus.
+Det er muligt at blive orienteret af andre om, at man har været i kontakt med en person, der er smittet med Covid-19.
+Formålet med appen er at gøre smitteopsporingen hurtigere og nemmere. Det skal ske ved at:
+- Det er muligt at notificere kontakter, som man ikke kender.
+- Man kan notificere kontakter, man ikke umiddelbart kan huske.
+- Processen er hurtigere, da notifikationen kan ske direkte fra den smittede til kontakterne uden anden menneskelig indblanding.
+*Det er helt frivilligt, om man vil downloade og bruge appen.
+Kilde: Sundheds- og Ældreministeriet og smittestop.dk
+Appen kan derved give besked til personer, som man ikke kender, og som man derfor ikke på anden vis kan advare om, at de muligvis har været udsat for smitterisiko. Derefter kan de blive testet.
+Flere EU-lande har allerede lanceret forskellige sporingsapps, men den dansk app bliver altså først lanceret et godt stykke tid inde i genåbningen af Danmark.
+Myndighederne har tidligere forklaret, at det skyldes, at man ville sikre sig, at appen beskytter danskernes privatliv, og det er der også lagt vægt på i den endelige app.
+Appen bruger teknologi fra Apple og Google, som er udviklet med et særligt fokus på privatlivsbeskyttelse.
+Der er bred opbakning til smittesporingsappen blandt de politiske partier, som Venstre, De Radikale, SF, Enhedslisten, De Konservative, Liberal Alliance, Alternativet og hos løsgængeren Susanne Zimmer.
+Mange partier har netop lagt vægt på datasikkerhed og privatliv.
+»Da det første oplæg til den nye app blev lagt frem, var Enhedslisten meget skeptisk. Det var vi, fordi den baserede sig på central opbevaring af data. Vi mener, at det er ekstremt vigtigt, at vi respekterer folks privatliv og datasikkerhed«, siger Enhedslistens Peder Hvelplund.
+»Nu er det lykkedes at få løsning, hvor der er lokal lagring af data. Men det er en løsning, som samtidig er brugbar og effektiv i forhold til at stoppe smittekæder«.
+Det er frivilligt, om man vil downloade og bruge appen.
+ritzau
+fortsæt med at læse
+Efter politisk indgreb: Kritikere er glade for corona-app

@@ -1,0 +1,26 @@
+Title: Seruminstituttet_lavede_fejl_i_afgørende_beregning
+Date: 2020-05-18
+Article Type: Sundhed
+Author: Beregning viste større effekt af nedlukning, end der var belæg for, skriver Berlingske.
+
+Rettelse: Efter denne artikel blev publiceret, har Statens Serum Institut (SSI) oplyst, at den oprindelige historie fra Berlingske var baseret på forkerte tal, som SSI havde givet direkte til avisen, og altså ikke tal, som politikerne havde fået. Det var SSI’s fejl, at Berlingske fik forkerte tal. SSI oplyser samtidig, at man med fornyet viden om smittetrykket har regnet sig frem, at smittetrykket tilbage i marts faktisk var lavere, end man dengang troede. Læs mere
+i denne artikel
+. Politiken beklager fejlen.
+I et notat 30. marts - knap tre uger efter nedlukningen af samfundet - konkluderede Statens Serum Institut (SSI), at smittetrykket i Danmark var næsten halveret fra 12. marts til 24. marts.
+Smittetrykket - hvor mange andre en person med coronavirus smitter - var ifølge notatet faldet fra 2,6 til 1,4.
+Men den beregning var fejlagtig, skriver
+Berlingske.
+Smittetrykket var 12. marts kun 1,5. Og 24. marts var det så faldet til 1,3, viser Berlingskes gennemgang af data og beregninger fra SSI.
+Over for Berlingske anerkender Tyra Grove Krause, der er afdelingschef ved SSI, at man har lavet en fejl i notatet fra 30. marts.
+Fejlen skyldes blandt andet, at der i tallene for smittetrykket ikke er korrigeret for personer, der er smittet i udlandet.
+Det giver et mere retvisende billede af smittens spredning i Danmark, hvis man ikke medtager personer, der er smittet i udlandet, i regnestykket.
+Da SSI 30. marts skulle sætte ord på, hvordan nedlukningen af samfundet tre uger forinden havde påvirket smittetrykket, sagde faglig direktør Kåre Mølbak, at Danmark havde været heldige og kloge.
+På pressemødet var også statsminister Mette Frederiksen (S) tilfreds med udviklingen, som blandt andet det fejlbehæftede notat viste.
+»Vi kan nu begynde at se effekten. Det nytter. Det virker. Alt dét vi gør ved fælles kraft, sagde hun.
+Både professor i virologi på Københavns Universitet Allan Randrup Thomsen og professor i infektionssygdomme ved Rigshospitalet Jens Lundgren siger til Berlingske, at der er tale om en fejl.
+SSI har flere gange understreget, at der er usikkerhed ved beregningen af smittetrykket.
+Smittetrykket bruges blandt andet til at vurdere udviklingen af coronasmitte i samfundet.
+Hvis det er 1,3, betyder det, at en smittet person gennemsnitligt overfører virusset til 1,3 andre. Når tallet er under 1, er epidemien aftagende, mens den udvikler sig, hvis tallet er over 1.
+ritzau
+fortsæt med at læse
+Tusindvis af danskere venter i kø på nettet til at bestille coronatest

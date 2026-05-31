@@ -1,0 +1,54 @@
+Title: Hab_for_pressede_sygehuse_Fra_næste_uge_kan_coron
+Date: 2020-03-25
+Article Type: Sundhed
+Author: To læger og en forsker har udviklet en kunstig intelligens, der giver sundhedspersonale mulighed for at passe coronapatienter uden hele tiden at skulle være i tæt kontakt med de smittede. På sigt vil patienterne også kunne blive indlagt i eget hjem, hvor deres tilstand overvåges på afstand.
+
+Frauke Giebner
+Journalist
+Sundhedsvæsenet er presset. Der er ikke personale nok, ikke værnemidler nok og på sigt ikke plads nok til at tage sig af de mange coronapatienter, der forventes at blive indlagt i løbet af de næste uger.
+Men to danske læger og en forsker har udviklet en kunstig intelligens, der allerede fra næste uge vil kunne hjælpe sygehusene med at løse en del af problemerne.
+Systemet kan overvåge alvorligt syge, men stabile coronapatienter. På den måde kan personalet undgå løbende at gå ind på isolationsstuerne, hvilket reducerer risikoen for smittespredning, ligesom sygehusene kan spare på vigtige værnemidler og bruge personalets tid så effektivt som muligt.
+På sigt vil det også være muligt at indlægge patienter på hoteller, hvor værelserne kan omdannes til isolationsstuer, der kan overvåges via en computer.
+Allerede i næste uge vil de første 65 coronapatienter få monteret måleudstyr på kroppen og blive tilsluttet det nye overvågningssystem.
+Det kan lade sig gøre, fordi projektet netop har fået en bevilling på 3,9 mio. kr. fra Novo Nordisk Fonden, som gør det muligt at rulle teknologien ud på tre hospitaler i hovedstadsområdet samt Odense og Aarhus Universitetshospital.
+Projektet, der går under navnet WARD (Wireless Assessment of Respiratory and circulatory Distress) har været i gang siden 2016 og har tidligere fået støtte fra Innovationsfonden og Kræftens Bekæmpelse. De seneste to år har forskerholdet testet deres teknologi på hjerte- og lungesyge samt cancerpatienter, der har været gennem en større operation.
+Men for tre uger siden kiggede de på hinanden og besluttede, at de ville bruge systemet til også at hjælpe coronapatienter, siger Eske K. Aasvang, der er en af de tre initiativtagere til projektet. Til dagligt arbejder han som forskningsansvarlig på anæstesiafdelingen ved Center for Kræft og Organsygdomme på Rigshospitalet.
+Eske K. Aasvang er glad for, at forskningsprojektet nu kan komme både hans kollegaer og coronapatienterne til gode.
+»Vi havde midlertidigt stoppet al forskning, fordi vi ikke ville risikere at bære smitte fra personale til patienter. Men vi kunne se, hvilken vej det gik med coronaepidemien, og vi har teknologi, som kan hjælpe lige nu og her«, siger han.
+Systemet kan særligt gøre en forskel for de patienter, der er indlagt på sengeafsnit.
+Mens hver intensivpatient bliver overvåget døgnet rundt af en sygeplejerske, skal personalet på sengeafsnit om natten holde øje med ti eller flere patienter ad gangen.
+»Mange forestiller sig, at man på et hospital er overvåget hele tiden. Men på sengeafdelingerne har patienter som regel ikke måleudstyr på, og det betyder, at der kan ske forværringer i deres tilstand uden varsel«, forklarer Christian S. Meyhoff, der er forskningsansvarlig overlæge på Bispebjerg Hospitals anæstesiafdeling.
+Hvis patienten ser ud til at være stabil, vil sygeplejerske typisk tage stikprøver på væsentlige værdier som puls og blodtryk et par gange i døgnet.
+»Det svarer lidt til, at man styrer et fly, men kun åbner øjnene hver ottende time«, siger Eske K. Aasvang.
+Her kan det kliniske supportsystem WARD, der monitorerer patienterne døgnet rundt, levere langt bedre resultater, fordi det automatisk analyserer tidlige tegn på kritiske tilstande.
+Desuden slipper sygeplejerskerne for at skulle tage værnemidler på, hver gang de skal tage en prøve, og på den måde kan systemet også hjælpe med at spare på blandt andet mundbind og kitler, som i høj grad er en mangelvare.
+»Ud over det er det tidskrævende, når sygeplejersken hver gang, når hun skal ind til en patient, skal have værnemidler af og på. Det kan der godt gå tyve minutter med, og hos nogle patienter skal der måles værdier én gang i timen«, siger forklarer Eske K. Aasvang.
+Det betyder, at WARD kan frigøre ressourcer og samtidig være med til at reducere smittespredning, fordi personalet ikke er nødt til permanent at være i kontakt med de syge.
+Systemet fungerer ved, at patienterne blandt andet får et plaster på brystkassen, en iltmåler på pegefingeren og et armbånd om håndleddet. De data, som bliver indsamlet, bliver analyseret og fortolket af en computer, som så sender alarmer til de tablets, sundhedspersonalet i forvejen bruger, når patientens tilstand forværres.
+»Ideen er i virkelighed meget banal«, lyder det fra Eske K. Aasvang. Men den kan blive en stor hjælp i praksis.
+Både Christian S. Meyhoff og Eske K. Aasvang arbejder som læger til hverdag, og WARD er udviklet i samarbejde med læger og sygeplejersker for at sikre, at systemet spiller optimalt sammen med personalets hverdag.
+Indtil nu er teknologien testet på 700 patienter, og de foreløbige resultater peger på, at systemet opdager op til 20 gange flere afvigende værdier, end læger og sygeplejersker gør.
+»Jeg arbejder selv på intensivafdelingen på Bispebjerg, hvor jeg tager imod coronapatienter«, siger Christian S. Meyhoff.
+»Men hvis jeg ligger og sover, og en patient på et sengeafsnit pludselig bliver dårlig klokken 4 om natten og bør komme på intensiv, er det ikke sikkert, at sygeplejerskerne ringer til mig, fordi det kan være, at de slet ikke opdager forværringen. Her har vores system en kæmpe fordel, fordi det løbende holder øje«.
+De matematiske modeller, som algoritmerne bygger på, er udviklet i samarbejde med læger og forskere fra DTU Sundhedsteknologi.
+Teamet vil i løbet af de næste dage justere WARD systemet, så det udelukkende har fokus at finde de komplikationshændelser, der er relevante for patienter smittet med covid-19.
+Helge B.D. Sørensen er forsker ved DTU Sundhedsteknologi og har sammen med lægerne Aasvang og Meyhoff det overordnede ansvar for projektet.
+»Vi har to års erfaring med at måle og analyse på højrisikopatienter, og den store erfaring kommer os virkelig til gavn nu. Det gør, at vi på forhånd har løst en masse teknisk-videnskabelige opgaver«, siger han.
+WARD-systemet bliver løbende optimeret, så det kan opdage mønstre i sygdomsudviklingen og på den måde hjælpe med at forbedre behandlingen af coronapatienter.
+»Og jo flere patientdata vi får, jo bedre modelleringsmuligheder får vi«, siger Helge Sørensen.
+»Vi forventer i den kommende tid at finde nye sammenhænge mellem forskellige signaler og hændelser. Lægerne er vant til at vurdere et signal eller få signaler ad gangen. Men med computeren kan vi analysere langt mere komplicerede sammenhænge mellem forskellige hændelser og signaler fra kroppen«.
+Forskerne forventer, at systemet på sigt vil kunne varsle om en forværring i patientens tilstand et kvarter, før den indtræder.
+I øjeblikket har forskerholdet 65 enheder, som kan holde øje med patienter. Projektteamet er dog i dialog med Danske Regioner for at få indkøbt flere.
+»Setuppet har ingen begrænsninger, og vi håber, at regionerne vil overveje at købe flere enheder. Og i en situation som denne gælder det om at handle hurtigt«, siger Eske K. Aasvang, der har været i kontakt med blandt andet Martin Geertsen, der er sundhedsordfører for Venstre og medlem af Regionsrådet i Region Hovedstaden.
+På sigt vil der også være mulighed for, at patienter kan overvåges i eget hjem, eller at man kan indrette isolationsstuer på patienthoteller. En af fordelene ved det vil være, at smittespredningen kan begrænses yderligere, og at hospitalerne ikke bliver overbelastet.
+»Hvis sygehusene er tæt på at være fyldte, kan vi vente med at indlægge de stabile patienter og i stedet holde øje med dem på afstand. Det har også stor betydning for sikkerheden, da vi så undgår, at de kan sprede smitten til andre patienter og personale på sygehuset«, siger Christian S. Meyhoff.
+Ifølge Helge Sørensen er det kun et spørgsmål om om få tekniske udfordringer vedr. datatransmission, før WARD også kan bruges i private hjem.
+»Vi skal lige have sikret, at data bliver sendt i den rigtige form via wifi. Vi har en plan for, hvordan vi skal gøre det. Det er dog ikke det, der er fokus på i første omgang«.
+Frauke Giebner
+fortsæt med at læse
+Næsten hver anden sygeplejerske har oplevet at mangle værnemidler:
+»Jeg er mest bekymret for de patienter, jeg kan smitte på min vej«
+Biologer:
+Danmark kan skifte til offensiv teststrategi på kort tid
+Kommuner:
+Vi er i fuld gang med at gøre klar til at tage imod patienter

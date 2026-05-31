@@ -1,0 +1,9 @@
+Title: Dansker_sender_Apple_i_shitstorm_og_myndighedstjek
+Date: 2019-11-11
+Article Type: Tech
+Author: Den danske techentreprenør David Heinemeier Hansson kritiserer Apples betalingskort for at forskelsbehandle hans kone økonomisk. Goldman Sachs, der administrerer kortet, afviser diskrimination.
+
+Christian Bæk Lindtoft
+Journalist
+Da folkene bag Apples nye kreditkort, Apple Card, i august i år kunne sende det lille plastikkort i firmaets klassiske minimalistiske design ud på markedet, var det med slet skjult selvbegejstring, at de kaldte det den mest succesfulde lancering nogensinde.
+Men nu, tre måneders tid senere, er Apples betalingskort løbet ind i problemer: Kortet og det computerprogram, der styrer det – en algoritme – er kønsdiskriminerende.

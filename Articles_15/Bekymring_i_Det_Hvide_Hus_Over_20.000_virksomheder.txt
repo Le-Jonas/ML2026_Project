@@ -1,0 +1,17 @@
+Title: Bekymring_i_Det_Hvide_Hus_Over_20.000_virksomheder
+Date: 2021-03-07
+Article Type: Tech
+Author: Et omfattende hackerangreb vækker stigende bekymring i Det Hvide Hus, da titusindvis af virksomheder er ramt.
+
+Mere end 20.000 amerikanske virksomheder og offentlige institutioner er blevet udsat for et hackerangreb. Angrebet siges også at have påvirket titusindvis af organisationer i Europa og Asien, oplyser en unavngiven person med kendskab til den amerikanske regerings håndtering af situationen.
+Det var en sikkerhedsfejl - en såkaldt 0-day - der er kilden til kompromitteringen af Exchange-mailservere. På den måde har hackerne kunne komme ind i de tusindvis af virksomheders computersystemer.
+Microsoft sagde tirsdag, at virksomheden havde opdateret programmet og dermed fået lukket bagdøren. Microsoft sagde også, at angrebet var »målrettet og begrænset«. Men hackerangrebet fortsatte, og fredag erklærede Microsoft så, at de samarbejder med amerikanske myndigheder for at hjælpe deres kunder. Microsoft ønsker ikke at udtale sig om omfanget af hackerangrebet.
+Det store hackerangreb vækker stigende bekymring i Det Hvide Hus. Den amerikanske præsident, Joe Biden, er blevet informeret om angrebet, og talskvinde for Det Hvide Hus, Jen Psaki, siger, at sårbarheden i Microsofts system kan have vidtrækkende konsekvenser.
+»Vi er bekymrede over, at der er et stort antal ofre for dette angreb«, siger Psaki. Hun beskriver angrebet som en »aktiv trussel«.
+Kun 10 procent af de potentielt berørte computersystemer havde installeret opdateringen, der gav hackerne adgang til virksomhedens systemer. Ofrene har det til fælles, at de har kørt Exchange lokalt på egne computere og netværk i stedet for via store fælles internetservere. Det betyder, at større virksomheder og myndigheder i USA sandsynligvis ikke er blevet berørt.
+Microsoft mener, at det er en hackergruppe kaldet Hafnium, der står bag angrebet. Ifølge virksomheden holder gruppen til i Kina. Styret i Kina nægter at have kendskab til angrebet.
+Microsoft forventer, at der vil komme yderligere angreb, da koden, der bruges til at tage kontrol over mailserverne, har spredt sig.
+ritzau
+fortsæt med at læse
+Microsoft afslører stort hackerangreb mod USA's præsidentvalg
+Hackere har haft adgang til amerikanske ministerier

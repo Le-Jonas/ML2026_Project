@@ -1,0 +1,22 @@
+Title: Cyberkriminelle_udnytter_coronakrisen_til_at_snyde
+Date: 2020-06-28
+Article Type: Danmark
+Author: Under coronakrisen har kriminelle forsøgt at udnytte danske internetbrugeres ønske om information til at franarre dem oplysninger. Det kan være NemID-oplysninger og kodeord.
+
+Det skriver Center for Cybersikkerhed (CFCS) i
+en ny trusselsvurdering
+ifølge Berlingske.
+De kriminelle forsøger at lokke brugere på glatis ved at sende såkaldte phishing-mails.
+Det er mails, hvor afsenderen udgiver sig for at være eksempelvis en myndighed. Formålet er at få modtageren til at klikke på et link eller åbne en vedhæftet fil.
+»Hackerne forsøger dermed at udnytte danskernes efterspørgsel på viden om Covid-19 og den nuværende sundhedskrise«, skriver CFCS i trusselsvurderingen.
+»Under Covid-19-pandemien er der blevet oprettet en relativt stor mængde falske hjemmesider, som blandt andet udnyttes af hackere til at forsøge at franarre danske borgere deres NemID-oplysninger og andre loginoplysninger«.
+De falske hjemmesider bruger ofte navne, der ligner danske myndigheders hjemmesider.
+Også de danske mobilbrugere bliver forsøgt narret til at hente skadelige programmer.
+Der bliver ifølge trusselsvurderingen oprettet apps og andet, der synes coronarelateret. I virkeligheden er deres formål at stjæle informationer på mobilen.
+Center for Cybersikkerhed spår samtidig, at der også vil være cyberkriminelle, der vil forsøge at snyde med de hjælpepakker, som Folketinget har vedtaget for at hjælpe dansk erhvervsliv.
+Selv om cyberkriminelle altså ventes at fortsætte med at udnytte coronasituationen, ændrer det ikke ved det samlede trusselsbillede.
+Det skyldes, at coronakrisen i højere grad har taget over fra andre opfindsomme forsøg på at narre oplysninger ud af danskerne.
+Den overordnede trussel fra cyberkriminalitet vurderes fortsat at være 'meget høj'.
+»Truslen er rettet mod alle«, hedder det i den årlige vurdering.
+ritzau
+fortsæt med at læse

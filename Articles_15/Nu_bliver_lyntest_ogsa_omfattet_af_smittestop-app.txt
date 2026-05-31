@@ -1,0 +1,22 @@
+Title: Nu_bliver_lyntest_ogsa_omfattet_af_smittestop-app
+Date: 2021-02-16
+Article Type: Sundhed
+Author: Personer, der er testet coronasmittede ved lyntest hos private udbydere, kan fremover melde sig smittet i app.
+
+Appen Smittestop bliver nu ændret, så man også kan melde sig smittet via appen, hvis man er testet positiv ved en lyntest hos en af privat udbyder.
+Hidtil har appen kun kunne bruges, hvis man blev testet positiv med en PCR-test i det offentlige system.
+Det oplyser Sundhedsministeriet.
+»Det skal gøre det muligt at bryde endnu flere smittekæder i samfundet«, skriver Sundhedsministeriet i en meddelelse.
+Det har ikke hidtil været muligt for personer, der er blevet testet coronasmittede hos private udbydere at melde sig smittet via appen.
+Men nu er det system kommet på plads, så de private udbydere indberetter data til en database på samme måde som de offentlige teststeder.
+Det er herfra, at appen får data om, hvem der er testet positiv.
+»På den måde sikres det, at kun personer, der rent faktisk er testet positive, kan melde sig smittet i appen«, skriver Sundhedsministeriet.
+Data fra de første udbydere er ifølge Sundhedsministeriet tilgængelig i appen fra og med tirsdag.
+Det betyder, at man kan melde sig smittet, hvis man er blevet testet positiv for covid-19 hos en af følgende udbydere:
+Aleris-Hamlet Hospitaler A/S, Falck A/S, CareLink A/S, Virustest. Nu ApS, Waterfront Doctors Corporate ApS og SOS International.
+Sundhedsministeriet oplyser, at man som bruger kan opleve at få en fejlmeddelelse, når man forsøger at melde sig smittet efter en positiv test.
+Det skyldes, at de private testudbydere ikke overfører data til appen så ofte som data fra de offentlige teststeder.
+Hvis man får en meddelelse om fejl, skal man blot forsøge at melde sig smittet i appen igen dagen efter, lyder rådet fra Sundhedsministeriet.
+Smittestopsappen blev lanceret sidste sommer og er siden da downloadet tæt på 2,2 millioner gange.
+Sundhedsministeriet oplyste i sidste uge, at knap 55.000 personer har meldt sig smittet med corona i appen.
+ritzau

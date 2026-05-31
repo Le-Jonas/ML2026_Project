@@ -1,0 +1,9 @@
+Title: Det_begyndte_som_et_chatprogram_til_et_falleret_sp
+Date: 2020-12-05
+Article Type: Digitalt
+Author: Corona har gjort platformen Slack mere populær end nogensinde før, og nu er den solgt for et svimlende milliardbeløb. Det begyndte med et dødsdømt spil, der nu er blevet til fremtidens arbejdsværktøj.
+
+Jonas Pröschold
+Journalist
+I 2009 begyndte et nyt spilfirma ved navn ’Tiny Speck’ at udvikle et onlinespil, som de håbede ville tage verden med storm. Men de opdagede hurtigt, at det var svært at koordinere arbejdet og få de rigtige mennesker til at samarbejde på de rigtige tidspunkter. I en virksomhed fyldt med programmører var løsningen oplagt – de udviklede et samarbejdsværktøj, som var en mellemting mellem et intranet og et chatprogram, de kunne bruge internt i firmaet.
+Med det nye samarbejdsværktøj gik arbejdet hurtigt og effektivt, og de kunne i 2011 lancere computerspillet Glitch. Hvis du aldrig har hørt om det, er det ikke så underligt. Det blev dog ikke nogen større succes, for det viste sig, at firmaet havde lavet en fundamental fejl.

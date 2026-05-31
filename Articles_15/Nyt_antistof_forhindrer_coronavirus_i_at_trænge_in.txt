@@ -1,0 +1,29 @@
+Title: Nyt_antistof_forhindrer_coronavirus_i_at_trænge_in
+Date: 2020-05-05
+Article Type: Viden
+Author: Et forskerhold har fundet et antistof, der kan binde sig til coronavirus og blokere for adgang til vores celler. Det vækker håb om en ny behandling mod den frygtede sygdom.
+
+Lasse Foghsgaard
+Videnskabsredaktør
+Der er spændende nyt i jagten på at finde en behandling mod covid-19. Et tysk-hollandsk forskerhold har fundet et antistof, der kan binde sig til de pigge, som coronavirus bruger til at låse sig ind i vores celler med.
+Det virker. Det neutraliserende antistof kan i laboratoriets kunstige verden forhindre, at coronavirus kommer ind i vores celler og mangfoldiggør sig. Det giver håb om, at man potentielt kan stå med en behandling, som også virker i mennesker.
+»Det er superhot, det her, og virkelig en god nyhed. Forskerne har med det neutraliserende antistof fundet en effektiv måde, hvorpå vi kan forhindre, at coronavirus får adgang til vores celler. De har fundet et svagt punkt hos virus, en akilleshæl. Det kan med held blive en ny behandling til patienter med covid-19«, siger professor i infektionssygdomme Jens Lundgren fra Rigshospitalet, da Politiken præsenterer ham for det nye forskningsresultat, som netop er blevet offentliggjort i det videnskabelige tidsskrift Nature Communications.
+Det er grundforskning, og derfor er det for tidligt at sige, om de lovende resultater også vil gøre en forskel hos mennesker. Det skal der både dyre- og menneskeforsøg til for at kunne afgøre.
+»Selv om man – sagens alvor taget i betragtning – godt kunne fristes til allerede nu at bruge det neutraliserende antistof som en eksperimentel behandling af covid-19-patienter, så er det alt for tidligt. Man skal først sikre sig, at behandlingen ikke har utilsigtede bivirkninger, først i dyreforsøg og dernæst i en lille gruppe forsøgspersoner. Dermed er der ganske lange udsigter til, at behandlingen vil kunne gøre gavn i behandlingen på hospitalerne«, siger Jens Lundgren.
+Han glæder sig over, at man har fundet et specifikt sted hos coronavirus, som den ikke kan undvære, hvis den skal gøre sig håb om at komme ind i vores krop.
+»Forskerne har ned i den mindste molekylære detalje fundet en struktur på coronavirussens overflade, som er vigtig for, at virussen kan inficere vores celler med succes, og blokerer man den, kan man holde den ude. Den viden er også vigtig i forbindelse med udvikling af vaccine mod sygdommen, for hvis man udvikler vaccine, som repræsenterer lige præcis den struktur på coronavirussens overflade, vil man med stor sandsynlighed få kroppens B-celler til at producere antistoffer, som vil kunne neutralisere virus. Så jeg håber, at vaccineudviklere læser med her«, siger Jens Lundgren, som leder og koordinerer en forsøgsbehandling i hele Europa med lægemidlet Remdesivir, som aktuelt har vist ganske lovende resultater i behandlingen af covid-19-patienter.
+Forsøgslederen er også klar til at kaste sig over andre lovende behandlinger, og hvis det viser sig, at det nyfundne antistof kan gøre en forskel i behandlingen af covid-19 i indledende menneskeforsøg, er han også klar til at give antistoffet en chance som forsøgsbehandling.
+»I vores globale konsortium leder vi med lys og lygte efter de mest lovende behandlingsprincipper, som vi kan teste på svært syge covid-19-patienter. Vi er også klar til at teste det nye antistof, hvis det fortsætter med at tegne lovende på den lange vej mod patientforsøg, og hvis resultaterne kan bekræftes af uafhængige forskere«, siger Jens Lundgren.
+I kampen mod den aktuelle coronavirus knytter man generelt et håb til, at antistoffer vil kunne gøre en forskel. For eksempel arbejder flere virksomheder på at isolere neutraliserende antistoffer fra patienter, der har overvundet infektionen med coronavirus, for derefter at sprøjte dem ind i svært syge covid-19-patienter, hvor immunforsvaret endnu ikke er kommet i gang med at producere neutraliserende antistoffer. Dette behandlingsprincip vil blive afprøvet hen over sommeren, fortæller professoren.
+»Det er for tidligt at sige, hvor disse forsøg vil foregå. Det kommer for eksempel an på, hvorhenne epidemien findes på det tidspunkt«.
+I Danmark arbejder man også på at tappe blod fra patienter, der har overstået en infektion med coronavirus, og så bruge den væske, som blodcellerne svømmer rundt i, til at behandle meget syge covid-19-patienter.
+»Væsken, som vi kalder serum eller plasma, vil være rig på neutraliserende antistoffer, og håbet er, at indsprøjtning med denne væske vil kunne hjælpe den svært syge patient, indtil patientens eget immunforsvar kan komme på banen og bekæmpe sygdommen«, siger Jens Lundgren.
+DOKUMENTATION:
+A human monoclonal antibody blocking SARS-CoV-2 infection
+Lasse Foghsgaard
+fortsæt med at læse
+Ny forskning: Coronavirus muterer fra den ene patient til den næste
+Verdens førende virusekspert:
+Derfor er coronavirus værre end ebola
+To danskere jagter en kur mod coronavirus:
+Vi skal forberede os på at blive ramt af en anden bølge af epidemien

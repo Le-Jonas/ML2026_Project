@@ -1,0 +1,25 @@
+Title: Vesten_frygter_at_Kina_vil_overtage_internet
+Date: 2020-03-28
+Article Type: Tech
+Author: Kina har sammen med blandt andet teleselskabet Huawei foreslået FN, at måden internettet fungerer på radikalt skal ændres.
+
+Det skal blandt andet gøre det muligt med helt nye teknologier at bruge hologrammer og køre i selvkørende biler.
+Men flere vestlige lande slå alarm. De frygter, at Kina forsøger at indbygge en helt ny autoritær arkitektur i internettet. Det skriver avisen Financial Times.
+Huawei, de statslige selskaber China Unicom og China Telecom samt Kinas ministerium for industri og information har i fællesskab foreslået en ny standard. De kalder den 'Nyt IP'.
+Det har de præsenteret for ITU. Det er FN's organisation for informationsteknologier. ITU arbejder for fælles standarder inden for data- og telekommunikation.
+USA, Sverige og Storbritannien er blandt de vestlige lande, hvor forslaget er blevet mødt med bekymring.
+En delegeret til ITU fortæller, at der er to konkurrerende visioner: En om et frit og åbnet internet uden regeringers indflydelse, og 'så et som er meget mere kontrolleret og reguleret af regeringer'.
+Blandt de lande, der støtter den nye standard, er Rusland og Saudi-Arabien. Det siger vestlige delegerede.
+Financial Times har set et billedforedrag fra Huawei. Her omtales den nuværende infrastruktur på nettet, der kendes som TCP/IP, som 'ustabil' og 'særdeles utilstrækkelig'.
+Kina vil med sit forslag tage 'hovedparten af ansvaret for et top-down design for det fremtidige netværk', hedder det.
+Men et papir er undervejs til Nato fra et britisk sikkerhedsfirma, Oxford Information Labs. Det siger, at 'Nyt IP' vil kunne give 'finkornet kontrol' med selve internettets fundament ifølge Financial Times.
+»Det vil føre til mere centraliseret kontrol ovenfra af internettet og potentielt også dets brugere med de implikationer det kan have for sikkerheden og menneskerettighederne«, hedder det i papiret.
+Huawei og de andre kinesiske udviklere vil forsøge at få standarden med 'Nyt IP' vedtaget på en stor ITU-konference i Indien i november, skriver avisen.
+ITU ledes i dag af en kinesisk teleingeniør, Houlin Zhao.
+ritzau
+fortsæt med at læse
+Danmark gør klar til øget overvågning: Teledata skal afsløre, om vi retter ind efter regeringen
+Tech-klumme:
+Danmark vil så gerne være førende inden for digitalisering. Coronaen har vist os bagsiden af den ambition
+Skal få it-giganterne til at hoste op med skat:
+Jeppe Kofod ansætter ny tech-ambassadør

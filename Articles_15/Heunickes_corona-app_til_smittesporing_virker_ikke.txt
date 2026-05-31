@@ -1,0 +1,21 @@
+Title: Heunickes_corona-app_til_smittesporing_virker_ikke
+Date: 2020-04-17
+Article Type: Sundhed
+Author: En kommende app til coronabekæmpelse virker ikke på de telefoner, som op mod halvdelen af danske mobilbrugere har - nemlig iPhones.
+
+Det skriver Altinget.
+Ved et pressemøde mandag i sidste uge annoncerede sundheds- og ældreminister Magnus Heunicke (S), at danskerne om få uger frivilligt vil kunne downloade en ny app fra myndighederne.
+Appen skal hjælpe danskere til at få besked, hvis de har været i nærheden af en coronasmittet.
+Men en særlig sikkerhedsfunktion på Apples iPhones blokerer for, at appen vil virke, når telefonen ligger i lommen. Det fortæller direktør i Digitaliseringsstyrelsen Rikke Zeberg.
+»Den store udfordring er, at man ikke kan registrere kontakter med iPhones i dag, fordi styresystemet er designet til at kappe appens forbindelse til bluetooth, når man ikke aktivt bruger appen eller telefonen«, siger hun til Altinget.
+Det betyder, at når telefonen ligger i lommen, tvinger den appen til at gå i en dvaletilstand, hvor den ikke længere kan registrere, hvem en borger er i nærheden af.
+Den udfordring er ifølge Rikke Zeberg ikke til stede i Googles styresystem, Android.
+»Vi og andre lande har en god dialog med Apple om at få åbnet den funktion, men spørgsmålet er, hvornår det sker. I Singapore for eksempel, hvor man er langt fremme med app-løsninger, der rådgiver man befolkningen om at holde appen åben, hvis man har en iPhone«, siger hun:
+»Men det ville jo være nemmere, hvis appen også ville fungere, når telefonen er i låst tilstand«, siger hun til Altinget.
+I Danmark har mellem 40 og 50 procent af smartphoneindehavere en iPhone.
+Altinget har forelagt Rikke Zebergs kritik for Apple. Virksomheden ønsker ikke at svare på kritikken.
+Apple har lanceret et samarbejde med Google om at lave en fælles smittesporingsfunktion baseret på bluetooth, men Rikke Zeberg pointerer, at hun hellere ser en løsning bygget på dansk digital infrastruktur:
+»Det vigtige for os er at have styr på data, så vi vil gerne bruge vores egen danske infrastruktur, hvor vi ved, der er styr på sikkerheden«, siger hun til Altinget.
+Den danske app kan være klar om et par uger, hvis man kan klare de tekniske udfordringer.
+ritzau
+fortsæt med at læse

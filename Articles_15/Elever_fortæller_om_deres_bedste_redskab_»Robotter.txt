@@ -1,0 +1,8 @@
+Title: Elever_fortæller_om_deres_bedste_redskab_»Robotter
+Date: 2020-01-14
+Article Type: Uddannelse
+Author: Mie  Haugaard
+
+Journalist
+Hvad er dit bedste redskab?
+»Det er robotterne i værkstedet, som har mange forskellige funktioner. Robotarmen her programmerer vi, så den for eksempel kan sortere metal- og plastikklodser på små paller. Der sidder en lille sensor, som registrerer, om klodsen er af plast eller metal. Hvis den er af metal, flytter robotarmen klodsen over på den ene palle, hvis den er af plastik, flytter den klodsen over på den anden palle. Robotterne er mit bedste redskab på uddannelsen og i fremtiden, fordi jeg gerne vil arbejde med dem, når jeg er færdiguddannet. Jeg vil gerne ud på en virksomhed, som har robotter. Nogle siger, at robotter kommer til at erstatte folks arbejdskraft. Det gør de ikke. I stedet kommer det faktisk til at skabe flere arbejdspladser. Fordi der også er folk som mig, som skal programmere dem, og folk, som skal styre dem. Jeg vil gerne være med til at programmere en robotarm. Jeg kan godt lide automatikken i det, og hvordan den kører af sig selv«.

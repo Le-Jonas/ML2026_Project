@@ -1,0 +1,11 @@
+Title: Svaret_er_nørdet,_men_Sadan_foregar_det,_nar_coro
+Date: 2021-01-12
+Article Type: Sundhed
+Author: Bente Klarlund svarer på spørgsmål fra læserne. Denne gang om coronatests.
+
+Bente Klarlund Pedersen
+Overlæge og professor
+Anonym:
+Hvorledes udføres disse PCR-tests, hvor mange repetitioner udføres der i Danmark, og er der en fast protokol for det? Og hvad er risikoen for falsk positive tests?
+Bente Klarlund Pedersen:
+Dette svar bliver lidt nørdet. PCR-testen måler covid-19’s rna. Prøven bliver kørt gennem en PCR-maskine ad flere omgange, hvorved man forsimplet forklaret forstørrer genmaterialet. Hver gang man kører materialet gennem maskinen, har man gennemført en såkaldt cyklus. Man gentager adskillige af disse cyklusser. Ved hver cyklus fordobles mængden af covid-19-genmateriale, hvis det er til stede i prøven.

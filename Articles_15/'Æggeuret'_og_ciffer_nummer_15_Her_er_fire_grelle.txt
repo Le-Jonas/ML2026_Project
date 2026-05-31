@@ -1,0 +1,9 @@
+Title: 'Æggeuret'_og_ciffer_nummer_15_Her_er_fire_grelle
+Date: 2019-10-05
+Article Type: Danmark
+Author: I sin gennemgang af teleskandalen har Deloitte fundet en række nye og kendte fejl i håndteringen af teleoplysninger.
+
+Sebastian Stryhn Kjeldtoft
+Undersøgende redaktør
+Alle mobiltelefoner har et unikt IMEI-nummer på femten cifre, som kan sammenlignes med en persons CPR-nummer. Men i flere tilfælde har Rigspolitiets it-system ved en fejl rundet det sidste tal i IMEI-nummeret op eller ned.
+Fejlen er konstateret i tusindvis af sager, men i langt de fleste af dem har det været uden betydning. I 18 sager anslår Deloitte dog, at fejlen kan have medført, at en forkert person kan være blevet inddraget i en politiefterforskning.

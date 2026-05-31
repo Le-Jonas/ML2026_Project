@@ -1,0 +1,23 @@
+Title: Fejl_i_Smittestop-app_er_mere_omfattende_og_kan_ha
+Date: 2020-10-03
+Article Type: Sundhed
+Author: Kolleger kan have misset beskeder efter fejl i Smittestop-app.
+
+Fejl i smittesporingsappen 'Smittestop' betyder, at eksempelvis kolleger ikke i alle tilfælde har fået besked om, at de har være tæt på en coronasmittet, selv om personen har meldt sig smittet via appen.
+Fejlen gælder kortvarige kontakter, hvilket også kan tælle klassekammerater eller personer, man har været på kursus med.
+Det viser et mailsvar fra Sundheds- og Ældreministeriet til DR.
+Det gælder for de mere end tre måneder, hvor appen har været tilgængelig.
+I sidste uge lød det, at fejlen kun ramte personer, som man har været tæt på i lang tid, eksempelvis dem man bor sammen med eller er sammen med i for eksempel et døgn.
+Fejlen kan betyde, at mange smittekæder ikke bliver brudt. Det siger Christian Wejse, der er epidemiolog og afdelingslæge ved Aarhus Universitetshospital, til DR.
+»Formentlig er rigtig mange, der har været tæt på en smitsom person og potentielt blevet smittet, ikke blevet testet og dermed fundet«, siger han.
+Idéen med appen er, at den på anonym vis skal huske, hvem man har været sammen med.
+Bliver en person testet positiv for coronavirus, kan appen i anonymiseret form give besked til dem, han eller hun har været i nærheden af.
+Det er af Sundheds- og Ældreministeriet defineret som inden for cirka 1-1,5 meter i omkring 15 minutter.
+Men det viser sig, at NetCompany, der har lavet appen for ministeriet, enten har misforstået eller er blevet misinformeret om et centralt element i teknologien, der er udviklet af Apple og Google.
+Som standard er det nemlig personers vægtede og gennemsnitlige eksponering for en smittet person, der afgør, om man får besked, skriver DR.
+Appen udregner så en 'risikoscore' baseret på, i hvor lang tid og med hvilken afstand man har haft til den person, der senere bliver testet positiv. Den tager også højde for, om personen er smitsom.
+Problemet opstår, hvis man samme dag både har været på behørig afstand af og meget tæt på en anden person.
+Har man eksempelvis siddet helt tæt med en kollega til et møde i en halv time, vil det trække ned i risikoscoren, hvis man så resten af dagen har siddet længere væk fra kollegaen - men stadig inden for telefonernes rækkevidde i samme rum.
+Fremover vil 'Smittestop' ifølge DR lægge mere vægt på de korte og tætte møder. Der vil inden for de næste uger komme en opdatering, oplyser ministeriet til DR.
+ritzau
+fortsæt med at læse

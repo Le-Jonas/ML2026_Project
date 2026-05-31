@@ -1,0 +1,16 @@
+Title: Teknisk_fejl_gør_det_umuligt_at_logge_pa_sundhed.d
+Date: 2021-01-03
+Article Type: Sundhed
+Author: En fejl hos NemLog-in gør det lige nu umuligt at logge på offentlige hjemmesider som sundhed.dk og borger.dk.
+
+Det er i øjeblikket ikke muligt at bruge NemLog-in, og derfor kan borgere ikke logge på offentlige hjemmesider som eksempelvis sundhed.dk, skriver
+sundhed.dk på sin hjemmeside
+søndag formiddag.
+Det er blandt andet på sundhed.dk, hvor man kan se svar på de coronaprøver, som man får foretaget af det offentlige.
+»Der er endnu ingen meldinger om fejlen fra NemLog-in, og derfor kan vi desværre ikke give en melding på, hvornår fejlen forventes at være løst«, står der på sundhed.dk’s hjemmeside.
+Også andre myndigheder er ramt af problemet. Blandt andet på borger.dk, hvor man kan følge sin kontakt med det offentlige, er det søndag formiddag ikke muligt at bruge NemLog-in.
+»Det er ikke muligt at logge på borger.dk og en række selvbetjeningsløsninger lige nu. Vi arbejder på at løse problemet og beklager ulejligheden«, står der på borger.dk’s hjemmeside.
+Det er stadig muligt at logge på MinSundhed-appen. Det vil sige, at det fortsat er muligt for borgere at tjekke deres svar på eksempelvis coronaprøver.
+Når borgere får foretaget en coronatest i et af landets offentlige testcentre, kan der gå nogle døgn, fra prøven er taget, inden svaret er analyseret og kan ses. De test, man får foretaget i de offentlige testcentre, er kendt som pcr-test. Det er dem, hvor man bliver podet i halsen. Pcr-test vurderes at være mere pålidelige end de lyntest, man kan få foretaget af private udbydere.
+ritzau
+fortsæt med at læse

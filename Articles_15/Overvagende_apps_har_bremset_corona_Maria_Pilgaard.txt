@@ -1,0 +1,41 @@
+Title: Overvagende_apps_har_bremset_corona_Maria_Pilgaard
+Date: 2020-03-12
+Article Type: Tech
+Author: Apps, der følger brugernes færden, har været afgørende for at bremse udbruddet i Kina, siger myndigheder. Eksperter advarer dog mod at bruge dem i Danmark.
+
+Jens Bostrup
+Journalist
+Kinesere og udlændinge, der opholder sig i Kina, bliver bedt om at installere en app, der i realtid kan fortælle, om de udgør en smitterisiko, og om de skal gå i karantæne eller holde sig fra offentlig transport, indkøbscentre og andre offentlige steder.
+En af brugerne er danske Maria Pilgaard, der i over tre år har arbejdet som grafiker i Shanghai. For hende har appen været en stor fordel. Hun er grøn – det betyder uden smitterisiko – så hun kan bevæge sig frit rundt i byen, når hun blot indscanner sin QR-kode i de mange checkpoints, der er opstillet ved ind- og udgange til færdselsårer og boligkvarterer.
+»Mens mit firma var lukket ned, skulle jeg udfylde en ny sundhedserklæring hver dag«, fortæller Maria Pilgaard.
+To af de helt store kinesiske techselskaber, Tencent og Alibaba, har udviklet hver deres corona-app. Tencents version holder øje med, hvor brugeren har befundet sig i de seneste to uger, og kan således afgøre, om vedkommende har været i et smitteramt område, og sågar om brugeren har været tæt på personer, der senere har vist sig at være smittet.
+Indbyggerne kan på den måde slippe for at udfylde sundhedsformularer og hurtigere genoptage deres arbejde, samtidig med at smitterisikoen minimeres, lyder det kinesiske nyhedsbureau Xinhuas beskrivelse af systemet.
+Marie Pilgaard bruger en version fra Alibaba, den kinesiske pendant til Amazon. Appen ligger som en del af betalingssystemet Alipay, der kan se, hvor hun har været.
+»Jeg har været i Shanghai i hele perioden og aldrig været i kontakt med nogen, der har været smittet eller mistænkt, så derfor har jeg en grøn kode«, forklarer hun.
+Alibabas version kan dog endnu mere: Den indsamler tillige brugerens øvrige data – Alibaba ved ganske meget om sine kunder, kombinerer dem med
+big data
+og bruger kunstig intelligens til at beregne smitterisikoen.
+Systemet udpeger ifølge Alibaba de smittede med 96 procents nøjagtighed. Og kan fortælle den enkelte, hvor det er tilladt at bevæge sig hen, og hvordan man i øvrigt bør opføre sig.
+Det er ikke påbudt at bruge appen. »Men jeg skal fremvise en grøn kode, hvis jeg skal ind i det område, hvor jeg arbejder, og hvor jeg går til crossfit. Så hvis du bare bliver hjemme, behøver du ikke at bruge appen«, forklarer Maria Pilgaard.
+Kinesiske myndigheder mener, at appen og andre teknologiske løsninger har været afgørende for at bremse det kinesiske udbrud.
+»De nye teknologier har udmærket sig med umådelige og kreative bidrag, der har forbløffende effekt«, skriver Lu Chuanying, ledende medarbejder i Shanghais Global Cyberspace Governance, i partiavisen China Daily.
+Det står imidlertid ikke helt klart, hvilke data diagnosen bygger på. Ej heller hvad der sker med de data, der indsamles. The New York Times har analyseret appens koder og fundet en kommando, der tilsyneladende sender brugerens data videre til politiet.
+»Dermed er der skabt nye former for automatiseret social kontrol, der kan fortsætte, længe efter at epidemien er gået i sig selv«, skriver The New York Times.
+Andre lande i regionen, der er et par måneder foran Danmark på coronafronten, har udviklet andre teknologiske løsninger. I Sydkorea advarer en app, hvis karantæneramte borgere forlader den tilladte zone. I Singapore beder myndighederne borgerne om at registrere deres bevægelser via en QR-scanner, så man kan gå tilbage og spore spredningen af nyopdagede tilfælde.
+I Danmark har Sundhedsstyrelsen ikke undersøgt, om de sydøstasiatiske teknologier kunne være relevante for Danmark, og henviser til Statens Serum Institut. Men heller ikke der har man kigget i den retning.
+Søren Brunak, forskningsdirektør og professor på Københavns Universitet med speciale i brugen af data til medicinske formål, siger, at de kinesiske apps er helt i tråd med den internationale trend, hvor man i stadig stigende grad supplerer de traditionelle patientjournaler med data, der opsamles af mobiler, ure og andre
+wearables
+. Teknologien bruges allerede til at hjælpe patienter med parkinsons og diabetes.
+På spørgsmålet, om teknologien også kan bruges til at forudsige enkeltpersoners smitterisiko, er Søren Brunak imidlertid skeptisk.
+»Det er ret nemt at lave en algoritme, der kan finde sammenhænge i data. Flaskehalsen er at få den testet grundigt og konservativt, og jeg har ikke set noget studie, der dokumenterer, at den virker«, siger han.
+Alibaba hævder, at systemet kan identificere 96 procent af de smittede korrekt. Var det ikke værd at prøve af, når man nu tager så mange andre drastiske midler i brug?
+»Det er ingen kunst at ramme rigtigt mange gange, hvis algoritmen samtidig diagnosticerer en stor del af befolkningen som smittet, uden at den faktisk er det. De 96 procent fortæller ikke noget, før man ved, hvor mange falske positive der er«, siger Søren Brunak.
+Hvis algoritmen laver 10 eller 100 falske positive for hver gang, den rammer rigtigt, så fører den til et voldsomt misbrug af sundhedsvæsnets ressourcer. »Derfor kan den gøre mere skade end gavn, både for patienter og for samfundsøkonomien«, siger Søren Brunak.
+Andelen af fejl og falske positive kan desuden ændre sig dramatisk, når man bruger systemet et andet sted, end hvor algoritmen er blevet trænet. Klimaforhold, indkomst- og levevilkår, befolkningstæthed og meget andet kan påvirke pålideligheden.
+Hanne Marie Motzfeldt, lektor i digital forvaltning på Københavns Universitet, forstår godt, hvis det er fristende for danske myndigheder og politikere at lade sig inspirere af kineserne.
+»Men jeg vil råde partierne til at tænke sig grundigt om. Folketinget behandler lige nu den mest vidtgående lovgivning siden Anden Verdenskrig, der griber ind i stort set alle grundlæggende borgerrettigheder. Hvis vi lægger en vidtgående statslig – og måske endda tvungen – overvågning oveni, kan det blive meget vanskeligt at komme tilbage til det frie danske samfund«, siger hun.
+Marie Pilgaard i Shanghai ser mere praktisk på det: »Alt i alt er det jo en sikkerhedsforanstaltning. Alle de tiltag, de laver herude, er med til at få folk til at føle sig trygge og samtidig begynde at vende tilbage til en normal hverdag«.
+Jens Bostrup
+fortsæt med at læse
+674 personer er konstateret smittet med coronavirus
+C25 sætter bundrekord og taber 184 milliarder i værdi

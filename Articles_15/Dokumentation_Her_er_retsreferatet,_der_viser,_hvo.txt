@@ -1,0 +1,11 @@
+Title: Dokumentation_Her_er_retsreferatet,_der_viser,_hvo
+Date: 2019-10-04
+Article Type: Tech
+Author: Politiken bringer her et uddrag af en retssag mellem Facebook og en gruppe amerikanske Facebook-brugere, der beskylder techgiganten for at have sendt deres data videre til andre firmaer, uden at brugerne vidste det.
+
+Dommer
+Vince Chhabria
+:
+»Lad mig begynde med det sidste spørgsmål, jeg stillede dig. Lad os antage – og jeg ved, at du er stærkt uenig i det her – men lad os blot teoretisk antage, at Facebook lod sine brugere forstå, at hvis man ifølge sine indstillinger kun deler ting med sine venner, kun med sine 100 venner – lad os bare sige, at en bruger har 100 venner – og man sætter sine indstillinger således, at ens opslag og ’likes’, fotografier og så videre kun deles med ens venner, så vil vi, Facebook, sikre, at ingen andre får adgang til disse oplysninger? Okay? Og lad os sige, at Facebook i strid med dette løfte alligevel udbredte fotografierne og ’likes’ og opslag til hundreder af firmaer. Ville det ikke være et virkeligt alvorligt brud på privatlivets fred?«.
+Orin Snyder:
+»Svaret på det spørgsmål er nej, og nu skal jeg forklare hvorfor. Altså svaret på hele spørgsmålet er både og. Vores påstand er, at det her ikke er alvorligt nok til at udløse en anklage om brud på privatlivets fred eller andre privatslivsregler ...«

@@ -1,0 +1,15 @@
+Title: Nu_ændres_anbefalingen_til_dem,_der_far_advarsel_p
+Date: 2020-11-26
+Article Type: Sundhed
+Author: Få af dem, der i appen Smittestop varsles om mulig coronasmitte, testes positive. Krav om isolation droppes.
+
+Kun en mindre andel af dem, der gennem appen Smittestop får besked om, at de har været nær en coronasmittet, bliver selv bekræftet smittet efterfølgende. Det fremgår af en nyhed på
+smittestop.dk
+.
+De få positive coronaprøver har fået myndighederne til at ændre sine anbefalinger, så folk uden smittesymptomer ikke længere behøver at gå i selvisolation, hvis de får besked om smitterisiko fra appen.
+Appen fungerer således, at den ved brug af bluetooth registrerer, hvor tæt brugere af appen er på hinanden. Brugere, der bekræftes smittet, kan oplyse det anonymt i appen. Herefter sender Smittestop en advarsel ud til de mennesker, der i en periode på 15 minutter har været inden for en radius af en meter på den coronasmittede person
+Får man besked om, at man kan have været udsat for smitte, bør man hurtigst muligt bestille en tid til at blive coronatestet. Man kan til gengæld droppe at gå i selvisolation, så længe man er symptomfri og ikke på anden vis har fået at vide, at man er nær kontakt til en coronasmittet person.
+Ritzau
+fortsæt med at læse
+Covid-pas:
+Må et firma kræve, du er vaccineret?

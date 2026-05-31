@@ -1,0 +1,31 @@
+Title: It-rad_advarer_Stor_risiko_for,_at_ny_beskatning_
+Date: 2019-11-05
+Article Type: Danmark
+Author: Nyt boligskattesystem savner samlet plan og bygger på flere højrisikable projekter, advarer Statens It-råd.
+
+Hans Drachmann
+Journalist
+Opgaven med at fastsætte og opkræve grundskyld hos boligejere, udlejere og virksomheder kan være en umulig opgave for skattemyndighederne.
+Det vurderer Statens It-råd, der har til opgave at rådgive ministerierne om nye store it-investeringer, i et brev, som rådet sendte til Skattestyrelsen og Udviklings- og Forenklingsstyrelsen 27. august.
+I brevet konkluderer rådet, at tidsplanen for indførelsen af de nye vurderinger og opkrævningen af nye boligskatter har været »helt urealistisk«, og det fik for halvanden uge siden skatteminister Morten Bødskov (S) til at udsætte de nye boligskatter med tre år fra 2021 til 2024.
+Men rådet går i brevet endnu længere ved at beskrive en række problemer og risici, når staten i fremtiden – på baggrund af nye skatteregler – skal opkræve både ejendomsværdiskat og grundskyld (skat på grundens værdi), som i dag opkræves af kommunerne.
+Den ændrede beskatning af boliger »vil ramme stort set alle danskere, enten direkte som ejere eller erhvervsdrivende eller indirekte som lejere«, og det vil, forudser rådet, »uanset hvad få meget stor offentlig bevågenhed og sikkert møde megen kritik«.
+Der er, konstaterer It-rådet, tale om en »overordentlig kompleks opgave«, og der er stor risiko for, at det går galt, fordi Skatteministeriet ikke har fremlagt en samlet plan for, hvordan opgaven skal løses, konkluderer rådet.
+»En mere realistisk plan af programmets gennemførelse vil nedbringe sandsynligheden for, at programmet allerede i udgangspunktet er på en umulig opgave«, skriver rådets næstformand, Birgit Nørgaard, i brevet.
+Statens It-råd består af 13 personer med ledelsesposter i private eller offentlige virksomheder og erfaring med at indføre store it-systemer. Rådet får sekretariatsbistand fra Digitaliseringsstyrelsen under Finansministeriet.
+Brevet blev afsendt efter et møde mellem rådet og de to styrelser under Skatteministeriet, som skal gennemføre det nye boligskattesystem.
+Statens It-råd skal vurdere risikoen ved alle større it-systemer i staten, og mødet skulle forberede denne risikovurdering. Men rådet måtte konstatere, at der er så mange ubeskrevne risici, at det ikke er muligt at foretage en risikovurdering. I stedet valgte rådet at sende »en samling af nogle foreløbige observationer«.
+Og rådet lægger ikke fingrene imellem.
+For eksempel har rådet uden held »gentagne gange efterlyst et komplet overblik« over de nye systemer, men det er »først nu, at Rådet tilnærmelsesvis kan danne sig et indtryk af størrelsen og kompleksiteten af den totale opgave«.
+Der »foreligger endnu ikke en masterplan« for det samlede ejendomsskattesystem, hvilket ellers er »yderst påkrævet«, da den kommende skatteopkrævning baserer sig på et vurderingssystem, der i forvejen er betegnet som et højrisikoprojekt.
+Der er tale om en »overordentlig kompleks opgave«, hvor det nye it-system skal kunne håndtere et forsigtighedsprincip på 20 procent, beregne en skatterabat til eksisterende ejere, håndtere en midlertidig indefrysning af skattestigninger og senere en permanent indefrysning, ligesom staten skal overtage opgaven med at lade pensionister indefryse deres grundskyld som en gæld i deres bolig. En opgave, som i dag ligger i kommunerne.
+Og det hele skal fremgå af de forskudsopgørelser og årsopgørelser, som skattevæsenet hvert år sender til alle borgerne.
+Det kræver sammenkobling af en række store it-systemer, og det kræver, at der etableres en helt ny organisation til opkrævning af grundskyld, som skal placeres i Svendborg og Ribe. Bare det at ansætte og uddanne medarbejdere til de to afdelinger er »en betydelig udfordring«, mener rådet.
+Det hele bliver ikke lettere eller mindre risikabelt af, at regeringen og Folketinget endnu ikke har vedtaget loven med de nye boligskatteregler, som et bredt flertal indgik en politisk aftale om i maj 2017.
+Skatteminister Morten Bødskov (S) siger i en skriftlig udtalelse, at konklusionerne fra Statens It-råd indgik i beslutningen om at udskyde boligskattereglerne og har givet »et reelt billede af de mest akutte problemer«.
+»Nye ejendomsvurderinger og boligskatteregler har fra starten været et højrisikoprojekt, hvor man skulle bygge et forvaltningsområde op fra bunden. Det er en svær opgave, som undervejs har vist sig endnu mere kompleks, end man først troede«, udtaler skatteministeren.
+Han vil nedsætte et nyt it-tilsyn, der skal overvåge arbejdet med at indføre nye it-systemer i skattevæsenet alene.
+»Vi skal være mere sikre på, at de planer, vi lægger, holder, og at systemerne virker, som de skal, når vi sætter strøm til dem. Derfor skal det nye it-tilsyn fremover give grønt lys til store it-projekter. Samtidig lægger vi op til at investere mere end 350 mio. kr. ekstra i området – alene til næste år. Skal vi lykkes med opgaven, er der brug for både realisme, ressourcer og et bredt samarbejde, hvor vi hurtigt finder en løsning«.
+Hans Drachmann
+fortsæt med at læse
+Risiko: Stigende skatter bliver større end ejendommens værdi

@@ -1,0 +1,22 @@
+Title: Ekspert_Overvagning_giver_en_række_udfordringer
+Date: 2019-10-24
+Article Type: Danmark
+Author: Teknologien bag ansigtsgenkendelse vil formentlig have svært ved at spotte personer på de fleste optagelser fra kameraer i det offentlige rum.
+
+Der vurderer Thomas Moeslund, der er professor i videoovervågning og analyse ved Aalborg Universitet.
+Han udtaler sig, efter at Københavns Politi i et interview med Berlingske har sagt, at det vil være en fordel at kunne benytte teknologien i efterforskninger.
+»Hvis man bare har ét kamera, vil det nok ikke være så brugbart, medmindre det fanger ansigtet direkte, som det muligvis kan i for eksempel et dørparti«, siger Thomas Moeslund.
+Derfor skal der formentlig flere kameraer til, hvis teknologien skal fungere optimalt.
+»Hvis man har en del kameraer, hvor man har adgang til meget videomateriale, er der meget bedre mulighed for at opsamle et billede, der rent faktisk kan bruges«, siger han.
+Professoren påpeger, at man skelner mellem to former for ansigtsgenkendelse. Den ene er samarbejdsvillig, som når brugere kan benytte deres ansigt til at låse en smartphone op, og den anden er ikke.
+Det er den sidste, som politiet vil gøre brug af. Men det giver ifølge Thomas Moeslund også en række udfordringer.
+»Det er en teknologi, der stadig er under udvikling, og det kan være udfordrende at identificere folk ude i offentligheden«.
+»Det kan være svært at identificere folk, hvis de ikke ser direkte ind i kameraet, eller der er dårlige lysforhold med eksempelvis mørke eller hårde skygger«, siger professoren.
+Men får politiet lov til at benytte sig af teknologigen, er det ikke sikkert, at det skal ud og investere i nye kameraer.
+»Som udgangspunkt tror jeg, at Københavns Politi vil kunne bruge de kameraer, de har i forvejen. Det handler om at få ekstra software ind på de servere, de har der, hvor videostrømmene ender«, siger Thomas Moeslund.
+Justitsminister Nick Hækkerup (S) har over for Berlingske ikke ønsket at kommentere udtalelserne fra Københavns Politi.
+I stedet henviser ministeren til partiets retsordfører.
+» Jeg kan godt forstå, at politiet ønsker at bruge ansigtsgenkendelse, men umiddelbart har vi ikke nogen planer om at tillade ansigtsgenkendelse«, siger Jeppe Bruus (S) til avisen.
+Rigspolitiet oplyser i en mail til Ritzau, at det ikke har nogen kommentar til sagen.
+ritzau
+fortsæt med at læse

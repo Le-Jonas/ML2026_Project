@@ -1,0 +1,13 @@
+Title: Kina_har_etableret_et_avanceret_overvagningslabora
+Date: 2020-06-24
+Article Type: Farlig viden
+Author: Algoritmer, som Aalborg Universitet har været med til at udvikle, kan bruges til at styrke det kinesiske overvågningssystem i Kina, frygter eksperter. Den kinesiske stat retfærdiggør overvågningen med, at det er terrorbekæmpelse.
+
+Som abonnent kan du ubegrænset dele artikler med dine venner og familie. Læs mere om fordelene ved et abonnement
+her
+.
+Få ting slipper ud af Xinjiang, men i 2018 fik Human Rights Watch fat i et andet læk. Der var tale om en udgave af den efterforskningsplatform, politiet benytter til at overvåge mistænkte i Xinjiang. Her fremgår det, at folk kan blive genstand for efterforskning, hvis de f.eks. »går oftere ud ad bagdøren end ad fordøren«, »har samlet penge ind til en moske« eller har »afslået at deltage i arrangementer afholdt af det lokale kommunistparti«.
+Der er i alt 36 mistænkelige karaktertræk, som kinesiske myndigheder skal overvåge og indberette på platformen, kaldet ’IJOP’, som er en app til smartphones. IJOP er ifølge Human Rights Watch en hjørnesten i verdens mest avancerede overvågningssystem, som Kina har opbygget i Xinjiang-provinsen. Programmet blev udviklet af et datterselskab til det statsejede kinesiske selskab CETC, som siden solgte selskabet fra.
+Nu viser det sig, at et andet af CETC’s datterselskaber, overvågningsfirmaet Hikvision, har forbindelser til Aalborg Universitet. Forskere fra Danmark har bidraget til at udvikle en avanceret algoritme, som kan bruges til masseovervågning.
+På Aalborg Universitet erkender forskerne, at deres arbejde både kan bruges og misbruges. Det skriver den ene af medforfatterne, Lu Chen, som er lektor på afdelingen for computervidenskab.
+Allerede abonnent? Log ind her

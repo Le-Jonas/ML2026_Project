@@ -1,0 +1,22 @@
+Title: Nu_er_der_enighed_om,_hvordan_dansk_corona-app_ska
+Date: 2020-05-15
+Article Type: Sundhed
+Author: Det bliver snart muligt for coronasmittede borgere anonymt at give besked videre til personer, de har været tæt på, hvis de får konstateret coronavirus.
+
+Et flertal af Folketingets partier er fredag blevet enige om, hvordan en kommende corona-app til netop smitteopsporing skal se ud.
+Det oplyser Sundheds- og Ældreministeriet.
+Appen bliver kaldt 'smitte|stop', og det er frivilligt, om man vil bruge den. Vælger en borger at downloade appen, bliver al data herom gemt på borgernes mobiltelefoner.
+Informationen slettes igen efter 14 dage.
+»Jo flere danskere, der downloader 'smitte|stop', jo mere kan appen hjælpe os alle til at bremse smittekæder«, siger sundhedsminister Magnus Heunicke (S) i en pressemeddelelse.
+»Derfor er det vigtigt, at der er bred politisk opbakning til den kommende app med nogle helt klare principper for formål, privacy og beskyttelse af danskernes data«, tilføjer han.
+Et af de store slagsmål forud for udviklingen af corona-appen har været, hvorvidt borgernes data gemmes centralt hos offentlige myndigheder, eller om borgeren skulle bevare fuld kontrol over egne data.
+Alt dette har været et spørgsmål om borgernes rettigheder til privatliv. Her er løsningen altså blevet, at de data, som appen benytter - såsom brugernes gps-data - bliver på telefonen og ikke sendes ind til en central database.
+Appen baseres på teknologi fra techgiganterne Google og Apple, som i disse uger indarbejdes i den danske app. Appen udvikles af it-virksomheden Netcompany, oplyser ministeriet.
+Selv om det ikke er den bærende del af appen, har brugere fortsat mulighed for at give myndighederne tilladelse til at tilgå data.
+I aftalen står der, at hvis en borger vælger at dele kontaktdata med myndighederne, skal det være tydeligt, hvilke data vedkommende konkret deler. Og informationer skal opbevares 'i kortest mulig tid'.
+Det er regeringen, Venstre, Radikale Venstre, SF, Enhedslisten, De Konservative og Liberal Alliance, som står bag aftalen.
+Enhedslisten var et af de partier, der tidligere har kritiseret regeringen for at ønske en mere central løsning. Fredag er partiets it-ordfører imidlertid glad for, hvordan aftalen er landet.
+»Vi er mange, der har været bekymrede for, at en corona-app kunne give overvågning og dataproblemer. Men nu er vi landet på den model, der sikrer brugernes privatliv allerbedst«, siger Eva Flyvholm.
+»Det er vigtigt og godt. Og der er selvfølgelig langt flere, der vil bruge appen, når den er tryg«.
+ritzau
+fortsæt med at læse

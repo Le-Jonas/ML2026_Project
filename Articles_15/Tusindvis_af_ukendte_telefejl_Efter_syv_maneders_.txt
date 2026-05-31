@@ -1,0 +1,24 @@
+Title: Tusindvis_af_ukendte_telefejl_Efter_syv_maneders_
+Date: 2019-10-12
+Article Type: Danmark
+Author: Politiet kan ikke afgøre, om der har været fejl i teledata i over 5.000 sager. Oprydningsarbejdet er vanskeligt, siger formand for kontrolgruppe.
+
+Jakob Sorgenfri Kjær
+Journalist
+Skandalen om politiets fejlagtige teleoplysninger gennem godt 8 år kan have betydet, at uskyldige er blevet dømt. Men i det enorme oprydningsarbejde, der skal afklare, om justitsmord har fundet sted i de berørte 11.000-12.000 sager, står politi og anklagemyndighed efter 7 måneders granskning med lidt af et problem: Kun i hver anden sag, i alt 5.551 straffesager, har det været muligt at genfinde de bearbejdede teledata, som politiet brugte i efterforskningen.
+Det kan udledes af en rapport om politiets teledata, som revisions- og konsulenthuset Deloitte har udarbejdet. Rigspolitiet bekræfter over for Politiken, at man kun har indsigt i omkring hver anden sag. Konsekvensen er, at man i over 5.000 sager som udgangspunkt ikke kan få vished for, om der var fejl i de teledata, der blev brugt i efterforskningen.
+»Øvelsen, der ikke startede med at være nem, er ikke blevet lettere undervejs. Men opgaven skal stadig løses, og det er vi i gang med«, siger landsdommer Olaf Tingleff. Han er formand for den uafhængige kontrolgruppe, der fører tilsyn og skal  fastsætte retningslinjer for oprydningsarbejdet på foranledning af justitsministeren.
+Rigspolitiet har gennem otte et halvt år bearbejdet og oversat de rå teledata, som indhentes hos teleselskaberne. Men denne såkaldte konvertering har affødt en lang række fejl og mangler i datamaterialet. Eksempelvis er data om opkald eller aktive telefoner ved et gerningssted forsvundet. Derudover har der været fejl i de rådata, som teleselskaberne har leveret.
+Ifølge Politikens oplysninger har politiet i perioden siden 2011 genfundet omkring 98 procent af alle de indhentede rådata fra teleselskaberne. Men de konverterede data, som politiet reelt har brugt i efterforskningen, er altså kun gemt i hvert andet tilfælde. For at vurdere om der var fejl, skal begge datasæt sammenlignes.
+Siden foråret har politifolk over hele landet derfor gennemrodet databaser, e-mails, usb-stik og arbejdscomputere for at finde teleoplysninger frem fra ældre straffesager. De har endda fået lovning fra Rigspolitiets hr-direktør på, at de ikke vil blive tjenstligt santioneret, hvis de finder materiale, som efter loven burde have været slettet, viser en aktindsigt, som Politiken har fået.
+I en mail understreger Rigspolitiet, at »arbejdet med at fremfinde oprindeligt konverteret data pågår fortsat«.
+For professor i forvaltningsret Michael Gøtze er sagen et eksempel på, hvordan juraen halter efter den teknologiske udvikling. Store systemfejl får vidtrækkende og uforudsigelige konsekvenser, som juraen slet ikke har taget højde for.
+»Det lyder som en overordentlig svær øvelse, at man nu står med en bunke på over 5.000 sager, hvor det ikke umiddelbart kan afklares, om der har været fejl. Man skal indtænke retssikkerheden i den videre proces, men er formentlig nødt til at lave en systematik og prioritere sager fra, da det ellers vil tage mange år at tygge sig igennem hver sag«, siger Michael Gøtze fra Københavns Universitet.
+Rigsadvokaten medgiver, at de manglende datasæt gør oprydningen sværere.
+»Det vil generelt være en fordel både at have konverterede data og rådata til rådighed, når gamle sager gennemgås. Så længe rådata er til stede, bør det dog som udgangspunkt være muligt at efterprøve, om teledata understøtter det resultat, man i sin tid er kommet frem til«, siger rigsadvokat Jan Reckendorff i en mail.
+Det store ansvar for at tilse retssikkerheden og udarbejde retningslinjer for oprydningen efter teleskandalen har den uafhængige kontrolgruppe fået. Formand Olaf Tingleff fortæller, at »der må fastsættes nogle kriterier og træffes nogle vanskelige konkrete beslutninger«.
+Jakob Sorgenfri Kjær
+fortsæt med at læse
+Rigspolitiet har overtrådt sine egne sletteregler
+Tidslinje: Forstå hele teleskandalens bizarre forløb
+Ministerium holdt på viden om teleaffære i tre måneder

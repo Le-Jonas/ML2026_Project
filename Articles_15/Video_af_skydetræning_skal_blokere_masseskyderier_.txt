@@ -1,0 +1,20 @@
+Title: Video_af_skydetræning_skal_blokere_masseskyderier_
+Date: 2019-09-17
+Article Type: Tech
+Author: Videoer af amerikanske og britiske betjente, der er på træningsøvelser, skal forhindre, at brugere på Facebook kan sende masseskyderier live på det social medie.
+
+Facebook har længe brugt kunstig intelligens til at opdage og fjerne voldelige billeder. Det gøres ved at tage tidligere eksempler og lære kunstig intelligens at genkende sådan materiale og fjerne det.
+Problemet med brugeres livesendinger af masseskyderier har ifølge Facebooks kommunikationschef i Norden Peter Münster været, at man ikke har så mange fortilfælde at fodre den kunstige intelligens med.
+Derfor har Facebook spurgt de amerikanske og britiske myndigheder, om man må bruge videoer fra politielevers såkaldte bodycams - altså et kamera på kroppen af dem - i træningssituationer.
+»Kunstig intelligens kan jo ikke rigtig noget, hvis ikke man har trænet til at lede efter nogle ting. En computer ved ikke, hvad der er på et billede, med mindre den har set det rigtig mange gange før«, siger han.
+I marts blev et masseskyderi i byen Christchurch i New Zealand sendt live på Facebook. Her dræbte gerningsmanden 51 mennesker i og omkring to moskéer, før han blev anholdt.
+Fra sin Facebook-profil transmitterede gerningsmanden masseskyderiet. Facebook oplyste efterfølgende til tech-mediet The Verge, at videoen blev set af 200 brugere, mens det stod på, og af 4000 brugere, inden den blev fjernet.
+Efter videoen blev fjernet, blev der gjort 1,5 millioner forsøg fra forskellige brugere på at lægge videoen op igen.
+Masseskyderiet afslørede et problem for Facebooks algoritmer, der automatisk fjerner voldeligt indhold: Algoritmerne kunne ikke genkende, hvad de så.
+»En af de udfordringer, som vi havde med Christchurch, var, at de data ikke eksisterer. Når en computer ikke har haft mulighed for at blive trænet på det her data, så kan den ikke genkende det«, siger Peter Münster.
+»Så når vi får muligheden for at få noget fra de her politiskoler, som har noget, der i hvert fald kommer tæt på, så er det uvurderligt for vores algoritmer, der skal holde vores platform fri for det her indhold«.
+ritzau
+fortsæt med at læse
+Livestream fra massakre dukkede op på YouTube »med en hastighed af én i sekundet«
+New Zealand trygler verden om at gribe ind mod Facebook
+Australien indfører en streng regulering af sociale medievirksomheder

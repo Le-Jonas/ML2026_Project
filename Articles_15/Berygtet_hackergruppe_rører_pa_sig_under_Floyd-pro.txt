@@ -1,0 +1,25 @@
+Title: Berygtet_hackergruppe_rører_pa_sig_under_Floyd-pro
+Date: 2020-06-02
+Article Type: Internationalt
+Author: Hackergruppen Anonymous gør mere og mere opmærksom på sig selv i forbindelse med George Floyd-protesterne i USA.
+
+Det skriver britiske BBC.
+Gruppen er over en årrække med jævne mellemrum blevet omtalt i nyhederne og er berømt, berygtet og udskældt for flere cyberangreb. Men den har det seneste stykke tid været omgærdet af relativ stilhed.
+I forbindelse med protesterne tilskrives flere cyberangreb nu gruppen - dog med en vis usikkerhed.
+Blandt andet har Minneapolis-politiets hjemmeside ifølge flere medier været nede i løbet af weekenden under et mistænkt såkaldt DDoS-angreb.
+Det står for Distributed Denial of Service og går ud på at overbelaste en server i så voldsom en grad, at den lukker ned.
+Det var netop i Minneapolis, at Floyd døde, efter at en politimand i byen knælede på hans hals i flere minutter under en anholdelse.
+Også en mindre FN-organisations hjemmeside har været omdannet til en mindeside for Floyd. FN-logoet blev udskiftet med hackergruppens. Det skriver BBC.
+Imens har flere Anonymous-relaterede konti på sociale medier ifølge The Independent vist deres støtte til demonstrationerne mod politivold og racisme, der har spredt sig til store dele af USA.
+Visse konti har også påstået at have hacket politiet i Minneapolis. Her skulle de blandt andet have fået adgang til mail-lister og være lykkedes med at afbryde radiokommunikation. Men flere eksperter har ifølge BBC afskrevet meldingerne som falske.
+Også den velkendte Guy Fawkes-maske, der ofte ses under demonstrationer og forbindes til gruppen, er dukket op under protesterne. Guy Fawkes blev i 1605 forhindret i at sprænge parlamentet i Storbritannien i luften.
+Anonymous styres ikke centralt, så alle kan i princippet erklære sig som en del af gruppen, skriver BBC. Af samme årsag har gruppen ikke blot én politisk dagsorden.
+Gruppen går tilbage til 2003, hvor den begyndte at samles på netforummet 4chan.
+Den har blandt andet hacket Sony med begrundelsen, at selskabet tog penge for tjenester, som oprindeligt blev annonceret som gratis, skriver CBS News.
+Blandt dens andre berømte hacking-ofre er Scientology og betalingssider, der nægtede at overføre donationer til WikiLeaks, efter at hjemmesiden havde offentliggjort tusinder af fortrolige dokumenter.
+ritzau
+fortsæt med at læse
+Avis: Kinesiske hackere har stjålet amerikanske krigsplaner
+Medie: Rusland står bag hackerangreb mod Tysklands Forsvar
+Guide:
+Her er værktøjerne, der sikrer dit privatliv på nettet

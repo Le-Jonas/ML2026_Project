@@ -1,0 +1,28 @@
+Title: Ministerium_erkender_fejl_App_har_i_flere_tilfæld
+Date: 2020-09-24
+Article Type: Danmark
+Author: Appen ’Smittestop’ har i visse tilfælde ikke sendt notifikation til folk, der har været tæt på en smittet.
+
+Malene Jensen
+Journalist
+Det burde være simpelt. Hvis du er smittet med corona, skal du skrive det ind i en app på din mobil, og så vil alle, der har været tæt på dig, modtage en besked på deres telefon om, at de måske er også er smittet.
+Desværre har den danske smittesporingsapp, ’Smittestop’, ikke altid kunnet leve op til sit formål. I nogle tilfælde har appen nemlig ikke sendt en besked ud til folk, selv om de har været tæt på en corona-smittet person.
+Det bekræfter Sundheds- og Ældreministeriet i en mail til Politiken:
+»Sundheds- og Ældreministeriet oplyser, at den danske smittesporingsapp, Smittestop, i nogle tilfælde, hvor mobiler er sammen i længere tid, ikke har givet en notifikation til nære kontakter, selv om de har været tæt på en person smittet med coronavirus«.
+Ministeriet fortæller, at en test af appen viser, at der kun kommer smittenotifikationer for kortvarige, almindeligvis ukendte kontakter.
+»Men hvor mobiler er sammen i længere tid, som det typisk er med husstandskontakter, virker appen ikke efter hensigten. Appen er baseret på en helt ny teknologi fra Google og Apple og det er ikke muligt for ministeriet at følge, hvordan appen virker i daglig brug«, skriver ministeriet og tilføjer, at de arbejder på at få fikset den tekniske fejl hurtigst muligt.
+Lene Ærbo, teknisk projektleder på appen for Sundheds- og Ældreministeriet, fortæller til DR, at man den seneste uge har testet appen for at genskabe den situation, der forårsager fejlen. Det ser ud til, at man har fundet årsagen, lyder meldingen fra Lene Ærbo.
+Det vides ikke, om fejlen har været i appen siden lanceringen.
+I forbindelse med arbejdet på at rette appens fejl, var der desuden et nedbrud i systemet, skriver Sundheds- og Ældreministeriet på Twitter:
+»Det har betydet, at man siden i går fra ca. kl. 12 til ca. kl. 15 i dag ikke har kunne melde sig smittet i appen. Fejlen er nu rettet«, lyder meldingen fra ministeriet.
+Politiken skrev i onsdags, at den tidligere børne- og ungeborgmester i København Pia Allerslev havde indberettet i ’Smittestop’, at hun var coronasmittet. Alligevel fik hendes familie og nære omgangskreds ikke besked om, at hun var smittet.
+Sundheds- og Ældreministeriet sagde i den forbindelse, at sundhed.dk har modtaget en række henvendelser fra borgere, der har meldt sig smittet i appen, som undrer sig over, at deres nære kontakter ikke fik besked i appen.
+Appen ’Smittestop’ blev lanceret i juni. Appen blev populær, fordi den gjorde det muligt for den coronasmittede person at sende besked ud til folk, som man har været tæt på men ikke nødvendigvis kender, og appen kunne derfor hjælpe med at inddæmme spredningen af virusset.
+Ifølge de seneste tal er ’Smittestop’ blevet downloadet 1.393.967 gange, og 2.266 brugere har hidtil meldt sig smittet med coronavirus i appen.
+Borgere, der oplever problemer med appen, opfordres af Sundheds- og Ældreministeriet til at tage kontakt til sundhed.dk’s supportside eller ringe til 44 22 20 80.
+Malene Jensen
+fortsæt med at læse
+Flere end 800.000 har hentet app til corona-sporing:
+Men langtfra alle smittede melder det i Smittestop
+»Det er dybt beklageligt«:
+Datatilsynet erkender lemfældig omgang med personfølsomme oplysninger

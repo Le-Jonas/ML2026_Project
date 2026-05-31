@@ -1,0 +1,20 @@
+Title: Boeing-styrt_i_Etiopien_skyldtes_darlig_pilottræni
+Date: 2020-03-09
+Article Type: Internationalt
+Author: En foreløbig rapport viser, at utilstrækkelig pilottræning og fejl i afgørende software var skyld i, at et Boeing 737 MAX-fly sidste år styrtede ned i Etiopien.
+
+Det er Etiopiens lufthavarikommission AIB, der har udgivet rapporten, skriver nyhedsbureauet dpa.
+Rapporten udkommer dagen før årsdagen for ulykken i Etiopiens hovedstad, Addis Ababa.
+Ulykken den 10. marts 2019 kostede 157 mennesker livet og skete i kølvandet på et 737 MAX-flys styrt i Indonesien i oktober 2018. Her omkom 189 personer.
+Ved begge ulykker skete der ukontrollerede dyk i flyets spids. Skylden skyder havarikommissionen på antistalling-systemet MCAS, der blev aktiveret, kort før flyet ramte jorden.
+Ifølge rapporten gjorde antistalling-systemet MCAS' design det 'følsomt overfor uønsket aktivering'.
+Stalling opstår, når et fly mister opdrift på grund af for ringe fart. Det får flyets snude til at slå opad. Det skal øjeblikkeligt forhindres, for at flyet ikke skal styrte.
+Unøjagtige sensorer skal have aktiveret MCAS-systemet, som fik flyets næse til at pege nedad, mens piloterne kæmpede med at rette det op, står der i rapporten ifølge nyhedsbureauet Reuters.
+Før flyet ramte jorden pegede det 40 grader mod jorden med en fart på mere end 150 meter i sekundet.
+Tidligere har amerikanske flyeksperter også haft fokus på MCAS-systemet i flere undersøgelser.
+Siden ulykken i Etiopien sidste år har Boeings 737 MAX-fly haft forbud mod at gå i luften.
+Boeing har siden arbejdet på at få løst problemet, og virksomheden regner med at få 737 MAX-flyene i luften igen fra midten af 2020.
+Sagen kostede i december Dennis Muilenburg jobbet som øverste direktør i Boeing, og sidste år tabte den amerikanske flyproducent 636 millioner dollar, hvilket svarer til omkring 4,3 milliarder kroner.
+ritzau
+fortsæt med at læse
+Boeing opdager ny fejl i softwaren til ulykkesramt flytype

@@ -1,0 +1,23 @@
+Title: Twitter_vil_markere_vildledende_opslag_om_covid-va
+Date: 2021-03-02
+Article Type: Tech
+Author: Med nyt strafsystem og nye retningslinjer vil Twitter slå ned på vaccinemisinformation.
+
+Twitter er begyndt at markere opslag, der i selskabets øjne kan karakteriseres som misinformation om covid-vacciner.
+Det skriver Twitter mandag lokal tid i et blogopslag.
+Opslag på det sociale medie, der er under mistanke for at indeholde misinformation, vil få påsat et mærkat, hvor der står:
+»Dette tweet kan være vildledende. Find ud af, hvorfor sundhedsmyndigheder anser covid-19-vacciner for at være sikre for de fleste mennesker«.
+Samtidig indføres et pointsystem, hvor brugere udelukkes, hvis de har for mange overtrædelser. Det skriver nyhedsbureauet dpa.
+Twitter kan for eksempel vurdere, at et tweet indeholder misinformation i en grad, så ens Twitter-opslag helt bliver slettet. Det giver to strafpoint.
+Bliver ens opslag påsat et mærkat, giver det et strafpoint.
+To eller tre strafpoint kan medføre, at ens konto bliver låst i 12 timer, fire kan føre til en uges udelukkelse, og fem kan medføre en permanent udelukkelse.
+I begyndelsen vil opslag blive gennemgået manuelt af mennesker.
+Senere er planen, at opslag vil blive vurderet både ’automatisk’ og af mennesker.
+Brugere, som mener, at de uretmæssigt er blevet udelukket, vil få mulighed for at appellere.
+»Vi mener, at systemet med overtrædelser vil være med til at oplyse offentligheden om vores politikker og yderligere reducere spredningen af potentielt skadelig og vildledende information på Twitter«, skriver selskabet.
+»Især for gentagne moderate og alvorlige overtrædelser af vores regler«.
+Allerede sidste år begyndte Twitter at slå ned på vildledende opslag om coronavirus mere generelt.
+Siden da har Twitter ifølge nyhedsbureauet AFP fjernet mere end 8400 opslag og informeret 11,5 millioner brugere om mulige overtrædelser.
+Flere danske journalister, der har oplevet selv at blive udelukket fra sociale medier, har været kritiske over for sociale mediers håndhævelse af retningslinjer mod misinformation.
+Blandt andre oplevede journalisten Anders Kjærulff, der ofte behandler privatliv og ny teknologi kritisk, at blive smidt af Twitter i en måned - ifølge eget udsagn sandsynligvis blot fordi han nævnte den konspiratoriske og højreorienterede QAnon-bevægelse i et opslag.
+ritzau

@@ -1,0 +1,20 @@
+Title: Over_17.000_lyntest_kan_ikke_analyseres_for_corona
+Date: 2021-01-07
+Article Type: Sundhed
+Author: Lyntest kan ikke afsløre forskellige varianter af virus. Det er et problem for overvågningen, siger SSI.
+
+Ifølge sundhedsminister Magnus Heunicke (S) kan den særligt smitsomme britiske coronamutation B117 blive den dominerende coronavariant i Danmark, men de mange lyntest kan give problemer med at overvåge dens spredning.
+En lyntest kan opfange, om man er smittet med coronavirusset, men man kan ikke ud fra prøven efterfølgende konkludere, om der eksempelvis er tale om B117.
+Det kan man til gengæld med en pcr-test, der foregår ved en podning i halsen.
+Antallet af daglige lyntest har svinget meget. Onsdag blev der foretaget 17.850 lyntest, mens der den 30. december blev testet over 90.000.
+I alt er 17.008 testet positive for corona i en lyntest, siden private udbydere begyndte at teste på vegne af det offentlige i december. Det er uvist, hvor mange af disse der også har fået foretaget en pcr-test.
+Susan Cowan, sektionsleder hos Statens Serum Institut (SSI), påpeger, at man uanset hvad skal gå i isolation ved en positiv coronatest. Derfor er det ikke et stort problem for den enkelte borger, at man ikke kan afklare den variant, man er smittet med.
+Men det er vigtigt for myndighederne og samfundet som helhed at kunne følge med i, hvordan forskellige varianter, inklusive den britiske, spreder sig.
+»Man skal isolere sig, uanset om man har den ene eller anden variant. Men fordi vi er meget interesserede i at følge udviklingen, er det meget interessant for overvågningen at vide (hvilken variant, personer er smittet med, red.)«, siger hun.
+En lyntest foregår igennem næsen. Man får svar efter 15-30 minutter. Men med materialet fra en lyntest kan man ikke lave en såkaldt sekventering, der kan afklare virusvarianten.
+»Hvis man skal det, bliver man nødt til at få taget en pcr-test«, siger Susan Cowan.
+Hun vil ikke opfordre til at ændre noget ude hos de private firmaer, der udbyder lyntest. Det ligger ikke hos SSI at bestemme, siger hun.
+Men Susan Cowan forklarer, at det ville være gavnligt for overvågningen af virusmutationerne, hvis man alle steder havde kapacitet til både at lave en lyntest og en pcr-test.
+»De sælger et produkt, der hedder en antigentest, og de gør det for at aflaste det offentlige, der i nogle tilfælde har haft svært ved at følge med«.
+»Men eftersom man ikke kan bruge den antigentest til at kigge efter en variant, kunne man forestille sig, at man fik lavet både en antigentest og en pcr-test i samme omgang. Men det er slet ikke noget, der er på tegnebrættet hos nogle af de firmaer, der udbyder testene«, siger hun
+ritzau
