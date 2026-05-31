@@ -1,0 +1,11 @@
+Title: MitID_var_ramt_af_kort_nedbrud
+Date: 2025-04-30
+Article Type: Danmark
+Author: Tjenesten MitID var ramt et kort nedbrud onsdag aften. Det fremgik af hjemmeside.
+
+Artiklen er opdateret kl. 21.28
+MitID var onsdag aften ramt af et nedbrud, som igen er løst.
+Det fremgik omkring klokken 21.15 af hjemmesiden digitaliser.dk, hvor man kan se driftsstatussen på forskellige offentlige it-løsninger.
+Kort efter virker tjenesten dog igen ifølge digitaliser.dk.
+Brugere kan blive mødt af en skærm, hvor de skal logge ind på MitID, hvis de eksempelvis skal logge ind hos det offentlige eller handle ind på nettet.
+ritzau

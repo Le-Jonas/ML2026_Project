@@ -1,0 +1,18 @@
+Title: OpenAI_vil_have_ny_browser
+Date: 2025-10-21
+Article Type: Tech
+Author: ChatGPT’s Atlas er en ny browser drevet af kunstig intelligens og bygget op om OpenAI’s chatbot ChatGPT.
+
+Techfirmaet OpenAI, der står bag ChatGPT, har tirsdag løftet sløret for en ny webbrowser, der er bygget på kunstig intelligens.
+Det oplyser virksomheden tirsdag ifølge flere nyhedsbureauer, herunder Reuters.
+Browseren, der går under navnet Atlas, er foreløbigt tilgængelig for brugere af Apples Mac-computere og vil senere blive udrullet til Microsofts styresystem Windows, Apple-telefoner og Googles Android.
+Google er også i fuld gang med at integrere kunstig intelligens i den populære browser Chrome med AI-modellen Gemini.
+Google Chrome har ifølge Reuters mere end tre milliarder brugere globalt.
+Den nye browser Atlas giver brugerne mulighed for at åbne en ChatGPT-sidebjælke i søgevinduet.
+Her kan brugeren blandt andet få opsummeret indholdet på en given hjemmeside, sammenligne produkter eller analysere data fra en vilkårlig hjemmeside.
+Derudover har Atlas også en såkaldt agent-tilstand. Det vil sige, at ChatGPT på vegne af brugeren kan interagere med hjemmesider og udføre opgaver.
+OpenAI’s topchef, Sam Altman, forklarede tirsdag ved en live videopræsentation, at den såkaldte agent bruger browseren selvstændigt.
+Herefter vender den tilbage til brugeren med de oplysninger, den finder.
+»Den har adgang til dine ting og klikker rundt, lød det fra Altman, der tilføjede:
+»Du kan følge med, hvis du vil, men det behøver du ikke. Den bruger internettet for dig.
+ritzau

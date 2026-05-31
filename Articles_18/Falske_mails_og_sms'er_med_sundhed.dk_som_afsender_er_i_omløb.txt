@@ -1,0 +1,21 @@
+Title: Falske_mails_og_sms'er_med_sundhed.dk_som_afsender_er_i_omløb
+Date: 2025-12-16
+Article Type: Danmark
+Author: Sundhed.dk vil aldrig bede om adgang til kortoplysninger, så beskeder med krav om betaling er svindel.
+
+Der er i øjeblikket sms’er og mails, som ser ud til at have sundhed.dk som afsender, i omløb. Men de er falske.
+Det skriver faktatjekmediet TjekDet, ligesom sundhed.dk også selv advarer mod svindlen.
+Beskederne kommer fra et dansk telefonnummer eller en mail, der ser ud til at tilhøre sundhed.dk.
+De falske beskeder handler typisk om, at ens sundhedskort skal opdateres, eller at man skal bestille et nyt. Herfra ledes man til en betalingsside, hvor man bliver bedt om at betale et beløb.
+Men der er tale om svindelformen phishing, hvor svindlere forsøger at få fingrene i person- og kortoplysninger, som enten kan bruges til mere svindel eller til videresalg.
+Sundhed.dk slår fast, at man aldrig beder om adgang til kortoplysninger, og at der aldrig er penge mellem borgere og sundhed.dk.
+»Vi anbefaler dig at slette denne type henvendelser med det samme«, lyder det.
+Det kan være meget svært at se, at der er noget galt, når man besøger de hjemmesider, som svindlerne linker til i deres beskeder.
+TjekDet har set på to eksempler på falske hjemmesider, der ligner sundhed.dk.
+Den ene er en tro kopi af sundhed.dk, mens den anden imiterer sundhed.dk med brug af samme farver og layout som den ægte hjemmeside.
+TjekDet beskriver, at man i første omgang bliver bedt om at indtaste både person- og kontaktoplysninger.
+Derefter skal man vælge, hvem man vil have leveret sit nye sundhedskort af. Det koster typisk et beløb, og dermed lokkes man til også at indtaste sine kortoplysninger.
+TjekDet anbefaler at se grundigt på hjemmesidens domænenavn eller URL’en - altså den webadresse, man indtaster i en browser for at besøge en hjemmeside.
+Her er stavefejl en indikator på svindel. Det samme kan endelsen på domænet være - for eksempel .com eller .info i stedet for .dk.
+Er skaden sket, og man har oplyst sine person- og kortoplysninger, bør man straks kontakte sin bank.
+ritzau

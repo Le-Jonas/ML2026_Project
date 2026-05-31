@@ -1,0 +1,22 @@
+Title: Kunstig_intelligens_kan_redde_liv_ved_at_forudsige_blodsukkerniveauer
+Date: 2025-09-11
+Article Type: Sundhed
+Author: Nyt forskningsprojekt viser, at AI potentielt kan redde tusindvis af patienter på landets intensivafdelinger.
+
+Kunstig intelligens er allerede en del af det danske sundhedsvæsen.
+Nu viser et nyt forskningsprojekt, at AI kan bidrage til at redde tusindvis af liv på landets intensivafdelinger.
+Det skriver Aalborg Universitet i en pressemeddelelse på baggrund af forskningsprojektet.
+»Intensivpatienter overvåges konstant med forskelligt udstyr, blandt andet for blodtryk og puls. Samtidig observerer læger og sygeplejersker dem nøje«.
+»Med AI bruges den data til at forudsige, hvad der vil ske med patienterne om en time, om fem timer og så videre«, siger lektor ved AAU Arijit Khan.
+Verdenssundhedsorganisationen WHO anslår, at over 800 millioner mennesker på verdensplan har diabetes.
+Særligt højt eller lavt blodsukker under indlæggelse øger risikoen for forværring og dødsfald, lyder det i pressemeddelelsen.
+AI-systemet er afprøvet med data fra over 200.000 intensivforløb på 208 hospitaler i USA.
+Værktøjet kan analysere patientdata i realtid ud fra information fra blodtryksmålinger, laboratorieresultater samt observationer og noter fra læger og sygeplejersker.
+Det gør det ifølge projektet muligt at gribe ind hurtigere.
+»Vores AI-model kan forbedre forudsigelsen af blodsukkerniveauer hos patienter på intensivafdelinger med fem til syv procent sammenlignet med de hidtil bedste forudsigelser«, siger lektor ved AAU Arijit Khan.
+Ifølge Mohammad Hadi Mehdizavareh, der er ph.d.-studerende samt en del af projektet, kan værktøjet desuden tilpasses andre medicinske udfordringer, og det kan skræddersys de forskellige afdelinger.
+AI bruges allerede i det danske sundhedsvæsen.
+Det anvendes blandt andet til at forudsige komplikationer i sygdomsforløb med tyk- og endetarmskræft, og det bruges desuden til at vurdere skanningsbilleder.
+Forskerne bag projektet fra AAU vil nu også undersøge, om deres værktøj kan bruges til at forudsige indlæggelsestiden samt risikoen for blodpropper, lyder det.
+Projektet strækker sig over fem år, og det er finansieret af en bevilling på ti millioner kroner fra Novo Nordisk Fonden.
+ritzau

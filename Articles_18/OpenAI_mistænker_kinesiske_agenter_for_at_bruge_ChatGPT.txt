@@ -1,0 +1,13 @@
+Title: OpenAI_mistænker_kinesiske_agenter_for_at_bruge_ChatGPT
+Date: 2025-10-07
+Article Type: Tech
+Author: OpenAI mistænker, at regeringsagenter prøver at bruge ChatGPT til udvikling af overvågningsværktøjer.
+
+Firmaet OpenAI mistænker, at folk med tilknytning til kinesiske regeringsinstanser har brugt ChatGPT som hjælp til masseovervågning.
+Det skriver CNN baseret på en rapport fra firmaet, som blev offentliggjort tirsdag.
+Her beskriver OpenAI, hvordan nogle af de konti, som firmaet har fundet og efterfølgende har lukket, så ud til at forsøge at bruge ChatGPT til at udvikle overvågningsværktøjer.
+I et af tilfældene bad en ChatGPT-bruger om hjælp til at udforme promoveringsmateriale og projektplaner for et social media-lytteværktøj, angiveligt til det, som OpenAI formoder, er en bruger fra Kinas regering.
+Værktøjet kunne angiveligt scanne sociale medier for det, brugeren beskrev som ’ekstremistisk tale’.
+OpenAI understreger i rapporten, at brugeren ikke brugte selve ChatGPT til overvågningen, og at det heller ikke kan bekræftes, om et sådant værktøj er blevet brugt af en kinesisk regeringsinstans.
+ritzau
+fortsæt med at læse

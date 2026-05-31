@@ -1,0 +1,20 @@
+Title: Kontakt_til_den_danske_satellit_Bifrost_lykkes_i_første_forsøg
+Date: 2025-06-24
+Article Type: Viden
+Author: Virksomheden bag den danske satellit Bifrost har opnået kontakt til satellitten efter opsendelse mandag aften.
+
+Der er opnået kontakt til den danske satellit Bifrost, der natten til tirsdag er blevet sat i kredsløb om Jorden, oplyser Dennis Bo Hansen, der er konsortiechef for Bifrost ved Space Inventor, til Ritzau. Kontakten blev opnået klokken 02.09 dansk tid.
+»Vi fik radiokontakt til den allerede under den første overflyvning af vores antennestation«, lyder det fra konsortiechefen.
+Satellitten Bifrost blev mandag aften sendt ud i rummet på ryggen af en SpaceX-raket. Efterfølgende er den blevet skubbet fri fra raketten og er nu i kredsløb.
+»Vi er blevet sat af i en bane, der er lidt højere end forventet, men det er ikke noget, der er et problem«, fortæller Dennis Bo Hansen.
+Bifrost skal overvåge de danske arktiske farvande omkring Grønland ved hjælp af sensorer og kunstig intelligens, som kan se radarsignaler fra skibe, der sejler i området. Det er første gang, at en dansk satellit med avanceret realtidsanalyse sendes i kredsløb med fokus på overvågning af Grønland og Arktis.
+Bag Bifrost står oprindeligt virksomheden Space Inventor, som gik i gang med projektet for syv år siden. Siden har Terma, Gatehouse SatCom, Danmarks Tekniske Universitet (DTU) og svenske Unibap Space Solutions tilsluttet sig.
+Under satellittens første overflyvning over konsortiet bag Bifrosts antennestation blev det konstateret, at de elektriske systemer virker, og at batterierne bliver ladet op, fortæller Dennis Bo Larsen.
+»Vi begynder nu på en fase, hvor vi skal tjekke, at hver af delsystemerne virker som de skal. Det kommer der til at gå nogle dage med«, siger han.
+Testene af satellitten vil blive foretaget, hver gang der etableres radiokontakt med Bifrost. En operatør vil blandt andet kigge på parametre som strømme, spændinger og temperaturer for at sikre sig, at alt fortsat arter sig som forventet.
+»Den største forhindring er overstået. Fra nu af er det bare det lange seje træk«, siger Dennis Bo Knudsen.
+Bifrost skal være med til at sikre, at der ikke sejler skibe igennem Arktis, som ikke har lov til at være der, fortalte stifter af og administrerende direktør i Space Inventor, Karl Kaas, i et interview med Ritzau få dage før opsendelsen.
+»Den kan overvåge alle skibe. Der er også kamera på, men når vi taler Arktis, er det nat halvdelen af tiden og skyet 90 procent af tiden. Så kameraet kan kun se ting, når man er rigtig heldig, så den primære opgave er at se på radar«.
+Satellitten vejer cirka 50 kilo og har et vingefang på fem meter. Den er en forløber for, hvad Karl Kaas håber kan blive en større operationel flåde af satellitter. Bifrost kan nemlig kun overvåge Arktis i 10 minutter ad gangen, før den flyver videre med omkring 30.000 kilometer i timen.
+Vurderingen er, at der skal omkring 20 satellitter til, hvis man vil have 24 timers realtidsovervågning af området, fortalte Karl Kaas.
+ritzau

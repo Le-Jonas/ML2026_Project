@@ -1,0 +1,20 @@
+Title: Kommune_lækker_bopæl_for_115_børn_med_adressebeskyttelse
+Date: 2025-05-16
+Article Type: Danmark
+Author: Holbæk kommune beklager fejlen og siger, at der er tale om »en menneskelig fejl, der ikke må ske«.
+
+Holbæk Kommune har ved en fejl oplyst adresserne på 115 børn, hvis adresser er registreret som beskyttede.
+Det skriver Ekstra Bladet baseret på en pressemeddelelse fra Holbæk kommune.
+Holbæk Kommune anerkender, at der er tale om et brud på databeskyttelsesordningen, også kaldet GDPR-reglerne, som kommunen beklager i pressemeddelelsen.
+Fejlen opstod, da kommunen skulle sende breve via Digital Post ud til forældre om sommerferieaktiviteter til børn i alderen 6-18 år. I brevet fremgår barnets adresse, også selv om om den ene eller begge forældre ikke må kende den.
+»Det er en menneskelig fejl, der ikke må ske. Vi beklager dybt, at nogle borgere er blevet udsat for dette brud på datasikkerheden«.
+Det skriver Kasper Enevoldsen, chef for Kultur, Fritid og Ejendomme i Holbæk Kommune, i pressemeddelelsen.
+Hændelsen har ledt til, at Holbæk Kommune nu opdaterer sine retningslinjer.
+»Vi tager hændelsen meget alvorligt og gennemgår nu vores procedurer og arbejdsgange for at sikre, at det ikke sker igen«, skriver Kasper Enevoldsen i pressemeddelelsen.
+De berørte borgere er blevet gjort opmærksomme på datalækket, oplyser Holbæk Kommune.
+Der er ingen andre end barnets forældre, der har fået oplyst barnets adresse.
+»Derfor har vi taget direkte kontakt til de borgere, hvor delingen af adressen kan være problematisk, og vi tager hånd om situationen sammen med dem«, skriver Kasper Enevoldsen i pressemeddelelsen.
+Kommunens medarbejdere blev gjort opmærksomme på fejlen, kort tid efter at breve blev sendt ud til forældrene, og standsede udsendingen af de resterende breve.
+Databruddet er blevet anmeldt til Datatilsynet, skriver Holbæk Kommune i pressemeddelelsen.
+ritzau
+fortsæt med at læse

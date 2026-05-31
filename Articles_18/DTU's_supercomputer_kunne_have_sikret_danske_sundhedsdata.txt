@@ -1,0 +1,11 @@
+Title: DTU's_supercomputer_kunne_have_sikret_danske_sundhedsdata
+Date: 2025-09-15
+Article Type: Tech
+Author: Region Hovedstaden erkender, at det var en fejl at lægge tre millioner danskeres sundhedsdata hos Microsoft uden at undersøge, om data er godt nok beskyttet. Det sikre danske alternativ blev ikke spurgt.
+
+Jens Bostrup
+Journalist
+Datatilsynet har af egen drift indledt en undersøgelse af Region Hovedstaden, der har tilladt en forsker at bruge oplysninger fra flere millioner danskeres sygehusjournaler, herunder over 300.000 psykiatriske journaler.
+DR afslørede
+i sidste uge, at det er sket uden at lave den lovpligtige analyse af, om data er godt nok beskyttet i Microsofts cloud, Azure. Region Hovedstadens direktør, Erik Jylling, har erkendt over for DR, at det var en fejl.
+Der findes endda et fuldstændig sikkert dansk alternativ, som helt er blevet forbigået. Det er udviklet af DTU, og huser i forvejen et hav af følsomme danske data, blandt andet sundhedsdata fra Region Hovedstaden.

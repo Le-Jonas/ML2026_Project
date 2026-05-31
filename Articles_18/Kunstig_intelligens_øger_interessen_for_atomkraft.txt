@@ -1,0 +1,10 @@
+Title: Kunstig_intelligens_øger_interessen_for_atomkraft
+Date: 2024-10-18
+Article Type: Internationalt
+Author: Store techvirksomheder investerer milliarder i atomenergi som en CO2-neutral kilde til elektricitet til kunstig intelligens og andre formål.
+
+Ivan Penn og Karen Weise, The New York Times
+Verdens store techvirksomheder interesserer sig i stigende grad for atomkraftværker til at levere den CO
+2
+-neutrale elektricitet, som blandt andet skal bruges til at drive kunstig intelligens (AI).
+Microsoft, Google og Amazon har i den senere tid indgået aftaler med virksomheder, der driver og bygger atomkraftværker. Det sker for at levere el til de datacentre, der forsyner små og store virksomheder. Efterspørgslen er accelereret på grund af disses og andre techvirksomheders store investeringer i AI, der er langt mere energikrævende end mere konventionelle teknologier som sociale medier, videostreaming og internetsøgninger.

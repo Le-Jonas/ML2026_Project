@@ -1,0 +1,9 @@
+Title: »Det_er_direkte_utilstedeligt«_Handtering_af_datalæk_i_kritiseret_lægehus_revses_af_ekspert
+Date: 2025-01-03
+Article Type: Danmark
+Author: Ekspert i it-sikkerhed forstår ikke, hvorfor det har taget mere end tre uger for Alles Lægehus at få et overblik over omfanget af et hackerangreb, når de ifølge dem selv har styr på it-sikkerheden.
+
+Anders Brøndsholm
+Journalist
+Mens mange nok havde tankerne på champagne, nytårstale og kransekage, kunne de mere end 130.000 patienter hos Alles Lægehus 30. december læse en noget foruroligende besked på deres læges hjemmeside.
+Her fremgik det, at det landsdækkende lægehus med 39 klinikker landet over havde haft et it-nedbrud 9. december, som »midlertidigt påvirkede driften«, men hvor der også var blevet stjålet persondata fra patienter.

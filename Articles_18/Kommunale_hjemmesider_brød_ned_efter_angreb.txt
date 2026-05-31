@@ -1,0 +1,28 @@
+Title: Kommunale_hjemmesider_brød_ned_efter_angreb
+Date: 2024-12-09
+Article Type: Danmark
+Author: Vejle Kommunes hjemmeside var nede efter overbelastningsangreb mandag. Andre kommuner oplevede også nedbrud.
+
+Flere borgere kunne mandag formiddag ikke tilgå deres kommuners hjemmesider, da de var brudt ned.
+Det skrev Avisen Danmark, der havde tjekket en række kommunale hjemmesider.
+Ved middagstid mandag virker alle de tidligere ramte hjemmesider tilsyneladende igen.
+Nedbruddet ramte blandt andet hjemmesider for Aarhus, Vejle, Esbjerg, Dragør, Frederiksberg, Aabenraa, Haderslev, Frederikshavn, Morsø og Horsens.
+Vejle Kommune skrev mandag tidlig formiddag på Facebook, at nedbruddet skyldtes et cyberangreb.
+»Nedbruddet skyldes et dDoS-angreb«, skrev kommunen.
+Et dDoS-angreb er en forkortelse for ’distributed Denial of Service’ og kaldes også et overbelastningsangreb, hvor hjemmesider udsættes for så meget trafik, at de ikke kan klare det og bliver utilgængelige.
+Aarhus Kommune oplyste også til TV2 Østjylland, at der var tale om et cyberangreb.
+Flere kommuner bekræfter, at der var tale om et såkaldt overbelastningsangreb. Og meget peger på, at det er prorussiske cyberaktivister, der stod bag.
+Det siger Mark Fiedel, der er chef for Center for Cybersikkerhed (CFCS).
+»Når vi taler om nogle af de overbelastningsangreb, der med jævne mellemrum rammer Danmark, så er det oftest prorussiske cyberaktivister«, siger han.
+Center for Cybersikkerhed (CFCS) oplyste dog, at det var opmærksomt på, at en række danske hjemmesider mandag havde været udsat for angreb, og at man havde haft mulighed for at varsle inden angrebene.
+»CFCS har tidligere i dag varslet flere af de danske mål, som var blevet udpeget«, lød det i en meddelelse.
+Der er ikke yderligere informationer om, hvorledes CFCS har kunnet varsle inden angrebene.
+Vejle Kommune skrev, at nedbruddet ikke havde betydning for indhold eller sikkerhed på kommunens hjemmeside.
+I juni hævede Center for Cybersikkerhed (CFCS) trusselsniveauet for destruktive cyberangreb mod virksomheder, organisationer og myndigheder fra lav til middel.
+Truslen om destruktive cyberangreb vurderes ikke at være rettet direkte mod borgere, men der kan ske udfald på kritisk infrastruktur. Det tæller områder som energiforsyning og kommunikation, lød det fra forsvarsminister Troels Lund Poulsen (V) i juni.
+Ritzau
+fortsæt med at læse
+Finsk politi afviser:
+Vi efterforsker ikke kabelbrud som en forbrydelse lige nu
+Årsagen til togkaos er nu fundet
+Ekspert efterlyser national plan for, hvordan vi håndterer det, hvis folk ikke kan ringe 112

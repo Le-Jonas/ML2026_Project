@@ -1,0 +1,24 @@
+Title: Novo_vil_bruge_dansk_supercomputer_til_at_udvikle_ny_medicin
+Date: 2025-06-11
+Article Type: Sundhed
+Author: Novo Nordisk vil med supercomputer kunne udføre eksperimenter i hidtil uset skala, siger innovationschef.
+
+Den danske medicinalgigant Novo Nordisk har i forvejen udpeget kunstig intelligens som en vigtig ingrediens i nutidens og fremtidens udvikling af nye lægemidler.
+Nu har selskabet indgået et samarbejde med Danish Centre for AI Innovation (DCAI), der giver det adgang til den danske supercomputer Gefion.
+Det skriver DCAI i en pressemeddelelse onsdag.
+Novo Nordisk vil bruge supercomputeren til research og udvikling af nye lægemidler på selskabets kerneområder diabetes og fedme.
+»AI-modeller kan nu bruges til at løse kritiske videnskabelige problemer«, siger Lars Fogh Iversen, der er innovationschef hos Novo Nordisk, i meddelelsen.
+»Vi lærer stadig, men mulighederne er enorme«.
+Fællesnævneren i aftalen er Novo Nordisk Fonden, der har et ejerskab på begge sider.
+Fonden ejer 85 procent af DCAI og sidder via sit investeringsselskab også på lidt over en fjerdedel af aktierne i Novo Nordisk.
+Gefion er en af de mest kraftfulde supercomputere i verden. I slutningen af sidste år rangerede den som nummer 21 på den globale top 500-liste.
+Supercomputeren har kostet 700 millioner kroner, hvoraf 600 millioner er betalt af Novo Nordisk Fonden, og Danmarks Eksport- og Investeringsfond har bidraget med 100 millioner kroner.
+Gefion er netop sat i verden for at udvikle nye lægemidler, diagnosticere sygdomme og finde effektive løsninger i den grønne omstilling.
+Lundbeck – et andet dansk medicinalselskab – er også kunde hos DCAI.
+Novo Nordisk ønsker ikke at sige noget om, hvor længe samarbejdsaftalen med DCAI skal løbe, eller hvad det kommer til at koste.
+I en skriftlig kommentar uddyber Lars Fogh Iversen, at kunstig intelligens stadig spiller en større rolle i udviklingen af ny medicin.
+»Men for at udnytte det fulde potentiale er der behov for enorm computerkraft«, lyder det.
+»Vi er meget glade for denne aftale med DCAI om brugen af Gefion, da det vil gøre det muligt for os at foretage eksperimenter i vores forskning på en skala, der ikke tidligere har været mulig«.
+ritzau
+fortsæt med at læse
+Kong Frederik har tændt for supercomputeren Gefion, som befinder sig på en hemmelig adresse i Danmark

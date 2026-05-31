@@ -1,0 +1,26 @@
+Title: Lufthavn_i_Berlin_er_fortsat_ramt_af_cyberangreb
+Date: 2025-09-24
+Article Type: Rejser
+Author: Hen over weekenden blev flere europæiske lufthavne ramt af cyberangreb. Onsdag er der stadig aflysninger.
+
+I Berlin Brandenburg Lufthavn i Tyskland er der fortsat forsinkelser og aflysninger efter et cyberangreb, som ramte i weekenden.
+Det oplyser lufthavnen til nyhedsbureauet dpa.
+»Selskabet har informeret os om, at det kan tage flere dage at få systemet til at fungere fuldt ud igen«.
+»Det er meget uheldigt og kom som en overraskelse«, siger en talsperson for lufthavnen til dpa.
+Det vides endnu ikke, præcis hvornår driften i lufthavnen er tilbage til normalen.
+Siden angrebet har Berlin Brandenburg Lufthavn haft udfordringer med check-in, boarding og bagagehåndtering. Flyselskaberne har blandt andet håndteret situationen ved at tjekke passagererne ind manuelt.
+Onsdag opfordres passagerer til på forhånd at tjekke, om deres fly går som planlagt.
+Cyberangrebet ramte fredag aften og påvirkede også Heathrow Lufthavn i London og Bruxelles Lufthavn.
+Sidstnævnte var hårdt ramt og måtte mandag bede flyselskaber om at aflyse halvdelen af deres flyafgange.
+Onsdag kan angrebet stadig mærkes i Bruxelles Lufthavn - dog i langt mindre grad. I Heathrow Lufthavn afvikles langt de fleste flyafgange som normalt.
+Men begge lufthavne opfordrer til, at man som passager tjekker sin flyafgang, inden man tager til lufthavnen.
+EU’s agentur for cybersikkerhed, Enisa, identificerede mandag episoderne i de europæiske lufthavne som et cyberangreb.
+Det drejede sig om et såkaldt ransomwareangreb.
+Det betyder, at en gerningsmand spærrer den retmæssige brugers adgang til et it-system. Adgangen kan gives igen ved udbetalingen af en løsesum eller ’ransom’ på engelsk - heraf navnet.
+Cyberangrebet var rettet mod selskabet Collins Aerospace, som leverer check-in-software til lufthavne.
+Det vides endnu ikke, hvem der står bag angrebet.
+ritzau
+fortsæt med at læse
+Cyberangreb i Bruxelles spøger og giver aflysninger i Københavns Lufthavn
+Ekspert om hackerangreb:
+»Når man tirrer den russiske bjørn, så vågner den på et tidspunkt«

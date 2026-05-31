@@ -1,0 +1,20 @@
+Title: Forsker_far_adgang_til_millioner_af_intetanende_danskeres_journaler
+Date: 2025-09-02
+Article Type: Sundhed
+Author: Region understreger, at følsomme patientoplysninger er pseudonymiseret i forskning med sygehusjournaler.
+
+Sygehusjournaler fra mere end tre millioner danskere kan komme til at indgå i et forskningsprojekt om psykisk sygdom. En forsker fra Region Hovedstadens psykiatri har fået tilladelse til at bruge oplysninger fra 3,65 millioner danskeres sygehusjournaler –
+uden at de ved det
+, skriver DR.
+Formålet er at undersøge årsager til og konsekvenser af psykisk sygdom. Foreløbig er journaloplysninger fra 350.000 psykiatriske patienter blevet udleveret. Oplysningerne fra de udleverede sygehusjournaler er og vil blive pseudonymiserede. Det betyder, at forskerne ikke kan identificere de enkelte personer uden yderligere oplysninger.
+Koncerndirektør Erik Jylling i Region Hovedstaden siger til DR, at det ville være uoverkommeligt at informere hver borger, om at deres journal indgår i forskningen. Han understreger, at alle regler er fulgt i projektet.
+»Vi kan faktisk ikke finde dig i mængden. Så det er ikke relevant på personniveau. Det er relevant i forhold til at designe sundhedsvæsenet for fremtiden«, siger han til DR.
+Ifølge de europæiske GDPR-regler skal man informere borgere, hvis deres journal indgår i forskning – dog med visse undtagelser. Det omhandler blandt andet, hvis det viser sig »umuligt eller vil indebære en uforholdsmæssig indsats«.
+Region Hovedstaden har ifølge DR vurderet, at det ville være for uoverkommeligt at informere hver enkelt borger, der indgår i projektet. Men Erik Jylling siger dog, at der burde have været en generel information om, at projektet er i gang.
+Hanne Marie Motzfeldt, der er professor i forvaltningsret og digitalisering ved Københavns Universitet, kalder forskningsprojektet for anerkendelsesværdigt. Men hun mener, den mangelfulde orientering om projektet og brugen af sundhedsdata er problematisk, siger hun til Ritzau.
+Hun peger på, at man normalvis, når man bruger undtagelsen i forhold til ikke at informere borgere, skal gennemføre såkaldte kompensatoriske foranstaltninger:
+»Man skal sørge for, at man på en anden måde bredt informerer om, hvad man bruger de her data til. Den brede information skal være med til at skabe åbenhed og debat om, hvad vi bruger sundhedsdata til i Danmark«.
+Den åbenhed er ifølge professoren nødvendig for, at man ikke en dag står med mindre anerkendelsesværdige projekter, der løber i en lukket kreds.
+Forskere kan generelt søge om at få lov til at bruge sundhedsdata til forskningsprojekter, hvis det har en væsentlig samfundsmæssig betydning og bidrager til et bedre samfundsvæsen, skriver Sundhedsdatastyrelsen på sin hjemmeside.
+Forskere skal have godkendt projektet af en dataansvarlig institution, hvilket blandt andet gælder universiteter eller hospitaler.
+ritzau

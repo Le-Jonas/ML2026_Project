@@ -1,0 +1,14 @@
+Title: Amazon_har_fundet_arsagen_til_verdensomspændende_nedbrud
+Date: 2025-10-21
+Article Type: Tech
+Author: Der var problemer med hjemmesider og apps som Snapchat, Amazon og Reddit under et nedbrud mandag.
+
+Amazon Web Services opererer igen som normalt efter et nedbrud mandag, som fik populære tjenester som Reddit og Snapchat til at gå ned, oplyser Amazon, der er moderselskab til Amazon Web Services (AWS).
+Problemerne begyndte omkring klokken 9.00 mandag morgen dansk tid, og det er først efter midnat, at de ser ud til at være løst. Der er dog et efterslæb af beskeder, som det vil tage et par timer at komme igennem, meddeler AWS. Først derefter er man altså helt tilbage til normalen.
+AWS leverer den tekniske infrastruktur til en lang række hjemmesider og firmaer verden over. Derfor kan problemer hos AWS hurtigt påvirke store dele af resten af internettet. Der har for eksempel også været problemer med betalingstjenesten Venmo og programmet Zoom, der bruges til videoopkald. Også sprogappen Duolingo, streamingtjenesten PrimeVideo og Amazons egen hjemmeside var nede i en periode.
+Nyhedsbureauet Reuters beskriver nedbruddet som det største siden problemerne sidste år hos CrowdStrike, som fik styresystemet Windows til at gå ned på flere millioner computere på verdensplan. Dengang skabte det problemer for banker, lufthavne og hospitaler.
+Nedbruddet mandag opstod på grund af et problem på et datacenter i Ashburn i den amerikanske delstat Virginia. Datacenteret har navnet US-East-1 og har mindst tre gange på fem år været involveret i et større nedbrud. Amazon har ikke uddybet, hvorfor der bliver ved med at være problemer med det specifikke datacenter.
+Mandag lød det fra AWS, at nedbruddet blev forårsaget af et problem i et undersystem, som holder øje med det system, der fordeler internettrafik ud på de forskellige servere. Nedbruddet mandag demonstrerer ifølge it-eksperter, hvor afhængige mange vigtige systemer er af nogle få techgiganter.
+Ifølge Ookla – ejer af hjemmesiden Downdetector, hvor nedbrud bliver overvåget – blev mindst 1.000 virksomheder påvirket af nedbruddet.
+ritzau
+fortsæt med at læse

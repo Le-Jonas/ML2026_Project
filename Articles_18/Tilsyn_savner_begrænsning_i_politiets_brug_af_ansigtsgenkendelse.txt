@@ -1,0 +1,20 @@
+Title: Tilsyn_savner_begrænsning_i_politiets_brug_af_ansigtsgenkendelse
+Date: 2025-11-25
+Article Type: Danmark
+Author: Københavns Politi gik i marts sammen med Rigspolitiet i gang med pilotforsøg med ansigtsgenkendelse.
+
+Det bør blive præciseret og afgrænset, hvilke konkrete strafbare forhold der kan danne grundlag for anvendelse af ansigts- og objektgenkendelse, vurderer Datatilsynet i et høringssvar over Rigspolitiets konsekvensanalyse for et pilotprojekt med ansigtsgenkendelsesteknologi. Helt konkret lyder det i høringssvaret, at tilsynet har betænkeligheder ved afgrænsningen af de strafbare forhold, der kan danne grundlag for brug af teknologien.
+Regeringen og en række andre partier i Folketinget gav i begyndelsen af september sidste år politiet tilladelse til at bruge ansigtsgenkendelse i deres efterforskning af visse sager. I marts gik Rigspolitiet og Københavns Politi i gang med pilotprojektet, der i sidste ende har til hensigt at lette politiets arbejde.
+Ansigtsgenkendelse må kun bruges i sager om alvorlig personfarlig kriminalitet – eksempelvis drab, drabsforsøg, grov vold og voldtægt. Dog lyder det også, at det kan blive taget i brug ved »lignende overtrædelser«.
+Det er netop den del, der springer i øjnene hos Datatilsynet, som mener, at det har afgørende betydning, »at der ikke er tvivl om, i hvilke situationer der må anvendes ansigtsgenkendelse til retshåndhævende formål«.
+»Derfor henstiller Datatilsynet til, at det bliver præciseret – og gerne fastsat ved lov – hvilke strafbare forhold der kan danne grundlag for anvendelsen af teknologien«, skriver tilsynet.
+Datatilsynet har tidligere anmodet Rigspolitiet om at uddybe begrebet »lignende overtrædelser«. I den forbindelse supplerede Rigspolitiet med at forklare, at listen over overtrædelser ikke er udtømmende, da der skal være mulighed for at anvende teknologien på andre strafbare forhold af personfarlig karakter. Her nævnes blandt andet kriminalitet, der anses som værende alvorlige og personfarlige forbrydelser på grund af »mange strafbare forhold, flere gerningsmænd, særlig farlig fremgangsmåde eller lignende«.
+Jørn Guldberg, der er it-sikkerhedsekspert hos fagforeningen IDA, understreger, at det er et indgribende og kraftfuldt værktøj, og derfor er man nødt til at begrænse det.
+»Det er første skridt på vejen, at man er begyndt at lave afgrænsninger på, hvornår man bruger værktøjet«, siger han men tilføjer, at der fortsat mangler det sidste.
+»Det er også det, Datatilsynet siger; at den afgrænsning er ikke klar nok, og det kan jeg kun give dem ret i«, siger han.
+EU vedtog i marts 2024 regler for brugen af kunstig intelligens. Her blev ansigtsgenkendelse i realtid i det offentlige rum forbudt. Dog med nogle undtagelser – som eksempelvis potentielle terrortrusler. Danmark står uden for reglerne på grund af retsforbeholdet.
+Justitsminister Peter Hummelgaard (S) har tidligere understreget, at forsøget ikke gælder ansigtsgenkendelse i realtid.
+ritzau
+fortsæt med at læse
+Datatilsyn afkræver svar fra politiet om brug af ansigtsgenkendelse
+Politiet får frie rammer til at bruge ansigtsgenkendelse

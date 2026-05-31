@@ -1,0 +1,18 @@
+Title: Løbe-app_har_afsløret_fortrolige_detaljer_om_en_række_præsidenter
+Date: 2024-11-02
+Article Type: Internationalt
+Author: Fortrolige oplysninger om flere magtfulde ledere har været tilgængelige via løbeapp, skriver franske Le Monde.
+
+Den udbredte løbeapp Strava har i en række tilfælde kunnet afsløre, hvor nogle af verdens mest magtfulde mennesker befinder sig.
+Det skriver den store franske avis Le Monde i en artikel, der er udgivet tidligere på ugen. Historien er siden blevet bragt af flere øvrige internationale medier – herunder britiske The Guardian og The Independent.
+Strava har over 120 millioner brugere på verdensplan, og appen kan blandt andet bruges til at registrere løbeture. Man kan som udgangspunkt også ret præcist se, hvor og hvornår en Strava-bruger har løbet.
+Netop den funktion har man kunnet bruge til at få indsigt i fortrolige oplysninger om eksempelvis Frankrigs præsident, Emmanuel Macron, USA’s præsident, Joe Biden, og Ruslands præsident, Vladimir Putin.
+Det skriver nyhedsbureauet AP på baggrund af Le Mondes artikel.
+Det er ikke præsidenterne selv, der har delt oplysningerne. Det er i stedet typisk sikkerhedsvagter, der i deres fritid har delt løbeture på Strava, mens de har været tæt på den pågældende præsident.
+I Joe Bidens tilfælde kunne man i 2023 finde frem til et hotel, som Joe Biden boede på i San Francisco kort før et møde med Kinas præsident, Xi Jinping.
+Få timer før det højprofilerede møde løb en sikkerhedsvagt en tur med afgang fra hotellet, skriver Le Monde ifølge AP.
+Secret Service, der står for at beskytte amerikanske præsidenter, siger til Le Monde, at sikkerhedstjenestens ansatte ikke må bruge deres egen elektronik – eksempelvis mobiler og smartwatches – i arbejdstiden.
+Det lyder dog også, at Secret Service ’ikke forbyder en ansats brug af sociale medier i vedkommendes fritid’. Det skriver AP.
+Det er ikke første gang, at Strava har kunnet bruges til at afsløre fortrolige oplysninger. I 2018 kom det frem, at amerikanske soldaters Strava-ture kunne bruges til at finde frem til hemmelige amerikanske militærbaser.
+Det er muligt i Strava-appen at skjule ens placering under en aktivitet. Man kan også skjule eksempelvis en turs første og sidste par hundrede meter.
+ritzau

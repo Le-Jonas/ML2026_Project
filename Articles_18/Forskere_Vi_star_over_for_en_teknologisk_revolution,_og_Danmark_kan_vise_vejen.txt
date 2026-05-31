@@ -1,0 +1,86 @@
+Title: Forskere_Vi_star_over_for_en_teknologisk_revolution,_og_Danmark_kan_vise_vejen
+Date: 2025-03-24
+Article Type: Kroniken
+Author: Kronik afRebecca Adler-Nissen
+Serge Belongie
+Roman Jurowetzki
+Sune Lehmann
+Stine Lomborg
+Thomas B. Moeslund
+Morten Axel Pedersen
+Helene Friis Ratner
+Anna Rogers
+Anders Søgaard
+
+Rebecca Adler-Nissen er professor. Serge Belongie er professor. Roman Jurowetzki er lektor. Sune Lehmann er professor. Stine Lomborg er professor. Thomas B. Moeslund er professor. Morten Axel Pedersen er professor. Helene Friis Ratner er lektor. Anna Rogers er lektor. Anders Søgaard er professor. De er alle tilknyttet det nationale Center for Kunstig Intelligens i Samfundet (Caisa).
+Med sine stærke traditioner for fællesskab og tillid kan Danmark vise, at ai både kan skabe værdi og gøre samfundet bedre.
+Dette er en Kronik. Kroniken er udtryk for skribentens holdning. Du kan indsende Kronik-forslag
+her
+.
+Kunstig intelligens (ai) forandrer samfund verden over. I disse dage er Elon Musk med til at give ai et blakket ry, ikke mindst med Department of Government Efficiency (Doge), hvor teknologien bruges på måder, der vækker bekymring om bundforkert sagsbehandling, sløset omgang med national sikkerhed, personfølsomme data og tvivlsom optimering i den offentlige sektor. I Kina skaber ai ikke blot innovation, men styrker også statens kontrol gennem massiv overvågning og censur.
+Men der findes andre veje. Veje, hvor kunstig intelligens ikke ødelægger, men styrker os. Hvor den skaber vækst, understøtter demokratiet og giver borgerne større digital selvbestemmelse. Danmark kan og skal vise, at en sådan bedre vej er mulig.
+Der er nemlig god grund til at være begejstret for ai. Kunstig intelligens kan øge produktiviteten, gøre information tilgængelig for flere og styrke den offentlige samtale ved at sikre, at flere stemmer bliver hørt. Ai kan beskytte rettigheder og binde samfundet tættere sammen. Men der findes ansvarlig og uansvarlig ai.
+Der findes gode og dårlige måder at bruge teknologien på. Ai, der hjælper, og ai, der spænder ben. Og måske mest problematisk: Ai, der gavner nogle, men efterlader andre i skyggen. I disse år skal vi træffe vigtige valg. Spørgsmålet er, om vi klar – og klædt på til – at tage det ansvar?
+Det går stærkt for tiden. Kunstig intelligens udvikler sig hurtigt, og forskningshorisonten flytter sig konstant. Kunstig intelligens er i færd med at ændre danske virksomheder og den offentlige sektor. Skolerne, kommunerne, hospitalerne og politiet bruger allerede i dag kunstig intelligens. Hvordan vi kan sikre, at kunstig intelligens bidrager til et bedre samfund? Det kræver en vidensbaseret og tværfaglig tilgang, hvor endnu flere er inviteret med rundt om bordet. En tilgang, der giver plads til virksomheder, forskere, myndigheder, civilsamfund og borgerne selv.
+Doge’s fremfærd er udtryk for en filosofi, der sætter kunstig intelligens først. Ai first. Er det den rigtige filosofi?
+Indsatsen er høj. I fremtiden nøjes vi ikke med at bruge kunstig intelligens til at skrive udkast til vores e-mails. Kunstig intelligens bliver grænsefladen til alt fra vores telefoner til virksomheder og vores adgang til velfærdsstaten, hvis ydelser vi er afhængige af.
+Kunstig intelligens vil farve vores verden på samme måde, som da internettet gjorde sit indtog. Og vi vil blive afhængige af ai. Vi vil blive afhængige af dem, der udvikler teknologien, og det bliver afgørende, at vi har adgang til god kunstig intelligens, som vi kan stole på.
+Kunstig intelligens vil påvirke vores hverdag, vores forhold til hinanden, informationslandskabet, politik, klimaet og globale magtbalancer. Hvordan sikrer vi, at alle kan følge med i udviklingen og forberede os på det, der venter rundt om hjørnet? Hvordan klæder vi politikere, erhvervsliv og myndigheder på til fremtidens muligheder og udfordringer?
+Vores filosofi er citizens first. Borgernær og brugerdrevet ai-innovation. Det giver i mange tilfælde mening at rulle kunstig intelligens ud, men vi er nødt til at vide, hvilket – og ikke mindst, hvis – problem vi forsøger at løse, og gøre os overvejelser om, hvad følgevirkningerne kan blive nu og i fremtiden.
+Hvis Danmark skal vise verden en bedre vej med kunstig intelligens, der styrker konkurrenceevne, demokrati og digital selvbestemmelse, må vi stille os selv nogle spørgsmål. Her er 7 svære spørgsmål:
+1. Hvordan kan ai styrke demokratiet?
+Hvilken slags kunstig intelligens vil tjene et demokratisk samfund som Danmark bedst? Og hvordan sikrer vi dens konkurrencedygtighed? Hvordan kan vi f.eks. designe en chatbot, så den respekterer privatlivets fred og øger borgernes overblik og handlekraft?
+De nordiske lande har en stærk tradition for demokratisk ejerskab, fra den lokale gymnastikforening til andelsbevægelsen. Kan vi forestille os kollektivt ejet eller kontrolleret kunstig intelligens i fremtiden?
+Hvad kræver det teknisk, hvilke værdier skal det bygge på, og hvordan inddrages de mennesker bedst? Vi ved, at der er dalende tillid til bl.a. myndigheder. Hvordan sikrer vi, at kunstig intelligens styrker fælles samtaler og nysgerrighed på tværs af samfundsgrupper? Hvis ai skal tjene et land som Danmark, skal vi starte med udfordringer, vi står med nu og her.
+2. Hvordan sikrer vi, at regulering ikke kvæler ansvarlig innovation?
+Mange kan hurtigt blive enige om, hvornår kunstig intelligens bør reguleres. Og det er let at pege på mulige faldgruber ved ikke at lovgive. Men hvad med det modsatte – kan restriktiv regulering påvirke innovationskraften?
+De fleste synes, at Doge er galt afmarcheret, men herhjemme må vi have en samtale om dansk innovation og konkurrenceevne. Hvis vi gerne vil have, at kunstig intelligens udvikles ansvarligt, skal vi sikre, at lovgivning ikke utilsigtet spænder ben for udviklingen af vores egne ai-løsninger.
+For små- og mellemstore virksomheder i Danmark og EU kan omfattende regulering og uklarhed skabe barrierer, der begrænser mulighederne for at eksperimentere og skabe ansvarlige løsninger. Sjældent er yderpunkterne særligt relevante. I stedet skal vi omfavne gråzonerne og finde fælles fodslag, så virksomheder tør investere frem for at drukne i en jungle af krav, der ovenikøbet kan fortolkes forskelligt, som vi oplevede med implementeringen af GDPR.
+3. Hvordan kan ai styrke vores konkurrenceevne og gøre os mere uafhængige af lande, vi ikke kan vide os sikre på?
+Det er vigtigt at igangsætte initiativer, der kan bidrage til udviklingen af dansk og europæisk kunstig intelligens. Men det kræver en dybere forståelse af, hvad kunstig intelligens reelt kan og ikke kan.
+I dag udvikles kunstig intelligens sjældent udelukkende internt i virksomheder. I stedet vokser en kompleks værdikæde og et økosystem frem, hvor modelleverandører, integrationsløsninger, databaser og infrastruktur fungerer som byggeklodser, der er nemme at kombinere.
+Teknologisk innovation sker ofte ved nye kombinationer af eksisterende byggeklodser – som virksomheder frit skal kunne arbejde med. Nogle af byggeklodserne ejes af globale techgiganter. Hvem bør have ansvaret for at godkende, hvilke komponenter der er egnede at bruge og af hvem?
+Hvordan navigerer offentlige og private aktører i dette landskab, hvor nye teknologier hele tiden kommer til, mens de reguleres forskelligt på tværs af landegrænser og måske endda fortolkes forskelligt lokalt? Hvordan skaber vi bedre rammebetingelser for nystartede, små og mellemstore virksomheder?
+Og ikke mindst: Hvordan sikrer vi de nødvendige investeringer i infrastruktur – ikke kun til forskning, men også til selve driften af ai-systemer
+4. Hvordan kan ai mindske ulighed og styrke sammenhængskraften i samfundet?
+Bidrager ai til større eller mindre ulighed? På arbejdsmarkedet vil nogle medarbejdere opleve, at ai beriger deres arbejdsliv med mere meningsfulde og kreative opgaver, mens andre, særligt i juniorstillinger eller rutineprægede funktioner, risikerer at se deres jobfunktioner automatiseret og efterspørgslen efter deres kompetencer falde.
+Et centralt spørgsmål er derfor, hvordan vi sikrer, at disse forandringer ikke øger den sociale og økonomiske ulighed. Det handler ikke kun om arbejdsmarkedet. Der er grupper som ordblinde, blinde og borgere med andet modersmål end dansk, der måske kan få særlig gavn af kunstig intelligens. Men på den anden side ved vi, at kunstig intelligens kan afspejle stereotypiske forestillinger om køn og etnicitet.
+Der er også grupper, der er særligt sårbare over for deep fakes og love scams. Kunstig intelligens kan bidrage til at give stemme til minoriteter, men også skævvride den demokratiske samtale. Hvordan navigerer vi bedst i det landskab?
+5. Hvordan understøtter ai medarbejdernes faglighed og effektivitet på samme tid?
+Der er et enormt uudnyttet potentiale på tværs af den private og offentlige sektor, hvor kunstig intelligens kan automatisere rutineopgaver og sikre hurtigere sagsgange. Samtidig ved vi fra undersøgelser, at mange medarbejdere frygter, at ai bliver brugt til besparelser og overvågning. For at undgå, at denne frygt bliver til virkelighed, kræver det bl.a., at vi identificerer, hvor medarbejderne oplever et behov for hjælp.
+Handler det først og fremmest om at automatisere administrative dokumentationsbyrder, som tager tid fra kerneopgaven? Eller ønsker man beslutningsstøtte, der kan understøtte faglige skøn? Og hvordan sikrer vi organisatorisk, at beslutningsstøtte netop er en støtte, så det ikke reelt bliver den kunstige intelligens, der træffer beslutningerne?
+Forståelsen af ansattes praksis og faglige viden vil gøre os skarpe på, hvor vi skal prioritere udrulningen, hvilken tilgang man skal vælge, og give os mod til nogle gange at turde at fravælge kunstig intelligens som løsning.
+6. Hvordan kan ai styrke borgernes overblik og handlekraft?
+Kan ai give borgere bedre overblik over deres rettigheder og muligheder? Kan vi udvikle kunstig intelligens, der ikke blot hjælper sagsbehandlerne med papirarbejde og frigør ressourcer til omsorg eller service, men også hjælper kommunerne med at overholde lovgivningen? Kan kunstig intelligens oversætte komplekst juridisk sprog, så borgerne kan forstå de beslutninger, der træffes om dem?
+Forskning viser igen og igen, at borgerinddragelse fra start er afgørende for at udvikle relevante digitale løsninger. De bedste løsninger skabes i samspil med dem, der skal bruge dem, og inddragelse sikrer legitimitet. Men hvordan gør vi det på måder, der anerkender borgernes forskellige behov og ressourcer?
+Vi skal eksperimentere med borgerpaneler og inklusion af marginaliserede grupper. Offentligt ansatte med daglig borgerkontakt skal også have indflydelse, så kunstig intelligens faktisk løser de problemer, som borgerne oplever i mødet med det offentlige.
+7. Hvordan sikrer vi kvalitet og ansvar, når processer og beslutninger bliver automatiseret?
+Mange har hørt skandalehistorier om uigennemtænkt udrulning af ai-systemer. I Holland udviklede myndighederne f.eks. algoritmen Syri til at identificere socialt bedrageri. Algoritmen viste sig systematisk at diskriminere etniske minoriteter. På et forkert grundlag blev 26.000 børnefamilier frataget livsnødvendige ydelser.
+Borgere er blevet beskattet på fejlagtigt grundlag, frataget ydelser og behandlet urimeligt. Hvordan sikrer vi, at den kunstige intelligens, der bliver rullet ud i det offentlige, er den bedste på markedet? Det kommercielle marked for it-løsninger baseret på kunstig intelligens er en jungle, og forskellen på god og dårlig kunstig intelligens kan have alvorlige konsekvenser.
+Hvordan sikrer vi os, at offentlige myndigheder har adgang til den nyeste viden om evaluering af kunstig intelligens og identifikation af risici?
+Der er behov for bedre måder at evaluere ai. Høje scores på tekniske tests er ikke nok; det kræver bredere kvalitetsmål, der tager hensyn til forskellige brugere, behov og succeskriterier.
+Hvis vi er modige og tager sådanne spørgsmål alvorligt, kan det give os en kæmpe fordel. I en verden med geopolitiske spændinger skal Danmark styrke arbejdet i tætte nordiske, europæiske og multinationale partnerskaber med f.eks. fælles standarder for god brug af ai-teknologi og fælles projekter.
+Dette samarbejde er ikke blot værdifuldt regionalt, men nødvendigt i konkurrencen med aktører, der ikke deler vores værdier. Samtidig må vi se ud over dagens ai-systemer og sammen adressere potentielle eksistentielle risici ved fremtidens mere avancerede teknologier – en opgave, der kræver fælles forskningsinitiativer og langsigtet tænkning på tværs af landegrænser.
+Fremtidens ai kan tage mange veje. Den formes bl.a. af opportunisme, investeringer, videnskab, regulering og efterspørgsel. Og altså af de valg, vi træffer i dag. Hvis vi stiller de rette spørgsmål og inddrager den rette viden, kan vi undgå de kaotiske scener, der udspiller sig i USA lige nu.
+Udvikling af kunstig intelligens er ikke business as usual – det kræver en aktiv indsats fra forskere, beslutningstagere og virksomheder. Det er netop det samarbejde, regeringen har igangsat med sit nye initiativ for kunstig intelligens.
+En af de komponenter er os: det nationale Center for Kunstig Intelligens i Samfundet, eller Caisa, som vi hedder. Vi er et nationalt konsortium i samarbejde med Pionercenteret for Kunstig Intelligens. Vi arbejder tværfagligt, fordi det ikke er nok at forstå de tekniske aspekter eller undersøge menneskelige og samfundsmæssige betydninger. Det er nødvendigt, at vi gør begge dele – på samme tid.
+I Caisa skal vi forske og rådgive i, hvordan vi bedst kan navigere i den rivende udvikling. Det kræver all minds on deck, og derfor sætter vi nu – på den korte bane – gang i en række aktiviteter og projekter, hvor vi sammen kan lære af erfaringer og bygge videre på den seneste forskning og igangværende initiativer.
+Vi vil samle gode kolleger, søsterinitiativer og de fantastiske forskningsmiljøer i Danmark og udlandet og samarbejde bredt med den offentlige og private sektor for at sikre, at vi ikke opfinder hjulet på ny, men i stedet skaber noget større i fællesskab. Gennem forskning skal vi undersøge, hvor kunstig intelligens kan gøre mest gavn for så mange som muligt – og hvor vi bør være forsigtige.
+Samtidig bør vi være ambitiøse – ikke kun på Danmarks vegne, men på Europas. Derfor igangsætter vi også mere langsigtede forskningsprojekter, såkaldte moonshots, der udforsker nye veje til digital suverænitet og mere demokratisk og ansvarlig kunstig intelligens.
+Med sine stærke traditioner for fællesskab og tillid kan Danmark vise, at ai både kan skabe værdi og gøre samfundet bedre. Hvis vi lykkes, kan Danmark ikke blot sikre en bedre udrulning af kunstig intelligens herhjemme, men også inspirere resten af verden til at følge en klogere vej.
+Rebecca Adler-Nissen
+Serge Belongie
+Roman Jurowetzki
+Sune Lehmann
+Stine Lomborg
+Thomas B. Moeslund
+Morten Axel Pedersen
+Helene Friis Ratner
+Anna Rogers
+Anders Søgaard
+fortsæt med at læse
+Lektor:
+Det fælles bedste bor i det danske sprog. Derfor skal vi frygte den amerikanske AI
+Dette er en Kronik. Kroniken er udtryk for skribentens holdning. Du kan indsende Kronik-forslag
+her
+.

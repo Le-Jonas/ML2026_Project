@@ -1,0 +1,9 @@
+Title: Hackere_tvinger_britisk_supermarkedskæde_til_ydmygende_tilstaelser
+Date: 2025-05-02
+Article Type: Tech
+Author: En britisk supermarkedskæde har forsøgt at nedtone betydningen af et hackerangreb. Nu har hackerne leveret bevis for, at det var meget, meget værre, end selskabet ville indrømme.
+
+Jens Bostrup
+Journalist
+En gruppe hackere har fredag tvunget den britiske supermarkedskæde Co-op til at indrømme, at hackerne har fået fat i data om »et betydeligt antal« af Co-ops nuværende og tidligere medlemmer«.
+Virksomheden har ellers hidtil forsøgt at nedtone angrebets betydning. Da nyheden om angrebet blev annonceret onsdag, sagde Co-op, at »der ikke var nogen beviser for, at kundedata blev kompromitteret«. Co-op sagde også, at det havde taget »proaktive foranstaltninger« for at afværge hackere, og at angrebet kun havde en »lille indflydelse« på selskabets operationer.

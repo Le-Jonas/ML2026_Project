@@ -1,0 +1,21 @@
+Title: Verdens_stærkeste_kvantecomputer_er_pa_vej_til_Danmark
+Date: 2025-07-17
+Article Type: Tech
+Author: Novo Nordisk Fonden og Eifo går sammen om at bygge ny supercomputer med kvanteteknologi i Danmark.
+
+Der bliver tale om en verdensnyhed, når der for første gang sættes strøm til en ny supercomputer ved navn Magne engang i løbet af næste år.
+Det vil nemlig være den første computer nogensinde, der bygger på såkaldte logiske kvantebits, skriver Dansk Industri i en pressemeddelelse.
+Computeren skal bygges af nystiftet selskab ved navn QuNorth, som både Danmarks Eksport- og Investeringsfond (Eifo) og Novo Nordisk Fonden tilsammen har investeret 600 millioner kroner i.
+Erhvervsminister Morten Bødskov er begejstret for de muligheder, som den nye computer giver, når den kommer i drift.
+»I dag tager vi et kvantespring. Med verdens største og stærkeste kommercielle kvantecomputer på dansk jord tager vi afgørende skridt i en heftig konkurrencesituation«.
+»Projektet kan sætte turbo på erhvervslivets udvikling af nye måder, som vi kan angribe kendte store udfordringer med«, siger han.
+Tanken er, at Magne skal stilles til rådighed på kommercielle vilkår til forskere og virksomheder, der har brug for ekstra computerkraft til at udvikle nye produkter eller foretage komplicerede beregninger.
+Og det vil ifølge Lars Sandahl Sørensen, der er administrerende direktør for Dansk Industri, give Danmark en helt afgørende fordel, når det handler om at udvikle morgendagens løsninger på verdens store problemer.
+»Hvad enten det er at finde helt nye materialer til produktion, optimere komplicerede logistiske problemer, udvikling af avancerede forsvarssystemer eller opdage nye molekyler og materialer med særlige egenskaber, for eksempel medicin«, siger han.
+Sidste efterår blev en anden supercomputer ved navn Gefion taget i brug.
+Computeren, der også er et resultat af et samarbejde mellem Novo Nordisk Fonden og Eifo, er bygget med særlige hardware og software fra chipgiganten Nvidia, der benytter sig af kunstig intelligens.
+Her er de første pilotprojekter allerede sparket i gang af forskere fra blandt andet Københavns Universitet og Danmarks Tekniske Universitet (DTU).
+ritzau
+fortsæt med at læse
+Danmarks nye supercomputer kan »blive den næste store revolution«
+Supercomputer i Danmark er 21. mest kraftfulde i verden

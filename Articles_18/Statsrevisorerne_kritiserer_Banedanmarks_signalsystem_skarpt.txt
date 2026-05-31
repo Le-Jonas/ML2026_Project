@@ -1,0 +1,21 @@
+Title: Statsrevisorerne_kritiserer_Banedanmarks_signalsystem_skarpt
+Date: 2024-12-09
+Article Type: Danmark
+Author: Banedanmark skal hurtigst muligt få styr på it-sikkerheden, som er et samfundskritisk anliggende.
+
+Det er meldingen fra Statsrevisorerne, som mandag har behandlet en rapport fra Rigsrevisionen, og på den baggrund udtales det, som kategoriseres som ’skarp kritik’.
+»Statsrevisorerne finder det kritisabelt, at Banedanmark har væsentlige sårbarheder i it-sikkerheden i signalsystemet«, hedder det i beretningen.
+»Det indebærer en risiko for, at sikkerhedshændelser kan forstyrre og standse togdriften, hvilket vil være til stor gene for brugerne. Længerevarende nedbrud kan dertil have betydning for samfundsøkonomien«.
+Signalsystemet er et af omkring 90 samfundskritiske it-systemer. Det vil sige systemer, hvor samfundet berøres, hvis der er problemer eller forstyrrelser.
+Rigsrevisionen har »i vidt omfang« undersøgt it-sikkerheden i signalsystemet ud fra de samme kriterier, som Banedanmark selv arbejder ud fra. Undersøgelsen er baseret på 19 kriterier. Men resultaterne kan ikke offentliggøres i detaljer. Det skyldes, at Banedanmark vurderer, at der er tale om fortrolige oplysninger, og at sårbarheder kan eksponeres, hvis der er fuld åbenhed.
+Signalsystemet hos Banedanmark opfylder kun 3 af 19 vurderingskriterier. 10 kriterier opfyldes slet ikke, hedder det i beretningen. De øvrige 6 vurderingskriterier opfyldes kun delvist.
+Banedanmarks direktør for digitale signaler, Kirsten Winther Jørgensen, udtaler i en skriftlig kommentar:
+»Det er vigtigt at slå fast, at Rigsrevisionens rapport ikke handler om passagernes sikkerhed, men alene om infrastrukturens drift og tilgængelighed«.
+Hun tilføjer, at de forhold, som Rigsrevisionen peger kritisk på, enten allerede er håndteret, eller er under aktuel behandling af Banedanmark.
+Rigsrevisionens undersøgelse dækker perioden januar til marts 2024.
+Opdateres ...
+Ritzau
+fortsæt med at læse
+Årsagen til togkaos er nu fundet
+DSB genoptager normal drift mellem Aarhus og Aalborg søndag
+Signalfejl aflyser flere jyske tog weekenden ud

@@ -1,0 +1,18 @@
+Title: Verdens_mest_værdifulde_virksomhed_har_næsten_fordoblet_sin_omsætning_pa_et_ar
+Date: 2024-11-20
+Article Type: Tech
+Author: Nvidia slår analytikernes forventninger med omkring to milliarder dollar i regnskab for tredje kvartal.
+
+Chipselskabet Nvidia har i tredje kvartal haft en omsætning på 35 milliarder dollar, viser selskabets regnskab ifølge finansmediet MarketWire. Det svarer til omkring 248 milliarder kroner.
+Det er noget mere end ventet. Analytikere havde forventet en omsætning på omkring 33 milliarder dollar. Det er samtidig en stigning fra lidt over 18 milliarder dollar – omkring 128 milliarder kroner – i samme periode sidste år.
+Udviklingen dækker over, at afsætningen til datacentre, som bruger Nvidias mest avancerede chips til brug i kunstig intelligens, er mere end fordoblet, skriver MarketWire.
+Indtjeningen lander på 19,3 milliarder dollar, hvilket svarer til omkring 136 milliarder kroner. I samme periode sidste år lå det på 9,3 milliarder dollar – altså 65 milliarder kroner. Også her overgår Nvidia forventningerne, skriver Børsen. Analytikerne forventede nemlig 18,5 milliarder dollar på bundlinjen.
+Umiddelbart efter regnskabets offentliggørelse faldt Nvidia-aktien dog med 2,4 procent på eftermarkedet. Det kan skyldes forventningerne til fjerde kvartal, skriver MarketWire. Nvidia forventer selv at nå et samlet salg på 37,50 milliarder dollar, plus eller minus to procent. Ifølge Bloomberg News tror analytikerne på 37,08 milliarder dollar. Men de mest optimistiske bud lyder ifølge mediet på 41 milliarder dollar. Det kan være her, skuffelsen og dermed aktiefaldet ligger, skriver MarketWire.
+Med kvartalsregnskabet tyder det på, at danske investorer kan tage det roligt, vurderer strateg hos Danske Bank Lars Skovgaard Andersen over for mediet Euroinvestor, der kalder det »et stærkt regnskab« fra Nvidia.
+»Det øger sandsynligheden for, at opturen fortsætter i de amerikanske aktier i den kommende tid«, siger han til MarketWire.
+Når den finansielle verdens øjne har været rettet mod Nvidias kvartalsregnskab onsdag aften dansk tid, skyldes det, at selskabet kan skabe bevægelser i resten af aktiemarkedet, alt efter om det skuffer eller overrasker positivt. Nvidia er nemlig verdens mest værdifulde virksomhed målt på børsværdi foran Apple, Microsoft og Alphabet. Det er særligt de mikrochips, der bruges til at træne modeller til kunstig intelligens, der driver forretningen. Derfor har de seneste års stigende brug af kunstig intelligens mange steder i samfundet i høj grad gavnet selskabet.
+ritzau
+fortsæt med at læse
+Globale datacentre giver den fuld gas:
+Verdens næstmest værdifulde selskab opnår »rekordomsætning«
+AI får Nvidias-regnskab til at overstige forventning

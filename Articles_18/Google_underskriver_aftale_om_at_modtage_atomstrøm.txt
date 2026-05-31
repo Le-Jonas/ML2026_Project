@@ -1,0 +1,19 @@
+Title: Google_underskriver_aftale_om_at_modtage_atomstrøm
+Date: 2024-10-15
+Article Type: Internationalt
+Author: Google underskriver en aftale med Kairos Power for at imødekomme kunstig intelligens’ høje forbrug af strøm.
+
+Techselskabet Google har mandag underskrevet en aftale om at modtage strøm fra små atomreaktorer.
+Det sker, for at selskabet kan imødekomme det høje strømforbrug, som kunstig intelligens kræver.
+Aftalen er underskrevet med startup-virksomheden Kairos Power og kommer, blot uger efter at konkurrenten Microsoft meddelte, at det vil genstarte samarbejdet med atomkraftværket Three Mile Island i delstaten Pennsylvania.
+»Vi tror på, at atomenergi spiller en afgørende rolle i at støtte vores grønne vækst og bidrage til udviklingen af AI«, siger Michael Terrell, som er Googles direktør for energi og klima, under en pressebriefing.
+Selskabet har ikke offentliggjort nogen detaljer om økonomien i aftalen.
+Techgiganter såsom Microsoft, Amazon og Google udvider i høj fart deres datacentre for at imødekomme det behov, der opstår med AI.
+Samtidig søger de efter energikilder verden over.
+Den første af en række små modulære reaktorer (SMR) udviklet af Kairos som følge af aftalen med Google forventes at være i drift inden udgangen af dette årti. Det oplyser de to virksomheder.
+SMR-teknologien er stadig i sin spæde start og mangler endelig godkendelse. Derfor søger nogle virksomheder i stedet mod eksisterende atomkraftmuligheder.
+Microsofts aftale med atomkraftværket Three Mile Island vil styrke et elnet, der dækker 13 amerikanske delstater.
+Dette område står over for alvorlig belastning fra datacentres enorme energiforbrug, hvilket rejser bekymringer om elnettets stabilitet, efterhånden som AI-efterspørgslen stiger.
+I 1979 skete der en delvis nedsmeltning af anlæggets reaktor 2 – bedre kendt som Three Mile Island-ulykken.
+ritzau
+fortsæt med at læse

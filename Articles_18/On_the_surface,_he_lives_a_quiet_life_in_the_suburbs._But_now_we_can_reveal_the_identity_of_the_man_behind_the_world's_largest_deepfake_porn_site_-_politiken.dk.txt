@@ -1,0 +1,232 @@
+Title: On_the_surface,_he_lives_a_quiet_life_in_the_suburbs._But_now_we_can_reveal_the_identity_of_the_man_behind_the_world's_largest_deepfake_porn_site_-_politiken.dk
+Date: 2025-05-07
+Article Type: Ida Herskind
+Author: This article was produced in collaboration with the media outlets TjekDet (Denmark), Bellingcat (Netherlands), and CBC (Canada).
+
+Almost a month ago, on Friday, April 11, a Canadian TV journalist arrived at a hospital near Toronto armed with a voice recorder and a letter he intended to deliver personally to one of the hospital’s pharmacists, David Do.
+When the journalist locates the 36-year-old pharmacist, he introduces himself.
+»We have been trying to reach you regarding MrDeepFakes. I want to hand you this list and ensure you have received our emails«, he said in a recording of the encounter.
+This article was originally published in Danish. It has been translated with the help of AI and subsequently proofread by a member of the editorial staff.
+Read more about how to
+subscribe to Politiken Edition here
+The journalist hands David Do the letter and explains that he and his team had been attempting to contact David Do because they were working on a story about the world’s largest deepfake porn website.
+»I don’t know anything about that. I’m at work right now«, David Do responds.
+The journalist suggests they step outside to continue the conversation. In the emails he sent to David Do, he had requested an interview on behalf of four media outlets collaborating on the story. The letter lists more than 20 items about what the media intended to report regarding his online activities spanning over more than a decade.
+The journalist, Eric Szeto, works for the investigative team at Canadian CBC News’ visual investigations unit. His questions are posed on behalf of three other media outlets as well – Dutch Bellingcat, Danish TjekDet, and Politiken.
+In a comprehensive investigation, the media outlets traced digital footprints over more than a decade, documenting that the 36-year-old David Do is a chief architect behind the controversial website MrDeepFakes, where sexual and violent videos are shared featuring the manipulated faces of famous women using artificial intelligence without consent.
+Before you continue reading:
+For ethical reasons, experts stringly advise against searching for manipulated sexual material of the type discussed in this article. Sharing such material without consent is illegal in Denmark.
+While the videos are fake, the consequences are real – not just for the individual woman, but also for democracy and women’s willingness to participate in public discourse and run for office.
+Deepfake porn is a growing problem that often comes without consequences for the perpetrators creating the content, as it has been for those behind the largest platform, MrDeepFakes. Until now, MrDeepFakes has managed to keep its identity hidden, concealing itself behind false IP addresses, cryptocurrency, and other security measures.
+But in this article, the spotlight is on David Do.
+Documentation shows that the 36-year-old pharmacist David Do is behind the creation and operation of MrDeepFakes. To what extent he receives help from others is unknown. Outwardly, he leads a quiet and respectable life in the Toronto area. He is university-educated and drives a Tesla. He also has a well-paid job at a public hospital, from which this photo originates. Politiken publishes the image as evidence and has blurred the hospital's name.
+Documentation shows that the 36-year-old pharmacist David Do is behind the creation and operation of MrDeepFakes. To what extent he receives help from others is unknown. Outwardly, he leads a quiet and respectable life in the Toronto area. He is university-educated and drives a Tesla. He also has a well-paid job at a public hospital, from which this photo originates. Politiken publishes the image as evidence and has blurred the hospital's name.
+Unmasking faceless perpetrators can be crucial for victims of fake porn, says Miriam Michaelsen, a lawyer and partner at ReThink Law, who frequently represents victims of digital harassment, violence, and abuse.
+»When it’s a foreign platform and perpetrator, it’s currently a virtually consequence-free space because authorities lack both the resources and capabilities to handle these cases and support victims«, she says.
+»Many victims don’t have a chance to remove images and videos«.
+At the Canadian hospital, David Do refuses to step outside with the journalist.
+»I’m actually at work. I can’t do that right now«, he says.
+Eric Szeto tries again: »There are a lot of people who want to talk to you …«.
+David Do closes the door to his office.
+If he doesn’t respond to the letter within a week, CBC will approach him again with a camera.
+Months of preparation preceded the confrontation at David Do’s workplace. Let’s rewind a year.
+Inspired by the British TV station
+Channel 4
+, last year I embarked on a quest to see how much fake pornographic material featuring well-known Danes I could find using Google’s search engine.
+I quickly found manipulated videos and images of 51 famous Danish women, but no men. From royalty and athletes to TV hosts and singers, and the largest group comprised members of parliament.
+In my first article, experts and
+three female politicians
+, who were among the victims, criticized the fact that this
+unauthorized
+material was freely accessible online.
+Conservative politician Mai Mercado was unaware that her face was on a website with fake pornographic images. She stated that this type of content could deter young women from considering a political career.
+According to Mai Mercado, being subjected to this form of image manipulation is »on the same level as a verbal threat of being killed«.
+The three members of parliament reported it to the police. According to their attorney, Miriam Michaelsen, the case is still under investigation.
+The material involving the three Danish politicians was found on two smaller sites, but my research
+revealed
+that the largest website was MrDeepFakes. According to the data platform Semrush, 18 million people visited the site in March of this year. It has 650,000 registered users and over 70,000 videos that have collectively been viewed more than 2.2 billion times, according to an analysis by Bellingcat.
+I was surprised by how professional the platform appeared. Like a user-friendly streaming service, I could search for the names of celebrities. Here, I found a handful of Danish women. I had to confirm that I was over 18, and the site even had a set of ’ethical guidelines,’ which stated that only content featuring celebrities was allowed.
+The logic is that they brought it upon themselves because they are famous
+.
+MrDeepFakes also had a forum where users could help each other create material. This forum has been a hub for the development of deepfake technology worldwide in recent years. I was also taken aback by the cynical, misogynistic, and malicious language that prevailed.
+One user requested and wanted material featuring a 20-year-old actress who had gone from appearing innocent to behaving like »a whore«:
+»Just pure anal for her«.
+Some of the videos I saw were extremely violent. One fake video featured Swedish environmental activist Greta Thunberg manipulated to appear as though she was bound and forced to perform oral sex on her assailant while he shaved her head with an
+electric razor
+.
+Other videos had violent titles such as ’Scarlett Johansson gets strangled to death by creepy stalker’ and ’Rape me Merry Christmas’ featuring singer Taylor Swift.
+Essentially all the manipulated faces belonged to women.
+When I searched for top male politicians like Trump, Biden, Obama, and Clinton, I found no results featuring them, but instead their wives, daughters, and even – in Biden’s case – a granddaughter.
+But why are users interested in viewing this type of material when there is already plenty of pornography available online, I wondered.
+According to postdoc Penille Rasmussen from Aarhus University, who has researched male communities, there is a specific aspect of assault and power associated with watching something created without consent.
+»It aligns with traditional gender norms, where the focus is on gaining power over women. Being able to control her or do something against her will«, she told me
+at the time
+.
+But why aren’t authorities shutting down a site like MrDeepFakes when women like Denmark’s Queen Mary or politicians like Angela Merkel clearly haven’t consented to appear in porn videos?
+One of the problems is that the identities of those who are behind the platforms or produce the content are unknown.
+After the summer, I decided to investigate who the perpetrators might be.
+On MrDeepFakes, a user with a Danish first name and last name had uploaded 17 videos, including one featuring a Danish actress. Through social media, I tracked down a 21-year-old Dane with that exact name but couldn’t document that it was the same person.
+I contacted the media outlet TjekDet, which has journalistic experience in investigating open sources such as social media, registers, data leaks, and the like.
+One of TjekDet’s specialists, Zakaria Hameed, and journalist Daniel Greneaa, found digital footprints
+indicating that the 21-year-old Dane was responsible.
+When we called him, he denied it.
+»Fuck no«, he said over the phone before hanging up.
+Before publishing the article about the 21-year-old and MrDeepFakes, I asked Zakaria Hameed to check my own digital footprints to better protect myself against potential digital attacks.
+I had already tried to clean up my digital life in connection with
+another article
+– deleting profiles, pictures, videos, and comments on social media – but after 20 minutes, Zakaria Hameed called me.
+He had found my password. A numerical sequence I used in numerous places, including my private email and work email.
+He managed to do this because my email and password – like many others’ – apparently lie in publicly accessible registers on sites where one can search for information stemming from data leaks.
+Although it is illegal to hack into people’s private information, the reality is that many of our details are already publicly available through such databases.
+It gave me the creeps to know how vulnerable we are, but it was also valuable knowledge. I changed my password on more than 20 profiles across various apps, emails, and services.
+In September, we published
+the article
+.
+Three months later, while I was on Christmas vacation, I received a text message from Zakaria Hameed of TjekDet: »Can you give me a call?«.
+He explained that he had identified a user named ’dpfks’ on MrDeepFakes, who appeared as an administrator for the site. Zakaria Hameed had just gained access to a new database of data leaks and had run the alias ’dpfks’ through it. This had provided him with a range of information pointing toward a person in Canada.
+In February, we met at TjekDet’s office in Amager, where Zakaria Hameed showed a digital map that illustrated, like a spider web, how a series of email addresses, passwords, and usernames were interconnected.
+He pointed to ’dpfks,’ one of the very first usernames on the site, comprising the five consonants in DeepFakes. Incidentally, this was the original domain name of the website, dpfks.com, when it was created in 2018.
+Furthermore, the user carried both a ’staff’ and ’administrator’ badge and was responsible for posts detailing the site’s rules.
+’dpfks’ had also produced more than 150 fake videos themselves. For instance, one of a popular Canadian Twitch streamer. Additionally, ’dpfks’ had uploaded a folder with over 6,000 photographs of the face of American politician Alexandria Ocasio-Cortez. Moreover, ’dpfks’ had assisted numerous users in creating videos.
+Clearly, ’dpfks’ played a central role.
+Just as Zakaria Hameed had searched for my email, he had searched for the alias ’dpfks’ and found a Gmail account with those same five consonants. And the Gmail account’s password
+–
+a unique code consisting of four numbers and seven uppercase and lowercase letters.
+When he looked up the password, a private Hotmail address appeared, which had used the same password.
+The Hotmail belonged to a pharmacist named David Do. It seemed unlikely that such a unique password would be used by two different people.
+Additionally, he discovered that both the ’dpfks’ Gmail and the private Hotmail belonging to David Do had been used to create profiles elsewhere with the name AznRico.
+But even though both the alias AznRico
+–
+and the unique password
+–
+could be linked to the ’dpfks’ Gmail and Hotmail, there was still a missing link between the ’dpfks’ Gmail and MrDeepFakes.
+This
+David Do could have chosen the letter combination ’dpfks’ by coincidence.
+To clarify whether David Do is indeed connected to MrDeepFakes, we decided to reach out to the investigative media outlet Bellingcat, based in Amsterdam. They specialize in journalistic exposures using open sources.
+Bellingcat is one of the most respected media outlets in its field and has played a role in exposing that a special unit of the Russian intelligence agency FSB was behind the attempted assassination of politician Alexei Navalny with the nerve agent Novichok.
+In January, Bellingcat published
+an article about tech companies’ connections to MrDeepFakes
+.
+Bellingcat assembled a team to investigate the ’dpfks’ Gmail after receiving Zakaria Hameed’s web of information.
+Just a few days later, they found a link to MrDeepFakes.
+When one sent an email via ’contact us’ on MrDeepFakes back in 2019 and 2020, it ended up in the ’dpfks’ Gmail account. Bellingcat discovered this through the website’s old source codes via ’web.archive.org,’ which displays archived versions of the internet.
+In a shared online document, new findings and information were compiled. Quickly, Bellingcat and TjekDet’s research filled more than 30 pages.
+Collectively, the ’dpfks’ Gmail could be linked to usernames, passwords, and email accounts that overlapped with David Do’s personal and professional information over more than a decade. For instance, the ’dpfks’ Gmail could be connected to IP addresses traceable to specific locations in Canada where David Do had lived, worked, and studied at the given time.
+Simultaneously, the research painted a portrait of David Do based on information from social media: a respectable and seemingly ordinary 36-year-old man with a girlfriend and a family with roots in Vietnam. Since 2015, he has held a well-paid job at a hospital, helping patients take their medication correctly.
+There are pictures of David Do on his friends’, family’s, and workplace’s social media, but
+–
+unlike many others
+–
+he has not posted photographs of his face himself, except for one on his Airbnb profile. It was taken at a restaurant where he smiles in a light blue shirt. An Airbnb host described that he and his girlfriend left her apartment in good condition back in 2014 and gave the couple ten stars. It also shows he has traveled to Copenhagen.
+However, another profile of him emerges when he leaves traces online under one of his many aliases.
+AznRico’s posts revolve around tech, marketing, and porn. These posts can be localized to Canada through IP addresses.
+From early posts, it is clear that David Do has struggled to manage the site’s growing popularity and increase in ad revenue.
+On a forum, AznRico wrote in 2018 that he had a porn site with about 15-20,000 visitors a month and needed help identifying »bottlenecks and reasons for slowness for tube site«
+.
+Other comments from AznRico discuss setting up shell companies, purchasing servers, and fake credit cards. The alias ’dj01039,’ which can be linked to David Do through open sources, wrote on OffshoreCorpTalk that he was looking for a »business solution for my adult tube site«.
+Back in 2020, two years after the site’s creation, ’dj01039’ wrote on OffshoreCorpTalk that he earned up to $7,000 a month from his site.
+Since then, MrDeepFakes has grown significantly in traffic. In March 2025, the site received more than 18 million visits according to the data platform Semrush. Both advertisements and premium users are sources of revenue, and the site also takes a cut of the amount paid when one user pays another to create videos.
+However, the exact profit MrDeepFakes generates today is unknown. It is far from certain that money has been or is the driving force.
+In a now-deleted post from ’dpfks’ on MrDeepFakes’ own forum from 2018, it is evident that the deepfake porn community started as a group formed by a shared interest. In the post, ’dpfks’ promised to keep the site running so that the community wouldn’t have to find a new platform again after Reddit banned them:
+»
+All the important players will stick together. I promise to keep this community running as long as I can, so that the deepfake community does not have to scramble and relocate again
+«.
+In the BBC documentary ’
+Deepfake Porn: Could You Be Next?
+’ from 2023, the profile behind MrDeepFakes is depicted as an ordinary man likely leading a double life. This is true for most people who create and consume such pornography, researcher Penille Rasmussen told me:
+»They have the ability to switch from being perpetrators and abusers online to interacting normally with women in everyday life. They probably have sisters, friends, and colleagues. And then they have this thing, where they try to prove their masculinity and secure social status in digital communities by violating women«,
+she said
+.
+Since the community has grown but continues to hide behind obscure usernames, several media outlets have tried to identify those behind the central platform.
+In December, the German newspaper
+Der Spiegel
+reported that a 36-year-old man they referred to as David D, who works at a Canadian hospital, was behind it. However, the newspaper chose to obscure his identity by not mentioning his full name.
+Der Spiegel had apparently identified the same person
+. He had not responded to the newspaper’s numerous emails and inquiries, and the article had no consequences for MrDeepFakes.
+At all three media outlets
+–
+Politiken, TjekDet, and Bellingcat – we agreed that David Do should not just be contacted via email but approached personally if we were to mention his name. This was to ensure he had a genuine opportunity to respond.
+Bellingcat therefore reached out to Canada’s oldest TV station, CBC. CBC’s investigative team and the award-winning journalist Eric Szeto, known for his investegations and exposures on organized crime, health fraud, and international human rights, were brought onto the project.
+CBC’s team of journalists and lawyers not only reviewed the material but added further details. For instance, they found David Do’s current address, which turned out to be only a short drive from his workplace. His residence is blurred on Google Street View
+–
+a feature one must actively request if they wish to remain anonymous.
+At the end of March, during a joint online meeting, we decided there was sufficient documentation for a confrontation.
+According to CBC’s journalistic ethics, journalists cannot simply show up at a person’s doorstep with a camera seeking an interview. To do this, the editorial team must have sent at least two interview requests in advance and ensured that all allegations have been personally delivered in the form of a physical letter. This guarantees that the individual has had a genuine opportunity to defend themselves and possibly refute the criticism.
+On Friday, March 28, Eric Szeto sent the first email to David Do. And the following week, another one. Through a
+mail tracker
+, CBC could see that he opened both emails multiple times. Without responding.
+And on Friday, April 11, CBC ensured he received the physical letter, as evidenced by the audio recording from the hospital.
+But when Eric Szeto and the TV crew were ready in a car in David Do’s neighborhood early in the morning after the Easter break, Tuesday, April 22 at 5:45 AM, there was no activity. They waited for several hours. They also called his workplace but were told he was not there.
+The following Sunday evening, April 27, CBC returned. But again, there was no sign of David Do. The next day, his workplace informed them that he would be away for at least the rest of the week.
+On the other side of the Atlantic, Bellingcat’s team discovered activity on David Do’s girlfriend’s Airbnb profile. She had left a positive review for a place in Lisbon:
+»Fantastic stay with the whole family«.
+A week later, on Sunday, May 4, something unexpected happened.
+The MrDeepFakes website shut down.
+Instead of porn videos, a »Shutdown Notice« appeared in white text on a black screen.
+»A critical service provider has permanently terminated service. Loss of data has made it impossible to continue operations. We will not relaunch. Any website claiming otherwise is fake. This domain will eventually expire, and we are not responsible for future use. This notice will be removed in about a week«.
+That same evening, CBC returned and noted that David Do appeared to be back from his trip.
+»
+We’re heading back early tomorrow morning
+«, CBC wrote to Politiken and the other media outlets in an email.
+In the video recording, CBC journalist Eric Szeto approaches a dark gray Tesla. It is Monday, May 5. Inside the car sits David Do. The passenger seat window is rolled down.
+»David, can I talk to you? I’m a reporter from CBC«, he says through the open window.
+»I don’t want to be recorded«, David Do replies.
+»
+We have been trying to get in touch with you for several weeks regarding MrDeepFakes and your involvement with the site. We just want to talk to you about why you are doing it
+«, says Eric Szeto.
+»I have to go«, David Do responds.
+»
+I understand that you want to leave. But we want answers. We’ve been trying to reach you for weeks,
+«
+says Eric Szeto and continues.
+»
+All these people we’ve spoken to say they feel exploited and humiliated.
+«
+Then the Tesla reverses, and David Do drives away.
+In many countries, including Denmark, it is a criminal offense to share deepfake porn without consent.
+But many victims have not had the opportunity to get images and videos removed, explains lawyer Miriam Michaelsen.
+Therefore, she believes that Sunday’s shutdown of MrDeepFakes makes a real difference for the victims, as it removes specific material.
+»When you report this kind of thing in the traditional legal system, very often, unfortunately, not much happens«, says Miriam Michaelsen, who besides being the attorney for the three Danish politicians is also a frequently used expert in the media on cases concerning digital harassment.
+In David Do’s home country, Canada, deepfake porn is not even illegal.
+Nevertheless, Miriam Michaelsen believes there could still be a legal responsibility:
+»Digital crime knows no borders. Someone in Canada can violate Danish citizens, and when the harm occurs in Denmark, there should be the possibility to bring a criminal case here if the victims report it or if Danish police choose to intervene«, she says.
+She believes that Danish authorities don’t focus enough on the platform owners:
+»There is a chain of responsibility here. If you own a platform that is used for illegal sharing
+–
+and you do not react when made aware of the sharing of illegal and offensive material
+–
+then I believe you are complicit under Danish criminal law«, she says.
+»And the person administering a platform like MrDeepFakes, where the name itself implies it’s about fake material, is clearly aware of what it’s being used for«.
+Although MrDeepFakes has now shut down, Michaelsen warns that the problem is far from solved:
+»The major challenge is that a new platform can emerge, or users might simply move elsewhere. We need structural solutions, an update of the laws in various countries, real international collaboration on these types of cases, and that it is prioritized by authorities in different countries«.
+It is unknown how many deepfake porn videos exist worldwide, but
+an investigation
+from 2023 estimates that 99 percent of the victims are women.
+Politiken would like to thank the media outlets TjekDet, Bellingcat, and Canadian Broadcasting Corporation (CBC) for their collaboration, research, and contributions to this article. Special thanks to CBC for providing video footage of the confrontation.
+Read the coverage by other media outlets here (to be updated):
+TjekDet:
+Afsløring: Her er manden bag verdens største deepfake porno-hjemmeside
+Sådan fandt vi manden bag MrDeepFakes
+Bellingcat:
+Unmasking MrDeepFakes: Canadian Pharmacist Linked to World’s Most Notorious Deepfake Porn Site
+CBC:
+Canadian pharmacist’s double life: Key person behind world’s most notorious deepfake porn site
+Text:
+Ida Herskind
+Illustrations:
+Rasmus Vendrup
+Text Editing and Proofreading:
+Nadine Beth Nielsen og Sidsel From
+Chief of Editorial Innovation:
+Johannes Skov Andersen
+Audio Producer and Digital Coordination
+:
+Anders Godthjælp Nielsen
+Editors:
+Jens Lenler og Anders Godthjælp Nielsen
+-----
+Thank you for reading. Stay tuned. We will update in case of new developments.
+And by the way: The logo of the now – apparently – defunct site looked like this:
+Som abonnent kan du ubegrænset dele artikler med dine venner og familie. Læs mere om fordelene ved et abonnement
+her
+.

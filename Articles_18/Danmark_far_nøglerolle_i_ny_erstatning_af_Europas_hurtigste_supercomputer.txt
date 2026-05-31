@@ -1,0 +1,18 @@
+Title: Danmark_far_nøglerolle_i_ny_erstatning_af_Europas_hurtigste_supercomputer
+Date: 2024-12-12
+Article Type: Danmark
+Author: Danmark skal i samarbejde med andre lande være med til at udvikle en ny supercomputer, der ventes klar i 2027.
+
+Danmark skal være med til udvikle en ny supercomputer og etablere en såkaldt fabrik for kunstig intelligens, der forener regnekraft, data og kompetencer.
+Det skriver Danish e-infrastructure Consortium, Deic, der udvikler og koordinerer samarbejde om digital forskningsinfrastruktur mellem universiteter.
+Den nye supercomputer skal i 2027 erstatte supercomputeren Lumi, der er Europas hurtigste supercomputer og blandt de fem hurtigste i verden.
+Danmarks rolle i udviklingen og driften af den nye supercomputer vækker begejstring hos uddannelses- og forskningsminister Christina Egelund (M).
+»Det siger noget om, at vi har en forskningskultur, som er helt rustet til at tage imod og gøre brug af ny teknologi«, siger hun i en kommentar.
+Supercomputeren etableres gennem samarbejde i EuroHPC, der har udvalgt værtslokationerne for den næste generation af EuroHPC-supercomputere.
+Her er Finland valgt som værtslokation og skal i samarbejde med Danmark, Tjekkiet, Estland, Norge og Polen drive og udvikle computeren. Den bliver også derfor placeret i Kajaani i Finland.
+EuroHPC er et europæisk initiativ mellem EU, europæiske lande og private partnere med det formål at udvikle et supercomputerøkosystem i Europa.
+Danske forskere har gennem det danske Deic adgang til en række supercomputere gennem EuroHPC-samarbejdet, herunder supercomputeren Lumi og den nye erstatning, der ventes klar i 2027.
+»Ved at samle ressourcer og værktøjer, som er nødvendige for at arbejde med AI, sikrer man, at teknologien bliver tilgængelig for langt flere forskere og andre aktører, og at den udvikles i overensstemmelse med EU-lovgivningen. Det skaber et stærkt fundament for fremtidens forskning og innovation«, siger direktør i Diec Gitte Kudsk i en kommentar.
+Sideløbende med etableringen af supercomputeren vil landene samarbejde om at opbygge en fabrik for kunstig intelligens - nærmere bestemt en AI Factory.
+Det er et økosystem, der er designet til at understøtte udvikling og anvendelse af kunstig intelligens ved at tilbyde forskere og udviklere en samlet adgang til regnekraft, data og kompetencer.
+ritzau

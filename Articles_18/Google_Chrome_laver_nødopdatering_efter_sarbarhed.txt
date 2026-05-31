@@ -1,0 +1,17 @@
+Title: Google_Chrome_laver_nødopdatering_efter_sarbarhed
+Date: 2025-06-03
+Article Type: Tech
+Author: En sårbarhed i Googles browser er blevet opdaget af selskabet. Derfor er der sendt en opdatering ud.
+
+Google har sendt en nødopdatering ud til browseren Google Chrome, efter at der er opdaget en sårbarhed i browseren, som er blevet brugt i angreb.
+Det skriver det amerikanske magasin Forbes.
+Ifølge magasinet er det Google selv, som har opdaget fejlen, der kan påvirke samtlige tre milliarder brugere af browseren.
+Over for B.T. understreger Peter Kruse, der arbejder med it-sikkerhed, vigtigheden af at opdatere sin browser.
+I Danmark vil browseren for langt de flestes vedkommende opdatere sig selv.
+»Det eneste, man skal gøre, er derfor ikke at afvise en opdatering«, siger han til B.T.
+Ifølge mediet Cybernews har Google markeret sårbarheden som ’høj alvor’ eller et 8,8 ud af 10.
+Cybernews skriver, at den type fejl, der er tale om, betyder, at man vil kunne tilføje kode direkte til browserens hukommelse, hvilket ikke er hensigten.
+Google skriver i et blogindlæg om opdateringen, at selskabet er bekendt med sårbarheden, men at man ikke vil oplyse detaljer om den, indtil flertallet af brugere er opdateret.
+Google Chrome er en gratis internetbrowser, som blev udgivet i 2008.
+Ifølge statistiksiden Statcounter har browseren aktuelt en markedsandel på omkring 66 procent på verdensplan.
+ritzau

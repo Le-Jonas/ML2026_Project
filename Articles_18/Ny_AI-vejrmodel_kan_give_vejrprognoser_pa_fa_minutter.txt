@@ -1,0 +1,23 @@
+Title: Ny_AI-vejrmodel_kan_give_vejrprognoser_pa_fa_minutter
+Date: 2025-03-17
+Article Type: Danmark
+Author: En ny vejrmodel fra DMI er udviklet ved hjælp af supercomputeren Gefion, der bygger på kunstig intelligens.
+
+Danmarks Meteorologiske Institut (DMI) har udviklet en ny vejrmodel med kunstig intelligens, som kan lave vejrudsigter på to minutter.
+Det skriver DR.
+Modellen kan bruges til at lave prognoser for temperaturer og vind for de næste timer og dage, siger Leif Denby, der er seniorforsker hos DMI, til DR.
+»Det er en kæmpe kontrast til de traditionelle vejrmodeller, hvor det måske tager to en halv time, før vejrudsigten er klar. Og så er den jo allerede blevet for gammel«, siger han til mediet.
+Den nye vejrmodel er udviklet ved hjælp af supercomputeren Gefion, der anses for at være en af de kraftigste AI-supercomputere i verden.
+På få måneder er modellen blevet trænet på enorme mængder vejrdata, som DMI har indsamlet gennem 33 år.
+AI-vejrmodellen kræver en brøkdel af computerkraft til at udvikle vejrprognoser sammenlignet med den traditionelle model, skriver DMI i en pressemeddelelse.
+Samtidig nærmer den nye vejrmodel sig den eksisterende model, når det kommer til at forudsige vind og temperaturer.
+Vejrmodellen er et samarbejde mellem Danish Center for AI Innovation (DCAI) og DMI, og projektet har vist, at DMI kan bruge kunstig intelligens hurtigt og effektivt, siger Kasper Hintz, der er vejrforsker i DMI.
+»Vi har flere AI-modeller i vores pipeline til forudsigelse af nedbør og skydække, der vil kunne drage direkte nytte af vores erfaringer, som er høstet på få måneder«, siger han i meddelelsen.
+Fremtidige AI-vejrmodeller kan ifølge DMI få stor betydning for samfundet.
+Med hurtigere vejrmodeller kan man blandt andet opbygge robusthed mod farligt vejr.
+På den måde kan beredskaber og andre myndigheder rykke hurtigere ud. Det kan redde vigtig infrastruktur og i sidste ende menneskeliv, når der opstår ekstreme vejrhændelser, skriver DMI i pressemeddelelsen.
+DMI og DCAI har indgået en treårig aftale, som giver DMI mulighed for at udvikle udvidede vejrmodeller, hvor nedbør og usikkerhedsvurdering også indgår.
+ritzau
+fortsæt med at læse
+AI-botten elsker AI-novellen. Men hvad synes den rigtige anmelder?
+Folketinget forbyder medarbejdere og politikere at bruge kinesisk AI
