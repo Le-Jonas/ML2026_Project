@@ -1,0 +1,24 @@
+Title: Her_er_EU's_forslag_om_coronapas_Alle_europæere_sk
+Date: 2021-03-17
+Article Type: Rejser
+Author: EU har netop fremlagt et forslag om nationale coronapas, som skal give samtlige 450 millioner borgere i EU mulighed for at kunne rejse i 27 lande inden sommerferien.
+
+EU-Kommissionen har onsdag middag fremlagt et udspil til, hvordan et fælles coronapas kan se ud. Udspillet skal diskuteres på næste uges møde mellem EUs ledere.
+Emnet har været diskuteret de sidste par uger og har vist sig at være svær at nå til enighed omkring. Rejseindustrien og de sydlige lande i Europa, som er afhængig af turisme, som Grækenland og Spanien har presset på for at få et vaccinepas hurtigst muligt, så rejsende kunne undgå karantæne og test. Men flere lande, heriblandt Frankrig, har argumenteret for, at det er for tidligt at komme ud med noget nu, ligesom det vil være diskriminerende at introducere et sådan, når størstedelen af Europas befolkning endnu ikke er vaccineret.
+For at sikre opbakning fra alle medlemslande, har EU-kommission derfor nu foreslået såkaldte ’Digital Green Certificates’, som skal være gratis, skal laves af de enkelte EU lande hver især, og som både skal vise, om man er vaccineret, har været smittet og er kommet sig (og dermed har antistoffer i en periode), eller om man er testet negativ.
+Kommissionen vil udarbejde et it-system, som hurtigt skal kunne verificere coronapas på tværs af landene.
+Her er Kommissionens oplæg til indhold og funktion af coronapas:
+* Det er et bevis på, at en person enten er vaccineret, har modtaget negative testsvar eller har overstået coronasygdom.
+* Det indeholder information om navn, fødselsdato, udstedelsesdato og relevant information om coronavirus som vaccination eller tidligere smitte.
+* Det er digitalt med en QR-code. Men det kan også udstedes i papirform.
+* Det skal indeholde informationer på EU-borgerens eget sprog og på engelsk.
+* Det skal være gyldigt i alle EU-lande, så borgere fra andre EU-lande eller tredjelande i besiddelse af certifikatet kan nyde samme undtagelse fra eventuelle restriktioner som landets egne borgere.
+* Det udstedes af nationale myndigheder som testcentre, hospitaler og lægehuse. Disse vil have en it-nøgle, som sikrer, at data kan verificeres.
+* I udgangspunktet gælder certifikatet for de vacciner, som har modtaget en betinget markedsgodkendelse i EU. Men medlemslandene kan vælge også at acceptere andre vacciner.
+* EU-Kommissionen udarbejder et it-system, så informationer på certifikatet hurtigt kan verificeres i alle EU-lande.
+ritzau/tik
+fortsæt med at læse
+Klar til maj: Udviklingen af et dansk coronapas er sat i gang
+Danskerne er usikre på sommerferierejsen til udlandet
+Godt nyt til rejsehungrende danskere:
+Fra 5. april vil verden ikke længere automatisk være rød
