@@ -1,0 +1,9 @@
+Title: Kopierede_200_dankort_og_pinkoder
+Date: 2003-05-06
+Article Type: Danmark
+Author: En ansat hos postvæsnet har tilstået at have kopieret en lang række dankort og pinkoder, hvorefter han har fremstillet kopier og hævet omkring 800.000 kroner fra forskellige folks konti. 
+Det oplyser kriminalinspektør Niels Jørgen Abildgaard fra Københavns Politis bedrageriafdeling. Sigtet og løsladt
+Manden er sigtet for databedrageri og har siddet varetægtsfængslet i sagen i halvanden måned, men er nu løsladt. 
+Politiet fik efter en mistanke et afgørende gennembrud i efterforskningen, da de afslørede mandens værksted, hvor han med skanner, computer, printer og andre redskaber fik kopieret dankortene. 
+Databedrageriet skete ved, at manden skaffede sig adgang til de dankort, der var undervejs med posten, og aflæste deres magnetstriber. Disse data blev så benyttet til at lave kopikortene. Samtidig lykkedes det ham at få opsnappet de tilsvarende pinkoder, som efterfølgende blev sendt med posten.
+

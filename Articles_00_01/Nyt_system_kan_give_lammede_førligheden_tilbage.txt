@@ -1,0 +1,9 @@
+Title: Nyt_system_kan_give_lammede_førligheden_tilbage
+Date: 2002-09-02
+Article Type: Internationalt
+Author: En gruppe japanske forskere har udviklet et nyt system, som ved hjælp af computersensorer kan opfange signaler fra ellers ødelagte nerver. Selvom systemet endnu ikke er helt færdigudviklet, anslår forskerne, at det inden for fem år vil kunne give delvist lammede mennesker bevægelsen igen. 
+Det nye system sender ligesom tidligere systemer signaler fra de fungerende muskler til de beskadigede. 
+Signalerne starter en række impulser i indopererede elektroder i den lammede kropsdel og følger ganske enkelt impulserne fra den tilsvarende raske kropsdel, forklarer forskerne. 
+Systemet kan således kun bruges af patienter med lammelser i den ene halvdel af kroppen. 
+»I modsætning til tidligere systemer er dette ikke afhængigt af, at at man trykker på en knap eller tænder et system. Desuden forhindrer det spasmer og kramper i musklerne«, forklarer forskerne fra det nordjapanske universitet Hokkaido til det engelske magasin New Scientist.
+

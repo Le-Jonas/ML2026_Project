@@ -1,0 +1,9 @@
+Title: 1.000_kunder_kan_være_berørt_Telenor_granskes_for
+Date: 2020-01-29
+Article Type: Danmark
+Author: Erhvervsstyrelsen åbner nu en ny sag mod Telenor. Hverken de 1.000 berørte borgere eller Folketinget er blevet orienteret om graverende telefejl i 2019.
+
+Jakob Sorgenfri Kjær
+Journalist
+Der er udarbejdet over 200 siders redegørelse og afgivet over 100 ministersvar til Folketinget om teledataskandalen. Og justitsminister Nick Hækkerup (S) har på et samråd i januar forsikret, at hver en sten er blevet vendt af myndighederne, og at fokus nu er på at genoprette tilliden mellem borgerne og politiet. Derfor sprang det som en bombe, da Jyllands-Posten søndag fortalte, at et teleselskab igennem 2019 uretmæssigt har fremsendt indholdet af uskyldige borgeres sms-beskeder og såkaldte modpartsnumre til Rigspolitiet.
+Politiet havde alene fået en retskendelse om at modtage såkaldt signaleringsdata – data om telefoner, som har været tændt uden at være aktivt brugt i et geografisk område. Men teleselskabet Telenor har reelt udleveret både sms’er med indhold samt data om, hvem de pågældende har kommunikeret med. Det er i strid med retsplejeloven og et brud på de berørte personers datasikkerhed og ret til privatliv.

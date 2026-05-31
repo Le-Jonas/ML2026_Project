@@ -1,0 +1,10 @@
+Title: 18-arig_mistænkt_for_at_sta_bag_løbsk_computerorm
+Date: 2004-05-08
+Article Type: Internationalt
+Author: En tysk computerprogrammør, mistænkt for at have skabt Sasser-ormen, der smittede millioner af pc'ere over hele verden i forrige uge, er blevet anholdt i Rotenburg i det nordlige Tyskland, oplyser en talsmand for tysk politi. 
+Programmøren, en 18-årig mand fra delstaten Niedersachsen, blev pågrebet fredag, oplyser talsmanden, der ikke ønskede at give yderligere oplysninger. 
+Også FBI har været på jagt efter bagmanden til ormen, der har skabt problemer for for computerejere verden over. 
+Blandt andet blev Herlev Sygehus skannere ramt, hvilket betød at et dusin patienter, der skulle CT-skannes måtte sendes hjem. Finder selv vej til computeren
+Sasser-ormen slog til 1. maj, og i løbet af mindre end en uge menes den at være spredt til flere end 18 millioner pc'ere over hele kloden. 
+Og computer-ormen har været særdeles snedig. Den kommer nemlig ikke ind i computeren som en traditionel virus, som en vedhæftet fil i en mail. Den finder vej ind i computeren, blot den er tilsluttet internettet.
+

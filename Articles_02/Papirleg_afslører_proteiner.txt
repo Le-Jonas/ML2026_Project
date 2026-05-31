@@ -1,0 +1,68 @@
+Title: Papirleg_afslører_proteiner
+Date: 2005-02-27
+Article Type: Viden og tech
+Author: Margaret Wertheim
+
+New York Times
+»Nogle mennesker ved slet ikke, det her findes«, siger Erik Demaine, mens han vender en minutiøst foldet papirfigur i sin hånd. 
+Det er en indviklet plisseret form, der elegant er krumt bøjet som et segl. Og det ser så ægte og legende let ud, men figuren er yderst vanskelig at lave. 
+Demaine, der er universitetsadjunkt i computervidenskab på det ansete universitet Massachusett's Institute for Technology (MIT), er en førende teoretiker inden for origami-matematik - videnskabelige studier af, hvordan et stykke papir kan foldes.
+Skelsættende forskning
+Demaine mener, at den form, han holder i hånden, er en hyperbolsk parabeloide, en for matematikere velkendt form, eller i hvert fald en form, der minder meget om den. Men han vil kunne bevise sin formodning. 
+»Det er ikke let«, siger han. 
+Demaine er ikke en mand, der sådan uden videre lader sig slå ud af et stykke papir. 
+I løbet af de sidste år har han offentliggjort en række skelsættende resultater om teorien bag de foldede former, herunder løsninger på det gamle problem omkring 'ét eneste snit' og det om 'tommestokken'. I disse dage bruger han den viden, han har fra at endevende arkitektoniske problemstillinger, robotkonstruktioner og molekylær biologi.
+Origami
+Origami (den cirka 1.000 år gamle japanske foldekunst i papir,
+ori
+betyder folde,
+gami
+betyder papir, red.) kan synes som en usædvanlig vej til et prestigefyldt arbejde på universitetet. Men Demaine trodser generelt de akademiske normer. 
+Da han var barn, gik han ikke i skole, men rejste USA rundt med sin far, der var guldsmed og glaskunstner, og en til to gange om året slog de sig ned et nyt sted. Faderen, der var enlig, underviste selv sønnen. 
+Som 12-årig, efter at Erik var blevet udpræget interesseret først i computerspil, så i computerprogrammering og endelig i matematik, overtalte han ledelsen på Dalhousie Universitetet i Halifax, Nova Scotia, til at lade ham tage timer i matematik og computervidenskab. Hans far deltog også - som tilhører. Som 20-årig fik han tildelt sin ph.d.-grad og blev den yngste underviser nogensinde på MIT. I 2003 modtog han et MacArthur 'geni'-stipendium.
+100 videnskabelige artikler
+I dag, hvor han er 23 år gammel, har han udgivet mere end 100 videnskabelige artikler inden for områder så forskellige som analytisk geometri ved hjælp af computer, kombinatorisk spilteori, datastrukturer og grafteori. Foruden sin interesse i at folde papir er Demaine også ekspert i algoritmer. 
+Han er tillige en af computerverdenens hovedsamarbejdspartnere og medforfatter til 140 bøger på området. 
+»Han elsker at arbejde med andre«, siger Joseph O'Rourke, der som matematiker og computervidenskabsmand på Smith College har samarbejdet med Demaine, siden han var 16 år gammel.
+Idérig
+»Han har en meget bred forståelse inden for en hel række områder, og han indskyder ofte nogle idéer, der først synes helt hen i vejret, men som siden hen viser sig at berige det arbejde, man er i gang med«. 
+Men trods Demaines gode hoved afslører den plisserede form foran ham ikke uden videre sin hemmelighed. 
+Det indviklede spørgsmål er, hvorvidt den koncertinaagtige (koncertina er en sekskantet harmonika, red.) struktur direkte kan udledes af matematiske transformationer af et fladt stykke papir, eller om papirarket nogle steder må udstrækkes, for at det kan få den komplekse form. 
+Som Demaine forklarer, ville en udstrækning forvride den oprindelige plane flade og derved ødelægge den underliggende geometri. Hvis det sker, kan foldningen slet ikke lade sig gøre matematisk set. 
+»Men hvis det matematisk set er umuligt, så er det noget andet, der foregår, og det ville være rart at vide, hvad det er«, siger han og sætter papirmodellen fra sig på skrivebordet.
+Modeller og konstuktioner
+Figuren er kun én model ud af en hel kategori af beslægtede strukturer. Den hyperbolske parabeloide har fire sider, men i teorien kan der laves variationer med ethvert antal sider. Hvor kompleks formen kan blive, afhænger kun af tålmodigheden hos den, der folder papiret. 
+Demaines kontor flyder med disse modeller og et utal af andre konstruktioner i papir, plastik, gummi og små træpinde. Rummet ligner mere en geometriens kravlegård end en universitetsundervisers kontor. 
+I vindueskarmen står en samling glasvaser og skulpturer, som Demaine og faderen, der nu er forsker i sønnens laboratorium, har lavet. 
+Foruden den matematiske værdi ved de hyperbolske former, er Domaine interesseret i formerne som potentielle arkitektoniske strukturer. På MIT har han også undervist på arkitektskolen, og han mener, at det på en computer er muligt at fremstille et skelet over formerne, der så kan beklædes af en bøjelig overflade. 
+»Hvis vi går ud fra, at kanterne er meget lige, så vil vi kunne printe en tredimensional udgave af skelettet ud og derefter bygge det i virkeligheden«, siger han.
+Elsker 'idéen om evig sandhed'
+Demaine er, med sine egne ord, først og fremmest teoretiker. 
+»Jeg elsker idéen om evig sandhed«, bemærker han over en sushifrokost i Massachusetts Stata Center, den overdådige nye Frank Gehry-bygning, hvor Demaine har sit kontor. 
+Men han har også en indgående interesse for forholdet mellem uensartede discipliner, navnlig forholdet mellem videnskab og kunst. Her har faderen haft en stor betydning. 
+Selv om Martin Demaine var ved at uddanne sig til glaskunstner, da sønnen blev fascineret af computere og matematik, læste han gladelig bøger med sønnen og gik med ham til forelæsninger. 
+»Jeg anser dem ikke for udpræget forskellige aktiviteter«, siger faderen om sit kursskifte fra kunstens til matematikkens teoretiske verden. 
+Foreløbig har far og søn skrevet 43 videnskabelige artikler sammen. Og Martin Demaine, der lige er blevet udnævnt til 'artist in residence' (kunstner, der er udvalgt til at arbejde og undervise på MIT, red.) i den computervidenskabelige afdeling, leder tillige en glaspusterworkshop, hvor sønnen er en af de studerende.
+Shakespeare i et klip
+Blandt de emner, far og søn har forsket i, er problemet omkring 'ét eneste snit', hvis rødder går helt tilbage til det antikke Kina og til magiske trick. Inden Houdini blev udbryderkonge, havde han en karriere som tryllekunstner og lavede et nummer, hvor han foldede et stykke papir, klippede tværs over folderne og vupti skabte en femtakket stjerne. Ren magi. I litteraturen findes der stedvis andre eksempler på 'ét eneste snit'-magien. Spørgsmålet er, hvilke former man kan skabe på denne måde? 
+I 1998 påviste de to Demainer, i et samarbejde med Anna Lubiw fra Waterloo Universitetet i Ontario, at man faktisk kan lave en hvilken som helst form - en stjerne, en svane eller en enhjørning - blot ved at folde et stykke papir og så klippe én eneste gang igennem det. Man kan endda lave mere end én form, stadig kun med ét eneste klip med saksen - ja, 2, 10 eller 50 stjerner, om man vil. Blandt andet er alfabetets bogstaver figurer, der kan skabes på denne måde. 
+Og eftersom Demaines bevis påviser, at man kan fremstille lige så mange former, som man ønsker, er »det i teorien muligt at fremstille Shakespeares samlede værker med et stykke papir, der foldes og klippes med ét eneste klip«, siger Robert Lang, tidligere laserfysiker og professionel folder, som samarbejder med Erik Demaine på et omfattende matematisk origamiprojekt. 
+Forståelsen af, hvad man kan bruge et stykke papir til, er et todimensionalt problem, men Demaine arbejder også med det tilsvarende, men éndimensionale problem, som kendes som kæder. En kæde er en række linjesegmenter, der forbindes til hinanden som i en gammeldags tommestok. Lang bemærker, at selv om det endimensionale problem forekommer enklere, er det faktisk ofte sådan, at det er sværere at forstå og analysere end den todimensionale variant. 
+Størstedelen af Demaines ph.d.-afhandling var et løsningsforslag til det såkaldte tommestokproblem, der stiller spørgsmålet om, hvordan kæderne kan brydes igen. Kort sagt: Forestil Dem en tommestok, der ligger på et bord, udslået og i et kompliceret mønster. Er det altid muligt at slå tommestokken ud, eller er der mønstre, som ikke kan blive åbnet igen, mønstre, som matematikere ville sige, var i en 'fastlåst tilstand'.
+Proteinernes hemmelighed
+Robert Connelly, en matematiker på Cornell, som arbejdede sammen med Demaine på at løse problemet, siger, at problemet faktisk var betydelig mere kompliceret, end det oprindelig lod til. I begyndelsen mente matematikerne, at alle kæder kunne foldes ud igen, men i løbet af 1990'erne fandt de frem til en række meget snedige forbindelser, der så ud til at være umulige at folde ud. 
+»Mange mente, at mange af disse forbindelser var fastlåste«, siger Connelly. Men han og Demaine påviste sammen med Guenter Rote fra Berlins Frie Universitet, at samtlige kæder kan udfoldes igen. Det viste sig, at problemet med at folde og udfolde kæderne kan overføres på et af vor tids største videnskabelige spørgsmål: Hvordan proteiner folder. Et protein består af en kæde af aminosyrer, som ribosomet forbinder med hinanden i en celle. Derved dannes der et nyt protein, der er foldet i en kompliceret form. Det er denne komplicerede form, der overordnet bestemmer den biokemiske funktion i hvert enkelt protein. Molekylære biologer og medicinalvirksomheder er yderst interesserede i at finde frem til, hvordan proteinfoldningen foregår, blandt andet for at kunne fremstille særlige proteiner til brug i medicinsk behandling. 
+Demaine har for nylig arbejdet med spørgsmålet om, hvordan proteinfoldningen foregår. 
+»Vi mener, at proteiner folder ved at bevare aminosyrekæden som 'rygrad'«, siger han. 
+Han og O'Rourke har sammen med Stefan Langerman fra Brussels Frie Universitet i Belgien skabt en computermodel over processen, og de offentliggør snart resultaterne i en artikel i tidsskriftet Algorithmica. O'Rourke siger, at deres computerberegninger viser, at 'rygraden' i proteinet (dvs. aminosyrekæden, red.) ikke kan blive låst fast. 
+Og hvis deres hovedtese holder stik, vil resultatet hjælpe medicinalindustrien til at finde frem til nyttige proteiner meget hurtigere, end tilfældet er i dag. 
+Det ideelle for molekylærbiologerne ville være, at de bliver i stand til at forudse et proteins form ud fra dets kemiske sammensætning. 
+»Hvis formen kan forudsiges, vil alt det hårde arbejde med at syntetisere og krystallisere proteinet være unødvendigt for at vide, hvad proteinet gør«, siger Demaine.
+Håb om at løse gåde
+Demaine håber, at han kan løse gåden med, hvordan proteinerne folder. 
+»Jeg er optimist. Jeg tror, gåden bliver løst i min levetid«, siger han. 
+Selv med denne kolossale udfordring foran sig, står han ikke tilbage for at forsøge at knække andre, men lige så vanskelige problemstillinger. For nylig begyndte han at arbejde med den gren af matematikken, der kaldes, grafteori, om kæder generelt betragtet (teorien for figurer, der består af en række punkter og forbindelser imellem dem, red.). Graf-teori er kendt for at være djævelsk vanskelig, men Demaine er overbevist om, at han nok skal gøre fremskridt, når først han har fordybet sig i materialet. Men indtil da har han sine origami-figurer at få styr på samt sin nye hobby, glaspusteri. 
+I MIT's glaslaboratorium drejede Demaine forsigtigt, til faderens opmuntrende vejledning, et stykke rødglødende glas for enden af et langt pusterør af metal. Han var ved at fremstille en lille vase i en form, som han tidligere havde lært at lave. 
+»Endnu har vi ikke fundet nogen matematiske formler her. Men jeg er sikker på, at de findes«, siger han og blæser i pusterøret. 
+Hvis nogen er i stand til at finde formalismer i en uformelig smeltet dråbe glødende glas, må det så absolut være ham.
+Oversættelse: Frederikke Ingemann Hansen

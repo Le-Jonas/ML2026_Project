@@ -1,0 +1,16 @@
+Title: Microsoft_sætter_priserne_op
+Date: 2001-05-13
+Article Type: Økonomi
+Author: Allan Bauer
+
+Politiken mandag:
+Priserne på de nye computerprogrammer fra Microsoft bliver op til dobbelt så dyre, efter at den amerikanske softwaregigant har besluttet at ændre sit prissystem. Ændringen kommer samtidig med, at Microsoft har to store produktlanceringer på trapperne. En ny version af kontorpakken Office, der er klar 31. maj, og en ny version af styresystemet Windows, som lander 25. oktober. Begge produkter får efternavnet XP. 
+ Det nye prissystem er en slags abonnementsordning kaldet Sofware Assurance (SA) og betyder, at der årligt betales 29 procent af et programs fulde pris mod altid at have den seneste version af programmet. 
+ Ifølge analyseinstituttet Gartner Group er det nye prissystem lavet ene og alene for at øge omsætningen hos Microsoft ved at få virksomheder til at skifte programmer ud til nyere versioner i et hurtigere tempo end tidligere. Gartners beregninger viser, at Microsoftprodukter bliver fra 33 procent til 107 procent dyrere, når den nye prisstruktur træder i kraft 1. oktober. 
+ Microsoft mener nu ikke, at ordningen vil gøre det dyrere for kunderne. 
+ »Jeg vil anslå, at den nye ordning på sigt bliver billigere for omkring 80 procent af vores kunder. Meningen med den nye ordning er at belønne de firmaer, som er loyale kunder, og som ofte opgraderer vores produkter, og som er på forkant med den teknologiske udvikling, siger direktør for Microsoft i Norden, Jens Moberg.
+Tilbageholdende
+Men virksomhederne har netop ikke været meget for at være på forkant med den teknologiske udvikling. Tværtimod tyder det på, at firmaer er mere tilbageholdende med at opgradere til de seneste Microsoftprodukter, Office og Windows 2000. Ifølge et andet analyseinstitut, Guernsey Research, bruger 25 millioner virksomheder i dag Office 2000, mens 40 millioner stadig bruger 97-versionen, og syv millioner stadig er på den seks år gamle Office 95. 
+ Tendensen kan direkte aflæses i Microsofts regnskabstal. Indtjeningen for Office-pakken er således faldet til kun at udgøre 37 procent af indtjeningen i seneste regnskabskvartal mod 46 procent i år 2000. 
+ Microsoft møder desuden kritik for at indføre de nye licensbetingelser med så kort varsel. Ifølge analytiker Alvin Park fra Gartner Group betyder de nye betingelser, at virksomhederne skal vælge mellem enten at opgradere til Office XP inden 1. oktober, eller at skulle betale fuld pris for produktet, hvis virksomheden senere beslutter sig for at opgradere, fordi den nye licensaftale kun gælder for nye versioner af software. 
+ Jens Moberg understreger, at ændringen i licensaftalerne i lige så høj grad sker for at rydde op i alle de licensordninger, man som Microsoft-kunde i dag kan komme ind under. Det betyder, at den ordning, som de fleste danske virksomheder benytter, den såkaldte Select-aftale, skrottes efter 1. oktober.

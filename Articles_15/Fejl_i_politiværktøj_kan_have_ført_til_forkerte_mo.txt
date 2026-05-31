@@ -1,0 +1,12 @@
+Title: Fejl_i_politiværktøj_kan_have_ført_til_forkerte_mo
+Date: 2020-04-30
+Article Type: Danmark
+Author: Fejl i et softwaresystem, som politiet benytter til aflæsning af mobildata, kan have resulteret i forkerte tidsangivelser på filer fra beslaglagte mobiltelefoner.
+
+Det skriver Rigspolitiet i en pressemeddelelse, hvor det oplyses, at anklagere, dommere og forsvarsadvokater er orienteret om fejlen.
+Det fremgår ikke, præcis hvilke data fra telefonen der er berørt af dette. Der kan altså være tale om, at det eksempelvis er tidsangivelser på fotos, lydoptagelser eller telekommunikation.
+Rigspolitiet oplyser dog, at det ikke er 'sandsynligt', at fejlen har haft betydning for konkrete sager.
+Alligevel er man gået i gang med at undersøge de sager, hvor værktøjet er blevet anvendt. Det forventes at tage 14 dage.
+Fejlen er fundet i et anerkendt værktøj fra en international leverandør.
+Leverandøren har selv konstateret fejlen og i den forbindelse underrettet politiet herom. Det skriver Rigspolitiet, som oplyser, at fejlen er rettet.
+ritzau

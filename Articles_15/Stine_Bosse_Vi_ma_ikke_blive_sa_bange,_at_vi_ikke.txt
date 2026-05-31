@@ -1,0 +1,53 @@
+Title: Stine_Bosse_Vi_ma_ikke_blive_sa_bange,_at_vi_ikke
+Date: 2020-04-16
+Article Type: Internationalt
+Author: Statslige tiltag, som begrænser vores demokratiske rettigheder, skal ikke blot have en dato for udløb, men flere kriterier, påpeger ekspert og Tech-kommissionens formand, Stine Bosse, som er klar med et coronakatalog over nødvendige tiltag på teknologiområdet.
+
+Line Prasz
+Journalist
+Den danske stat er på vej med en app, hvor man kan blive orienteret, hvis man har været i nærheden af en coronasmittet. DSB har netop gjort det muligt via en app at følge med i, hvor mange passagerer, der er med toget, og befolkninger herhjemme og mange andre steder i verden har vist sig villige til midlertidigt at opgive grundlovssikrede rettigheder som forsamlingsfriheden.
+Verden rundt er regeringer i gang med at indføre såvel analoge som højteknologiske løsninger, der skal sørge for at inddæmme coronasmitten.
+Mindst 25 lande har eller planlægger ifølge The Guardian at indføre indsamling af data fra mobiltelefoner, apps, der kan afsløre personlig kontakt med coronasmittede, overvågning via ansigtsgenkendelse, og droner, der kan overvåge, om den sociale isolation overholdes.
+Ud over at arbejde på en app, som man frivilligt kan downloade, så sundhedsmyndighederne kan følge vores anonymiserede bevægelsesmønstre og kontaktmønstre med andre, der har appen, har regeringen desuden forsøgt at få øget adgang til dataovervågning af anonymiseret data og adgang til vores private hjem, hvilket ikke slap igennem Folketinget.
+Det er langtfra alle tiltag, som nødvendigvis er kontroversielle, men i iveren efter at holde befolkningen så fri af coronasmitten som muligt blinker de røde lamper. Med de teknologiske løsninger, der potentielt kan redde menneskeliv, og mere lavpraktiske indskrænkninger af vores frihed kommer også spørgsmålet om de værdier, vi normalt forbinder med et velfungerende demokrati, og hvorvidt vi er villige til at ofre dele af vores grundlovsfæstede rettigheder i coronaens navn.
+»Angsten er den store ekstraordinære påvirkningskraft her. Når vi er bange, bliver vi meget nemme at styre og meget hurtige til at acceptere ekstraordinære tiltag, hvis det kan sikre, at vi selv eller vores nærmeste ikke bliver syge. Vi skal virkelig vogte os for, at vi ikke bliver så skræmte, at vi ikke tør tale om, at der også er behov for regulering af nogle af de teknologiske områder«, siger Stine Bosse, som er formand for TechDK Kommissionen, som er nedsat af Djøf.
+Kommissionen har netop udarbejdet et katalog over tiltag på det teknologiske område, som den mener er nødvendige at diskutere og implementere for at sikre danskernes rettigheder i forbindelse med coronakrisen. Et af de i alt fire nedslagspunkter, som TechDK Kommissionen sætter fokus på, er statens indskrænkning af borgernes rettigheder. Her peger de blandt andet på gennemsigtighed og ansvarlighed i forhold til opbevaring og brug af data i tilfælde af masseovervågning for at inddæmme smitten.
+Mens vi indtil nu primært har klaret os med ganske lavpraktiske råd som at vaske hænder, holde os for os selv og på afstand i mindre grupper under ti træder Danmark nu ind i en ny fase, hvor store dele af hverdagslivet skal genåbnes. Og dermed træder vi også ind i en fase, hvor det kan blive mere relevant at øge overvågningen og bruge og samkøre data om vores alle sammens adfærd – for at holde samfundet åbent, men smitten nede.
+Mens en DSB-app til registrering af antallet af passagerer ikke i sig selv er et problem, illustrerer eksemplet, hvor hurtigt udviklingen går lige nu.
+»Der skal være en debat om, hvor de her data lagres, hvem der bestyrer dem, og hele den retlige beskyttelse. Det skal vi i den grad sikre os. I al den lovgivning, man laver nu for at beskytte os, er det ekstremt vigtigt, lige så vigtigt som udløbsdatoer for vedtagen lovgivning, at man også tænker i borgernes retssikkerhed«, siger Stine Bosse.
+»Det her har vist os, hvor fantastisk teknologien har været til at hjælpe os, men også hvor hurtigt vi er klar til at se bort fra ellers ufravigelige principper som vores forsamlingsfrihed, fordi vi føler, vi er nødt til det. Den diskussion har vi og mange andre længe påpeget, og det er klart, at den ikke kunne tages for tre uger siden, men jeg synes, den er relevant at tage op igen«, siger hun.
+De tiltag som eksempelvis begrænsning af forsamlingsfriheden, der er blevet vedtaget igennem den seneste måneds tid, har alle haft en såkaldt solnedgangsklausul – en udløbsdato. Men det er ikke nok, mener Thomas Ploug, der er professor ved Aalborg Universitet og blandt andet forsker i it-etik.
+Han påpeger, at det er afgørende, at der er mekanismer, der sikrer, at vi vender tilbage til situationen før coronakrisen.
+»Derfor må de interventioner være på den eksplicitte præmis, at det her sker i en ekstraordinær situation, men også under hvilke omstændigheder den intervention bliver forældet. Det er utroligt vigtigt, at man har eksplicitte præmisser for udløb – for eksempel hvor smittetallet skal ligge, for at lovgivningen udløber, så det ikke bliver elastik i metermål, hvis der er et politisk flertal for det. Det er ikke nok med en dato«, siger han.
+En af de effekter, som både Stine Bosse og Thomas Ploug peger på, er, at der i befolkningen kan opstå en gradvis opblødning over for, hvad vi går med til, når det gælder overvågning og indskrænkning af vores frihed – også når coronakrisen er drevet over.
+»Vi flytter målestokkene. Når coronakrisen er under kontrol, skal vi være omhyggelige med, også på europæisk og globalt plan, at vi får den her vigtige samtale. Vi lærer en hel masse, blandt andet forhåbentlig også om, hvordan vi så sikrer vores frihedsrettigheder i eventuelle tilsvarende situationer fremover«, siger Stine Bosse.
+Nanna Bonde Thylstrup er ph.d. og lektor i kommunikation og digitale medier. Hun peger på risikoen for, at de funktioner, man måtte udvikle og tage i brug for at inddæmme coronasmitte, kan ende med at blive brugt på andre områder, når først de eksisterer og er introduceret, også kaldet
+function creep
+.
+»Der er en tendens til, at teknologier, som er blevet udviklet med ét formål, ofte efterfølgende bruges i andre sammenhænge. Der kan hurtigt blive skabt en stemning af, at det ikke ville være forsvarligt, hvis vi ikke udnyttede de muligheder, som disse teknologier tilbyder«, siger hun.
+Allerede nu ser vi, at både statslige institutioner og private firmaer udviser stor interesse i udviklingen af disse teknologier, herunder det problematiske firma Clearview AI og det omstridte, men også udbredte firma Palantir, fortæller Nanna Bonde Thylstrup.
+»Når sådanne aktører kommer i spil, og ofte i samarbejde med statslige institutioner, er der en reel risiko for misbrug i form af
+function creep
+«, siger Nanna Bonde Thylstrup.
+Hun ser ikke umiddelbart nogen tegn på, at den danske stat vil gøre brug af nyudviklede teknologier, der var tiltænkt coronabekæmpelse, på andre områder. Mange interessante nye modeller er på tegnebrættet for, hvordan teknologier kan hjælpe med at spore og inddæmme smitte. Men hun er bekymret for den hastige udvikling og implementering af nye teknologiske løsninger og de følgevirkninger, de kan have.
+»Det kræver, når tingene er faldet lidt til ro, en rigtig god demokratisk diskussion om, hvordan vi synes, vi skal bruge de her teknologier, og det er det, der bekymrer mig mest: Det har vi sjældent i Danmark«, siger hun.
+Nanna Bonde Thylstrup peger på lande som Tyskland, hvor man af historiske grunde traditionelt har været bedre til at diskutere faldgruberne ved den teknologiske udvikling.
+»Jeg tror ikke, vi er gearet til at tænke sådan i Danmark. Vi har haft det så godt og har en historisk tillid til staten, som gør, at vi ikke har haft behov for det hidtil på helt samme måde som andre lande. Men det synes jeg, vi burde«, siger hun.
+I Italien har man for eksempel indført brug af droner og sporing ved hjælp af mobildata, mens borgerne opfordres til at downloade apps, hvor de løbende kan oplyse om deres sundhedstilstand. Tiltagene bekymrer eksperter, som er usikre på, om de vil blive fjernet, når coronakrisen er overstået.
+Thomas Ploug mener, at det i fremtiden kan blive lettere at indskrænke borgernes frihed.
+»Så ved man, at det kan lade sig gøre og – hvis alt går vel – ovenikøbet kan lade sig gøre på en måde, hvor vi alle, og de demokratiske samfund, lander på benene igen. Det er klart, at det kan gøre det lettere at gøre brug af sådan nogle ekstraordinære instrumenter i fremtiden. Det er en bekymring«, siger Thomas Ploug.
+Han peger på, at det derfor er afgørende, at tiltag gøres på så ekstraordinære præmisser og kriterier som overhovedet muligt.
+»Når vi gør det, skal vi være enormt opmærksomme på, at der er åbne og eksplicitte kriterier for, hvornår vi er tilbage til normalen«, siger Thomas Ploug, som ikke mener, at det er blevet uddybende forklaret fra politisk hold.
+Mens Stine Bosse ikke er bekymret for politiske bagtanker med indførelse af frihedsbegrænsninger i Danmark, så er den danske akilleshæl den hastighed, tingene sker med.
+»Det er ekstremt fascinerende alt, hvad vi kan i dag, og det skal vi hele tiden huske er godt. Men vi må ikke undgå at tale om, hvor grænsen går for eksempelvis de store techvirksomheder. Det kan være fristende i en situation som den, vi står i, at hoppe med for hurtigt. Det er vigtigt, at vi får beslutningerne igennem den demokratiske proces«, siger hun.
+Samme bekymring har Nanna Bonde Thylstrup, både med henvisning til historiske fortilfælde og med henvisning til den generelle stemning omkring teknologier.
+»Vi ser, at der hos mange politiske og private ledere opstår en følelse af, at teknologierne er et tog, der kører uden os, hvis ikke vi hopper på det. Men spørgsmålet er, hvor toget kører hen, og om det er den destination, vi ville hen til. Det er sjældent, der bliver givet tid til refleksion over det«, siger hun.
+Af samme grund mener Stine Bosse, at der med coronakrisen nu er en enestående mulighed for, at små europæiske techvirksomheder i højere grad end de store amerikanske kan udvikles efter europæiske værdier og etiske grænser.
+»På den anden side af den her situation bør vi kigge på, om vi måske har nogle konkurrenceregler, som har forhindret, at vi kunne lave store techvirksomheder i Europa«, siger hun.
+»Vi er nødt til at sørge for, at vi omfavner teknologien og alt det, den kan, men hele tiden også sørger for, at det er vores teknologi og ikke omvendt«, siger Stine Bosse.
+Line Prasz
+fortsæt med at læse
+Myndigheder laver frivillig corona-overvågnings-app
+Google offentliggør detaljeret oversigt over danskernes bevægelser under coronakrisen
+Se forskellene:
+Verdens lande følger hver sin vej mod udgangen af krisen

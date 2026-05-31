@@ -1,0 +1,20 @@
+Title: Tidligere_medarbejder_i_styrelse_tiltalt_for_datatyveri
+Date: 2024-11-11
+Article Type: Danmark
+Author: En 35-årig mand er tiltalt for uberettiget at have skaffet sig adgang til data fra offentlige myndigheder.
+
+En 35-årig mand, der tidligere har været ansat i Udviklings- og Forenklingsstyrelsen, er tiltalt for uberettiget at skaffe sig adgang til data fra offentlige myndigheder og Netcompany.
+Han er også tiltalt for efterfølgende at dele materialet på nettet.
+Det skriver Københavns Politi i en pressemeddelelse.
+Den 35-årige brugte i november sidste år sine loginoplysninger som ansat i styrelsen til at logge ind på en af styrelsens servere. Herfra har han ifølge tiltalen downloadet forretningskritisk data - såkaldt kildekode - og kodeord til en række systemer i Skatteministeriet.
+I december 2023 skal han desuden have logget på Udviklings- og Forenklingsstyrelsens server og tilegnet sig loginoplysninger til en server hos Netcompany, der blandt andet leverer it-løsninger til det offentlige.
+Derefter skaffede han sig ifølge tiltalen adgang til en server hos Netcompany,
+hvorfra han downloadede yderligere data.
+Han er derudover tiltalt for at have lagt oplysningerne ud på i fildelingstjenester på internettet i januar og februar 2024. Den 26. februar blev han anholdt. Han har siddet varetægtsfængslet frem til 4. september.
+Specialanklager fra Københavns Politis anklagemyndighed Anders Larsson udtaler i pressemeddelelsen, at det er samfundskritiske oplysninger, den 35-årige er tiltalt for at have taget og videregivet.
+Det er de, fordi de indeholde oplysninger om statens programmer til eksempelvis beregning og inddrivelse af skat.
+»Det er ikke individuelle borgeres oplysninger, der er blevet taget og videregivet«, oplyser anklageren.
+»Det er alvorligt, og de afspejler sig i de skærpede strafferammer, der er taget i brug i anklageskriftet«.
+Anklagemyndigheden går efter at få den 35-årige idømt en behandlingsdom i stedet for almindelig fængselsstraf.
+Sagen kører ved Retten på Frederiksberg i starten af januar.
+ritzau

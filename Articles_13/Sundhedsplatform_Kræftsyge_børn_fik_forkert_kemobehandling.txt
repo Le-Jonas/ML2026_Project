@@ -1,0 +1,21 @@
+Title: Sundhedsplatform_Kræftsyge_børn_fik_forkert_kemobehandling
+Date: 2018-01-21
+Article Type: Sundhed
+Author: Fejl i Sundhedsplatformen har betydet, at fem kræftsyge børn har fået for høj eller lav dosis af kemobehandling.
+
+Det fremgår af et nyt notat fra Region Hovedstaden, som Berlingske har set. Notatet gør status over patientsikkerheden i det udskældte IT-system Sundhedsplatformen.
+Kontrollen af behandlingen af børnene blev ikke gennemført i tilstrækkelig grad på grund af tidspres, skriver Berlingske.
+De kræftramte børn har ifølge Niels Kroman, der er cheflæge i Kræftens Bekæmpelse, ikke været i fare efter fejlbehandlingen, da der er tale om små afvigelser fra den normale dosis.
+Mens nogle af børnene har fået en afvigelse på op til 5,7 procent for meget af den ordinerede mængde kemoterapi, har andre fået en afvigelse på under 1 procent for lidt.
+Det ændrer dog ikke på, at fejlbehandlingen er dybt kritisabel, mener cheflægen.
+»Regionen indrømmer jo, at man har prioriteret at få indført Sundhedsplatformen til tiden højere end patienternes sikkerhed. Man kan som læge ikke undskylde, at man fejlopererer patienter, fordi man er under tidspres«, siger Niels Kroman til Berlingske.
+Fejlen i Sundhedsplatformen er sket, fordi apotekerne i Region Sjælland producerer standarddoser af cystotika-komomedicin.
+Da it-systemet skulle implementeres i Region Sjælland i november sidste år, gjorde disse standarddoseringer sig også gældende for Region Hovedstaden, der har benyttet platformen siden 2016.
+Tidspresset betød ifølge Berlingske, at tilpasningen af doserne i systemet skete hurtigt, og systemet lavede derfor fejl i kræftsyge børns protokoller.
+De fleste fejl blev opdaget i tide. Men i november og december nåede fem børn alligevel at modtage forket behandling.
+BørneUngeKlinikken på Rigshospitalet, som er den eneste på Sjælland, der behandler kræftsyge børn, er i tæt dialog med driftsorganisationen af Sundhedsplatformen.
+Det skal sikre, at tilsvarende fejl ikke sker i fremtiden. Det skriver Karen Vitting Andersen, der er klinikchef og overlæge på klinikken, i en mail til Berlingske.
+ritzau
+fortsæt med at læse
+Sundhedsplatformen har farlige fejl:
+Computerprogram ændrede på medicinen helt af sig selv

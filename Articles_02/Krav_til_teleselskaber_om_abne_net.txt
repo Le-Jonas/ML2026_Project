@@ -1,0 +1,10 @@
+Title: Krav_til_teleselskaber_om_abne_net
+Date: 2005-04-06
+Article Type: Økonomi
+Author: IT- og Telestyrelsen vil presse seks teleselskaber til at holde deres net åbne for hinanden på rimelige vilkår og til rimelige priser. Især TDC bliver stillet over for en række krav. 
+Det fremgår af et udkast til afgørelse om terminering af opkald i det faste telenet, altså den afsluttende transport af et opkald frem til modtageren, og den pris, som det enkelte teleselskab tager for det. Eksempelvis hvis en TDC-abonnent ringer til en Telia-kunde, vil samtalen blive afsluttet hos Telia. TDC har stor magt
+Ifølge styrelsen har de seks selskaber med egne net monopol på terminering i deres netværk. TDC står dog i en særlig position på grund af mange kunder og en stærk 'købermagt', hvilket gør, at de øvrige selskaber i forhold til TDC må acceptere samme pris for terminering, som TDC tager i sit net. 
+IT- og Telestyrelsen pålægger TDC at imødekomme alle rimelige anmodninger om adgang til terminering i TDC's net og giver TDC forpligtelser i forhold til ikke at diskriminere andre selskaber, udarbejdelse af standardtilbud, gennemsigtighed samt tidlig varsling af nye produkter og ændringer. Gennemsigtighed, tak
+Desuden skal TDC foretage en opsplitning i regnskabet samt udarbejde et omkostningsregnskab. I store træk er der tale om en videreførsel af de nuværende forpligtelser, dog med skrappere krav til blandt andet gennemsigtighed og oplysninger, der skal stilles til rådighed for konkurrenterne. 
+De øvrige selskaber, TeliaSonera, Sonofon, Tele2, Colt Telecom og Consorte, pålægges alene forpligtelsen til at imødekomme rimelige anmodninger om samtrafik og terminering i selskabernes net.
+

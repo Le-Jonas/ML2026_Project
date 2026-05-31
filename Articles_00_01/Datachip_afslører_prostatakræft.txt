@@ -1,0 +1,16 @@
+Title: Datachip_afslører_prostatakræft
+Date: 2004-04-19
+Article Type: Internationalt
+Author: Niels Busch
+
+Prostatakræft eller blærehalskirtelkræft, der udgør omkring ti procent af kræfttilfældene hos danske mænd, har hidtil været mere end svær at diagnosticere korrekt, men det kan en nyudviklet metode muligvis råde bod på, skriver den svenske avis Dagens Nyheter.
+Alvorlige konsekvenser
+Normalt tester lægerne for prostatakræft ved først at tage en blodprøve. Hvis blodprøven viser en højt såkaldt PSA-værdi, går lægerne videre med en biopsi. Den foretages ved, at lægerne stikker i prostataen 6-8 gange (18 gange anses for smertegrænsen for mænd) og håber dermed at kunne fiske et repræsentativt antal celler ud. 
+Finder lægerne tumorceller er det ikke muligt at vurdere, hvor farlige de er. Derfor behandles patienterne for en sikkerheds skyld, selv om det måske reelt set ikke er nødvendigt. Problemet er, at selve behandlingen kan få alvorlige konsekvenser for patienterne. Flere er efter behandlingen ikke i stand til at holde på vandet, og mange bliver impotente af behandlingen.
+Revolutionerende ny metode
+Nu har svenske og engelske forskere slået pjalterne sammen i et meget lovende forsøg på at afskaffe de unødvendige behandlinger. Ved hjælp af en genchip kan forskerne afsløre, nøjagtigt hvor farlig en tumor er, inden man påbegynder behandling. 
+Al den information, som lægerne skal bruge til at afsløre en tumors farlighed, findes blandt de cirka 30.000 gener, som findes i arvemassen i en enkelt celle. Tidligere var lægerne nødt til fiske et enkelt gen ud af gangen, men med den nye genchip kan lægerne undersøge titusindvis af gener samtidigt i jagten på dem, der kendetegner en ondartet tumor.
+Prognose for patienten på rekordtid
+I forskernes database findes der indtil videre data fra 123 genchips - små glasskiver med celleprøver fra prostatakirtler. 
+Når analyseapparatet en gang er blevet fodret med tilstrækkeligt mange chips, og analyseprogrammet er blevet finpudset, kan lægerne analysere en celleprøve på få sekunder og udregne en prognose for patienten. 
+»Målet med den nye genteknink er, at vi skal finde de ondartede tumorer i rette tid og undgå at operere de godartede for tidligt«, siger den svenske professor ved Karolinska Instituttet og leder af forskningsprojektet, Peter Ekman ifølge Dagens Nyheter.

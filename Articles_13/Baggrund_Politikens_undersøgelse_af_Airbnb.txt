@@ -1,0 +1,14 @@
+Title: Baggrund_Politikens_undersøgelse_af_Airbnb
+Date: 2017-07-14
+Article Type: Danmark
+Author: Anne Louise Leth
+
+Journalist
+Michael Olsen
+Journalist
+Christoffer Mejer Nielsen
+Researcher
+Signe Mai Vilsbøll
+Journalist
+Politiken har anvendt data, der er indsamlet af det uafhængige dataprojekt, InsideAirbnb, der er startet af den amerikanske dataaktivist Murray Cox, som forsøger at gøre udlejningsvirksomheden Airbnbs aktiviteter mere gennemsigtige.
+InsideAirbnb benytter sig af 'webscraping', hvor specialudviklet software downloader informationer fra Airbnb-annoncer. De to webscrapes, der ligger til grund for Politikens undersøgelse, er gennemført 22. maj og 15. juni 2017.

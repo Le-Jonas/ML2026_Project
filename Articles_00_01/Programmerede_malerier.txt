@@ -1,0 +1,32 @@
+Title: Programmerede_malerier
+Date: 2001-03-05
+Article Type: Kultur
+Author: Pernille W. Lauritsen
+
+Politiken tirsdag:
+Pzzz. Robottens orange hals drejer sig målrettet mod rækken af pensler. Med et smæld og et hurtigt snuptag griber dens kunstige klo om en pensel og trækker den op i luften. Kloen drejer forsigtigt penslen skråt mod højre, og maler en lang streg på det blanke lærred. 
+ Stopper så - som for at tænke over det næste strøg - og maler dernæst et par hurtige cirkler, inden penslen med minutiøs præcision og endnu et smæld suser tilbage i penselholderen. 
+ Her lugter af olie. Rummet på Ingeniørhøjskolen i København er fyldt med store grønne maskiner, og ligner til forveksling et hvert andet maskinværksted. Ved nærmere eftersyn krakelerer billedet. I midten af rummet står en lille orange robot omgivet af pensler, malerklatter og lærreder. Som en anarkistisk kunstner forud for sin tid fylder IRB1400 ufortrødent de blanke lærreder med hurtige, levende bevægelser mens de grønne maskiner tavst kigger på.
+Verdens eneste robotkunstner
+Det er konceptkunstneren Carsten Schmidt-Olsen, der i samarbejde med Ingeniørhøjskolen i København står bag projekt Robotmaleri, hvor robot-teknologi bruges til at skabe kunstværker. Men det er langtfra første gang, at Carsten Schmidt-Olsen sætter robotter til at svinge penslerne. 
+ Ideen opstod oprindelig i midten af 1980erne, men først da han i efteråret 1993 mødte Michael Winter, der dengang arbejdede på Danmarks Ingeniør Akademi, kom der liv i robotterne. Carsten Schmidt-Olsen fik en IRB6-robot stillet til rådighed i akademiets lokaler, og kort tid efter så det første robotmaleri dagens lys. Siden har Carsten Schmidt-Olsen - der ifølge ham selv er den eneste robotkunstner i verden - arbejdet ihærdigt med at udvikle robotternes bevægelser og har endda anskaffet sig sin egen private robot, der hedder Andy efter kunstneren Andy Warhol.
+Ikke brugervenlig
+Men trods teknologi og fremskridt er det en hård tjans at samarbejde med rigtige robotter. 
+ »Det er enormt tidskrævende, og robotten er overhovedet ikke brugervenlig. Jeg skal overføre alle bevægelser til den. Selv bittesmå ting, som at lære den at tage penslen«, siger Carsten Schmidt-Olsen, der programmerer bevægelserne manuelt via et avanceret joystick med display og knapper. Selv mener han, at der helt klart er tale om kunst. 
+ »Dét er værket«, siger han med hævet stemme og peger på IRB1400, der uanfægtet maler videre. »Værket er, at robotten maler. I stedet for at lave et færdigt maleri, så har jeg lavet et projekt, der kan udvikle sig. Det er også en del af værket, at folk kommer og ser det«, siger Carsten Schmidt-Olsen og tilføjer, at malerierne blot er biprodukter.
+Kan ikke males i hånden
+Det bemærkelsesværdige ved malerierne er, at de ikke kan laves i hånden. På gulvet ligger maleriet 'Og', som IRB1400 også har lavet. Det består af streger og cirkler i rød, gul, blå, grøn, sort og hvid. Nogle af penselstrøgene ligner &-tegn. Det er tydeligt, at en fuldstændig identisk bevægelse er gentaget flere gange i træk. 
+ »Du vil ikke kunne male det i hånden - derfor er det et ægte robotmaleri«, siger Carsten Schmidt-Olsen og smiler begejstret. Alligevel gør han sig stor umage med at få robottens penselstrøg til at ligne menneskelige penselstrøg. Hvilket kræver et nærgående studie af hver eneste bevægelse, der skal overføres. 
+ »Det er det, der gør det smukt. For det fortæller meget om, hvem vi egentlig er. At selv bittesmå bevægelser, kan have afgørende betydning, og at virkeligheden faktisk er utrolig kompliceret«, fortæller Carsten Schmidt-Olsen.
+Nemt at reproduceres
+Et andet særpræg ved robotmaleriet er, at maleriet kan reproduceres længe efter kunstnerens død. Kunstneren lærer robotten nogle bevægelser, som gemmes på en diskette. Så snart disketten installeres i IRB1400, kan robotten reproducere bevægelserne og dermed maleriet. 
+ »Der er ingen forskel på den her robot og en robot på en bilfabrik. Men vi kan få dem til at lave andre ting, end de er vant til, ved at arbejde kreativt med dem«.
+Tid og bevægelse
+Nogle af nøgleordene for projektet er gentagelse, tid og bevægelse, og selv sammenligner Carsten Schmidt-Olsen robotmalerierne med det at lave musik. 
+ »Det handler om at få indsigt i tid og bevægelse. Det ligger dybt i os som mennesker at gentage ting. Det tager 365 dage for Jorden at nå rundt om Solen, og på samme måde er vores liv fyldt af gentagelser. Det samme gælder musik«, siger Carsten Schmidt-Olsen, og tilføjer at robotmalerierne er som musik til væggene. 
+ »Jeg tror det skaber en form for harmoni. Ligesom vi godt kan lide et ensartet mønster i tapetet«, siger han. 
+ »Tchjuk«, siger det da IRB1400s slanke hals endnu en gang strækker sig mod penselrækken, og griber en pensel. Bevægelserne er uhyggeligt levende. Langsomt glider halsen henover et nyt hvidt lærred. Den orange figur trækker sig tilbage, og knejser nærmest et kort sekund, inden den lynhurtigt maler en rød mund på det hvide lærred.
+Kun et startskud
+Ifølge både Carsten Schmidt-Olsen og informationschef på Ingeniørhøjskolen Michael Winther er robotmalerierne kun startskuddet på, hvad der er muligt, når man bruger robotter kreativt. Også Standford University i England har set nye muligheder i Carsten Schmidt-Olsens kunst. De har derfor kontaktet ham for at indgå i et samarbejde der skal handle om handicappede menneskers mulighed for at lave kunst. 
+ For Michael Winther går projektet også ud på at vise, at teknologi kan bruges til mange ting. 
+ »Normalt er mennesker bange for robotter, fordi de for eksempel stjæler arbejdspladser. Men man kan også bruge robotter kreativt, som et bidrag. Desuden er meningen også at vise, at teknologi ikke kun er for nørder, men at den også er udfordrende i forhold til vores forståelse af ting. Robotmalerierne er også et godt eksempel på, hvordan man skaber en dialog mellem teknologiens og kunstens verden«, siger informationschefen, der mener at begge verdener har meget at lære af hinanden.

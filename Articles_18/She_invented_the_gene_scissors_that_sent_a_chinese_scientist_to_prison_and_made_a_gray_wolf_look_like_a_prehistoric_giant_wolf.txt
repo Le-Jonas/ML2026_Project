@@ -1,0 +1,75 @@
+Title: She_invented_the_gene_scissors_that_sent_a_chinese_scientist_to_prison_and_made_a_gray_wolf_look_like_a_prehistoric_giant_wolf
+Date: 2025-05-19
+Article Type: News
+Author: The 61-year-old Nobel laureate Jennifer Doudna has invented the Crispr technology that can edit the most precious thing we have: our DNA. This opens up a wealth of possibilities in health and climate science. But it is also controversial when used to edit fertilized human eggs or make living animals resemble their prehistoric ancestors.
+
+Lasse Foghsgaard
+Videnskabsredaktør
+Listen to the english audio-version of the interview by clicking above
+This article was originally published in Danish. It has been translated with the help of AI and subsequently proofread by a member of the editorial staff.
+Read more about how to
+subscribe to Politiken Edition here
+It can often take many years before a researcher is awarded a Nobel Prize for a groundbreaking discovery that has ’conferred the greatest benefit to humankind,’ as Alfred Nobel’s will stated. The impact of a significant discovery on society can only be assessed after years or even decades.
+That wasn’t quite the case for Jennifer Doudna, who sits across from me in a chair with wide armrests at the Royal Danish Academy of Sciences and Letters on H.C. Andersen Boulevard in central Copenhagen, where she’s visiting for a lecture that sold out almost instantly.
+She received the Nobel Prize in Chemistry in 2020, along with French researcher Emmanuelle Charpentier, just eight years after they developed a method in the lab that allows precise and elegant editing of the code of life, DNA, creating cells, plants, and animals with new functions and expressions.
+Jennifer Doudna
+Born February 19
+, 1964, Washington D.C., USA. Raised in Hawaii. Educated at Harvard University.
+Jennifer Doudna
+is currently a professor of biochemistry at the Howard Hughes Medical Institute and the Innovative Genomics Institute, University of California Berkeley & UCSF/Gladstone Institutes.
+Together with
+French microbiologist Emmanuelle Charpentier, she received the Nobel Prize in Chemistry in 2020 for the discovery of the Crispr-Cas9 gene-editing technology, which allows for precise changes to the genome in cells, plants, and animals.
+The genetic technology’s equivalent of gene scissors, dubbed Crispr, spread rapidly to labs around the world, convincing the Nobel Committee in Stockholm that the discovery was impossible to ignore.
+A current example of how the technology is used today is the recent news that spread like wildfire globally: An American biotech company successfully manipulated the DNA of a gray wolf using Crispr, making the genetic code at 20 selected sites identical to that of the prehistoric giant wolf that went extinct 13,000 years ago.
+With a dog as a surrogate mother, the biotech company managed to bring three wolf pups into the world that bear a striking resemblance, in appearance and size, to the prehistoric giant wolf, which some may remember from the popular series ’Game of Thrones.’ This breakthrough, which some might call a global sensation, is a step toward the biotech company’s larger ambition: resurrecting other prehistoric animals like the mammoth, the woolly rhinoceros, the dodo, and the Tasmanian tiger, creating a real-life Jurassic Park.
+How do you feel about researchers using your technology to resurrect prehistoric animals like the giant wolf?
+»The claim of recreating the giant wolf garnered a lot of attention for the company, and many journalists wrote stories about it. But if you look at the science behind it, they most certainly did not recreate the prehistoric giant wolf. They produced very cute pups, I’ll give them that, but I wouldn’t claim, as the company did, that they created the giant wolf.«
+»It is theoretically possible to resurrect prehistoric animals, but you need to know the detailed genetics of the extinct animal, and in most cases, that information is simply not available. Given the problems our planet and humanity are facing, one could ask if resurrecting extinct animals is the most important issue to address right now.«
+When did you develop a passion for science?
+»I grew up in rural Hawaii. I wondered how plants and animals had evolved to live in this very special place, but I didn’t know what DNA was back then. When I got to high school, I took a chemistry class, which was my first exposure to the idea that science is about puzzles. Answering questions that no one has answered before. I loved that idea, and that was the beginning of my journey into science.«
+»My father gave me a copy of the book ‘The Double Helix’ by James Watson, which describes the story of discovering the structure of DNA. As some people know, that work was done by several scientists, including Rosalind Franklin. I was fascinated by the process of discovery, and I think I found that story inspiring for my own journey.«
+How do you explain Crispr technology to people without a scientific background?
+»Crispr is a technology for making precise changes in DNA. That’s my explanation.«
+What are the most significant achievements with Crispr technology?
+»I’ll mention three things. The first is the change in how biologists now study nature. Practically all biologists – whether they study plants, animals, or humans – use Crispr in various ways because it allows them to both understand and alter gene function.«
+»The second is the approval of the first treatment using Crispr. It’s a medicine that can treat and cure patients suffering from the hereditary blood disease sickle cell anemia, which is a devastating genetic disorder in humans. I believe this is the beginning of what we will see as a real transformation in clinical medicine moving forward.«
+»The third thing I must mention is that Crispr is going to revolutionize agriculture. Increasingly, plant researchers are using Crispr to make changes in plants that will increase yields, improve resistance to drought and other environmental impacts, which will be extremely important in the context of climate change.«
+What breakthrough are you most proud of?
+»Meeting Victoria Gray. She was the first patient in the U.S. to be treated for sickle cell anemia using Crispr. She read about the technology in an article and got her doctor to enroll her in the first-ever clinical trial. Imagine the courage it takes as a patient to say: I will voluntarily try something that’s never been tested on humans.«
+»She did it, and it changed her life. She hasn’t had a sickle cell crisis in over five years since receiving a single treatment with Crispr. That’s extraordinary, and it motivates me to work even harder to ensure more people can be treated with the technology.«
+How was the treatment of Victoria Gray and other patients conducted?
+»We used Crispr to turn on the production of fetal hemoglobin, which is normally only produced when we are in the womb and shuts down when we are born. Hemoglobin is a protein found in red blood cells responsible for transporting oxygen from the lungs to the body’s tissues and organs. By turning on fetal hemoglobin production using Crispr, it’s possible to overcome the otherwise devastating effects of sickle cell anemia.«
+Crispr technology has also been misused. How did you react to that? (I ask while showing a picture of the Chinese researcher who was sentenced to three years in prison for misusing Crispr technology to bring the first gene-edited babies into the world).
+»Ah, that’s He Jiankui. I was quite shocked. Or shocked might be the wrong word. This man had talked about using Crispr in embryos before, but it was still quite surprising when he chose to do it in reality. Think about it. Using Crispr in humans without testing it in animals first is really shocking and unethical. So it was an unwelcome news.«
+»On the bright side, his criminal act created a global backlash and prompted scientists in many countries to stand up and say it’s wrong to use Crispr for gene editing in eggs, sperm, or embryos where the hereditary gene changes can be passed on to future generations. It’s an area where I believe it’s incredibly important that we continue to demand responsible use of the technology globally.«
+Do you think that we will gene-edit human eggs, sperm, and embryos
+in the future
+, and for what purpose?
+»I find it likely that the day will come. I don’t know when, but I believe the idea of making changes that could, for example, remove a disease-causing mutation from a family is compelling. I think if we can avoid human suffering, one could argue it would be unethical not to do it when it becomes safe. But the question is when it will be safe and for which indications it should be used. Those are the questions that are really important to address.«
+President Trump apparently isn’t a supporter of the green transition and is urging more fossil fuel extraction with the slogan ‘Drill, baby, drill’. What are your thoughts on that?
+It’s probably no surprise that as a scientist, I work with facts and data. When I look at the data and facts about climate change, there’s no doubt about what’s happening and that we have a pressing need to address it.
+Do you feel you have the same freedom to conduct research with Donald Trump as president, or has it changed for you and your colleagues, thereby affecting the exploration of Crispr?
+It’s hard to say. It hasn’t changed yet, but things seem to change every day in the U.S. these days, so it’s hard to predict. But I’m dedicated to our work, my students, and the future of science.
+I understand you’re attracted to the idea of using Crispr technology not only on individuals but also on entire communities like populations of microorganisms
+–
+what we call microbiomes
+–
+in our guts, on our skin, and in the soil. How could this potentially benefit health, the environment, and the climate?
+»That’s a wonderful question because it really takes Crispr back to its origins. Crispr is a system that evolved in bacteria, so it makes perfect sense to use it in natural populations of bacteria in, for example, our guts, which affect our health. Or populations of bacteria in water and soil, which are critical for agricultural activities and for the release of certain greenhouse gases like methane.«
+The technology for beginners
+Crispr
+Imagine DNA as
+a long instruction manual for building and operating your body. There can be errors in the manual that, when corrected, can improve health or cure diseases.
+Crispr is
+an effective tool that researchers use to edit DNA. Think of Crispr as a word processing program that can correct spelling mistakes.
+Imagine Crispr as
+a precise pair of scissors equipped with a GPS system that can guide the scissors exactly where they need to work.
+The scissors are
+an enzyme called Cas9, and the GPS system is an RNA molecule. When the enzyme reaches its destination, it cuts the DNA right in the middle.
+The cell
+naturally attempts to repair the DNA damage. Researchers can guide this repair process so that the DNA receives the exact genetic change desired. This can potentially be used to treat diseases in humans or enhance plants.
+»For example, researchers have shown that by changing the diet of cows, methane emissions can be reduced to nearly zero. However, this isn’t a sustainable strategy, and it will not be affordable for most farmers around the world. This is where Crispr comes in. We are attempting to make changes to the metabolism of the microbiomes in the cow’s rumen that produce methane, so in the future, we may be able to reduce methane production at the source.«
+»Regarding our health, we’re collaborating with clinical researcher Sue Lynch from the University of California in San Francisco. Her lab has shown that in the human gut microbiome, there are certain bacteria that make people more susceptible to asthma because they produce a small molecule that triggers asthma. Imagine using Crispr to reduce the concentration of this molecule so people are no longer susceptible to asthma. We are actively working on this because we believe it will be possible.«
+If you look out the window, you can see a boulevard named after the famous Danish author and poet H.C. Andersen. With him in mind, do you think your scientific career has been an adventure so far?
+»Absolutely. It’s a wonderful adventure. I tell my students and really everyone that science is about discovery and that it’s an unpredictable path. You follow your intuition about which interesting questions to ask and how to answer them, but you undoubtedly end up going in unexpected directions because you can’t necessarily predict what the outcome of your research will be.«
+Lasse Foghsgaard

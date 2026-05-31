@@ -1,0 +1,11 @@
+Title: Ny_kamerateknik_forhindrer_lukkede_øjne
+Date: 2005-05-29
+Article Type: Viden og tech
+Author: Hvem kender det ikke? Familiebillederne, der skal forevige familiefesten. Men halvdelen af de portrætterede lukker øjnene på de fleste af billederne. Det er ærgerligt, og situationen kan ikke fotograferes om. 
+Men måske vil den slags problemer være fortid om blot et par år. 
+Japanske forskere fra University of ElectroCommunikations, der er placeret i udkanten af Tokyo, har nemlig udviklet en ny type digitalkameraer med en teknik, der forebygger, at bryllupsbillederne, konfirmationsbillederne bliver en skuffelse. 
+De fleste digitalkameraer har i dag en funktion, der skal forhindre, at personer og dyr får røde øjne på billederne. Det, der før billedet bliver taget opleves som et kraftigt blink, får nemlig pupillerne til at trække sig sammen. Den utilsigtede konsekvens er dog, at mange kommer til at lukke øjnene på selve billedet. Kan selv sortere billeder
+Det nye japanske digitalkamera tager 15 billeder i løbet af 0,5 sekunder efter at fotografen har trykket på knappen, der tager billeder. En computer inde i kameraet analyserer derefter lynhurtigt de 15 billeder og frasorterer de billeder, hvor folk lukker øjnene. 
+De japanske forskere påstår, at kameraet er i stand til at sortere i billeder med helt op til 30 personer. 
+Japanerne forudser, at kameraet vil kunne være i butikkerne til almindelige forbrugere i løbet af højst et par år.
+

@@ -1,0 +1,27 @@
+Title: Region_far_rekordbøde_pa_en_million_for_sjusk_med_data
+Date: 2024-12-23
+Article Type: Danmark
+Author: Retten i Kolding straffer Region Syddanmark for to tilfælde af overtrædelse af databeskyttelsesloven.
+
+Region Syddanmark er mandag idømt en bøde på en million kroner for sjusk med personfølsomme oplysninger. Det oplyser Retten i Kolding.
+Uvedkommende kunne få adgang til mange tusinde borgeres personfølsomme data. Tiltalen drejede sig om to lovbrud, som fandt sted fra 2018 til 2020.
+I Region Syddanmark efterlyser it-direktør Morten Lundgaard en klarere linje med hensyn til reaktionen, når der sker databrud.
+»Det er to ærgerlige sager, der er udløst af menneskelige fejl for flere år siden«, siger han i en pressemeddelelse.
+Datatilsynet havde indstillet til en bødestraf på en halv million kroner for hvert lovbrud.
+I det ene tilfælde var der for nem adgang til oplysninger om 3.915 patienter. De lå i en PowerPoint-præsentation på regionens hjemmeside og kunne tilgås i de bagvedliggende data til et diagram.
+Dette udgjorde en unødig høj risiko for de registrerede borgere og tab af fortrolighed af deres oplysninger, står der i anklageskriftet.
+I Datatilsynet har it-sikkerhedsspecialist og jurist Allan Frank tidligere oplyst til Ritzau, at den halve million kroner er den højeste bødestraf, som tilsynet nogensinde har indstillet en offentlig institution til.
+»Det er en stor bøde for en offentlig myndighed, har han bemærket«.
+»Vi går ikke til en politianmeldelse, medmindre vi mener, det er noget særdeles dadelværdigt«, udtalte han for nylig.
+Flere elementer gør, at episoderne er vurderet alvorlige.
+»Det er, at det er helbredsoplysninger, at det er en offentlig myndighed, at regionen er professionel part på det her område, og at den burde vide bedre«, har Allan Frank fastslået.
+Det andet forhold i sagen handler om data om 23.000 patienter.
+Her havde regionen ikke sikret et tilstrækkeligt sikkerhedsniveau i forbindelse med opsætning af en database til forskningsmæssige og kliniske formål.
+Problemet var, at uvedkommende ved at ændre en URL-adresse kunne få uautoriseret adgang til PDF-dokumenter.
+Borgere der var med i registret, kunne få personlige oplysninger om de mange tusinde andre i databasen. For eksempel om mindreårige, der var tilknyttet psykiatrien.
+Retten lægger i dommen vægt på, at regionen tidligere havde fået en alvorlig kritik for en overtrædelse, som lignede det ene forhold. Også det faktum at der var tale om oplysninger om flere tusinde mennesker, indgår i bedømmelsen.
+Selv om regionen har taget skridt til at undgå lignende databrud, er der ifølge retten ikke grund til at fravige det oplæg, som Datatilsynet er kommet med om bødens størrelse.
+Regionen har nægtet sig skyldig. Inden for 14 dage kan dommen ankes til landsretten.
+ritzau
+fortsæt med at læse
+Kommune straffes for at sjuske med følsomme data om unge

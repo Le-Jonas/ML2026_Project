@@ -1,0 +1,20 @@
+Title: Google_lancerer_blokering_mod_irriterende_reklamer
+Date: 2018-02-16
+Article Type: Medier
+Author: Google har lanceret en reklame-blokering, en såkaldt ad-blocker, som brugere af deres Chrome-browser kan bruge.
+
+Den skal forhindre 'irriterende' og 'forstyrrende' reklamer i at blive vist, skriver BBC.
+Browseren er en del af en større strategi hos Google, der ønsker at skabe mere kvalitet for brugerne af deres tjeneste.
+Sidste år annoncerede Google sine planer om at give brugere mulighed for at fjerne automatiske videoreklamer og andre reklametyper, der popper op og forstyrrer.
+Hvilke reklamer, som der blokeres for med den nye tjeneste, vil blive bestemt af Koalitionen for bedre reklamer (CBA), som består af personer fra virksomheder fra blandt andet Google og Facebook.
+Der vil gå 30 dage, før muligheden for reklame-blokering træder i kraft.
+Ingeniør Chris Bentzel, der er ledende udvikler på reklameblokeringen, skriver i et blogindlæg om, hvilke reklamer der regnes for de mest irriterende for brugerne.
+Ifølge ham har europæiske internetbrugere således svaret i en spørgeskemaundersøgelse, at helsides reklamer, der skjuler siders indhold, er blandt de mest irriterende reklamer.
+Også blinkende og animerede reklamer forstyrrer brugerne.
+»Chrome vil give brugeren besked om, at en reklame er blevet blokeret og give brugeren mulighed for at slå indstillingen fra«, skriver han.
+Hjemmesider, der bruger forstyrrende reklamer, er allerede blevet advaret af Google.
+Det har blandt andet fået LA Times og Chicago Tribune til at ændre deres reklame-strategi.
+Der findes allerede tjenester, der kan blokere reklamer fra hjemmesider.
+Men med reklameblokeringen fra Google, vil ikke alle reklamer blive fjernet.
+Chrome-browseren findes på omkring 60 procent af computere og mobile enheder, ifølge statistik fra Stat Counter, W3Counter og Net Applications, skriver BBC.
+ritzau

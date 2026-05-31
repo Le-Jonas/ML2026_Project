@@ -1,0 +1,10 @@
+Title: Langtidsholdbar_vejrudsigt_pa_vej
+Date: 2003-08-06
+Article Type: Danmark
+Author: Om et år eller to vil danskerne allerede i november kunne vide, om vi får en hvid jul. 
+Danmarks Meteorologiske Institut (DMI) er nemlig på vej med såkaldte oversigts-vejrudsigter, som vil række 30-60 dage frem i tiden, skriver Berlingske Tidende. 
+»Der vil ikke blive tale om præcise vejrudsigter. Men vi vil i generelle vendinger kunne fortælle, om der op til 60 dage frem i tiden overvejende vil blive tørt og varmt, fugtigt og koldt og lignende«, siger senorforsker Bo Christiansen, DMI. Supercomputer indsamler data
+De kommende langtids-vejrudsigter bliver muliggjort via et samarbejde mellem DMI og det europæiske vejrcenter ECMWF ved London. 
+Her har man en supercomputer, som ved hjælp af millioner af indsamlede data fra vejrsatellitter, klimastationer og lignende over hele kloden snart ventes at kunne lave realistiske modeller af vejrets udvikling mange uger frem i tiden. 
+Ifølge DMI vil især landbruget og energisektoren kunne drage fordel af langtidsprognoserne.
+

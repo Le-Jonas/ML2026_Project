@@ -1,0 +1,32 @@
+Title: Moderaterne_tilslutter_sig_kritikere_af_dansk_chatkontrol-forslag
+Date: 2025-10-17
+Article Type: Tech
+Author: Justitsministers kamp for større overvågning af krypterede chats møder nu modstand fra regeringskollega.
+
+Blandt kritikerne af et omdiskuteret europæisk lovforslag, der ofte omtales som chatkontrol, findes nu også Moderaterne.
+Dermed er der kommet intern uenighed i regeringen og det danske EU-formandskab, der lige nu forsøger at finde opbakning blandt EU’s medlemslande til en CSA-forordning, som lovforslaget hedder.
+»Det åbner i praksis døren for en generel scanning af borgeres private kommunikation. Det er ikke foreneligt med grundlæggende rettigheder i et frit samfund«, siger Rasmus Lund-Nielsen, der som digitaliseringsordfører udtaler sig på vegne af Moderaterne.
+CSA-forordningen, der oprindelig blev foreslået af EU-Kommissionen i 2022, vil kunne tvinge techvirksomheder til at scanne indholdet af private borgeres billeder og videoer på krypterede tjenester.
+Det er nødvendigt for at stoppe kriminelle, der deler seksuelt overgrebsmateriale med børn, siger justitsminister Peter Hummelgaard (S), der sidder for bordenden i arbejdet med at få CSA-forordningen vedtaget under det danske EU-formandskab.
+Men det vil bryde med fundamentale frihedsrettigheder og vil potentielt resultere i masseovervågning af borgere i EU, lyder det fra kritikerne, der blandt andet tæller hundredvis af forskere og eksperter, Dataetisk Råd og techgiganterne selv.
+Og den sidste gruppe tilslutter Moderaterne sig nu.
+Partiet har som regeringsparti ellers tidligere nikket ja og givet Peter Hummelgaard mandat til forslaget.
+»Men nu bliver det tiltagende konkret, og så kan man tydeligere se faldgruberne forbundet med det. Vi har lyttet til kritikken og er derfor enige i at det sendes i tænkeboks«, siger Rasmus Lund-Nielsen.
+Han henviser til, at Peter Hummelgaard for nylig måtte tage det nuværende, danske kompromisforslag af bordet igen.
+Det skulle have været til afstemning blandt EU-landene tirsdag, men det blev lørdag i sidste uge konstateret, at der ikke var ’den nødvendige opbakning’.
+Eksempelvis meddelte Tyskland, at landet ikke støtter forslaget.
+»Masseovervågning af private beskeder må være tabu i en retsstat«, skrev det tyske justitsministerium på X.
+Rasmus Lund-Nielsen slår fast, at Moderaterne »støtter fuldt ud målet om at bekæmpe deling af overgrebsmateriale online«.
+Men det skal ske på en anden måde end det danske kompromisforslag, mener han.
+»Det er ikke proportionalt at skulle kunne bryde ind i alles digitale dagbøger for at finde de få, der gør noget ulovligt. Vi har svært ved at se, at man kan have sikker kryptering med en bagdør. Enten er kommunikationen privat, eller også er den ikke«.
+Derfor skal myndigheder i stedet have stærke og målrettede værktøjer.
+»Men værktøjer, der er rettet mod personer under mistanke, og hvor vi har en dommerkendelse. Så vi både kan beskytte børn og gøre det uden at bryde med borgernes ret til privatliv og sikker kommunikation«, siger Rasmus Lund-Nielsen.
+Peter Hummelgaard anerkender i en skriftlig kommentar, at det er en svær sag med mange hensyn, der skal balanceres.
+»Hvert år bliver der delt millioner af filer, der viser seksuelle overgreb på børn. Og bag hvert enkelt billede og video, er der et barn - ofte helt små børn - der er blevet udsat for det mest modbydelige overgreb«, siger Hummelgaard videre.
+Han hæfter sig ved, at Danmarks kompromisforslag er langt mere målrettet end kommissionens oprindelige forslag, der også ville scanne tekstbeskeder, og at organisationer som Red Barnet og Børns Vilkår støtter det.
+Derfor vil regeringen arbejde videre med medlemsstaterne for at finde en løsning.
+»Jeg lytter selvfølgelig til de bekymringer, der er blevet rejst«, siger Peter Hummelgaard.
+Han forholder sig dermed ikke direkte til sine regeringskolleger i Moderaternes kritik af det danske kompromisforslag.
+ritzau
+fortsæt med at læse
+Hummelgaard beskyldte Politiken for at misforstå hans forslag. Nu har Tyskland sørme også misforstået ham

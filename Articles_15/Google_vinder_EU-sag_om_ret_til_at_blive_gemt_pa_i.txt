@@ -1,0 +1,11 @@
+Title: Google_vinder_EU-sag_om_ret_til_at_blive_gemt_pa_i
+Date: 2019-09-24
+Article Type: Tech
+Author: Google kan ikke tvinges til at fjerne link til personfølsomme oplysninger på verdensplan, siger EU-Domstolen i en afgørelse tirsdag.
+
+Den amerikanske it-gigant skal dog gøre det i EU's medlemslande, tilføjer domstolen i sin afgørelse.
+Med andre ord kan EU-retten ikke beskytte EU-borgere uden for unionens grænser, når det gælder søgninger på personfølsomme data.
+Sagen var rejst af CNIL, som er et fransk databeskyttelsestilsyn.
+Tilsynet idømte for tre år Google en bøde på 100.000 euro (746.000 kroner) for ikke at ville fjerne følsomme oplysninger fra søgeresultater.
+CNIL mente, at borgere måtte have 'ret til at blive glemt'.
+ritzau

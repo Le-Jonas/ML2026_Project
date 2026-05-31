@@ -1,0 +1,9 @@
+Title: Efter_politisk_indgreb_Kritikere_er_glade_for_cor
+Date: 2020-05-18
+Article Type: Tech
+Author: Den danske corona-app bliver nu privat og beskyttet mod myndigheders snagen. Men mangel på data gør det til et åbent spørgsmål, om den overhovedet kommer til at virke.
+
+Jens Bostrup
+Journalist
+Den kommende danske corona-app er blevet fundamentalt ændret, efter at sundhedsminister Magnus Heunicke (S) lod de politiske partier få indflydelse på udformningen.
+En politisk aftale, der blev offentliggjort fredag aften, sørger for, at appen Smittestop ikke samler data om danskernes fysiske kontakter i en central database, som myndighederne har adgang til. Data gemmes udelukkende på telefonen.

@@ -1,0 +1,22 @@
+Title: Nedbrud_og_udfald_ramte_ChatGPT,_Spotify,_X,_Ikea_–_og_Politiken
+Date: 2025-11-18
+Article Type: Tech
+Author: Det amerikanske firma Cloudflare, der tilbyder en global platform, oplever tirsdag store tekniske problemer. Det betød blandt andet, at Politiken-læsere ikke kunne lytte til podcasts eller benytte spil på politiken.dk
+
+Artiklen er opdateret kl. 17.21, efter at også de problemer, brugere oplevede på politiken.dk, er løst.
+Sikkerhedsudbyderen Cloudflare, der håndterer knap en femtedel af den globale webtrafik, oplevede tirsdag eftermiddag store udfald, skrev Cloudflare på sin hjemmeside.
+Problemerne gjorde flere hjemmesider utilgængelige, og det stod på det meste af tirsdagen, men tirsdag eftermiddag ser problemerne ud til at være løst.
+»En løsning er blevet implementeret, og vi mener, at episoden nu er løst. Vi fortsætter med at overvåge for fejl for at sikre, at alle tjenester er tilbage til normalen«, skriver Cloudflare i en opdatering.
+Webudbyderen oplyste tidligere på dagen, at nedbruddet skyldtes interne tekniske problemer. Hvad det nærmere dækker over, står endnu ikke klart. Problemerne hos Cloudflare resulterede i, at man blandt andet ikke kunne tilgå det sociale medie X. Også ChatGPT, Spotify og andre internationale tjenester var ustabile. Det samme gjaldt den svenske møbelkæde Ikea. De tjenester er igen tilgængelige tirsdag eftermiddag.
+For Politiken-abonnenter havde nedbruddet den konsekvens, at det ikke var muligt at lytte til podcasts eller benytte spil på politiken.dk i en periode.
+Styrelsen for Samfundssikkerhed fulgte situationen og var i løbende dialog med relevante myndigheder, skrev styrelsen i en kommentar til Ritzau.
+»Styrelsen for Samfundssikkerhed er opmærksom på, at sikkerhedsudbyderen Cloudflare i øjeblikket oplever tekniske problemer, hvilket påvirker mange websites og onlinetjenester verden over«, lød det.
+Cloudflare begyndte at rapportere om globale netværksproblemer tirsdag formiddag. Omkring lidt over klokken 13 så problemerne ud til at være løst. Men fejlene vendte tilbage allerede et par minutter senere.
+Cloudflare er en global it-virksomhed, som benyttes af millioner af hjemmesider.
+»Cloudflare er et af de største netværk, der opererer på internettet«, skriver virksomheden selv.
+Den amerikanske virksomhed driver infrastruktur, der leverer mange af de it-tjenester, som websteder bruger. For eksempel tjenester, der beskytter websteder mod cyberangreb eller tung trafik.
+Cloudflare er den tredje store webudbyder, der har været ramt af nedbrud i den seneste tid. I oktober var det Amazon Web Services, AWS, der havde problemer. Lidt mere end en uge senere var det Microsofts Azure-tjeneste, der var ramt af nedbrud. Begge tjenesters nedbrud påvirkede en længere række internationale og danske hjemmesider og tjenester som DSB, en række banker og Forsvarets hjemmeside, der var nede for trafik.
+ritzau
+fortsæt med at læse
+Amazon har fundet årsagen til verdensomspændende nedbrud
+Snapchat, Duolingo og Fortnite har tekniske problemer

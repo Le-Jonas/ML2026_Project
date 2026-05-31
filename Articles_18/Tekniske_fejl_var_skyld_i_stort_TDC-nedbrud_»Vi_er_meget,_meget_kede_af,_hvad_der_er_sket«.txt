@@ -1,0 +1,29 @@
+Title: Tekniske_fejl_var_skyld_i_stort_TDC-nedbrud_»Vi_er_meget,_meget_kede_af,_hvad_der_er_sket«
+Date: 2024-12-04
+Article Type: Danmark
+Author: Efter at have udført grundige undersøgelser oplyser TDC Net nu årsagen til torsdagens nedbrud på mobilnettet.
+
+I flere dage har det været uvist, hvad der i sidste uge forårsagede nedbruddet på mobilnettet, som TDC Net ejer.
+Torsdag i sidste uge blev et af tre danske mobilnet ramt af nedbrud, hvilket forårsagede at flere hundredtusinder ikke kunne ringe fra deres telefoner. Man kunne blandt andet ikke ringe 112.
+Nedbruddet opstod i første omgang omkring middagstid.
+Efter at have gennemført en grundig undersøgelse fastslår TDC Net nu årsagen til nedbruddet.
+I et interview med Berlingske oplyser TDC Nets franske topchef Michel Jumeau, at det var et uheldigt sammenfald af omstændigheder, der var årsag til nedbruddet.
+»Vi er meget, meget kede af, hvad der er sket. Jeg undskylder dybt over for alle mobilbrugere, som blev ramt. Det burde ikke være sket - men det skete, og vi påtager os det fulde ansvar for det«, siger han til Berlingske.
+Nedbruddet opstod samme dag, som Banedanmark oplevede problemer med sit digitale signalsystem, hvilket gjorde, at Banedanmark måtte indstille togdriften på en række jyske strækninger.
+I en tid med geopolitiske spændinger opfordrer Michel Jumeau til, at teleskaberne arbejder sammen, så der ikke opstår misforståelser i forbindelse med den slags nedbrud.
+»Vi kan ikke længere håndtere denne slags hændelser isoleret som selskab. De skal ses bredere, og vi skal koordinere med Beredskabsministeriet og alle andre involverede, så man lynhurtigt får det fulde billede«.
+»Ellers bliver disse hændelser misfortolket«, siger han til Berlingske.
+Han forstår desuden godt reaktionen, hvis nogen koblede de to nedbrud sammen og talte om hackerangreb.
+Den ene fejl var en fejlslagen ’teknisk opgradering’ af en grundfunktion, der gør, at telefonen fortæller, hvilke tjenester der er tilgængelige, når dem kobler sig på mobilnettet.
+Samtidig begyndte en anden funktion på mobilnettet at fejle på grund af en softwarefejl - den funktion, som registrerer telefonen på mobilnettet.
+Derfor blev mobilbrugerne smidt af forbindelsen, og telefonen forsøgte så at koble sig på netværket igen.
+Det overbelastede mobilnettet, fordi der opstod en enorm datatrafik.
+Hvis man befinder sig et sted, hvor der ikke er forbindelse til ens mobilnet, vil ens telefon normalvis koble sig på et af de to andre danske mobilnet - enten Telias/Telenors eller 3’s.
+Men fordi de berørte mobiltelefoner faktisk var på mobilnettet, men bare uden at kunne ringe i perioder, hoppede mobiltelefonerne ikke automatisk over på et af de to andre mobilnet.
+ritzau
+fortsæt med at læse
+Lang Historie Kort:
+112-panik viste hul i beredskabet, vi shopper amok i dag, men ikke nok, sultne kvinder spiser måske guld
+Ekspert efter nedbrud:
+»Vi skal se det som et wakeupcall«
+Stort nedbrud på TDC's mobilnet rammer hele landet

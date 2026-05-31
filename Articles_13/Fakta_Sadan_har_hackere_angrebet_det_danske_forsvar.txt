@@ -1,0 +1,6 @@
+Title: Fakta_Sadan_har_hackere_angrebet_det_danske_forsvar
+Date: 2017-04-23
+Article Type: Danmark
+Author: En russisk hackergruppe har i 2015 og 2016 hacket det danske forsvar og skaffet sig adgang til ansattes e-mails. Det fremgår det i ny rapport fra Center for Cybersikkerhed.
+
+Der er blevet sendt byger af falske mails til medarbejdere i Forsvarsministeriet og Udenrigsministeriet. De pågældende mails så ud til at komme internt fra forsvaret.

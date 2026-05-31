@@ -1,0 +1,16 @@
+Title: Mere_nettelefoni_fra_stuetelefonen
+Date: 2004-08-18
+Article Type: Økonomi
+Author: Sisse K. Ibsen
+
+Nettelefoni er populært - hvorfor flere danske teleselskaber er på trapperne med produkter, der skal kombinere det billige med det lette. 
+Senest har teleselskabet Tele2 meldt, at firmaet fra mandag går på gaden med et produkt, der gør, at man kan ringe fra den almindelige telefon hjemme i stuen, men stadig får de økonomiske fordele ved nettelefoni.
+Først investering
+Det kræver dog en investering. 700 kroner vil Tele2 gerne have for den særlige boks, der skal placeres mellem telefonen og bredbåndsforbindelsen. Derudover koster det 149 i oprettelse at blive kunde, mens den månedlige samtaleafgift er 99 kroner uafhængig af, hvor meget man sludrer løs til andre fastnetstelefoner. Vil man ringe til mobiltelefoner, koster det som vanligt. 
+Tele2 kommer på gaden med sit IP-telefoni-produkt lige før Cybercity, der også har annonceret nem nettelefoni for de fleste af sine 65.000 bredbåndskunder. Tele2's produkt henvender sig til både bredbåndskunder og kabeltv-kunder, men produktets udbredelse hæmmes af TDC's prispolitik.
+TDC: Betal for en 'bærelinje'
+Det dominerende danske teleselskab kræver nemlig, at adsl-kunder, der ikke ønsker at have en fastnetstelefon, i stedet tegner abonnement på en såkaldt bærelinje. 
+»De faste omkostninger - og dermed abonnementsprisen - er de samme som for en fastnettelefon«, oplyser TDC på sin hjemmeside. 
+»Dobbeltabonnementet er en grundlæggende hindring for, at det her bliver rigtigt stort i Danmark. TDC kræver, at du har en telefonforbindelse, hvis du har adsl. Man kan droppe telefonabonnementet og spare 119 kroner om måneden, men det tillader TDC ikke«, siger markedsdirektør Thomas Nistrup, der påpeger, at de, der rigtig kan spare penge, er kabel-tv-kunderne. De kan sige telefonabonnement op og spare mindst 120 kroner per måned. 
+Tele2 Talk2Net kræver en dataforbindelse på minimum 128 kilobit i sekundet for at fungere. 
+Der findes allerede en række mindre firmaer, der tilbyder bredbåndstelefoni i en boks.

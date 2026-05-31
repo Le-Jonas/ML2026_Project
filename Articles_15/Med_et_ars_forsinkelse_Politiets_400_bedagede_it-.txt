@@ -1,0 +1,40 @@
+Title: Med_et_ars_forsinkelse_Politiets_400_bedagede_it-
+Date: 2019-10-16
+Article Type: Danmark
+Author: Gang på gang har en forældet it-infrastruktur forårsaget knæk i tilliden til politi og retsvæsen. Der er brug for politisk fokus og en milliardinvestering, siger eksperter, men rapporten om problemets rod kommer først i 2021.
+
+Jakob Sorgenfri Kjær
+Journalist
+Skandalerne om politiets håndtering af kritiske data har stået i kø de senere år. Vi befinder os midt i den hidtil værste, teledatasagen, hvor Rigspolitiets fejlhåndtering af teleoplysninger om borgere og mistænkte har udfordret selve troværdigheden i vores retssystem og fået Rigsadvokaten til i to måneder at suspendere enhver brug af teleoplysninger som bevis ved domstolene.
+I kølvandet på et par andre dataskandaler i politiet om forsvundne mails i Tibetsagen og PET’s manglende sletning af data om borgerne bestilte justitsminister Søren Pape Poulsen (K) i juni 2018 en ekstern kulegravning af politiets og anklagemyndighedens over 400 it-systemer.
+»Jeg vil have ryddet op, og politiet og PET skal have styr på deres håndtering af data. Der har været for mange sager, og det svækker tilliden til vores politi«, sagde Pape Poulsen dengang i en pressemeddelelse.
+Her oplyste han, at undersøgelsesarbejdet skulle begynde i andet halvår af 2018.
+Men det er først nu, et år og en teleskandale senere, at undersøgelsen kan gå i gang.
+Justitsminister Nick Hækkerup (S) oplyser således til Folketinget, at revisions- og konsulentfirmaet PWC nu har vundet opgaven med at give et overblik over de data og it-systemer, som politiet og anklagemyndigheden opbevarer og håndterer.
+»Det er min klare opfattelse, at der er behov for at få bedre styr på politiets og anklagemyndighedens håndtering af data. Undersøgelsen skal således ses i det lys, at det for mig er helt afgørende, at borgerne kan have tillid til, at myndighederne håndterer data korrekt og sikkert«, skriver Hækkerup til
+Folketinget
+.
+Justitsministeren oplyser, at undersøgelsesarbejdet forventes afsluttet inden udgangen af 1. kvartal 2021.
+Han forklarer, at dele af rapportens forsinkelse skyldes udskrivelsen af folketingsvalget og de efterfølgende selvstændige aktiviteter, som blev igangsat som konsekvens af teleskandalen.
+Fællesnævneren for de mange skandaler, der udfordrer borgernes tillid til politi og retsvæsen, er politiets bedagede it-infrastruktur.
+Problemet har rod i en fjern fortid, hvor statsejede Datacentralen leverede edb til politi og andre statslige myndigheder. Disse såkaldte legacy-systemer, som blev overtaget af DXC (tidligere CSC) i 1996, er gennem mange år i strid med loven aldrig sendt i udbud, og internt i politiet sammenligner man infrastrukturen med en gammel dame med gangbesvær, som man prøver at friske op med ny makeup.
+Justitsministeriet har selv modtaget nødråb fra en tidligere ansat i Rigspolitiet, der anser teleskandalen som blot »et symptom på et mere alvorligt problem med bredere implikationer og måske også endnu mere alvorlige konsekvenser«.
+Det fremgår af departementets egen redegørelse om teledatasagen, hvor personen refereres for »en række kritikpunkter i forhold til blandt andre de it-systemer, der anvendes i tele-centret, herunder at de er baseret på gammel software og forældet infrastruktur«.
+Et af de over 400 systemer er netop det, der indsamler og oversætter teleoplysninger til brug for efterforskning og retslig forfølgelse af borgerne. Et andet konsulenthus, Deloitte, konkluderer i sin kritiske rapport om Rigspolitiets håndtering af teledata, at »systemerne og den tilhørende infrastruktur kan kort beskrives som utidssvarende og kompleks« samt »på et helt utilstrækkeligt niveau«.
+»Adressering af de kortsigtede anbefalinger kombineret med selv betydelige investeringer i den nuværende infrastruktur vil ikke kunne fjerne den tekniske gæld, endsige reducere den væsentligt«, skriver Deloitte i sin rapport, der blev afleveret 1. oktober til Rigspolitiet.
+De uløste problemer griber også tilbage i skandalen om hackerangrebet på leverandøren CSC, hvor et par it-kyndige let og uopdaget gennem fire måneder i 2012 kunne boltre sig i politiets allermest følsomme databaser om danske borgere og efterlyste personer i Europa. Datatilsynet konkluderede, at Rigspolitiets beskyttelsesniveau var »overordentlig kritisabelt« og i strid med både datalovgivningen og Schengen-konventionen.
+It-sikkerhedseksperter byder kulegravningen af de over 400 it-systemer velkommen som et skridt på vejen, men det vigtigste er at få og fastholde politikernes fokus på problemet og en løsning med påkrævede investeringer i milliardklassen.
+»Hvis man bare får en rapport i 2021 og ikke følger op på den, så er det jo bare en syltekrukke«, siger Henning Mortensen, formand for Rådet for Digital Sikkerhed.
+»Borgerne og politikerne efterspørger politiets synlighed, men det er ikke gjort ved bare at investere i 500 flere betjente. Hvis man ikke kan løse opgaverne ordentligt på grund af problemer med it-systemet og analyseværktøjerne på kontoret, så får du jo ikke nogen effekt af de ekstra betjente. Problemet er nok snarere, at det er billigere at ansætte 500 politifolk end tage hele slagsmålet med at modernisere de her systemer fra bunden af«, siger Henning Mortensen.
+It-sikkerhedsekspert Peter Kruse forventer rent statistisk, at vi kommer til at opleve endnu en dataskandale i politiet, før PWC får afleveret sin rapport om halvandet år.
+»Jeg forstår godt behovet for at analysere så komplekst et setup; det er jo fuldstændig vanvittigt med over 400 it-systemer. Men jeg spørger også mig selv, om man i virkeligheden ikke kunne bruge de mange millioner skattekroner, man nu smider efter en flok slipsedrenge, på at rekruttere nogle folk, der kunne styrke politiets egen it-afdeling. Hvem har man tilbage, når de eksterne analytikere er taget hjem og har afleveret en skinnende flot rapport?«, siger Peter Kruse, som i kølvandet på tidligere dataskandaler alene har set kortsigtede lappeløsninger.
+Regeringen har udskudt de ellers planlagte forhandlinger om et nyt politiforlig til næste år og i stedet foreslået en finanslov med 200 millioner kroner til uddannelse af 150 flere betjente. Et nyt fireårigt politiforlig vil gælde fra 1. januar 2021, så konklusionerne fra kulegravningen af politiets it-systemer vil komme på den forkerte side af forhandlingerne.
+SF’s retsordfører havde gerne set, at undersøgelsen var klar før forhandlingerne. Omvendt fortæller hendes erfaring fra affæren om politiets skrinlagte sagsbehandlingssystem, Polsag, at beslutninger uden grundige forudgående analyser kostede skatteyderne over en halv milliard kroner.
+»Selvom vi ikke vil have den færdige rapport, er jeg ikke i tvivl om, at forligskredsen kommer til at drøfte investeringer i it-systemerne. Jeg tror, det er rigtigt set, at vi taler om et behov i milliardklassen, og det må vi få en drøftelse af«, siger Karina Lorentzen Dehnhardt.
+Men I politikere vil typisk have flere synlige betjente, politiheste og nye redskaber til politiet. Er det ikke et iboende problem, at politikere ikke mener, der er stemmer i at investere i it?
+»Du har helt ret. Det er en reel problemstilling, at når vi drøfter politiets midler, så er det nemmere at gøre noget meget konkret ved eksempelvis afsætte midler til 300 flere betjente i tjeneste. Omvendt er det lidt overset, at der skal noget til at understøtte de 300 politifolks daglige virke, nemlig it-systemerne. Det er en reel udfordring, og vi er nødt til at tage hul på den nu«, siger SF’s retsordfører.
+Jakob Sorgenfri Kjær
+fortsæt med at læse
+Telebeviser må bruges igen efter stop i 60 dage
+Det er ikke blevet lettere at stå vagt om retssikkerhed i skandalen om teledata
+Derfor er der nu alvorlig tvivl om telebeviser

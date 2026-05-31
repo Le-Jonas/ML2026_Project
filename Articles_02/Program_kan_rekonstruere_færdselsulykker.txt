@@ -1,0 +1,7 @@
+Title: Program_kan_rekonstruere_færdselsulykker
+Date: 2005-01-24
+Article Type: Danmark
+Author: Færdselsulykker kan nu rekonstrueres af eksperterne fra Statens Bilinspektion, der i et nyt edb-program kan genskabe ulykkerne med stor nøjagtighed og derudfra fastslå blandt andet hastighed på uheldstidspunktet. 
+PC Crash hedder programmet, der gør det muligt præcist at simulere ulykkerne og endog lave små filmstumper, der i detaljer illustrerer, hvad der skete i sekunderne inden det gik galt. Kan bruges i retssager
+Programmet kan for eksempel benyttes i retssager, hvor domsmænd nu kan se, hvad der gik galt i stedet for at pløje sig igennem lange og tørre redegørelser for de tekniske forhold. Med PC Crash kan de se en computerfilm, der rekonstruerer forløbet.
+

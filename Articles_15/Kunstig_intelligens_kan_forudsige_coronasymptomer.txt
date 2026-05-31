@@ -1,0 +1,19 @@
+Title: Kunstig_intelligens_kan_forudsige_coronasymptomer
+Date: 2021-02-05
+Article Type: Sundhed
+Author: Kunstig intelligens kan med 90 procents nøjagtighed vurdere, om folk vil dø af covid-19 eller ej.
+
+Der er stor forskel på, hvor syge mennesker bliver, når de smittes med coronavirus. Og ingen ved på forhånd, hvordan man bliver ramt. Nu har kunstig intelligens svaret – eller i hvert fald en del af det, fortæller Mads Nielsen, professor ved Datalogisk Institut ved Københavns Universitet.
+Ved hjælp af patientdata kan kunstig intelligens med 90 procents nøjagtighed forudsige, om en given patient vil dø af covid-19 eller ej. Og når man skal finde ud af, hvem der skal forrest i køen, kan patientdata være et nyttigt værktøj.
+De danske sundhedsmyndigheder forsøger allerede at forudse, hvilke faktorer – som for eksempel alder og bmi – giver et mere alvorligt sygdomsforløb.
+»Det her kan bruges til at lave en endnu finere graduering«, forklarer Mads Nielsen.
+Den nye viden stammer fra et studie foretaget på Datalogisk Institut, hvor man har brugt patientdata fra 3.944 patienter i Region Hovedstaden og Region Sjælland til at træne et computerprogram.
+Ud over at forudse om en person kan dø af covid-19, kan den kunstige intelligens med 80 procents nøjagtighed forudsige, om en person vil få brug for en respirator. Man har desuden været i stand til at kortlægge, hvilke faktorer der bedst forudsiger en patients sygdomsforløb. De to vigtigste er bmi og alder. Derefter kommer forhøjet blodtryk og det at være mand. Efter de faktorer kommer hjernesygdomme, kol, astma, diabetes og hjertesygdomme.
+Mennesker, der passer en eller flere af de parametre, kan være fornuftige at rykke frem i vaccinekøen, forklarer Mads Nielsen.
+Statens Serum Institut (SSI) meddelte torsdag, at 444 personer er indlagt med coronavirus. Det er et fald fra 482 dagen før. Af de 444 ligger 86 på intensivafdeling. Af de indlagte på intensivafdeling er 63 forbundet til en respirator, der hjælper dem med at trække vejret.
+ritzau
+fortsæt med at læse
+Trods faldende smittetal:
+Hele landet fastholdes på højeste risikoniveau
+Overlæge efter nye smittetal:
+»Vi er dernede, hvor vi har godt styr på det«

@@ -1,0 +1,9 @@
+Title: Roskilde_kommune_klarer_sig_med_e-handel
+Date: 2003-12-11
+Article Type: Økonomi
+Author: Som den første kommune i landet kan Roskilde nu handle 100 procent elektronisk med både små og store leverandører. Fakturaer i papirform bliver afskaffet, skriver Dagbladet i Roskilde. 
+Mange kommuner har arbejdet på længe på systemet, andre har halve eller tunge og ufleksible løsninger. Ikke mere papir
+ Andre kommuner, der handler elektronisk, indscanner f.eks. den faktura, de modtager fra leverandøren. I Roskilde findes fakturaen om nogle måneder ikke længere i papirform. 
+ Alle led i handlen bliver elektronisk. 
+Systemet bliver implementeret i hele kommunen i løbet af det næste halve år med start i næste måned.
+

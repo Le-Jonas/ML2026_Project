@@ -1,0 +1,10 @@
+Title: Det_digitale_prøverum
+Date: 2003-08-30
+Article Type: Internationalt
+Author: Hvis du hører til dem, der hader at stå i små, trange prøverum i tøjbutikkerne for blot at konstatere, at kludene sidder som en sæk på din krop, så er der hjælp at hente i et nyt 3D-kamera, som teknologifirmaet QinetiQ har udviklet. 
+Det er en linjeskanner, som ifølge den norske avis Aftenposten normalt koster hundredetusinder af kroner, men de skal nu masseproduceres og sælges for under 500 kroner. 
+ 3D-kameraet kan måle over 1000 punkter med 0,25 millimeters nøjagtighed og med en dybdeskarphed på 5-100 centimeter, og det gør dem særlig velegnet til at fotografere ansigter og kroppe. 
+I stedet for at tage syv par bukser med ind i prøverummet, kan kunden stille sig en fotoboks og tage et billede af sin krop. Ved hjælp af en database, finder den så frem til den helt rigtige størrelse. 
+3D-kameraet er en videreudvikling af et projekt, som QinetiQ utførte for det britiske forsvarsdepartement, og var egentlig tænkt som et lavpris-system for målsøgning og identificering i felten. 
+(Aftenpostens nettutgave)
+

@@ -1,0 +1,10 @@
+Title: It-firma_afviser_at_have_betalt_Linux-skat
+Date: 2004-03-05
+Article Type: Økonomi
+Author: Sisse K. Ibsen
+
+SCO gik onsdag på gaden med besked om, at i alt fire firmaer har betalt SCO for en licens til styresystemet Linux. Blandt de fire firmaer er ifølge SCO det store amerikanske it-firma Computer Associates (CA). 
+Men dén oplysning fik CA op ad stolen og fået firmaet til pure at afvise, at firmaet skulle have betalt 'Linux-skat' til SCO. 
+»At få det til at se ud som om vi støtter SCO's forehavende, er fuldstændig forkert«, siger Sam Greenblatt, CA til IDG News Service. Computer Associates påpeger derudover, at SCO krænker og truer kunder og computerbrugere. 
+Den kritik har også tidligere lydt af SCO's metoder. SCO har sendt en opkrævning til en stribe Linuxbrugere med krav om betaling. I modsat fald ville SCO anlægge sag. Men fordi SCO's krav endnu ikke er fastslået i en retssal, betegner kritikere SCO's fremgangsmåde som gangstermetoder. 
+Hver SCO-licens til Linux koster 700 dollar, omkring 4.200 kroner. SCO kræver betaling, fordi firmaet mener, at deres version af Unix uretmæssigt er brugt i styresystemet Linux.

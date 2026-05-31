@@ -1,0 +1,32 @@
+Title: Kommunalt_it-projekt_smuldrer
+Date: 2003-10-17
+Article Type: Økonomi
+Author: Peder Bjerge og Thomas Flensburg
+
+Et storstilet projekt om et fælles kommunalt system til håndtering af dokumenter er stille og roligt ved at gå i opløsning. 
+ Arbejdet trækker ud, mens flere og flere kommuner vælger egne løsninger.
+Færre til at betale regningen
+Konsekvensen er, at skatteyderne i adskillige kommuner kommer til at betale for udvikling af digital forvaltning i stedet for, at landets 271 kommuner går sammen om et fælles system. 
+ Hele 22 af 25 store kommuner har valgt at satse på deres eget digitale fovaltningssystem i stedet for at håbe på resultater af det Fælles-offentlige Elektroniske Sags- og Dokumentations-projekt (FESD), viser en opgørelse fra Center for Digital Forvaltning.
+Frygter 'atomisering'
+Ni ud af ti kommuner har systemer til håndtering af dokumenter, som er under fem år gamle. Og hver fjerde er indkøbt samtidig med, at det fælles kommunale projekt var sat i gang. 
+ »Man kan frygte et scenarie, hvor det hele er atomiseret, og de offentlige institutioner bare efterspørger hver deres it-løsning. På den måde bliver den dybe tallerken så at sige opfundet i hver enkelt kommune«, siger centerleder Michael Karvø fra Center for Digital Forvaltning.
+Brancheorganisation skeptisk
+I organisationen Dansk IT, som tidligere hed Dansk Dataforening, er der også dyb skepsis over for det såkaldte FESD-udbud. 
+ »Det begynder at være sidste chance for det offentlige, når det gælder om at vise, at man overhovedet kan håndtere den slags projekter. Det er gået alt for langsomt med at komme frem til et fælles it-system beregnet på at håndtere alle de dokumenter i kommuner, amter og staten, selv om der er åbenlyse gevinster ved at digitalisere de offentlige arbejdsgange,« siger udviklingschef Jacob Primault.
+Idéen med FESD:
+Idéen med FESD var lige til. 
+ I stedet for at 271 kommuner, 14 amter og en stribe andre offentlige institutioner udviklede hver deres system til at håndtere dokumenter i samarbejde med en vifte af forskellige leverandører, så skulle FESD-enheden under Kommunernes Landsforening (KL) sende et fælles system i udbud. 
+ Men det trak ud at få de fælles udbud stablet på benene. Der er brugt 10 millioner kroner på udbud, og i øjeblikket forhandles der en rammeaftale med tre konsortier.
+Korsør vil selv
+En af de kommuner, som gik egne vegne, er Korsør. 
+ »Vi valgte at fortsætte med vores eget projekt. Både af hensyn til tiden men også af hensyn til, at vi kunne få et mere fleksibelt system i stedet for at indordne os under et eller andet stort system, som så alligevel blev til tre systemer«, siger sekretariatschef Henrik K. Larsen.
+Fordele i et fælles system
+Embedsmanden kan dog godt se nogle fordele i et fælles system. 
+ »Hvis man ikke skal flytte papirbunker mellem de forskellige kommuner, så havde der virkelig været fordel at komme efter. Men nu tager det vist mange år, før vi kommer så langt«, siger han.
+Forkert tænkt
+På Center for Digital Forvaltning vurderer Michael Karvø, at opgaven er grebet forkert an fra starten. 
+ »Projektet har været tænkt forkert. De har troet, at det var nogle leverandører, man skulle vælge i stedet for at sige, hvad er det, vi vil stille af krav til systemet om. Og så er det ligegyldigt, hvilke leverandører der leverer«, siger Michael Karvø.
+Ministeriet afviser kritik
+I Finansministeriets digitale taskforce, som blandt andet varetager FESD-projektet afviser projektleder Lars Frelle-Petersen undersøgelsen fra Center for Digital Forvaltning: 
+ »En undersøgelse fra PLS Rambøll viser, at det store flertal af kommuner venter på, at vi bliver færdig med FESD, men det er naturligt, at de store kommuner, som ofte optræder meget selvstændigt, selv går i gang med deres projekter«, siger han.

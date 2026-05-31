@@ -1,0 +1,15 @@
+Title: Trillende_overvagning_med_svensk_robotkugle
+Date: 2005-01-31
+Article Type: Viden og tech
+Author: Niels-Peter Granzow Busch
+
+Indbrudstyve vil nok glo noget dumt, hvis de om et par år tilfældigvis støder ind i det svenske firma Rotundus' nyeste opfindelse af sikkerhedsudstyr. 
+Firmaet har udviklet en lille kugleformet robot, der af egen kraft kan trille rundt og fungere som rullende sikkerhedsvagt.
+Pendul sikrer fremdrift
+Ifølge videnskabsmagasinet New Scientist skabes kuglens fremdrift af et lille motorkontrolleret pendul, der sidder på en akse i midten af kuglen. 
+Pendulet sørger for, at der hele tiden er vægtforskydelse i den retning, kuglen via et GPS-system er programmeret til at køre i. Dermed kan robotkugtlen køre i en hvilken som helst retning, der ønsker. 
+Flere kameraer, der sidder inde i kuglen sørger for, at den lille sikkerhedsvagt kan sende videobilleder tilbage til en kontrolpult, hvor vagtpersonel kan følge med i robottens opdagelser.
+Kan køre i alt terræn
+Kuglens største fordel fremfor andre sikkerhedsrobotter er, at kugleformen bevirker, at robotten kan køre i næsten alt terræn. Hårdt underlag, sne, mudder og i næste version endda op ad bakke, ifølge New Scientist. 
+Dermed slår det svenske firmas kuglerobot mange af de andre typer sikkerhedsrobotter, som flere amerikanske firmaer på nuværende tidspunkt benytter sig af. 
+Til gengæld kommer kuglerobotten til kort, hvis den skal operere på trapper.

@@ -1,0 +1,7 @@
+Title: Dansker_vil_skabe_en_simpel_robot_med_bløde_hænder,_termitterners_teknik_og_arbejdsmoral_som_en_myre
+Date: 2017-09-01
+Article Type: Viden og tech
+Author: Louise Lauritzen
+
+En robot triller rundt i en vinmark. Udstyret med en hånd, der er fremstillet i et særligt blødt materiale, rækker den ud og griber om en drue. Ved hjælp af særlige ultralydssensorer måler den blandt andet druens størrelse, hårdhed og temperatur og sender informationen hjem til vinbonden.
+»Visse robotter er bare bedre bløde. Det kan være alt fra hydrogel til polymer. Når de er bløde, er de mindre farlige i deres interaktion med omverdenen. Det er for eksempel svært at forestille sig, at en robothånd i et hårdt materiale som metal ville kunne håndtere noget så delikat som vindruer. Den er nødt til at være blød«, siger 33-årige Kirstin Hagelskjær Petersen. Hun er adjunkt ved Cornell University i New York og har netop modtaget nye forskningsmidler, der skal finansiere hendes arbejde med bløde robotter.

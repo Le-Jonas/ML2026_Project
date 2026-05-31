@@ -1,0 +1,14 @@
+Title: USA's_finansministerium_Hackere_havde_adgang_til_vores_arbejdsstationer
+Date: 2024-12-30
+Article Type: Internationalt
+Author: Kinesisk aktør fik ifølge USA adgang til sikkerhedsnøgle hos firma og herefter dele af finansministeriet.
+
+En statsstøttet kinesisk aktør har udført et hackerangreb på det amerikanske finansministerium, meddeler Biden-administrationen i USA ifølge New York Times. Med angrebet har aktøren haft adgang til ansattes arbejdsstationer og visse dokumenter, som ikke er klassificerede, lyder det. Også nyhedsbureauet AFP beskriver angrebet på baggrund af et brev til Kongressen.
+Hændelsen fandt sted tidligere på måneden, skriver AFP. Hackerne havde adgang til en sikkerhedsnøgle hos et eksternt cybersikkerhedsfirma. Firmaet BeyondTrust fortalte om sikkerhedshullet til finansministeriet. Siden har ministeriet arbejdet for at fastlægge konsekvenserne af angrebet sammen med politi.
+»Den kompromitterede BeyondTrust-tjeneste er blevet sat ud af drift, og der er ingen indikationer på, at trusselsaktøren fortsat har adgang til finansministeriets systemer eller informationer«, siger en talsperson for ministeriet ifølge AFP.
+Ministeriet kommer ikke umiddelbart med yderligere oplysninger om, hvad der blev påvirket af sikkerhedshullet. Der ventes at blive offentliggjort mere information senere.
+»Finansministeriet tager alle trusler mod vores systemer meget alvorligt«, siger en talsperson ifølge AFP.
+Kinesiske embedsmænd har hyppigt afvist, at den kinesiske regering spiller en rolle, når det gælder hackerangreb mod USA. Der har på det seneste også været meldinger om et andet større hackerangreb, som også menes at være af kinesisk oprindelse. Det er det såkaldte Salt Typhoon-cyberangreb mod amerikanske telesystemer. Angrebet har generelt skabt bekymring for sårbarheder i de amerikanske systemer.
+ritzau
+fortsæt med at læse
+Britiske medier melder om kinesisk hackerangreb mod forsvaret

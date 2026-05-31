@@ -1,0 +1,12 @@
+Title: Virksomheder_optager_telefonsamtaler_ulovligt
+Date: 2005-06-24
+Article Type: Økonomi
+Author: Når et firma skifter fra klassiske telefoni til IP-telefoni, bliver ulovlig overvågning af medarbejdernes samtaler lettere. 
+IP-telefoni, hvor man ringer via internettet, er på fremmarch blandt danske virksomheder, fordi der kan være mange penge at spare på telefonregningen. Men det gør det samtidig lettere for virksomheden at optage medarbejderes private telefonsamtaler. Optagelserne finder sted i virksomhedens it-system. Fire procent optager samtaler
+Selv om kun nogle af virksomhederne vil være klar over det, hvis der hemmeligt optages telefonsamtaler hos dem, bekræfter fire procent - to ud af 50 - at det sker hos dem. 
+Det viser et anonymt rundspørge, som it-fagforeningen Prosa har lavet i samarbejde med avisen Computerworld. 
+Og den praksis er ulovlig, vurderer Oluf Jørgensen, ekspert i mediejura på Danmarks Journalisthøjskole. 
+»Reglerne er, at den ene part i samtalen skal være vidende om, at den bliver optaget. Men hvis en virksomhed automatisk optager samtaler uden at fortælle det til medarbejderne, er det meget problematisk i forhold til straffeloven«, siger Oluf Jørgensen i fredagens udgave af Computerworld. Frygt for spredning
+Hos Prosa er faglig sekretær Hanne Lykke Jespersen rystet over, at der er virksomheder, der i hemmelighed overvåger de ansattes samtaler. 
+»Jeg synes, det er meget, meget grimt, og jeg er meget bekymret for, at det her kommer til at sprede sig. Det er et voldsomt indgreb i de ansattes privatliv«, siger hun til avisen.
+

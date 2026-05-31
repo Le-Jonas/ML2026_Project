@@ -1,0 +1,12 @@
+Title: Computere_skal_renses_efter_hackerorm
+Date: 2003-08-16
+Article Type: Økonomi
+Author: Computergiganten Microsoft afværgede i dag et angreb fra den frygtede computerorm Blaster, der i løbet af ugen har spredt sig til hjemmecomputere over hele verden. Men inficerede computere er nu lette mål for misbrug og bør renses, advarer computerekspert. 
+»Vi er kommet i gennem en række tidszoner uden problemer, og vi forventer ikke at få nogen«, oplyser en talsmand for Microsoft ifølge BBC. 
+Microsoft var forberedt på angrebet, og havde taget initiativer til at bremse computerormen. 
+Selv om angrebet ikke kom til at lamme Microsofts hjemmeside på internettet, sidder 200.000-400.000 private computerbrugere verden over tilbage med inficerede computere, der kan blive udsat for hackerangreb. Trojansk hest
+Computerormen var programmeret til at slå til mod en central microsofthjemmeside ved midnat, men tilsyneladende lykkedes det Microsoft at undgå skader. 
+Rent teknisk har ormen virket ved at placere et lille program i computeren. Det skanner internettet for andre maskiner med Windows med sikkerhedsåbning, som ormen hopper videre til. Desuden lægger ormen et såkaldt trojansk program i computeren, der gør, at den kan fjernstyres af hackere. 
+Derfor er det ifølge direktør Ole Schmitto fra virksomheden eSec managed Security vigtigt for brugerne at få renset deres angrebne hjemmecomputere. 
+Han anbefaler, at de hurtigst muligt opdaterer computeren ved hjælp af Windows update, samt anskaffer et virusprogram og en personlig firewall, der gør computeren mere modstandsdygtig over for angreb.
+

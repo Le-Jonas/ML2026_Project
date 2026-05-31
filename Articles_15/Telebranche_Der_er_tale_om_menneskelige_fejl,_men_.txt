@@ -1,0 +1,9 @@
+Title: Telebranche_Der_er_tale_om_menneskelige_fejl,_men_
+Date: 2019-09-27
+Article Type: Danmark
+Author: Kilometerstore fejlangivelser af masters placeringer skyldes menneskelige fejl, forklarer Teleindustrien.
+
+Jakob Sorgenfri Kjær
+Journalist
+Hvordan kan det lade sig gøre, at en telemast befinder sig 96 kilometer fra sin oplyste adresse i en offentlig database?
+Netop dette er tilfældet for en mast fra Telia og Telenor. Ud fra koordinaterne i databasen står den ved Mandemarke nær Møns Klint. Men mastens adressen fortæller, at den står på Støvlebækvej i Slagelse.

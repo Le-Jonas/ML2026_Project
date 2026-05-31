@@ -1,0 +1,8 @@
+Title: Ingen_panik_over_bankvirus
+Date: 2003-06-10
+Article Type: Økonomi
+Author: Selv om en ny it-virus er avanceret og stiler målrettet mod kunder i netbankerne, vækker den ikke den store uro hos hverken Danske Bank eller it-sikkerhedscentret Dk-Cert under Uni-C. 
+Den nye virus, Bugbear B, betegnes som endnu én i rækken, og den ventes ikke at kunne give problemer for danske netbankkunder, fordi der er en høj sikkerhed i de danske banker. 
+Bugbear B har spredt sig kraftigt de seneste dage, om end der i dag var tegn på, at den i flere lande var ved at klinge af. 
+Der er tale om en virus, der spreder sig via en e-mail, hvor emne og afsender er hentet fra den inficerede pc. Her finder Bugbear B adresser og tekststumper, som den bruger til at 'forklæde' sig med.
+

@@ -1,0 +1,25 @@
+Title: Amazon_vil_stoppe_politiet_i_at_bruge_dets_ansigts
+Date: 2020-06-11
+Article Type: Tech
+Author: E-handelsvirksomheden Amazon vil forsøge at sætte en stopper for politiets brug af selskabets software til ansigtsgenkendelse i et år.
+
+Det skal ske med et såkaldt etårigt moratorie - eller en midlertidig udsættelse.
+Udviklingen sker efter vedholdende kritik fra flere organisationer, der mener, at teknologien på unfair vis kan målrettes forskellige mennesker på baggrund af deres hudfarve.
+»Vi håber, at dette etårige moratorie kan give Kongressen nok tid til at indføre passende regler, og vi står klar til at hjælpe, hvis man beder om det«, skriver Amazon i en pressemeddelelse.
+En koalition af borgerrettighedsgrupper igangsatte denne uge en underskriftsindsamling på nettet.
+Heri opfordrer man til, at Amazon dropper alle forbindelser til politiet og immigrationsmyndighederne.
+Indsamlingen retter sig specifikt imod teknologien Rekognition og overvågningskameraer fra serien Ring til sikkerhed i hjemmet.
+»Amazon er nødt til at gå selskabets strukturelle rolle i systemisk undertrykkelse af sorte efter i sømmene«, siger strategisk direktør hos gruppen Media Justice Myaisha Hayes.
+Det står dog ikke klart, i hvilket omfang Rekognition bruges af politiet eller immigrationsmyndighederne.
+Ring-kameraerne bliver solgt til sikkerhed i hjemmet, men folk kan dele deres video med politiet, hvis de har lyst.
+Amazon siger, at internationale organisationer fortsat vil kunne bruge Rekognition-teknologien til at hjælpe med at redde ofre for menneskehandel.
+Den kan også fortsat bruges til at genforene savnede børn med deres familier.
+»Vi har talt for, at regeringer skal sørge for stærkere regulering for at sikre etisk brug af ansigtsgenkendelse«, skriver Amazon.
+Sidste år afviste aktionærerne i Amazon et forslag om at forbyde salg af ansigtsgenkendelse til regeringer.
+Tidligere på ugen meldte computervirksomheden IBM ud, at det ikke længere vil udvikle software til ansigtsgenkendelse til alment brug.
+Samtidig advarede det over 100 år gamle firma om potentielt misbrug af softwaren.
+ritzau
+fortsæt med at læse
+Regnskaber:
+Krise styrker techgiganter
+Nu rykker Amazon for alvor ind i Danmark

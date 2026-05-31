@@ -1,0 +1,6 @@
+Title: Hackere_kræver_løsepenge_fra_Bornholms_Kommune_efter_angreb
+Date: 2017-05-22
+Article Type: Danmark
+Author: Siden oktober har Bornholms kommunale administration været ramt af over ti hackerangreb. Det oplyser DR P4 Bornholm.
+
+Der er tale om såkaldte ransomware-angreb, hvor filer på kommunens computere bliver låst. Kommunen kan kun få filerne igen ved at betale hackerne eller gendanne filerne fra en backup.

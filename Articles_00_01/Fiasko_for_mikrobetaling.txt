@@ -1,0 +1,22 @@
+Title: Fiasko_for_mikrobetaling
+Date: 2003-05-21
+Article Type: Økonomi
+Author: Claus Cancel
+
+Efter et år, hvor vi har kunnet betale med småpenge på nettet, bruger kun omkring 20.000 mennesker mikrobetaling.
+Et års jubilæum
+En avisartikel: to kroner. En ringetone til mobilen: ti kroner. For et år siden blev Valus, det første mikrobetalingssystem til internettet, lanceret. Nu skulle det være muligt for netvirksomhederne at opkræve småbeløb på nettet, uden at hele fortjenesten ville blive spist op af gebyrer. 
+Eksempelvis forlanger PBS, der administrerer dankortet, omkring to kroner fra virksomhederne for en dankortbetaling på nettet. På den måde er der ikke megen ide i at opkræve en femmer for en ringetone, hvis de to af kronerne alligevel går til gebyrer. 
+Det skulle Valus ændre på. Her skulle virksomhederne kun betale omkring 50-70 øre i gebyr til Valus for at gennemføre en transaktion på fem kroner. Men efter et år er der kun otte internetsteder, der bruger Valussystemet, og kun 12.500 mennesker har meldt sig som brugere. Heraf er det endda kun de 9.000, der bruger systemet aktivt. 
+»Selv vores meget konservative forventninger kan vi ikke påstå er blevet indfriet«, siger Nikolaj la Cour, projektchef i Foreningen af Danske InternetMedier (FDIM), der står bag Valus. 
+»Der skal mange flere produkter på, før brugerne de kommer«.
+Flere konkurrenter
+Valus har siden debuten for et år siden fået to konkurrenter. Coinclick, som bankerne står bag, og eWire, men heller ikke her vrimler det med brugere. eWire har 4.300 aktive brugere, og Coinclick har 20.000, men vil dog ikke oplyse, hvor mange, der er aktive brugere. 
+»Det er ikke særligt mange, men vi vil ikke oplyse det nøjagtige tal, men det er under halvdelen«, siger Lars Fruergaard, administrerende direktør hos Content Billing, der står bag Coinclick. 
+De tre mikrobetalingstjenester kan altså tilsammen kun mønstre omkring 20.000 aktive brugere. Til sammenligning bruger 1,7 millioner mennesker netbank, og sidste år gennemførte vi omkring 3,5 millioner køb på nettet med dankort. Så det er altså ikke, fordi vi ikke vil bruge vores penge i cyberspace.
+Direkte betaling
+»Det tager tid at slå igennem, ligesom det tog tid, før vi begyndte at bruge dankortet på nettet«, siger professor Niels Bjørn-Andersen ved Center for Elektronisk Handel på Copenhagen Business School. 
+»Desuden viser det sig, at abonnementstjenester, hvor man betaler for en række services direkte til webstedet, vinder frem. Det kunne f.eks. være, at man abonnerer på Dating.dk, således at man har en profil og kan se andre profiler via sit abonnement. Den type betaling vinder frem i forhold til betaling for en enkelt ting, som mikrobetalingstjenesterne er gode til«, siger Niels Bjørn-Andersen. 
+Og det er et af de største problemer for mikrobetalingstjenesterne: at de mest succesrige internetsites slet ikke er interesseret i at bruge dem. De laver deres egne mikrobetalingssystemer. Således har Den Blå Avis på nettet lavet Blå Konto, hvor man sætter penge ind, som man så kan bruge af i små doser, når man vil have vist telefonnummeret på den brugte tvillingebarnevogn. Og det passer Den Blå Avis fint, for de penge, man har sat ind på sin Blå Konto, kan man kun bruge hos den Blå Avis. På den måde bliver pengene hos dem, modsat hvis de brugte et af mikrobetalingssystemerne, hvor folk jo kan klatte pengene væk alle mulige andre steder. 
+»Hvis vi skal have flere brugere, så skal blandt andet medierne begynde at gøre alt det, de lovede, da vi startede. Blandt andet begynde at tage betaling for f.eks. avisartiklerne på nettet«, siger Lasse Rungholm, direktør hos eWire. 
+Valus kører i anledning af etårs fødselsdagen et kampagnetilbud, hvormed det bliver billigere for virksomhederne at melde sig til tjenesten.

@@ -1,0 +1,8 @@
+Title: It-sikkerhedsfirma_forudser_mobile_vira
+Date: 2003-12-02
+Article Type: Økonomi
+Author: Inden længe vil computervira som biologiske vira spredes via luften - til for eksempel trådløse netværk og mobiltelefoner. Det forudser it-sikkerhedsfirmaet Symantec i sin årsrapport om truslerne mod den digitale sikkerhed. 
+Symantec mener, at vi vil se flere såkaldte 'blandede trusler', hvor teknikker fra spam, hacking og virus blandes. Samt at mængden af spam-mail også fortsat vokse. 
+I en status over it-sikkerheden i årets løb konstaterer selskabet, at tiden er blevet kortere fra et sikkerhedshul opdages, og til det bliver udnyttet. Det viser nogle af årets voldsomme virusangreb. 'Jeg vil aldrig mere klikke på sære filer'
+Symantec har også udsendt 10 nytårsløfter. De mener, at virksomhedernes ledelser blandt andet skal sætte sig bedre ind i sikkerhedsarbejdet. Private it-brugere kan forpligte sig på ikke at svare på spam, ikke klikke på mærkelige filer i e-mails, ikke sende kædebreve videre samt sørge for at anvende passwords, der er svære at gætte.
+

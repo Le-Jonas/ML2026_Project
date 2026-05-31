@@ -1,0 +1,24 @@
+Title: Telefonkollaps_pa_Riget_under_strømsvigt
+Date: 2003-09-30
+Article Type: Danmark
+Author: Michael Lund og Anders Gylling Trier
+
+Sidste uges strømsvigt i Østdanmark og Sydsverige fik Rigshospitalets livsvigtige kommunikationssystem til at kollapse. Et defekt nødstrømsbatteri betød, at hospitalets interne telefonlinjer døde - med tab af vitale minutter til følge. 
+Hospitalets faste telefonnet såvel som det mobile net får, i modsætning til de øvrige elektriske installationer, ikke nødstrøm fra hospitalets store dieselgenerator. 
+Da nødstrømsbatteriet ikke tog over, måtte kommunikationen gennem det fem timer lange strømsvigt derfor ske via walkie talkies samt blot 20 nødtelefoner, der findes på hospitalets 27 etager fordelt på tre bygninger.
+Kommunikation blev forsinket
+Læger og sygeplejersker måtte tilkaldes af løbende kolleger, og de ansatte hastede mellem afdelingerne med informationer og oplysninger fra patientjournaler, blodprøver og andre laboratorietests. 
+»Hvis der var sket et trafikuheld med mange tilskadekomne, havde det været meget svært at tilkalde ekstra mandskab andre steder på hospitalet. Og hvis en patient et sted i bygningen samtidig havde brug for akut hjælp, havde det også taget ekstra tid at få fat på os«, siger traumekoordinator Birgitte Søhus fra Rigshospitalets Traumecenter, hvor svært tilskadekomne patienter indlægges til akut behandling.
+Kunne have kostet menneskeliv
+Til alt held skete der ikke store ulykker under strømsvigtet, der blandt andet lammede trafiksignalerne i den tætte myldretid. Men hvis traumecentret havde modtaget trafikofre og patienter med hjertestop, kunne de ekstra minutter have kostet menneskeliv. 
+»Hvis der startes genoplivning inden for tre minutter, så er der stor mulighed for at overleve. Men for hvert minut der går derudover, falder sandsynligheden for genoplivning med op til 10 procent. Og efter ti minutter er sandsynligheden meget beskeden«, siger overlæge Peter Clemmensen fra Hjertemedicinsk Klink på Rigshospitalet.
+Computersystem gik også ned
+Heller ikke hospitalets computersystem får nødstrøm fra den dieseldrevne generator. 
+Derfor blev hele det omfattende IT-system - der blandt andet indeholder elektroniske patientjournaler og oplysninger om patienternes værelsesnumre - lukket ned efter blot tre timers strømsvigt, til stor gene for det administrative personale, der måtte skrive vigtige patientoplysninger ned på kladdepapir.
+TDC sagde god for telefoner
+Teknisk chef på Rigshospitalet Ole Bergsten, der har ansvaret for telefonsystemet, siger, at man arbejder på at finde ud af, hvorfor begge telefonsystemer satte ud. 
+»Vi ved, at et af nødbatterierne var defekt. Det var en klar fejl. For fremtiden vil vi sikre os, at de to telefonsystemer ikke begge kan sætte ud, når et strømsvigt rammer os«, siger Ole Bergsten. 
+For blot to måneder siden fik hospitalet tjekket nødstrømsbatterier af TDC - og her fandt man ingen tekniske fejl. Ifølge Ole Bergsten vil man nu i stedet koble telefon- og computersystemet på den dieseldrevne generator, så man ikke er afhængige af batterierne.
+Sundhedsstyrelsen skal vurdere nødberedskab
+Efter sidste tirsdags omfattende og timelange strømsvigt, der efterlod millioner af sydsvenskere og østdanskere uden strøm, har Sundhedsstyrelsen nedsat en arbejdsgruppe, der skal vurdere sikkerheden på de offentlige og private hospitaler. 
+Det sker, efter at Politiken har fortalt om manglen på nødgeneratorer på privatklinikker.

@@ -1,0 +1,22 @@
+Title: Fortsat_meget_høj_trussel_fra_cyberkriminalitet_mod_Danmark
+Date: 2025-11-25
+Article Type: Danmark
+Author: Det er ’meget sandsynligt’, at cyberkriminelle vil forsøge at stjæle data og afpresse danske organisationer.
+
+Truslen fra cyberkriminalitet og cyberspionage mod Danmark er fortsat ’meget høj’.
+Det konkluderer Styrelsen for Samfundssikkerhed i sin nye trusselsvurdering for 2025. Det fremgår af en pressemeddelelse fra styrelsen.
+’Meget høj’ er det højeste niveau på den femtrinsskala, som bliver benyttet.
+»Cybertruslen mod Danmark er alvorlig«, siger minister for samfundssikkerhed og beredskab Torsten Schack Pedersen (V) på et doorstep.
+»Danske myndigheder, virksomheder og borgere udsættes for cyberangreb hver eneste dag. Angreb, som kommer fra både statslige og ikke-statslige aktører«.
+Direktør i Styrelsen for Samfundssikkerhed Laila Reenberg slår uddybende fast, at »det er alle, der risikerer at blive ramt af cyberangreb«.
+Men det er mennesker og organisationer, der arbejder med eksempelvis udenrigs- og sikkerhedspolitik samt kritisk infrastruktur, der er i særlig risiko for at blive ramt, lyder det.
+»Vores trusselniveau er uændret, men hackerne ændrer hele tiden den måde, de angriber vores system på«, siger Laila Reenberg.
+Senest blev en række myndigheder og organisationer ramt af overbelastningsangreb op til kommunal- og regionalvalget. Prorussiske hackere tog ansvaret for de angreb.
+Tidligere har det været Center for Cybersikkerhed, der har stået som afsender på trusselsvurderingen, men centeret hører nu under Styrelsen for Samfundssikkerhed.
+Som noget nyt giver styrelsen vurderinger af forskellige cyberangrebstyper.
+Eksempelvis vurderes det ’meget sandsynligt’, at danske organisationer vil blive ramt af forsøg på datatyveri og afpresning.
+»Truslen kommer både fra fremmede stater, der løbende bedriver cyberspionage mod organisationer i Danmark, og kriminelle, der eksfiltrerer store mængder data fra deres ofre for enten at afpresse dem eller sælge data på det mørke internet«, lyder det.
+Andre angrebstyper kan være forsøg på ransomware-angreb, hvor it-systemer eksempelvis krypteres og gøres utilgængelige, digital svindel og såkaldte DDoS-angreb, hvor man overbelaster hjemmesider eller netværk.
+Antallet af ransomware-angreb mod danske virksomheder, myndigheder og organisationer var i 2024 rekordhøjt, lyder en vurdering fra styrelsen.
+Ligesom i vurderingen fra 2024 er der fortsat ’ingen’ trussel fra cyberterror mod Danmark.
+ritzau

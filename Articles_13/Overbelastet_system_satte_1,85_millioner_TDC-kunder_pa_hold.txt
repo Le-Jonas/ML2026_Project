@@ -1,0 +1,20 @@
+Title: Overbelastet_system_satte_1,85_millioner_TDC-kunder_pa_hold
+Date: 2018-03-07
+Article Type: Digitalt
+Author: Det var en fejl i en underkomponent i TDC's mobilnet, der mandag udløste en overbelastning, som blokerede opkald og ramte 1,85 millioner mobilkunder.
+
+Det oplyser TDC i en pressemeddelelse onsdag.
+Fejlen er nu fundet, oplyser Michael Moyell Juul, der er koncerndirektør i TDC Group.
+»Lige så snart fejlen opstod, inddrog vi alle vores egne såvel som leverandørernes eksperter for at hjælpe med at løse problemet hurtigst muligt«, siger han i en skriftlig kommentar.
+Fejlen viste sig at være opstået i en underkomponent i TDC's mobilnet.
+Mere præcist opstod problemet i det databasesystem, der styrer adgangen til opkald over 4G mobilnet, fremgår det af pressemeddelelsen.
+Det udløste mandag morgen en overbelastning, der blokerede alle udgående- og indgående opkald på TDC's 4G mobilnetværk og IP-telefoni.
+»Vi har nu truffet alle nødvendige foranstaltninger for at sikre robustheden af underkomponenten«, siger koncerndirektøren.
+Nedbruddet opstod mandag morgen. Her var 450.000 kunder berørt til at starte med. Men i løbet af dagen steg antallet, og da omfanget var størst, berørte det 1,85 millioner kunder.
+Michael Moyell Juul beklager over for dem, der har været berørt.
+»Vi har prioriteret alt disponibelt mandskab for at sikre, at driften blev stabil så hurtigt som muligt, men er godt klar over, at denne fejl har været til stor gene for vores kunder«, siger han.
+De berørte kunder var enten på mobilnet eller benyttede IP-telefoni, der er fastnettelefoni over en bredbåndslinje.
+ritzau
+fortsæt med at læse
+450.000 uden mobilforbindelse: TDC's netværk er ramt af kæmpe nedbrud
+TDC-bejlere fremsætter officielt købstilbud

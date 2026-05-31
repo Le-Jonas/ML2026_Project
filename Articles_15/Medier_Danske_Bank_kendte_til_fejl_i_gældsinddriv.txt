@@ -1,0 +1,24 @@
+Title: Medier_Danske_Bank_kendte_til_fejl_i_gældsinddriv
+Date: 2020-08-31
+Article Type: Virksomheder
+Author: Danske Bank har haft kendskab til problemer med gældsinddrivelse i bankens inkassoafdeling siden 1992.
+
+Det skriver
+TV 2
+og Berlingske, dagen efter at samme medier kunne afsløre, at Danske Bank på grund af en fejl har inddrevet for meget gæld fra tusindvis af kunder.
+En undersøgelse foretaget af advokathuset Plesner afslører nu ifølge begge medier, at banken har kendt til en del af problemerne siden 1992.
+Af undersøgelsen fremgår det, at ledelsen i banken er blevet gjort opmærksom på problemerne i inkassoafdelingen.
+Allerede ved implementeringen af det nuværende digitale inkassosystem blev banken bekendt med systemfejlen, skriver TV2.
+Oplysningerne sår nu tvivl om bankens forklaring i sagen.
+Underdirektør Rob De Ridder har således forklaret, at banken først blev opmærksom på problemerne i 2019.
+»Direktøren forsøger jo at dække sig ind under, at det først er gået op for banken, at der er tale om systematiske fejl sidste år«.
+»Men det her efterlader ingen tvivl om, at ledelsen i banken i årevis har kendt til de systematiske problemer. Det fremgår klokkeklart. Det, han siger, passer simpelthen ikke«.
+Sådan lyder vurderingen fra Erik Frøkjær over for TV 2.
+Han er ekstern lektor på Datalogisk Institut under Københavns Universitet og har mange års erfaring som både rådgiver og udvikler af store it-projekter. Han har gennemgået en del af advokaternes undersøgelse.
+TV2 og Berlingske er i besiddelse af flere af advarslerne, der ligger bag advokaternes konklusioner.
+Det gælder blandt andet notater fra 2008 og 2009.
+I Danske Bank afviser underdirektør Rob De Ridder at have kendskab til de konkrete advarsler.
+»Jeg kan bekræfte, at jeg ikke har haft nogen viden om de omtalte dokumenter. Jeg har set dokumentet fra 2009, men først for en time siden«.
+»De to andre interne notater har jeg aldrig set. Jeg var ikke en del af banken dengang«, siger han til TV 2.
+ritzau
+fortsæt med at læse

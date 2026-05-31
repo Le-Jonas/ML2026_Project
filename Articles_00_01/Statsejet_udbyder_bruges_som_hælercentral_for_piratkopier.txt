@@ -1,0 +1,23 @@
+Title: Statsejet_udbyder_bruges_som_hælercentral_for_piratkopier
+Date: 2004-08-12
+Article Type: Kultur
+Author: Rasmus Dahl Pedersen og Knud Lind Therkildsen
+
+Elever på landets folkeskoler, gymnasier og studerende på de videregående uddannelser har via statens egen internetudbyder adgang til enorme mængder ulovligt materiale i nyhedsgrupperne på det verdensomspændende Usenet. Det er et gigantisk diskussionsforum, der også bruges til at udveksle filer. 
+Uni-C giver adgang til mere end 25.000 nyhedsgrupper, heriblandt mange, der primært bruges til at udveksle piratkopier af musik og film.
+Høj hastighed
+Nyhedsgrupperne er populære blandt brugerne. Ikke mindst på de videregående uddannelser. Af Uni-C's egen statistik fremgår det, at næsten al trafik på nyhedsserveren foregår i de grupper, hvor de ulovlige filer typisk er placeret. Er man ude efter ulovligt materiale, er Uni-C et godt valg. For mens de fleste danske internetudbydere har sat en grænse for hastigheden, når det gælder download af data fra deres nyhedsgrupper, er der fuld fart på hos Uni-C. 
+Politiken prøvekørte forbindelsen fra en af landets mange videregående uddannelsesinstitutioner. Resultatet ville gøre en hver pirat misundelig. På under en time lykkedes det at downloade en hel film i dvd-kvalitet. Det svarer til en rå datamængde på 4,5 gigabyte eller mere, end der kan ligge på seks cd'er. Havde vi været ude efter musik, ville vi på den samme tid kunne hente mere end 1.000 sange.
+Velegnet til undervisning
+Uni-C er underlagt de samme regler som kommercielle internetudbydere. Det betyder blandt andet, at de ikke kan gøres ansvarlige for eventuelle ulovlige filer på deres nyhedsserver. 
+Alligevel er Socialdemokratiets it-ordfører rystet over, at Uni-C ikke gør noget for at lukke sit piratvarelager. 
+»Det er et stort problem, at de har så meget ulovligt materiale liggende. Også for undervisningsministeren. Det er jo et selskab, vi har postet millioner i, og samtidig er det dem, der leverer internet til alle skolerne«, siger Thomas Adelskov. På Uni-C's egen hjemmeside kan man læse, at nyhedsgrupperne er velegnede til brug i undervisningen. Blandt andet fordi man har opsat et filter, der gør, at »90-95 procent af forstyrrende sex-indlæg sorteres fra«, som Uni-C beskriver det. Det gælder dog kun på det såkaldte Sektornet, som er det netværk, landets folkeskoler er koblet på. På Forskningsnettet, der betjener de videregående uddannelser, er der frit valg på alle hylder. 
+Fælles for de to separate netværk er dog, at der ikke findes noget filter, der fjerner det piratkopierede materiale. Helt på linje med de private selskaber er det ikke noget, Uni-C ønsker at tage stilling til. 
+»Vi vil ikke udøve censur. Det ville stille os i en meget vanskelig situation, hvis vi begyndte på det«, siger Ole Kjærgaard, der er chef for den afdeling af Uni-C, der driver Forskningsnettet. 
+»Vi ville jo straks blive mødt med protester over, hvorfor vi fjerner noget og ikke noget andet. Og det ville være fuldstændigt umuligt at holde styr på, hvad der foregår i alle nyhedsgrupperne«, mener Ole Kjærgaard.
+Ministeren bakker op
+Umiddelbart er det en overkommelig opgave at rense ud i den mest åbenlyse del af ulovlighederne. Mange af nyhedsgrupperne har navne, der tydeligt indikerer, at indholdet for en stor dels vedkommende næppe er lovligt. Politiken overvågede grupperne 'dk.binaer.film' og 'dk.binaer.musik' på Uni-C's server i 14 dage og fandt tusindvis af ulovlige sange og film. Det lykkedes ikke at finde én eneste sang eller film, som ikke er omfattet af ophavsretsloven. 
+Der findes masser af grupper som de to omtalte, og teknisk ville det være simpelt at fjerne dem fra Uni-C's server, men det afviser sikkerhedschef Ole Kjærgaard. 
+»Dem, der vil udveksle ulovligt materiale, de finder en måde at gøre det på, ligegyldigt hvor mange grupper vi lukker for«, siger han. 
+Undervisningsminister Ulla Tørnæs (V), der er øverste politiske chef for den statsejede internetudbyder, bakker Ole Kjærgaard op. Hun hæfter sig ved, at Uni-C fjerner ulovligt materiale, når de gøres opmærksom på det, og på eget initiativ filtrerer pornografisk materiale bort på Sektornet. Ifølge ministeren behøver Uni-C ikke foretage sig mere for at begrænse den omfattende mængde piratkopier på deres server, på trods af at hun som de øvrige medlemmer af Venstre for nylig stemte for en lov, der hæver loftet for krænkelser af ophavsretsloven til 6 års fængsel. 
+»Jeg er tryg ved Uni-C´s politik på området, selv om man selvfølgelig aldrig fuldstændig kan undgå, at der er mennesker, som forsøger at misbruge den service, Uni-C stiller til rådighed«, lyder det fra Ulla Tørnæs.

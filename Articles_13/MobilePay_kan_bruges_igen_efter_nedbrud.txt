@@ -1,0 +1,6 @@
+Title: MobilePay_kan_bruges_igen_efter_nedbrud
+Date: 2017-02-15
+Article Type: Digitalt
+Author: I over en time onsdag aften var alle Danske Banks it-systemer nede. Det ramte både bankens netbank og den meget brugte mobilbetalingsløsning MobilePay.
+
+Kort før klokken 19 var problemet dog løst.

@@ -1,0 +1,9 @@
+Title: Firma_forsøgte_at_skjule_stor_læk_af_forsikringsku
+Date: 2020-09-13
+Article Type: Danmark
+Author: Knap 1,7 millioner navne på blandt andre forsikringskunder med tilknyttede helbredsoplysninger blev i strid med regler og aftaler overført til Ukraine i tre måneder. Den ansvarlige bag fejlen frarådede at underrette myndighederne, som loven kræver.
+
+Jakob Sorgenfri Kjær
+Journalist
+I 90 dage og 17 timer frem til 4. september 2019 blev knap 1,7 millioner navne med i nogle tilfælde tilkoblede fortrolige persondata og følsomme helbredsoplysninger lækket fra det digitale skadebehandlerfirma Scalepoint og eksponeret i det usikre tredjeland Ukraine. En aktindsigt fra Datatilsynet viser, at det store it-sikkerhedsbrud berører knap 900.000 danske forsikringskunder fra otte forskellige selskaber.
+Korrespondancer viser, at en medarbejder i Topdanmark opdagede sikkerhedsbristen 4. september sidste år, hvorefter sikkerhedshullet blev lukket. Men da Scalepoint dagen efter orienterede de implicerede forsikringsselskaber om hændelsen, skete det med en anbefaling om ikke at anmelde sagen til myndighederne, hvilket databeskyttelsesloven (GDPR) ellers kræver:

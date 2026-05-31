@@ -1,0 +1,38 @@
+Title: Danskere_bag_talende_e-mail
+Date: 2003-01-01
+Article Type: Økonomi
+Author: Mette Hjermind McCall
+
+»Velkommen til Adomo. Du har fem ulæste e-mails og to møder planlagt i dag. Hvad har du lyst til at gøre?«. Fra Adomos server toner en venlig damestemme frem og begynder at læse dine e-mail op, finde kontakt- og kalenderoplysninger frem, sende attachments til fax samt optage og sende lydfiler som svar på e-mail. 
+ Det lyder som fremtidsmusik, men er det ikke.
+Gode vækstrater
+Det fungerer og har siden lanceringen tidligere i år dannet grundlag for vækstrater, der vidner om, at it-udviklingen ikke er gået i stå, selv om den økonomiske boble brast. 
+ Bag opfindelsen er en lille gruppe danskere, som stiftede Adomo i 1999. Visionen var, at brugeren kun skulle anvende sin egen stemme og en hvilken som helst telefon for at nå sin elektroniske postkasse. 
+ »60 millioner mennesker på det amerikanske arbejdsmarked er væk fra deres kontor mindst 20 procent af tiden, hvor de ikke har nogen umiddelbar mulighed for at tjekke deres e-mail. Samtidig får vi flere og flere vigtige beskeder via e-mail, som man burde kunne modtage på alle tidspunkter i døgnet«, siger Jesper Strøe, Adomos finansdirektør og en af grundlæggerne af firmaet.
+Omsætning op med 50-100 pct.
+Han kan sammen med kollegerne Jens Skakkebæk og Jeff Snider se tilbage på tre års udvikling af et produkt, som siden lanceringen tidligere i år har indbragt Adomo en omsætning, som er vokset med mellem 50 og 100 procent kvartal for kvartal. 
+ En vækst, som de venter vil fortsætte i den kommende tid.
+Rutsjebanen
+Umiddelbart er det en succeshistorie, men før Adomo er nået så vidt, har firmaet taget en gevaldig tur i silikonedalens økonomiske rutsjebane. 
+ Turen startede på toppen, da tiltroen til alt, hvad der endte med '.com', var enorm. 
+ »Folk dansede jo nærmest rundt herovre. Penge fra venturefondene fossede ind i firmaerne. Alle beløb som blev nævnt var i millionvis af dollars,« fortæller Jeff Snider, Adomos amerikanskfødte administrerende direktør. 
+ Efter at have boet det meste af sit voksne liv i Danmark, kom han tilbage til USA i 1998, som en af medstifterne i firmaet TouchWave. TouchWave, som Jesper Strøe også var medstifter af, blev opkøbt af Ericsson for 46 millioner dollar - 327 millioner kroner - i april 1999. I Californien mødte de Jens Skakkebæk, som på det tidspunkt var
+research associate
+på Stanford Universitys fakultet for computervidenskab. 
+ »Vi havde en ide, som blev virkelig godt modtaget. Det, at vores styresystem var linuxbaseret, blev set som det helt vilde«, fortæller Jens Skakkebæk. Han er nu Adomos vicedirektør og har stået for meget af den tekniske udvikling af produktet.
+Boblen brast
+Men bedst som ideen tog form på tegnebrættet, faldt bunden ud af det overophedede marked. IT-aktierne styrtdykkede, investorerne trak i nødbremsen og massefyringer flugte med over alt i dalen. Adomo måtte som alle andre foretage nogle drastiske nedskæringer for at overleve. Firmaet havde blandt andet en udviklingsafdeling i København, som blev flyttet til USA. 
+ »Vi brugte nok for mange penge dengang. Da nedturen kom, blev vi nødt til at skære omkostningerne ned med to tredjedele. Mange som knækkede nakken, kunne ikke finde ud af at sadle om og drive forretning på lidt mere jordnære præmisser. Det kunne vi, og det er forklaringen på, at vi er blandt de 20 procent, som overlevede«, mener Jesper Strøe.
+Medarbejderaktier
+En del af hans løsning var medarbejderaktier i stedet for noget af lønnen. 
+ »Og så betød krakket jo også, at vi pludselig kunne få råd til gode folk og billige lokaler herovre«, tilføjer Jeff Snider. 
+ Jens Skakkebæk fortæller, at det ikke var svært at overbevise medarbejderne om, at de var nødt til at få noget af deres løn udbetalt som aktier.
+'Mange kunder er ikke mentalt klar'
+For et år siden var Adomo endelig klar til at lancere produktet. Behovet for en talende e-mail var i mellemtiden ikke blevet mindre, men det var købekraften til gengæld. 
+ »Mange af vores potentielle kunder er mentalt slet ikke på et niveau, hvor de er parate til at tage nye ting til sig, for dem handler det bare om at få deres computernetværk til at køre videre med langt færre ressourcer. Det er alt, hvad de kan overskue i øjeblikket«, siger Jesper Strøe. 
+ Alligevel er Adomos salg gået fremad. Målgruppen er mellemstore virksomheder og et af trickene er at få overbevist kunderne om, at der er tid og dermed penge at spare, når en højtbetalt medarbejder kan bruge spildtid på at tjekke e-mail. 
+ En af Adomos kunder er Keith Hannah, IT-manager på Instituttet for børnesundhed, på Florida University. 
+ »Vi undersøgte også andre muligheder for trådløs tjekning af e-mail, men det ville løbe op i titusindvis af dollar for os i løbende service og ekstra hardware. Adomos boks skal bare sluttes til vores egen server, så det er nemt at have med at gøre«, siger han og nævner også forward-funktionen som et plus.« 
+ »Vores medarbejdere kan stå i lufthavnen og videresende vedhæftede filer, som for eksempel spreadsheets, til faxen på deres hotel. Det har sparet os meget besvær. Da vi først begyndte at bruge Adomo, var e-mail til mobiltelefoner og palmpilots slet ikke blevet lanceret endnu. Nu er vi er begyndt at bruge det som supplement, men vores medarbejdere understreger stadig, at de godt kan lide at slippe for besværet med at taste beskeder ind«, fortæller han. 
+ I Colorado troede Eric Manuel, vicedirektør for information services på National Renewable Energy Lab, at Adomo var et kæmpestort firma med tusindvis af både ansatte og kunder. 
+ »Jeg regnede med, at vi skulle ud i en stor investering for at bruge deres produkt, men det har samlet kostet os cirka 5.000 dollar - cirka 40.000 kroner. Et sådant beløb behøver man ikke skulle forsvare over for nogen,« siger Eric Manuel og tilføjer, at systemet har været meget anvendt i bilerne på vej til arbejde og blandt andet også har hjulpet en svagtseende medarbejder.

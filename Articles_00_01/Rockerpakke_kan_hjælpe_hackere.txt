@@ -1,0 +1,16 @@
+Title: Rockerpakke_kan_hjælpe_hackere
+Date: 2003-05-20
+Article Type: Danmark
+Author: Peder Bjerge og Henrik Groes-Petersen
+
+Edb-hackerne går gyldne tider i møde, hvis regeringen kommer igennem med sin rockerpakke, spår fagforbundet Prosa. Det advarer mod at udvide politiets adgang til at trænge ind i og aflæse edb-systemer.
+Nyt indgreb vil udvide mulighederne
+Regeringen vil med rockerpakken udvide politiets muligheder for - med en dommerkendelse - at følge med i mistænkte personers computere. Det fik politiet sidste sommer mulighed for i terrorsager. Med det nye indgreb vil politiet også kunne bruge dette efterforskningsmiddel under efterforskningen af grov kriminalitet.
+Ny hjemmeside
+Prosa mener, at rockerpakken åbner en glidebane mod overvågningssamfundet, når regeringen vil give politiet adgang til også at trænge ind i folks computere i sager om groft skattesvig. 
+ Samtidig er fagforbundet bange for, at politiet vil komme til at åbne nogle 'bagdøre' i computerne, som hackere og andre så frit kan udnytte til industrispionage eller til at krænke privatlivets fred. 
+Sammen med andre it-organisationer åbnede forbundet derfor i går på internettet en hjemmeside - www.1984.dk - med gode råd om, hvordan edb-brugere kan gøre det vanskeligt for fremmede at trænge ind i deres systemer. 
+»Vi har ikke fundet én metode til at forhindre indtrængning, men en serie værktøjer, der kan gøre det vanskeligere. Vi er i en situation, hvor der løbende bliver fundet nye veje af politiet og af hackerne. Alle, der har en privat pc, må så finde modforholdsregler. Derfor vil vores hjemmeside også blive opdateret løbende«, siger Prosa-formand Peter Ussing.
+Skjult i computerne
+Han mener, at det vil smitte af på hackerne, hvis politiet får øgede beføjelser til at trænge ind i computere med såkaldte sniffer-programmer: »Der vil komme en ny type programmer, som ikke kan opdages, men som er anerkendt af myndighederne, og som vil blive skjult i pc'erne. Det er den slags programmer, vi er bekymrede for«, siger Peter Ussing. 
+Prosa har i et brev til Folketingets Retsudvalg opfordret til at udsætte denne del af rockerpakken, indtil den er undersøgt mere grundigt.

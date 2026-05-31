@@ -1,0 +1,11 @@
+Title: PBS-fejl_satte_internet-butikker_ud_af_spil
+Date: 2005-01-24
+Article Type: Økonomi
+Author: En teknisk fejl hos betalingsformidlingsselskabet PBS har i løbet af weekenden ført til kaos for en række internet-butikker. 
+Kunderne kunne ikke gennemføre betalinger på de internet-steder, der var ramt af fejlen. 
+Mobilselskabet CBB Mobil er blandt de ramte. Firmaet er rasende på PBS og mener, at fejlen har kosten en million kroner i mistet omsætning, fordi weekenden typisk er en periode, hvor CBB-kunder tanker ny taletid til deres mobiltelefoner. 
+»Jeg er harmdirrende. 2005 er af alle eksperter udråbt til året, hvor handlen på internettet for alvor skal brage igennem, og så er sådan en omgang amatørisme og dilettanteri skyld i, at vores forretning er lukket ned i mere end to dage«, lyder det fra CBB's direktør Teddy Søgaard Pedersen. Fejlen rettet
+Hos PBS har man i løbet af weekenden søgt at forstå, hvad der var galt, men først mandag stod det klart, at problemet lå i PBS's egne systemer. 
+Man har nu fået fejlen rettet, oplyser Dainis Krastins, direktør for it-drift i PBS. 
+Han kan ikke give noget tal for, hvor mange PBS-kunder der havde været ramt af problemet.
+

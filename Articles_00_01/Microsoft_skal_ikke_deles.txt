@@ -1,0 +1,16 @@
+Title: Microsoft_skal_ikke_deles
+Date: 2001-09-06
+Article Type: Økonomi
+Author: Lars Dahlager
+
+Politiken fredag:
+I Microsofts hovedkvarter i Redmond, Seattle, kunne man formentlig høre et kollektivt suk af lettelse, da det amerikanske justitsministerium i går annoncerede, at det opgiver at kræve softwaregiganten splittet op i to selvstændige firmaer. 
+ Dermed mister distriktsdomstolen i Washington reelt muligheden for at stadfæste en tidligere dom mod Microsoft og splitte firmaet i to. 
+ Ifølge analytikeren Susanne Arildsen skyldes justitsministeriets kovending, at de politiske vinde i USA er skiftet. Præsident George W. Bush og hans justitsminister John Ashcroft anses for mere venligsindede over for Microsoft. Blandt andet gled Ashcroft af på spørgsmål om, hvordan Microsoft skulle straffes, da han blev udspurgt om sagen under en senatshøring. 
+ »Der er kommet en ny regering, der ikke har lyst til at følge den her sag til dørs. Det her er trods alt Microsoft. Det svarer jo til, hvis vi herhjemme førte en sag mod A.P. Møller«, siger Susanne Arildsen, der er nordisk analysechef for analyseinstituttet IDC.
+Svage sanktioner
+Microsoft blev i juni sidste år dømt til at splittes op i to selskaber: Et der udvikler styresystemet Microsoft Windows og et, der producerer andre programmer, heriblandt kontorprogrammet Microsoft Office. Men dommen blev senere underkendt af appelretten. Den stadfæstede, at Microsoft havde udnyttet sin monopolstilling på ulovlig vis, men sendte straffen - at selskabet skulle opsplittes - tilbage til distriktsretten. Her skal dommer Colleen Kollar-Kotelly nu finde en passende sanktion mod virksomheden. 
+ Men justitsministeriet vil nu kun kræve sanktioner i, hvordan Microsoft skal opføre sig over for konkurrenter og samarbejdspartnere. Det er sanktioner, som Microsoft et langt stykke ad vejen allerede har rettet sig efter. 
+ I sin udtalelse åbner ministeriet dog op for, at Microsofts kommende styresystem, Windows XP, kan komme under ministeriets lup. Styresystemet, der kommer på markedet i næste måned, er blevet kritiseret for at integrere nye programmer, der vil gøre det svært at overleve for konkurrerende produkter. Blandt andet vil EU-kommissionen undersøge, om det er lovligt, at Microsoft har givet sin egen medieafspiller (der bruges til at afspille musik og film på en pc) forrang ved at integrere den i styresystemet. 
+ I Microsofts danske afdeling ånder man lettet op efter justitsministeriets dom. 
+ »Der er ingen tvivl om, at det her har optaget os meget«, siger Jens Moberg, der er administrerende direktør for Microsoft i Norden. Han mener, at justitsministeriet med sin beslutning har erkendt, at firmaet skal have ret til at udvikle sit styresystem og tilføje nye funktioner.

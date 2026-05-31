@@ -1,0 +1,19 @@
+Title: Fælles_front_for_Linux
+Date: 2002-11-13
+Article Type: Økonomi
+Author: Sisse K. Ibsen
+
+It-græsrøddernes yndling, styresystemet Linux, skal være et reelt alternativ til Microsoft. Det arbejder fire Linux-firmaer verden over på - i samarbejde med store it-spillere som Hewlett-Packart, IBM og Oracle. 
+Firkløveret har sammen udviklet en standardiseret udgave af styresystemet. Produktet 'United Linux' skal sammen med telefonsupport og undervisning sælges til myndigheder og firmaer, som vil have et billigt og trygt alternativ til gængse styresystemer som Microsofts Windows. 
+»Der er to grunde til, at vores produkt kommer på gaden på det rigtige tidspunkt. Der er utilfredshed med Microsofts licensbetingelser (der betyder, at man betaler licens hvert år, red.), og der er dårlige økonomiske betingelser. Det betyder, at der skal spares - også på it-budgetterne«, siger Greg Bogochwalski, europæisk direktør for softwarefirmaet SCO. Amerikanske SCO står sammen med europæiske SuSE, japanske Conectiva og brasilianske Turbolinux bag initiativet.
+Rigtige firmaer giver tryghed
+Greg Bogochwalski mener, at især trygheden forbundet med et produkt fra rigtige firmaer - og ikke blot hentet ned fra nettet - vil gøre United Linux til et reelt alternativ. Hos danske Linux-eksperter kaldes det helt forventelig, at firmaerne er gået sammen om en fælles løsning. 
+ »Linux er allerede i dag et reelt alternativ. Men en standardisering er helt afgørende for den fortsatte succes for Linux på servere«, siger lektor Jens Hørlück, Aarhus Universitet. 
+Jens Hørlück er medforfatter til en ny rapport fra Teknologirådet, som anbefaler open source i den offentlige sektor.
+Skuffede græsrødder
+Hos danske og internationale Linux-græsrødder er begejstringen knap så udbredt. Her hæfter man sig ved, at United Linux tilsyneladende skal distribueres på lukkede cd-rom'er, uden at køberne får adgang til systemets kildetekst. 
+ »Det må man ikke. Ifølge licensbetingelserne for Linux har brugerne lov at få kildeteksten med«, siger it-konsulent Hans Schou, aktivist i danske Linux-græsrodskredse.
+Åbenhed
+Organisationen Free Software Foundation har derfor kontaktet United Linux og bedt dem leve op til kravene om åbenhed. 
+Hos Microsoft Danmark finder man det for tidligt at kommentere den nye konkurrent. Produktet United Linux bliver da også først officielt præsenteret på it-messen Comdex i næste uge i Las Vegas. 
+United Linux er et produkt til centrale computere, såkaldte servere og ikke et produkt til private. Men SCO regner med at levere et gratis Linux-styresystem til private inden årets udgang.

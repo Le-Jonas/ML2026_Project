@@ -1,0 +1,6 @@
+Title: Tyske_ministerier_blev_systematisk_hacket_i_et_helt_ar
+Date: 2018-02-28
+Article Type: Internationalt
+Author: I over et år har hackere, formentlig fra den russiske gruppe APT28 eller ’Fancy Bear’, kunnet følge med i oplysninger og kommunikation hos det tyske udenrigsministerium og forsvarsministerium.
+
+Det oplyser et helt tredje ministerium, indenrigsministeriet, der har ansvaret for den indre sikkerhed i Tyskland.

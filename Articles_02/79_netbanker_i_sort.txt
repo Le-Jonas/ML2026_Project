@@ -1,0 +1,8 @@
+Title: 79_netbanker_i_sort
+Date: 2005-01-04
+Article Type: Økonomi
+Author: 79 mindre danske pengeinstitutter har siden mandag været utilgængelige for deres netbankbrugere. 
+Det skyldes driftsproblemer for homebankingsystemet Portalbank, der drives af SDC. 
+»Vi har endnu ikke fundet fejlen, så det er svært at sige, hvornår systemet kommer op at køre igen«, siger Børge Bisgaard, kundedirektør i SDC, til it-nyhedstjenesten Comon.dk. SDC oplyser ifølge Computerworld online, at man tirsdag formiddag har indkaldt eksperter fra Frankrig og USA for at få læst problemerne, der ser ud til at gemme sig i en central database. 
+Portalbank er en tjeneste til bankerne, der gør det muligt at tilbyde bankkunderne, at netbanken ikke er knyttet til én computer. Nøgleoplysningerne lægges på en diskette, og dermed kan brugerne anvende netbank fra enhver pc.
+

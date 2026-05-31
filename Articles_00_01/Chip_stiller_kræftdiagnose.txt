@@ -1,0 +1,19 @@
+Title: Chip_stiller_kræftdiagnose
+Date: 2002-12-08
+Article Type: Danmark
+Author: Kaare Skovmand
+
+Forskere fra Skejby Sygehus har udviklet en dna-chip, der gør det muligt at foretage en langt sikrere diagnose af blærekræft. Ved hjælp af chippen kan lægerne afgøre, om en svulst er meget alvorlig og derfor kræver en mere aggressiv behandling - eller om patienten kan slippe med en mild behandling. 
+ »Vi er længst fremme i verden med denne form for gentest. Med dna-chippen bliver det nemmere at diagnosticere, og dermed er der mindre risiko for fejlbehandling«, siger lederen af forskningsprojektet, professor, overlæge, dr.med. Torben Ørntoft.
+Hidtil har man fjernet svulsten
+Blærekræft er med 1.600 nye tilfælde hvert år den tredje mest hyppigste kræftform hos danske mænd efter lungekræft og prostatakræft. Hidtil har den eneste metode til at diagnosticere sygdommen været at fjerne svulsten ved hjælp af kikkertkirurgi og undersøge den under et mikroskop. 
+ »Men med vores dna-chip kan vi stille en langt bedre og sikrere diagnose og give en vurdering af, hvordan sygdommen vil udvikle sig. Det er af stor betydning for patienterne«, siger Torben Ørntoft. 
+ Baggrunden for dna-chippen, der ventes at få betydning for blærekræftpatienter kloden over, er, at forskerne har fundet ud af, hvilke gener der forårsager de forskellige former for svulster. Dermed har man samtidig mulighed for at finde præcis det stof, som kan blokere svulstens udvikling fra godartet til ondartet. 
+ Der er gået et enormt knokkelarbejde forud for præsentationen af den færdige chip i dag i det fornemme tidsskrift Nature Genetics. Siden 1994 har man haft en bioanalytiker til at stå klar ved operationsbordet, hver gang en patient blev opereret. Bioanalytikeren har puttet en prøve fra svulsten på is, lige efter den blev fjernet, og på den måde har forskerne på Skejby fået det bedst tænkelige materiale til deres forskning.
+40.300 prøver
+I alt blev der indsamlet 40.300 prøver til en vævsdatabase. På grundlag af basen udvalgte forskerne derpå 32 gener blandt ca. 5.000, som blev undersøgt. En sammenligning af de 32 gener med genetisk materiale fra en vævsprøve fra svulsten vil fortælle forskerne kolossalt meget. 
+ »For eksempel har vi ved hjælp af vores chip fundet ud af, at nogle af de svulster, som man efter mikroskopisk diagnostik troede var godartede polypper, vil udvikle sig til livsfarlige svulster inden for to år«, fortæller Torben Ørntoft.
+Også til brystkræft
+Tidligt inde i det nye år vil lægerne på Skejby Sygehus begynde at anvende de nye chips på alle patienter med blærekræft. 
+ »Der vil formentlig skulle gå et årstid, før vi med sikkerhed kan begynde at se, om chippens diagnose har været rigtig«, siger Torben Ørntoft. 
+ Dna-chip-teknologien er også forsøgsvis taget i anvendelse inden for diagnostik af brystkræft. I foråret meddelte en gruppe hollandske forskere, at de nu brugte dna-chip for at afgøre, om brystkræft ville sprede sig i kroppen eller ej. Det er udviklingen af disse såkaldte metastaser, der gør brystkræft til en dødelig sygdom. Viser chippen, at udsigterne er dystre, får patienterne kemoterapi - mens andre patienter kan slippe for den belastende behandling.

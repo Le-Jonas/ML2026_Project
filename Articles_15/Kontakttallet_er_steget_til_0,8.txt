@@ -1,0 +1,24 @@
+Title: Kontakttallet_er_steget_til_0,8
+Date: 2021-01-26
+Article Type: Sundhed
+Author: Sundhedsminister Magnus Heunicke (S) oplyser på Twitter, at både kontakttallet for den mere smitsomme coronavariant B117 og det overordnede kontakttal er i vækst.
+
+Kontakttallet – også kendt som smittetrykket – er steget den seneste uge. Det er nu opgjort til 0,8, oplyser sundhedsminister Magnus Heunicke (S) på Twitter.
+I sidste uge blev tallet opgjort til 0,6, men det bliver løbende justeret, og det er blevet opjusteret til 0,7. Tallet for den mere smitsomme britiske variant – kendt som B117 – er isoleret set 1,07, og den er dermed i vækst. Tallet er en stigning i forhold til sidste uge, hvor kontakttallet for B117 blev beregnet til 0,82. Kontakttallet for B117 er dog udregnet på en ny måde end tidligere og behæftet med stor usikkerhed.
+»Vi har nyt beregnet kontakttal, det er i dag 0,8. Samtidig estimerer SSI kontakttallet for den britiske variant B117 til 1,07, det vil sige, den er i vækst i Danmark og vil få overtaget«, skriver Magnus Heunicke på Twitter.
+Kontakttallet bestemmes ud fra en matematisk beregning, hvor man forsøger at estimere, hvor smitsom en virus er. Hvis tallet er over 1, vil epidemien være stigende, mens den er aftagende, hvis tallet er under 1. Når kontakttallet er 0,8, vil det ifølge beregningen betyde, at 100 smittede sender smitten videre til 80 andre. Hvis man ser på den britiske variant alene, vil 100 smittede ifølge beregningen smitte 107 personer.
+Fakta
+Sådan udregnes kontakttallet
+Her følger en forklaring af, kontakttallet er, og hvordan det udregnes:
+Sådan udregnes kontakttallet:
+Kilde: Statens Serum Institut (SSI), Viggo Andreasen, epidemiolog, RUC.
+Den britiske variant er årsagen til, at Danmark i øjeblikket er midt i en omfattende nedlukning med lukkede skoler, detailhandel og et forsamlingsloft på fem personer. Sundhedsmyndighederne har vurderet, at den britiske variant på et tidspunkt vil blive den mest dominerende coronavariant.
+Hans Jørgen Kolmos, der er professor i mikrobiologi ved Syddansk Universitet, er bekymret over de stigende kontakttal.
+»Smittetallene (de overordnede, red.) ser umiddelbart pæne ud og fortsætter de seneste dages tendens. Men jeg bryder mig ikke om at se, at kontakttallene for både de almindelige coronastammer og den engelske variant stiger. Der er set med mine øjne ikke noget, der berettiger til, at vi kan begynde at lempe på restriktionerne«, siger Hans Jørn Kolmos.
+Sundhedsmyndighederne har vurderet, at den britiske variant på et tidspunkt vil blive den mest dominerende coronavariant. I sidste uge – som er den seneste uge, der er data for – udgjorde den britiske variant 12,1 procent af de positive coronaprøver, som er analyseret. Det tal kan løbende ændre sig, da der er en vis forsinkelse i at analysere prøverne for, hvilken variant de er.
+Opdateres ...
+ritzau
+fortsæt med at læse
+Efter rekorduge falder antallet af coronadødsfald på plejehjem
+Nye tal:
+Så udbredt er B117 blandt de nyeste smittetilfælde

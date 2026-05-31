@@ -1,0 +1,23 @@
+Title: Region_Syddanmark_risikerer_historisk_stor_bøde_for_to_databrud
+Date: 2024-12-10
+Article Type: Sundhed
+Author: Region risikerer bødestraf, fordi uvedkommende fik adgang til database med oplysninger om over 30.000 børn.
+
+Region Syddanmark er endt på anklagebænken, fordi den angiveligt havde rod i datasikkerheden. Uvedkommende kunne få adgang til mange tusinde borgeres personfølsomme data, fremgår det af anklageskriftet.
+Sagen, der behandles ved Retten i Kolding, handler om to lovbrud, der angiveligt fandt sted i 2018-2020. I det ene tilfælde havde Region Syddanmark en database til forskningsmæssige og kliniske formål. Men de borgere, der var registreret i databasen, og som havde et login til den, kunne få adgang til personoplysninger om de andre i databasen. Det kunne de ved at ændre i URL-adressen, altså hjemmesidelinket.
+I databasen lå der blandt andet helbredsoplysninger om flere end 30.000 børn i psykiatrien. Det har Datatilsynet tidligere oplyst. Ingen uvedkommende fik adgang til dataene – bortset fra den, som opdagede fejlen – har regionens log vist, skrev Datatilsynet i 2021.
+Det andet tilfælde handler om en PowerPoint-præsentation på regionens hjemmeside. I bagvedliggende data til et diagram fremgik der personfølsomme oplysninger om 3.915 patienter. Databruddet udgjorde ifølge anklagemyndigheden »en unødigt høj risiko for de registrerede borgere og tab af fortrolighed af deres personoplysninger«.
+At Datatilsynet politianmeldte sagen, det viser, at det er en relativt grov sag.
+»Vi går ikke til en politianmeldelse, medmindre vi mener, det er noget særdeles dadelværdigt«, siger Allan Frank, it-sikkerhedsspecialist og jurist i Datatilsynet.
+Flere elementer gør, at episoderne er vurderet alvorlige.
+»Det er, at det er helbredsoplysninger, at det er en offentlig myndighed, at regionen er professionel part på det her område, og at den burde vide bedre«, siger Allan Frank.
+Anklagerfuldmægtig Birgitte Jensen holder inden retssagen tæt med, hvilken bøde hun vil kræve regionen idømt. Men den er baseret på indstillingerne fra Datatilsynet og retspraksis i øvrigt, oplyser hun.
+Datatilsynet har indstillet regionen til en bøde på en halv million kroner for hvert lovbrud – altså samlet set en million kroner.
+»Det er en stor bøde for en offentlig myndighed«, siger Allan Frank.
+Faktisk er en halv million det højeste bødebeløb, som tilsynet har indstillet en offentlig institution til, oplyser han.
+Ritzau har uden held forsøgt at få kontakt til Region Syddanmarks forsvarsadvokat.
+Sagen behandles tirsdag og onsdag. Her skal en repræsentant fra regionen afhøres, ligesom flere vidner, herunder tekniske vidner, skal afgive forklaring. Det er muligt, at sagen optages til dom. I så fald afsiges der ikke dom onsdag, men først på et senere tidspunkt.
+ritzau
+fortsæt med at læse
+Kommune politianmeldt for ikke at sikre oplysninger om børn
+Datatilsynet udtaler kritik i sag om NemID-nedbrud

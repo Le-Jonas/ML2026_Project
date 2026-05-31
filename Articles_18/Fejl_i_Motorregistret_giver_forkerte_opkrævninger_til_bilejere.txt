@@ -1,0 +1,17 @@
+Title: Fejl_i_Motorregistret_giver_forkerte_opkrævninger_til_bilejere
+Date: 2024-10-16
+Article Type: Danmark
+Author: Et ukendt antal bilejere har modtaget forkerte opkrævninger grundet en opdateringsfejl i Motorregistret.
+
+Motorstyrelsen har konstateret en fejl i Motorregistret, der har medført, at nogle bilejere har modtaget forkerte opkrævninger.
+Det oplyser Motorstyrelsens pressevagt til Ritzau.
+Nogle bilejere har modtaget den samme opkrævning af den periodiske afgift to gange.
+Andre har modtaget en rykker for den periodiske afgift på en bil, de ikke længere ejer.
+Fejlen blev konstateret 1. oktober, men Motorstyrelsen har endnu ikke et overblik over, hvor mange der er ramt af de fejlagtige opkrævninger.
+Fejlen er sket i forbindelse med opdatering af et bagvedliggende datasystem.
+Opkrævningerne er udsendt af Skattestyrelsen, men bygger på data fra Motorregistret.
+Hvis man har fået en forkert opkrævning og allerede har betalt den, vil man ifølge pressevagten få sine penge tilbagebetalt.
+Det er ikke første gang, at en opdatering volder problemer i Motorregistret.
+12. juli offentliggjorde Motorstyrelsen en nyhed på hjemmesiden, hvor man beskrev en fejl i opkrævningen af grøn ejerafgift for biler, der havde været til registreringssyn i perioden 26. juni til 11. juli 2024.
+Fejlen skyldtes en opdatering af registret. Den blev rettet med en ny opdatering 11. juli, fremgik det.
+ritzau

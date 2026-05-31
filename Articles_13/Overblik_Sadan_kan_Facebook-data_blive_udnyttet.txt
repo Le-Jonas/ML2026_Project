@@ -1,0 +1,18 @@
+Title: Overblik_Sadan_kan_Facebook-data_blive_udnyttet
+Date: 2018-03-20
+Article Type: Tech
+Author: Analyseselskabet Cambridge Analytica, der hjalp USA's præsident, Donald Trump, under præsidentvalgkampen i 2016, har stjålet data om 50 millioner amerikanske vælgere via deres Facebook-profiler.
+
+Det har The New York Times og britiske The Observer afsløret.
+Selskabet indsamlede informationerne for at kunne udarbejde et program til at forudsige og påvirke vælgernes valg.
+Her kan du blive klogere på, hvordan Facebook-data kan udnyttes:
+Ifølge et studie fra 2013 kan eksempelvis hobbyer og personlige interesser, som man synes godt om på Facebook, fortælle noget om ens politiske overbevisning og seksuelle orientering.
+Computere kan ved at analysere data fra Facebook finde sammenhænge, som ikke umiddelbart er synlige. Det kan eksempelvis være en sammenhæng mellem ens foretrukne madretter og ens intelligens.
+En af Cambridge Analyticas tidligere medstiftere, Chris Wylie, siger, at firmaet har brugt data til at skabe en lille puppe af information, som på den måde kan ændre folks opfattelse af virkeligheden.
+Han siger, at selskabet 'tog falske nyheder til et helt nyt niveau'.
+Chris Wylie kalder strategien for 'informationel dominans'. Det betyder, at man opfanger en persons nyhedskanaler og fylder dem med særligt, skræddersyet indhold.
+Det er normalt, at selskaber bruger data til at skræddersy tilbud til folk. Normalt drejer det sig eksempelvis om, hvilke bleer man foretrækker eller hvilken film, man vil kunne lide på Netflix.
+Det er dog en faretruende udvikling, hvis man bruger det under en valgkamp, mener Robert Ricci, der er marketingdirektør i marketingselskabet Blue Fountain Media.
+To tredjedele af alle amerikanere får mindst nogle af deres nyheder fra Facebook, viser en undersøgelse fra Pew Research Center.
+Kilder: Reuters, NBC.
+ritzau

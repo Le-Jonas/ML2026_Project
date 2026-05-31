@@ -1,0 +1,43 @@
+Title: Ekspert_om_Rigsrevisionens_skarpe_kritik_»Det_er_
+Date: 2020-05-15
+Article Type: Danmark
+Author: Rigsrevisionen kritiserer myndighederne for ikke at være gode nok til at sikre borgernes følsomme og fortrolige persondata, når behandling af data udliciteres til private virksomheder. »Det sætter borgernes tillid til systemet over styr«, siger ekspert i it-sikkerhed.
+
+Marie Nissen
+Journalist
+Borgernes følsomme og fortrolige persondata er langt fra sikret godt nok.
+Det fastslår Rigsrevisionen i
+en ny beretning
+. Her har man undersøgt om myndighederne har hånd i hanke med behandling af borgernes data, når de udlicitere håndteringen til private virksomheder.
+»Myndighederne har samlet set ydet en utilfredsstillende indsats for at sikre, at outsourcede følsomme og fortrolige persondata om borgerne opbevares sikkert«, lyder konklusionen på den undersøgelse, der ligger til grund for beretningen. Den fortsætter:
+»Konsekvensen er en øget risiko for, at borgernes følsomme og fortrolige data kompromitteres«.
+I undersøgelsen indgår 17 ministerier og Region Midtjylland. Regionerne behandler mange følsomme personoplysninger, og da regionerne minder om hinanden, er kun en region medtaget. Undersøgelsen går fra april 2016, hvor EU’s persondataforordning (GDPR) blev vedtaget og til 1. januar 2020.
+»Det er stærkt bekymrende at der ikke er mere sikkerhed om personfølsomme oplysninger. Det er 8 år siden, der var et kæmpelæk fra et privat firma, der administrerede data fra Skat, politiet og CPR-registeret. Det er 4 år siden statsrevisorerne udtrykte stor kritik af myndighederne på dette område – og i dag er der igen grundlag for skarp kritik. Som Rigsrevisionen skriver, er det er følsomme oplysninger – lige fra sundhedsoplysninger til politisk overbevisning«, siger Frank Aaen, der er statsrevisor. Statsrevisorerne holdt fredag møde, hvor Rigsrevisionens beretning blev præsenteret.
+Det er også en sag, der gør ekspert i it-sikkerhed Peter Kruse »urolig«.
+»Det er et brud på den tillid, der skal være, når man opbevarer data. Jeg vil som borger, især når vi taler om regioner, være meget betænkelig og utrolig ved, at man ikke er kommet meget længere«.
+»Det er for mig at se brandærgerligt, at der er så basale ting, man ikke har styr på«, siger Peter Kruse, der også er medstifter af sikkerhedsfirmaet CSIS.
+Når offentlige myndigheder indsamler personoplysninger, bliver de dataansvarlige. De får derved et ansvar for, at personoplysningerne behandles sikkert. Sådan en opbevaring kræver en særlig ekspertise, og derfor kan det være hensigtsmæssigt - både sikkerhedsmæssigt og økonomisk - at outsource til andre behandlere. Altså at overlade opgaven til en ekstern leverandør til eksempelvis en private virksomhed eller en specialiseret myndighed.
+Det stiller dog krav til myndighedernes styring af de databehandlere, der behandler data om borgerne. Ifølge rapporten er Danmark blandt de lande i EU, som outsourcer den største andel af statslige it-systemer.
+Undersøgelsen kommer i kølvandet på CSC-sagen, hvor hackere i efteråret 2012 udnyttede sårbarheder i it-leverandøren CSC’s it-systemer til at få adgang til blandt andet politiets, Skats og CPR-kontorets databaser.
+Politiken beskrev dengang, hvordan en offentliggjort rapport kritiserede CSC for at have haft sårbare systemer. Rigspolitiet blev også beskyldt for at have været for ukritisk over for sin it-leverandør.
+Nu er der igen grundlag for kritik. Den går på flere ting, men det centrerer sig om, hvordan borgernes personfølsomme oplysninger er sikret ude hos de eksterne databehandlere.
+Rigsrevisionens kritik går særligt på, at myndighederne ikke har haft en tilfredsstillende styring af de databehandlere, som opbevarer de følsomme oplysninger. Det er selv om, at der siden 2000 har været krav om at udarbejde risikovurderinger, indgå databehandleraftaler og føre tilsyn med databehandlere, som rapporten beskriver.
+Rigsrevisionens kritik går for det første på et problem med det, der kaldes risikovurdering.
+Som beskrevet kræves det, at personoplysninger behandles sikkert. Den dataansvarlige skal før behandlingen af data, foretage en kortlægning af risikoen for de registreredes rettigheder. Undersøgelsen viser, at myndighederne ikke har udarbejdet en risikovurdering for 58 procent af deres it-systemer, inden de har indgået en databehandleraftale.
+Det betyder, at i størstedelen af systemerne, er der ikke grundlag for at »fastsætte passende sikkerhedsforanstaltninger i databehandleraftaler og planlægge deres tilsyn«, hvilket Rigsrevisionen finder kritisabelt.
+Ifølge Peter Kruse er databehandleraftaler meget vigtige, når man outsourcer. Det er dem, der sikrer at data behandles ordentligt.
+»Det svarer til, at man har købt en bil, uden at man har fået papir på den. Man kan godt køre i den, men man ved ikke, hvor sikker den er«, forklarer han.
+For det andet har myndighederne slet ikke indgået den såkaldte databehandleraftale for 14 procent af systemerne, selv om de havde outsourcet opbevaringen af følsomme eller fortrolige persondata.
+I rapporten står der, at myndighederne i disse tilfælde ikke havde et juridisk grundlag for at kunne bestemme, hvordan databehandleren må behandle deres persondata.
+For det tredje halter det også efter med myndighederne tilsyn med deres databehandlere.
+I 23 procent af systemerne har myndighederne ikke undersøgt, om databehandlerne faktisk overholder vilkårene i databehandleraftalen og databeskyttelsesreglerne. Manglende tilsyn kan have den konsekvens, at myndighederne ikke ved, om behandlingen af data sker inden for reglernes rammer.
+Ifølge Peter Kruse er det svært at vurdere, hvad der kan være sket med borgernes personfølsomme data.
+»Hvis data kommer på afveje, kan det være vanskeligt at evaluere på, hvordan behandlingen har fundet sted. Hvis der ikke er lavet en aftale og kontrakt med databehandleren, så står man i en situation, hvor man ikke har mulighed for at komme efter databehandleren«, siger han og fortsætter:
+»Konsekvensen kan potentielt være lækage, hvor data kommer i omløb. Der er det meget svært at trække data tilbage. Internettet glemmer aldrig. Ens personfølsomme oplysninger kan svømme rundt på nettet til skue for alle og enhver. Det sætter borgernes tillid til systemet over styr«.
+Marie Nissen
+fortsæt med at læse
+Edward Snowden:
+EU's databeskyttelse bygger på en fundamental misforståelse
+Datatilsynet mangler muskelkraft:
+Mange databrud, men kun få og små bøder i Danmark
+Rigspolitiet får kritik for it-svigt i angreb på CSC

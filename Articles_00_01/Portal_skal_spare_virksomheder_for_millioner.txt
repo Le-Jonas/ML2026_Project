@@ -1,0 +1,11 @@
+Title: Portal_skal_spare_virksomheder_for_millioner
+Date: 2002-09-10
+Article Type: Økonomi
+Author: Næste forår får danske virksomheder adgang til en ny portal på internettet, som skal spare dem for administrative byrder for et trecifret millionbeløb. Tirsdag blev Krak, IBM, Dafolo og Kapow udpeget som de virksomheder, der i tæt samarbejde med staten skal udvikle den nye portal, som får navnet Virk.dk. 
+ Portalen skal samle alle de informationer og servicer fra det offentlige, som virksomhederne skal bruge til at løse administrative opgaver. 
+ Og om få år vil det blive muligt for virksomhederne at foretage alle indberetninger elektronisk til myndighederne. Skal åbne 1. maj næste år
+ De fire virksomheder, der sammen med staten skal udvikle portalen, bidrager med forskellige kompetencer. 
+ Krak driver allerede en af Danmarks mest besøgte portaler, Krak.dk, der indeholder oplysninger om 400.000 virksomheder. 
+ IBM leverer den tekniske platform, Dafolo bidrager med blanketterne og Kapow Technologies står for de søgerobotter, der skal hente indhold til portalen fra et stort antal private og offentlige hjemmesider. 
+ Med tiden er det hensigten, at også amter og kommuner skal kobles på systemet. Portalen skal efter planen åbne den 1. maj næste år.
+

@@ -1,0 +1,11 @@
+Title: Ny_rumrobot_ligner_skorpion
+Date: 2005-02-12
+Article Type: Viden og tech
+Author: De firehjulede mars-biler kan meget snart blive afløst af ottebenede elektroniske krybdyr. 
+Når nye planeter skal udforskes er den nyudviklede skorpion-robot langt mere mobil, skriver Nature. 
+Den kan bestige stejle klipper, klatre gennem ujævnt terrin og klemme sig gennem smalle sprækker, der ellers er lukket land for de noget større Mars-biler. 
+Prototypen, der er på størrelse med en lille hund, er udviklet af Frank Kirchner, der er robot-specialist fra Bremens universitet i Tyskland. I øjeblikket bliver den nøje vurderet af eksperter fra NASA i Californien. 
+»Nogle af de mest interessante steder på Mars er netop klippevæge eller huler«, siger Silvano Colombano fra NASA. »Og en af fordelene ved skorpionen er at den kan komme frem og samle prøver op samtidig«, sige han. 
+Robotter af denne type er en ret ny udvikling, hvor ingeniører søger inspiration i biologien. 
+Bevægelsesmønsteret hos denne skorpion-robot er meget lig det man ser hos en rigtig skorpion. Desuden kan robotten tilpasse sine bevægelser til miljøet.
+

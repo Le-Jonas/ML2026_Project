@@ -1,0 +1,8 @@
+Title: Google_vander_sig_efter_»sofistikeret«_og_»ondt«_hackerangreb_pa_Google_Docs
+Date: 2017-05-04
+Article Type: Digitalt
+Author: Adam Hannestad
+
+Journalist
+Onsdag 3. maj blev en dårlig dag for Google. It-gigantens nøgleprodukt til tekstbehandling, Google Docs, blev pludselig infiltreret af det, eksperter kalder et »usædvanlig sofistikeret« og endda »ondt« hackerangreb.
+En såkaldt phishing-mail - der stjæler en række af brugerens personlige oplysninger, hvis man for eksempel klikker på et link - spredte sig pludselig som en løbeild og fangede tilsyneladende Google på det gale ben. Selskabet nåede først at reagere, efter at et ukendt - måske op mod en million - Gmail-konti var infiltreret.

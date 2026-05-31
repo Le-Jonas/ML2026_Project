@@ -1,0 +1,9 @@
+Title: Caroline_Stage_udfaser_Microsoft_i_Digitaliseringsministeriet
+Date: 2025-06-09
+Article Type: Tech
+Author: For første gang bliver suverænitet en prioritet i regeringens, kommunernes og regionernes fælles strategi for digitalisering.
+
+Jens Bostrup
+Journalist
+Digitaliseringsminister Caroline Stage (M) vil fra næste måned begynde at udfase Microsoft i sit eget ministerium. Planen er, at omkring halvdelen af medarbejderne om en måneds tid og hen over sommeren skal arbejde med computere, hvor Office 365 er erstattet af Libre Office. Hvis det går som forventet, vil alle medarbejdere være på en open source-løsning i løbet af efteråret.
+Det fortæller ministeren op til lanceringen af en ny digitaliseringsstrategi for de kommende fire år, hvor digital suverænitet for første gang er en prioritet. Strategien er aftalt mellem staten, regionerne og kommunerne.

@@ -1,0 +1,39 @@
+Title: Kontakttallet_stiger_markant_Hver_coronasmittede_s
+Date: 2020-09-08
+Article Type: Sundhed
+Author: Kontakttallet i Danmark er steget fra 0,9 til 1,5, oplyser Statens Serum Institut (SSI). Det betyder, at hver covid-19-smittede i gennemsnit smitter 1,5 andre.
+
+Når kontakttallet er over 1 betyder det, at epidemien vokser, og at flere og flere bliver smittet.
+Det er SSI, der udregner kontakttallet på baggrund af nye smittede. Tidligere er det blevet udregnet på baggrund af nye indlagte og blev omtalt som smittetrykket.
+Der er dog usikkerheder forbundet med beregningerne af kontakttallet. Man kan dog med 95 procents sikkerhed sige, at kontakttallet ligger mellem 1,3 og 1,7.
+FAKTA: Kontakttal fortæller hvordan en epidemi udvikler sig
+Kontakttallet i Danmark er steget fra 0,9 til 1,5. Læs her, hvad det vil sige, at kontakttallet nu er over 1.
+Den seneste tids stigende smitteantal i Danmark har ført til, at kontakttallet er steget fra 0,9 til 1,5.
+Det betyder, at hver coronasmittede person i gennemsnit smitter 1,5 andre.
+Læs her mere om, hvad kontakttallet er, og hvordan det udregnes:
+* Status for en epidemi vurderes blandt andet ud fra kontakttallet - tidligere kaldet smittetrykket.
+* Kontakttallet er en epidemiologisk indikator, der beskriver hældningen af epidemikurven.
+* Kontakttallet er et gennemsnit af det antal personer, en smittet smitter i den aktuelle befolkning.
+* Kontakttallet afspejler, hvor gode folk er til at holde afstand og vaske hænder, samt hvor mange der er immune.
+* Hvis antallet af personer, der smittes, stabiliserer sig, uagtet om det er på et højt eller lavt niveau, vil der ikke være nogen hældning på kurven.
+* Hvis kontakttallet er 1, er epidemien hverken voksende eller aftagende.
+* Hvis kontakttallet er over 1, vokser epidemien.
+* Hvis det er under 1, aftager epidemien.
+* I en epidemisituation med lav forekomst af smitte vil svingninger omkring 1 være forventeligt.
+* Hvis kontakttallet er i vedvarende stigning, er der grund til særlig opmærksomhed.
+* Kontakttallet beregnes på baggrund af udviklingen i indlagte patienter og bekræftede smittetilfælde.
+* Fordi der går noget tid, fra en person smittes og udvikler symptomer, og der yderligere går noget tid før indlæggelse, vil der være forsinkelser i beregningen af kontakttallet.
+* Da kontakttallet estimeres på baggrund af et tidsvindue på syv dage, kan der gå et par dage, før ændringer kommer til udtryk i kontakttallet, afhængig af hvor stort faldet eller stigningen er.
+Kilde: Statens Serum Institut.
+Mellem mandag og tirsdag blev der registreret 243 nye tilfælde af smitte med covid-19.
+De nye smittede kommer i en periode, hvor smittetallet har været stigende. Mandag blev der registreret 230 nye smittetilfælde, og over den seneste uge er over 1000 personer testet positive for det smitsomme virus.
+Det fik mandag sundhedsmyndighederne til at indføre nye restriktioner for 18 kommuner, hvor udbruddet vurderedes til at være mest alvorligt.
+I disse kommuner sænkes forsamlingsforbuddet fra 100 til 50, og barer og restauranter, der ellers for nylig fik lov til at holde åbent til klokken 02, skal igen lukke klokken 24.
+Der går højst sandsynligt halvanden til to uger, før vi kan se effekten af de restriktioner, siger professor i virologi ved Aarhus Universitet Søren Riis Paludan.
+»Vi skal igennem inkubationstid, og at folk smitter videre til den næste person«, siger han.
+Inkubationstiden beskriver den tid, der går, fra at folk bliver smittet med en sygdom, til de begynder at udvise symptomer.
+Selv om tallene igen er høje, siger Søren Riis Paludan, at der ikke umiddelbart er nogen tegn på en eksponentiel stigning, hvor antallet af smittede fordobles på kort tid.
+»Vi ser heller ikke nogen stigning i antallet af indlagte. Det kan vi dog måske opleve om nogle uger«.
+»Den sidste del, vi skal holde øje med, er, om flere smittede også fører til flere kritisk syge og i værste fald dødsfald. Det er jo det, vi ultimativt er bekymrede for«, siger Søren Riis Paludan.
+ritzau
+fortsæt med at læse

@@ -1,0 +1,14 @@
+Title: Dansk_advarsel_mod_falske_e-mail
+Date: 2004-02-03
+Article Type: Økonomi
+Author: Sisse K. Ibsen
+
+Det danske firma for betalingsformidling PBS advarer mod en ny form for internetsvindel. 
+Falske e-mail, der lokker kunder til at besøge falske internetsider og her afgive sine kreditkortoplysninger og ikke mindst opgive pinkoden i samme omgang. Hvilket tilsammen giver svindlerne let spil. PBS advarer derfor især mod, at man afgiver sin pinkode sammen med oplysninger om kortnummer og kontrolcifre. 
+Nogle danske kunder har allerede modtaget falske mail fra Visa International, men PBS har ikke kunne konstatere, at nogen er gået i fælden.
+Fuskemail om falsk svindel
+De svindelmail, PBS advarer imod, tager ironisk nok udgangspunkt i, at man allerede skulle være blevet narret. Den falske mail fastslår, at man er blevet udsat for ran, men hvis man opgiver sine kortoplysninger, vil man få refunderet det frastjålne og blive beskyttet mod yderligere svindel. 
+De kriminelle anvender en forfalsket afsenderadresse, så det ser ud som, at kortejeren faktisk får en mail fra for eksempel Visa International. Også den hjemmeside, som mailen opfordrer, til at man besøger, ligner den rigtige.
+Citibankkunder ramt af e-mailsvindel
+Den nye form for svindelforsøg kaldes også phishing. Den har allerede sidste sommer ramt nogle af de 190 millioner kunder hos en af verdens største banker, Citibank. Falske e-mail blev sendt som rent spam i håb om at ramme nogle af de mange kunder. 
+Mailen opfordrede til, at man på grund af nye forretningsbetingelser besøgte et forfalsket website og her indtastede sine oplysninger.

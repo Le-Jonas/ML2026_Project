@@ -1,0 +1,22 @@
+Title: Rejsekort-app_far_ny_indstilling_for_lokationsdeling_efter_kritik
+Date: 2025-09-04
+Article Type: Rejser
+Author: Brugere af Rejsekort-appen med iPhone kan fremover begrænse appens adgang til lokationsdata.
+
+Når iPhone-brugere i fremtiden skal vælge, hvornår Rejsekort-appen må tilgå deres lokation, vil det være muligt at vælge indstillingen ’Ved brug af appen’, oplyser Rejsekort og Rejseplan A/S i en pressemeddelelse. Det har hidtil kun været muligt at vælge indstillingen ’altid’, hvorfor appen i princippet hele tiden har haft adgang til brugerens lokation. Selv når appen ikke var i brug.
+Kundedirektøren hos Rejsekort og Rejseplan A/S, Jens Willars, understreger, at det hele tiden har været praksis, at man ikke har tilgået data fra kunder, mens de ikke har brugt appen:
+»Nu er det endelig muligt at sikre, at indstillingerne afspejler den praksis, der er gældende«.
+Det vakte sidste forår undren fra flere dataeksperter og Datatilsynet, og nu har selskabet ændrede indstillingerne til lokationsdeling.
+I foråret 2024 lød argumentet fra selskabet, at det »ikke var muligt« at indrette appen med de forskellige indstillinger. Det var blandt andet fordi, at man ville sikre, at kunder havde en gyldig billet, selv om man ved en fejltagelse kom til at lukke for appen. Derfor var det nødvendigt, at man hele tiden havde adgang til brugernes lokation. Men nu har leverandøren af appen kodet indstillingerne, så det ikke længere er et problem, siger Jens Willars.
+»Vi har hele tiden kunnet se, at det her var et vigtigt spørgsmål for vores kunder, hvorfor vi lagt rigtig meget energi i det. Så vi har bedt vores leverandører om at kode det anderledes«.
+Jens Willars understreger, at appen har de samme funktioner som før:
+»Den eneste ændring er, at kunderne nu kan være endnu mere trygge ved, at vi kun indsamler data, når vi bruger appen. Det har sådan set hele tiden været tilfældet, men nu er tvivlen blevet elimineret«.
+Der er gået over et år, siden appen blev lanceret, og det er altså først nu, at det er blevet muligt for iPhone-brugere at begrænse adgangen til brugernes lokationsdata.
+Og det var ikke noget, man overvejede før lanceringen i 2024, siger Jens Willars.
+»Appen er et standardprodukt, vi har købt, som også har været i brug i mange andre europæiske lande. Vi antog ikke, at det ville blive et problem i Danmark«.
+Rejsekort og Rejseplan A/S kan på nuværende tidspunkt ikke oplyse, hvad omkodningen af appen har kostet. Den nye indstilling er mulig at tage i brug fra torsdag. Den er blevet testet af 135.000 iPhone-brugere før opdateringen.
+Det har hele tiden været muligt for Android-brugere at begrænse adgangen til lokationsdata.
+ritzau
+fortsæt med at læse
+Snart kan man tjekke både hund og barn ind i metroen med app
+19.000 standere til rejsekort skrottes og erstattes af færre nye

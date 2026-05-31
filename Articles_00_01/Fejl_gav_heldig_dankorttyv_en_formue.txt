@@ -1,0 +1,12 @@
+Title: Fejl_gav_heldig_dankorttyv_en_formue
+Date: 2003-09-26
+Article Type: Danmark
+Author: En dankorttyv var overordentligt heldig, da han stjal en pung og et dankort på Hovedbanegården i København. 
+ For netop på det tidspunkt, da tyven afprøvede det stjålne kort i Lån & Spar Bank's hæveautomat i Reventlowsgade, var hundredvis af automater hos landets sparekasser ramt af en fejl. 
+ Fejlen betød, at der i omkring et døgn ikke var begrænsninger for, hvor store beløb man kunne hæve i automaterne. Strøg afsted med 400.000 kr.
+ Ifølge Ritzaus oplysninger slap tyven i juli af sted med et beløb på 400.000 kroner. 
+ Også flere andre steder lykkedes det dankorttyve at få større beløb ud af automaterne, der normalt er indstillet til højst at kunne udbetale 5.000 kroner i døgnet. Datacenter: En menneskelig fejl
+ Det er Sparekassernes Datacenter (SDC), der står for programmering og vedligeholdelse af computersystemerne i hæveautomaterne. 
+ Af hensyn til sikkerheden vil SDC's administrerende direktør, Jørgen Giversen, ikke sige noget om, hvor stort det samlede tab har været for pengeinstitutterne. Han bekræfter dog, at det er 'et temmelig stort beløb i dankortsammenhæng'. 
+ Ifølge ham var en menneskelig fejl i forbindelse med programmering skyld i miseren.
+

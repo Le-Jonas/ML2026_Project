@@ -1,0 +1,20 @@
+Title: Færre_virusangreb_mod_virksomheder
+Date: 2005-05-05
+Article Type: Økonomi
+Author: Lars Dahlager
+
+En af den moderne verdens tilbagevendende plager er de virusangreb, der i de sidste mange år gang på gang har lagt systemer ned i det offentlige og hos private virksomheder. Nu er der gode - og dårlige - nyheder. 
+Antallet af danske virksomheder, der har oplevet virusangreb af generende eller ligefrem alvorlig karakter, faldt fra 46 procent til en tredjedel fra 2002 til 2004. Offentlige myndigheder oplevede et endnu større fald, nemlig fra 58 procent til 43 procent på blot et år. 
+Det viser den it- og telepolitiske redegørelse, regeringen netop har udsendt.
+2003 var et ormeår
+»Faldet skyldes, at 2003 var et særlig slemt år for virksomheder og myndigheder, hvor der blev betalt nogle meget dyre lærepenge«, siger sikkerhedsekspert Peter Kruse fra sikkerhedsfirmaet CSIS. 
+I 2003 var Danmark svært ramt af såkaldte e-mail-baserede orme, der infiltrerer en brugers harddisk og sender sig selv videre til alle i brugerens adressekartotek. Den type orme kunne sprede sig meget hurtigt. 
+»Det skabte kaos, og siden hen er virksomheder og kommuner blevet væsentlig bedre til at opdatere deres systemer«, siger Kruse.
+Flere hackerangreb
+Til gengæld er en særlig type hackerangreb, 'denial of service'-angreb, blevet en uhyre populær måde at forsøge at nedlægge offentlige systemer på. Mens 12 procent af offentlige myndigheder havde oplevet sådan et angreb i 2002, er tallet nu 20 procent. 
+I denial of service-angreb 'kidnapper' hackere hundredvis af computere og bruger dem til at forsøge at nedlægge servere og netværk. 
+»Det ligger godt i tråd med, at vi globalt ser en stor stigning i antallet af computere, der er overtaget af hackere og derfor kan fjernstyres til at lave den type angreb«, siger Kruse. 
+Han er også bekymret for stigningen i de mere gedulgte former for computerkriminalitet. 
+Blandt andet at hackere i stigende grad udnytter sikkerhedshuller i den mest brugte internetbrowser, Internet Explorer, til at installere overvågningsprogrammer. 
+Programmer, en hacker kan bruge til for eksempel at stjæle personfølsomme oplysninger fra offentlige myndigheder. 
+»Den slags angreb er fordækte. Før i tiden virkede systemerne bare ikke, men her kan ondsindede programmer forblive på systemerne, uden at man kan se det«.

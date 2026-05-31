@@ -1,0 +1,10 @@
+Title: 79_netbanker_kører_igen
+Date: 2005-01-05
+Article Type: Økonomi
+Author: Sisse K. Ibsen
+
+Netbanken har været helt lukket land og alle filialerne har kørt ustabilt, siden et it-nedbrud mandag formiddag satte 79 lokalbanker under pres. 
+De 79 banker får it-driften varetaget af selskabet SDC, der igen har IBM som teknisk leverandør. Det er IBM's folk fra Danmark, Frankrig og USA, der har lokaliseret fejlen i en central database og forventer den udbedret den i løbet af natten til onsdag. Det skriver en række medier.
+Beklager problemerne
+Hos Spar Nord Bank, der er den største bank hos SDC mener man ikke, at nedbruddet har kostet kunderne penge, da betalinger - som ikke kunne gennemføres om dagen - trods alt er gennemført om natten. Alligevel beklager man dybt problemerne. 
+Da Danske Bank i flere dage gik i sort i 2003, var IBM også leverandør, men IBM afviser, at der er tale om sammenlignelige problemer.

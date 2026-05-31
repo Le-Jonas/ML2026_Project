@@ -1,0 +1,8 @@
+Title: Naboer_vilde_med_dansk_test_af_berigede_fødevarer
+Date: 2005-11-29
+Article Type: Danmark
+Author: Danmarks Fødevareforskning har lavet så god en model til at vurdere berigede fødevarer for sundhedsrisiko, at de andre nordiske lande overvejer at tage den i brug. 
+ Den statslige institution under Familie- og Forbrugerministeriet bruger modellen til at vurdere, om fødevarer er tilsat så mange vitaminer eller mineraler, at de giver risiko for en sundhedsskadelig overdosis for forbrugerne ved at være i handlen. Kostundersøgelse
+ Modellen bygger på data fra en stor kostundersøgelse blandt alle aldersgrupper i den danske befolkning. 
+ Som noget nyt kan modellen også vurdere risikoen særligt for børn, ligesom modellen tager højde for, at nogle tager vitaminpiller.
+

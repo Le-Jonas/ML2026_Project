@@ -1,0 +1,41 @@
+Title: Efterforskning_slar_fast_Boeingflys_styresystem_f
+Date: 2019-10-23
+Article Type: Internationalt
+Author: Men Lion Air havde heller ikke godt nok styr på vedligeholdelse og dokumentation, fremgår det af undersøgelse af det styrt, der var med til at give 737 Max-8-flytypen startforbud.
+
+Søren Astrup
+Journalist
+Boeing gjorde sit automatiske MCAS-system afhængig af en enkelt sensor.
+Flyfabrikken tog fejl, da den under udviklingen af de nu startforbud-ramte 737 Max-8-maskiner prøvede at forudsige, hvordan piloter ville reagere på fejl i systemet.
+Piloterne blev ikke uddannet i at håndtere fejl i systemet.
+TO FLYSTYRT
+Boeing 737-Max 8
+er udstyret med et system, MCAS, der skal sikre, at maskinen holder den rette vinkel -
+angle of attack
+- under flyvningen. Det griber ind, hvis næsen peger for meget opad og dermed er i risiko for at miste opdriften og styrte.
+En sensor
+holder øje med flyvevinklen, men den kan give forkerte data til det automatiske system, som overtager kontrollen over flyvningen og sender flyet nedad.
+Det knyttes til
+to styrt
+:
+Boeing 737 Max-8-flyene fik kort efter de seneste styrt
+flyveforbud
+af bl.a. de europæiske og de amerikanske luftfartsmyndigheder.
+Parkerede fly ved Boeing-fabrikkerne, hvor maskinerne ikke kan få lov at lette førend flyveforbuddet er ophævet. Foto: Reuters/Gary He.
+Det er nogle af den indonesiske havarikommissions konklusioner efter et flystyrt sidste år, hvor 189 mennesker mistede livet. Havarirapporten offentliggøres først fredag, men efterforskerne har ifølge blandt andre nyhedsbureauet Bloomberg ved et møde med efterladte fortalt om de fejl og mangler, der var skyld i flystyrtet.
+Boeing vil ikke kommentere konklusionerne inden da, oplyser virksomheden.
+En meget stor del af ansvaret for, at det endte galt, ligger ifølge havarikommissionen netop hos Boeing og det særlige MCAS-system, der automatisk pressede flyets næse nedad, selv om piloterne forsøgte at få den opad.
+De var ikke trænet til at slå systemet fra, hvis det begyndte at gøre unoder.
+Havariefterforskerne konkluderer også, at en afgørende sensor ikke var blevet indstillet rigtigt efter en reparation af flyet. De vurderer også, at Lion Airs håndtering af tidligere problemer med flyet og vedligeholdelsen og med procedurer under flyvningen ikke var gode nok.
+Nogle måneder efter det indonesiske styrt ramte katastrofen igen, denne gang med et fly fra et etiopisk flyselskab.
+Det fik luftfartsmyndigheder verden over til at udstede et flyveforbud, der siden har holdt de mange Boeing 737 Max-8-maskiner på jorden.
+Det har været yderst kostbart for flyselskaber og for Boeing-fabrikken, der senest har skilt sig af med en af topcheferne, Kevin McAllister, som blev fyret i går.
+Det sker på baggrund af undersøgelser, der viser, at fabrikken var klar over problemer med MCAS-systemet og den måde, det kunne tage kontrol over flyvningen på.
+Samtidig står flyfabrikken over for en række sagsanlæg fra pårørende og flyselskaber.
+Den har siden flyveforbuddene arbejdet på at få ændret på MCAS, så det atter kan godkendes af tilsynsmyndighederne.
+Søren Astrup
+fortsæt med at læse
+Jordbundne fly koster Boeing over 32 milliarder kroner
+Boeing-chef efter dødelige flystyrt: Vi begik en fejl
+346 døde:
+Boeing traf to skæbnesvangre beslutninger for sit »absolut win-win«-fly

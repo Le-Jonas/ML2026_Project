@@ -1,0 +1,9 @@
+Title: Lækage_Politiet_er_kunde_i_omstridt_firma
+Date: 2020-02-28
+Article Type: Tech
+Author: Politiet afviser, at teknologien er brugt til efterforskning i Danmark.
+
+Jens Bostrup
+Journalist
+Danmark er et af 27 lande, hvor politiet er kunde i omstridte selskab Clearview AI, der sælger ansigtsgenkendelse. Det skriver Buzzfeed, der har fået adgang til en hacket kundedatabase fra Clearview.
+Rigspolitiets pressechef Thomas Kristensen forsikrer, at politiet ikke har brugt ansigtsgenkendelse til efterforskning i Danmark. »Vi har har haft to medarbejdere til konference i USA, hvor de blev præsenteret for forskellige produkter, blandt andet Clearview. For at få adgang til det skulle de logge ind med deres emailadresser, og det har de så gjort. Det er den bedste forklaring, vi har på, at vi optræder på listen«, siger Thomas Kristensen.

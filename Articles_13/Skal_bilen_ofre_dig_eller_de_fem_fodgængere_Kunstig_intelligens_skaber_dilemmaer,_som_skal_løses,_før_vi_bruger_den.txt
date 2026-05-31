@@ -1,0 +1,34 @@
+Title: Skal_bilen_ofre_dig_eller_de_fem_fodgængere_Kunstig_intelligens_skaber_dilemmaer,_som_skal_løses,_før_vi_bruger_den
+Date: 2018-02-28
+Article Type: Debatindlæg
+Author: Debatindlæg afThomas Telving
+
+Direktør og iværksætter
+Dette er et debatindlæg. Indlægget er udtryk for skribentens holdning. Alle holdninger, som kan udtrykkes inden for straffelovens og presseetikkens rammer, er velkomne, og du kan også sende os din mening
+her
+.
+Kunstig intelligens fylder mere og mere i vores liv. Det sker via alt fra telefoner, biler og højttalere, til når vi kontakter banker og forsikringsselskaber med spørgsmål. Den nye teknologi er smart og gør meget nemmere, men den blotlægger også nogle svære etiske konflikter mellem individ og fællesskab. Dem skal vi diskutere grundigt, hvis vi ikke vil overrumples af de teknologiske muligheder.
+Et teknologisk dilemma, mange kan forholde sig til, handler om selvkørende biler. Hvis en selvkørende bil i en tilspidset situation skal vælge mellem at slå fem fodgængere ihjel og ofre føreren, hvad skal bilen så vælge?
+En gruppe filosoffer har underlagt dilemmaet såkaldt eksperimentel etik og afsløret, at et markant flertal hælder til at redde så mange som muligt.
+Skal flertallet vælge, må føreren altså lade livet. Inden for filosofien kalder man tilgangen utilitaristisk. Den har sit ophav hos de britiske filosoffer Jeremy Bentham og John Stuart Mill, og dens krav til gode handlinger er, at de skal skabe størst mulig lykke for så mange som muligt.
+At utilitarismen har et godt greb i folk, når der skal træffes beslutninger i større sammenhænge, er ikke nyt. Det nye er, at når vi skal give en maskine præcise etiske retningslinjer, blotlægger det en inkonsistens i vores egen etik. Mens flertallet ønsker utilitaristiske biler på vejene, har mange nemlig ifølge samme undersøgelse mere end svært ved at se sig selv købe en bil, der er programmeret til at ofre føreren i særlige situationer. Hvis den skepsis slår igennem i markedet, vil den bremse udbredelsen af selvkørende biler og dermed påvirke trafiksikkerheden negativt. Det sætter os i den specielle situation, at vores forsøg på at beskytte vores liv i trafikken øger vores risiko for at dø i trafikken.
+Fra filosofisk side er det de tre forskere Jean-Francois Bonnefon, Azim Sharidd og Lyad Rahwan, som har beskæftiget sig mest indgående med spørgsmålet. Ud over at foretage statistiske målinger har de udviklet modulet
+Moral machine
+(moralmachine.mit.edu), hvor alle frit kan gå ind og teste deres egen etik i forskellige dilemmaer med selvkørende biler. Prøv selv; det er ikke let.
+Filosofferne er imidlertid stadig langt fra at løse de grundlæggende etiske problemer, kunstig intelligens medfører i mere generel forstand. De foreslår f.eks. i en nylig artikel i tidsskriftet Nature Human Behaviour, at kommunikationen om bilproblematikken skal fokusere på de store sikkerhedsmæssige fordele ved selvkørende biler frem for de forsvindende få tilfælde, hvor føreren risikerer at dø. Et andet forslag er at appellere til folks gode vilje.
+Tilgangen kan måske nok få solgt nogle flere selvkørende biler, men som mennesker står vi stadig tilbage med nogle helt grundlæggende udfordringer med teknologien: Jo mere utilitaristisk perfekte beslutninger, vi i kraft af kunstig intelligens kan træffe, desto tydeligere træder skismaet mellem ofringen af individet på flertallets alter frem.
+Mange af dilemmaerne gemmer sig dybere under overfladen end biler og handler f.eks. om dataanalyse. Det amerikanske firma Lapetus kan således analysere en selfie ved hjælp af ansigtsdatapunkter og med stor præcision forudsige individets forventede levetid.
+Spørgsmålet er, om flertallet skal være solidarisk eller blot glæde sig over, at forsikringsselskaberne på den baggrund kan sortere dyre kunder fra og sænke præmierne for flertallet.
+En relateret problematik handler om overvågning. Også her får vi i kraft af bunkevis af ting med indbygget kunstig intelligens – tøj, barnevogne, køleskabe, højttalere osv. – fabelagtige muligheder for overvågning. For slet ikke at tale om de forudsigelser, kunstig intelligens i kraft af avanceret dataanalyse kan gøre på baggrund af overvågningen.
+Vil vi dele disse ting med staten med henblik på at undgå forbrydelser, socialt bedrageri osv.? Eller skal vi beskytte vores individuelle rettigheder?
+Vi skal ikke imødegå kunstig intelligens med frygt og paranoia, men vi skal huske, at det er mere end bare smart.
+Det åbner også for helt nye måder at styre vores samfund på og tvinger os til at tænke dybere over vores måde at træffe valg på. Vil man være klogere på det, er filosofihistorien ikke noget dumt sted at begynde.
+Thomas Telving
+fortsæt med at læse
+Dorte Toft:
+Der er stadig langt igen for robotterne. Så elsk mennesket højere og studér robotterne
+Tech: Algoritmer kan forudse dit seks-årige barns fremtid
+Ville du virkelig købe en førerløs bil, der hellere ofrer dig end kører ind i ti fodgængere?
+Dette er et debatindlæg. Indlægget er udtryk for skribentens holdning. Alle holdninger, som kan udtrykkes inden for straffelovens og presseetikkens rammer, er velkomne, og du kan også sende os din mening
+her
+.

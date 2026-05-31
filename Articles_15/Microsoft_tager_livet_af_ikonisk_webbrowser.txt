@@ -1,0 +1,23 @@
+Title: Microsoft_tager_livet_af_ikonisk_webbrowser
+Date: 2020-08-19
+Article Type: Medier
+Author: Om et år fjerner Microsoft deres ikoniske browser Internet Explorer, der i mange år var verdens førende webbrowser.
+
+Laurits Hjortkjær Henningsen
+Journalist
+Levetiden for webbrowseren Internet Explorer er snart forbi.
+I et
+blogindlæg
+skriver Microsoft, der har udviklet Internet Explorer, at man ikke længere vil understøtte browseren, og den vil endegyldigt blive fjernet 17. august 2021.
+Mange har formentlig lært internettet at kende gennem den ikoniske browser, der blev lanceret i 1995. Den slog hurtigt konkurrenterne af markedet og havde sin storhedstid i 00’erne, hvor browseren i 2002-2003 havde en markedsandel på 95 procent.
+I stedet for Internet Explorer satser Microsoft på deres anden browser, Microsoft Edge, som blev lanceret i 2015. Årsagen til skiftet er blandt andet, at Microsoft Edge er bygget op omkring en såkaldt Chronium-open source-software, som konkurrenten Google har udviklet til sin browser, Google Chrome. Denne software vil give Microsoft Edge mange flere funktioner, som ikke er tilgængelige i Internet Explorer.
+Med skiftet får Google mere indflydelse, da deres Chronium-software i forvejen danner basis for en række andre browsere. Foruden Google Chrome og Microsoft Edge gælder det for Brave, Vivaldi, Avast Secure Browser og Opera.
+Ifølge det britiske medie
+The Independent
+er det dermed Google, der styrer, hvilke funktioner der kan udvikles til browserne, ligesom de bestemmer over nye muligheder og tiltag.
+Microsoft Edge kommer dog også til at have en række yderligere funktioner, end Chronium tilbyder. Med browseren kan man få mulighed for at aktivere en sporingsbeskyttelse, der blokerer for reklamer og sporingskoder fra tredjeparter.
+Det har i flere år været på tale, at den velkendte browser fra 1990’erne skulle fjernes. Flere tidligere versioner af Internet Explorer valgte Microsoft at fjerne i 2016, kort efter at Microsoft lancerede Edge-browseren, men om et år er det altså endegyldigt slut med at have browseren liggende i værktøjslinjen.
+Laurits Hjortkjær Henningsen
+fortsæt med at læse
+Dansk techambassadør får toppost hos Microsoft
+Afløseren for Internet Explorer har fået sit navn

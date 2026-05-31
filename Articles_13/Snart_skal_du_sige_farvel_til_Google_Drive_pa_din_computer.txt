@@ -1,0 +1,7 @@
+Title: Snart_skal_du_sige_farvel_til_Google_Drive_pa_din_computer
+Date: 2017-09-08
+Article Type: Digitalt
+Author: Morten Bay
+
+12. marts næste år forsvinder Google Drive fra computere verden over.
+Søgegigantens svar på iCloud, OneDrive, Dropbox og hvad sky-lagertjenesterne ellers hedder, vil ikke længere kunne findes som app. I stedet skal du bruge en app med det lidt mere kedelige navn Backup and Sync, der til gengæld også kan håndtere backup af dine digitale fotos.

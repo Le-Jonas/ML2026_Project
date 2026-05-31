@@ -1,0 +1,10 @@
+Title: Berlin_eftersøger_Dmitrij_Badin,_formodet_russisk_
+Date: 2020-05-10
+Article Type: Internationalt
+Author: Tyskland vil have fingre i en russisk hacker, der mistænkes for cyberindbrud i det tyske parlament. Sagen udstiller en ny arbejdsdeling mellem spioner og nationalistiske aktivister.
+
+Tyskland vil have fingre i en russisk hacker, der mistænkes for cyberindbrud i det tyske parlament. Sagen udstiller en ny arbejdsdeling mellem spioner og nationalistiske aktivister.
+Flemming Splidsboel Hansen
+ruslandsanalytiker
+De tyske myndigheder forsøger nu at få arresteret og udleveret en mistænkt russisk hacker. Dmitrij Badin hedder han, og han er under anklage for at have deltaget i et hackerangreb på det tyske parlament, Bundestag, i 2015. Efter lang tids efterforskning har det tyske politi sat navn og ansigt på Badin, som, hævder de, er en del af gruppen Fancy Bear eller APT28, som igen er en del af den russiske militære efterretningstjeneste GU.
+Angrebet på Bundestag blev sat i gang 30. april 2015. Badin og hans kolleger havde forberedt en tilsyneladende uskyldig e-mail, som blev sendt bredt ud i de politiske og administrative hjørner af parlamentet. Beskeden indeholdt et link om krigen i Ukraine, og når modtagerne trykkede på det, aktiverede de samtidig en virus, som gemte sig i computersystemet og sugede data ud.

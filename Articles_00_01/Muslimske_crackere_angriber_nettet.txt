@@ -1,0 +1,17 @@
+Title: Muslimske_crackere_angriber_nettet
+Date: 2002-10-30
+Article Type: Økonomi
+Author: Nis Olsen
+
+London
+Slagord imod en krig i Irak og for frihed for palæstinenserne er hacket ind på internetsider i oktober, hvor der har været en »skarp stigning« i antallet af politiske hackerangreb. 
+»USA, du er på vej til at blive krigsforbryder. Storbritannien, du er USA's slave«. »Hej, vil du se, hvad USA gør mod irakiske børn? Se engang de bomber dem«. 
+Det er to ud af hundredvis af meddelelser, som proislamiske computercrackere har anbragt på internationale websider i denne måned.
+Over 16.500 angreb
+Oktober har set en stærk stigning i den muslimske crackeraktivitet, hvor der har været over 16.500 angreb på computersystemer og websider. 
+Opgørelsen kommer fra det britiske firma mi2g, der siden 1995 har specialiseret sig i it-sikkerhed. Londonfirmaet rådgiver blandt andet banker og forsikringsselskaber, ligesom det overvåger crackerangreb. 
+De fleste angreb kommer fra unge computerbrugere, der vil have noget at prale med over for kammeraterne. Men de politisk begrundede angreb er ifølge mi2g steget »stejlt« på det seneste, hvor grupper bryder ind på websider og lægger slagord med krav om 'frihed for palæstinenserne' eller slogan imod en krig mod Irak. 
+»Flere og flere crackergrupper med islamiske interesser er begyndt at samles under en fælles dagsorden, der er imod USA, Storbritannien, Australien, Indien og Israel«, siger mi2g i en meddelelse.
+Praler med angreb
+Tre proislamiske grupper var aktive i oktober. En af dem kalder sig Unix Security Guards. Den blev dannet i maj i år og består angiveligt af mindre grupper lige fra EgyptianFighter til crackere fra muslimske tidligere Sovjetrepublikker og Marokko. Op til sidste weekend pralede Unix Security Guards med at have foretaget 1.511 angreb i oktober. Gruppens cracking er særlig farlig, fordi angrebene rammer værtssystemer, som 'supporter' snesevis af websider. 
+De to andre aktive grupper er Federal Bureau of Hackers, som menes at være baseret i Pakistan, og TheBuGz, som også hovedsageligt er pakistanere.

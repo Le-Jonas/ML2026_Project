@@ -1,0 +1,13 @@
+Title: Tekniske_problemer_C20_i_Danmark_og_Norden_er_lagt_ned
+Date: 2017-12-13
+Article Type: Økonomi
+Author: Det fremgik tidligere af denne artikel, at der ikke bliver handlet aktier på Børsen i København på grund af de tekniske problemer. Det er imidlertid forkert og derfor rettet.
+
+C20 og de andre store aktieindeks i Danmark og resten af Norden er i øjeblikket lagt ned.
+Det er tekniske problemer hos Nasdaq kort før klokken 13 onsdag, der har skabt forstyrrelsen, skriver Ritzau Finans.
+De enkelte aktier handles fortsat og opdateres med friske kurser, men indeks som de toneangivende danske som C20, C20 Cap, C25 samt Nasdaqs hovedindeks i Stockholm, Oslo, Helsinki og Reykjavik er derfor taget ud af drift.
+C20 Cap blev sidst noteret i 1127,16 point klokken 12.58. Det var et fald på 0,3 pct. i forhold til tirsdagens lukkekurs.
+Hos Nasdaq understreger kommunikationschef Javier Lopez, at al handel foregår normalt, og at det kun er beregning af indekset, der er påvirket.
+»Nasdaq oplever pt. uregelmæssigheder i distributionen af markedsdata, hvilket påvirker enkelte indeks såsom C20. Som konsekvens er datadistribution af de indeks sat på pause indtil videre«.
+»Vi har alle mand på sagen for at rette fejlen, og vi vil informere yderligere, når vi har mere information. Alle andre systemer opererer normalt«, skriver han i en mail.
+ritzau

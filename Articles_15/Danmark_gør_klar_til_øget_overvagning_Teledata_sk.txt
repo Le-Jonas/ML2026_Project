@@ -1,0 +1,35 @@
+Title: Danmark_gør_klar_til_øget_overvagning_Teledata_sk
+Date: 2020-03-23
+Article Type: Tech
+Author: EU’s databeskyttelse kan sættes til side, når den offentlige sikkerhed står på spil. Og det gør den nu, vurderer kommissionen.
+
+Jens Bostrup
+Journalist
+Statens Serum Institut vil i samarbejde med Rigspolitiet bruge teledata til at undersøge, om danskerne overholder myndighedernes retningslinjer for at begrænse coronasmitten, skriver skriver DR Nyheder.
+Seruminstituttet har skrevet til telebranchen og anmodet om at få adgang til data. »Det har vi svaret positivt på, men vi vil sikre os, at det sker på et klart juridisk grundlag«, siger branchens direktør, Jakob Willer, til DR.
+Statens Serum Institut har også planer om at bruge data om befolkningens transport- og indkøbsvaner til at måle effekten af regeringens tiltag. »Statens Serum Institut har anmodet Rigspolitiet om at assistere med at indhente disse data«, skriver Sundhedsstyrelsen i en rapport om prognoserne for coronaens udbredelse i Danmark og behovet for intensiv pleje.
+Teledata opsamles af mobilmasterne, når vi bevæger os rundt i landskabet med mobilen i lommen, og kan bruges til at afgøre, hvor vi har været, og hvornår.
+EU har strenge regler for, hvordan den slags oplysninger må bruges. I princippet må lokationsdata kun bruges, når de er gjort anonyme, eller med brugerens udtrykkelige tilladelse.
+»Men der er undtagelser, der beskytter den almene interesse i nødsituationer«, skriver EU-Kommissionens talsmand, Johannes Bahrke, i en mail til Politiken.
+Undtagelserne kan bruges, når den offentlige sikkerhed er på spil, og det er tilfældet under coronapandemien, vurderer kommissionen.
+Hvor langt medlemslandene må gå, er i sidste ende op til EU’s databeskyttelsesråd, der lægger linjen for, hvad myndigheder og virksomheder må benytte data til.
+Det Europæiske Databeskyttelsesråd har udsendt en særlig vejledning om, hvor meget medlemslandene må give køb på databeskyttelsen under coronakrisen. Vejledningen åbner for, at landene gerne må bruge teledata og andre lokationsdata til at følge befolkningens bevægelser eller sende sms’er med gode råd til borgere i et bestemt område. Men EU-reglerne giver også mulighed for at gå endnu længere og spore enkeltpersoners bevægelser, fastslår vejledningen.
+Den mindst indgribende løsning, der anonymiserer borgerne, bør dog altid vælges, og overvågningen skal altid stå i et rimeligt forhold til formålet med indsamling af data.
+Men »indgribende løsninger, såsom sporing af enkeltpersoner, kan godt være forholdsmæssige under ekstreme forhold«, fastslår Det Europæiske Databeskyttelsesråd.
+Der skal dog være mulighed for at klage over overvågningen.
+»Hvis foranstaltninger, der tillader behandling af ikkeanonymiserede lokationsdata, bliver vedtaget, er medlemslandene forpligtet til at indføre passende beskyttelse af borgerne, såsom at sørge for, at brugerne har mulighed for at tage retlige skridt«, hedder det i vejledningen.
+Vejledningen blev udsendt torsdag, efter at Italien, Tyskland og Østrig luftede planer om at bruge lokationsdata til at overvåge, begrænse og afbøde spredningen af corona.
+I Kina og det øvrige Sydøstasien har myndighederne haft stor succes med at bruge lokationsdata til at begrænse smitten.
+To af de helt store kinesiske techselskaber, Tencent og Alibaba, har udviklet hver sin corona-app. Tencents version holder øje med, hvor brugeren har befundet sig i de seneste to uger, og kan således afgøre, om vedkommende har været i et smitteramt område, og sågar, om brugeren har været tæt på personer, der senere har vist sig at være smittet.
+Alibabas version kan endnu mere: Den indsamler tillige brugerens øvrige data – Alibaba ved ganske meget om sine kunder – kombinerer dem med big data og bruger kunstig intelligens til at beregne smitterisikoen.
+Systemet udpeger ifølge Alibaba de smittede med 96 procents nøjagtighed. Og kan fortælle den enkelte, hvor det er tilladt at bevæge sig hen, og hvordan man i øvrigt bør opføre sig.
+Kinesiske sundhedsmyndigheder siger, at de teknologiske løsninger har været afgørende for at bremse smitten.
+Lignende løsninger med varierende grader af privatlivsbeskyttelse er blevet brugt i Sydkorea, Taiwan, Singapore og andre sydøstasiatiske lande.
+Ifølge Jesper Grønbæk, direktør for Health Tech Hub Copenhagen, er der rige og uudnyttede muligheder for at bruge data og teknologi, både til at begrænse smitten og til at forbedre sundhedsvæsnets effektivitet.
+»Jeg er helt sikker på, at teknologien kan gøre en forskel. Det ser vi også i andre lande«, siger Jesper Grønbæk.
+Han har indsamlet et katalog af 30 brugbare løsninger, der spænder fra fjernovervågning af patienter til virtuelle konsultationer. Ingen af dem bruger teledata.
+Jens Bostrup
+fortsæt med at læse
+Valutafond forudser global økonomisk nedgang som i 2009
+WHO:
+Coronavirus er i næsten alle lande og tager til i fart

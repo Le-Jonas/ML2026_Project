@@ -1,0 +1,14 @@
+Title: Microsofts_topchef_»Vi_vil_ikke_sælge_tjenester_me
+Date: 2019-09-13
+Article Type: Tech
+Author: Microsoft har afvist ønsker fra regeringer, der ønsker at få software til ansigtsgenkendelse.
+
+It-selskabet frygter, at det vil blive misbrugt, og man vil aldrig sælge teknologien, hvis den indgår i overvågning.
+Det siger Brad Smith, der har titel af præsident og juridisk topchef i det amerikanske selskab, i et interview med nyhedsbureauet Reuters.
+»Vi vil ikke sælge tjenester med ansigtsgenkendelse noget sted i verden, hvor formålet er overvågning«, siger han.«
+Microsoft har opfordret til stærkere regler for teknologien bag ansigtsgenkendelse.
+Ansigtsgenkendelse bruges i Kina til at følge og udspionere etniske minoriteter. Det har i særlig grad været brugt mod de muslimske uighurer.
+Men teknologien bruges også af myndighederne på en lang række andre områder til at styre borgernes adfærd.
+Smith går ikke så langt, at han vil have forbud mod teknologien. Microsoft mener selv, at dets teknologi holder sig inden for nogle rimelige rammer.
+Men regeringer bør handle hurtigere for at opstille regler for brugen af ansigtsgenkendelse, mener han.
+ritzau

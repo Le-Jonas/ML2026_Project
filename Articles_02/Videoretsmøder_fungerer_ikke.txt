@@ -1,0 +1,10 @@
+Title: Videoretsmøder_fungerer_ikke
+Date: 2005-09-30
+Article Type: Danmark
+Author: Et forsøg, der skulle gøre det muligt at holde retsmøder ved hjælp af videoforbindelser mellem byret og arresthus, er blevet forsinket. 
+»Vi havde ikke forventet problemer af den her længde«, siger Domstolsstyrelsens it-chef, Peder Wiese. 
+Formålet med projektet var forsøgsvist at koble ret og arrest sammen. På den måde kan man undgå, at politiet skal ud på lange køreture for at hente fængslede, der skal fremstilles i ganske korte retsmøder for at få deres fængslinger forlænget. Teknikken svigter
+»Vi har nogle gange formidabel billedkvalitet, men så er lyden ikke tilfredsstillende. Andre gange er det omvendt«, siger Peder Wiese. 
+Det er endnu uklart, om det er det tekniske udstyr, der er skyld i fejlen, eller om det er dataforbindelserne, der ikke har kapacitet nok. 
+Peder Wiese har endnu ikke noget bud på, hvornår problemerne er løst.
+

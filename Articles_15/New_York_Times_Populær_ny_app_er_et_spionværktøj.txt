@@ -1,0 +1,11 @@
+Title: New_York_Times_Populær_ny_app_er_et_spionværktøj
+Date: 2019-12-23
+Article Type: Medier
+Author: Apple og Google har fjernet den nye sociale app ToTok efter afsløringer i New York Times om, at det er en spion-app fra Forenede Arabiske Emirater.
+
+Torben Benner
+Journalist
+Det ligner en almindelig social app, der kan bruges til at dele meddelelser på video og tekst. Men ifølge
+New York Times
+er den nye app, ToTok, i virkeligheden et spionværktøj, som giver regeringen i Forenede Arabiske Emirater mulighed for at følge med i alt, hvad brugerne foretager sig.
+På baggrund af samtaler med en række embedsmænd med kendskabs til klassificerede efterretninger, skriver avisen, at Forenede Arabiske Emirater via ToTok kan følge med i alle samtaler, bevægelser, aftaler, lyde, billeder og forhold hos brugerne.

@@ -1,0 +1,14 @@
+Title: Politiet_bryder_persondataloven
+Date: 2003-10-22
+Article Type: Danmark
+Author: Adskillige politikredse opbevarer udskrifter af telefonaflytninger på en måde, som er i strid med Persondataloven. Ansatte ved politiet kan via computer læse udskrifterne, uden at det kan kontrolleres hvem, der har åbnet filerne og hvornår. 
+Datatilsynet har i efteråret 2002 undersøgt praksis i 12 politikredse. I fem af dem overtrådte politiet loven, som trådte i kraft 1. juli 2000, skriver Jyllands-Posten. Ignorerer irettesættelserne
+ Politimester i Helsingør Ole Scharf har fået en irettesættelse af Datatilsynet, men han siger til Jyllands-Posten, at han vægter efterforskningen af narko- og rockersager højere end Datatilsynets forskrifter. 
+Problemet ved udskrifter af telefonaflytningerne er, at politiets normale datasystem Polsas ikke egner sig til de store mængder data, som udskrifterne indeholder. Man kan for eksempel ikke søge i databasen. Derfor skriver mange kredse aflytningerne ind i almindelige skriveprogrammer. 
+»Det er et gammelkendt landsdækkende problem. Jeg ved ikke, hvorfor man er så kolossalt træge hos Rigspolitiet med at løse problemet, men vi fortsætter altså den ulovlige praksis. Ellers kunne vi lige så godt holde op med at efterforske rocker- og narkosager,« siger Ole Scharf. 
+Også i Esbjerg har politiet modtaget en påtale fra Datatilsynet, og det har fået politimesteren til at kræve, at narkoafdelingen overholder loven. Det betyder færre aflytninger, fordi det tager længere tid, siger politimester i Esbjerg, Poul Bjørnholdt Løhde. 
+Politiet opbevarer personfølsomme oplysninger så lemfældigt, at ikke kun ansatte ved politiet, men også folk udefra kan få adgang til dem. Flere tilfælde
+Datatilsynet har i flere tilfælde måttet indskærpe reglerne overfor politimestrene, som er dem, der har ansvaret over for Persondataloven. 
+I Lyngby, Glostrup og Gladsaxe politikredse oplyser 24 ud af 36 tankstationer, at de har fået oplysninger om navn og adresse ud fra bilens registreringsnummer - uden at politiet har foretaget kontroloopringninger. 
+Også her har Rigspolitiet overvejet at indskærpe reglerne over for politikredsene.
+

@@ -1,0 +1,10 @@
+Title: Politiets_grænsekontrol_er_ikke_god_nok
+Date: 2004-11-09
+Article Type: Danmark
+Author: De politibetjente, der kontrollerer udlændinges ophold i Danmark, ved for lidt om, hvordan de edbsystemer, de bruger i arbejdet, virker. 
+Det indebærer en risiko for, at udlændinge, der har forbud mod at rejse ind i Danmark, slipper igennem nettet, konstaterer Rigsrevisionen i en beretning om grænsekontrollen. Skal slå op i to registre
+Når betjentene udfører kontrollen, skal de slå op i to edb-registre for at få at vide, om udlændingene ikke må være her. 
+Dels Schengen-landenes register SIS, der indeholder oplysninger om eftersøgte, der skal anholdes med henblik på udlevering. Dels det danske kriminalregister, der indeholder oplysninger om udviste og efterlyste personer i Danmark. Tidskrævende og demotiverende
+Rigsrevisionen har konstateret, at politikredsene ofte kun søger i et af registrene, fordi betjentene mener, det er for tidskrævende og virker demotiverende at søge i to systemer. 
+Rigspolitiet vil nu undersøge baggrunden for, at betjentene ikke søger i begge databaser på en gang, og vil også undersøge mulighederne for at etablere en database over gyldige pas og forfalskninger.
+

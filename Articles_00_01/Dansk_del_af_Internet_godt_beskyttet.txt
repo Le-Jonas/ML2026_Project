@@ -1,0 +1,11 @@
+Title: Dansk_del_af_Internet_godt_beskyttet
+Date: 2001-03-19
+Article Type: Danmark
+Author: /ritzau/
+
+Den danske del af Internet er generelt ganske godt beskyttet mod nedbrud, fordi Internet-udbyderne i Danmark har etableret et bredt net med føringsveje både i jorden og i luften. Det er hovedkonklusionen i en udredning fra IT-sikkerhedsrådet om Internet-sårbarhed.
+Hvis nettet går ned
+Udredningen bygger på en analyse af det danske samfunds sårbarhed over for Internet-relaterede nedbrud af samfundsfunktioner. 
+»I et netværkssamfund som det danske, hvor vi arbejder, kommunikerer og handler elektronisk, er det helt afgørende, at vi har et velfungerende og driftsikkert Internet. Det er derfor positivt, at den overordnede konklusion er, at den danske del af Internettets infrastruktur er godt beskyttet mod nedbrud«, siger IT- og forskningsminister Birte Weiss (S).
+Behov for forbedringer
+Trods den generelt positive konklusion er der dog også plads til forbedringer. IT-sikkerhedsrådet har identificeret nogle vitale knudepunkter for den danske Internet-trafik, hvor man foreslår særlige sikkerhedskrav og regelmæssige kontrolrutiner.

@@ -1,0 +1,22 @@
+Title: Gratis_positionsdata_skal_give_mere_værdi_til_virksomheder
+Date: 2018-03-13
+Article Type: Danmark
+Author: Danske virksomheder er vilde med geografiske data - også kaldet geodata.
+
+Efterspørgslen efter data, der kan angive for eksempel bilers, menneskers eller vejrfænomeners præcise placering, har været støt stigende, siden den type oplysninger blev gjort gratis tilgængelige i 2013.
+Alene det seneste år er efterspørgslen steget med 45 procent, viser nye tal fra Styrelsen for Dataforsyning og Effektivisering.
+Det kan det kommende europæiske satellitsystem Galileo bidrage yderligere til. Det kommer fra 2020 til at kunne levere langt mere præcise positioner i Europa end det velkendte, amerikanske GPS-system.
+»Der er rigtig mange elementer i vores samfund, som vi ikke tænker over i dagligdagen, hvor de rette geografiske data er helt afgørende«.
+»Det nye system betyder, at vi kommer til at få en markant højere kvalitet i de produkter og services, der er afhængige af satellitdata«, siger energi-, forsynings- og klimaminister Lars Christian Lilleholt (V).
+EU-Kommissionen har besluttet, at Galileo-data skal være frie at benytte, så man sikrer, at borgere og virksomheder får maksimalt udbytte af potentialet.
+Galileo-systemet har været 20 år undervejs, har kostet EU cirka 100 milliarder kroner og har en nøjagtighed på ned til 20 centimeter.
+Positionsdata er langt mere præcise end geodata. Derfor støtter regeringen, at data skal være gratis, da udviklingen kan bruges til at skabe endnu mere værdi, når positionerne er mere nøjagtige.
+»Positionsdata skal ligesom geodata være gratis for virksomheder og privatpersoner. Det giver mere værdi for de virksomheder, der bruger dataene, når positionerne er mere præcise«, siger Lars Christian Lilleholt.
+Geodata og den mere præcise positionsdata, der er på vej, kan blandt andet bruges på løbeture og ved ambulancekørsel. Det er også brugbart, når boligkøbere eller ejendomsmæglere vil vurdere risikoen for oversvømmelser på ejendomme.
+Selv om de kommende positionsdata er mere præcise og gratis, mener Lars Christian Lilleholt ikke, at vi kommer nærmere et overvågningssamfund.
+»Det kommer vi ikke nærmere. Det skal ikke bruges til overvågning«.
+Spørgsmål: Men er der ikke en risiko for, at det kan føre til mere overvågning?
+»Det oplever jeg overhovedet ikke. Det skal alene bruges til at sikre, at de positionsoplysninger, der bliver givet, er rigtige«, siger ministeren.
+De baner, som Galileos satellitter kredsen om jorden i, er mere optimale end det amerikanske gps-system i forhold til nøjagtig positionering i Europa og i Arktis.
+Det skønnes, at 11 procent af EU's bnp er afhængig af satellitbaseret positionering.
+ritzau

@@ -1,0 +1,19 @@
+Title: Staten_sikrer_arkivering_af_hjemmesider
+Date: 2001-06-19
+Article Type: Kultur
+Author: Michael Seidelin
+
+Politiken onsdag:
+Statens Information, som står bag søgetjenesten www.detoffentlige.dk, er allerede nu i gang med at bevare institutionens hjemmesider for eftertiden. Det sker i samarbejde med firmaet NetMester, og de tilbyder allerede nu private virksomheder og offentlige institutioner hjælp og bistand til at arkivere hjemmesider. 
+ Initiativet er helt nyt og falder sammen med et udspil fra Folketingets Kulturudvalg, som har opfordret kulturminister Elsebeth Gerner Nielsen (R) til at iværksætte et udredningsarbejde om bevarelse af digitalt materiale. 
+ Det er allerede nu rygraden i informationssamfundet, som forskeren Niels Ole Finnemann fra Center for Internetforskning på Aarhus Universitet formulerede det på en konference i går og mandag på Det Kongelige Bibliotek om netop dette emne. 
+ En af initiativtagerne til debatten om bevaring af den danske kulturarv, herunder også internetdelen, nemlig SFs kulturordfører Ole Sohn, er optimistisk efter konferencen. »Dette udredningsarbejde er en af forudsætningerne for den betænkning, kulturministeren skal udarbejde om spørgsmålet. Det kræver store investeringer at bevare vores kulturarv for eftertiden, også den digitale del af den, og derfor er det nødvendigt at vurdere behov, muligheder og prioritering, således at det kan komme med i de kommende års finanslov. For det er en plan, der skal køre over flere år«, siger Ole Sohn, som glæder sig over den brede politiske interesse og opbakning.
+Offentligt tilbud
+Konferencen er et led i dette udredningsarbejde, og Det Kongelige Bibliotek, Center for Internetforskning og Statsbiblioteket indleder i august et forskningsprojekt om registrering og arkivering af internetmateriale. 
+ »Vi vil gerne bidrage til dette forskningsprojekt med erfaringer og programmel«, siger Morten Ebbesen fra NetMester. NetMester og Statens Information har sammen udviklet søgetjenesten www.detoffentlige.dk, som giver borgerne oplysninger om stort set alle forhold inden for det offentlige Danmark. Det sker på 3.600 offentlige hjemmesider med i alt tre millioner sider. 
+ Ideen til arkiveringen kom, da Statens Information ændrede design og indhold på en anden søgetjeneste, nemlig www.danmark.dk, fortæller Carsten Buus, IT-chef i Statens Information. 
+ »Vi ville gerne arkivere det gamle, og derfor gik vi i gang med at gemme det i HTLM-format, som de fleste kan læse. Vi kan også lagre i andre, mere grafikvenlige formater, og det foregår på den måde, at vi lægger vores navn og gode rygte til, mens NetMester står for det tekniske«, siger Carsten Buus.
+Ikke helt enkelt
+Det er ikke helt enkelt at bevare siderne. For mens siderne tidligere overvejende blev skrevet i HTLM-format, er de nu skrevet i en række andre formater. Men op til 80 procent kan i dag kopieres uden større problemer, mens det er vanskeligere for de resterende 20 procent. 
+ »Problemet kan dog løses med vejledning og fortsat udvikling af de programmer, der henter indholdet ned fra hjemmesiderne«, siger Morten Ebbesen fra NetMester. 
+ Statens Information og NetMester lægger allerede nu råd og vejledning om sikring af hjemmesiderne ud på nettet, og de har sammen udarbejdet hjemmesiden www.kulturarv.dk, hvor interesserede kan få tilbud på sikring og arkivering af en hjemmeside.

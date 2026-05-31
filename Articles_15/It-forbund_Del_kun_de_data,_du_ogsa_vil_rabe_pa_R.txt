@@ -1,0 +1,38 @@
+Title: It-forbund_Del_kun_de_data,_du_ogsa_vil_rabe_pa_R
+Date: 2020-08-16
+Article Type: Sport
+Author: Team Danmark lover, at de lever op til krav for it-sikkerhed med ny app. Men der er altid en risiko for datalæk, lyder det fra flere sider.
+
+Sara Krog
+Journalist
+Hvis du kontant bliver mindet om, at du skal spise mere grønt og motionere, vil det hjælpe på din motivation til at leve sundere.
+Kampagne
+Danmark Leve
+Team Danmarks eksperter guider hver dag landets bedste atleter til at kunne præstere blandt verdenseliten.
+I ny kampagne får almindelige mennesker mulighed for at optimere deres sundhed med den viden gennem appen Danmark Leve!
+Kampagnen starter 7. september og strækker sig over fire uger. Appen kan hentes fra i dag.
+Politikens abonnenter kan få 20 procent rabat via linket: politiken.dk/plus/rabataftaler/
+Det er rationalet bag en ny digital sundhedskampagne, hvor Team Danmarks eksperter gennem fire uger skal guide almindelige danskere til at forbedre deres samlede levealder. Brugere kan for eksempel vælge at dyste mod kollegaer eller familiemedlemmer. Tanken er, at konkurrenceaspektet skal gøre det endnu nemmere for den enkelte at holde sig til ilden.
+For at holde styr på kursen skal deltagerne kampagnen igennem hver dag rapportere efter forskellige parametre. Det gælder blandt andet, hvor mange kopper kaffe eller genstande alkohol deltageren har drukket på en dag. Et andet parameter er antallet af timer, brugeren har sovet. Antallet af minutter med hård motion er et tredje eksempel.
+En gigantisk sundhedsdagbog, der i slutningen af kampagnen vil ligge inde med store mængder af personlige data. Og når man beder sine brugere om at dele oplysninger i sådan en grad, skal der også være styr på sikkerheden bag, understreger Jesper Nyholm, der er direktør i firmaet 7peaks, som står bag kampagnens digitale infrastruktur i samarbejde med Team Danmark.
+»Derfor er der foretaget en række sikkerhedsforanstaltninger. Vi lever op til kravene for persondataforordningen. Alle data opbevares i Danmark. Vi transmitterer ikke personfølsomme oplysninger ud af EU«, siger han.
+Dertil kommer, at den enkelte bruger altid kan slette sin konto. Ingen, ikke engang kapagnens sundhedseksperter, har ifølge datapolitikken adgang til brugernes personlige data, men kun samlet statistiske opgørelser, med mindre man selv ønsker at dele det.
+Håbet er, at datagrundlaget i sidste ende kan gøre Team Danmarks eksperter klogere på deltagernes livsstil.
+»På den anden side af kampagnen står vi med en god mængde data på danskernes sundhed, samt hvor gode de er til at forbedre den, ikke blot en stikprøve. Derfor kan det forhåbentlig bruges til at forbedre noget på den lange bane«, siger Jesper Nyholm.
+Som bruger skal man dog altid være opmærksom, inden man deler så personlige oplysninger som sundhedsdata, mener Ole Tange, der er it-politisk rådgiver i Prosa, forbundet af it-professionelle. Han har set den del af appens datapolitik, der er tilgængelig på kampagnens hjemmeside.
+Ifølge ham er appen bygget op som de fleste andre sundhedsapps, og folkene bag »har taget højde for rigtig mange af de fornuftige ting«, for eksempel at man lover, at data forbliver i EU. Men der er altid en risiko for datalæk, understreger Ole Tange.
+»Derfor vil jeg som udgangspunkt altid have den indstilling, at jeg aldrig vil give mine personlige oplysninger til en app, hvis ikke også jeg vil stille mig op på Rådhuspladsen og råbe samme oplysninger til hele København«, siger han.
+Samme melding kommer fra Camilla Gregersen, der er formand i Magisterforeningen og medlem af Dataetisk Råd. Som rådsmedlem udtaler hun sig på baggrund af egne holdninger til digital etik.
+Hun ser ingen grund til at betvivle, at Team Danmarks eksperter har gjort, hvad de kunne for at skabe en sikker app.
+»Men man kan aldrig gardere sig hundrede procent. Dermed ikke sagt, at man slet ikke bør lave sundhedsapps. Der findes jo mange af den slags, men selv de største af slagsen risikerer at blive hacket«, siger hun.
+Derudover mener Camilla Gregersen, at konkurrenceelementet i Danmark Leve-appen personligt vil afholde hende fra at deltage. Andre brugere kan nemlig se, om du procentuelt ligger over eller under dit mål for kampagnen.
+»Appen afslører ting på individniveau, som efter min mening hører privatlivet til. Den del ville jeg absolut ændre, så man i stedet måler sig mod et gennemsnit«, siger hun.
+Fra folkene bag Danmark Leve-appen lyder det, at de lever op til alle de krav, de skal. Herefter er det op til den enkelte, om man har lyst til at være med eller ej.
+»Vi skal virkelig passe på sundhedsdata. Det springende punkt er, at data i vores platform bliver aktivt brugt til at forbedre din sundhed og holde dig motiveret«, siger Jesper Nyholm.
+Sara Krog
+fortsæt med at læse
+Ny kampagne:
+Danskerne skal træne som eliteatleter
+Det hele buldrer, når verdens hurtigste sejlbåd rammer topfart på 90 km/t
+Mie Skov gør comeback:
+»Jeg var ikke til stede. Nu vil jeg gøre alt for at nyde den proces, jeg går ind i«

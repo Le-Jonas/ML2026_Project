@@ -1,0 +1,8 @@
+Title: Her_er_8_eksempler_pa_vigtige_it-krav
+Date: 2017-11-30
+Article Type: Digitalt
+Author: Sebastian Stryhn Kjeldtoft
+
+Undersøgende redaktør
+Politiken kan ikke få oplyst, hvilke krav, CFCS ikke lever op til. Men her er 8 eksempler på vigtige krav, den såkaldte ISO27001-standarden indeholder:
+Der skal udarbejdes en politik for informationssikkerhed. Den skal regelmæssigt gennemgås for at fastslå, om der er sket ændringer. Målet er at holde øje med, om Borgen fortsat bruger den rigtige form for beskyttelse.

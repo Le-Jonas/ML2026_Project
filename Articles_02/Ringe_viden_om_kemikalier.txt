@@ -1,0 +1,40 @@
+Title: Ringe_viden_om_kemikalier
+Date: 2004-11-06
+Article Type: Viden og tech
+Author: Morten Jastrup
+
+Der er meget vi ikke ved. Men der er få områder, der på en gang er så stor en del af vores hverdag og samtidig er præget af så massiv mangel på viden, som kemikalieområdet. 
+Der er intet overblik over, hvilke stoffer, der egentlig er i brug i industrien, hvilke stoffer vi kan støde på i forskellige produkter eller i miljøet omkring os. Vi ved ikke, hvor mange der er i brug, og kun et fåtal af de kendte stoffer, kender vi rent faktisk effekten af. Det eneste, der er sikkert er, at vores dagligdags produkter fra kosmetik over rengøringsmidler til tøj, møbler og legetøj er fyldt med ukendt kemi. 
+»Jeg har mange gange forsøgt at finde ud af hvor mange stoffer, vi egentlig har registreret som farlige, men jeg kan ikke få ordentlige svar, for der er ikke nogen, der vil lægge hovedet på blokken for de data, der laves, og de opgørelser, der findes. For der er ingen kontrol og eftersyn med det«, siger Finn Bro, professor emeritus på Danmarks Tekniske Universitet og i 16 år medlem af og formand for Europa-kommissionens rådgivende komité angående kemikalier.
+Kræver stærkere kontrol
+Han har i mange år advokeret for en stærkere kontrol med de kemiske stoffer. Afhængig af hvordan man opgør tallet findes der mellem ca. 3.000 og ca. 7.500 stoffer, der er registreret som farlige i en eller anden forstand, fra brandfarlige til kræftfremkaldende. 
+Det eneste, Finn Bro kan sige med nogenlunde sikkerhed, er, at der efter alt at dømme bruges langt flere farlige kemiske stoffer end de tusinder, der er registreret.
+Millioner af stoffer
+Antallet af kendte kemiske stoffer er enormt. 24,5 millioner stoffer er i skrivende stund registreret hos Chemical Abstract Services (CAS), en afdeling af American Chemical Society. 
+CAS har siden 1957 samlet alle kemiske stoffer beskrevet i videnskabelig litteratur i registret. I øjeblikket registreres der i omegnen af 4.000 nye stoffer hver dag. 
+Et fåtal af disse er reelt i brug. De fleste eksisterer kun i laboratorier. CAS oplyser, at omkring otte millioner stoffer er 'kommercielt tilgængelige', hvilket betyder, at de i princippet kan produceres og sælges. Igen er det dog kun et fåtal, der i virkeligheden bruges. I EU er der i registeret omkring 100.000 stoffer, der i princippet alle er på markedet. I USA er der registreret mellem 70 og 80.000 stoffer, der rent faktisk produceres.
+100.196 ukendte stoffer
+Men for at gøre forvirringen komplet er i hvert fald det europæiske tal nok sat lidt højt. Det skyldes, at det europæiske kemikalie-register EINECS blev indført i 1981 som et forsøg på at få orden på de mange tusinde kemiske stoffer i det daværende EF. Alle nye stoffer skulle fra 18. september det år analyseres for en række skadelige virkninger. Men de stoffer, der på det tidspunkt allerede var på markedet skulle ikke analyseres. 
+100.196 blev klassificeret som 'gamle' stoffer, der ikke skulle vurderes. Det tal dækker efter mange kritikere af den kemiske industris mening over, at industrien skyndte sig at få registreret så meget som muligt for at slippe for vurderingen af eventuelle farer.
+Er nye stoffer farligere?
+I alt er der i EU registreret 7.500 stoffer som farlige, oplyser Miljøstyrelsen. Af de gamle stoffer er få procent registreret som farlige. Men blandt de nye stoffer, der er kommet på markedet siden 1981 - godt 3.000 - er 40 procent registreret som farlige stoffer. 
+»Betyder det, at industrien laver farligere stoffer nutildags end tidligere?«, spørger Finn Bro retorisk. 
+Billedet bliver ikke bedre når man ser på de stoffer, der bruges meget af. Det er typisk 'gamle' stoffer, som man har valgt alligevel at analysere farligheden af, fordi de bruges meget. 20 procent af de stoffer vurderes nu som farlige kemikalier. 
+»Det er en af de ting, der er afgørende for mig, når jeg har sagt, at industrien har haft friløb på dette område«, siger Finn Bro: 
+»Når man undersøger stoffer nærmere, fordi vi bruger meget af dem, viser 20 procent sig at være farlige, og af de nye stoffer, viser 40 procent sig at være farlige. Det er en af de bedste indikationer på, at der bør gøres noget«, siger Finn Bro.
+Effekten på mennesker
+Set fra en lægelig vinkel er kemikalier en af de påvirkninger af kroppen, vi ved mindst om. 
+»Vi ved for eksempel langt mere om tilsætningsstoffer, fordi man har større krav til dokumentation. Og om lægemidler, fordi man også her stiller meget større krav til dokumentation af deres effekter. Stråling ved vi også en hel del om. Det er også nemmere at overføre viden fra en type stråling til en anden. Dér er det mere dosis, der er afgørende«, siger professor i miljømedicin Steffen Loft fra Panum Instituttet ved Københavns Universitet. 
+Han har svært ved at vurdere, hvor bekymret der er grund til at være for kemikalierne i vores hverdag. 
+»Vi har meget lidt dokumentation for, at kemikalierne rent faktisk koster liv eller førlighed. Men der er en masse potentielle risici, der er skræmmende. Så jeg mener bestemt, at vi skal føre en restriktiv kemikaliepolitik«. 
+Mangelen på viden om de enkelte kemikaliers effekt på mennesker er det første problem. 
+»Det andet problem er, at man i endnu ringere grad har undersøgt, hvordan stoffer virker sammen. Og hvordan de virker sammen med andre risikofaktorer som for eksempel luftforurening? Man kan forestille sig, og nogle gange har vi også vist, at der kan komme meget forstærkede effekter«, forklarer Steffen Loft. 
+Den store mangel på viden om de enkelte kemikaliers effekter vokser eksponentielt, når man kommer til disse såkaldte cocktaileffekter. 
+»Vi har i forvejen svært ved at få overblik over de 100.000 enkeltstoffer. Hvis også skal til at blande dem i alle tænkelige kombinationer og så undersøge effekterne, så bliver man jo helt skræmt«, siger Steffen Loft.
+Datatestning
+Noget kan man dog gøre. I de tilfælde, hvor et stof påvirker kroppen ved at hæfte sig på en celle - på et molekyle på ydersiden af cellen, der kaldes en receptor - kan man beregne sig frem til, om lignende stoffer vil have samme effekt. Det betyder, at den viden vi har om visse af de farlige stoffer kan bruges til at vurderer farligheden af andre - ikke testede - stoffer. 
+I EU arbejder man i øjeblikket på en ny lovgivning for kemikalierne. REACH, som det nye sæt regler er døbt, indebærer, at opdelingen mellem de godt 100.000 gamle stoffer og de ca 3.000 nye stoffer fjernes. 
+Fremover skal industrien levere data om alle de stoffer, de bruger. De stoffer, som man ved, er særligt problematiske - for eksempel fordi de er kræftfremkaldende eller skader arveanlæggene - kommer i en særlig gruppe, der kræver en godkendelse, før de kan bruges. Omkring 1.500 stoffer ventes at ende i denne kategori. 
+»Vi mangler meget viden på dette område. Idéen med REACH er, at tilvejebringe viden om de mange stoffer, der er i omløb. Og så vender man bevisbyrden om, så det er industrien selv, der har ansvaret for, at stofferne bliver vurderet«, siger Inger Bergman, kontorchef i Miljøstyrelsens kemikaliekontor. 
+Det imponerer dog ikke Finn Bro: 
+»Den store mængde stoffer, som vi ikke kender effekten af skal nu klassificeres af industrien selv. Det bliver altså industriens ansvar selv at vurdere risikoen«, siger Finn Bro.

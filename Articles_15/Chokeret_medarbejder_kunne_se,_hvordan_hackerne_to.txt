@@ -1,0 +1,9 @@
+Title: Chokeret_medarbejder_kunne_se,_hvordan_hackerne_to
+Date: 2021-02-10
+Article Type: Internationalt
+Author: Et vandanlæg i Florida har været udsat for et hackerangreb, hvor det blev forsøgt at tilføje et farligt tilsætningsstof i vandet. It-sikkerheden i danske vandanlæg er svingende, men direktør for Danske Vandværker er ikke bekymret.
+
+Julie Gindrup
+Journalist
+Et brud i it-systemet gjorde det fredag 5. februar muligt for hackere at overtage styringen i et vandanlæg i Florida og tilføje en større dosis af et farligt tilsætningsstof i vandet, der løber ud til 15.000 mennesker.
+Hackerne fik adgang til systemet gennem programmet TeamViewer på en medarbejders computer og kunne derigennem få adgang til andre programmer.

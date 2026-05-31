@@ -1,0 +1,12 @@
+Title: Svindel_pa_nettet_er_et_stort_problem
+Date: 2004-07-26
+Article Type: Økonomi
+Author: Svindlere hugger allerede i dag brugernes personlige oplysninger samt informationer om kreditkort via internettet, og denne form for kriminalitet vil eksplodere i fremover. 
+Sådan lyder advarslen fra såvel eksperter som Rigspolitiet, skriver Morgenavisen Jyllands-Posten. 
+Det kaldes 'phishing', når fortrolige oplysninger stjæles på internettet. 
+»Phishing er det helt store svindelnummer i øjeblikket, og der er ingen tvivl om, at svindlerne er utrolig dygtige. De har teknikken, de har folkene, og de er gode til at gemme sig. Der er milliarder af kroner i spil på nettet, så svindlerne har mange muligheder for at hente penge«, siger lederen af Rigspolitiets it-sektion, kriminalkommissær Ronald Pedersen, til Jyllands-Posten. Falske hjemmesider lokkemiddel
+Svindlerne vil forsøge at lokke oplysninger ud af danskerne ved hjælp af falske hjemmesider, der ligner bankernes, myndighedernes eller andre troværdige firmaers og institutioners. 
+Det danske Computer Emergency Response TEam, CERT, overvåger sikkerheden på nettet, og chefkonsulent Preben Andersen fortæller, at svindlere gør sig rig på nettet ved at tilegne sig kortinformationer. 
+»Man ser eksempler på, at man køber radioudstyr og får det leveret til falske adresser på falske kort«, siger Preben Andersen til Jyllands-Posten. 
+En international konference har i sidste måned udnævnt 'phishing' som fremtidens store kriminalitetsproblem.
+

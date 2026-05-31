@@ -1,0 +1,8 @@
+Title: FBI_Hackere_har_stjalet_en_million_kreditkortnumre
+Date: 2001-03-08
+Article Type: Internationalt
+Author: /ritzau/AFP
+
+Østeuropæiske hackere har stjålet over en million kreditkortnumre fra amerikanske internetbutikker- og banker de seneste måneder. Det er sket i et forsøg på at foretage afpresning, oplyste det amerikanske forbundspoliti, FBI, torsdag. 
+Det hedder, at hackerne fra især Rusland og Ukraine er organiseret i grupper, og at de søgte at udnytte sårbarheden ved Microsofts Windows NT-operativsystem. 
+ Hackernes fremgangsmåde består i at indsamle oplysninger om internetkundernes kreditkort og derpå forlange penge af internetbutikkerne for at aflevere oplysningerne igen.

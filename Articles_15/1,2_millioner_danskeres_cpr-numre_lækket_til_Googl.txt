@@ -1,0 +1,19 @@
+Title: 1,2_millioner_danskeres_cpr-numre_lækket_til_Googl
+Date: 2020-02-07
+Article Type: Digitalt
+Author: 1,2 millioner borgeres cpr-numre er blevet lækket ved en fejl. Det er en softwarefejl, der har gjort, at de mange numre er blevet sendt fra TastSelv Borger til Google og Adobe.
+
+Det skriver
+DR.
+Fejlen har stået på i knap fem år, og den blev opdaget af Udviklings- og Forenklingsstyrelsen i forbindelse med et tilsyn af TastSelv Borger.
+På TastSelv Borger kan man blandt andet se og ændre sin forskudsopgørelse og årsopgørelse samt betale restskat. Konkret er de personlige oplysninger blevet lækket, når folk er logget på TastSelv Borger og klikket på 'Ret oplysninger'.
+En softwarefejl har så gjort, at når brugere har rettet deres oplysninger, er cpr-nummeret blevet en del af web-adressen, der blev sendt til Google og Adobe.
+Det fremgår ifølge mediet af en redegørelse, der er sendt til Skatteudvalget.
+Styrelsen vurderer, at borgernes cpr-numre ikke er blevet misbrugt. Det skyldes, at dataene var krypteret, så hverken Google eller Adobe kunne se cpr-numrene.
+Den udlægning har Google bekræftet over for DR. Men Peter Kruse, sikkerhedsekspert fra CSIS, ser anderledes på sagen:
+»Det data, der er modtaget af Google, er ukrypteret. Google har kunnet læse data i ukrypteret form«, vurderer han over for DR.
+TastSelv Borger varetages af den amerikanske it-udvikler DXC Technology, som tidligere hed CSC.
+ritzau
+fortsæt med at læse
+Eksperter: Spørg din kommune, hvad dit barns computer rummer
+Sager om brud på elevers datasikkerhed hober sig op

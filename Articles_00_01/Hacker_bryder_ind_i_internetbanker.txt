@@ -1,0 +1,26 @@
+Title: Hacker_bryder_ind_i_internetbanker
+Date: 2002-08-27
+Article Type: Økonomi
+Author: Peder Bjerge og Sisse K. Ibsen
+
+En svensk hacker er brudt ind i tre af Sveriges største netbanker inden for få minutter. Det skete til ære for nyhedsbureauet Reuters. Indbrudene skete gennem et hul i Microsofts program til brug på internettet. En dansk it- sikkerhedsekspert bekræfter sammen med sikkerhedscheferne i de to største danske banker, at problemet er reelt. 
+ Den svenske hacker - der i dag arbejder som konsulent - demonstrerede over for Reuters, hvordan man bryder ind i internetbanker.
+Udnyttede en svaghed
+Ifølge nyhedsbureauet var han i stand til at flytte penge fra kunders konti og smutte uset ud af bankernes systemer igen. 
+ Hackerkonsulenten brugte en svaghed i den måde, Microsoft har valgt, at man sender kreditkortdata og bankpasswords over internettet - den såkaldte SSL (Secure Socket Layer) standard. 
+ »Vi har kendt til den sårbarhed i den sidste måneds tid«, siger Preben Andersen, chefkonsulent i Uni-C, der driver den danske afdeling af den internationale it- sikkerhedsorganisation CERT. 
+ Preben Andersen er tidligere chef for Rigspolitiets it-afdeling. 
+ Ifølge Uni-C narrer hackeren en kunde i en internetbank til at tro, at han kommunikerer over en sikker forbindelse, mens han taster sit password ind.
+Svært for kunden at gennemskue
+Det kan være meget svært for kunden at gennemskue, at han bliver beluret. Eneste mulighed er at klikke på det lille ikon med en hængelås, der viser sig i bunden af hjemmesiden, når man er forbundet med det, der skal være en sikker forbindelse til banken. 
+ Dermed kan man se, hvilke firmaer der garanterer for sikkerheden. Hvis der viser sig et ukendt eller usikkert sikkerhedscertifikat, kan der være hackere på spil. 
+ I landets to største banker kender man udmærket til risikoen for, at hackere lister sig igennem Microsofts systemer og ind i kundernes bankkonti.
+Som meteor mod bil
+I Danske Bank mener it-sikkerhedschefen Carsten Stenstrøm, at hackeren har demonstreret, at der er et reelt problem for nogle netbanker, der anvender Microsofts produkter. 
+ »Det er vores umiddelbare vurdering, at det er muligt«, siger Carsten Stenstrøm. Han mener ikke, at Danske Banks system er i fare, fordi det anvender en anden opsætning på internetbankens servere. 
+ I Nordea erkender it-sikkerhedschef Jacob Øst Hansen, at sikkerhedshullet eksisterer, men til trods herfor er han ikke bekymret for sikkerheden i bankens systemer. 
+ »Jeg plejer at sammenligne det med risikoen for at blive ramt af en meteor, når man kører i sin bil. Risikoen eksisterer, men det er næppe noget, der får folk til at holde op med at køre i deres bil«, siger Jacob Øst Hansen, sikkerhedschef i Nordea. Han erkender dog, at en meget dygtig hacker under visse betingelser kan udnytte hullet. 
+ Også norske banker indrømmer ifølge it-nyhedstjenesten Digi.no, at dygtige hackere vil kunne udnytte SSL-fejlen.
+Microsoft nægter eksistensen af hullet
+Det har ikke været muligt at få en kommentar fra Microsoft i Danmark, men over for nyhedsbureaet Reuters har Mats Lindkvist - ansvarlig for sikkerhed i Microsoft Sverige - nægtet eksistensen af hullet i Microsofts netbrowser. 
+ Verdens største softwareproducent har dermed heller ikke påtaget sig at rette fejlen.

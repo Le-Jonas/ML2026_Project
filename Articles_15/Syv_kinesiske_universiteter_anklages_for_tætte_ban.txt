@@ -1,0 +1,9 @@
+Title: Syv_kinesiske_universiteter_anklages_for_tætte_ban
+Date: 2020-08-31
+Article Type: Kina
+Author: Aalborg Universitet har hjulpet med at udvikle en ’stalker-algoritme’, som ifølge en ekspert kan misbruges til overvågning. Det er en af 598 forskningsartikler, danske universiteter har udarbejdet med forskere fra syv kinesiske universiteter, der har særlige bånd til militæret.
+
+Sebastian Stryhn Kjeldtoft
+Undersøgende redaktør
+Forestil dig en sølvfarvet Volvo med VIP-passagerer, som bevæger sig gennem en storby. Du er bekymret for, om nogen forfølger Volvoen, og du har særlig mistanke til en rød BMW og to sølvfarvede Volkswagen bagude. Det kan lyde som en spionfilm, men det er en problemstilling fra en forskningsartikel, som blev udgivet i 2019 af forskere fra Aalborg Universitet, RMIT University i Australien og Nanjing University of Aeronautics and Astronautics i Kina. Sidstnævnte er et af syv kinesiske universiteter med særlig tætte bånd til den kinesiske hær. I Kina omtales universiteterne som ’de syv sønner af det nationale forsvar’.
+Forskerne løste problemet ved at udvikle en computeralgoritme, som i realtid kan scanne alle gps-positioner for biler og mobiltelefoner i området. Dermed kan den spore, om en af bilerne ofte er inden for 50 meter af den sølvfarvede Volvo – et tegn på forfølgelse. Forskerne testede programmet på en database med over 235 millioner gps-oplysninger fra rigtige taxier i Beijing.

@@ -1,0 +1,25 @@
+Title: Blindeskrift_som_bobler_pa_et_plastickort
+Date: 2005-12-10
+Article Type: Viden og tech
+Author: Henrik Larsen
+
+Hverdagen kan i løbet af få år blive lettere for mange blinde - takket være et hold forskere ved Tokyo Universitet, der arbejder med såkaldte organiske transistorer. Det er små, avancerede elektroniske 'kontakter' lavet af kulstof og hydrogen. 
+De japanske forskere har, under ledelse af professor Takao Someya, bygget en række sådanne transistorer ind i et blot én millimeter tykt plastikkort, der også indeholder strømførende kredsløb. 
+Og vups, så kan kortet skrive blindeskrift - såkaldt braille.
+På størrelse med kreditkort
+Opfindelsen, der er det første bærbare blindeskriftkort, er på størrelse med et kreditkort. Og det smarte ved kortet er, at det kan 'tappe' almindelig skrift fra en computer eller en e-bog og omsætte den til braille. Det sker på denne måde: 
+Først konverteres skriften til braille med et særligt software-program, som Tokyo-forskerne også har udtænkt. 
+Via et kabel overføres den konverterede skrift til det lille kort, hvor signalerne gennem de organiske transistorer aktiverer en række punkter. 
+Disse punkter 'bobler' op fra kortets overflade i form af punktskrift, som den blinde kan læse. 
+»Opfindelsen har en lang række praktiske anvendelsesmuligheder«, siger Takao Someya: 
+»Noget af det mest oplagte er at bygge kortet ind i en mobiltelefon, så det kommer til at fungere som både betjeningspanel og display. På den måde vil blinde kunne udnytte mobiltelefonens mange muligheder fuldt ud«. 
+»Ved hjælp af kortet vil blinde også kunne sidde i toget og læse en bog, der er lagret elektronisk, og på sigt vil kortet også kunne lette blinde i hverdagens mange praktiske gøremål. Det er et spørgsmål om at få det til at spille sammen med de digitale betjeningspaneler på alle de apparater, vi omgiver os med i hjemmet«, siger Takao Someya.
+Tungt udstyr
+Der findes i dag software, som kan læse en tekst højt - og der er også udstyr, som kan skabe punktskrift på en plade. 
+Men ifølge professor Someya kan det indimellem give forståelsesvanskeligheder, når en tekst læses op af en 'syntetisk' stemme, og hvad det eksisterende punktudstyr angår, er det både dyrt og ikke umiddelbart til at bære rundt. 
+Det japanske kort er fuldt funktionsdueligt, men alligevel vil der nok gå fire-fem år, før det er på markedet, fortæller Takao Someya: 
+»Vi er nødt til at gøre de organiske transistorer mere slidstærke ved at bygge dem i andre materialer, og det forsker vi i. Hertil kommer, at softwareprogrammet, der konverterer til braille, skal udvikles til at håndtere alle mulige sprog og skriftsystemer - for vort nuværende program arbejder nemlig udelukkende med japanske skrifttegn. Rent teknisk er det intet problem at gøre det, men det vil selvfølgelig tage lidt tid. Men man kan også godt forestille sig, at noget af den tekst til braille-software, der allerede er på markedet, kan komme til at fungere sammen med vores system«.
+Kort for alle
+Hos Dansk Blindesamfund siger teknisk hjælpemiddelkonsulent Bue Vester-Andersen, »at det er meget spændende, at det nu er lykkedes at udvikle et braillekort i kreditkortstørrelse. Det er en opfindelse, vi vil følge nøje«. 
+Hvad det japanske kort kommer til at koste, når det er på markedet, er uvist. 
+Men meningen er, at det skal ligge i et prisleje, så alle blinde, der kan læse braille, også får råd til at købe det.

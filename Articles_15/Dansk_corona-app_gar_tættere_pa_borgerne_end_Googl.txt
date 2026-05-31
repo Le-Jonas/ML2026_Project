@@ -1,0 +1,9 @@
+Title: Dansk_corona-app_gar_tættere_pa_borgerne_end_Googl
+Date: 2020-04-27
+Article Type: Tech
+Author: Danskernes tillid til myndigheder og digitale løsninger betyder, at vi kan få en mere effektiv corona-app, der blandt andet kan spore konkrete telefoner, hvis ejer er i smitterisiko. Google og Apples app er imidlertid klart bedre, siger medlem af Dataetisk Råd.
+
+Jens Bostrup
+Journalist
+Danskerne har betydeligt mere tillid til hinanden og til myndighederne end de fleste andre landes indbyggere, og vi har tradition for at tage digitale løsninger relativt hurtigt til os. Og det skal benyttes til en bygge en mere effektiv corona-app i Danmark, end myndighederne kan slippe af sted med længere sydpå i Europa.​
+Det er ifølge André Rogaczewski, direktør for Netcompany, som udvikler den danske app, en vigtig del af forklaringen på, at Danmark skal have sin helt egen app.

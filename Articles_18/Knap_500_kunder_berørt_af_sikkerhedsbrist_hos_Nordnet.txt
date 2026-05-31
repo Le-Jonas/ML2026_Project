@@ -1,0 +1,13 @@
+Title: Knap_500_kunder_berørt_af_sikkerhedsbrist_hos_Nordnet
+Date: 2025-02-13
+Article Type: Danmark
+Author: Ingen danske brugere er blevet økonomisk påvirket af nedbrud hos investeringsplatform.
+
+Knap 500 af Nordnets i alt 540.000 aktive kunder har været berørt af den sikkerhedsbrist, Nordnet blev ramt af tirsdag.
+Det oplyser investeringsplatformen på sin hjemmeside.
+Fejlen har ikke haft nogen økonomiske konsekvenser for danske brugere, oplyser Nordnet.
+»Vi kan bekræfte, at der i Danmark hverken er blevet købt eller solgt værdipapirer, ligesom der ikke uberettiget er blevet udbetalt penge på nogle af de berørtes konti«, skriver investeringsplatformen.
+Nordnet oplevede tirsdag et flere timer langt nedbrud på hjemmesiden og appen.
+Der var ikke tale om hacking, understreger Nordnet.
+Der var tale om en softwarekomponent, der fejlede i forbindelse med loginprocessen, oplyses det.
+ritzau

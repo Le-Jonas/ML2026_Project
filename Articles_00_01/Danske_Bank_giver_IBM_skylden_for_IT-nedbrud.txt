@@ -1,0 +1,11 @@
+Title: Danske_Bank_giver_IBM_skylden_for_IT-nedbrud
+Date: 2003-04-03
+Article Type: Danmark
+Author: Softwaregiganten IBM får hele skylden for det IT-nedbrud, der lammede Danske Bank fra mandag 10. marts og fire dage frem. Det fremgår af den redegørelse, som Danske Bank i dag har fremlagt om sagen, skriver Jyllands-Postens internetavis. 
+ For det første var det en IBM-tekniker, der om mandagen udskiftede en defekt strømforsyningsenhed i et disksystem fra IBM og dermed startede hele skandalen. Manøvren forårsagede et strømsvigt, der betød, at driften standsede klokken 16.08 i den ene af bankens to IT-centraler i Ejby. Fejl siden 1997
+ Efterfølgende udviklede problemerne sig voldsomt, idet der opstod flere hidtil uidentificerede fejl i IBMs DB2 databasesoftware. En af fejlene viste sig tilmed at have ligget i softwaren siden 1997 uden, at IBM havde opdaget den, skriver Danske Bank. 
+ Danske Bank skriver også, at man til sidst selv måtte løse de omfattende problemer uden IBMs hjælp. Opgav at bruge IBM
+ Da der fredag 13. marts opstod en fjerde softwarefejl opgav man helt at vente på hjælp fra IBM, skriver banken. Redegørelsen bærer således tydeligt præg af, at forholdet mellem Dankse Bank og IBM er på frysepunktet. 
+ Og forholdet er ikke blevet bedre af, at banken har lagt en engelsk version af redegørelsen ud på sin hjemmeside, så hele verden kan læse om den pinlige sag. 
+ IBM har efterfølgende lagt en kontramelding ud, hvor selskabet betegner samarbejdet med Danske Bank som tæt og succesfuldt.
+

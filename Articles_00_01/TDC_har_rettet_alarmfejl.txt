@@ -1,0 +1,9 @@
+Title: TDC_har_rettet_alarmfejl
+Date: 2004-07-14
+Article Type: Danmark
+Author: En teknisk fejl i edb-systemet, der håndterer alarmopkald til 112, er blevet rettet, oplyser TDC onsdag. For en måned siden oplevede to personer - uafhængigt af hinanden - at deres alarmopkald fra mobiltelefoner blev modtaget af en telefonsvarer. 
+Systemet havde ved en fejl blandet alarmopkaldene med andre opkald, der skulle modtages af en telefonsvarer. Denne risiko for sammenblanding af kald mellem to tjenester er nu for fremtiden umuliggjort, oplyser TDC. Bevidstløs passager
+Fejlen blev kendt, da togfører Lene Ulrich midt i juni ville ringe efter hjælp til en bevidstløs passager i toget mellem Esbjerg og Fredericia. Hun fik en telefonsvarer i stedet for alarmcentralen. 
+Da Lene Ulrich flere gange var mødt af automatsvaret, fik hun adgang til en tast-selv-sluse. Den tastede hun sig igennem, inden der endelig var adgang til TDC, hvorfra opkaldet til alarmcentralen blev stillet videre. 
+Endnu en sag fra Kolding viste, at der ikke var tale om et enkeltstående tilfælde.
+

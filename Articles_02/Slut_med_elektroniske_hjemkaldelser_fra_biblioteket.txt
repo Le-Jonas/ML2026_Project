@@ -1,0 +1,23 @@
+Title: Slut_med_elektroniske_hjemkaldelser_fra_biblioteket
+Date: 2005-09-04
+Article Type: Kultur
+Author: Otto Lerche
+
+Det har indtil nu været utrolig nemt at låne en bog: 
+Klik dig ind på www.bibliotek.dk, søg på en titel og bestil. 
+Få sekunder efter har du en bestillingskvittering i din mailboks, senere kan du hente bogen på dit lokale bibliotek, og når du skal aflevere bogen, får du automatisk en elektronisk hjemkaldelse. 
+Men nu har Datatilsynet sat en stopper for de elektroniske meddelelser mellem biblioteker og borgere. Datatilsynet mener, at oplysninger om bogudlån er personlige og derfor ikke må sendes ukrypteret over internettet.
+Skarp kritik
+Som låner bliver det dermed sværere at styre, hvad man har bestilt, og hvornår man skal aflevere, lyder det fra Biblioteksstyrelsen. 
+»Hvis man er en flittig låner eller studerende, kan det være rart at holde styr på, hvad man har bestilt og hvornår. Vi har fået en snes henvendelser fra folk, der har svært ved at forstå, at de ikke må få den service med, når de nu selv beder om, at oplysningerne bliver sendt på e-mail til dem«, siger bibliotekskonsulent Ann Poulsen fra Biblioteksstyrelsen. 
+Hun tilføjer, at Datatilsynets indgreb forringer de muligheder for borgerservice, som den moderne teknologi åbner op for. Datatilsynet beklager, men henholder sig til loven. 
+»Borgerne skal have lov til at låne bøger på biblioteket, uden at staten eller andre kigger dem over skulderen. Det kan virke som en uskyldig oplysning - ligesom oplysninger om, hvilke film eller teaterforestillinger du ser - men loven siger klart, at fortrolige oplysninger skal krypteres«, siger Ib Alfred Larsen, it-chef i Datastyrelsen.
+Ikke kun biblioteker
+Det er ikke kun på www.bibliotek.dk, at borgene kan bestille en elektronisk kvittering og på den måde sende personoplysninger i kredsløb om Jorden. Mange private virksomheder, som sælger varer over internettet, tilbyder lignende services. Klikker man sig for eksempel ind på DSB's hjemmeside, køber en billet og bestiller en kvittering for bestillingen, bliver den sendt ukrypteret per mail. 
+Datatilsynet overvejer lige nu, om det derfor også skal være forbudt for private virksomheder at sende elektroniske kvitteringer. 
+»Hvis private firmaer behandler oplysninger, som er følsomme i forhold til en person, så skal de oplysninger også beskyttes. Som udgangspunkt siger vi, at der må gælde de samme regler, men reglerne er endnu ikke helt afklaret, så vi må tage konkret stilling, når vi får en henvendelse om persondatasikkerhed og kvitteringer ved e-handel med private virksomheder«, fortæller it-chefen.
+Følsomme oplysninger
+Fortrolige oplysninger må ikke sendes elektronisk, fordi en mail kører gennem flere forskellige systemer, inden den lander i modtagerens postkasse. 
+Når afsenderen trykker på send-tasten, er mailen ude af hans kontrol, og personer med adgang til internettet og en vis teknisk snilde kan således læse, kopiere eller rette i den sendte mail. 
+»Det er grunden til, at vi har sagt, at følsomme og fortrolige personoplysninger ikke må køre i det åbne net«, siger Ib Alfred Larsen. 
+Bibliotekerne har via bibliotek.dk sendt elektroniske kvitteringer til borgerne siden slutningen af 2000, og der har siden den dato ikke været nogen konkrete tilfælde, hvor de fortrolige låneoplysninger er blevet misbrugt.

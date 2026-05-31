@@ -1,0 +1,9 @@
+Title: Op_mod_50_danske_myndigheder_og_virksomheder_er_be
+Date: 2020-12-18
+Article Type: Danmark
+Author: Hackere har installeret bagdøre i det danske regeringsapparat og kan potentielt have fået fingre i statshemmeligheder og kritiske data. Det mest avancerede hackerangreb til dato, siger ekspert.
+
+Jakob Sorgenfri Kjær
+Journalist
+Et af de mest raffinerede it-angreb til dato har ramt et væsentligt antal centrale myndigheder og store danske virksomheder. Op mod 50 private selskaber og offentlige institutioner er indtil videre konstateret berørt af det globale cyberangreb. Det oplyser Center for Cybersikkerhed (CFCS) til Politiken.
+Hackerne har brugt software fra den amerikanske virksomhed Solarwinds som en trojansk hest til at få adgang til organisationerne og potentielt deres kritiske data.

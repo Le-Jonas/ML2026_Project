@@ -1,0 +1,14 @@
+Title: Hver_femte_firma_hacket
+Date: 2002-10-21
+Article Type: Økonomi
+Author: Peder Bjerge og Laust Tuxen
+
+Antallet af danske virksomheder, der er blevet hacket, stiger. Sidste år var 19 procent af virksomhederne i en ny undersøgelse udsat for at blive hacket. En klar stigning fra året før, hvor tallet var 16 procent. Det reelle tal er imidlertid højere vurderer it-sikkerhedseksperten Preben Andersen. 
+»Mange gange opdager virksomhederne slet ikke, at de er blevet hacket. Tallene fra rapporten er dog reelle nok, fordi virksomhederne jo fortæller, hvad de faktisk har oplevet«, siger Preben Andersen. Han er tidligere chef for politiets it-støtteenhed og nu chefkonsulent i den danske afdeling af den internationale it-sikkerhedsorganisation CERT. 
+Han mener, at tallene fra rapporten viser, at det står sløjt til med it-sikkerheden i de danske virksomheder. Ifølge Preben Andersen mangler syv ud af ti danske virksomheder at formulere en it-sikkerhedspolitik. Den nye rapport fra IT-sikkerhedsrådet - Datasikkerheden i Danmark 2001 - er skrevet på baggrund af en undersøgelse blandt knap 400 danske virksomheder i 1. og 2. halvår 2001. 
+På trods af at hver femte danske virksomhed har prøvet at blive hacket, findes der ikke tal for, hvor mange penge de digitale angreb koster dansk erhvervsliv. 
+»Der findes simpelthen ikke tal fra det danske marked, som kan vise, hvor mange penge det koster erhvervslivet om året«, siger Jan Carlsen, direktør i revisionsvirksomheden Ernst & Youngs it-sikkerhedsafdeling, som har forestået undersøgelsen for Ministeriet for Videnskab, Teknologi og Udvikling. 
+»Blandt andet tal fra det amerikanske marked eller kommercielle it-sikkerhedsfirmaer er så astronomisk store, at det ikke giver nogen mening at overføre det til det danske marked«, siger Jan Carlsen. 
+Preben Andersen er ikke i tvivl om, at hackerne koster danske virksomheder store penge hvert år, men han er enig med Jan Carlsen i, at det er svært at komme tæt på eksakte tal - blandt andet fordi de ramte virksomheder kan være meget forskellige i både størrelse og sårbarhed. 
+»Der er jo ikke tvivl om, at det koster rigtig dyrt, hvis en virksomhed i Grundfos-størrelsen bliver ramt og må lukke sine systemer i to uger. Mens en lille håndværksmester fra Køge nok slipper billigere fra at blive hacket«, siger Preben Andersen. 
+.

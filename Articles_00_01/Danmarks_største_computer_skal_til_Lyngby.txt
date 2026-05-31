@@ -1,0 +1,19 @@
+Title: Danmarks_største_computer_skal_til_Lyngby
+Date: 2002-02-03
+Article Type: Danmark
+Author: Bjarne Schilling
+
+Folk med interesse for pc'er og hjemmeelektronik taler om en særlig kildren i maven, når de pakker nyt grej ud af kassen. De ved, hvordan man har det på Danmarks Tekniske Universitet (DTU) mandag, hvor man markerer overtagelsen af Danmarks største computer - et anlæg til 100 millioner kroner. 
+Det bliver stillet op i Lyngby om et par måneder og kommer til at indgå i et nyt center for avancerede beregninger. 
+Anlægget vil gøre noget alvorligt ved et problem, som alle computerbrugere kender: ventetid.
+Lynhurtig
+»Beregninger, som det hidtil har taget to dage at gennemføre, vil med den nye 64 CPU-maskine kunne klares på 20 minutter«, siger professor Henrik Madsen til DTU's avis, Sletten. 
+Anlægget er en foræring fra den amerikanske it-koncern Sun Microsystems, og den nye computer er meget vanskelig at sammenligne med almindelige pc'er, ikke blot på grund af størrelsen, men fordi den arbejder anderledes. 
+Et utal af processer kan foregå på samme tid, og man kan skifte dele af anlægget ud i den ene ende, mens det arbejder videre på fuld kraft i den anden ende.
+64 centrale regneenheder
+Computeren har 64 centrale regneenheder - CPU'er - og kan bruges til de meget komplicerede beregninger, der skal til, når man for eksempel skal bygge store vindmøller eller konstruere store computernetværk. 
+Hvad angår viden om computernetværk er det aftalt, at Sun skal kunne trække på nogle af de resultater, som DTU-forskerne når frem til, og på den måde også selv få gavn af gaven.
+Anden gang amerikanerne kommer
+Det er anden gang, gavmilde amerikanere kommer til Lyngby: 
+I 1966 fik DTU, den daværende Danmarks Tekniske Højskole, foræret en IBM-computer af Ford Foundation til 200.000 dollar. 
+Andre uddannelsesinstitutioner kan også trække på den nye computer, ligesom de allerede gør på DTU's bestående anlæg. Den nye supercomputer får til huse på 'Center for High Performance Computing', der indvies af videnskabsminister Helge Sander (V).

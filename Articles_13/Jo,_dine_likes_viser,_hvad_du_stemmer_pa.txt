@@ -1,0 +1,8 @@
+Title: Jo,_dine_likes_viser,_hvad_du_stemmer_pa
+Date: 2017-10-01
+Article Type: Viden og tech
+Author: Christian Bæk Lindtoft
+
+Journalist
+En algoritme bygget af danske forskere kan med 44 procents sikkerhed gætte, hvilket parti du ville stemme på, hvis der var valg i morgen. Den skal bare have svar på ét spørgsmål om dig - hvilket opslag fra en politiker eller et parti har du senest trykket 'synes godt om' til?
+Får den lov at se minimum syv af dine seneste politiske likes, stiger succesraten til 71 procent.

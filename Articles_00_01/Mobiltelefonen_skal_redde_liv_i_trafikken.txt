@@ -1,0 +1,24 @@
+Title: Mobiltelefonen_skal_redde_liv_i_trafikken
+Date: 2003-07-24
+Article Type: Økonomi
+Author: Claus Cancel
+
+Hvis de mobiltelefoner, der blev ringet 112 fra i tirsdags, da en lastbil kørte op i to personbiler ved en motorvejssammenfletning syd for Vejle, havde kunnet oplyse alarmcentralen om deres position, så kunne hjælpen være nået frem et kvarter hurtigere. To personer blev dræbt og fire kvæstet ved ulykken, og det tog 25 minutter, før den første ambulance nåede frem til ulykkesstedet.
+Svært at spore opkald
+»Et opkald sagde, at det var lige syd for Vejlefjordbroen, og et andet opkald gav os en kilometerangivelse, men det var på den forkerte motorvej«, siger politiinspektør Niels Jørgen Ravn fra Esbjerg Politi. Han anslår, at hvis ambulancerne havde kendt det nøjagtige sted for ulykken, ville de være nået frem i løbet af 10-15 minutter. 
+I EU bliver over halvdelen af nødopkaldene til 112, der kan bruges i alle EU-lande, foretaget fra mobiltelefoner. Og modsat opkald fra fastnettelefoner, hvor adressen med det samme dukker op på alarmcentralens computer, er det ikke altid lige nemt at finde ud af, hvor nødopkaldet kommer fra.
+112 er bygget til fastnet
+Det er heller ikke altid lige nemt at få personen i røret til at forklare det. Vedkommende kan være i panik eller måske, som i Vejle forleden, befinde sig et sted, som han eller hun ikke umiddelbart kan definere nærmere. 
+»Alarmopkald til 112 er betinget af fastnettelefoni. Det er sikkert, og det dækker over hele landet, men et opkald fra en mobiltelefon er bedre end ingenting. Men det forudsætter, at du selv er i stand til forklare, hvor du er henne«, siger vicerigspolitichef Erik Justesen, der ikke kender tallene for, hvor mange opkald til 112 der kommer fra mobiltelefoner. 
+Men hvad nu hvis mobilen selv kunne fortælle, hvor den var henne? EU indfører i dag en række regler, der skal arbejde hen mod, at alarmopkald via mobiltelefoner skal kunne stedfæstes. EU anslår, at man på den måde kan redde 5.000 liv om året og dermed spare mere end 40 milliarder kroner om året ved at kunne nå tidligere frem til ulykker og brande. 
+Men teknikken driller. For nok kunne man i PFA-sagen kortlægge Kurt Thorsens gøren og laden og se, hvor han havde opholdt sig på baggrund af hans telefonopkald. Men her havde man også god tid til at finde de relevante data frem, og så var det foregået inde i byen.
+Mange master i byen
+I byen er der mange sendemaster, og telefonoperatørerne kan derfor nemmere se, hvor en person er, ud fra hvilken mast vedkommendes mobil er forbundet til. 
+Det er langt sværere ude på landet, hvor der er langt mellem sendemasterne, og hvor man derfor ikke kan stedfæste en mobiltelefon med særlig stor nøjagtighed. 
+»Selv inde i byen kan det være et problem, for man kan sagtens sidde på Amager og være forbundet til en sendemast på Vesterbro - og så er der altså en havn til forskel«, siger Henry Galle Stech, områdeleder i Telestyrelsen.
+GPS telefoner
+Løsningen kan være at gå over til telefoner, der selv kan fortælle, hvor de er. De såkaldte GPS-telefoner kan via en række satellitter stedfæste deres position med en nøjagtighed ned til fem meter. Dem har politiet 150 stykker af, som de blandt andet giver til voldstruede kvinder, der med dem på sig kan sende et alarmsignal, der helt nøjagtigt fortæller, hvor den er gal. 
+»Men heller ikke GPS-telefoner fungerer optimalt. De skal have kontakt med tre, helst fire satellitter, og det kan de ikke få, når man er indendørs eller går rundt blandt store bygninger«, siger Henry Galle Stech om løsningen, der desuden ville kræve, at GPS-telefoner blev langt mere udbredte, end de er i dag, hvor der kun findes et par stykker på markedet. 
+Den mere nærliggende løsning er at indføre et system, hvor det almindelige mobilsendenet (GSM-nettet) stedfæster mobiltelefonerne. Det har blandt andet Nokia fundet en løsning på. Men det ville kræve investeringer fra telefonselskaberne, der ville skulle købe løsningen og sætte den op. Og foreløbig er der ingen klare svar fra EU om, hvordan det skal finansieres. 
+»Det er vigtigt, at det bliver på europæisk plan, man løser det her. 112 er et fælleseuropæisk alarmnummer, og derfor skal det også virke ens i hele EU«, siger Henry Galle Stech. 
+EU's plan er, at 67 procent af opkaldene til 112 skal kunne stedfæstes med mellem 50 og 100 meters nøjagtighed i slutningen af 2005.

@@ -1,0 +1,10 @@
+Title: Borger_efter_beskyldninger_om_hacking_I_skulle_sende_mig_en_gavekurv_i_stedet
+Date: 2017-06-16
+Article Type: Danmark
+Author: Christian Nobel
+
+Journalist
+Et sikkerhedshul i platformen Digital Pladsanvisning har gennem 12 år betydet, at borgernes navne og cpr-numre har været frit tilgængelige, for dem der har været logget ind i systemet med nem-id, skriver
+DR
+i en række artikler.
+Esben Warming Pedersen, der opdagede sikkerhedsbristen, troede han udøvede sin samfundspligt, da han dokumenterede fejlen og anmeldte det til Frederiksberg Kommune.

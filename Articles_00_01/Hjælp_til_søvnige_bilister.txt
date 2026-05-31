@@ -1,0 +1,15 @@
+Title: Hjælp_til_søvnige_bilister
+Date: 2004-04-23
+Article Type: Biler
+Author: Allan Graubæk
+
+Bunker af små kulørte glasskår langs kantstenen inde i byen vidner om, at her er sket en trafikulykke. Måske ikke særlig alvorlig, måske kun af den helt banale type, hvor en morgensøvnig bilist overser, at bilen foran bremser for rødt lys - og BANG, siger det: Motorhjelm rammer bagagerum, og i bedste fald er skaden kun materiel. 
+I værre tilfælde påføres bilisten i den forreste bil en piskesmældsskade, og i alle tilfælde er sådan en bagende-kollision en af de hyppigste uheldstyper i trafikken. 
+Denne type uheld vil Volvo prøve at komme til livs med et nyt system, der bruger radar og et kamera til at registrere, hvad der foregår lige foran bilen. Når systemet konkluderer, at en kollision med bilen foran er lige på trapperne, udsendes først en lys- og lydalarm, som skal vække føreren. Hvis han stadig ikke foretaget sig noget, aktiverer systemet selv bilens bremser. Dog ikke med så stor styrke, at der er tale om en katastrofeopbremsning. Hvis bilen kører 40 km/t, bliver den bremset ned til 32 km/t. 
+Dette system er sådan set ikke nyt. Allerede i starten i 1990'erne afprøvede Politiken noget tilsvarende under et besøg hos Mazda i Japan, men det forblev på forsøgsstadiet og er aldrig kommet ud i rigtige biler.
+Mod parkeret bil
+Nok snak. Nu skal vi prøve systemet. LørdagsLiv sætter sig bag rattet af en Volvo V70, der er udstyret med den nye nødbremse. En instruktør beder os sætte farten op til 50 km/t og så ellers sætte kursen mod en parkeret bil, der holder inde på fabriksområdet. Vi skal bare køre direkte mod bilen, og så ellers ikke foretage os noget - heller ikke når alarmen lyder. 
+Det gør vi så heller ikke. Vi nærmer os den parkerede bil - et sæt røde lysdioder lyser op, en kraftig hyletone fylder kabinen, men vi holder stadig foden fra bremsepedalen. Så tager systemet over og begynder at bremse, men ikke nok til, at vi standser i tide, og vi brager ind i den parkerede bil, så den løfter sig fra asfalten og bliver skubbet adskillige meter frem. 
+Heldigvis var der kun tale om en oppustelig gummibil, der næppe vejede mere end 20 kilo, så der er ingen skade sket, hverken på biler eller personer. 
+Vi vender kareten og prøver én gang til. Denne gang med instruks om at bremse selv, så snart alarmen lyder. Det gør vi så - og standser uden problemer med et par meters afstand til den parkerede bil. 
+Missionen er lykkedes, og systemet har bevist, at det kan give den nødvendige advarsel til en fører, der af den ene eller anden grund har været uopmærksom. Om tre år skulle systemet være klar til salg. Den svenske avis Aftonbladet citerer kilder hos Volvo for, at det vil kunne fås i den modelserie, der til den tid skal afløse de nuværende S60-, V70- og S80-modeller. Pris? Det er der ingen hos Volvo, der tør udtale sig om.

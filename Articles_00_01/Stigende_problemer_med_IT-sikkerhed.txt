@@ -1,0 +1,10 @@
+Title: Stigende_problemer_med_IT-sikkerhed
+Date: 2002-01-22
+Article Type: Økonomi
+Author: Danske virksomheder og offentlige myndigheder rammes i stigende omfang af IT-sikkerhedsproblemer, viser en statistik fra første halvår af 2001, som offentliggøres af IT-Sikkerhedsrådet. 
+I forhold til tal fra år 2000 er der store procentvise stigninger i antallet af tilfælde, hvor virksomheder er ramt af problemer med teleforbindelserne eller ramt af fejl i deres backup af data i virksomheden. 
+Rådet tager dog det forbehold, at tallene i den nye rapport formentlig er mere præcise end året før, hvor undersøgelsen blev foretaget for første gang. Forventet virus-stigning
+ Besvarelserne fra de ca. 400 virksomheder og myndigheder viser, at der var en stigning i antallet af virusangreb på IT-systemerne, hvilket rådet dog betegner som »forventeligt«. 
+Samtidig kan det konstateres, at konsekvenserne af de mange virusangreb har været mindre alvorlige end året før. Det vurderes, at den forebyggende indsats på området har haft sin virkning. 
+ Hver 10. blandt de adspurgte har haft alvorlige gener som følge af teleproblemer, og fire virksomheder eller myndigheder kan direkte karakterisere konsekvenserne som katastrofale.
+

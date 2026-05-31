@@ -1,0 +1,17 @@
+Title: Ny_computer-virus_angriber_mp3-filer
+Date: 2005-04-23
+Article Type: Danmark
+Author: Kirsten Nilsson
+
+En ny computer-virus, der angriber mp3 filer er dukket op. 
+Virusen, en såkaldt orm, har fået navnet Nopir-B. Det er virksomheden Sophos - der lever at at finde og kurere computervirus - der advarer mod virusen. 
+Ormen, som skal være opstået i Frankrig, spreder sig via fildelings-netværk.
+Forklædt som et kopiværktøj
+Ormen fremstår som et værktøj til at lave kopier af kommercielle dvd'ere, men i virkeligheden ødelægger den alle mp3 filer og sætter også andre systemer på computeren ud af funktion. 
+Det får virksomheden Sophos, som har fundet ormen, til at skrive, at ormen 'tager loven i egen hånd'. 
+»Nettet er fyldt af folk, som ulovligt kopierer musik og film, og som koster underholdningsindustrien millioner hvert år. Nopir-B ormen angriber folk, som, den tror, er involveret i pirateri, men den skelner ikke mellem sande kriminelle, og dem som blot har lavet mp3 filerne til sig selv«, siger Graham Cluley, seniorkonsulent hos Sophos i en pressemeddelelse. 
+Det er endnu ikke lykkes ormen at massesprede sig, men Sophos anbefaler, at man tjekker sit virusprogram.
+Tidligere orme har gjort stor skade
+Orme af samme type som Nopir-B har ifølge den svenske avis Aftonbladet tidligere gjort stor skade. 
+En lignende orm spredte pornografiske billeder på computere i det italienske senat. Mens en orm ved navn Sasser spredte sig som en løbeild på 5000 computere i hospitalsvæsnet sidste år i et svensk len. 
+Computerne havde ifølge avisen ikke et virusprogram, og når de blev inficeret holdt de op med at virke.

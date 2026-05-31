@@ -1,0 +1,8 @@
+Title: Nyt_udstillingsvindue_for_bands_pa_Rust
+Date: 2003-08-28
+Article Type: Kultur
+Author: Nikolaj Lauta
+
+Et nyt udstillingsvindue er åbnet for de danske musikere der forsøger at få hul igennem til den trængte pladebranche. En tirsdag om måneden mødes på Rust i København hele pladebranchen; de kreative, de kommercielle, sponsorer, bookers, managers og dem midt imellem. De eneste der absolut ikke er inviteret til dette fyraftens-seminar er dem, det i sidste ende handler om - musikerne. 
+Begrundelsen for, at der er ingen adgang for musikerne, er først og fremmest, ifølge arrangørerne, at man vil slippe for at pladeselskaberne står og puster sig op overfor kunstneren for at få dem i nettet. Meget belejligt slipper branchefolkene så også for at have de mindre kendte rendende, som prøver at liste en demo ned i baglommen på pladeselskaberne. 
+Men de månedlige aftener er ikke helt lukket land for musikerne. Hver gang inviteres fire bands til at spille i slutningen af aftenen, efter at der har været diskuteret og hørt på inviterede talere. De fire bands får 15 minutter hver og grupperne udvælges suverænt af Rust, så hvis man vil spille op for branchen skal man kontakte Rust og forhøre sig om mulighederne.

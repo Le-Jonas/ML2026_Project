@@ -1,0 +1,21 @@
+Title: Kriminelle_misbruger_tradløse_net
+Date: 2005-03-06
+Article Type: Økonomi
+Author: Peder Bjerge
+
+En af de helt store sællerter lige i øjeblikket er de trådløse netværk til hjemmecomputerne. Og det er da også smart at kunne tage computeren med hen til sofabordet i stedet for partout at skulle være lænket til internetstikket henne ved skrivebordet. 
+Men de færreste tænker over, at de dermed kan have åbnet en ladeport for pædofile, svindlere, tyveknægte og andre lyssky grimrianer. 
+Forbrydere, der i al ubemærkethed logger på forbrugerens netværk for bruge det til ulovligheder.
+Kan tage ofrenes identitet
+»De kan jo i princippet gå ind og overtage ofrenes identitet på nettet. De risikerer at få lagret børneporno på deres computere«, siger kriminalkommissær Ronald Pedersen fra Rigspolitiets it-afdeling. 
+Ifølge ham har de fleste af hans sager drejet sig om, at forbryderne har brugt ofrenes computere til at forsøge at bryde ind i computere andre steder i verden. 
+Både politiet og TDC ser flere sager, hvor trådløse netværk hos private bliver misbrugt af kriminelle.
+Uskyldige får skylden
+Preben Andersen kan som chefkonsulent i den danske afdeling af den internationale it-sikkerhedsorganisation CERT bekræfte tendensen. 
+»Vi har allerede set flere tilfælde herhjemme. Hvis man skal hente smudsige ting på nettet, så er det jo godt at finde en anden uskyldig person, som man lade sidde tilbage med ansvaret«, siger Preben Andersen. 
+Han peger på, at de trådløse netværk efterhånden er almindeligt brugt både af private og af virksomheder og myndigheder.
+30 net fra København til Lyngby
+»Jeg har en kollega, der kørte med toget fra København til Lyngby forleden dag, og under turen søgte han efter, hvor mange trådløse net han kunne nå. Og det var mellem 30 og 40 trådløse net. Af dem vil der være mange, hvor man kan gå direkte ind«, siger Preben Andersen. 
+Hvis brugerne ikke har lukket det trådløse netværk med password og kryptering, så kan uvedkommende logge sig på dette netværk. 
+Og dermed kan de gå på nettet, som om de var ejermanden til det trådløse netværk. Når forbryderne så sender spam, henter piratkopier af musik eller film eller udsender børneporno, vil politiet følge sporet tilbage til den adresse, hvor den uskyldige ejermand af netværket bor. Og han eller hun risikerer at blive anklaget for forbrydelser, andre har begået. 
+Preben Andersen råder ejere af trådløse netværk til at søge vejledning hos It-sikkerhedsrådet for på den måde at undgå at blive misbrugt til kriminalitet. Også TDC vil udsende en vejledning om mere sikkerhed i det trådløse univers.

@@ -1,0 +1,22 @@
+Title: Storbritannien_raser_Russiske_hackere_stjæler_vac
+Date: 2020-07-16
+Article Type: Internationalt
+Author: Hackere støttet af den russiske regering i Kreml forsøger at stjæle data fra forskningsprojekter, der arbejder med udvikling af en vaccine mod coronavirus.
+
+Sådan lyder det fra Storbritanniens nationale center for cybersikkerhed (NCSC).
+Hackerne forsøger ifølge NCSC at hacke sig ind hos både akademiske institutioner og hos medicinalselskaber. Og kampagnen foregår over hele verden.
+»Vi fordømmer disse afskyelige angreb mod folk, der gør et vigtigt arbejde for at bekæmpe coronapandemien«, siger Paul Chichester, operativ chef hos NCSC.
+I en fælles erklæring fra efterretningstjenester i Canada, USA og Storbritannien påstås det, at angrebene er udført af hackergruppen APT29. Gruppen er bedre kendt under navnet Cozy Bear.
+Ifølge de vestlige sikkerhedstjenester er Cozy Bear en del af den russiske efterretningstjeneste.
+Ifølge NCSC finder gruppens angreb stadig sted. Gruppen benytter sig af en række forskellige teknikker såsom 'spear-phishing og såkaldt malware.
+»APT29 vil formentlig fortsætte med angreb målrettet organisationer, der arbejder med forskning og udvikling af coronavaccine«, lyder det i en erklæring fra NCSC.
+Den britiske udenrigsminister, Dominic Raab, kalder de russisk angreb »fuldstændig uacceptable«.
+»Mens andre forfølger deres selviske interesser med hensynsløs opførsel, så fortsætter Storbritannien sammen med sine allierede det hårde arbejde for at finde en vaccine«, siger han ifølge AFP.
+Hackergruppen Cozy Bear formodes stå bag et hackerangreb mod Det Demokratiske Parti forud for præsidentvalget i USA i 2016.
+Torsdag siger Dominic Raab, at russerne også forsøgte at blande sig i det britiske valg i 2019.
+Blandt andet skal Rusland på ulovlig vis have tilegnet sig følsomme dokumenter om en handelsaftale med USA for derefter at lække dem online.
+»Følsomme regeringsdokumenter om handelsaftalen mellem USA og Storbritannien blev anskaffet ulovligt før valget i 2019 og blev spredt online via den sociale medieplatform Reddit«, siger Dominic Raab ifølge Reuters.
+En større granskning af sagen har vist, at det russiske forsøg på at blande sig i valget ikke fik nogen nævneværdig betydning.
+Den konservative premierminister Boris Johnson endte med at vinde en sikker sejr over Labours Jeremy Corbyn.
+ritzau
+fortsæt med at læse

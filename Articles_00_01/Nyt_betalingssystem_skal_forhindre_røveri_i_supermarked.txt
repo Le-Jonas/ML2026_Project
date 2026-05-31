@@ -1,0 +1,13 @@
+Title: Nyt_betalingssystem_skal_forhindre_røveri_i_supermarked
+Date: 2002-11-23
+Article Type: Økonomi
+Author: Butikskæden Fakta tester i disse dage et betalingssystem, som kan sikre de ansatte mod røverier i butikkerne. 
+ I stedet for, at kunderne afleverer penge hos kassedamen, puttes pengene ned i en automat, som også er i stand til at give penge tilbage. 
+ Pengene ryger ned i en boks, som ingen af de ansatte i butikken har adgang til - heller ikke butikschefen. 
+ De eneste, som kan fjerne pengene, er Falck Securitas, som er hyret til at transportere pengene i banken. Håber på færre røverier
+ Administrerende direktør Claus Jensen, Fakta, håber, at antallet af røverier vil mindskes, når det bliver almindeligt kendt, at de ansatte ikke har mulighed for at udlevere penge. 
+ Ud over at sikre mod røverier skal systemet få kunderne hurtigere igennem kassekøen. 
+ Det er meningen, at kunderne skal putte deres småpenge og sedler i automaten, mens kassedamen taster varerne ind, og på den måde forkortes ekspeditionstiden for hver kunde. Kunder skal selv scanne varer
+ Systemet, der hedder SafePay, blev sat op i en Fakta i Vallensbæk syd for København i den forgangne uge og vil blive testet gennem de næste uger. 
+ På sigt håber Fakta også at finde et system, hvor kunderne selv kan scanne deres varer ind.
+

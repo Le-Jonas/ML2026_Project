@@ -1,0 +1,10 @@
+Title: Ny_advarsel_Vi_kan_se,_at_danske_it-systemer_lige_nu_skannes_for_sarbare_computere
+Date: 2017-05-13
+Article Type: Digitalt
+Author: Michael Olsen
+
+Journalist
+Rasmus Straka
+Journalist
+Computere, der benytter sig af et Microsoft Windows styresystem, er lige nu mål for et alvorligt hackerangreb. Derfor skal alle ejere og administratorer af Windows-baserede computere hente de seneste sikkerhedsopdateringer fra Microsoft og være opmærksomme på mistænkelige e-mails.
+Det oplyser sikkerhedsmyndigheden Center for Cybersikkerhed, der nu går ud og fortæller, at de har observeret en markant stigning i datatrafik, som viser, at danske it-systemer lige nu skannes for sårbare computere, som kan angribes med virus.

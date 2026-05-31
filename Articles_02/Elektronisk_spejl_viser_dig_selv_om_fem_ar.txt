@@ -1,0 +1,18 @@
+Title: Elektronisk_spejl_viser_dig_selv_om_fem_ar
+Date: 2005-02-03
+Article Type: Viden og tech
+Author: Niels-Peter Granzow Busch
+
+Det er ikke sikkert, at alle vil bryde sig om synet af sig selv fem år ude i fremtiden. 
+Slet ikke, hvis billedet bygger på, at du i de fem år ikke motionerer, spiser fastfood i stride strømme og drikker som en kamel, der lige er vandret ind fra en 30-dages stroppetur i ørkenen. 
+Men ifølge det ansete videnskabtidsskrift, New Scientist, så arbejder det amerikanske firma Accentures franske udviklingsafdeling i øjeblikket på at udvikle et spejl, som kan vise din krop og dit ansigt, som det vil se ud fem år ude i fremtiden.
+Bygger profil af din livsstil
+Til start virker systemet som et avanceret spejl, hvor et ledningsløst kamera projekterer dit billede op på en plasmaskærm foran dig. 
+Men det er kun starten. Ifølge direktøren for det franske firma er meningen nemlig, at at en computer herefter - udfra forskellige faktorer - vil beregne, hvordan dit billede vil se ud i fremtiden. 
+For at kunne gøre det, bygger computeren en profil op af din livsstil. Til det formål bruger computeren informationerne fra et netværk af kameraer, sat op rundt omkring i huset. 
+Kameraerne vil sende billeder af dig selv i forskellige hverdagssituationer til et softwareprogram, der kan afkode billederne og herefter danne sig et billede af din hverdag.
+Skaber billede ud fra vanemønstre
+Computeren kan f.eks. identificere, hvis du sidder ned i sofaen det meste af dagen i stedet for at motionere. Og hvis du besøger køleskabet, så vil computeren spørge, hvad det er, du spiser eller drikker. 
+På denne måde er computeren i stand til at vurdere, hvordan din livsstil vil influere på din kropsvægt i længden og vise dig et simuleret billede af din krop på sigt. Hvis du drikker for meget alkohol, så vil et andet program kunne vise, hvordan dit ansigt tidligt bliver rynket og plettet. 
+Håbet er, at den nye teknologi kan få mange mennesker til at skifte livsstil, fordi de pludselig kan se, hvad konsekvenserne af en bestemt livsstil fører til. 
+Ifølge direktøren for det franske firma vil prototypen være færdig om et halvt år tid, mens der noik vil gå noget længere, før spejlet kommer på markedet. det store spørgsmål er så til den tid, om der overhovedet er nogen, der har lyst til og ikke mindst tør købe det.

@@ -1,0 +1,7 @@
+Title: Google-system_skal_lære_forargelsens_kunst
+Date: 2017-04-12
+Article Type: Økonomi
+Author: Disuke Wakabayashi, New York Times
+
+Internetgiganten Google har gennem årene trænet deres computersystemer i at frasortere copyright-beskyttet indhold og pornografi på videotjenesten YouTube. Men efter at annoncer fra Coca-Cola, Procter & Gamble og Wal-Mart har optrådt i forbindelse med racistiske, antisemitiske og terrorrelaterede videoer, har selskabets it-ingeniører fundet et blindt punkt i selskabets computermodeller: Systemet havde ikke forstand på sammenhæng.
+For at berolige de annoncører, der poster umådelige summer i reklamer, som de ikke ønsker sættes i forbindelse med videoer fra yderliggående grupper eller videoer med stødende budskaber, har man derfor sat sig for at lære computerne, hvad mennesker uden besvær kan læse mellem linjerne.

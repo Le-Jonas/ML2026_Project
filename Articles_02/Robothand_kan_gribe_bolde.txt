@@ -1,0 +1,8 @@
+Title: Robothand_kan_gribe_bolde
+Date: 2005-08-07
+Article Type: Viden og tech
+Author: Forskere ved Tokyos Universitet har udviklet en robothånd, der reagerer så hurtigt, at den kan gribe en bold. 
+Bolde med op til 300 kilometer i timen bliver sikkert grebet af hånden, der bruger 1.532 små fotoceller i håndfladen til at registrere boldens bane og fart for derefter at gribe den i sine tre fingre. Stigende behov
+Det er første gang, at så hurtige bevægelser mestres af en robot. 
+»Der er et stigende behov for robothænder, der rent faktisk kan fungere i den virkelige verden«, siger Akio Namiki fra forskergruppen.
+

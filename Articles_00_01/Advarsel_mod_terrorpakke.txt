@@ -1,0 +1,23 @@
+Title: Advarsel_mod_terrorpakke
+Date: 2001-11-23
+Article Type: Danmark
+Author: Jakob Elkjær
+
+Den afgående regerings såkaldte terrorpakke, som har fået støtte fra både Venstre og de konservative, truer brevhemmeligheden. Sådan lyder en advarsel fra telebranchen, der i disse dage lægger sidste hånd på høringssvar om terrorpakken til Justitsministeriet.
+SMS og e-mails skal opbevares
+En utilsigtet effekt af terrorpakken i sin nuværende form er nemlig, at hele teksten i almindelige borgeres private SMS-beskeder og e-mail vil blive registreret og opbevaret af teleselskaber og internet-udbydere. 
+ Justitsministeriets budskab er ellers, at man blot ønsker en registrering af afsender og modtager af SMS-beskeder og e-mail, men dette er hverken teknisk eller praktisk muligt, fordi udbyderne så skal lukke alle e-mail op og skære teksten i den enkelte besked fra, advarer IT-Brancheforeningen. 
+ »Justitsministeriet har skrevet noget som ved første øjekast ser uskyldigt ud, fordi man blot beder om afsender og modtageroplysninger, men man har ikke gjort sig klart, at det i praksis faktisk betyder en arkivering af hele indholdet«, siger vicedirektør Jane Eis Larsen. 
+ Også Brancheforeningen for Telekommunikationsindustrien gør i sit høringssvar opmærksom på, at »modtageren af en SMS-besked rent teknisk er en del af indholdet i SMS-beskeden, og en registreringspligt vil dermed indebære, at hele indholdet registreres«. 
+ Teleindustrien advarer samtidig om, at det vil være uhyre enkelt for eventuelle terrorister og forbrydere at undgå registreringen. Man skal blot tilslutte sin computer til en telefon med hemmeligt nummer.
+Dem, der vil, kan skjule sig
+Ifølge telekommunikationsindustrien vil det også »beskære efterforskningsmulighederne betydeligt«, at reglerne kun skal gælde for offentlige udbud. Den enkelte bruger kan ofte undgå registrering ved at bruge en computer, der er tilsluttet interne netværk i private eller offentlige virksomheder, universiteter, skoler eller beboerforeninger. 
+ »Man når ikke sit mål om at holde øje med de personer, som vil skjule sig«, siger vicedirektør Jane Eis Larsen. 
+ Flere retseksperter kritiserer, at den omfattende terrorpakke er blevet til på kun godt en måned. En af dem er professor Peter Blume fra Københavns Universitet. 
+ »Problemet er, at man gør mange mennesker utrygge, fordi det er ubehageligt, at selv nok så uskyldige meddelelser bliver registreret af private firmaer. Samtidig kan man kun fange nogle fjolser, mens den kloge terrorist selvfølgelig går fri«, siger Peter Blume, der er ekspert i datasikkerhed.
+Ikke tekniske eksperter
+Justitsministeriet erkender, at branchen muligvis har ret. 
+ »Vi har hele tiden været opmærksomme på, at vi på ingen måde er tekniske eksperter. Derfor lægger vi op til en dialog med branchen, hvor de kan komme med deres teknisk betonede indvendinger, så vi får en regulering, der fungerer, men som også sikrer retshåndhævelsen«, siger kontorchef Jens Kruse Mikkelsen. 
+ Problemet er imidlertid meget vanskeligt at løse, for mens selve opkaldet kan adskilles fra samtalen, når man bruger telefon, er 'samtalen' og oplysningerne om modtager uløseligt forbundet, når man bruger internet. 
+ Derfor slipper man med den nuværende teknik ikke uden om, at udbyderne skal ind og åbne den enkelte e-mail for at slette indholdet. 
+ »At åbne en e-mail er i sig selv meget betænkeligt, fordi man øger risikoen for, at uvedkommende skaffer sig adgang. I sidste ende er det måske et område, der kræver offentligt tilsyn«, siger teknisk chef Martin Povelsen fra Institut for Datasikkerhed under PricewaterhouseCoopers.

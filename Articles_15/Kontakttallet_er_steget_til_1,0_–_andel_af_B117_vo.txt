@@ -1,0 +1,41 @@
+Title: Kontakttallet_er_steget_til_1,0_–_andel_af_B117_vo
+Date: 2021-02-09
+Article Type: Sundhed
+Author: Kontakttallet er beregnet til 1,0. Det er dermed steget, efter at det i sidste uge blev beregnet til 0,7.
+
+Kontakttallet - der tidligere blev kaldt smittetrykket - er steget til 1,0. Det oplyser sundhedsminister Magnus Heunicke (S) tirsdag på Twitter.
+Tallet siger noget om epidemiens udvikling. Det viser, hvor mange personer en smittet i gennemsnit giver smitten videre til.
+Et kontakttal på 1,0 svarer til, at ti personer i gennemsnit smitter ti andre. Det vil sige, epidemien holder fast.
+Om kontakttallet
+Kontakttallet kan beregnes på flere måder - for eksempel ved se at se på antallet af nye smittetilfælde eller nyindlæggelser. Statens Serum Institut (SSI) gør begge dele.
+Kontakttallet er bagudskuende - altså dækker det smittetilfælde, som har fundet sted.
+SSI offentliggør kontakttallet hver tirsdag, men det tal viser, hvordan kontakttallet så ud for ti dage siden.
+Det skyldes blandt andet, at der i beregningen er lagt en tidsforskydning på syv dage ind. Det er den periode, som forventes at gå, fra man bliver smittet, til man testes positiv.
+Derudover bruger man ikke smittetallene for de seneste tre dage, da tallene ikke er fuldendte.
+Sådan udregnes kontakttallet
+Formlen er: Kontakttal = Vækstrate x Generationstid + 1.
+Der er en vis usikkerhed, når man beregner kontakttallet. SSI har derfor et usikkerhedsinterval.
+En uge kan kontakttallet for eksempel være 0,6, men usikkerhedsintervallet er 0,5-0,8 med et konfidensinterval på 95 procent.
+Det vil sige, at det vurderes, at kontakttallet ligger i intervallet 0,5-0,8 i 95 procent af tilfældene.
+Der vil altså være 5 procent af tilfældene, hvor kontakttallet ikke rammer inden for skiven.
+Det er altså under forudsætning af, at antagelserne i modellen er korrekte.
+Kilder: Statens Serum Institut (SSI), Viggo Andreasen, epidemiolog og RUC.
+Sidste uge blev kontakttallet beregnet til 0,7. Tallet viser, hvordan billedet var ti dage forinden.
+Det skyldes blandt andet, at der er lagt tidsforskydning ind svarende til den tid, der går, fra man bliver smittet, til man testes positiv.
+Ifølge ministeren er det ikke uventet, at kontakttallet nu er 1,0.
+»Det er ikke uventet, når andelen af B117 vokser, og når vi har årstiden mod os«, skriver Magnus Heunicke på Twitter.
+B117 er en coronavariant, der er mere smitsom end den, der i øjeblikket er dominerende i Danmark.
+Kontakttallet på 1,0 er beregnet ud fra alle smittetilfælde. Det vil sige, at det er overordnet og også inkluderer mere smitsomme varianter af coronavirusset. Der er ikke oplyst et kontakttal for B117-varianten.
+Varianten, der først blev fundet i Storbritannien, udgør stille og roligt flere og flere af de smittetilfælde, der i landet.
+Fra midten af februar ventes den at være den dominerende variant i Danmark, og i starten af marts ventes 80 procent af alle smittetilfælde at være B117.
+»Nu er det vigtigt, at tallet holdes på dette niveau, når B117 bliver dominerende. Hold derfor fast i de gode vaner«, lyder det fra Heunicke.
+Det var netop med henvisning til B117, at coronarestriktionerne blev strammet i starten af året. Blandt andet blev forsamlingsloftet sænket til fem fra før ti personer.
+Restriktionerne ser ud til at have virket. Antallet af nye bekræftede smittede er raslet ned siden midten af januar.
+Det har blandt andet betydet, at de yngste skoleelever fra mandag er kommet tilbage på den fysiske skolebænk. Inden da modtog de undervisning online derhjemme.
+Ritzau
+fortsæt med at læse
+Live:
+Seneste nyt om coronavirus i Danmark og resten af verden
+Trods to stik:
+Vaccinerede plejehjemsbeboere tester positiv
+Fyret testudbyder skal betale Falck-regning

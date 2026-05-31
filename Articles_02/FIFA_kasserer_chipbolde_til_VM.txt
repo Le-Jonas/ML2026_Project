@@ -1,0 +1,13 @@
+Title: FIFA_kasserer_chipbolde_til_VM
+Date: 2005-12-05
+Article Type: Fodbold
+Author: Bo Moshage
+
+Den intelligente bold og mållinieteknologien kommer ikke i brug ved næste sommers fodbold-VM i Tyskland. 
+ »Vi anser teknologien for ikke at være helt klar endnu«, siger FIFA's Urs Linsi til Reuters Bureau. 
+ Den intelligente bold og mållinieteknologien blev testet tidligere på året under U17 VM i Peru, hvorefter FIFA besluttede sig for at teste yderligere. 
+ Meningen var, at bolden og systemet skulle bruges ved FIFA's officielle VM for klubhold, som begynder på søndag i Japan. 
+ Hvorvidt disse test skal gennemføres vides ikke, men en talsmand for Adidas, som står bag den intelligente bold, siger, at virksomheden fortsætter med at finpudse og videreudvikle systemet.
+Sender signal til dommeren
+Mållinieteknologien fungerer på den måde, at der sidder en lille mikrochip i bolden, som modtager signaler fra 12 sendere omkring banen. 
+ Passerer bolden f.eks. mållinien eller sidelinien, sendes der i løbet af et halvt sekund et signal til dommerens ur.

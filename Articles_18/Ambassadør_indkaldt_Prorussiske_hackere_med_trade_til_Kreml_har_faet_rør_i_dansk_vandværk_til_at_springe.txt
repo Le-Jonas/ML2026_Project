@@ -1,0 +1,45 @@
+Title: Ambassadør_indkaldt_Prorussiske_hackere_med_trade_til_Kreml_har_faet_rør_i_dansk_vandværk_til_at_springe
+Date: 2025-12-18
+Article Type: Danmark
+Author: Det var ikke tilfældige prorussiske hackere, der stod bag to cyberangreb mod Danmark. Grupper har forbindelse til den russiske stat, slår forsvarsministeren fast. Den russiske ambassadør indkaldes til samtale.
+
+Kirsten Nilsson
+Journalist
+Jakob Hvide Beim
+Forsvarsredaktør
+Artiklen er opdateret klokken 18.49
+De prorussiske grupper, som har stået bag to cyberangreb i Danmark, har forbindelse til den russiske stat.
+Det vurderer Forsvarets Efterretningstjeneste (FE).
+Det ene cyberangreb var mod et vandværk, det andet fandt sted under kommunalvalget. Det kom frem på et pressemøde i Forsvarsministeriet torsdag aften.
+»Vi er et sted, hvor den hybridkrig, vi har talt om, desværre finder sted«, sagde forsvarsminister Troels Lund Poulsen(V).
+De to konkrete angreb var kendte. De har også været koblet til russiske hackere, så det nye er, at regeringen laver den klare forbindelse til den russiske stat.
+Regeringen har indkaldt den russiske ambassadør til et møde i Udenrigsministeriet. For det er »fuldstændigt uacceptabelt«, at der udføres den slags angreb, sagde forsvarsministeren.
+De to omtalte angreb er udført af hackergrupperne Z-Pentest og NoName057(16).
+Angrebet på vandværket er
+velbeskrevet
+. Der er tale om det lille andelsvandværk i Tureby-Alkestrup lidt syd for Køge. Her førte et cyberangreb sidste år til, at et vandrør sprang, og at borgerne kortvarigt var uden vand.
+At der var angreb under kommunalvalget, er også
+kendt
+. Her oplevede flere kommuner problemer med deres hjemmesider.
+Minister for samfundssikkerhed og beredskab Torsten Schack Pedersen (V) kaldte på pressemødet angrebene alvorlige, selv om de ikke medførte stor skade.
+»De er med til at svække tilliden til vores samfund og vores demokrati«, sagde ministeren.
+Han fremlagde initiativer, som skal øge »modstandskraften i den kritiske infrastruktur«.
+Der er blandt andet tale om et døgnbemandet
+situationscenter
+og et cybermonitoreringsnetværk, som skal monitorere cyberangreb i Danmark. Ministeren vil også generelt øge det nationale værn for cybersikkerhed omkring kritisk infrastruktur.
+»Jeg tror, at man skal være tordnende naiv, hvis man tror, at vi er i mål på cybersikkerhed«, sagde Torsten Schack Pedersen.
+Ingen kan være overrasket over, at Danmark har været udsat for cyberangreb. For myndighederne har flere gange advaret om risikoen.
+Så sent som 7. november i ugerne op til regional- og kommunalvalget udsendte Forsvarets Efterretningstjeneste (FE) en vurdering, hvor truslen fra cyberangreb i forbindelse med valget blev betegnet som ’høj’. Her var netop fokus på prorussiske hackere.
+»Det skyldes hovedsageligt, at prorussiske og kriminelle hackergrupper løbende udfører cyberangreb mod Danmark, som også kan få en forstyrrende effekt, hvis de rammer it-systemer med forbindelse til valget«, skrev FE.
+Statsrevisionerne, som er Folketingets kontrolorgan for forvaltningen af statens penge, har tidligere hæftet sig ved, at 80 procent af de samfundskritiske it-systemer, der blev undersøgt i 2022 og 2023, ikke havde tilstrækkelige planer for at afværge konsekvenserne af nedbrud.
+På samme måde har Rigsrevisionens tilsyn med offentlige myndigheder og institutioner også afsløret store problemer med it-sikkerheden.
+En gennemgang af Rigsrevisionens undersøgelser fra september, oktober og november,
+foretaget af Politiken
+, viser, at 12 ud af 13 undersøgte myndigheder havde it-problemer.
+Blandt andet Udenrigsministeriet og Banedanmark var ikke sikret godt mod såkaldte
+ransomware
+-angreb, som betyder, at hackere eller andre fjendtlige aktører kan forhindre adgang til myndighedernes data i en periode.
+Det fik Carsten Schürmann, professor ved IT-Universitetet og leder af universitetets center for cybersikkerhed, til at kalde problemet »alvorligt«, og professor i datasikkerhed ved Aarhus Universitet Ivan Bjerre Damgård kaldte det »bemærkelsesværdigt, at kravene i så mange tilfælde ikke er opfyldt«.
+Kritikken kom trods, at der de seneste fem år er bevilget millionbeløb til it-oprustning.
+Jakob Hvide Beim
+fortsæt med at læse

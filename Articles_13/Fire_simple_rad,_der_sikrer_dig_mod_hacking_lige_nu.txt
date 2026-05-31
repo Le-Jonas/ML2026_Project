@@ -1,0 +1,7 @@
+Title: Fire_simple_rad,_der_sikrer_dig_mod_hacking_lige_nu
+Date: 2017-05-18
+Article Type: Forbrug
+Author: Morten Bay
+
+Det har været en temmelig hårrejsende oplevelse at være computerejer i den seneste uges tid. Et massivt angreb på computere i 150 lande har ramt mere end 200.000 computere, primært drevet af en såkaldt computerorm, der er blevet døbt WannaCry.
+I skrivende stund er det ukendt, hvem der står bag, men visse sikkerhedseksperter har peget på nordkoreanske hackere. Men hvem end bagmændene er, er WannaCry såkaldt Ransomware. »Ransom« betyder løsesum på engelsk, og WannaCry udbeder sig netop en løsesum for at låse din computer op, når først den er blevet inficeret.

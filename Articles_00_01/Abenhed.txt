@@ -1,0 +1,12 @@
+Title: Abenhed
+Date: 2003-11-24
+Article Type: Leder
+Author: Dette er en leder. Lederen er udtryk for Politikens holdning og skrives på skift af medlemmerne af avisens lederkollegium.
+
+ENHVER, der har modtaget et elektronisk dokument per mail og ikke har kunnet åbne det, er blevet endnu et frustreret offer for det største problem, der plager it-verdenen: manglende standarder. 
+I de sidste mange år har den store skurk været den amerikanske softwaregigant Microsoft. Firmaet har faktisk - det ved vi fra utallige lækkede memoer og flere retssager - haft det som en af sine vigtigste dagsordener at bekæmpe alle tiltag mod standardisering, for hvis it-systemer kan tale flydende med hinanden, kunne folk jo finde på at skifte fra Microsoft Word, Office, Internet Explorer og andre programmer til billigere eller bedre alternativer. Og det går jo ikke. 
+Resultatet af strategien er ikke udeblevet: Firmaet har i dag en massiv dominans på markedet for kontorsoftware på 95 procent. Et de facto-monopol , som det er uhyggeligt svært at kradse i for de få tilbageværende konkurrenter. 
+DEN VÆSENTLIGSTE grund til, at forsøg på at udskifte Microsofts software strander, er stadig, at man oplever problemer med at læse dokumenter, der er skabt med Microsoft-software, eller at de dokumenter, man selv skaber, ikke kan læses af modtagere, der bruger Microsoft-software. 
+Det er derfor glædeligt, at Microsoft i tirsdags åbnede sine tekniske protokoller til firmaets nyeste kontorpakke Office 2003, så konkurrenterne kan kigge firmaet i kortene og bedre skabe produkter, der kan snakke med Microsoft-software. Også et tillykke til det lille danske videnskabsministerium, som har haft en nøglerolle i at få it-giganten til at offentliggøre sine protokoller (selv om en vred og truende EU-kommission nok også har haft betydelig indflydelse). 
+Det må være en opgave for det danske videnskabsministerium at fastholde Microsoft på sin påståede åbenhed og ikke give slip nu, hvor EU og Danmark tilsyneladende har bidt sig fast i haserne på den amerikanske gigant. Vi bruger efterhånden alle sammen kontorsoftware, og hvis der skal skabes konkurrence på det marked - og dermed bedre produkter - så skal der skabes standarder for, hvordan software taler sammen. Og selv da bliver det uhyggelig svært at få brudt Microsofts mangeårige, kvælende monopol.
+Dette er en leder. Lederen er udtryk for Politikens holdning og skrives på skift af medlemmerne af avisens lederkollegium.

@@ -1,0 +1,11 @@
+Title: »Jeg_er_krimiforfatter._Jeg_genkender_tyveri,_nar_jeg_ser_det«
+Date: 2025-04-07
+Article Type: Bøger
+Author: Forfattere og forlag står sammen om at anklage techgiganten Meta for ulovlig brug af millioner af bøger. I Danmark er overraskelsen stor: »Vi forfattere er ikke blevet spurgt«.
+
+Birgitte Kjær
+Journalist
+Meta, der blandt andet står bag Facebook, er under anklage for at have brugt et ’piratbibliotek’, der rummer mere end 7,5 millioner bøger, til at træne sin kunstige intelligens. Blandt den enorme mængde titler er et ukendt antal danske bøger.
+Det er magasinet
+The Atlantic
+, som har læst interne Meta-dokumenter. Her fremgår det, at en chef hos Meta i forbindelse med udviklingen af ai-modellen Llama3 understregede vigtigheden af, at firmaet fik fat i bøger billigt og hurtigst muligt, fordi »bøger er faktisk mere vigtige end data fra hjemmesider«.

@@ -1,0 +1,27 @@
+Title: Først_fik_Microsoft_sparket_–_nu_tager_Aarhus_et_nyt_skridt_mod_digital_uafhængighed
+Date: 2025-08-18
+Article Type: Tech
+Author: Supercomputer ved Roskilde skal drive AI-assistent, som 28.000 medarbejdere i Aarhus Kommune tager i brug.
+
+Aarhus Kommune valgte tidligere på året at droppe Microsoft som leverandør af forskellige it-løsninger til fordel for en tysk leverandør.
+Med en klækkelig besparelse til følge.
+Nu er landets næststørste kommune klar til at tage endnu et skridt i bestræbelserne på at blive mere uafhængig af de store techgiganter.
+Kommunen er i færd med at bygge en medarbejderrettet AI-assistent, der bygger på en canadisk udviklet open source-model tilpasset danske forhold.
+Det oplyser Bo Fristed, der er chef for Aarhus Kommunes afdeling for Innovation, Teknologi og Kreativitet.
+28.000 medarbejdere i kommunen får hen over de næste måneder adgang til AI-modellen, der skal drives af DTU Computerome - en dansk supercomputer, som er placeret på DTU Risø Campus ved Roskilde.
+»Det betyder, at ingen data bliver sendt ud af landet. De bliver i vores lukkede miljø. På den måde har vi sikkerhed for, hvordan de bliver håndteret«, siger Bo Fristed.
+AI-modellen, som kommunen arbejder på at indføre, er billigere end tilsvarende platforme, påpeger Bo Fristed.
+Kommunen har regnet ud, at det vil koste cirka to kroner per borger per år at drive platformen.
+»Det er væsentligt mindre end andre tilsvarende platforme, der ifølge vores beregninger er op til ti gange dyrere«.
+Kommunens AI-model skal kunne det samme, som eksempelvis ChatGPT kan: Hjælpe med at overskue store mængder data og komme med forslag til opgaveløsninger.
+Brugen af AI vil ifølge Bo Fristed kunne spare tid hos medarbejderne.
+»Vi har lavet en forsigtig business case: Hvis 18 procent af vores 28.000 medarbejdere kan spare cirka 20 minutter om dagen ved at bruge kunstig intelligens, så svarer det til 76.000 timer om året«.
+»Det er rigtig mange timer, der kan frigøres eller bruges til at øge kvaliteten af det arbejde, kommunens medarbejdere laver«.
+Forventningen er, at landets øvrige kommuner kan nyde godt af de aarhusianske erfaringer.
+»Vi bliver de første til at tage den her platform i brug i Danmark. Men vi håber, at mange vil følge efter«.
+»Vi vil tilbyde alle andre kommuner, regioner og statslige styrelser at få en kopi af platformen, så andre får glæde af den investering, vi har lavet«, siger Bo Fristed, der også er formand for OS2 - et digitaliseringsfællesskab inden for det offentlige.
+Også Københavns Kommune har bebudet, at man ønsker at frigøre sig fra Microsoft og finde europæiske alternativer.
+ritzau
+fortsæt med at læse
+Dansk AI-chef om Trump-plan:
+»Det er ren gift for vores samfund«

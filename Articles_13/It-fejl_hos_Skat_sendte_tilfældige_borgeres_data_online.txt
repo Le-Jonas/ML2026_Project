@@ -1,0 +1,6 @@
+Title: It-fejl_hos_Skat_sendte_tilfældige_borgeres_data_online
+Date: 2017-03-10
+Article Type: Digitalt
+Author: En it-fejl hos Skat betød torsdag, at tilfældige borgeres CPR-numre og skatteoplysninger var synlige for alle. Det skriver branchemediet Version 2.
+
+Skat oplyser til mediet, at der er tale om rådgivningsfirmas kunder, hvis data pludselig kunne tilgås af gud og hver mand.

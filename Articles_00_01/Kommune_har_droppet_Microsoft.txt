@@ -1,0 +1,26 @@
+Title: Kommune_har_droppet_Microsoft
+Date: 2002-10-10
+Article Type: Økonomi
+Author: Peder Bjerge
+
+Hvis Hanstholm Kommunes it-chef Jens Ole Hald skulle købe nyt ind i Microsoft produkter, skulle han finde 300.000 kr. ekstra på kommunens it-budget. I stedet har han valgt at bruge andre programmer. 
+En ny rapport fra Teknologirådet viser, at det offentlige kan spare op mod 6 milliarder om året, hvis man brugte de billige open source-programmer i stedet for Microsofts programmer.
+Havde ikke penge til Microsoft
+»Det handler hårdt og kontant om penge. Jeg havde ikke pengene på budgettet til Microsoft. Jeg skulle spare pengene et andet sted, eller også fyrer de en medarbejder et andet sted i huset. Og så ville det være min skyld. Det har vi undgået, og jeg går egentlig og småklapper mig selv på skulderen over det, siger Jens Ole Hald. 
+Hanstholm Kommune havde ikke råd til at betale 1.800 kr. om året til Microsoft for hver af kommunens 130 computere. 
+Lige i øjeblikket har han 15 brugere på open source-programpakken StarOffice, og når han får den nyeste version tilsendt af sin leverandør, får resten af kommunens brugere installeret produktet.
+Ingen ekstra udgifter til support
+I første omgang har driften eller vedligeholdelsen af open source - som ellers hævdet af Microsoft - ikke kostet mere, end dengang kommunen brugte Microsofts produkter. 
+»Jeg har den samme mængde arbejde ved at drive StarOffice, som jeg havde med Microsoft Office. Det er lidt hip som hap«, siger Jens Ole Hald. 
+På sigt regner han med at kunne spare endnu mere om året ved at omlægge flere af sine systemer fra Microsoft til open source. 
+»Igen handler det om penge. Kan jeg spare 1.500 kroner pr. pc, når vi skal købe nye maskiner, så er jeg en helt«, siger Jens Ole Hald.
+Slagelse regner halvering af udgifter
+Også i den anden ende af landet - i Slagelse Kommune - knirker regnemaskinerne i it-afdelingen. 
+Kommunens it-projektchef Hans Lembøll regner med, at han hvert år kan spare over halvdelen af de 1,2 millioner kroner, han afleverer af sit budget til Microsoft.
+Enormt besparelsespotentiale
+»Der er et enormt besparelsespotentiale for de offentlige myndigheder. Kan vi spare op mod 700.000 hvert evige eneste år, så kan det også blive til noget for vores kommune«, siger Hans Lembøll. 
+Slagelse Kommune valgte for et lille år siden at se tiden an og forlængede derfor kontrakten med Microsoft frem til foråret 2004. Men så er open source igen på dagsordenen i Slagelse.
+Microsoft: Ingen grund til at sænke prisen
+Salgschef Jens Bælum fra Microsoft Danmark mener ikke, at der er grund til at sænke prisen på Microsofts produkter i forhold til det offentlige. 
+Han mener heller ikke, at Hanstholm Kommunes erfaringer med at drive deres open source-programmer svarer til virkeligheden. 
+»Vi har en række tal fra udlandet, der viser, at driften af open source-platforme er dyrere end Microsofts produkter. Desværre har vi ikke nogen tal fra det danske marked«, siger Jens Bælum.

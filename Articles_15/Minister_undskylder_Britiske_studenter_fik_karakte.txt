@@ -1,0 +1,9 @@
+Title: Minister_undskylder_Britiske_studenter_fik_karakte
+Date: 2020-08-19
+Article Type: Viden og tech
+Author: En algoritme, der bestemte karakteren for britiske studenter, sænkede karakteren for elever i fattige områder og hævede den i velstillede privatskoler.
+
+Jens Bostrup
+Journalist
+I fravær af de traditionelle eksaminer, der blev aflyst på grund af corona, overlod briterne i år karaktergivningen ved studentereksamen til en maskine. Undervisningsminister Gavin Williamson var sikker på, at algoritmen ville være mere retfærdig end lærerne, men det viste sig, at den var mere hård end retfærdig. Algoritmen sænkede 39 procent af karaktererne i forhold til lærernes indstilling. Kun 2 procent blev hævet.
+Og maskinen var slet ikke socialt retfærdig. Nedjusteringen ramte især studenter fra skoler i fattige områder, mens velstillede elever på de private skoler slap billigere eller ligefrem gik op i karakter.

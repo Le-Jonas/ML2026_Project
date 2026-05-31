@@ -1,0 +1,10 @@
+Title: Tvind-computere_driller_fortsat_politiet
+Date: 2001-06-26
+Article Type: Danmark
+Author: Seks-syv firmaer arbejder hårdt på at få adgang til de computere, som politiet har beslaglagt hos Tvind under efterforskningen af organisationens økonomi. Ifølge politiet har fire af Tvinds ledende medarbejdere gjort sig skyldige i mandatsvig og skattesvig for 67 mio. kroner. 
+Beviserne kan muligvis findes på de computere, som er fundet på skolesamvirkets kontorer - men hidtil har politiet ikke kunnet bryde den kraftige kryptering, der beskytter de data, der ligger på harddiskene. 
+ Ti-tyve medarbejdere fra Tvind har tidligere afvist at afsløre kodeordene. De er ifølge politimester Jens Kaasgaard endnu ikke officielt blevet præsenteret for et krav om frivilligt at udlevere de kodeord, der kan 'låse' computerne op, medmindre de vil retsforfølges. 
+»De fleste blev spurgt, da vi ransagede Tvinds kontorer. Men for en god ordens skyld vil vi spørge dem, om de er kommet på andre tanker siden. Det vil ske i nærmeste fremtid«, forklarer Kaasgaard. 
+Ingen af de firmaer, der i øjeblikket knokler for at knække krypteringen, har endnu meldt om nogen succes i bestræbelserne på at komme uden om krypteringsprogrammerne. Blandt andet har Tvind sikret computerne med programmerne PGP og Safeguard. 
+ Ifølge politiets sigtelser er de formodede økonomiske forbrydelser arrangeret af blandt andre Tvinds stifter, Amdi Petersen, og formanden for Tvind-fonden, Poul Jørgensen.
+

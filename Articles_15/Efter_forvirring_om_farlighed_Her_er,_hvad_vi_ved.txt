@@ -1,0 +1,103 @@
+Title: Efter_forvirring_om_farlighed_Her_er,_hvad_vi_ved
+Date: 2020-03-05
+Article Type: Sundhed
+Author: Verdenssundhedsorganisationen (WHO) skabte tirsdag forvirring om, hvor farlig covid-19 egentlig er. Og nej, WHO har ikke opjusteret dødeligheden, hvis du skulle blive smittet og syg.
+
+Lars Igum Rasmussen
+Sundhedsredaktør
+En sætning fra
+generaldirektør i Verdenssundhedsorganisationen, WHO,
+Tedros Adhanom Ghebreyesus tirsdag
+har skabt vild forvirring blandt danskerne om, hvor farlig virussygdommen covid-19 egentlig er. ​
+Reuters/Ritzau udsendte via danske mediehuse en historie, som eksempelvis
+Ekstra Bladet valgte at give den gule breaking news-indpakning
+. Heri refereres det, at flere dør af covid-19 end ved almindelig influenza.
+Det er også korrekt, pointerer faglig direktør i Statens Serum Institut Kåre Mølbak.
+»Ud fra al vores viden lige nu, er det rigtigt, at covid-19 ser ud til at tage livet af lidt flere smittede end influenza. Men det kan sagtens vise sig, når vi om måneder har fået endnu mere viden, at dødeligheden er tæt på identisk. Men lige nu er den lidt højere«, siger Kåre Mølbak.
+FAKTA
+Forstå denne historie på 20 sekunder
+Der er to metoder
+til at opgøre en sygdoms dødelighed, som fagfolk bruger. Men det skaber forvirring, da tal fra begge metoder bruges i flæng af medier, fagfolk og WHO.​
+Det, der har fået mange til fejlagtigt at tro, at covid-19 nu skulle være blevet farligere, end det ellers har været fremme i offentligheden, er tallet 3,4 procent, som generaldirektøren fremførte på pressemødet.
+FAKTA
+Så farlig er covid-19
+Kilde:
+ECDC, 2. marts 2020
+»Globalt er omkring 3,4 procent af de rapporterede tilfælde med covid-19 døde. Til sammenligning dræber sæsoninfluenza langt mindre end 1 procent af de inficerede«, sagde Tedros Adhanom Ghebreyesus tirsdag.
+Hvordan hænger det nu sammen, når WHO i ugevis talte om en dødelighed på 2 procent og siden 0,7 procent? Er dødeligheden nu opjusteret?
+Svaret er enkelt, forklarer Kåre Mølbak, for nej, WHO har ikke opjusteret dødeligheden for covid-19. Der er tale om to
+forskellige
+faglige opgørelsesmetoder.
+FAKTA
+Dødelighed på alder
+Dødelighed (CFR) for covid-19-patienter opgjort på alder ud af 44.672 kinesiske patienter:
+Dødelighed (CFR) blandt covid-19-patienter blandt folk med anden kronisk sygdom:
+Kilde:
+Chinese Center for Disease Control and Prevention, 24. februar 2020
+»Det er korrekt, at 3,4 procent er dødeligheden blandt de
+bekræftede
+tilfælde af covid-19, mens dødeligheden blandt de
+smittede
+estimeres til at være mellem 0,3 og 1,0 procent, hvilket jeg har citeret som 7 promille for at have et enkelt tal i kommunikationen«, siger Kåre Mølbak fra Statens Serum Institut.
+Nu skal tungen holdes lige i munden.
+3,4 procent af de mennesker, der har fået diagnosticeret covid-19 af en læge, er altså indtil nu på verdensplan døde af den nye sygdom.
+Men det siger intet om sygdommens egentlige dødelighed og dermed, hvor stor din risiko er for at dø, hvis du bliver smittet. De 3,4 procent siger alene noget om forholdet mellem antal konstaterede covid-19-smittede og antal døde.
+Den form for opgørelse kalder fagfolk med et fint ord for
+case fatality ratio
+, CFR. Altså antallet af dødsfald blandt de konstateret smittede.
+Hvis et land kun undersøger for covid-19 blandt patienter, der indlægges på et sygehus, finder de en høj CFR-dødelighed, for inde på hospitalet ligger de mest syge.
+Hvis et land derimod undersøger næsten alle, der henvender sig til familielægen, finder de en lav CFR-dødelighed, fordi mange med en mild udgave af sygdommen bliver ’opdaget’.
+Det var CFR-dødeligheden, Tedros Adhanom Ghebreyesus henviste til, da han tirsdag sagde »3,4 procent«.
+I det tal medregner WHO-direktøren
+ikke
+alle dem, der er smittet, men som har milde eller slet ingen symptomer, og som derfor aldrig bliver testet positive af en læge, og som dermed ikke medregnes i den nuværende smitteovervågning. Ligesom tallet 3,4 procent heller
+ikke
+medtager, hvis én person, som lige nu er konstateret covid-19-positiv, dør om en uge.
+3,4 procents-tallet er alene et øjebliksbillede af antal konstateret smittede i forhold til antal døde globalt. Og det er stærkt afhængigt af, hvem der er undersøgt og hvor, forklarer Kåre Målbak.
+CRF-tallet har under det epidemiske udbrud været højest i Hubei-provinsen og lavere i alle andre kinesiske provinser.
+Forklaringen er ifølge fagfolk, at hospitalerne har været særlig pressede i Hubei-provinsen, så flere patienter, der har fået
+konstateret
+covid-19, ikke har kunnet få den optimale lægehjælp, og derfor er flere døde.
+Et langt vigtigere tal, når det handler om, hvor farlig sygdommen er, er ifølge Kåre Mølbak fra Statens Serum Institut den såkaldte smittet-død-ratio,
+infection fatality ratio
+, IFR. Altså forholdet mellem det samlede antal
+smittede –
+og ikke kun dem, der har fået det konstateret af en læge – og så antallet af døde.
+Under en epidemi er sådan et tal langt sværere at opgøre. Dels fordi udbruddet pågår lige nu, og fagfolk har fortsat ikke solid viden om virus og sygdom, dels fordi ikke alle smittede får konstateret covid-19. Derfor går mange ’under radaren’. Det er det, lægerne kalder ’mørketallet’.
+Havde der ikke været det store coronafokus, ville TV 2-medarbejderen, Danmarks første covid-19-patient, med lidt ondt i mave og hals og uden feber aldrig være testet på en infektionsmedicinsk afdeling. Og hans sygdom ville dermed aldrig være blevet registreret.
+Der er også coronasmittede, der aldrig udvikler symptomer eller blot får mild sygdom.
+På det omtalte
+krydstogtskib ’Diamond Princess’ i Japan havde hele 51 procent
+af dem, der blev testet positive for covid-19, ingen symptomer på testtidspunktet. Det kunne de få i dagene efter, men eksperterne har fået en stigende viden om, at nogle smittede slet ikke udvikler symptomer, de er såkaldt asymptomatiske.
+Derfor er antal døde af det samlede antal
+smittede
+en mere præcis opgørelse for en sygdoms reelle dødelighed, altså hvor bange du skal være for at dø af sygdommen.
+Ingen ved, hvor mange covid-19-smittede mennesker, der findes i verden. Den viden findes aldrig for nogen sygdom, da mange mildt syge altid går under radaren.
+Derfor foretager fagfolk og WHO avancerede modelberegninger, når dødeligheden for sygdom skal opgøres, hvori de forsøger at medtage de smittede, som
+ikke
+bliver testet på et hospital eller bliver fanget i myndighedernes smitteovervågning.
+Sådanne opgørelser er altid foreløbige under en epidemi. Og justeres løbende.
+WHO fastslog 19. februar
+, at smittet-død-ratioen,
+infection fatality ratio
+, IFR, varierer, alt efter opgørelserne, mellem 0,3 og 1,0 procent.
+Det er derfor, Statens Serum Institut for lethedens skyld siger 7 promille, og Politiken skriver 0,7 procent, for ikke matematisk kyndige er de to tal identiske.
+Derfor er dødeligheden af covid-19 smittede nok mere i nærheden af de 0,7 end de 3,4 procent, som Tedros Adhanom Ghebreyesus talte om tirsdag.
+Sars havde en IFR-dødelighed omkring 10 procent, Mers omkring 35 procent, Ebola 50-90 procent, mens dødeligheden ved almindelig sæsoninfluenza vurderes at ligge omkring 0,2 procent i gennemsnit.
+Når de sygdomme opgøres ud fra CFR-metoden, altså hvor covid-19 ifølge WHO tirsdag har en dødelighed på 3,4 procent, er dødeligheden ved Sars 28 procent, Mers 65 procent og 9 procent for 2009-pandemien med H1N1-influenza, oplyste
+EU’s sygdomskontor 2. marts
+.
+Derfor
+er
+det korrekt, når WHO siger, at flere dør af covid-19 end almindelig influenza.
+Og derfor skal vi glæde os, når generaldirektøren siger, at »
+covid-19 spreder sig mindre effektivt end influenza
+«.
+For din risiko for potentielt at dø af covid-19 handler i høj grad også om sundhedsvæsenets evne til at håndtere og symptombehandle dig.
+Flere smittede dør i Iran end i Italien på grund af forskelligt fungerende sundhedsvæsener. Og flere danskere vil dø end ellers uanset sygdommens dødelighedsprocent, hvis ikke vi får holdt smittetrykket nede, så hospitalerne kan følge med og håndtere et stigende antal syge borgere.
+»Selv om vi heldigvis løbende får ny viden om covid-19, dens risikoprofil og dødelighed, og selv om den viden tyder på, at sygdommen er mindre og mindre farlig, end vi troede ved udbruddets begyndelse for et par måneder siden, handler den enkelte danskers risiko for at dø under en epidemi også om, at vi i Danmark får håndteret den hensigtsmæssigt, så sundhedsvæsenet kan følge med, hvis der kommer et stigende antal patienter. Det er derfor, at vi løbende justerer vores beredskabsplaner og gearer vores hospitaler til flere smittede, så vi har plads til og mulighed for at behandle de kritisk syge, så godt vi kan«, siger Kåre Mølbak.
+Lars Igum Rasmussen
+fortsæt med at læse
+Coronavirus får stort, trængt flyselskab til at kollapse
+Kunderne svigter Norwegian på grund af coronavirus
+Californien erklærer undtagelsestilstand efter 53 virusfund

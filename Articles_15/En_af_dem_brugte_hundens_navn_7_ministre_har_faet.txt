@@ -1,0 +1,30 @@
+Title: En_af_dem_brugte_hundens_navn_7_ministre_har_faet
+Date: 2020-09-10
+Article Type: Danmark
+Author: Regeringens ministre har brugt deres folketingsmails til tjenester som Dropbox og Linkedin, der senere er blevet hacket. Det skriver DR. Transportminister Benny Engelbreth bruger ikke længere hundens navn som password til vigtige tjenester.
+
+Lars Dahlager
+Journalist
+7 ud af 20 af regeringens ministre har fået kodeord til tjenester som Linkedin, Dropbox og fitness-apps stjålet i store hackerangreb. Og i flere tilfælde har ministrene - der på det tidspunkt var folketingsmedlemmer og brugte deres folketingsmail - brugt alt for korte og nemme kodeord, og benyttet det samme kodeord over for lang tid.
+Det viser
+en gennemgang
+, DR har lavet ved blandt andet at slå op i den offentligt tilgængelige database over hackede emails og passwords,
+Haveibeenpwned
+.
+Det vides ikke, om de involverede ministre også har brugt de samme hackede passwords til at logge på følsomme systemer.
+Men ifølge flere eksperter afslører det, at politikerne har haft en lemfældig omgang med brugen af deres officielle mail til private onlinetjenester og sociale medier. Ministrene udsætter dermed folketingsmailen for hackerangreb, afpresning (ransomware) og virus, siger Henrik Kramshøj, der er cybersikkerhedsekspert og ejer af firmaet Zencurity, til DR.
+Ministrene får også i flere tilfælde kritik for, at deres kodeord er for korte og simple, og dermed alt for nemme at gætte.
+Et af de lækkede kodeord tilhører transportminister Benny Engelbrecht (S). Transportministerens kodeord på det sociale medie Linkedin og flere andre steder var navnet på hans gamle hund –Yolanthe. Da han blev opmærksom på lækket af Linkedins passwords, ændrede han kodeord.
+Og det nye kodeord, som Benny Engelbrecht bruger på LinkedIn, er meget bedre end det gamle:
+»Når jeg bruger et kodeord til noget, der er kritisk, vil jeg ikke fortælle dig, hvor mange og hvor lange de bliver, men de er meget lange. Jeg bruger specialtegn, jeg bruger tal i en bestemt kombination, og jeg bruger aldrig det samme password til to kritiske tjenester«, siger han til DR.
+Fakta
+I hvilke læk er ministrenes kodeord fundet?
+Kilde: DR
+Flere andre ministre svarer til DR, at de løbende skifter passwords og i dag bruger bedre kodeord, end de gjorde dengang.
+Du kan selv tjekke, om din egen emailadresse har været en del af et af de 479 onlinetjenester, der i tidens løb har fået hacket deres databaser over passwords og/eller andre personlige oplysninger ved at besøge
+Haveibeenpwned
+.
+Lars Dahlager
+fortsæt med at læse
+Digitalt:
+Snart kan du glemme alle dine kodeord

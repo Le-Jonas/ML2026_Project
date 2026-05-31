@@ -1,0 +1,20 @@
+Title: Computere_kan_erstatte_dyreforsøg
+Date: 2004-11-30
+Article Type: Danmark
+Author: Daniel Bergsagel
+
+Under ledelse af danske kaosforskere, biologer og fysikere skal DTU gennemføre et banebrydende europæisk projekt, der skal skabe computermodeller af menneskets funktioner. 
+Modellerne skal blandt andet bruges til at afprøve lægemidler. 
+»Vi er for eksempel ved at lave en model af forskellige sukkersygepatienter. Med den kan vi give patienten et måltid mad eller et skud insulin og se, hvordan forskellige organer bliver påvirket af det«, siger Morten Colding-Jørgensen, der er med i forskningsprojektet som repræsentant for Novo Nordisk.
+25 europæiske universiteter går med
+Arbejdet går i luften med en kontrakt, der onsdag bliver underskrevet mellem EU-kommissionen og Danmarks Tekniske Universitet (DTU). 
+Projektet, der går under navnet 'Biosimulation - A New Tool in Drug Development', giver DTU 80 millioner kroner til at lede samarbejdet, der har deltagelse af 25 europæiske universiteter og forskningscentre, 9 virksomheder, lægemiddelstyrelserne i Danmark, Spanien, Holland og Sverige samt Novo Nordisk.
+Sparer værdifuld tid
+Erik Mosekilde, der er leder af DTU's Institut for Fysik og koordinator af selve projektet, forklarer, at anvendelsen af computermodeller kan erstatte mange af de forsøg, der i dag bliver foretaget på både dyr og mennesker i forbindelse med udvikling af lægemidler. 
+Men da man hurtigt kan teste et utal af stoffer på en model uden at frygte konsekvenserne, kan man også afkorte tiden, der i dag bliver brugt på forsøg. 
+Det vil i fremtiden gøre det væsentlig billigere at udvikle lægemidler, hvorfor man håber, at modellerne kan være med til at frembringe lægemidler mod sjældne sygdomme, som det i dag ikke kan betale sig at forske i.
+Modeller af børn
+Computermodellerne kan også sikre, at vi kan teste ting, som blandt andet af etiske årsager ikke kan testes i dag. 
+»Lægemiddelindustrien har i dag svært ved at udvikle lægemidler til børn, fordi der er et stort etisk problem forbundet med at teste på børn. Vi vil forsøge at bygge en model, der beskriver forskellene på voksne og børn, så den kan benyttes til forsøg«, siger Erik Mosekilde. 
+Projektet løber over de næste fem år og omfatter mange sygdomsområder som sukkersyge, Parkinsons syge, børn og sygdomme, højt blodtryk og depression. Desuden arbejder forskerne på at bygge forskellige modeller fra enkelte celler til hele organer. 
+»Vi kommer ikke til at bygge hele mennesker, for det bliver alt, alt for omfattende. De forsøg, der hidtil har været gjort på det, har skabt meget stabile modeller, og hvis der er noget menneskets organisme ikke er, er det stabilt«, forklarer Erik Mosekilde og fortæller, at det centrale i projektet er at finde ud af, hvordan man indbygger ustabilitet i de matematiske computermodeller, så de bliver naturtro.

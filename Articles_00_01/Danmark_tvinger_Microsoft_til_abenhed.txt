@@ -1,0 +1,16 @@
+Title: Danmark_tvinger_Microsoft_til_abenhed
+Date: 2003-11-17
+Article Type: Økonomi
+Author: Sisse K. Ibsen
+
+It-systemer, der ikke kan tale sammen, og filer der ikke kan åbnes hos modtageren. Det er problemer, som præger brugen af it i dag. 
+Men de vil blive mindre eller forsvinde, ligesom Microsofts monopol bliver udfordret efter, at den danske regering som det første land i verden har tvunget Microsoft til at åbne sine såkaldte it-standarder. Oplysningerne har hidtil været en velbevaret hemmelighed. 
+Den nye åbenhed skal gøre det lettere få dokumenter oprettet i formater som Word eller Excel lagret i et XML-format. XML regnes for det førende værktøj, når det gælder om at bearbejde og sende data på tværs af it-systemer; også it-systemer, der ikke baseres sig på Microsoft-produkter.
+Gratis information om standard
+Aftalen med Microsoft indebærer, at tekniske informationer stilles gratis til rådighed for private, myndigheder, virksomheder og udviklere af software. 
+Microsofts initiativ blev lanceret mandag i København med deltagelse af videnskabsminister Helge Sander (V). 
+»Den nye åbenhed om standarder ventes at styrke konkurrencen på softwaremarkedet«, siger Helge Sander til Ritzau. Helge Sander oplyser også, at den danske regering lægger vægt på åbenhed omkring software - og at han forleden var telefonisk i forbindelse med Microsofts stifter Bill Gates om det nye initiativ.
+Microsoft: Det vil ikke skade os
+Klaus Holse Andersen, direktør for Microsoft i Danmark, mener også, at åbningen vil styrke konkurrencen - men ikke at åbningen vil svække Microsoft. 
+»Ved at skabe mere åbenhed vil det bedste produkt vinde, og det tror vi på, Microsoft til enhver tid vil fremstille. Nu har vi fjernet en mulig barriere, hvor man vil fravælge en løsning, fordi den er låst til en bestemt producent«, siger Klaus Holse Andersen. 
+Microsofts nye åbenhed skal udstrækkes fra Danmark til den øvrige verden.

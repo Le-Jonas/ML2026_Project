@@ -1,0 +1,23 @@
+Title: Facebook_risikerer_forbud_og_bøder
+Date: 2025-01-09
+Article Type: Tech
+Author: Ifølge professor i It-ret Andrej Savin er det mest sandsynligt, at Facebook og EU-Kommissionen indgår aftale.
+
+Mark Zuckerbergs tilbagerulning af faktatjekkere på Facebook kan, hvis overført til EU’s marked, i yderste tilfælde føre til finansielle sanktioner eller forbud.
+Det skyldes, at ændringen kan være i strid med EU’s retsakt om digitale tjenester (DSA), som opfordrer sociale medier til at fjerne opfordringer til vold, hadefulde opslag og ulovligt indhold.
+Det siger Andrej Savin, som er professor i It-ret ved Copenhagen Business School. Hans primære forskningsområder indebærer digital regulering i EU.
+»Jeg tænker dog ikke, at det er så sandsynligt, at det kommer så vidt. Det er mere sandsynligt, at Meta, som ejer Facebook, og EU Kommissionen indgår en aftale, hvor de bliver enige om, hvordan det skal håndteres i fremtiden«, siger Andrej Savin.
+Tirsdag fortalte Facebooks grundlægger, Mark Zuckerberg, at han ville fjerne faktatjekkere og i stedet indføre et system, hvor brugere kan stemme om, hvor troværdigt opslaget er.
+Det nye system hedder ’community notes’ og er inspireret af praksissen på Elon Musks sociale medie, X.
+Ændringen gælder indtil videre kun på Facebook i USA.
+Ud over DSA har Meta indgået en særlig aftale med EU Kommissionen, hvori EU’s krav om faktatjek fremhæves.
+»Derfor ville Meta skulle bevise over for EU Kommissionen, at det nye system med community notes er bedre, end det system, der gjaldt, da aftale mellem Kommissionen og Meta blev lavet«, siger Andrej Savin.
+Han mener, at der ikke er noget, der tyder på, at Meta kan overbevise Kommissionen om det.
+»Beviserne peger i den anden retning, men det er ikke umuligt. Afskaffelsen af faktatjekkere skyldes ikke, at Meta har lavet en risikovurdering og vurderet, at det nye system er bedre. Nej, det er på grund af Trump«, siger Andrej Savin.
+Han peger på, at Meta i de seneste par år har samarbejdet med EU og i flere tilfælde har indført andre regler for EU end resten af verden.
+»Mark Zuckerberg er jo ikke dum, han er en forretningsmand. Især fordi der er en helt ny Kommission, kan det måske være vigtigt for ham at vise dem, at han er samarbejdsvillig«, siger Andrej Savin.
+Hvis Meta vælger at bryde med DSA, kan virksomheden risikere at skulle betale seks procent af sin årlige globale omsætning. Derudover kan EU vælge at forbyde platformen i EU-lande.
+»Vi ved endnu ikke nok om kernen af problemet. Hvad Metas planer er i forhold til EU? Og om det i så fald er de samme planer som for Facebook i USA«, siger Andrej Savin.
+Ifølge mediet Politico har Meta oplyst, at der endnu ikke er planer om at fjerne faktatjekkere fra Facebook i Europa.
+ritzau
+fortsæt med at læse

@@ -1,0 +1,18 @@
+Title: Gode_SAS-kunder_forrest_i_køen
+Date: 2002-11-01
+Article Type: Økonomi
+Author: Peder Bjerge og Trine Maria Ilsøe
+
+Ringer du til SAS, bliver du sat bagest i telefonkøen, medmindre du er indehaver af et EuroBonus-kort. 
+ Minutterne tikker af sted i uendeligheden. Pausemuzakken banker derudad, mens telefonrøret klæber sig varmt til øret. Som en af de knap så gode kunder må man vente ekstra tid i telefonkøen, mens de gode kunder smutter udenom. 
+ »Hvis der ikke er travlt på telefonerne får alle den samme behandling. Men er der kø, så er det klart, at de, som afgiver nogle kundeoplysninger, vi kan genbruge, ja, de får den hurtigste betjening«, siger Per Laugesen, der er salgsdirektør for SAS' telefonsalg. 
+ Ligesom så mange andre virksomheder har SAS installeret avancerede computersystemer, der registrerer og styrer kommunikationen med forbrugerne. Systemerne kaldes CRM - der betyder 'Costumer Relationship Management' - og i SAS' tilfælde bruges det blandt andet til at identificere bonusmedlemmerne, når de ringer. 
+ Men selv om Per Laugesen erkender, at SAS forskelsbehandler bonuskunder frem for andre kunder, afviser han, at der er tale om diskrimination. 
+ »Jeg kan da godt se, at der er nogle, der kan tænke: »Bare fordi vi ikke er medlemmer, bliver vi dårligere betjent af SAS«. Men det gør de jo i princippet ikke, for det er meget sjældent, at der er kø på telefonen«, siger Per Laugesen. 
+ Tidligere har mobilselskabet Orange erkendt, at de gode 'guldkunder' bliver sluset uden om telefonkøen og hen til særlig hurtig betjening.
+Kan være ulovligt
+Forbrugerombudsmand Hagen Jørgensen mener, at det kan være i strid med markedsføringsloven, fordi Oranges praksis har været skjult for kunderne. Teleselskabet oplyser i dag, at dets jurister er i gang med at lave systemet om, så det overholder markedsføringslovens regler. 
+ Men det er langtfra kun telefonselskaber og SAS, der udnytter CRM-systemerne til at diskriminere mellem de gode og dårlige kunder i telefonkøen til virksomheden, fortæller Baman Motivala. Han er nordisk salgskonsulentchef for den amerikanske it-virksomhed Siebel Systems, et af de store varemærker i CRM-industrien. 
+ »Den metode er meget ofte brugt i mange forskellige virksomheder. Kunderne er segmenteret ud i guld, sølv, bronze, høj, lav, eller hvilken kategori virksomhederne nu bruger til at differentiere mellem kunderne«, siger Baman Motivala. 
+ Han peger på, at CRM-systemerne også kan måle, hvornår de gode kunder taber tålmodigheden og dropper ud af køen. Hvis de gør det, så kan der være en risiko for, at de bliver så sure, at de bliver kunder et andet sted. Siebel Systems har blandt andet leveret CRM-systemer til et af de største danske mobiltelefonselskaber Sonofon. 
+ Alligevel afviser divisionsdirektør i Sonofon, Steffen Høeg, at de gode kunder kommer hurtigere til i telefonkøen end andre kunder. Hvis kunderne vil have en hurtigere betjening, så henviser Sonofon til et andet telefonnummer, hvor man må betale minuttakst for at komme til, siger han.

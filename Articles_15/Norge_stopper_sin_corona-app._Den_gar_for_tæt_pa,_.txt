@@ -1,0 +1,9 @@
+Title: Norge_stopper_sin_corona-app._Den_gar_for_tæt_pa,_
+Date: 2020-06-15
+Article Type: Tech
+Author: Den danske er mindre indgribende og kan fortsat bruges, vurderer formanden for Dataetisk Råd
+
+Jens Bostrup
+Journalist
+Det lave smittetryk i Norge betyder, at den norske corona-app, Smittestopp, ikke længere er et proportionalt indgreb i borgernes frihedsrettigheder.
+Det fastslår det norske datatilsyn, og derfor måtte den norske sundhedsstyrelse mandag meddele, at appen indstilles og alle data, der er samlet ind, bliver slettet.

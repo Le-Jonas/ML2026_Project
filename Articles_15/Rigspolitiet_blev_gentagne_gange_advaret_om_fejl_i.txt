@@ -1,0 +1,27 @@
+Title: Rigspolitiet_blev_gentagne_gange_advaret_om_fejl_i
+Date: 2019-10-04
+Article Type: Danmark
+Author: Rigspolitiet opdagede i foråret 2019, at der var fejl i teledata fra en række straffesager. Men allerede et år forinden forsøgte en politikreds at gøre opmærksom på fejl.
+
+Morten Skjoldager
+Journalist
+Jakob Sorgenfri Kjær
+Journalist
+I november 2018 opdagede efterforskere, at der manglede teledata i sagen om drabet på Emilie Meng. Fire måneder senere – i marts 2019 – gik det op for politiet, at der ikke var tale om en enkeltstående sag, men at der kunne være tale om fejl i en stor mængde straffesager; fejl, som potentielt kunne have sendt uskyldige bag tremmer.
+Selve systemfejlen blev udbedret 8. marts 2019.
+Men allerede mere end et år tidligere – i februar 2018 – blev Rigspolitiet kontaktet af en politikreds, som havde fundet fejl i teledata i forbindelse med en efterforskning. Og derpå fulgte tre henvendelser mere fra politikredse om mangler i teledata, som de havde konstateret.
+Det fremgår af den
+redegørelse
+, som Rigspolitiet og Rigsadvokaten i fællesskab har udarbejdet til brug for Justitsministeriets belysning af forløbet.
+»Telecentret modtog således eksempelvis i både februar, maj, august og september 2018 henvendelser fra rekvirenter, der konstaterede manglende historiske teleoplysninger i konverterede datasæt, hvilket blev håndteret i de konkrete tilfælde, men uden at det gav anledning til en mere systematisk gennemgang af data«, skriver Rigspolitiet.
+Ifølge Politikens kilder var mindst en af disse henvendelser meget eksplicit om mangler i de konverterede data fra Rigspolitiet. Men problemet blev tilsyneladende slået hen som en enkeltstående fejl, da manglerne i øvrigt viste sig ikke at have haft for betydning for efterforskningen.
+Som Politiken afdækkede søndag, gik alarmen ikke før november 2018, da ekstraordinært udpegede efterforskere i Emilie Meng-sagen slog alarm. Den daværende justitsminister Søren Pape Poulsen (K) havde personligt engageret i at igangsætte et ekstraordinært review af Meng-efterforskningen efter møder med Emilie Mengs forældre og advokat.
+Da igangsatte Rigspolitiet en stikprøvekontrol på »en mistanke om, at der kunne være en generel konverteringsfejl i det it-program, der blev anvendt til at konvertere rådata fra teleudbyderne«.
+Men stikprøvekontrollen viste »angiveligt« ikke tegn på en generel systemfejl, selv om der var indikationer:
+»Stikprøvekontrollen omfattede 60 tilfældigt udvalgte sager – 30 fra 2017 og 30 fra 2018. Kontrollen – som ikke er dokumenteret og dermed ikke mulig at genskabe – viste angiveligt, at langt hovedparten af de kontrollerede sager var korrekt konverteret, mens der i få tilfælde bestod en forskel mellem rådata og konverterede data med op til fire linjers forskel i de respektive regneark. Telecentret vurderede på baggrund af stikprøvekontrollen, at de forskelle, som stikprøven viste, ikke tydede på en generel systemfejl, samt at konverteringsfejlen i den konkrete sag skyldtes de store datafiler, der var indhentet til den pågældende sag, og som havde et meget stort omfang«, lyder det med henvisning til data fra det såkaldte mastesug i Emilie Meng-sagen.
+Derfor var det først i februar 2019, at tiøren faldt i Rigspolitiets Telecenter. Det skete, ifølge Politikens kilder, da en ny politikreds fandt fejl i teledata i efterforskningen af drabet på Louise Borglit i Herlev i 2016:
+»På den baggrund iværksatte telecentret en systematisk gennemgang af alle rekvisitioner i perioden fra januar 2017 til februar 2019 for at afdække, om der kunne konstateres en generel fejl i konverterede data. Den daværende chef for NEA blev den 20. februar 2019 orienteret om den nye henvendelse, og om at gennemgangen på det foreløbige grundlag viste, at der formentlig var tale om en generel fejl i konverteringen af rådata«, lyder det .
+Jakob Sorgenfri Kjær
+fortsæt med at læse
+Ministerium holdt på viden om teleaffære i tre måneder
+Uopklarede drab på unge kvinder fik politiet til at opdage telefejl

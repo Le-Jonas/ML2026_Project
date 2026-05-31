@@ -1,0 +1,33 @@
+Title: Computerprogram_giver_kortere_ventelister
+Date: 2002-12-29
+Article Type: Danmark
+Author: Thomas Hoffmann
+
+Et computerprogram fra Institut for Sundhedsvæsen (DSI) har vist sig at være et effektivt våben i kampen mod ventelister på Danmarks hospitaler. Computerprogrammet får hospitalerne til at operere langt flere patienter uden ekstra omkostninger og uden øget risiko for patienternes helbred. 
+ Programmet har været anvendt på ni hospitalsafdelinger i Danmark. 
+ Indtil videre har tre af dem ført anbefalingerne fra programmet ud i livet, og det har gjort hospitalerne klart mere effektive.
+20 pct. operationer på fem år
+På Aabenraa Sygehus brugte man i 1997 programmet som hjælp til at ændre arbejdsrutiner og operationer, så man i dag opererer 10.000 patienter om året. 
+ Det er 20 procent flere end for fem år siden. Og det gør man vel at mærke uden ekstra brug af læger, andet personale og uden ekstra udgifter i det hele taget.
+Smartere og mere effektivt brug af tiden
+»Vores erfaringer med programmet er meget positive«, siger direktør for Aabenraa Sygehus, Margit Weise. 
+ »Vi har fået fokus på, hvordan personalegrupperne på operationsgangen arbejder sammen, og vi har øget antallet af operationer bare ved at ændre på de interne arbejdsgange. Det har ikke noget at gøre med, at personalet skal løbe stærkere - man skal lære at bruge tiden smartere og mere effektivt«, siger sygehusdirektøren.
+Kortlægning af gennemstrømningen af patienter
+Computerprogrammet fra DSI er kort sagt et kort over, hvordan patienter strømmer gennem hospitalsafdelingerne. 
+ Samtidig har programmet en mængde tørre tal liggende som f.eks. antallet af læger og senge på afdelingen eller prisen på et røntgenbillede.
+Let og billigt at ændre arbejdsgange
+Alle de oplysninger kan man flytte rundt på og ændre i programmet, som på ganske få minutter simulerer patientforløb og konsekvenser i mange uger frem. 
+ På den måde er det let og billigt at finde ud af, hvordan man ændrer arbejdsgange og omkostninger, så arbejdet bliver mere effektivt, og flere patienter bliver opereret på kortere tid og for færre penge.
+Kvalitetsløft
+På Odense Universitetshospital brugte man for lidt over to år siden programmet på afdelingerne for hjertepatienter. Ifølge centerchef Svend Skov Jensen bliver patienterne i dag behandlet bedre og er på hospitalet i kortere tid. 
+ »Det har givet et kvalitetsløft, at vi har rykket rundt, så for eksempel patienter, der har overlevet hjerteanfald, nu bliver behandlet på intensivafdelingen. Det har givet kortere og bedre behandlingstid, og samtidig giver det plads på andre afdelinger, så patienterne også kommer hurtigere igennem dér«, fortæller Svend Skov Jensen.
+10 pct. flere patienter uden flere ressourcer
+Han vurderer, at hospitalet i dag kan behandle visse hjertepatienter 1-2 uger hurtigere end tidligere. 
+ Det giver afdelingen overskud til at operere omkring 10 procent flere patienter uden at bruge flere ressourcer.
+500 flere operationer
+I Viborg Amt har man koblet programmets evne til at forkorte ventelisterne sammen med ønsket om at få del i regeringens pulje på 1,5 milliarder kroner. 
+ Amtet har investeret 8 millioner kroner til forbedret behandling på Viborg-Kjellerup Sygehus på baggrund af egne undersøgelser og anbefalinger fra computerprogrammet. 
+ Målet er, at Viborg ved udgangen af 2002 skal have udført ekstra 1.300 forundersøgelser og i alt 500 flere operationer i forhold til sidste år.
+Begejstring i ARF
+Formanden for sundhedsudvalget i Amtsrådsforeningen, Bent Hansen, er begejstret og opfordrer landets hospitaler til at lytte til erfaringerne. 
+ »Sådan et simulatorsystem lyder utrolig spændende. Vores seneste undersøgelse viste, at der ikke er noget, patienter er mere frustrerede over end ventetid på hospitalet. Vi er nødt til at sige til hospitalerne, at de skal være opmærksomme på det«, siger Bent Hansen.

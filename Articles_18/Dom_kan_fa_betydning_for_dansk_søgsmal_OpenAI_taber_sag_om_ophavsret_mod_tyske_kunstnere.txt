@@ -1,0 +1,19 @@
+Title: Dom_kan_fa_betydning_for_dansk_søgsmal_OpenAI_taber_sag_om_ophavsret_mod_tyske_kunstnere
+Date: 2025-11-11
+Article Type: Musik
+Author: Musikorganisation beskylder OpenAI for at krænke ophavsret ved at bruge beskyttede sangtekster til AI-træning.
+
+En tysk domstol giver den tyske organisation for musikeres rettigheder Gema medhold i en retssag om ophavsret mod OpenAI, skriver Reuters.
+Sagen handler blandt andet om, hvorvidt OpenAI har krænket ophavsretten ved at bruge beskyttede sangtekster til at træne sine AI-modeller. Derudover mener organisationen, at OpenAI’s chatbot ChatGPT gengiver sangtekster fra ophavsretsbeskyttede tyske sange uden tilladelse. Domstolen fastslår ifølge det tyske nyhedsbureau dpa, at OpenAI har krænket ophavsretten på ni populære sange.
+Ifølge dommen må OpenAI heller ikke lagre sangteksterne eller gengive dem i sine AI-modeller, mens AI-firmaet ligeledes skal betale en erstatning i sagen. Dpa understreger dog, at afgørelsen sandsynligvis vil blive anket og ikke er endelig.
+I Danmark har en lignende sag ligeledes fundet vej til retssystemet. Den danske musikrettighedsorganisation Koda har lagt sag an mod den amerikanske musiktjeneste Suno, der producerer sange ved hjælp af kunstig intelligens, oplyste Koda i begyndelsen af måneden.
+Kodas juridiske og politiske direktør, Nicky Trebbien, kalder dommen i Tyskland for historisk.
+»For første gang slår en europæisk domstol fast, at AI-tjenester skal have tilladelse og betale for at bruge rettighedsbeskyttede sangtekster. Det er et vigtigt skridt for at sikre, at musikkens skabere får en retfærdig betaling, når deres værker bliver brugt af AI-tjenesterne«, skriver han i en skriftlig kommentar.
+Han mener desuden, at den tyske dom er opløftende nyt i forhold til Kodas egen retssag, som han mener, dommen understøtter.
+Kodas søgsmål drejer sig om krænkelse af danske kunstneres og sangskriveres ophavsret. Koda mener at have fremlagt beviser for, at Suno har stjålet numre fra deres medlemmer og brugt dem til at træne den kunstige intelligens eller til at skabe ny musik, der minder meget om medlemmernes musik. Det gælder ’Barbie Girl’ af Aqua, ’A Beautiful Life’ af Christopher, ’Final Song’ af MØ, ’Sleeping My Day Away’ af D-A-D, ’Sunshine Reggae’ af Laid Back og ’Move Your Feet’ af Junior Senior.
+Ifølge Koda er ingen af sangskriverne bag sangene blevet spurgt om tilladelse til, at sangene må bruges af Suno. De har heller ikke modtaget betaling, lyder det.
+Tyske Gema har også sagsøgt Suno for brud på ophavsret. Sagen forventes at komme for retten i januar.
+ritzau
+fortsæt med at læse
+»Historiens største musiktyveri«:
+Koda sagsøger selskab for at stjæle danske hits

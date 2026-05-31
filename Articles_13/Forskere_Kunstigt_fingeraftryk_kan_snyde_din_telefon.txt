@@ -1,0 +1,33 @@
+Title: Forskere_Kunstigt_fingeraftryk_kan_snyde_din_telefon
+Date: 2017-04-11
+Article Type: Digitalt
+Author: Jens Bostrup
+
+Journalist
+Et kunstigt fingeraftryk kan i teorien give adgang til din smartphone og derfra e-Boks, netbank og alle de andre apps, der bruger fingeraftryk til at kontrollere, hvem du er.
+Det hævder en gruppe forskere fra New York University og Michigan State University, der mandag offentliggjorde en delrapport om deres resultater.
+»Vores foreløbige resultater indikerer, at det faktisk er muligt at lokalisere eller konstruere delvise fingeraftryk, der kan bruges til at udgive sig for et stort antal brugere«, skriver forskerne i deres sammenfatning.
+»Vi afslører en mulig sårbarhed i systemer, der bruger udsnit af fingeraftryk til identifikation, især når de bruger flere aftryk af hver finger«.
+I praksis vil opdagelsen dog næppe kunne bruges af kriminelle til for eksempel at sende penge til sig selv med MobilePay eller gå på opdagelse i private menneskers e-Boks, vurderer Peter Kruse fra sikkerhedsfirmaet CSIS.
+Men der er mange andre måder, de falske aftryk kan misbruges på, tilføjer han.
+»En ondsindet app, der bliver installeret på telefonen, vil måske kunne give sig selv flere rettigheder og på den måde få adgang til data i andre apps og sende oplysningerne tilbage til den kriminelle. Det vil for eksempel kunne bruges til identitetstyveri«, siger Peter Kruse.
+De falske aftryk kan måske også bruges til at skaffe sig adgang til bygninger, der bruger fingeraftryk som kontrol.
+Et fuldt fingeraftryk er meget vanskeligt at forfalske. Men på en smartphone er skanneren så lille, at den kun læser et udsnit af aftrykket. Typisk skal brugeren give otte, ti eller endnu flere udsnit af hver finger, når fingeraftryksgodkendelsen installeres.
+Med et så lille udsnit kan menneskers fingeraftryk hurtigt komme til at ligne hinanden. Og både iPhone og Googles Android er indrettet sådan, at hvis det falske aftryk matcher bare et enkelt af de udsnit, der er afgivet, så bliver man godkendt.
+Forskerne har konstrueret en række kunstige udsnit med karakteristika, som er fælles for mange menneskers aftryk - såkaldte masteraftryk. De kunstige masteraftryk snød systemet i 65 procent af forsøgene - næsten to ud af tre gange.
+Men det var i computersimulationer.
+Telefonproducenterne har ikke givet forskerne mulighed for at teste det på rigtige telefoner,
+forklarer Aditi Roy, rapportens hovedforfatter til New York Times.
+Ifølge Nasir Memon, professor på New York University og en anden af forskerne bag forsøget, ville man kunne bryde ind i op mod halvdelen af de iPhones, der bruger Touch ID, hvis man på en eller anden måde kunne lave en 'magisk handske' med de masteraftryk, forskerne har konstrueret.
+I praksis er risikoen dog ikke større, end at Nasir Memon fortsat selv bruger fingeraftryk som id på sin telefon.
+»Jeg er ikke bekymret. For mig er det stadig en meget praktisk måde at åbne en telefon«, siger han til New York Times.
+De falske aftryk kan bruges - eller misbruges - på to måder. Enten skal de kriminelle opfinde den magiske handske, professor Memon taler om, og fysisk være i besiddelse af telefonen.
+Eller også skal de snige sig ind gennem en ondsindet app.
+En app vil godt kunne bruge falske aftryk til at give sig selv lov til at søge data i andre applikationer, der kan afsløre personfølsomme oplysninger. Men som telefonerne er skruet sammen i dag, vil det være uhyre vanskeligt at sende penge med MobilePay eller snage i e-Boks.
+»Hvis det er målet, er der meget lettere måder at gøre det på allerede i dag«, siger Peter Kruse.
+Om de kunstige aftryk vil kunne bruges i fremtidens danske sikkerhedssystem, som er under udvikling, afhænger helt af, om der bliver taget højde for, at de små skannere, der kun tager en mindre del af brugerens aftryk, giver større risiko for at ligne et af de kunstige masteraftryk.
+»Jeg vil helt klart anbefale de, der arbejder på en ny version af NemID, at læse rapporten«, siger Peter Kruse.
+En talsmand for Apple siger til New York Times, at risikoen for et falsk match i iPhones Touch ID er 1:50.000 med et enkelt aftryk.
+Google har ingen kommentarer.
+Jens Bostrup
+fortsæt med at læse
