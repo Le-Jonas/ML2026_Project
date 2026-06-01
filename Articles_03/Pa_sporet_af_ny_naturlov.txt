@@ -1,0 +1,60 @@
+Title: Pa_sporet_af_ny_naturlov
+Date: 2006-06-04
+Article Type: Viden og tech
+Author: Rasmus Kragh Jakobsen
+
+På tværs af naturvidenskab, humaniora, samfundsforskning, økonomi, sundhedsvidenskab m.m. er man i øjeblikket grebet af de samme spørgsmål - spørgsmål, der handler om, hvad det vil sige at være forbundet i netværk. 
+Om hvordan helt nye egenskaber dukker op fra samspillet mellem tusinder af små delkomponenter, uden at der tilsyneladende er en overordnet plan. 
+Lige fra hvordan cellens virvar af 'døde' molekyler forenes til en levende helhed over sociologers forståelse af, hvordan mennesker finder et arbejde, får venner m.m., og til hvordan man beskytter internettet mod virusangreb.
+På sporet af nye sammenhænge
+Det fascinerende er, at forskere de seneste år har opdaget, at mange netværk - fra world wide web over en celles biokemiske stofskifte reaktioner til skuespillere i Hollywood - deler den samme underliggende arkitektur. 
+En opdagelse der tyder på, at forskerne er kommet sporet af nye underliggende sammenhænge i naturen. 
+Måske kan man ligefrem tale om en parallel til begyndelsen af det 20. århundrede, hvor tidens store tema var relativitet, relativisme og observatørposition. Emner, der ligesom netværk i dag gik på tværs af mange videnskabsgrene og kunst. 
+Dengang fik den teoretiske fysik med ikoner som Niels Bohr og Albert Einstein pludselig en kæmpe betydning - den blev paradigmesættende - langt ud over sit eget felt, fordi fysikken var et af de få steder, man for alvor kunne komme videre. Da gennembruddet kom indenfor fysikken, forandrede det vores verdensbillede.
+Organisatoriske ligheder
+I dag ser det ud til, at der er ved at ske noget på grænsefladen mellem fysik og biologi, og overalt ser man spirerne til et helt nyt vidensfelt. 
+Der er temanumre i de førende internationale tidsskrifter som Science og Nature, de bedste forskningsartikler er allerede blevet citeret over 1.000 gange og på de store universiteter i USA gror afdelinger frem med navne som computational biology, systems biology, complex biology, biological physics etc. 
+Danmark er også med på bølgen. På Niels Bohr Instituttet i København er to forskningscentre 'Center for Models of Life' (CMOL) og 'BioNET', der også involverer forskningsgrupper fra Odense og Aalborg, for nylig åbnet med 20 og 25 mio. kr. i ryggen fra hhv. Danmarks Grundforskningsfond og Villum Kann Rasmussens fond. 
+»Flere forskergrupper har de seneste år opdaget, at mange komplekse netværk deler nogle organisatoriske principper«, siger fysikprofessor Kim Sneppen, der er leder af Center for Models of Life. 
+»Amerikanske forskere er kommet med bud på universelle mekanismer, der gælder for f.eks. cellens regulatoriske netværk, sociale netværk og internettet«, forklarer han.
+Skalafri
+Strukturen er dukket op igen og igen, og svenske forskere har sågar vist, at netværk over svenskernes seksuelle relationer - hvem der har været i seng med hvem - også følger denne særlige struktur. 
+Netværkene er det, man kalder skalafri. 
+Det betyder, at i stedet for en tilfældig fordeling, hvor alle har nogenlunde lige mange forbindelser, har nogle få individer (kaldet hubs) mange forbindelser (links), mens de fleste individer har få forbindelser. 
+For internettet er hubs'ene hjemmesider som Google og Yahoo!, i cellen er det bestemte proteiner og mht. svenskernes seksualadfærd - ja, der er virkelig nogle svenske casanovaer, mens de fleste bare har været i seng med et par stykker. 
+Den skalafri arkitektur har stor betydning for netværkets samlede egenskaber, f.eks. hvor hurtigt information eller virus kan sprede sig (både på internettet og mellem mennesker). 
+I skalafri netværk har det vist sig, at der er meget kort vej imellem to individer - man taler om »6 degrees of separation«, som henfører til det overraskende faktum, at to tilfældige mennesker på kloden i gennemsnit blot er adskilt af 6 forbindelser dvs. venner og venners venner. 
+Det samme gælder to hjemmesider på internettet eller to proteiner i cellen, der er forbundet via biokemiske netværk. 
+En anden vigtig egenskab er, at helheden er meget robust overfor tilfældige frafald af individer eller mutationer af gener, fordi netværket bliver ved med at hænge sammen, selv om mange individer falder bort. 
+Forståelsen af netværk generelt kan hjælpe epidemiologen til at forudsige omfanget af næste influenzaepidemi, computereksperten med at afgrænse udbredelsen af den næste virus og sociologen til at udforske fremvæksten af nye ideer.
+Data, data, data ...
+Netværkene er kun rammen - for at forstå de enkelte fænomener må forskere fra de forskellige vidensgrene tage alle individerne i betragtning og 'vægte' betydningen af de enkelte links, dvs. sætte tal på, og netop her ser biologien ud til at være stedet, man kan komme videre. 
+Det er en udvikling, som er kommet indenfor de sidste 5 år og »det skyldes arbejdet med det menneskelige genom,« siger lederen af BioNET Mogens Høgh Jensen med henvisning til kortlægningen af den menneskelige arvemasse i 2001. Siden har biologerne kastet sig over genomet med teknologier kaldet DNA-chips og 2-hybridsystem og kortlagt virvaret af usynlige små komponenter, der spiller sammen i cellernes indre. 
+Paradoksalt nok har det på få år skabt en så overvældende syndflod af data, at biologerne er ved at drukne i viden. 
+»Der er kommet så mange muligheder for at samle data ind, at biologernes tegninger og modeller bliver meget komplicerede. Så man har brug for hjælp til at få det forsimplet«, siger Mia Trolle Borup, der er biolog og post doc. i CMOL. 
+Der er her, fysikerne kommer ind med netværksteorier, som i virkeligheden har rødder 100 år tilbage til de første teorier om gassers fysiske egenskaber, kombineret med fysikernes lange erfaring i at sætte tal og ligninger på virvaret. 
+»Biologer lærer jo slet ikke at behandle store datamængder og kortlægge strukturer i dem. Det lærer fysikere fra dag et,«siger Mogens Høgh Jensen. 
+»Omvendt har fysikerne sejret sig selv lidt ihjel i det forrige århundrede og udtømt de helt dybe interessante problemer, som man har en chance for at løse. Så i biologien åbner der sig en enormt spændende uudforsket verden.«
+Dynamiske svar
+Også molekylærbiologer er begyndt at få øjnene op for netværksteorierne. Tre af de mest anerkendte cancerforskere Bert Vogelstein, David Lane og Arnold Levine pegede i tidsskriftet Nature i 2000 på, at cancerforskning skal flytte fokus fra de enkelte proteiner til samspillet i cellen. 
+Lige sådan har man med kortlægningen af genomet indset, at mange af de svar, man håbede på at finde, såsom årsagen til komplekse sygdomme som depression, ikke står skrevet i de enkelte gener. 
+Arvemassen eller 'Livets Bog' er godt nok i princippet det menneskelige liv reduceret til dets enkelte biologiske bestanddele, men levende systemer skal forstås ud fra samspillet, dynamikken og helheden. 
+»Genomet er blot en lang bogstavrække, som ikke siger ret meget i sig selv. Man kan ikke bruge genomet til noget, uden at man får generne til at vekselvirke med hinanden. Det er jo netværk«, siger Kim Sneppen. 
+På Niels Bohr Instituttet har de netop offentliggjort et studie i det ansete tidsskrift PNAS, hvor de modellerer et protein kaldet NFêB [Nuclear Factor kappa B], som er centralt for alle dyr og blandt andet er involveret i vores immunsystem. 
+Molekylærbiologer har vist, at NFêB fungerer i et netværk af mindst 27 komponenter, som får proteinet til at veksle mellem at være inde og ude af cellekernen med 2 timers intervaller. Mens det er i kernen, regulerer proteinet en række gener, og når NFêB ryger ud igen, stopper reguleringen - systemet er med andre ord en tænd/sluk kontakt.
+Virussets valg
+Nu har fysikerne stillet skarpt på selve hjertet af NFêB-systemet og vist, at 'kontakten' kan reduceres til blot tre komponenter, som kan beskrives med hver sin ligning. 
+Det er et slags funktionelt beregningsmodul bestemt af netværket og i biologien er de en slags beslutningstagere, der f.eks. afgør, om en celle skal dele sig. 
+Fysikerne arbejder på at forstå flere af den slags moduler, f.eks. hvordan en bakterievirus, kaldet lambda-fag, vælger mellem to tilstande. 
+Center for Models of Life har netop afholdt en international konference om denne bakterievirus med deltagelse af de bedste biologer i feltet og fysikere specialiseret i netværk. 
+»Det kan ses som en slags leg, der går ud på at lave en lille computer inden i en bakterie - man prøver at se, i hvor høj grad man kan implementere logiske funktioner og forskellige former for dynamisk opførsel,« siger Kim Sneppen. 
+Moduler er ikke bare en egenskab ved biologiske netværk. Ligesom cellens molekyler er forbundet i små funktionelle moduler, der 'snakker' tæt sammen, kender venners venner ofte hinanden og derfor klumper mennesker sammen i små grupper i de sociale netværk, medlemmer af bestyrelser er ofte tæt forbundet i 'old boys' netværk, hjemmesider på internettet hænger tæt sammen om relaterede emner osv. 
+De seneste års forskning har vist, at komplekse netværk langt fra er tilfældigt opbyggede, men har forskellige strukturer, der går igen.
+Funktionens dominans
+Alligevel har hverken internettet, sociale netværk, cellens netværk, makroøkonomiske netværk etc. en central designer. 
+»Det lugter af nye naturlove for, hvordan store komplekse netværk konstrueres, men vi ved endnu ikke hvordan,« siger Kim Sneppen. 
+»Det er f.eks. uklart, i hvor høj grad deres arkitektur er dikteret af deres historie eller af deres funktion.« 
+Det er et af de store spørgsmål, og sidste år pirkede Sneppen og kolleger til et muligt svar. De sammenlignede de regulatoriske netværk for tre bakterievirus, der rent evolutionært er meget langt fra hinanden, men som viste sig at have næsten identiske beregningsstrukturer. 
+»De netværk er i hvert fald er konsistente med teorien om, at det er funktionen og ikke den evolutionære historie, der er dominerende. Om det også holder for mere komplicerede netværk, ved vi ikke,«siger Kim Sneppen. 
+Tiden vil vise, om der findes nye universelle love. 
+Fysikerne er i fuld gang med at tæmme kompleksitet, og de seneste års resultater peger på, at man er ved at løfte en flig af sløret for et af naturens største mysterier - hvordan titusinder af komponenter hvirvler rundt mellem hinanden i en nærmest magisk dans, hvorfra elegante fænomener som samfund, internet og liv opstår.

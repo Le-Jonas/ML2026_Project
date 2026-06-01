@@ -1,0 +1,9 @@
+Title: Onlinedel_Klik_igennem_kviksand
+Date: 2007-03-26
+Article Type: Bolig og haven
+Author: Thomas Vigild
+
+JSP 
+<a href="mailto:Bibliopaten@pol.dk">Bibliopaten@pol.dk</a>
+Tilsluttes PlayStation 3 en internetforbindelse – enten trådløst eller med kabel – er der adgang til en webbrowser, internetbutikken kaldet PlayStation Store og mulighed for at spille mod andre verden over. Alle tjenester undtagen køb af spil i internetbutikken er gratis.
+Den indbyggede webbrowser er svær at betjene med controlleren og ualmindelig langsom i optrækket. Dertil stoppede den ofte op og spurgte, om den måtte køre et såkaldt plugin på websiden, hvilket er små programmer, som de fleste websider bruger for at gøre siderne mere avancerede. Selv om browseren giver mulighed for, at man kan åbne flere websider på en gang, stoppede vores PlayStation 3 op efter blot fem simultane vinduer med beskeden »Ikke nok hukommelse. Luk et vindue«. Undskyld mig, Sony, men med al den påståede maskinkraft og hukommelse i PlayStation 3 er det tragikomisk, at den end ikke kan håndtere fem websider på en gang.

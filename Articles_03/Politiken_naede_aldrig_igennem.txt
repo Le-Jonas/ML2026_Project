@@ -1,0 +1,20 @@
+Title: Politiken_naede_aldrig_igennem
+Date: 2006-04-29
+Article Type: Musik
+Author: Anne Ringgaard
+
+Man kan købe billetter fra klokken 09.30 lørdag 29. april, står der i annoncen. Jeg vil have én, og jeg tror på, at jeg kan købe den på World Wide Web. Hvis bare jeg er klar. 
+Allerede klokken 9.00 sidder jeg foran skærmen inde på redaktionen. Stod tidligt op, mens der stadig var nattekøligt, og cyklede herind, for derhjemme er min bærbare ikke koblet på nettet. 
+Gaderne var øde, som de er lørdag morgen, inden butikkerne åbner. Kun inde hos bageren, var der liv og uden for FONA: På Gammel Kongevej stod mindst 50 mennesker i kø. Nogle havde sovet der, kunne jeg se, for deres soveposer lå stadig på fortovet. Hvem af os er heldige, og hvordan forbereder man sig på kampen om de billetter, der er til salg over nettet? Det overvejer jeg, mens jeg tjekker Billetlugen.dk.
+Møgmaskine
+Jeg lader, som om jeg vil bestille en billet til Zulu Rocks: Øver mig i at gøre det hurtigt og lægger mit Visakort foran mig, så jeg ikke skal lede efter det, når jeg skal oplyse mit kontonummer. Der er ti minutter til, at billetsalget skydes ind, og jeg er klar. 
+Så kommer jeg til at klikke på 'Info' om Madonna-koncerten. Kloden sætter i gang oppe i skærmens højre hjørne, drejer og drejer, mens computeren knager. Klokken bliver 09.28. Billetlugen.dk er gået i stå. 
+Jeg lukker siden for straks at åbne den igen. Windows-kloden roterer hurtigere, synes jeg, men der sker ikke noget. Mit hjerte slår hårdt, jeg er stresset. Møgmaskine. 
+Med den ene hånd logger jeg på min kollegas computer, mens jeg tager telefonrøret med den anden. Jeg ringer 70 263 267: Nummeret til Billetlugen. Dut, dut, dut, hyler røret. Optaget. Og så den tone, som meddeler, at nummeret ikke findes. Samtidig knokler både min computer og min kollegas. 
+Så ringer jeg igen. Igen. Og igen. Hver gang tuder den i mit øre. Mit hjerte galopperer.
+Hvid skærm
+Først klokken 09.39 er der besked fra computeren: »Serveren blev ikke fundet«. Mens jeg begynder at svede, prøver computeren igen. Skærmen lyser hvidt. 
+Tyve minutter senere får jeg at vide, at siden ikke kan vises. Jeg trykker hårdere og slår musen ned i bordet, indtil Billetlugen.dk pludselig dukker op på skærmen. »Tryk for mere info«, står der ud for Madonnas navn. Det gør jeg så. 
+»Warning: mysql_pconnect(): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in /home/billetlugen/www/billetlugen-ny-20050919/classes/db.php on line 110Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)« 
+Sådan lyder computerens besked. Klokken er 10.19. Ifølge annoncen kan man købe billetter i fire timer. Altså over tre timer endnu. 
+En time senere er computeren holdt helt op med at reagere, når jeg giver den besked på at finde Billetlugen.dk. Skærmen er blank. Efter endnu en time får jeg at vide, at der er udsolgt.

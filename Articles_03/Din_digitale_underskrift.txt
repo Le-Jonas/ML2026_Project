@@ -1,0 +1,7 @@
+Title: Din_digitale_underskrift
+Date: 2007-03-28
+Article Type: Digitalt
+Author: Søren Dilling
+
+Den digitale signatur kan bruges til meget.
+Signere og kryptere dine e-mails, give dig adgang til både offentlige og private tjenester fx din kommune eller SKAT, og du kan også bruge den til at underskrive dokumenter og blanketter, mens du er online.

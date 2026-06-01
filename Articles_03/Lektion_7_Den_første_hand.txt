@@ -1,0 +1,8 @@
+Title: Lektion_7_Den_første_hand
+Date: 2006-06-14
+Article Type: Poker
+Author: Nikolaj Lauta
+
+Projektleder / Journalist
+Vi ved nu nok til at prøve at spille en hånd i Texas Holdem. Spillet er Texas Holdem fixed limit $2/$4.
+Vi sidder i positionen lige efter big blind - kaldet under the gun, fordi man skal starte med at melde. Dealeren giver kort. Vi kigger forsigtigt ned på vores to skjulte kort og finder:

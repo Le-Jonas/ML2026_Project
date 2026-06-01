@@ -1,0 +1,7 @@
+Title: Fa_S-togtider_pa_din_mobil
+Date: 2007-06-27
+Article Type: Digitalt
+Author: Søren Dilling
+
+Indtil videre har rejsende skulle bruge kedelige WAP-sider og besværlige SMS-numre for at få den nyeste opdatering på afgang og ankomst af S-toge.
+DSB har nu i samarbejde med det danske firma InnoMo lavet et alternativ, hvor man i stedet for WAP og SMS bruger et java-program til mobilen.

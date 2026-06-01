@@ -1,0 +1,9 @@
+Title: Virus_pa_mobilen
+Date: 2007-03-13
+Article Type: Digitalt
+Author: Søren Dilling
+
+Dana Schmidt
+Prag
+En mobiltelefonvirus spreder sig for eksempel til alle kontakter i ens telefonbog via mms og til alle aktive bluetooth enheder indenfor rækkevidde.
+Derudover kan den for eksempel indstilles til at resette telefonen, således at alt brugergenereret indhold bliver slettet og fabriksindstillinger bliver gendannet.

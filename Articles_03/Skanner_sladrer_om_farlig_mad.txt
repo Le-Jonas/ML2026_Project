@@ -1,0 +1,17 @@
+Title: Skanner_sladrer_om_farlig_mad
+Date: 2006-04-01
+Article Type: Viden og tech
+Author: Henrik Larsen og Bjarne Schilling
+
+Mens den offentlige kødkontrol kritiseres voldsomt, lancerer den lille virksomhed Meat Guard i Kirke Hyllinge nordvest for Roskilde nu et system, der sætter forbrugerne i stand til selv at kontrollere madvarer for sygdomsfremkaldende bakterier. 
+ Der er tale om en pc-baseret løsning, hvor forbrugerne sender testresultater til virksomheden, som umiddelbart efter giver svar på, om det er forsvarligt at spise den pågældende madvare.
+Støtte fra EU
+Bag virksomheden står forskerægteparret Lisbeth Nielsen og László Esterházy, der har fået 1,1 million kroner i støtte fra EU's Fødevareforskningsfond til at udvikle det ny system. 
+ »Vi har taget udgangspunkt i det it-udstyr, der typisk findes i hjemmene. En almindelig skanner til få hundrede kroner er faktisk et fremragende instrument til at afsløre sygdomsfremkaldende bakterier på maden«, siger Lisbeth Nielsen. 
+ »Alle ved, at en skanner bruger synligt lys. Men det lille lysstofrør i skanneren udsender også lys, der ligger lige uden for det synlige spektrum. Lys med den bølgelængde reflekteres af bakteriernes cellemembraner, og når vores computere analyserer skanningsbilledet, kan de derfor 'se' bakteriekolonier, som er usynlige for det menneskelige øje«, tilføjer Lisbeth Nielsen.
+Svar på få sekunder
+Forbrugerne skal blot lægge en skive kød eller pålæg i skanneren og sende billedet fra deres computer til firmaets analyseanlæg, hvorefter de får svar på få sekunder. 
+ »Det er et glimrende system, både fordi det er så præcist, og fordi det er så enkelt at bruge«, siger fødevareeksperten, cand.brom. og ph.d. Orla Zinck, som har været EU's observatør på projektet. 
+ »Jeg vil ikke lægge skjul på, at jeg har været meget skeptisk undervejs, og der er ingen tvivl om, at systemet kræver videreudvikling, men foreløbig ser det bestemt ud til, at EU-pengene er givet rigtig godt ud«, siger Orla Zinck. 
+ Meat Guards system tilbydes nu de danske forbrugere, og det spås også gode chancer på eksportmarkederne.
+Tjek dine madvarer hos Meat Guard

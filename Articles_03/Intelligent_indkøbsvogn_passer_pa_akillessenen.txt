@@ -1,0 +1,12 @@
+Title: Intelligent_indkøbsvogn_passer_pa_akillessenen
+Date: 2006-08-20
+Article Type: Viden og tech
+Author: Kenneth Lund
+
+Den ser ud, som indkøbsvogne er flest; en stor kasse af stålgitre på fire små hjul. 
+Eneste forskel er en lille motor og en række sensorer, der holder øje med vognens ejermand. 
+Indkøbsvognen er selvkørende, og sensorerne sikrer, at den hele tiden kører i passende afstand til den handlende.
+God ved akillessenen
+Og så er den god mod folks akillessener. Opfinderen Gregory Garcia, forklarer: 
+»Idéen stammer fra alle de gange, min søster kørte ind i mig med indkøbsvognen, da vi var små. Jeg går ud fra, at alle virkelig vil få brug for min opfindelse, da alle går på indkøb«, siger han. 
+Opfindelsen har fået navnet B.O.S.S (Battery Operated Smart Servant) og var en af 30 robotter, der sidste uge blev vist frem på University of Florida.

@@ -1,0 +1,6 @@
+Title: Triax_DVB_T220
+Date: 2007-05-20
+Article Type: Bolig og haven
+Author: En relativt simpel settopboks, som producenten burde kunne indstille til at bruge mindre strøm i standby-tilstand.
+
+Boksen bruger 7 watt, når den ikke er i brug. Elsparefonden anbefaler, at en boks af denne simple type max bruger 1 watt, når den er på standby.

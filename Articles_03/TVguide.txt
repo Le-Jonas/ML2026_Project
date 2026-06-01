@@ -1,0 +1,5 @@
+Title: TVguide
+Date: 2007-05-16
+Article Type: Bolig og haven
+Author: Man kan kun vælge otte personlige tv-kanaler, og det underminerer værdien af alle tv-guidens søge- og filtreringsfunktioner. Man kan heller ikke vælge tidspunkt i sin sortering, og fritekst-søgning inkluderer alle kanaler - ikke kun dem, man har valgt.
+

@@ -1,0 +1,8 @@
+Title: Robotter_snyder_pokerspillere
+Date: 2006-07-20
+Article Type: Poker
+Author: Man aner som regel ikke, hvem man spiller mod, når man sætter sig til computeren for et slag netpoker. 
+Nu advarer eksperter ifølge svensk P1 mod pokerrobotter, der spiller skjorten af folk. Den iskolde modstander, der gennemskuer ens bluff, er muligvis slet ikke et menneske, men et dataprogram, der ved hjælp af lynhurtig sandsynlighedsregning og overmenneskelig hukommelse udspiller de fleste. 
+Ifølge Fredrik Niemelä, svensk forsker i kunstig intelligens fra Stockholms Tekniske Højskole, er det ikke særlig svært at fremstille en god pokerrobot. 
+Netpoker bliver stadig mere populært. Man regner i dag med, at der totalt er over 60 milliarder kroner i puljerne hos internettets mange spiludbydere.
+

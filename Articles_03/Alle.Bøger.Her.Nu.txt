@@ -1,0 +1,7 @@
+Title: Alle.Bøger.Her.Nu
+Date: 2007-02-24
+Article Type: Bøger
+Author: Joel Goodstein
+
+Hvert et ord. Hver en sætning. Hver en side. Hver en bog. Det hele skal med.
+Navnet er Google Book Search, og du skal kunne søge i indholdet af bøger på samme måde, som du bruger Google til at søge efter indholdet af hjemmesider.

@@ -1,0 +1,15 @@
+Title: To_sma_pakninger_stoppede_Vædderen
+Date: 2006-08-16
+Article Type: Danmark
+Author: Da teknisk officer Paul Georg Paulsen og skibsingeniør Preben Thuren Larsen mandag aften fik åbnet Vædderens skruehoved fandt de en mærkelig fangst: en O-ring, der lå og flød om i hydraulik-olien. 
+Sådan en pakning burde overhovedet ikke være der. Den skulle sidde på sin plads og sørge for, at olien blev inde i systemet. Så da den løse ring blev fundet, var det et godt spor i jagten på problemet med Vædderens skrue. 
+Skruen havde gjort bøvl i flere uger. Når skibet gik for fuld fart kunne de drejelige skrueblade ikke stå for presset fra vandet. De blev presset tilbage mod en neutral stilling. Derfor kunne skibet ikke sejle mere en 70-80 procent af sin normale topfart på 21 knob (38 km/t). 
+Skruen blade bliver drejet af et hydraulisk system, det vil sige et system, der bruger olietryk til at bevæge dele. Sådanne systemer bruges ofte, hvor der skal flyttes virkelig store vægte, for eksempel i de stempler, der styrer en kranarm eller i en skrotpresse. 40 meter langt system
+Yderst i Vædderens skrue sidder et stempel, der bliver skubbet frem og tilbage af olie, der pumpes fra den ene side af stemplet til den anden. Men olien skal lige en tur gennem et 40 meter langt rør inden i skrueakslen og tilbage igen, for at skifte side. Og det var i dette 40 meter lange system, at teknikerne skulle finde den læk, der gjorde, at trykket faldt, så skruebladene ikke kunne holdes oppe mod vandtrykket. 
+Derfor var det lidt at et held, at O-ringen havde bevæget sig ud til skruehovedet. For det første fordi den kunne have lavet skader på systemet. For det andet fordi den gav et klart spor af, hvor fejlen var opstået. 
+»Vi gik i gang med at finde ud af, hvor den stammede fra, og der er kun to af præcis den type O-ringe i systemet. Så det var relativt enkelt at finde«, siger Preben Thuren Larsen. Hurtig at rette
+Fejlen var inderst i det 40 meter lange rør, og det var endnu en gang et held. Det betød,at det ikke blev nødvendigt at trække nogle af de ni meter lange sektioner ud, som røret er delt op i. Skulle man det, ville det være nødvendigt at skære hul i roret for at få dem ud,og så kunne Vædderen have ligget endnu længere i dok. 
+Nu tog det kun få timer fra fejlen var fundet, til den var rettet. 
+»Det er en ganske sjælden type fejl. Jeg har ikke oplevet det før«, siger skibsingeniør Preben Thuren Larsen. Gammelt problem
+Fejlen har været der i flere uger, men i starten troede man, det var et elektrisk problem, der kunne løses uden at gå i dok. Først kort før Galathea 3 ekspeditionen skulle afgå fra København i fredags, blev det klart, at en dokning var nødvendig for at løse problemet.
+

@@ -1,0 +1,8 @@
+Title: Airhockey_via_nettet
+Date: 2006-09-08
+Article Type: Spil
+Author: Thomas Vigild
+
+Peter Suppli Benson
+Det er bevæggrunden bag det internetopkoblede spillebord ’Airhockey Over a Distance’, der er en særegen blanding mellem internetspil og ægte airhockey. Spillet består af et overskåret airhockeybord med påmonteret kamera, mikrofon, tv-skærm og en spændstig blæsebælg.
+Når den ene spiller hamrer pucken af sted, registrerer en computer puckens position og fart og sender informationerne videre gennem internettet, hvorefter en lignende puck bliver kanoneret ud ved modpartens lignende airhockeybord i USA. På den måde kan der spilles airhockey, uden at parterne mødes i virkeligheden, selv om de konstant kan se, høre og håne hinanden på den videoskærm, der sidder i enden af hvert airhockeybord.

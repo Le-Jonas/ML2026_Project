@@ -1,0 +1,7 @@
+Title: Mobilspil_til_at_finde_børn_med
+Date: 2007-05-22
+Article Type: Spil
+Author: Thomas Vigild
+
+’Lost & Found’ er et mobilspil, der bruger GPS og kortteknologi i mobiltelefoner.
+Meningen er, at brugerne kan tilmelde sig tjenesten og dermed få beskeder med billeder, hvis et barn forsvinder i deres område. Ser man derefter et barn, der kan minde om den efterlyste, kan brugerne tage et billede, der sender besked tilbage til myndighederne om, at barnet kunne være i området.

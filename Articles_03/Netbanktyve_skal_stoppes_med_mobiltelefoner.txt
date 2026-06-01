@@ -1,0 +1,6 @@
+Title: Netbanktyve_skal_stoppes_med_mobiltelefoner
+Date: 2007-04-13
+Article Type: Økonomi
+Author: Efter de seneste måneders bølge af it-angreb vil Nordea gøre livet svært for netbanktyve ved at bruge kundernes mobiltelefoner.
+
+Opdager banken mistænkelige bevægelser på en kundes netbank, sendes en sms med det samme.

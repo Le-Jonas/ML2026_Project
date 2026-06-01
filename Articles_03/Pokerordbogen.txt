@@ -1,0 +1,6 @@
+Title: Pokerordbogen
+Date: 2006-06-14
+Article Type: Poker
+Author: Add-on - Nogle turneringer giver, på et forudbestemt tidspunkt, spillerne mulighed for at købe yderligere chips, kaldet et add-on. Add-on adskiller sig fra rebuy, idet alle tilbageværende spillere i turneringen normalvis har mulighed for et add-on. Add-on markerer normalvis afslutningen på rebuy perioden.
+
+All-in - Når en spiller satser alle sine chips i en pot er han all-in. Det er ikke muligt for en all-in spiller at vinde mere fra nogen spiller end han selv har satset i potten. Better andre spillere yderligere vil der være en side pot.

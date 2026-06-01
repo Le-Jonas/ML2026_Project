@@ -1,0 +1,9 @@
+Title: Puslespil_for_pyromaner
+Date: 2007-05-11
+Article Type: Spilanmeldelser
+Author: Felix Drott
+
+Play with Fire’ er et pragteksempel på, hvordan små, uafhængige spil kan spinde enorm variation og langtidsholdbarhed ud af en helt simpelt idé. 
+Man styrer en ildkugle rundt på et spilbræt blandt kasser i forskellige materialer, for eksempel træ, sten eller plastik. Hver gang man rører ved en kasse, hvis brændpunkt er lavere end kuglens temperatur, antændes den, og løbeilden breder sig til alle blokke omkring den, også til mere ildfast materiale. 
+Rører man ved dem, stiger kuglens temperatur, og jo varmere man bliver, desto højere kan man hoppe, og desto flere slags materiale kan man smelte eller brænde. Målet er at nå hen til en bestemt kasse markeret med en målskive. Tit er den placeret på toppen af et tårn, som man må bestige, mens støttepillerne under én står i flammer. 
+Sværhedsgraden spænder fra det helt ligetil, hvor fornøjelsen ene og alene ligger i brandstiftelse og pointoptjening, til djævelske hovedbrud, man må prøve igen og igen for at udvikle den rette strategi. Udfordringerne antager vidt forskellig karakter alt efter banens design, og når de mere end 100 baner først er overstået, kan man designe sine egne med et medfølgende program.

@@ -1,0 +1,23 @@
+Title: Satellitbilleder_skaber_overblik
+Date: 2006-10-10
+Article Type: Viden og tech
+Author: Jeanette Ringkøbing
+
+15 grader syd for Ækvator
+I 'Vædderens' hangar står en stor beholder. Den brøler konstant som en kaffemaskine, der trænger til en gevaldig afkalkning. 
+Men beholderen, en såkaldt equilibrator, har det helt fint. Og det skulle den gerne blive ved med, for på hele ekspeditionens rute er det dens daglige job at pumpe havvand ind og måle gaskoncentrationen af co2. Desuden måler den også co2-koncentrationen i luften.
+Satellitmålinger
+Selv om det sammenlagt bliver til enorme mængder data i løbet af den otte måneders lange ekspedition, vil målingerne kun kunne give et afgrænset billede af forholdene. 
+For at sikre en bredere viden, suppleres målingerne derfor med satellitbilleder. Målingerne sker ved, at en sensor i satellitten opfanger forskellige forhold i havoverfladen. For eksempel kan den måle varmeudstrålingen fra havet og dermed afsløre temperaturen. Den kan også måle vindens hastighed via små krusninger på havoverfladen.
+Satellite Eye
+I øjeblikket er post. doc. Merete Bruun Christiansen fra Risøs vindenergiafdeling med om bord for at holde øje med satellitmålingerne, der sker via det såkaldte Satellite Eye-projekt, som forskningsenheden har sat i værk i anledning af Galathea3. Satellite Eye er et samarbejde mellem blandt andre Risø, Ørsted-DTU og DMI. 
+»Ved at kombinere de øvrige målinger med satellitbilleder, kan vi dække et langt bredere område og derfor få et mere fuldendt billede af udvekslingen af kulstof mellem havet og atmosfæren«, forklarer Merete Bruun Christiansen.
+Drivhuseffekten
+Den proces er vigtig. Jo mere kulstof, havet kan sluge, jo mindre suser op i atmosfæren og bidrager til drivhuseffekten. 
+Hvis koncentrationen af kulstof er mindre i havet end i luften, sluger havet co2. Omvendt afgiver havet co2, hvis koncentrationen er større i havet end i atmosfæren. På hele ruten bliver denne balance målt. 
+»Der findes ligninger, der beskriver udvekslingen af kulstof mellem hav og luft. Vi kender ligningerne, men vi vil meget gerne vide mere om hver enkelt del af ligningen«, forklarer Merete Bruun Christiansen.
+Fra kulstof til ilt
+Hver ligning indeholder såkaldte geofysiske parametre som temperaturen, koncentrationen af salt i havet og mængden af klorofyl. Klorofyl er vigtigt, fordi det er det stof, der gør alger og planter på Jorden i stand til at omdanne kulstof til ilt. 
+»En af de ting, der er særlig interessant ved satellitmålingerne er, at vi temmelig nøjagtigt kan måle vindhastigheden, og den er vigtig, fordi den fortæller hvor hurtigt transporten af kulstof foregår mellem himmel og hav«, forklarer Risø-forskeren. 
+Projektet Satellite Eye har betalt den europæiske rumfartsorganisation ESA for at gøre brug af blandt andet satellitten 'Envisat', der turnerer rundt om jordkloden cirka én gang i timen. Informationerne fra projektet skal også bruges i fremtiden til undervisning af skoleelever og som database for forskere. 
+Jeanette.ringkobing@pol.dk

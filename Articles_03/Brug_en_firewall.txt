@@ -1,0 +1,7 @@
+Title: Brug_en_firewall
+Date: 2007-03-28
+Article Type: Digitalt
+Author: Søren Dilling
+
+En firewall er – som din yderdør – det yderste værn mod ubudne gæster. Den lukker de data ind, som har et lovligt ærinde, mens den holder alt andet ude.
+I praksis er firewall’en oftest et program, der installeres på din computer.

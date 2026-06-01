@@ -1,0 +1,7 @@
+Title: hotwire.com
+Date: 2007-06-01
+Article Type: Artikel
+Author: Søren Dilling
+
+Denne hotelsøgemaskine er ikke et sympatisk bekendtskal.
+Man får ingen samlet pris på sin bestilling. I stedet får man den samlede pris per dag. Og alligevel ikke - for der tillægges ekstra omkostninger som skat og andre udgifter. Disse omkostninger er varierende fra hotel til hotel.

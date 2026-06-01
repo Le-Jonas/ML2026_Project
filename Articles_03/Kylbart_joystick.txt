@@ -1,0 +1,8 @@
+Title: Kylbart_joystick
+Date: 2006-11-02
+Article Type: Spil
+Author: Thomas Vigild
+
+Hans Drachmann
+I al fald hvis man skal tro en ny amerikansk patentansøgning, der ser ’kastbare’ joysticks som fremtiden.
+Joysticket kan klædes ud som en fodbold, en frisbee eller en badebold, der via trådløst netværk forbindes til en spillekonsol. Derudover indeholder joysticket også et accelerometer, der måler fart og nedslagsstyrke, en højdemåler, et stopur og en GPS-sender. En forbundet spillekonsol kan via disse funktioner føre regnskab, hvis spillerne eksempelvis kaster joysticket til hinanden eller ser, hvem der kan kaste længst og hårdest.
