@@ -1,0 +1,9 @@
+Title: Spildata_kan_bruges_til_at_sortere_jobansøgninger
+Date: 2021-04-14
+Article Type: Tech
+Author: Din spillestil bruges til at profilere din personlighed og forudsige din adfærd. Den information kan bruges til mange formål. Der er bare et problem: De rammer forkert, siger forsker.
+
+Jens Bostrup
+Journalist
+Når 12-årige Felix suser gennem landskabet i ’Fortnite’ og taler med sine kammerater undervejs, kan hans data havne hos virksomheder, han aldrig har hørt om. Hans psykologiske profil som spiller bliver kombineret med alt andet, som han foretager sig, såsom hvor han har været fysisk, hvad han ser i fjernsynet, kreditkort (hans fars), hans liv på sociale medier, hvilke hjemmesider han besøger, hvad han køber, hvad han søger på og meget mere.
+Datahøsten, der også er rettet mod børn, dokumenteres i en ny rapport fra ingeniørforeningen IDA og Data Ethics.

@@ -1,0 +1,20 @@
+Title: Ministre_og_topembedsmænd_ramt_af_Facebook-datalæk
+Date: 2021-04-15
+Article Type: Politik
+Author: Partiformænd, ministre og topembedsmænd er blandt 640.000 danskere, hvis Facebook-data er blevet lækket.
+
+Ifølge netmediet Version2 er både danske ministre, topembedsmænd, partiledere, efterretningsfolk, erhvervsledere og it-chefer blandt de over 640.000 danske Facebook-brugere, hvis data er blevet lækket.
+Det skriver netmediet torsdag.
+En lækage af oplysninger fra 533 millioner Facebook-brugere blev kendt i starten af april.
+Det omfatter ifølge Version2 blandt andet telefonnumre, navne, Facebook-id, lokationer og i nogle tilfælde mail-adresser.
+It-sikkerhedsekspert Peter Kruse anslog i starten af april, at det omfattede over 600.000 brugere fra Danmark.
+Han vurderede, at det ikke i sig selv er alvorligt for brugerne, at eksempelvis telefonnumre og adresser er blevet lækket.
+Man skal dog være opmærksom på, at man i den kommende tid kan blive udsat for svindelnumre eksempelvis over sms, lød hans advarsel.
+Oplysningerne er blevet lagt ud på et forum for hackere.
+Version2 har siden undersøgt hvilke danskere, der er ramt. Samtidig har netmediet lavet en database, man selv kan søge i for at se, om ens navn er nævnt i lækket.
+I databasen kan man finde både Venstre-formand Jakob Ellemann-Jensen og Nye Borgerliges partileder, Pernille Vermund.
+Der er også et resultat på miljøminister Lea Wermelin (S).
+Samtidig kan man ifølge Version2 finde topembedsmænd, ansatte i Forsvarets Efterretningstjeneste, direktører og it-chefer for danske virksomheder i lækket.
+Datatilsynet kalder datalækket for ’alvorligt’ og følger sagen tæt.
+»Samarbejdet i EU er skruet sådan sammen, at det er vores irske kolleger, som har ansvaret for den europæiske kontakt til Facebook. Og de er i fuld gang med at undersøge, hvad der er foregået«, skriver kontorchef for Datatilsynets digitale enhed, Anders Aagaard, til Version2.
+ritzau

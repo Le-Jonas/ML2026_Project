@@ -1,0 +1,34 @@
+Title: Datatilsyn_giver_Rigspolitiet_alvorlig_kritik_i_sa
+Date: 2021-07-19
+Article Type: Danmark
+Author: Rigspolitiet får kritik for, at et it-system, der ud fra teledata skulle vise folks placering, har haft fejl.
+
+Datatilsynet udtaler alvorlig kritik af Rigspolitiet i den store sag om fejlagtige teledata.
+Sagen omhandler et it-system, der ud fra masteoplysninger skulle vise, hvor folk har befundet sig på bestemte tidspunkter. De data har blandt andet været brugt i straffesager.
+Men oplysningerne har ikke altid været retvisende.
+Datatilsynet kritiserer Rigspolitiet for, at behandlingen af personoplysningerne ikke altid er sket i overensstemmelse med en række bestemmelser i retshåndhævelsesloven.
+Det fremgår af en afgørelse, der er lagt på Datatilsynets hjemmeside mandag.
+»Samlet set vurderer Datatilsynet, at Rigspolitiet har haft utilstrækkelige processer og arbejdsgange i forbindelse med behandlingen af teledata«.
+»Datatilsynet finder endvidere, at Rigspolitiet ikke har sikret kvaliteten, rigtigheden og integriteten af de leverede teledata, eller har påset den efterfølgende sletning af oplysningerne«, skriver Datatilsynet.
+Sagen kort
+Læs mere om teledata her:
+* Teledata er de oplysninger, som teleselskaberne registrerer om vore mobiltelefoner. Disse oplysninger kan politiet få adgang til via en retskendelse.
+* To mobiltelefoner kommunikerer med hinanden via et system af telemaster. En tændt telefon vil derfor skabe forbindelse til en telemast - ofte den nærmeste.
+* Når telefonen flytter sig til et andet område, vil den etablere forbindelse til en ny mast. Derved kan en telefons færden følges indenfor et tidsrum. Dette kaldes ’historiske teleoplysninger’.
+* Teleselskaberne registrerer også, hvilke enheder der kommunikerer med hinanden, og hvornår det sker.
+På den måde kan man for eksempel se, at telefon A har sendt en sms til telefon B - eller at der er blevet ringet op. Dette kaldes for ’teleoplysninger’.
+* Man kan også se, hvilke telefoner der har skabt forbindelse til en mast. Dermed kan man se, hvilke telefoner der har befundet sig i et område i et givent tidsrum. Det kaldes for ’mastesug’ eller ’udvidede teleoplysninger’.
+* Teledatasagen har afsløret flere faldgruber. Blandt andet har teleselskabernes angivelse af enkelte master været forkert.
+* Derudover har nogle telefoner ikke skabt forbindelse til nærmeste mast, men en mast langt væk.
+* Og endelig har det været et problem, at politiets program, som har behandlet de rådata fra teleselskaberne, har skabt et forvansket billede.
+* Rigspolitiet blev klar over problemet i begyndelsen af 2019, og siden blev andre myndigheder orienteret. Sagen er af justitsminister Nick Hækkerup (S) blevet kaldt en skandale.
+Tilsynet vurderer, at politiet ikke har haft de rigtige tekniske og organisatoriske foranstaltninger for at ’sikre et passende sikkerhedsniveau’.
+Det sker på baggrund af en redegørelse, som Rigspolitiet har lavet.
+Kommunikationen til politikredsene og videre i straffesagskæden om kendte mangler har desuden heller ikke været i orden, mener tilsynet.
+»Dette har, sammenholdt med kredsenes uens praksis for kvalitetskontrol af data og et manglende ledelsesmæssigt fokus på området, medført, at der i flere tilfælde er tilvejebragt ukorrekte personoplysninger, som bruges som bevismidler ved straffesager, skriver tilsynet.
+Tilsynet påbyder samtidig Rigspolitiet at slette nogle personoplysninger, såfremt det ikke allerede er sket.
+Rigspolitiet har seks uger til at efterleve påbuddet. Sker det ikke, kan det straffes med bøder.
+Med afgørelsen afslutter tilsynet sin behandling af sagen. Tilsynet vil dog holde øje med, om Rigspolitiet får gjort det nødvendige til at sikre, at behandlingen fremover er lovlig. Det fremgår af de afsluttende bemærkninger i afgørelsen.
+»Datatilsynet skal dog indskærpe for Rigspolitiet, at tilsynet vil monitorere dette behandlingsområde, og tilsikre at Rigspolitiet får implementeret de fornødne tiltag til, at sikre en lovlig behandling og tilfredsstillende varetagelse af de registreredes rettigheder«, skriver tilsynet.
+Ritzau forsøger at få en kommentar til afgørelsen fra Rigspolitiet.
+ritzau

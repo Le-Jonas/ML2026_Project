@@ -1,0 +1,9 @@
+Title: Vestager_lægger_op_til_et_opgør_med_overvagningsøk
+Date: 2021-06-29
+Article Type: Tech
+Author: Google nyder godt af en lempelig irsk praksis. Men nu vil Vestager skære igennem og sikre databeskyttelsen.
+
+Jens Bostrup
+Journalist
+Margrethe Vestager, EU’s konkurrencekommissær, har åbnet endnu en sag mod Google. Men det er ifølge Vestager ikke blot endnu en sag i rækken. Denne gang går direkte efter annoncesalget, der udgør langt hovedparten af Googles indtjening, som bliver hentet i konkurrence med de traditionelle medier.
+»Digitale annoncer er hjertet i, hvordan Google og udgivere får betaling for deres digitale tjenester«, siger Margrethe Vestager i en pressemeddelelse.

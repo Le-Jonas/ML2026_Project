@@ -1,0 +1,9 @@
+Title: Kunstig_intelligens_favoriserer_unge_hvide_mænd
+Date: 2021-11-16
+Article Type: Viden og tech
+Author: Maskiner, der kan forstå, hvad vi siger og skriver, er kernen i den kunstige intelligens, der skal afgøre, om du har krav på ydelser, fradrag og meget andet.
+
+Jens Bostrup
+Journalist
+Kunstig intelligens forstår bedst – og favoriserer – en af de grupper i samfundet, der i forvejen er bedst kørende: de unge hvide mænd. Dog forstår maskinerne lidt bedre folk med kortere end længere uddannelser. Det viser et nyt dansk forskningsprojekt.
+Det er første gang, de sociale skævheder i maskinernes fatteevne er blevet undersøgt direkte. Maskiner, som skal forstå, hvad mennesker siger og skriver, er en hjørnesten i den kunstige intelligens, der vinder frem i sagsbehandlingen både i den offentlige og i den private sektor.

@@ -1,0 +1,17 @@
+Title: Oppositionen_i_Polen_Vi_bliver_overvaget_og_aflyt
+Date: 2021-12-22
+Article Type: Tech
+Author: Spionagesoftware er fundet i polske regimekritikeres telefoner. Ifølge advokat for at overvåge oppositionen.
+
+Spionage-software, som er udviklet af israelske eksperter, er blevet fundet i regimekritikeres telefoner i Polen. Advokaten Roman Giertych, som har repræsenteret den tidligere premierminister Donald Tusk, siger til avisen Gazeta Wyborcza, at »den demokratiske opposition« bekæmpes med overvågnings- og spionageudstyr. Pegasus-spionageprogrammet er også fundet i en telefon, som tilhører den polske statsadvokat Ewa Wrzosek, der har ført an i kritikken af den polske regerings angreb mod domstolenes uafhængighed i landet.
+En talsmand for den polske sikkerhedstjeneste, Stanislaw Zaryn, vil ikke svare på spørgsmål om, hvorvidt de polske myndigheder er at finde på kundelisten hos NSO Group, som er et privat selskab, der står for at udvikle overvågningssoftware. Selskabet står bag softwaren Pegasus, der kan inficere og overvåge mobiltelefoner, uden at ejeren af telefonen opdager det.
+Softwaren har været i vælten før. Blandt andet hævdede Facebook i 2019, at Pegasus var blevet brugt til at infiltrere selskabets platform WhatsApp for at overvåge indiske aktivister og journalister.
+»Påstande om, at polske tjenester benytter operative metoder i politisk øjemed, er uberettiget«, siger Zaryn.
+Få timer før Zaryn svarede skriftligt på spørgsmål fra nyhedsbureauet AP om sagen, havde anklagemyndigheden bedt om at få udstedt en anholdelsesordre på advokaten Roman Giertych – angiveligt i forbindelse med en efterforskning af økonomisk kriminalitet. Advokaten kalder anklagerne mod ham absurde.
+Den uafhængige polske tv-station TVN afslørede i 2019, at en polsk politiafdeling, som bekæmper økonomisk kriminalitet, havde købt spionsoftware til brug i telefoner for otte millioner dollar (op mod 53 millioner kroner), men det vides ikke fra hvem.
+Pegasus-programmet er tidligere fundet i telefoner, som tilhørte politiske ledere, regimekritikere, menneskerettighedsaktivister, advokater og journalister mange forskellige steder i verden. USA har blacklistet NSO Group, og selskabet er også sagsøgt af Apple.
+NSO Group siger, at Pegasus kun er solgt til lande for at blive brugt til bekæmpelse af terrorisme og kriminalitet.
+ritzau
+fortsæt med at læse
+USA straffer Israel for trojansk computervirus
+Sheik overvågede sin ekskone og britisk advokat med israelsk spionsoftware

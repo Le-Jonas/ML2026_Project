@@ -1,0 +1,18 @@
+Title: Lektor_Vi_er_blevet_bedre_til_at_forudse_epidemie
+Date: 2021-12-03
+Article Type: Sundhed
+Author: Ekspertgruppes estimat om stigende indlæggelsestal er nok højt sat, men skal tages alvorligt, mener lektor Viggo Andreasen.
+
+En ekspertgruppe i matematisk modellering har fredag i et notat estimeret, at antallet af indlagte med coronavirus i de næste uger vil ligge i spændet mellem 550 og 750. De matematiske modelleringer er tidligere kommet under kritik for at ramme markant forbi. Midt i april regnede Statens Serum Institut (SSI), der leder ekspertgruppen, med, at der ville være 870 indlagte. I stedet var der 191 indlagte.
+Men modellerne er blevet bedre i takt med erfaring, fortæller Viggo Andreasen. Han er lektor i matematisk epidemiologi ved Roskilde Universitet og selv tidligere medlem af ekspertgruppen.
+»Vi har haft erfaringer i foråret, at nogle af simuleringerne var meget pessimistiske, i den forstand at de overvurderede epidemiens omfang. Til gengæld har vi her i efteråret set, at modelleringsgruppen har undervurderet, hvor hurtigt epidemien udviklede sig«, siger Viggo Andreasen.
+»Men faktisk har efterårets prognoser fra gruppen været rimelig tæt på udviklingen, når man kigger på hospitalsindlæggelser«.
+Derfor mener han også, at man skal tage estimaterne »rimelig alvorligt«. Man er »afgjort« blevet bedre til at lave modellerne.
+»Får de helt ret, så bliver man nødt til at gå til midler, hvor man er sikker på, at man får bragt smitten ned. 550-750 indlagte er formentlig oppe i den øverste ende af, hvad vores sygehuse kan holde til«, siger Viggo Andreasen.
+Her henviser han til en anden ekspertgruppe, der er nedsat af regeringen, som har vurderet sundhedsvæsenets kapacitet. Den gruppe fremlagde i september anbefalinger til fremtidig håndtering af corona.
+De 550 til 750 indlagte de næste uger mener Viggo Andreasen dog kan være sat for højt.
+»Det, der er nyt i denne udgave, er, at de ikke har taget meget højde for de tiltag, der er blevet lavet med mundbind og coronapas. Så min forventning er, at de vil komme til at skyde lidt for højt af den grund«, siger han.
+Fredag er der 449 patienter indlagt med corona i Danmark.
+Viggo Andreasen forklarer, at ekspertgruppen for matematisk modellerings estimat er baseret på to typer modeller. En model baseret på det enkelte individs risiko for at blive smittet og en model, hvor man statistisk fremskriver epidemiens udvikling baseret på udviklingen indtil nu.
+ritzau
+fortsæt med at læse

@@ -1,0 +1,15 @@
+Title: Facebook_dropper_omstridt_ansigtsgenkendelse
+Date: 2021-11-02
+Article Type: Tech
+Author: En milliard folks ’skabeloner’ til ansigtsgenkendelse bliver slettet, når Facebook dropper omstridt system.
+
+Det sociale medie Facebook vil stoppe med at anvende ansigtsgenkendelse til automatisk at identificere brugere på foto og video.
+Det oplyser selskabet tirsdag.
+Systemet kan automatisk finde frem til Facebook-brugere, som optræder på foto eller video på det sociale medie, og har længe været genstand for debat.
+Flere har udtrykt bekymring for, om deres privatliv er blevet krænket. Der har også været gruppesøgsmål mod systemet.
+Senest til december vil det være rullet tilbage. Det oplyser Facebooks vicepræsident for kunstig intelligens, Jerome Pesenti, i et blogopslag.
+»Myndigheder er stadig i gang med en proces med at skabe klare regler, som fastlægger rammerne for brugen«, skriver Pesenti.
+»Midt i denne fortsatte usikkerhed mener vi, at det er passende at begrænse brugen af ansigtsgenkendelse til enkelte formål«.
+Omkring en tredjedel af Facebooks brugere har slået ansigtsgenkendelse til.
+Med fjernelsen af systemet vil cirka en milliard såkaldte ’skabeloner’ til ansigtsgenkendelse blive slettet. Det oplyser selskabet.
+ritzau

@@ -1,0 +1,15 @@
+Title: Facebooks_moderselskab_anklager_syv_firmaer_for_ov
+Date: 2021-12-16
+Article Type: Tech
+Author: 50.000 personer har været i søgelyset hos syv overvågningsfirmaer på sociale medier som Facebook og Instagram.
+
+I en trusselsrapport offentliggjort torsdag anklager Meta, moderselskabet bag Facebook, syv navngive firmaer for hacking og overvågning af brugere på selskabets platforme. De syv firmaer bliver i rapporten omtalt som en del af en industri, hvor firmaer hyres af kunder til at overvåge og hacke personer på internettet. De bliver kaldt »cyberlejesvende«.
+50.000 personer har været i firmaernes søgelys og kommer fra over 100 lande. Det er alt fra journalister, dissidenter, kritikere af autoritære regimer og menneskerettighedsaktivister. Overvågningen er sket på både Facebook, Instagram og WhatsApp, der alle er sociale medier under Meta. 1.500 primært falske brugere på de sociale medier er blevet suspenderet, da de var styret af de syv firmaer.
+En af de syv er det omstridte israelske selskab NSO Group. I november sagsøgte Apple selskabet for påstået overvågning af Apple-brugere. Meta har ligeledes sagsøgt selskabet. Også et andet israelsk firma, Black Cube, er under anklage af Meta. Black Cube har tidligere været i vælten, da det kom frem, at firmaet havde spioneret på vegne af filmproducer Harvey Weinstein. Det skete målrettet mod kvinder, der anklagede Weinstein for seksuelle overgreb. Han er nu dømt og sidder i fængsel for blandt andet voldtægt.
+Ifølge Meta har Black Cube brugt falske profiler til at chatte med personer og få deres e-mails, som formentlig skulle bruges til phishing-angreb. Det er en form for it-kriminalitet, hvor man forsøger at franarre en person private oplysninger. Black Cube har udtalt i en meddelelse efter anklagen, at firmaet »ikke foretager phishing eller hacking«. Firmaet sikrer løbende, at »alle agenters aktiviteter sker i henhold til lokale love«. Blandt de andre anklagede firmaer i rapporten er endnu et israelsk firma samt et indisk og et kinesisk.
+Ifølge Nathaniel Gleicher, Meta’s chef for sikkerhedspolitik, ønsker man at signalere, at »overvågningsindustrien er meget større end blot ét firma« ved at udgive rapporten. Meta har nu alarmeret de berørte personer for at »hjælpe dem med at styrke deres profiler«.
+ritzau
+fortsæt med at læse
+Rystende læsning i ny bog:
+Weinsteins seksuelle overgreb var en nærmest rutinemæssig rituel gentagelse
+Hun satte lavinen i gang mod Weinstein. Nu sagsøger hun ham og hele hans juridiske tæskehold

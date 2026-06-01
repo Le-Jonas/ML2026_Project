@@ -1,0 +1,21 @@
+Title: Facebook_og_Instagram_er_ramt_af_større_nedbrud
+Date: 2021-10-04
+Article Type: Medier
+Author: Både i Danmark og i udlandet har folk mandag aften problemer med at bruge Facebook, Instagram og Messenger.
+
+Både i Danmark og i udlandet har folk mandag problemer med at bruge Facebook, Instagram WhatsApp og Messenger.
+Facebook er mandag aften ramt af et nedbrud.
+Det skriver det sociale medie på Twitter.
+»Vi er bekendt med, at nogle folk har problemer med at få adgang til Facebook. Vi arbejder på at få det tilbage til det normale«, skriver Facebook og beklager ulejligheden.
+Også Facebooks tekniske direktør, Mike Schroepfer, er ude og undskylde på Twitter.
+»Oprigtig undskyld til alle, der er ramt af nedbruddet. Vi har netværksproblemer og hold arbejder alt, hvad de kan, for at finde fejlen og gendanne hurtigst muligt«, skriver Mike Schroepfer.
+Til avisen The New York Times siger to anonyme medlemmer af Facebooks sikkerhedshold, at det er »usandsynligt«, at der er tale om et hackerangreb.
+Men hvad problemet præcis er, vides stadig ikke.
+Og det er ikke kun Facebook, der er ramt. Også Instagram og beskedtjenesterne Messenger og WhatsApp, som er ejet af Facebook, er berørt af nedbruddet.
+En fejlmeddelelse på it-gigantens hjemmeside kunne tyde på, at der er tale om en fejl i det såkaldte DNS-system, skriver nyhedsbureauet Reuters.
+Det er det system, der tillader adresser på internettet at sende brugerne til den side, de vil til.
+Sikkerhedseksperter siger ifølge Reuters, at det tyder på, at der er tale om en intern fejl. Det anses for mindre sandsynligt, at der er tale om et hackerangreb.
+På hjemmesiden downdetector.com, hvor folk kan oplyse, hvis de har problemer med at få adgang til diverse hjemmesider, ser problemerne ud til at være opstået omkring klokken 17.30 mandag.
+Omkring en time senere havde over 126.000 gjort opmærksomme på, at de ikke kan komme ind på Facebook. Ser man alene på indberetninger fra folk i Danmark, var der kommet over 5800.
+I løbet af mandag aften kom der meldinger om, at et noget mindre antal brugere også havde problemer med mange andre hjemmesider, herunder Google, Amazon og TikTok.
+ritzau

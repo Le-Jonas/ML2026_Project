@@ -1,0 +1,13 @@
+Title: Nu_støder_din_cykel_ind_i_vintermuren_-_politiken
+Date: 2021-10-01
+Article Type: Viden
+Author: Hvis du har en fornemmelse af, at din cykel ikke kører helt så hurtigt, som den plejer, i vinterhalvåret, er den god nok. Her er den videnskabelige forklaring på den bremsende vintereffekt.
+
+Som abonnent kan du ubegrænset dele artikler med dine venner og familie. Læs mere om fordelene ved et abonnement
+her
+.
+En faktor, der ikke er til at komme uden om, er luftmodstanden, der øges i takt med, at temperaturen falder, fortæller seniorforsker Henrik Vedel fra DMI, der hver dag cykler 45 kilometer til og fra arbejde og kører lange ture på racercykel i fritiden.
+»Når temperaturen falder fra 20 grader på en sommerdag til 0 grader på en vinterdag, stiger luftmodstanden betragteligt, fordi luften fortættes. Det vil sige, at der i kulden vil være en mindre afstand mellem molekylerne i luften, og det betyder, at cykel og cykelrytter vil blive ramt af flere luftmolekyler om vinteren end om sommeren. Den større massefylde af vinterluften sammenlignet med sommerluften betyder, at man som rytter skal skubbe en større vægt af luft til side, når man cykler om vinteren, og det sænker farten«, forklarer Henrik Vedel.
+Henrik Vedel, seniorforsker fra DMI, cykler hver dag 45 kilometer til og fra arbejde og kører lange ture på racercykel i fritiden. På cykelbilledet er Henrik Vedel i gang med at teste læ-effekten på Værløse flyveplads med tre andre cykelryttere. Seniorforskeren er forrest.
+For formelryttere kan man udtrykke det med, at massefylden (ρ) af den atmosfæriske luft afhænger at de tre meteorologiske variable tryk (p), temperatur (T, i kelvin) og luftfugtighed (q), og sammenhængen mellem de tre variable er beskrevet i tilstandsligningen for atmosfærisk luft, hvor Rd står for en konstant for helt tør luft:
+Allerede abonnent? Log ind her

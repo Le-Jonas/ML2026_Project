@@ -1,0 +1,25 @@
+Title: Nationalbanken_blev_ramt_i_verdensomspændende_cybe
+Date: 2021-06-29
+Article Type: Danmark
+Author: Som en del af det kendte SolarWinds-angreb har it-kriminelle haft en bagdør til Nationalbanken i syv måneder.
+
+Hackere havde igennem syv måneder en it-bagdør til Nationalbanken.
+Det skriver mediet Version2 tirsdag.
+Sikkerhedshullet opstod i forbindelse med det verdensomspændende SolarWinds-cyberangreb. Det blev opdaget i december 2020.
+Umiddelbart er der ifølge Version2 intet, der tyder på, at Nationalbanken er berørt dybere end en såkaldt stage 1-kompromittering, som betyder, at hackerne via en kodestump er blevet informeret om, at en bagdør var klar til at blive åbnet for dem.
+Nationalbanken selv kan dog ikke udelukke, at hackere har misbrugt bagdøren til at kompromittere banken yderligere.
+»De relevante systemer blev inddæmmet og analyseret, så snart kompromitteringen af SolarWinds Orion blev kendt«, skriver Nationalbanken i en e-mail til Version2.
+»Der blev grebet konsekvent og hurtigt ind på en tilfredsstillende måde, og ifølge de udførte analyser var der ingen tegn på, at angrebet har haft reelle konsekvenser«.
+SolarWinds-angrebet blev opdaget af sikkerhedsselskabet FireEye i december sidste år og ramte blandt andet dele af USA’s regering, selskaber og myndigheder verden over.
+Det er allerede kendt, at også danske myndigheder og virksomheder har været ramt.
+Blandt andre USA og flere it-sikkerhedseksperter har peget på russiske statshackere som de sandsynlige bagmænd til angrebet. Rusland har dog afvist.
+Uanset hvad hackere har brugt adgangen til, har de haft en enestående mulighed, vurderer Jan Lemnitzer, der er ekstern lektor i it-sikkerhed på CBS, over for Version2.
+»Nationalbanken ligger inde med en masse spændende informationer om Danmark og danske virksomheder. Men vi ved også, at det er et strategisk mål for russerne at destabilisere Vesten«, siger han til mediet.
+En bagdør er et it-sikkerhedshul, der tillader hackere at komme ind i systemer, når de vil.
+I SolarWinds-angrebet havde hackere plantet en skadelig kode i opdateringssoftware fra SolarWinds.
+I alt 18.000 af virksomhedens kunder downloadede i første omgang opdateringen.
+ritzau
+fortsæt med at læse
+En cyberkrig er i gang, men snart kommer Hjemmeværnet!
+Hackerne er blevet hacket:
+USA har generobret millioner i bitcoins fra russisk hackergruppe

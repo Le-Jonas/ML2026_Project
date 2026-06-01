@@ -1,0 +1,8 @@
+Title: Noget_tyder_pa,_at_hackere_er_overraskede_over,_hv
+Date: 2021-05-11
+Article Type: USA
+Author: En relativt ny hackergruppe ved navn DarkSide stod bag cyberangrebet på Colonial Pipeline, der har udstillet sårbarhederne i USA’s kritiske infrastruktur.
+
+David E. Sanger, Clifford Krauss og Nicole Perlroth, The New York Times
+Præsident Joe Biden bebudede mandag, at USA ville »opløse og retsforfølge« den kriminelle hackergruppe DarkSide, som FBI formelt har rettet søgelyset mod efter det ransomware-angreb, der har lammet halvdelen af brændstofforsyningen på USA’s østkyst.
+FBI har udsendt et varsel til elselskaber, olieleverandører og andre firmaer, der benytter sig af rørledninger, om at være på udkig efter den type skadelig kode, der ramte Colonial Pipeline, et privat firma, der styrer den store rørledning, som transporterer benzin, diesel og flybrændstof fra Texas til New York.

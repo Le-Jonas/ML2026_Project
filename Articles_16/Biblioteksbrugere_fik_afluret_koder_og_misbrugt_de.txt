@@ -1,0 +1,18 @@
+Title: Biblioteksbrugere_fik_afluret_koder_og_misbrugt_de
+Date: 2021-10-29
+Article Type: Danmark
+Author: 28-årig tidligere terrordømt er blandt de tiltalte i en af de hidtil største sager om svindel med NemID.
+
+En af de hidtil største sager om svindel med NemID er fredag indledt ved Retten i Aarhus. 9 mænd i 20’erne og 30’erne anklages blandt andet for at have turneret rundt til 26 biblioteker landet over. Her skal de have installeret såkaldte keyloggere på offentligt tilgængelige computere. Det er et program, der registrerer, hvad der skrives på tastaturet.
+På den måde kunne de kriminelle ifølge anklagen aflure brugernavne og koder til intetanende borgeres NemID. Når der blev sendt et nyt nøglekort, stod de kriminelle ifølge anklagen klar ved borgernes hjemadresser til at fiske kortene op fra postkasser. Herefter kunne de købe varer og foretage kontooverførsler fra ofrenes konti.
+De tiltalte anklages for 205 kriminelle gerninger. Samlet set skal der være svindlet – eller forsøgt svindlet – for op mod 45 millioner kroner. Anklagerne mener, at de ni tiltalte udgør en »kriminel organisation med et fast hierarki med en klar koordinering og fordeling af opgaverne«.
+Fakta
+Millionsvindel med NemID
+Kilder: Anklageskriftet, Ritzau.
+En af de tiltalte er en 28-årig mand, der har en terrordom på sit kriminelle cv. I 2014 blev han sammen med sin storebror idømt to års fængsel for at have forsøgt at arrangere træning hos terrororganisationen al-Shabaab i Somalia. Brødrene blev i 2019 igen idømt henholdsvis tre og fem års fængsel – denne gang for databedrageri efter samme fremgangsmåde som i den aktuelle sag. Den 28-årige har således været i gang med at afsone sin tidligere dom, samtidig med at han ifølge det aktuelle anklageskrift har begået ny datakriminalitet. Det skal ifølge DR være sket ved, at han uretmæssigt har skaffet sig adgang til en eller flere mobiltelefoner.
+Enkelte af de tiltalte erkender sig skyldige i dele af anklagen, men de nægter, at de kriminelle handlinger skal være sket i forening som led i en kriminel organisation. To andre mænd på henholdsvis 16 og 21 år blev tidligere på året idømt fængsel i to et halvt år og tre år i samme sagskompleks.
+Lovovertrædelserne var ifølge dommeren »særdeles indgribende over for hver enkelt forurettet og har undergravet tilliden til NemID«. Der er afsat flere end 20 retsdage til sagen, og der ventes dom i begyndelsen af februar næste år.
+ritzau
+fortsæt med at læse
+Millionsvindel med NemID udløser fængselsstraf
+Bankers sjusk med nøglekort åbner for 'ultimativt id-tyveri'

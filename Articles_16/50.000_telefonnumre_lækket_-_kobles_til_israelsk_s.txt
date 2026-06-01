@@ -1,0 +1,21 @@
+Title: 50.000_telefonnumre_lækket_-_kobles_til_israelsk_s
+Date: 2021-07-19
+Article Type: Internationalt
+Author: 50.000 telefonnumre på journalister og aktivister er lækket og sat i forbindelse med et israelsk firma.
+
+En liste med flere end 50.000 telefonnumre er blevet lækket og sat i forbindelse med det israelske selskab NSO Group.
+Det skriver det franske nyhedsbureau AFP.
+På listen fandtes telefonnumre på aktivister, journalister og politikere fra hele verden.
+Blandt andet indeholdt listen telefonnumre på to kvinder, der stod den afdøde saudiarabiske journalist Jamal Khashoggi nær.
+Khashoggi blev dræbt og parteret på Saudi-Arabiens konsulat i Istanbul i 2018.
+USA offentliggjorde i februar en detaljeret rapport fra CIA, hvor den saudiarabiske kronprins anklages for at have beordret eller godkendt drabet.
+På listen var også en mexicansk freelancejournalist, der blev dræbt ved en vaskehal i Mexico.
+Datalækket er blevet dækket af flere internationale medier - herunder den britiske avis The Guardian, amerikanske Washington Post og franske Le Monde.
+Ifølge The Guardian tilhører telefonnumrene ’personer, der er interessante for NSO Groups klientel’.
+Washington Post skriver, at der på listen også var telefonnumre på statsledere og premierministre samt medlemmer af arabiske kongefamilier. Diplomater og forretningsfolk var også at finde på listen.
+Det fremgik imidlertid ikke af listen, hvem der havde tastet hvilke numre ind på den.
+Ifølge AFP var numrene dog især fra landene Aserbajdsjan, Bahrain, Ungarn, Indien, Kasakhstan, Mexico, Marokko, Rwanda, Saudi-Arabien og De Forenede Arabiske Emirater.
+NSO Group er et privat selskab, der står for at udvikle overvågningssoftware. Selskabet står bag softwaren Pegasus, der kan inficere og overvåge mobiltelefoner, uden at ejeren af telefonen opdager det.
+Softwaren har været i vælten før. Blandt andet hævdede Facebook i 2019, at Pegasus var blevet brugt til at infiltrere selskabets platform WhatsApp for at overvåge indiske aktivister og journalister.
+ritzau
+fortsæt med at læse

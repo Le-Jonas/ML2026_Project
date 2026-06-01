@@ -1,0 +1,9 @@
+Title: Derfor_virker_kunstig_intelligens_ikke_Sagsbehand
+Date: 2021-05-04
+Article Type: Tech
+Author: Sagsbehandlere holder bevidst følsomme oplysninger ude af de offentlige systemer. Derfor kan kunstig intelligens ikke forudsige, hvem der bliver langtidsledig, viser ny dansk forskning.
+
+Jens Bostrup
+Journalist
+Folketinget har lagt op til, at der skal bruges kunstig intelligens til at udpege de personer, som har størst risiko for at ende i langtidsledighed og derfor brug for ekstra hjælp. Men den kunstige intelligens hænger overhovedet ikke sammen med det arbejde, der i praksis finder sted på socialkontorerne.
+Det konkluderer et forskningsprojekt, der er gennemført i Gladsaxe Kommune, og som er offentliggjort i PACM HCI, et førende internationalt samarbejde om digitalisering.

@@ -1,0 +1,9 @@
+Title: De_slettede_sms'er_burde_have_været_skrevet_pa_en_
+Date: 2021-10-29
+Article Type: Viden og tech
+Author: Hvis der reelt er tale om et sikkerhedshensyn, skulle Mette Frederiksen og andre ministre have holdt sig væk fra sms-klienten på iPhones. Det mener flere eksperter.
+
+Jonas Bach-Madsen
+Journalist og podcastproducer
+En ting er, at Statsministeriets beskeder er blevet slettet. Men kommunikation mellem ministre bør slet ikke være foregå via iPhones’ indbyggede sms-program, mener flere eksperter i IT-sikkerhed. For sikkerhedsforanstaltningerne er langt mindre end på andre klienter, og det svækker argumentet om, at sletningen er sket på baggrund af en sikkerhedsvurdering.
+»Hvis man havde sikkerhed for øje, brugte man slet ikke Apples sms-klient. Så ud fra en teknisk betragtning hænger det ikke sammen«, siger Peter Kruse, der er stifter af CSIS Group og it-sikkerhedsekspert.

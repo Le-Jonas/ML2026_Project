@@ -1,0 +1,17 @@
+Title: Nyt_kontakttal_beskriver_epidemien_som_stabil._Men
+Date: 2022-01-11
+Article Type: Sundhed
+Author: Ifølge sundhedsminister Magnus Heunicke (S) har Danmark en stabil epidemi i øjeblikket.
+
+Kontakttallet for coronaepidemien er senest beregnet til 1,0, oplyser sundhedsminister Magnus Heunicke (S) på Twitter.
+Kontakttallet er en beregning af, hvordan smitten med coronavirus spreder sig i samfundet. Når kontakttallet er 1,0, svarer det til, at 10 personer med coronavirus i gennemsnit vurderes at smitte ti andre. Med andre ord vil epidemien hverken være tiltagende eller aftagende.
+»Kontakttallet er beregnet til 1,0. Vi har en stabil epidemi, og vores samfundssmitte er ikke fulgt af samme stigning i indlæggelser, heller ikke på intensiv. Et klart signal om, at omikron er mildere, og at revaccination virker«, skriver Heunicke på Twitter.
+Kontakttallet udregnes ved at se på smittetallene for halvanden uge siden. Tallet bruges af myndighederne som et blandt flere pejlemærker til at se, hvordan coronapandemien udvikler sig i samfundet. Tallet kan sige noget om, i hvilken retning pandemien går, men ikke hvor mange smittetilfælde der er.
+I sidste uge blev kontakttallet beregnet til marginalt lavere 0,9. Det tal var dog behæftet med stor usikkerhed, fortalte ministeren i den forbindelse.
+Men det er ikke bare sidste uges kontakttal, der er usikkert, siger Viggo Andreasen, lektor ved Roskilde Universitet med speciale i matematisk epidemiologi.
+»Det kontakttal, som Statens Serum Institut beregner, mener jeg, er forbundet med så stor usikkerhed, at det faktisk er svært at bruge i praksis til at vurdere epidemiens udvikling. Det har at gøre med den måde, man korrigerer for den svingende testaktivitet i landet. Det har været en udfordring, lige siden vi begyndte at teste meget i Danmark«, siger han.
+De svingende testmønstre giver meget usikkerhed om tallet. Det fremgår også, når kontakttallet bliver offentliggjort hver uge. Ideelt set ville man kunne bruge et præcist kontakttal til at finde ud af, om epidemien er i vækst eller aftagende. Og det ville så kunne bruges til at se, om der er det rigtige niveau af restriktioner i landet, fortæller Viggo Andreasen. Han mener dog også, at det ikke giver mening at bruge mere krudt på at få et mere præcist og brugbart kontakttal. Det skyldes, at det er et matematisk abstrakt begreb, der bygger på nogle forudsætninger, der ikke helt holder, siger han.
+ritzau
+fortsæt med at læse
+22.396 coronatilfælde:
+»Det er for tidligt at åbne op for samfundet igen«

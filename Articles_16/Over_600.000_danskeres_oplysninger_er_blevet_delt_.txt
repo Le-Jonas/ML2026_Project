@@ -1,0 +1,20 @@
+Title: Over_600.000_danskeres_oplysninger_er_blevet_delt_
+Date: 2021-04-04
+Article Type: Tech
+Author: Borgere skal være opmærksomme på svindelforsøg over sms, efter at hundredtusindvis af brugeres data er lækket.
+
+Personlige data og telefonnumre tilhørende 533 millioner Facebook-brugere blev lørdag lækket på et onlineforum, og i blandt er over 600.000 brugere fra Danmark, fortæller it-sikkerhedsekspert og medstifter af it-sikkerhedsselskabet CSIS Peter Kruse.
+Ifølge Peter Kruse er det ikke i sig selv alvorligt for brugerne, at eksempelvis telefonnumre og adresser er blevet lækket. Man skal dog være opmærksom på, at man i den kommende tid kan blive udsat for svindelnumre eksempelvis over sms.
+»Det er selvfølgelig ikke oplysninger, man skulle have adgang til. Derfor er min anbefaling, at man er særligt påpasselig i de kommende måneder med ting, der kommer via sms eksempelvis. Der vil helt klart være nogle derude, som tænker, at det her er opportunt for forskellige måder af svindel. Man skal være påpasselig, men ellers er der ikke så meget, man kan gøre«, siger Peter Kruse.
+På siden
+haveibeenpwned.com
+kan man ifølge mediet The Verge allerede tjekke, om ens e-mailadresse er blevet lækket.
+Lækket er oprindeligt fra 2019, hvor hackeren fik fat i oplysningerne som en del af en større lækage. Og nu er oplysningerne så delt online og dermed frit tilgængelige.
+Ifølge Peter Kruse drejer det sig om oplysninger fra en tredjepartsleverandør. Det kan eksempelvis være en populær app på Facebook. Her skal man typisk svare ja til, at appen må bruge en række oplysninger fra ens Facebook-profil, og det er tilsyneladende de oplysninger, hackeren har fået fat i.
+Peter Kruse vurderer, at mulige svindlere kan koble den delte data sammen med Facebook-profiler og dermed få adgang til mere information om brugerne.
+»Adresser og numre er som sådan ikke superkritisk, men i den større sammenhæng kan folk sidde derude og overveje at lave målrettet svindel. Man kan ud over numre og adresser finde hele Facebook-profilen og koble det sammen og målrette svindlen«, siger han.
+Lørdagens Facebook-læk er langt fra det første. Men ifølge Peter Kruse er det denne gang langt mere omfattende. Han mener dog, at Facebook kan frikendes i sagen.
+»Så længe data ligger hos en anden leverandør, kan de ikke gøre så meget. De har været ude at sige, at de har underrettet alle, der har noget at gøre med det, i 2019. Men det er ikke så nemt for folk at ændre nummer og adresse, så det kan stadig misbruges. Men Facebook har egentlig gjort, det de skulle«, siger Peter Kruse.
+ritzau
+fortsæt med at læse
+7,6 millioner brugeres oplysninger lækket fra populært onlinespil

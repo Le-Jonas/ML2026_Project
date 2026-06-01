@@ -1,0 +1,15 @@
+Title: Styrelse_Ny_version_af_coronapas_til_Android_virk
+Date: 2021-12-19
+Article Type: Danmark
+Author: Siden fredag har den nyeste version af coronapas-appen ikke virket. Ny opdatering søndag skal løse problemet.
+
+Har man en smartphone med styresystemet Android, og har man hentet den nyeste opdatering til sin coronapas-app, har det siden fredag sandsynligvis ikke virket.
+En fejl i den seneste version af coronapas-appen har nemlig skabt problemer, men ifølge Sundhedsdatastyrelsen kommer der en ny opdatering søndag aften.
+Den burde løse problemet, skriver styrelsen i en pressemeddelelse.
+»Den fejlramte version af appen hedder version 1.4.4. Vi beklager meget de udfordringer, det har givet. Sundhedsdatastyrelsen og vores leverandør er derfor ved at være klar med en opdatering af appen i Google Play«.
+»Vi forventer, at den kan hentes ned i løbet af i aften, og at det vil løse problemerne, der har været med at bruge coronapas-appen på Android-telefoner«, lyder det.
+Den næste version kommer til at hedde 1.4.5, og det er den, man skal installere for at få appen til at virke igen.
+Hvornår den kommer søndag aften, oplyser styrelsen ikke.
+Indtil opdateringen er ført igennem, anbefaler styrelsen, at man bruger Min Sundhed-appen eller går ind på sundhed.dk.
+ritzau
+fortsæt med at læse

@@ -1,0 +1,9 @@
+Title: Leif_Beck_Fallesen_Pludselig_gik_alt_i_sort_pa_to
+Date: 2021-06-21
+Article Type: Økonomi
+Author: Alle danske virksomheder må bruge flere ressourcer på it-sikkerhed, skriver Leif Beck Fallesen i denne kommentar.
+
+Leif Beck Fallesen
+Erhvervskommentator
+Cybersikkerhed har i erhvervslivet indtil nu først og fremmest været noget, der skabte overskrifter, når det handlede om angreb på store virksomheder som A. P. Møller - Mærsk. Men nu må to små bornholmske hoteller sande, at det i høj grad også er blevet en udfordring for mindre virksomheder, og det er de ikke alene om. Cybersikkerhed bliver mere og mere kritisk for forretningen i alle små virksomheder, ikke kun de største.
+Hotel Friheden og Hotel Pepina blev som andre kunder ramt af et hackerangreb mod leverandøren af deres bookingsystem, den danske it-virksomhed AK Techotel. Virksomheden har oplyst, at den er blevet ramt af et angreb med ransomware, som populært sagt kidnapper data og kan holde dem fanget, indtil der er betalt løsepenge. Systemet er delvis i drift igen, men ifølge virksomhedens hjemmeside var situationen endnu ikke normal i går.

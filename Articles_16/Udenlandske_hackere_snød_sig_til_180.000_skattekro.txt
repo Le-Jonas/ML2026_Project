@@ -1,0 +1,24 @@
+Title: Udenlandske_hackere_snød_sig_til_180.000_skattekro
+Date: 2021-10-13
+Article Type: Danmark
+Author: De seneste 15 måneder har 13 danske kommuner indberettet cyberangreb. Professor efterlyser bedre it-sikkerhed.
+
+Det fik ikke alarmklokkerne til at ringe, da økonomiafdelingen i Høje-Taastrup Kommune 11. august i år modtog en mail med en udenlandsk faktura.
+Fakturaen blev sendt fra en mailkonto tilhørende en institutionsleder i kommunen, der bad om at få dækket coronaudgifter.
+I de følgende dage overførte økonomiafdelingen knap 180.000 kroner fordelt på to udbetalinger til bankkonti i Holland.
+Først ved anmodningen om en tredje udbetaling på knap 200.000 kroner blev en medarbejder mistænksom og standsede udbetalingen.
+Men skaden var sket. Fakturaerne var ikke sendt af en institutionsleder, men af hackere. Det viser en indberetning fra kommunen til Datatilsynet, som DR har fået aktindsigt i.
+Ud over at stjæle kommunale skattekroner havde hackerne fået adgang til oplysninger om et ukendt antal borgere.
+Høje-Taastrup Kommune er én ud af i alt 13 danske kommuner, som de seneste 15 måneder har indberettet cyberangreb til Datatilsynet, hvor hackere er trængt ind.
+Sagerne understreger, at der er behov for bedre it-sikkerhed i kommunerne. Det vurderer professor i cybersikkerhed ved Aalborg Universitet Jens Myrup Pedersen, der har gennemgået indberetningerne for DR.
+»Langt de fleste angreb på kommunerne kunne man have undgået ved helt grundlæggende cyberhygiejne – altså helt basale ting som for eksempel at få styr på, hvordan man logger ind på sine systemer«, siger han til DR.
+Det er lykkedes Høje-Taastrup Kommune at få 80.000 kroner tilbage ud af beløbet på 180.000 kroner, som blev overført til hackerne.
+Borgmester Michael Ziegler (K) kalder hackerangrebet ’en alvorlig sag’.
+Han fortæller, at motivet for angrebet ifølge et eksternt it-sikkerhedsfirma var svindel med falske fakturaer og ikke et forsøg på at tilegne sig persondata.
+Derfor blev det først besluttet ikke at undersøge, hvilke borgeres oplysninger der har været i fare.
+Efterfølgende er kommunen ifølge borgmesteren gået i gang med ’minutiøst at gennemgå alt indhold’ af de tre hackede mailkonti for at få overblik over de kompromitterede oplysninger.
+»Man kan jo altid her i bagklogskabens ulideligt klare lys sige, at det skulle vi være startet på endnu før«, siger Michael Ziegler til DR.
+Han tilføjer, at han er ked af det på vegne af de borgere, der er berørt.
+ritzau
+fortsæt med at læse
+Hackere leverer formue i stjålet kryptovaluta tilbage

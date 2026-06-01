@@ -1,0 +1,15 @@
+Title: 9000_sarbare_midtjyder_modtog_ikke_vaccineinvitati
+Date: 2021-03-19
+Article Type: Danmark
+Author: Vaccineinvitationer er aldrig kommet frem i en tilsyneladende kombination af to tekniske fejl i cpr-nummer.
+
+9000 patienter i risikogruppen i Region Midtjylland har ikke modtaget en invitation til vaccination, selv om de stod først i køen, skriver Århus Stiftstidende.
+»Det gælder i en eller anden udstrækning også patienter i andre regioner, men det er cirka 9000 borgere i risikogruppe fem - patienter i vores region, der er læst ind på nogle lister til Statens Seruminstitut, men som ikke har modtaget et brev i deres e-Boks«, siger direktør i Region Midtjylland Ole Thomsen.
+Fejlen er sket på baggrund af indregistrering i cpr-numre. Folk, hvis cpr-nummer starter med 0, har ikke modtaget en invitation i e-Boks, hvis der også manglede en bindestreg i indregistreringen.
+Region Midtjylland prøvede allerede i sidste uge at rette op på fejlen, skriver Århus Stiftstidende.
+Da fejlen blev opdaget, blev alle de ikkeinviterede cpr-numre registreret til Statens Serum Institut igen.
+Alligevel var der borgere, der henvendte sig fredag, som stadig ikke havde modtaget en invitation.
+Alene på Aarhus Universitetshospital har flere end 2000 personer aldrig modtaget deres vaccine. Ifølge hospitalet er 26 procent af de cpr-numre, der er indmeldt til vaccinen, ikke indlæst korrekt. Derfor er invitationen aldrig nået frem.
+Statens Serum Institut oplyser til sygehusdirektør på Aarhus Universitetshospital Jørgen Schøler Kristensen, at alle patienter nu skulle være indlæst i systemet.
+ritzau
+fortsæt med at læse

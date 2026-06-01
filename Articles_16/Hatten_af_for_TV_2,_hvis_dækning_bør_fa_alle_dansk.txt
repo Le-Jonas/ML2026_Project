@@ -1,0 +1,10 @@
+Title: Hatten_af_for_TV_2,_hvis_dækning_bør_fa_alle_dansk
+Date: 2021-07-15
+Article Type: Medier
+Author: Danskernes data florerer hos datakøbmænd, ved vi nu fra TV 2’s fine arbejde. Men TV 2 kommer ikke dybt nok og ignorerer – sammen med andre medier – andre lignende vigtige historier om data, skriver Pernille Tranberg i denne uges mediekommentar.
+
+Pernille Tranberg
+I de forløbne uger har TV 2 afsløret, hvordan man kan købe datasæt på danskere, som viser deres præcise lokation over en længere periode. Lokationsdata er persondata som dit navn og adresse og kategoriseres ikke som følsomme, selv om lokation over en periode kan afsløre meget private ting såsom din religion (er du i en kirke), helbred (er du hos kiropraktoren), og om du har en elsker (hvor overnatter du). Se bare denne oplysende
+video
+fra det norske Forbrugerråd om, hvad Google ved om dig bare ved at have din lokation.
+I TV 2’s historie er data indsamlet via en vejrapp (de ved ikke hvilken), hvor brugerne af primært Google Android selv har givet samtykke til, at data kan videresælges i de forretningsbetingelser, som de færreste gider at læse. Datatilsynet undersøger nu, om salg af lokationsdata kan stoppes, men det er sandsynligvis lovligt, da datasættene er solgt af Huq Industries som anonyme. Problemet er, at især lokationsdatasæt er en nem vej til at identificere personerne bag, for hvor opholder de fleste sig typisk mellem midnat og tidlig morgen?

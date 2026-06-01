@@ -1,0 +1,24 @@
+Title: SSI_melder_om_forsinkelser_i_testsvar_og_coronapas
+Date: 2021-06-08
+Article Type: Sundhed
+Author: Tekniske problemer og strømsvigt gør, at nogle må vente lidt længere på testsvar og coronapas tirsdag.
+
+Flere vil tirsdag opleve, at de ikke kan se deres testsvar fra lyntest og PCR-prøver, efter at de er blevet testet for coronavirus.
+Det oplyser Statens Serum Institut (SSI) i en pressemeddelelse.
+Fejlen skyldes tekniske problemer, skriver seruminstituttet - heriblandt et strømsvigt og netværksudfordringer.
+Derfor har det været vanskeligt at indsamle prøvesvar fra hele landet.
+SSI oplyser, problemerne umiddelbart er løst, men da der nu står mange svar i kø for at blive behandlet, vil der desværre stadig gå noget tid, før systemerne er oppe igen.
+»Vi arbejder på at opnå normaldrift igen i løbet af dette døgn«, skriver seruminstituttet.
+Klokken 18.25 skriver seruminstituttet, at der er sket en opgradering af serverkapaciteten, men at der stadig er mange testsvar i kø til behandling, og at der derfor stadig vil være forsinkelser for borgerne.
+SSI beder folk, der har fået et positivt testsvar, om selv at melde det til smitteopsporingen.
+Borgere kan stadig modtage svar fra lyntest direkte fra private testleverandører og se svar på PCR-prøver på appen Min Læge.
+Sundhed.dk skrev tirsdag morgen i en pressemeddelelse, at hjemmesiden skulle opdateres mellem klokken 17.00 og 23.00.
+Hjemmesiden er en af de steder, hvor man kan se sit svar fra en PCR-prøve for coronavirus. Derfor er siden også en af de måder, hvorpå danskerne kan fremvise deres coronapas, når de for eksempel skal på restaurant eller til frisøren.
+»Vi beklager de gener, tirsdagens lukning af sundhed.dk kommer til at give vores brugere, og håber på at få afsluttet arbejdet hurtigst muligt, lød det fra sundhed.dk i meddelelsen.
+De seneste dage har sundhed.dk flere gange været lagt ned af tekniske problemer.
+Tirsdag vil der også blive udført en række fejlretninger, og det er håbet, at både driften og brugeroplevelsen bliver forbedret.
+Problemerne med indsamling af data gav også problemer for SSI’s daglige opdatering af smittetal.
+»På grund af tekniske problemer siden i går er der fortsat en del prøvesvar i kø i systemet. Det betyder, at dagens data er baseret på færre prøvesvar og dermed er underestimeret«, skrev SSI i en pressemeddelelse.
+ritzau
+fortsæt med at læse
+Antallet af indlagte falder til det laveste siden oktober

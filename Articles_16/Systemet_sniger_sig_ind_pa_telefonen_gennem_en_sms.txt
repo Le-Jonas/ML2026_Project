@@ -1,0 +1,9 @@
+Title: Systemet_sniger_sig_ind_pa_telefonen_gennem_en_sms
+Date: 2021-07-19
+Article Type: Tech
+Author: Et spionagesystem, der – fuldstændig – åbner offerets mobil, bliver officielt kun brugt mod kriminelle netværk og terrorister.
+
+Jens Bostrup
+Journalist
+Den mexicanske journalist Cecilio Pineda Birto er et af 55.000 potentielle ofre for spionprogrammet Pegasus. Få timer før han blev dræbt, blev hans udsendelse om korruption i den sydmexicanske region Tierra Caliente offentliggjort på Facebook. Han beskyldte politiet og lokale politikere for at samarbejde med en lokal bandeleder.
+Fire uger før mordet blev Pineda og hans telefonnummer udpeget som overvågningsmål i Pegasus. Systemet, udviklet af israelske NSO Group, sniger sig ind på telefonen gennem en sms, der straks bliver slettet, så ejeren ikke opdager noget. Derefter skaffer Pegasus sig adgang til mikrofon og kamera, som kunden kan tænde og slukke efter behag. Pegasus kan læse mails og beskeder, der ligger på telefonen, også de krypterede, og får adgang til gps, så kunden til enhver tid ved nøjagtig, hvor telefonen – og ofte dens ejermand – befinder sig.

@@ -1,0 +1,27 @@
+Title: Vestas_undersøger_stadig_cyberangreb_Data_er_komp
+Date: 2021-11-22
+Article Type: Virksomheder
+Author: Der er ingen indikationer på, at vindmølleproducents kunder er påvirket af ’cyberhændelse’, oplyser Vestas.
+
+Vestas fortsætter arbejdet med at undersøge, hvad konsekvenserne er af et cyberangreb, som fredag ramte den danske vindmøllegigant.
+Indtil videre tyder undersøgelserne på, at »data er blevet kompromitteret« i Vestas’ interne it-infrastruktur.
+Det oplyser selskabet i en fondsbørsmeddelelse.
+»De foreløbige resultater af selskabets undersøgelser indikerer, at hændelsen har påvirket dele af Vestas’ interne it-infrastruktur, og at data er blevet kompromitteret. Arbejdet og undersøgelserne af situationen er fortsat undervejs«, skriver Vestas.
+Til gengæld er der ikke noget, som indikerer, at det, som Vestas har kaldt en ’cybersikkerhedshændelse’, har påvirket deres kunder og forsyningskæde.
+»Vestas’ produktions-, installations- og serviceteams har været i stand til at fortsætte arbejdet, selv om flere operationelle it-systemer har været lukket ned for en sikkerheds skyld. Vestas er allerede påbegyndt en gradvis og kontrolleret genstart af it-systemer, oplyser selskabet videre«.
+Det var lørdag, at Vestas offentligt oplyste, at det fredag var blevet ramt.
+For at begrænse problemet lukkede selskabet ned for it-systemer på tværs af flere forretningsenheder og lokationer.
+Vestas oplyser, at selskabet siden har samarbejdet med eksterne partnere døgnet rundt for at inddæmme situationen og genetablere it-systemerne.
+Vindmølleproducenten er ikke det eneste selskab i Danmark, som er blevet ramt af cyberangreb af varierende grad inden for de senere år.
+Sidste år blev den store danske servicekoncern ISS udsat for et angreb.
+Tidligere er også containergiganten A.P. Møller-Mærsk og Demant, der laver høreapparater, blevet ramt.
+Regningerne er efterfølgende løbet op i flere hundrede millioner kroner i blandt andet tabt omsætning og genopbygning af systemer.
+Alle tre selskaber er ligesom Vestas store virksomheder, der er noteret på børsen i København. Alle fire er en del af det ledende danske aktieindeks, C25.
+Vestas blev grundlagt i 1945. Dengang producerede det landbrugsudstyr. I 1975 leverede Vestas de første vindmøller, og nu leveres der møller både til lands og vands i hele verden.
+I dag har selskabet tæt på 30.000 ansatte over store dele af verden.
+Sidste år havde selskabet en omsætning på 14,8 milliarder euro. Det svarer til 110,1 milliarder kroner. Det gav et overskud på, hvad der svarer til 6,9 milliarder kroner før skat.
+ritzau
+fortsæt med at læse
+Hackere har udløst 'cyberkatastrofe' i Tyskland
+Voksende cybertrussel skal bekæmpes med deling af viden
+Mærsk-rederi ramt af omfattende hackerangreb

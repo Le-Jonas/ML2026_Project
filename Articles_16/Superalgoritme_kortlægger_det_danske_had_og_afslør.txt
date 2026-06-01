@@ -1,0 +1,11 @@
+Title: Superalgoritme_kortlægger_det_danske_had_og_afslør
+Date: 2021-05-23
+Article Type: Danmark
+Author: Det er lykkedes en digital superalgoritme med hidtil uset præcision at kortlægge hadefulde kommentarer på Facebook. Nu vil holdet bag give algoritmen fri.
+
+Kristian Corfixen
+Politisk reporter
+Mads Hørkilde
+Journalist
+I en hvidpudset villa i det københavnske nordvestkvarter har en astrofysiker og et hold kollegaer skabt det, de kalder den hidtil mest avancerede computeralgoritme, som kan detektere dansksproget had og angreb på sociale medier.
+Nu vil de slippe den løs i kampen mod den aggressive tone.

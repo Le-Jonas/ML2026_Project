@@ -1,0 +1,20 @@
+Title: Microsoft_udfordrer_Apple_med_nyt_styresystem
+Date: 2021-06-24
+Article Type: Tech
+Author: Microsoft gør det med Windows 11 muligt at bruge Android-apps. Det står i kontrast til Apple-forretningsmodel.
+
+Microsoft har for første gang i seks år torsdag præsenteret en ny version af sit styresystem, Windows 11. Microsoft skriver i en pressemeddelelse, at man har taget bestik af, at pc’en har fået en ny rolle for brugerne, der i dag i høj grad bruger smartphones og gerne vil kunne holde sig i kontakt med andre.
+En af de iøjnefaldende ting ved opdateringen er, at Windows nu lader brugerne downloade og bruge apps fra styresystemet Android gennem Microsofts egen appbutik eller andre appbutikker på brugerens computer. Det står i kontrast til konkurrenten Apples forretningsmodel, der bygger på en mere lukket appbutik, hvor brugerne kun kan hente de apps ned, som passer til iOS-styresystemet.
+Fakta
+Windows 11
+Det er nyt i Windows 11:
+Kilder: Microsoft.
+I årevis var Microsoft det populære valg hos computerbrugere, men i løbet af de seneste år er Apple- og Google-software blevet mere populært, imens mobiler i højere grad har overtaget computerens rolle, skriver nyhedsbureauet Reuters.
+Microsofts Windows har 1,3 milliarder brugere, mens Apple har 1,65 milliarder. Alphabet Inc., der ejer Google, har tre milliarder. Microsofts nye tilgang kan anses som et direkte angreb på Apple og Alphabet Inc., skriver Reuters.
+Microsoft vil desuden lade appudviklerne lave deres egne betalingssystemer i de forskellige apps, og Microsoft vil ikke tage noget gebyr. Hos Apple skal appudviklere bruge techgigantens betalingssystem, ligesom Apple tager et gebyr på 30 procent ifølge Reuters. Alphabet Inc. har samme tilgang som Apple i forhold til, at appudviklere skal betale for at kunne bruge betalingssystemerne.
+Under præsentationen torsdag fortalte Microsoft også, at man vil belønne brugere, der skaber indhold. Senest har it-selskabet skåret i den provision, som spilselskaber skal betale, når de sælger et spil gennem appbutikken Microsoft Store. Den er nu på 12 procent.
+ritzau
+fortsæt med at læse
+Stort opkøb:
+Microsoft overtager leverandør til hospitaler
+Microsoft etablerer datacenter i Danmark

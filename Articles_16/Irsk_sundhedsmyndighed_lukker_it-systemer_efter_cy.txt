@@ -1,0 +1,21 @@
+Title: Irsk_sundhedsmyndighed_lukker_it-systemer_efter_cy
+Date: 2021-05-14
+Article Type: Internationalt
+Author: Irlands vaccinationsprogram bliver ikke påvirket af cyberangreb, da det kører på andre systemer.
+
+Den irske sundhedsmyndighed HSE har fredag lukket alle sine it-systemer. Det skal beskytte systemerne, der er blevet udsat for et omfattende cyberangreb.
+Det oplyser HSE på Twitter.
+»Vi har taget de nødvendige forholdsregler og lukker alle vores it-systemer for at beskytte dem fra det her angreb«.
+»Vi undskylder for de gener, det måtte give patienter og offentligheden«, skriver sundhedsmyndigheden.
+Den oplyser, at vaccinationsprogrammet ikke bliver påvirket, da det kører på andre systemer.
+Der er tale om et såkaldt ransomwareangreb. Det indebærer typisk, at computere bliver inficeret med ondsindet software, som bliver downloadet ved at klikke på et link i en e-mail.
+Efter klikket bliver brugere lukket ude af systemet og mødt med et krav om løsepenge for at genoprette computersystemet.
+HSE-chef Paul Reid fortæller til det irske medie RTE, at angrebet er rettet mod centrale servere. Det påvirker derfor ikke udstyr på hospitalerne. Man er endnu ikke blevet mødt med et krav om løsepenge, oplyser han fredag formiddag.
+Angrebet betyder, at et hospital for gravide i hovedstaden, Dublin, aflyser de fleste patientaftaler fredag.
+Paul Reid oplyser til RTE, at patienter ellers som udgangspunkt fortsat skal møde op til deres aftaler på hospitaler.
+ritzau
+fortsæt med at læse
+Bekymring i Det Hvide Hus:
+Over 20.000 virksomheder i USA er blevet ramt af hackerangreb hos Microsoft
+Chokeret medarbejder kunne se, hvordan hackerne tog kontrol og begyndte at forurene vandet
+Hackere har haft frit spil hos to energiselskaber

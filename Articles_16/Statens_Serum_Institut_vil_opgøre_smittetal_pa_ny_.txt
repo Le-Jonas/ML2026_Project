@@ -1,0 +1,17 @@
+Title: Statens_Serum_Institut_vil_opgøre_smittetal_pa_ny_
+Date: 2021-03-18
+Article Type: Sundhed
+Author: Statens Serum Institut gør det muligt at se forskellen på PCR-test og lyntest i deres opgørelse af smittetal.
+
+Statens Serum Institut (SSI) oplyser, at opgørelsesmetoden ændres, så man kan kende forskel på PCR-test og lyntest i opgørelsen over smittede med coronavirus.
+Fremover vil det være muligt at se, hvor mange af de bekræftede smittetilfælde der er fundet via statens PCR-test, og hvor mange der er fundet igennem lyntest ved private udbydere.
+Den nuværende model har fået kritik, fordi det ikke umiddelbart er tydeligt, hvor mange af de testede der egentlig er smittet med coronavirus.
+Ændringen sker for at sikre, at de, der tager en PCR-test, efter at de har fået et positivt svar ved en lyntest, ikke tæller med i smittetallene mere end én gang.
+»Hvis den efterfølgende PCR-test er negativ, bliver det positive testresultat imidlertid ikke annulleret i overvågningen. På den måde kan antallet af positive test blive alt for højt,« siger SSI’s faglige direktør, Tyra Grove Krause, om den nuværende model.
+Indtil nu har man defineret et covid-19-tilfælde som en person, der har fået et positivt testsvar.
+Det gælder uanset, om det positive svar kommer fra en PCR-test eller en antigentest. Denne definition er i tråd med, hvad de internationale sundhedsmyndigheder anbefaler.
+Ifølge SSI vil ændringen træde i kraft inden for »en uges tid«.
+ritzau
+fortsæt med at læse
+SSI erkender og skriver studie om:
+Kan ikke bevise, at folk smitter, når de har meget lidt virus i svælget

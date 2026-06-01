@@ -1,0 +1,9 @@
+Title: Det_er_USA's_vigtigste_olierørledning._Alligevel_v
+Date: 2021-06-11
+Article Type: USA
+Author: Hackere tjente store penge på at lukke Colonial-rørledningen ned. Det viser sig, at de kunne trænge ind i it-systemerne takket være et enkelt gammelt kodeord.
+
+Søren Astrup
+Journalist
+Man tager en olierørledning af national vigtighed. Og beskytter den med et password. Ét eneste password. Ikke flere. Og ikke et, der skal bekræftes gennem såkaldt totrinsbekræftelse, som vi kender det, når vi bruger netbanken og skal godkende det på mobiltelefonens NemID-app.
+Det erkender selskabet bag Colonial-rørledningen, som hackere kunne lukke ned – med lange køer foran tankstationerne og brændstofmangel langs østkysten til følge.

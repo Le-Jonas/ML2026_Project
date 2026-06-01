@@ -1,0 +1,15 @@
+Title: Norsk_mediekoncern_tvinges_i_knæ_efter_hackerangre
+Date: 2021-12-29
+Article Type: Medier
+Author: Amedia har som følge af hackerangreb ikke fået sine mange aviser på gaden. Hackerne kræver løsepenge.
+
+Et hackerangreb har bragt Norges næststørste mediekoncern Amedia i knæ. Onsdag er ingen af selskabets aviser rundt om i Norge kommet på gaden.
+Dataangrebet er gået ud over blandt andet publiceringen af papiraviserne, annoncesalg og håndtering af abonnementer.
+Amedia bekræfter, at hackerne har krævet løsepenge for at låse op for de krypterede data.
+Amedia har cirka 3.500 ansatte. Det udgiver over 100 aviser, lokalaviser og netaviser rundt om i Norge. Selskabet var indtil 2012 kendt som A-pressen, der havde sine rødder i den norske fagbevægelse.
+»Selve angrebet skete ikke natten til i går. Der har været folk inde i vores systemer i flere dage«, siger selskabets koncerndirektør for data og teknologi, Pål Nedregotten, på et pressemøde onsdag.
+»Det er typisk for denne type af angreb«, føjer han til.
+Amedia har meddelt, at det ikke vil gå i dialog med afpresserne. Man vil altså ikke udbetale løsepenge til hackerne.
+Norges største mediekoncern, Schibsted, meddeler, at det har øget sit elektroniske beredskab efter nyheden om, at Amedia har været udsat for det omfattende hackerangreb.
+I Danmark blev Ritzaus Bureau i november 2020 udsat for et tilsvarende angreb, hvor der også blev krævet løsepenge for at åbne op for nyhedsbureauets data. Det lykkedes delvist at stoppe hackerne, men det gav store driftsforstyrrelser det følgende år hos Ritzau.
+ritzau

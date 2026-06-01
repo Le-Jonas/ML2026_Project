@@ -1,0 +1,17 @@
+Title: Hackere_leverer_formue_i_stjalet_kryptovaluta_tilb
+Date: 2021-08-11
+Article Type: Tech
+Author: Bitcoin, ethereum og andre digitale valutaer for en formue er stjålet, men en del er nu blevet leveret tilbage igen.
+
+En gruppe hackere, der står bag et af de største tyverier af kryptovaluta nogensinde, har leveret over en tredjedel af den stjålne, digitale formue tilbage. Hackerne stjal kryptovaluta – heriblandt bitcoin – for 600 millioner dollar i et cyberangreb tirsdag. Det svarer til cirka 3,8 milliarder danske kroner.
+Tyveriet blev begået mod platformen Poly Network, som selv oplyser, at en del af rovet nu er blevet leveret tilbage. Men der mangler stadig store summer i valutaerne ethereum og polygon, som stadig er i tyvenes varetægt, skriver Poly Network på Twitter. Platformen har bedt hackerne sende det hele retur. I modsat fald vil Poly Network gå rettens vej, lyder det.
+Hackerne har udnyttet en svaghed på platformen, oplyser firmaet Chainalysis, der forsøger at spore den digitale valuta. En person, der hævder at være en af hackerne, oplyser, at de gjorde det »for sjov« og for at pege på den svaghed, der lå i platformen, inden andre eventuelt ville udnytte den. Den påståede hacker siger, at det hele tiden var planen, at de værdifulde digitale mønter skulle leveres tilbage igen.
+»Jeg er ikke særligt interesseret i penge«, skriver vedkommende.
+Hackerne er ikke blevet identificeret.
+En direktør for kryptovalutafirmaet Tether oplyser på Twitter, at virksomheden har indefrosset 33 millioner dollar – knap 210 millioner kroner – i forbindelse med hackerangrebet.
+Direktører for andre kryptobørser har fortalt Poly Network, at de også vil forsøge at hjælpe.
+»Selv om du stjæler kryptoaktiver, er det ekstremt svært at hvidvaske dem og udbetale pengene på grund af gennemsigtigheden i blockchain og den udbredte brug af blockchain-analyser fra finansielle institutioner«, siger Tom Robinson, der er medstifter af Elliptic, der er en blockchain-analyseleverandør.
+En blockchain bruges, når man laver en transaktion fra et individ til et andet uden indblanding af en tredjepart.
+ritzau
+fortsæt med at læse
+En cyberkrig er i gang, men snart kommer Hjemmeværnet!

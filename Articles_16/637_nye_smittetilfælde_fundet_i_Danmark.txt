@@ -1,0 +1,24 @@
+Title: 637_nye_smittetilfælde_fundet_i_Danmark
+Date: 2021-03-22
+Article Type: Sundhed
+Author: Antallet af indlagte med coronavirus er steget det seneste døgn, hvilket kan hænge sammen med weekendeffekt.
+
+Der er det seneste døgn registreret 637 nye smittede via PCR-test i Danmark.
+Det oplyser Statens Serum Institut (SSI).
+De nye smittetilfælde er fundet via 148.643 PCR-test. Det giver en positivprocent på 0,43 procent.
+Positivprocenten ligger inden for det spænd på 0,3-0,5, som det har været på i februar og marts.
+Ud over de nye smittetilfælde er der registreret 135 positive lyntest, viser mandagens opgørelse.
+SSI begyndte for to uger siden at inkludere lyntest i sine opgørelser for smittetal.
+Det har vakt kritik blandt eksperter, da lyntest er mere usikre og i sjældne tilfælde kan vise et positivt svar, selv om testpersonen ikke er smittet.
+Da der i øjeblikket bliver foretaget mere end 100.000 lyntest om dagen, kan de falske positive betyde, at antallet af positive bliver kunstigt højt i opgørelserne for smittetal.
+Derfor er SSI ved at ændre på sine opgørelser, så det fremover kun er positive svar fra de mere pålidelige PCR-test, der indgår i smittetallene.
+Hvis man bliver testet positiv i lyntest, er anbefalingen fra Sundhedsstyrelsen, at man efterfølgende får taget en PCR-test for at være sikker på, om man er smittet eller ej.
+På landets sygehuse er antallet af indlagte med coronavirus steget med otte til 192 det seneste døgn.
+Det hører med til historien, at der normalt bliver udskrevet færre patienter i weekenden end i hverdagene.
+Derfor kan antallet af indlagte være lidt højere, end det ville have været på en hverdag.
+Der er derudover registreret to nye dødsfald. Dermed har Danmark samlet haft 2402 dødsfald med coronasmittede det seneste år.
+Vaccinationerne fortsætter med at blive mere udbredt i Danmark.
+Det seneste døgn har 4804 personer fået det første stik med en vaccine mod coronavirus.
+Samlet har 636.664 personer påbegyndt vaccinationen. Det svarer til 10,9 procent af befolkningen.
+316.068 er færdigvaccineret. Det svarer til 5,4 procent af befolkningen.
+ritzau

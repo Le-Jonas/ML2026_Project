@@ -1,0 +1,18 @@
+Title: Google_vinder_stort_slag_om_ophavsret_i_USA's_høje
+Date: 2021-04-06
+Article Type: Tech
+Author: Google overtrådte ikke lov om ophavsret ved at anvende software fra Oracle, har USA’s højesteret afgjort.
+
+USA’s højesteret har mandag afsagt kendelse til fordel for Google i en langvarig strid om selskabets brug af software fra Oracle.
+Det skriver nyhedsbureauet Reuters.
+Seks af de otte dommere mener, at Google ikke overtrådte den amerikanske lovgivning om ophavsret, da selskabet anvendte Oracles Java-software under udviklingen af styresystemet Android uden at betale for det.
+Med mandagens kendelse i højesteretten slipper Google for at skulle aflevere milliarder af dollar i kompensation til Oracle. Selskabet havde ifølge nyhedsbureauet dpa krævet omkring ni milliarder dollar eller næsten 57 milliarder kroner.
+Desuden bliver en tidligere kendelse ved en lavere retsinstans, som gav Oracle medhold, sløjfet.
+»Beslutningen giver juridisk sikkerhed for den næste generation af udviklere«, siger Kent Walker fra Googles ledelse om mandagens afgørelse i højesteretten.
+Oracle mener derimod, at med kendelsen ’er Googles platform med et blevet større og har øget sin markedskraft’.
+»De stjal Java og brugte et årti på retssager, som kun en monopolist er i stand til. Denne adfærd er lige præcis årsag til, at tilsynsmyndigheder overalt i verden og i USA undersøger Googles forretningspraksis«, siger Dorian Daley, der er vicepræsident og chef for juridiske anliggender hos Oracle
+Google købte styresystemet Android i 2005 og lancerede det nogle år senere efter at have videreudviklet det. Android er det mest anvendte styresystem i mobiltelefoner efterfulgt af Apples iOS.
+Retstvisten mellem de to amerikanske it-giganter har stået på siden 2010. Oracle beskyldte Google for at have brugt dele af strukturen og formatet i Java-software til at skabe Android.
+Oracle blev ejer af Java i forbindelse med overtagelsen af selskabet Sun Microsystems i 2010.
+ritzau
+fortsæt med at læse
