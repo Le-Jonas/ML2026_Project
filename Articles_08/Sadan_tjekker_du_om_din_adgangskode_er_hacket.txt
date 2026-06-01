@@ -1,0 +1,7 @@
+Title: Sadan_tjekker_du_om_din_adgangskode_er_hacket
+Date: 2012-06-07
+Article Type: Digitalt
+Author: Søren Dilling
+
+Det sociale karrierenetværk Linkedin oplyser, at mellem seks og syv millioner passwords formentlig er blevet lækket, og opfordrer nu alle brugere til at skifte deres adgangskode
+En hurtig reaktion på lækket og et fiffigt ordspil har nu resulteret i tjenesten leakedin.org, der tjekker, om et indtastet password er blandt de mange lækkede.

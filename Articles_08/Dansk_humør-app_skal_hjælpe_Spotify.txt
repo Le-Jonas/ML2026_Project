@@ -1,0 +1,7 @@
+Title: Dansk_humør-app_skal_hjælpe_Spotify
+Date: 2011-12-01
+Article Type: Digitalt
+Author: Thomas Vigild
+
+For den svenske musik-streamning-tjeneste Spotify er målet ikke blot, at al musik skal kunne streames til alle musikafspillere over hele verden.
+Nu vil de også være en platform for udvikling af egne apps - på flere punkter ligesom mobilstyresystemer som f.eks. Googles Android og Apples iOS.

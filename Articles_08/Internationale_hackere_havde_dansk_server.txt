@@ -1,0 +1,7 @@
+Title: Internationale_hackere_havde_dansk_server
+Date: 2012-03-28
+Article Type: Digitalt
+Author: Søren Dilling
+
+Den danske del af sikkerhedsfirmaet F-Secure har lokaliseret en del af det verdensomspændende hackernetværk, ZeuS, til en dansk IP-adresse.
+En IP-adresse er en computers id-nummer på nettet, og via IP-adressen kan man finde computerens fysiske adresse.

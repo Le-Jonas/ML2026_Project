@@ -1,0 +1,7 @@
+Title: Google_far_Maps_til_at_virke_uden_netforbindelse
+Date: 2012-06-07
+Article Type: Digitalt
+Author: Søren Dilling
+
+De særlige korttjenester blandt andet baseret på open source projektet Open Street Map har længe sammen med Nokias korttjeneste Nokia Maps været den eneste mulighed for at spare på datatrafikken, når man som rejsende i udlandet med en smartphone eller almindelig mobil har villet bruge et kort til at navigere efter.
+Den mest populære korttjeneste Google Maps, har derimod hidtil kun kunnet fungere med enten en wifi eller en mobilnetforbindelse, og den sidste mulighed har sat dyre aftryk på manges mobilregninger.

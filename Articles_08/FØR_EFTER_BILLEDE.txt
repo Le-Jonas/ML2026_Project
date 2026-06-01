@@ -1,0 +1,5 @@
+Title: FØR_EFTER_BILLEDE
+Date: 2011-11-05
+Article Type: Danmark
+Author: Før/efter-billede virker bare ikke. Ingen funktionalitet overhovedet. Den lægger de to fotos under hinanden i stedet med et stort mellemrum.
+

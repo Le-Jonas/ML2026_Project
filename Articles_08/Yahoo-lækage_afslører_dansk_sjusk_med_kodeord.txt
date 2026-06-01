@@ -1,0 +1,6 @@
+Title: Yahoo-lækage_afslører_dansk_sjusk_med_kodeord
+Date: 2012-07-16
+Article Type: Digitalt
+Author: Hackergruppen D33DS Companys hackede sig forleden ind til en Yahoo-server og snuppede mere end 450.000 mailadresser og tilhørende passwords fra brugere over hele verden. Blandt andet også fra mange danskere.
+
+De mange koder blev lagt på en hjemmeside på internettet, hvor alle og enhver kunne gå ind og se dem – og derefter forsøge at logge ind på de blottede mailkonti.

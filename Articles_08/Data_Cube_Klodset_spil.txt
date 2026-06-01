@@ -1,0 +1,8 @@
+Title: Data_Cube_Klodset_spil
+Date: 2011-09-07
+Article Type: Spilanmeldelser
+Author: Thomas Vigild
+
+Steffen Moestrup
+Data Cube er en af den slags applikationer, man enten fanges øjeblikkeligt af og bare må spille igen og igen, eller man trækker på skuldrene og går videre til det næste. Jeg tilhører nok mest den sidste gruppe.
+I spillet præsenteres du for en 3-dimensionel kube, hvor der findes to typer klodser. Dels de gode klodser, der ikke er korrupte og dels de onde klodser, der naturligvis er korrupte. Nu er din opgave at finde frem til de korrupte klodser, markere dem og derved komme videre til næste bane, der indeholder en endnu sværere kube, der skal løses.

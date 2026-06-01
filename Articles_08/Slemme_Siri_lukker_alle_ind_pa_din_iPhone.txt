@@ -1,0 +1,7 @@
+Title: Slemme_Siri_lukker_alle_ind_pa_din_iPhone
+Date: 2011-10-20
+Article Type: Digitalt
+Author: Søren Dilling
+
+Apples iPhoneudviklere er kommet temmelig uheldigt fra start i den måde, de har indstillet sikkerheden i den nye iPhone 4s.
+Talegenkendelsesfunktionen Siri, hvor igennem man med stemmen blandt andet kan sende sms'er og få at vide, hvad der står i ens kalender for de kommende dage og se, hvilke mails, man har fået, står nemlig som standard pivåben, også selv om brugeren har sat en personlig adgangskode på telefonen.

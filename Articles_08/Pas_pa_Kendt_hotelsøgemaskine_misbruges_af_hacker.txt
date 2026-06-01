@@ -1,0 +1,8 @@
+Title: Pas_pa_Kendt_hotelsøgemaskine_misbruges_af_hacker
+Date: 2012-06-04
+Article Type: Sundhed og sygdom
+Author: Sune Højrup Bencke
+
+Journalist
+Får du pludselig en mail i indbakken vedrørende en hotel-reservation, du ikke kender noget til, så vær meget varsom.
+For klikker du på den vedhæftede fil, risikerer du at slippe en trojansk hest løs, der kan inficere din computer og overtage kontrollen.

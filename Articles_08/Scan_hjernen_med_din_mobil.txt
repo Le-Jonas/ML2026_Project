@@ -1,0 +1,7 @@
+Title: Scan_hjernen_med_din_mobil
+Date: 2011-09-19
+Article Type: Digitalt
+Author: Thomas Vigild
+
+Nok har mange i dag deres elektroniske hjerne i deres mobiltelefon, men snart kan vi også se vores biologiske hjerne på selvsamme skærm.
+Danske forskere ved DTU i Lyngby har opfundet et program til Nokia-mobiler, så de kan bruges sammen med de såkaldte EEG headset, der scanner ens hjerne for aktivitet via elektriske impulser.

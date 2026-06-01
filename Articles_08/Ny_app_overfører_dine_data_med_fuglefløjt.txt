@@ -1,0 +1,7 @@
+Title: Ny_app_overfører_dine_data_med_fuglefløjt
+Date: 2012-07-23
+Article Type: Digitalt
+Author: Oliver Bærentsen
+
+Glem links eller de kvadratiske QR-koder. Hvis du i fremtiden skal have data fra en smart phone til en anden, kommer det måske til at foregå ved hjælp af fuglekvidren.
+'Chirp' eller 'kvidr' hedder en ny app udviklet af forskere fra University College London, i den engelske hovedstad. Appen bruger lyd, der minder om fuglekvidren til at overføre data, eksempelvis et foto fra en telefon til en anden.

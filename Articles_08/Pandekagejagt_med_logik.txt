@@ -1,0 +1,7 @@
+Title: Pandekagejagt_med_logik
+Date: 2012-01-02
+Article Type: Spil
+Author: Thomas Vigild
+
+Vi kender alle de klassiske skubbe-puslespil, hvor enten et billede eller en talrække skal bringes i orden ved at rykke frem og tilbage med brikkerne.
+Denne enkle, men velfungerende mekanik overføres lydefrit til ‘Rasmus Klump på pandekagejagt’ og får et ekstra spin. Alle brikkerne er nemlig gennemsigtige med billeder af pandekager, og ved at udskifte baggrundsbilledet (der medfølger 48 af slagsen), får man forskellige gåder i fire sværhedsgrader.

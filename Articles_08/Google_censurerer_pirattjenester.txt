@@ -1,0 +1,32 @@
+Title: Google_censurerer_pirattjenester
+Date: 2011-12-04
+Article Type: Medier
+Author: Jakob Elkjær, medieredaktør
+
+Når du søger på Google, er danskernes foretrukne søgetjeneste flink til at hjælpe til. 
+Skriver man blot 'Peter L', foreslår søgetjenesten en søgning på 'Peter Lundin'. Skriver man derimod 'The Pirate Ba', hjælper Google ikke til ved at foreslå fildelingstjenesten 'The Pirate Bay'. 
+ Google er nemlig i gang med at fjerne alle 'piratrelaterede termer' fra deres såkaldte 'autocomplete'- og 'instant'-tjenester.
+Politisk pres
+Andreas Ekström, der er forfatter til bogen 'Google-koden', understreger, at Google åbner en ladeport for politisk pres. 
+Google skal fremover kunne svare klart på, hvilke etiske begrundelser, der ligger til grund for, hvad de hjælper folk med at finde.
+LÆS OGSÅ
+Antipirater vil lukke for ulovlig musik
+»Hvis jeg søger på Holocaust, er det så rimeligt, at Google hjælper mig frem til hjemmesider, som benægter, at det har fundet sted. Hvis jeg søger på 11. september, skal Google så vise vej til hjemmesider, som hævder, at det var George Bush, som stod bag?«, lyder spørgsmålene fra den svenske journalist og forfatter.
+Protester fra underholdningsindustrien
+Google har indført den nye politik efter protester fra underholdningsindustrien. For eksempel anklagede interesseorganisationen The British Phonographic Industry sidste år Google for at lede kunderne til ulovlige download. 
+Søgte man på Top 20 singler, ledte 17 ud af de første 20 første resultater brugerne til ulovlige download, sagde pladeindustrien.
+LÆS OGSÅ
+Pirate Bay-dom er virkningsløs
+Siden januar i år har Google fjernet en lang række tjenester som 'BitTorrent', 'Megaupload', 'Rapidshare' og 'Mediafire' fra deres instant service. Og i slutningen af november blev The Pirate Bay og flere andre sites føjet til listen.
+Beskytter ophavsretten
+Selv om man stadig kan finde tjenesterne, hvis man gennemfører Google-søgningen, så har den nye politik ført til omtrent en halvering af Google-henvisningerne til de censurerede nøgleord. 
+»Det her er et af mange initiativer, vi sætter i værk for at begrænse krænkelser af ophavsretten. Vi har kigget på det, og har opdaget, at vi kunne gøre det med enkle ændringer«, siger Google-talsmand Mistique Cano til TorrentFreak.com.
+Hvis interesser tjener Google?
+Fildelingstjenesterne har peget på, at Googles initiativ også påvirker lovlig fildeling af gratis værker. De argumenterer med, at Googles søgeresultater bør afspejle brugernes interesser og ikke underholdningsindustriens.
+LÆS OGSÅ
+19-årig fik ransaget hjem i jagten på nettets pirater
+»Det er enkelt. Vores yndlingssøgemonopol udviser mindre omsorg for de tusinder af uafhængige kunstnere, som ønsker at distribuere lovligt gratis indhold, end de gør for den dødsmærkede medieindustri«, siger Jamie King, som er grundlægger af fildelingssitet 'Vodo'.
+En utopi
+Ifølge journalist og forfatter Andreas Ekström er ønsket om 'objektive' søgeresultater en utopi. 
+»Googles rolle er ikke længere at være rebel. Det er en af verdens mægtigste virksomheder. De arbejder under konstant trussel om begrænsende lovgivning og specialafgifter«, siger Andreas Ekström.
+FACEBOOK

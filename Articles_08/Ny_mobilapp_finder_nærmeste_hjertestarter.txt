@@ -1,0 +1,6 @@
+Title: Ny_mobilapp_finder_nærmeste_hjertestarter
+Date: 2012-06-22
+Article Type: Sygdom
+Author: Der hænger adskillige tusinde hjertestartere rundt om i Danmark, og nu er det muligt at finde den nærmeste ved hjælp af mobiltelefonen.
+
+TrygFonden har udviklet en applikation til smartphones - den hedder TrygFonden Hjertestart. App'en kan vise dig vej til de cirka 6400 hjertestartere, som er registreret på hjertestarter.dk, som er en hjemmeside, hvor alle kan registrere deres hjertestartere.

@@ -1,0 +1,7 @@
+Title: NemID_inviterede_selv_hackere_i_banken
+Date: 2012-02-21
+Article Type: Digitalt
+Author: Søren Dilling
+
+Det var DanID, firmaet bag NemID, der selv lancerede den opskrift, som hackerne for lidt over en uge siden havde succes med at anvende til et indbrud hos otte af Danske Banks netbankkunder.
+Indbruddet lænsede kontiene for op imod 700.000 kroner.

@@ -1,0 +1,7 @@
+Title: Irriterende_computervirus_gik_let_hen_over_Danmark
+Date: 2012-07-09
+Article Type: Digitalt
+Author: Andreas Lindqvist
+
+Umiddelbart gik den meget omtalte virus DNSChanger let hen over det danske sommerland.
+Hverken de to største internetudbydere Telia og TDC eller DK Cert og GovCERT, som tilsammen varsler, overvåger og koordinerer om IT-sikkerhed for borgere, virksomheder og den offentlige sektor, har mærket til virussen.

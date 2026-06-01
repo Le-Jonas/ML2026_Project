@@ -1,0 +1,6 @@
+Title: Backend-udvikler
+Date: 2011-12-05
+Article Type: Om Politiken
+Author: Du er den rette, hvis du mestrer Java og har et godt kendskab til JSP (herunder JSTL og JDBC), Tomcat, webservices, Grails og Stripes samt kendskab til Javascript, HTML og HTTP.
+
+Hovedparten af vores udvikling foregår på Escenic – et norsk java-baseret CMS, som vi dog ikke forventer, du kender. Du er i stand til, ud fra projektledernes skitser, at designe flotte og stabile systemer. Vi forestiller os, du har en teknisk uddannelsesbaggrund og minimum 3 års erhvervserfaring.

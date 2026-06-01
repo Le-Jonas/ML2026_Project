@@ -1,0 +1,7 @@
+Title: Personal_information_leaks
+Date: 2011-12-27
+Article Type: Danmark
+Author: Julian Isherwood
+
+Information security procedures at National Job Centres appear to be inadequate, with confidential personal information such as medical journals, personal identity numbers and dole payments often being sent to the wrong recipients, according to Avisen.dk.
+According to the report, the last three months alone have seen job centres in at least five local councils send confidential letters to the wrong people.

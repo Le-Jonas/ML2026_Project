@@ -1,0 +1,34 @@
+Title: Frontalangreb_Her_er_Microsofts_iPad-dræber
+Date: 2012-06-19
+Article Type: Digitalt
+Author: Morten Bay
+
+Microsoft valgte en dejlig solskinseftermiddag i den mere industrielle del af Hollywood, Los Angeles, til at sætte tech-verdenen på den anden ende. På et pressemøde, der var indkaldt med en enkelt arbejdsdags varsel, havde de samlet den amerikanske teknologipresse hos Milk Studios, et kreativt, digitalt designfirma midt blandt de store, gamle studiebygninger.
+Op til eventen var det lykkedes Microsoft at gøre noget, der ellers har ligget dem meget fjernt - nemlig opbygge en hype af nærmest Apple-agtige proportioner. De journalister - fra udelukkende amerikanske medier - der havde fået lov at komme med til eventen, bloggede og tweetede åbent om, hvordan de ville blive fælt skuffede, hvis ikke Microsoft leverede noget stort. Men det gjorde softwaregiganten.
+Navnet er Surface.
+Hvis det lyder bekendt for de af læserne, der følger godt med på teknologifronten, så er det fordi, Microsoft i et stykke tid har haft en teknologi med navnet Surface i sortimentet. Surface har indtil i nat været navnet på en berøringsfølsom skærm, der kunne bygges ind i borde. Men nu er det altså også en tablet.
+Microsoft har rette blikket mod de kritikpunkter, som iPad'en har fået fra de fleste, der endnu ikke er blevet tablet-konvertitter. "Den mangler et keyboard", "Den har ingen USB-port", "Hukommelsen kan ikke udvides" er tre af de sætninger, som har holdt mange fra at købe en iPad.
+Det er disse kritikere, som Microsoft håber at omvende til Surface-brugere. Man kan nemlig skrive direkte på Surface med en magnetisk pen, og Microsoft har designet et omslag til den, Touch Cover, der har et tastatur indbygget.
+USB-porten har Microsoft også husket at inkludere, ligesom Surface kan læse MicroSD-hukommelseskort, så du kan mere end fordoble hukommelsen på den letteste version, hvis du allerede har nogle sådanne liggende. Derudover kan du også sætte Surface direkte til TV'et via en HDMI-port.
+En let og en pro-version
+Den første udgave af Surface, der lander, har Windows RT ombord, som er Microsofts tabletversion af deres næstkommende udgave af deres populære styresystem, Windows 8. Denne første version af Surface vil være baseret på ARM-processorer, som er den samme teknologi, der sidder i f.eks. iPad.
+Tre måneder senere vil Microsoft så lancere en slags pro-version, der egentlig er en reel, touch-skærmbaseret PC. Pro-udgaven hedder sådan, fordi den kører med Windows 8 Pro og ikke den lette RT-version.
+På den vil man altså kunne køre en fuld version af Windows, ikke mindst fordi hardwaren indvendig er den samme som man kender fra moderne, lette laptops. Det indbefatter blandt andet Intels Core-platform, som sidder i laptops lige fra Apple over Dell til HP.
+Den lette RT-version kommer til at have en HD-skærm, men i en pressemeddelelse udsendt kort efter pressemødet gik Microsoft ikke så langt til at kalde det Fuld HD. Det betyder, at RT-versionen af Surface formodentlig kun vil understøtte HD-opløsningen 720p på dens skærm. Et bud på en opløsning kunne derfor være 1280 x 720 pixels. Der er til gengæld Fuld HD på pro-versionen, altså minimum 1920 x 1080 pixels. Begge skærme skulle dog være på 10,6 tommer.
+Man skulle næsten tro, at Microsoft har villet drille Apple. Den lette version af Surface vil nemlig være nøjagtig 0,1 millimeter tyndere end den nye iPad. Til gengæld er der lidt tvivl om vægten.
+Ved pressemødet hed det, at den ville veje 576 gram, hvilket er næsten 100 gram mindre end den nye iPad med 3G. Men ifølge pressemeddelelsen er tallet 676 gram, hvilket faktisk er tungere end iPad. Over de kommende dage vil vi finde ud af, hvilket af de to tal, der er det korrekte.
+Microsoft vil være trendy igen
+Der blev hverken afsløret pris eller lanceringsdato for Surface, hvorfor man så kan undre sig over, at Microsoft valgte at hasteindkalde pressen uden at have alting på plads. Men det skyldes sandsynligvis, at ærkekonkurrenten Google afholder deres udviklerkonference, Google I/O om to uger, hvor de også forventes at komme med en tablet. Tjek.dk er i øvrigt til stede ved denne konference.
+Microsoft-eventen var langt mere trendy og hipt arrangeret, end man kender det fra Microsoft. For eksempel fik alle journalisterne et korti hånden med et tidspunkt, der indikerede, hvad tid de kunne få lov at prøve at få fingrene i Surface - men ingen vidste, hvad det var, før under selve eventen. Både lys og lyd var langt mere cool, end vi kender det fra Microsoft, der i den grad har lært noget om selviscenesættelse fra Apple.
+LÆS OGSÅ
+Her er Apples nyheder - både glæderne og skuffelserne
+Microsofts CEO, Steve Ballmer var selv på scenen for at åbne ballet, hvilket måske var det eneste, der var tilbage af den gamle Microsoft-ånd. Hans løjtnant, Stephen Sinofsky, kom på banen, så snart der skulle nogle reelle detaljer på bordet. Det er ham, de fleste ser som en arvtager, når Ballmer engang går af. Når det sker, vil den sidste del af det originale Microsoft-hold bestående af Ballmer, Paul Allen og så naturligvis Bill Gates, være ude af butikken.
+Dette generationsskifte - og mulige imageløft - begyndte for alvor idag med Microsofts indtræden på tablet-markedet.
+Du kan se Surface
+HER.
+FACEBOOK
+Morten Bay
+fortsæt med at læse
+Apple betaler 350 millioner for at kalde en iPad for en iPad i Kina
+Walkman fylder 40...på en måde
+Ny Android-version gør din nye smartphone blød som smør

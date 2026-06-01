@@ -1,0 +1,13 @@
+Title: Ny_gps-teknologi_overhaler_betalingsringen
+Date: 2011-12-22
+Article Type: Danmark
+Author: Michael Rothenborg
+
+Regeringen bør smide betalingsringen i skraldespanden og sætte alt ind på et system med gps-baserede kørselsafgifter, såkaldt roadpricing. Det mener eksperter i trafikteknologi. 
+»En betalingsring er samfundsøkonomisk spild af tid og penge. Roadpricing kan være fuldt implementeret inden for tre-fem år«, fastslår lektor Harry Lahrmann fra Aalborg Universitet. 
+ Nye målinger fra DTU Transport viser, at satellitdækningen er forbedret så meget, at 97 procent af alle registrerede gps-positioner rammer med en nøjagtighed inden for 30 meter. Samtidig er udfaldene i systemet så få og korte, at man stadig entydigt kan se, hvor bilen har kørt. 
+»Dermed er gps-teknologien præcis nok til roadpricing«, siger DTU’s ekspert på feltet, ph.d.-studerende Martina Zabic.
+Lille boks i bilen
+Rent praktisk vil der blive tale om en lille boks i bilen, der via gps-systemet sender oplysninger om kørslen til Skat. 
+Et forsøg med 500 biler er allerede i gang i Nordjylland.
+Indførelse af roadpricing blev skrinlagt af VK-regeringen, men den forbedrede teknologi får nu de radikale, SF og Enhedslisten til at kræve, at Danmark genoptager og sætter turbo projektet.

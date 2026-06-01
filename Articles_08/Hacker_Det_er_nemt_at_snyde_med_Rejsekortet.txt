@@ -1,0 +1,6 @@
+Title: Hacker_Det_er_nemt_at_snyde_med_Rejsekortet
+Date: 2012-02-17
+Article Type: Digitalt
+Author: Det er ikke kompliceret at bryde gennem sikkerheden på det længe ventede elektroniske billetsystem, Rejsekortet, og lave falske billetter med en mobil og teknisk snilde.
+
+Sådan lyder vurderingen fra en dansk hacker, der har gennemgået Rejsekortets sikkerhed, skriver 24timer.

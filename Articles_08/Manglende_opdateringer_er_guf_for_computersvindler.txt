@@ -1,0 +1,7 @@
+Title: Manglende_opdateringer_er_guf_for_computersvindler
+Date: 2012-02-14
+Article Type: Digitalt
+Author: Jesper Hvass
+
+I sidste uge kom det frem, at det var lykkedes svindlere at hacke otte danskeres computere og siden installere overvågningsprogrammer på dem. Herefter aflurede de i real-time deres NemID-koder og stjal 700.000 kroner
+Bankerne er i øjeblikket i gang med at undersøge, hvordan det var muligt at komme udenom sikkerheden, men en ting er sikker. De otte netbankkunder havde ikke opdateret vigtige programmer på deres computere. Det vil sige, at de havde gamle programversioner med sikkerhedshuller kørende.

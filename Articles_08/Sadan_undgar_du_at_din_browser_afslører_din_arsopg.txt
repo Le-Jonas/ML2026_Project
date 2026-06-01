@@ -1,0 +1,7 @@
+Title: Sadan_undgar_du_at_din_browser_afslører_din_arsopg
+Date: 2012-03-07
+Article Type: Digitalt
+Author: Søren Dilling
+
+På trods af kampagner om korrekt lukning af browsere efter besøg ved hjælp af NemID på offentlige sider og i netbanker, er der tilfælde, hvor intetanende computerbrugere alligevel kommer galt af sted, selv om de følger alle rådene.
+Senest er en læser af sitet version2.dk blevet udsat for, at en årsopgørelse, der var tjekket af en bruger på skat.dk, kunnne ses af den næste bruger, der satte sig til computeren.

@@ -1,0 +1,7 @@
+Title: Dansk_ros_til_Windows_8
+Date: 2011-09-14
+Article Type: Forbrug
+Author: Thomas Vigild
+
+I fremtiden er det ligegyldigt, om du bruger tablet-computere, bærbare eller stationære computere - det bliver et og samme styresystem, der kører på dem alle. Det er ambitionen bag Microsofts næste udgave af Windows nu i 8. version, som firmaet i går præsenterede på en pressekonference i Californien.
+Windows 8 vil kort sagt bygge bro mellem tabletcomputere og bærbare computere. Derfor vil Windows 8 fungere både via Microsofts tablet-computere i en udgave kaldet "Metro" og på bærbare computere, men grundlæggende er styresystemet det samme.

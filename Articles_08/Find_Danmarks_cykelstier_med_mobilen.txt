@@ -1,0 +1,9 @@
+Title: Find_Danmarks_cykelstier_med_mobilen
+Date: 2012-06-07
+Article Type: Ferie i Danmark
+Author: Per Munch
+
+Journalist
+Find de listige cykelveje i Danmark, når du og familien for eksempel skal til den næste campingplads. Se nemt om der er gode stop undervejs med lokal mad, vandland eller slotsruin. Og få samtidig rutens højdekurver og den formodede ankomsttid, målt i forhold til din realistiske cykelhastighed.
+Cyclistic.dk
+hedder Cyklistforbundets nye tilbud til folk, der kan klare sig med to hjul, når de skal på ferie eller ud at opleve i weekenden. Cyclistic findes både i en pc-version og til iPhone og andre smartphones. På mobilen skriver du blot cyclistic.dk - så ryger du automatisk over på mobilversionen.

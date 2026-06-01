@@ -1,0 +1,9 @@
+Title: Dropbox
+Date: 2012-06-18
+Article Type: Bolig og haven
+Author: Michael C. Svendsen
+
+Dropbox udmærker sig ved at være knusende stabil og nem at bruge samt ved at fungere gnidningsløst med en lang række andre programmer, onlinetjenester og apper til smartphones og tabletter. Det er let at give andre brugere adgang til filer, man har lagt i sine mapper. 
+Endelig findes der - ud over klienter til Windows, Mac og Linux - også Dropbox-apper til samtlige mobile platforme på nær Windows Phone; her er dog uofficielle løsninger i omløb. 
+Tjenesten tilbyder 2 gigabyte gratis plads, der dog ret hurtigt kan udvides en smule ved at følge et kort introduktionsforløb - og endnu mere hvis man lokker en håndfuld venner til tjenesten. Herefter bliver det desværre ret hurtigt dyrt; 100 GB koster f.eks. knap 1.500 kroner årligt - seks gange mere end SkyDrive og tre gange mere end Google Drev. 
+Alligevel er Dropbox testens vinder, hvilket skyldes tjenestens stabilitet og store alsidighed. Men skal du bruge stor datakapacitet til f.eks. at tage backup af dine billeder, kan du roligt trække en karakter fra og i stedet give den til SkyDrive eller Google Drev, der på hver sin måde allerede er temmelig gode - og langt billigere.

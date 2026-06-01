@@ -1,0 +1,6 @@
+Title: Andre_computere_kan_stjæle_oplysninger_fra_din_tel
+Date: 2012-04-18
+Article Type: Digitalt
+Author: Er du en af dem, der lige kan finde på at bruge en andens computer til at lade din smartphone op, så skal du være opmærksom.
+
+Når du kobler din iPhone eller Android-mobiltelefon til en computer med for eksempel et USB-kabel, kan computerens software nemlig uden problemer hente dine adgangsoplysninger til apps som for eksempel Facebook, advarer den engelske softwareudvikler Gareth Wright i sin blog.

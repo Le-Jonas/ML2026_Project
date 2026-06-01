@@ -1,0 +1,31 @@
+Title: Aprilsnar_Ny_smartphone-app_aflytter_telefonsamta
+Date: 2012-03-31
+Article Type: Digitalt
+Author: Søren Dilling
+
+Hvis du bruger trådløst headset via din blutooth-forbindelse, når du taler i telefon, eller du bare ikke har fået slukket den, er der risiko for, at samtalen bliver aflyttet og optaget på en anden mobiltelefon.
+Det gør en ny smartphone-app, StreetEar, muligt. Den kan fra i dag hentes til smartphones i både Apples App Store og Googles Play Butik eller Android Market, som den hed tidligere.
+StreetEar er blevet officiel i dag, men på flere blogs på internettet og på sociale medier som Facebook og Twitter diskuteres det – på baggrund af en beta- eller prøveversion, som har været tilgængelig i et stykke tid – hvad formålet med StreetEar i virkeligheden er.
+Det er it-firmaet Blutrue Inc. i Seattle i USA, der står bag den nye app. På hjemmesiden forsøger firmaet da også at lede opmærksomheden væk fra StreetEar's mest kontroversielle egenskaber.
+»Vi har lanceret StreetEar for at give brugerne mulighed for at kunne dele telefonsamtaler mellem flere bluetooth-enheder« fortæller udviklingsdirektør Mark Santold på firmaets hjemmeside.
+LÆS OGSÅ
+»Det lyder tilforladeligt, men det kan simpelthen ikke være lovligt i Danmark«, siger it-advokat og partner Martin von Haller Grønbæk fra det danske advokatfirma Bender von Haller Dragsted.
+Han stiller sig uforstående over for, hvordan den kontroversielle app er blevet godkendt til den danske del af App Store og Android Market.
+»Umiddelbart er det min opfattelse, at det kan sidestilles med at trænge ind i andres it-systemer, og det er klart ulovligt. Desuden er det en krænkelse af brevhemmeligheden. Det er ikke tilladt at aflytte andre«, lyder dommen fra it-advokaten.
+LÆS OGSÅ
+Når StreetEar benytter bluetooth til at forbinde den telefon, der aflyttes, og den telefon, der aflytter, er det ifølge firmaet ikke nødvendigt, at begge smartphones har appen installeret.
+»Vi har udviklet en algoritme, som på få øjeblikke regner sig frem til den godkendelseskode, som forbinder de to bluetooth-enheder, så brugeren af den anden mobiltelefon ikke behøver at godkende forbindelsen manuelt«, fortæller Mark Santold på firmaets hjemmeside.
+Martin von Haller Grønbæk siger, at der er en gråzone mellem, hvad der klart er en ulovlig aflytning og så en overhøring af en samtale. Han mener, at de, der for eksempel fører en højlydt samtale blandt mange mennesker, i nogle tilfælde selv må tage ansvaret for, at andre lytter med.
+»Folk kan godt komme helt op at køre, når der for eksempel er en lille svaghed i en NemID login-funktion til vores netbank, men de samme er helt ligeglade med, at de selv plaprer løs i en mobiltelefon på et lydniveau, hvor ingen andre kan være i tvivl om, hvad telefonsamtalen handler om. Det kan være problematisk i forhold til både forretningshemmeligheder og helt private forhold«, siger han.
+Men det gør det vel ikke lovligt at aflytte en sådan telefonsamtale?
+»Jeg mener helt klart, at man ved nogle højlydte telefonsamtaler i det offentlige rum – svarende til at man lader for eksempel en bluetooth-forbindelse stå åben – implicit giver afkald på den beskyttelse af videregivelse af personlige oplysninger, som man ellers måtte have i lovgivningen eller blot rent moralsk. Uanset om den bliver overhørt eller aflyttet«, siger it-advokaten.
+LÆS OGSÅ
+På Blutrues hjemmeside lyder det da også fra Mark Santold:
+»Det er selvfølgelig vigtigt, at man ikke har sin blutooth-forbindelse stående åben i det offentlige rum, hvis man vil undgå, at uvedkommende lytter med på ens telefonsamtaler. Men bruger man StreetEar sammen med andre og efter aftale, er tjenesten yderst bekvem (convenient)«, skriver han.
+Her finder du StreetEar:
+Til iPhone
+Søren Dilling
+fortsæt med at læse
+Verdens - måske - sjoveste comedyshow får sin egen app
+Udskældt iPhone-app kunne spore intetanende kvinder
+Ny app skal få husejere til at vedligeholde

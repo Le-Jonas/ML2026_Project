@@ -1,0 +1,7 @@
+Title: Otte_netbankkunder_bedraget_via_NemID
+Date: 2011-09-29
+Article Type: Digitalt
+Author: Søren Dilling
+
+Otte netbankkunder i Nordea er blevet franarret penge, selv om de har været beskyttet af sikkerheden i NemID.
+De otte netbankkunder har udleveret ikke alene deres bruger-id og adgangskoder til kriminelle, men sågar numre fra deres nøglekort i den tro, at det var Nordeas Netbank, de kommunikerede med.

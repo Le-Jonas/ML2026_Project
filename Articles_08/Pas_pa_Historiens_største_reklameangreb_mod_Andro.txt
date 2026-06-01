@@ -1,0 +1,7 @@
+Title: Pas_pa_Historiens_største_reklameangreb_mod_Andro
+Date: 2012-01-31
+Article Type: Forbrug
+Author: Thomas Vigild
+
+Med navne som 'Counter Strike Ground Force', 'Sexy Girls Photo Game' og 'Deal & Be Millionaire' lokker nye gratis apps til Android-smartphones med krigsspil, erotik og millionærdrømme, men de er i virkeligheden del af det største samlede angreb på Android-mobilernes sikkerhed til dato.
+Anti-virus-firmaet Symantec slår nu alarm, da de har opdaget 13 apps, der mod brugernes forventning kan sende massive mængder af reklamer ind på telefonerne. Apps som op mod fem millioner brugere har downloadet til deres Android-telefoner. Det er ifølge Symantec det største udbrud af den slags skjulte, ufrivillige reklamer på Android Market til dato.

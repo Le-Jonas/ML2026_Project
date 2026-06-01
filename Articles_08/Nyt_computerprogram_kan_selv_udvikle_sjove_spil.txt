@@ -1,0 +1,7 @@
+Title: Nyt_computerprogram_kan_selv_udvikle_sjove_spil
+Date: 2012-03-13
+Article Type: Forbrug
+Author: Thomas Vigild
+
+Nok er spillene små, simple og ligner en tidskapsel fra 1980´erne. Men spillene udviklet af det britiske computerprogram ANGELINA er også kun første skridt mod en autonom computer, der kan skabe nye spil på egen hånd.
+Og det mest overraskende er, at spillene rent faktisk fungerer.

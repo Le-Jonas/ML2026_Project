@@ -1,0 +1,7 @@
+Title: Sikkerhedsbrist_pa_datingsite_gav_adgang_til_intim
+Date: 2012-06-06
+Article Type: Digitalt
+Author: Søren Dilling
+
+Privat chat på datingportaler og lignende sider på nettet er ikke altid så privat, som brugerne tror.
+I sidste uge blev det afsløret, at Danmarks største datingportal, dating.dk, havde åbnet op for direkte adgang til sine over 660.000 brugeres private samtaler samt deres nøjagtige gps-position, skriver version2.dk

@@ -1,0 +1,36 @@
+Title: Danske_hjemmesider_er_for_langsomme
+Date: 2012-03-19
+Article Type: Digitalt
+Author: Jakob Sorgenfri Kjær
+
+Journalist
+Kunder bliver sure af at vente minutter i supermarkedskøen, men i en webshop slipper tålmodigheden op efter et par sekunder. 
+Derfor finder branchen det bekymrende, at danske netbutikker er de langsomste i Norden. 
+It-analysevirksomheden Compuware har i februar for Politiken sammenlignet hastigheden på de mest populære danske hjemmesider inden for medier, detailhandel og banker med deres nordiske konkurrenter. Og de danske webshopper er Nordens langsomste, idet det i snit tager 3,8 sekunder at downloade informationerne. 
+»De danske e-handels-butikker er 40 procent langsommere end de finske, og det går ud over deres omsætning. Kunderne vil have hurtigere og hurtigere hjemmesider. Vi ved, at de første begynder at forlade en side, når de har ventet i 2 sekunder«, siger Mark Gunn, europæisk marketingdirektør i Compuware.
+Tålmodighed er en last
+Undersøgelsen viser, at det tager 3,8 sekunder at downloade informationer fra en gennemsnitlig dansk hjemmeside, som dermed er 20 procent langsommere end en svensk. Bankernes hjemmesider er 50 procent langsommere end de svenske, mens mediernes sites med et snit på 5,2 sekunder er 22 procent langsommere end de finske.
+LÆS OGSÅ
+Der er flere robotter end mennesker på nettet
+En undersøgelse foretaget i 2009 af Forrester Research viste, at onlinekunder forventer en downloadtid på 2 sekunder, og efter 3 sekunder klikker 7 procent af brugerne utålmodigt videre. Når der er gået 7 sekunder med et ufuldstændigt skærmbillede, er 60-70 procent af kunderne forsvundet, viser Compuwares overvågning. 
+Både Mark Gunn og professor i e-handel Niels Bjørn-Andersen mener, at netsiderne bør have en svartid på 2 sekunder for ikke at skræmme de besøgende væk. 
+»Der er rum for forbedring i den danske e-handel. Det betyder utrolig meget, hvor hurtig en netside er, for konkurrenten er kun ét klik væk. Hvis man har en langsom responstid, går det ud over brugerens oplevelse og skader dermed virksomhedens omsætning og brand«, siger professor Niels Bjørn-Andersen fra Copenhagen Business School.
+LÆS OGSÅ
+Danskerne tror, at it-angreb kun rammer naboen
+Foreningen for Distance- og Internethandel (FDIH) er ked af den lidet flatterende titel som Nordens snegl. 
+»Butikkerne bliver ikke valgt fra på grund af produktet eller prisen, men allerede inden da, fordi forbrugerne har mistet tålmodigheden. 3 sekunder kan føles som 30 sekunder på nettet, og derfor må vi bare sige, at det her skal vi gøre bedre«, siger Annette Falberg, administrerende direktør i FDIH. 
+Af alle de overvågede danske hjemmesider i undersøgelsen klarede B.T.s netavis sig markant dårligst. I snit måtte brugerne således vente 15,3 sekunder i februar på at få nyheder og underholdning gjort tilgængeligt på hjemmesiden. 
+De danske medier på nettet er i snit 5,1 sekunder om at folde informationer ud – kun overgået i sløvhed af de norske.
+Millisekunder gør en forskel
+Foreningen Danske Mediers egne målinger viser, at den gennemsnitlige downloadtid er hurtigere end 5,1 sekunder, men analysechef Allan Sørensen anerkender, at andre landes medier og andre branchesider er hurtigere. 
+»Hastigheden er helt klart noget, der bør blive optimeret, og de store nyhedssites er meget opmærksomme på det. Undersøgelser viser, at hvis en side er bare 250 millisekunder hurtigere end en anden, påvirker det brugernes adfærd«, siger Allan Sørensen.
+LÆS OGSÅ
+Microsoft-svindlere bruger telefonen: Goddag, din pc er i fare
+Mark Gunn fra Compuware forklarer, at den oplevede hastighed på en hjemmeside er påvirket af en række forskellige faktorer fra serveren til brugerens internetforbindelse og -browser. Men han anslår, at virksomhederne selv kan påvirke halvdelen af hastigheden gennem forskellige tiltag. 
+»Der er mange ting, man kan gøre, men det ville være en god start at forstå og jævnligt overvåge kundeoplevelsen. Og så kan man skelne til gamblingindustrien, som er forrest i feltet på nettet, fordi hastighed er essentielt for deres forretning med dynamiske odds og livestreaming af sportsbegivenheder«, siger marketingdirektøren fra Compuware, der verden over hjælper 4.000 virksomheder, heriblandt BBC, Sky og BMW, med at optimere deres hjemmesider.
+LÆS OGSÅ
+Forkert browser-indstilling giver andre adgang til din årsopgørelse
+Hos Danske Medier forklarer Allan Sørensen, at netaviserne generelt set er langsommere end andre hjemmesider, fordi de rummer meget mere indhold, herunder flimrende reklamer. 
+»Der er langt mere indhold, og det kommer fra flere kilder på moderne mediehjemmesider end på en webshop eller en bank. Vi har løbende drøftelser med medierne om, hvor meget annoncerne må fylde, og det handler specifikt om at optimere loadtiderne«, siger Allan Sørensen. 
+Ude i netbutikkerne skærpes fokus i øjeblikket på siderne rettet til smartphones. Mobilshopping voksede nemlig med 300 procent fra tredje til fjerde kvartal i 2011. 
+»Forbrugernes tålmodighedstærskel vil blive endnu lavere med tiden, når endnu flere shopper på mobilen. Man sidder ikke længere foran skærmen med en kop te i hånden, men foretager i stedet sine køb fra toget eller venteværelset. Derfor skal vi være knivskarpe og levere en service på 3 splitsekunder«, siger Annette Falberg fra FDIH.

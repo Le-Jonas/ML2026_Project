@@ -1,0 +1,16 @@
+Title: Vejvisere_leder_uden_om_trafikpropper
+Date: 2011-12-03
+Article Type: Biler
+Author: Allan Graubæk
+
+Journalist
+Før handlede gps-navigation blot at finde vej – nu vil apparatet også gerne fortælle sin bruger noget om, hvad der sker undervejs. I hvert fald hvis det er en gps fra TomTom med den særlige HD Traffic Live-tjeneste indbygget. 
+Den leverer nemlig trafikmeldinger på et meget avanceret niveau, som betyder, at bilisten lettere kan finde en hurtigere omvej – eller indstille sig på, at der bare ikke er noget alternativ til at sidde måske 40 minutter i en motorvejskø. Men så ved bilisten da i det mindste, hvor længe det varer, inden der igen er fri bane.
+Styr på trafikforholdene
+Et populært – eller skulle man sige ’hadet’ – knudepunkt er f.eks. motorvejen ved Roskilde, som i en lang periode har været plaget af vejarbejde. Her holder folk i kø om morgenen og igen om eftermiddagen, men selv det mest avancerede TomTom-apparat kan ikke forskåne bilisten for en forsinkelse. Det er heller ikke sikkert, at apparatet vil foreslå, at man forlader motorvejen og kører ad småvejene i stedet. Apparatet har nemlig styr på trafikforholdene begge steder, forklarer TomToms danske country manager Kennet Juhl: 
+»Apparatet beregner måske, at det vil give dig 40 minutters forsinkelse at blive på motorvejen, men det vil måske tage 45 minutter at køre ad småvejene. Derfor vil rutevejledningen sige, at du skal blive i køen på motorvejen«.
+Detaljerede meldinger
+Alle apparater i TomToms HD Traffic-serie kan nemlig tale sammen og derved give meldinger om trafikkens tæthed. Eller rettere: TomToms computersystemer kan følge de indbyggede sim-kort i alle gps-apparaterne og registrere, om de bevæger sig, holder stille eller kører langsommere end normalt for den pågældende vejstrækning. 
+Det er disse målinger, der ligger til grund for de detaljerede meldinger på gps-skærmen, som kan fortælle bilisten, om han skal blive i køen eller søge en alternativ rute. 
+TomTom lancerede de nye trafikmeldinger i Danmark for et år siden, og apparaterne sidder bl.a. i alle redningskøretøjer fra Dansk Autohjælp og i biler fra Aalborg Kommune. Samt naturligvis hos de privatkunder, der har købt sådan et apparat. TomTom vil ikke sige, hvor mange det drejer sig om, men HD Traffic-apparaterne udgør 30 procent af det samlede gps-salg fra TomTom i Danmark.
+Dækker i udlandet
