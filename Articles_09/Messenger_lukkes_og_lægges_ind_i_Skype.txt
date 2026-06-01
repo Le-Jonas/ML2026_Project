@@ -1,0 +1,7 @@
+Title: Messenger_lukkes_og_lægges_ind_i_Skype
+Date: 2012-11-06
+Article Type: Digitalt
+Author: Søren Dilling
+
+Microsoft arbejder i øjebliket på at lukke for den kendte chattjeneste Windows Live Messenger og i stedet integrere den i telefontjenesten Skype.
+Det skriver det amerikanske theverge.com efter at have talt med en række kilder.

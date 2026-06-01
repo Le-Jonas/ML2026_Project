@@ -1,0 +1,7 @@
+Title: Apple_og_Google_indrømmer_Vores_stemme-systemer_g
+Date: 2013-04-22
+Article Type: Digitalt
+Author: Morten Bay
+
+Mange glemmer ofte, at de stemme-systemer, der findes til iOS, Android og Windows Phone er baseret på en sky-model.
+Det betyder, at disse stemme-genkendende apps sender dine stemmekommandoer op til store servere, der så bruger enorme mængder computerkraft på at tolke, hvad du siger, før en respons bliver sendt tilbage til telefonen.

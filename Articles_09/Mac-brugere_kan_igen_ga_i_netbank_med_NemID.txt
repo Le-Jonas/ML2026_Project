@@ -1,0 +1,6 @@
+Title: Mac-brugere_kan_igen_ga_i_netbank_med_NemID
+Date: 2013-02-05
+Article Type: Digitalt
+Author: Netbank-brugere, der anvender Mac-computere med browseren Safari, kan ånde lettet op, efter at Apple igen har givet grønt lys til, at Java kan fungere i Apples Safari-browser.
+
+Det sker, efter Oracle i weekenden udsendte en større opdatering til Java, der ellers har været ramt af massive sikkerheds-problemer. Problemerne fik Apple til at lukke af for Java på computere med visse versioner af både Snow Leopard og Mountain Lion-styresystemerne.

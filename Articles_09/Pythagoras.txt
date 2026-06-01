@@ -1,0 +1,7 @@
+Title: Pythagoras
+Date: 2012-10-07
+Article Type: Læserbreve
+Author: Henrik Blom
+
+Tegn en ligesidet retvinklet firkant "A" på et stykke papir.
+Tegn en lidt mindre ligesidet retvinklet firkant "B" med sidelængden c indeni "A" og drej den således, at hjørnerne i "B" skærer siderne i "A".

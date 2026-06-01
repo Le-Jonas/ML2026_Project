@@ -1,0 +1,7 @@
+Title: Hackers_have_got_into_the_identity_register
+Date: 2013-06-06
+Article Type: Danmark
+Author: Julian Isherwood
+
+The police driving licence register, including the personal identity (CPR) number register were hacked in the summer of 2012 and may have been changed, with hackers also having retrieved information about CPR numbers and people posted as wanted in the Schengen area, according to the Danish national police.
+The police say that data hackers may also have had access to registers from the Tax Authority and the Modernisation Agency, in a previously undiscovered attack that seems to have gone on from April to August 2012.

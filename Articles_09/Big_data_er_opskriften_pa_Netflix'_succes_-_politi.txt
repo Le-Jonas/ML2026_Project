@@ -1,0 +1,10 @@
+Title: Big_data_er_opskriften_pa_Netflix'_succes_-_politi
+Date: 2012-12-12
+Article Type: feature
+Author: Som abonnent kan du ubegrænset dele artikler med dine venner og familie. Læs mere om fordelene ved et abonnement her.
+
+Enhver tv-producents drøm er at se ind i fremtiden. At kunne sige: »Den her serie bliver en succes«, uden at ryste i bukserne for en fiasko, men i urokkelig tro på, at de mange millioner dollars, serien har kostet, er givet godt ud.
+Den drøm er godt i gang med at gå i opfyldelse for Netflix, den amerikanske streamingudbyder, som står bag tv-serien 'House of Cards', hvis første sæson blev en kæmpe succes, og hvis anden sæson får premiere 14. februar.
+Forklaringen er big data.
+Netflix foregår på internettet og har adgang til at samle data ind fra tjenestens mange kunder. Og det er ikke gammeldags spørgeskemasvar fra seere, som siger, de har set mange dokumentarfilm, men i virkeligheden slog over på Anders And på halvvejen, Netflix baserer sine analyser på. Det er big data. Enorme mængder information, der kortlægger adfærden minutiøst for hver eneste af deres 44 millioner kunder i 41 lande, og som kan benyttes i beregninger baseret på komplicerede og hemmelige algoritmer.
+Allerede abonnent? Log ind her

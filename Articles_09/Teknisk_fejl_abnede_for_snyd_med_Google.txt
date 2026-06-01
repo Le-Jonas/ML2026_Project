@@ -1,0 +1,8 @@
+Title: Teknisk_fejl_abnede_for_snyd_med_Google
+Date: 2013-01-04
+Article Type: Digitalt
+Author: Søren Astrup
+
+Journalist
+En af internetgiganten Googles samarbejdspartnere er kommet til at begå en fejl, der har gjort det muligt at fuppe netbrugere.
+Fejlen blev udnyttet af snydepelse, som lavede et såkaldt falsk certifikat for Google, konstaterer den danske netsikkerhedstjeneste DK-Cert. Dermed har de kunnet narre netbrugere med falske udgaver af hjemmesider, et yndet redskab til at lokke kreditkortoplysninger og kodeord ud af brugerne.

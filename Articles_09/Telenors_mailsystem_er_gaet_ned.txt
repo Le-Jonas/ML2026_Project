@@ -1,0 +1,8 @@
+Title: Telenors_mailsystem_er_gaet_ned
+Date: 2013-05-23
+Article Type: Digitalt
+Author: Søren Dilling
+
+Teleselskabet Telenors servere er ude af drift i øjeblikket. 
+Årsagen er en fejl i forbindelse med en opgradering af maskinerne.
+Problemerne startede i går, da Telenor ville opgradere sine servere. Det gik ikke godt, og selskabet har fortsat svært ved at få mailsystemerne op at køre igen.

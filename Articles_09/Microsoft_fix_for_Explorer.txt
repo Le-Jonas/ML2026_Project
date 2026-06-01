@@ -1,0 +1,7 @@
+Title: Microsoft_fix_for_Explorer
+Date: 2012-09-20
+Article Type: Danmark
+Author: Julian Isherwood
+
+Microsoft has announced that it has developed a fix to plug a security hole in its Explorer browser that has worried users across the world in recent days.
+“A vulnerability has been found in the browser that means that criminals would be able to use the browser as a back door to introduce harmful code onto a machine. Microsoft has now closed the hole,” Shezad Ahmad of DK-cert tells Ritzau.

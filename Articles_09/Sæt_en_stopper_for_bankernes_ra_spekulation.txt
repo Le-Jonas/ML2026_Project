@@ -1,0 +1,20 @@
+Title: Sæt_en_stopper_for_bankernes_ra_spekulation
+Date: 2012-08-14
+Article Type: Poul Aarøe Pedersen
+Author: Poul Aarøe Pedersen
+
+Der gik 45 minutter, før de fandt ud, at den var helt gal. 
+Computerne var gået amok. De købte og solgte aktier til de mest mærkværdige priser – og fik markedet til at opføre sig, som om alt var ude af kontrol. 
+Det var det ikke. Det var blot en softwarefejl hos det amerikanske investeringsfirma Knight Capital Group, der satte de mest vanvittige kursbevægelser i svingninger på det amerikanske aktiemarked. 
+Men da et par menneskehænder endelig fik sat en stopper for vanviddet, viste det sig, at fejlen havde kostet Knight Capital 2,6 milliarder kroner – på tre kvarter. 
+Det bizarre optrin fandt sted for nu snart to uger siden og er siden blevet genstand for en kærkommen debat om brugen af avancerede computerprogrammer til køb og salg af aktier, den såkaldte højfrekvenshandel, som på baggrund af algoritmer sætter computere i stand til at foretage tusindvis af aktiehandler i løbet af millisekunder. 
+ Det lyder teknisk, måske oven i købet perifert, men det er det ikke: Algoritmehandlen udgør i dag 2/3 af handlen på det amerikanske aktiemarked. Herhjemme skønnes den at udgøre 40-45 procent af aktiehandlen – og robothandlen stiger eksplosivt i disse år. 
+ Hastighed betyder efterhånden alt inden for moderne aktiehandel. Som Information kunne fortælle forleden, foretager en storspiller som Knight Capital gennemsnitligt 519 millioner aktiehandler i timen – eller 144.000 aktiehandler i sekundet. Så når noget går galt, går det helt galt, og det sker hurtigere, end nogen kan nå at råbe hjælp. 
+Knight Capital Group dyrker den såkaldte
+market making
+, hvor algoritmeprogrammer opkøber tusindvis af aktier inden for et millisekund for derefter straks at sætte dem til salg igen blot et par øre dyrere. 
+Fortjenesten er altså forsvindende lille på den enkelte handel, men når man foretager 519 millioner handler i timen, kan man selvsagt tjene milliarder, hvis algoritmerne virker, som de skal. 
+ Andre finansielle virksomheder har andre spidsfindige strategier, når det gælder algoritmehandel.
+Som Ingeniøren ganske opsigtsvækkende skrev forleden, er det åbenbart en kendt sag, at banker, som ellers skulle varetage deres kunders interesser, er flittige brugere af såkaldt
+front running
+, hvor bankens computere i smug opkøber eller sælger en aktie forud for kunden, og dermed ændrer prisen, lige før kunden kommer til – til gunst for banken.

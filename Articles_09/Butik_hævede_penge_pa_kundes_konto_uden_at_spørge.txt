@@ -1,0 +1,15 @@
+Title: Butik_hævede_penge_pa_kundes_konto_uden_at_spørge
+Date: 2012-12-31
+Article Type: Privatøkonomi
+Author: Mona Samir Sørensen
+
+Journalist
+I oktober købte Lene Stoktoft to lamper i boligbutikken Bolia.com i København. Hun betalte med dankort. Fire uger efter blev hun pludselig trukket yderligere 399 kroner på sin bankkonto. 
+Hun opdagede det ved et tilfælde og kontaktede hurtigt Bolia.com’s kundeservice. Den venlige medarbejder medgav, at der var tale om en fejl, og førte straks pengene tilbage på Lene Stoktofts konto. 
+ Den venlige service opvejer dog ikke Lene Stoktofts utilfredshed.
+Bolia beklager forløbet.
+»Der er sket en fejl, som simpelthen ikke må ske«, siger Bolias økonomichef, Jens Abrahamsson.
+Forklaringen på, at butikken ligger inde med kundernes kontooplysninger, er, at Bolia.com er linket op til et dankortsystem hos Dibs, der bruger
+recurring payment
+– tilbagevendende betalinger.
+Dermed indgår kunden i en slags abonnementsordning, hvilket giver virksomhedens systemleverandør ret til at opbevare kortoplysninger. Systemet bruges ved nethandel, og – som i Bolia.com’s tilfælde – i hybridbutikker, som både har nethandel og fysiske butikker.

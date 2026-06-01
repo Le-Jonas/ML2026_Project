@@ -1,0 +1,6 @@
+Title: Twitter_strammer_sikkerheden
+Date: 2013-05-22
+Article Type: Digitalt
+Author: Den populære nettjeneste Twitter strammer nu op på sikkerheden.
+
+Det sker efter, at det i en række tilfælde er lykkedes hackere at bryde ind og sende beskeder, de såkaldte tweets, i andres navn.

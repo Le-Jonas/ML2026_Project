@@ -1,0 +1,9 @@
+Title: Nyt_hackerangreb_lægger_KL's_hjemmeside_ned_igen
+Date: 2013-04-09
+Article Type: Danmark
+Author: Marie Sæhl
+
+Anders Legarth Schmidt
+Journalist
+Det er igen lykkedes hackere at tvinge Kommunernes Landsforenings hjemmeside i knæ.
+KL fik ellers i går aftes kl.dk og deres konflikthjemmeside meretidsammen.dk op at køre igen efter gårsdagens hackerangreb, men nu er siden nede igen.

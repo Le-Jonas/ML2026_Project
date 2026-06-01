@@ -1,0 +1,22 @@
+Title: Hackerangreb_mod_cpr-numre_vækker_opsigt_i_udlande
+Date: 2013-06-07
+Article Type: Internationalt
+Author: Søren Astrup
+
+Journalist
+At det har været muligt for hackere at komme ind til personfølsomme oplysninger hos det danske politi er en nyhed, der har bredt sig uden for landets grænser.
+Avisen Daily Mail i Storbritannien er et af de medier, der omtaler den spektakulære sikkerhedsbrist. Den hæfter sig ved, at hackerne har kunnet komme ind til data fra schengensystemet, der rummer fortrolige oplysninger om politisamarbejde og retsligt samarbejde i medlemslandene.
+I USA skriver blandt andet Miami Herald og Washington Post om afsløringen af det omfattende hackerindbrud og hæfter sig ved, at flere millioner data tilsyneladende er kopieret af gerningsmændene.
+Den australske nyhedsside News.com, der rummer nyheder fra en lang række aviser, viderebringer nyheden om hackerangrebet mod det danske politi.
+Svensk forbindelse
+Sagen blev afsløret, da svensk politi under efterforskningen af en hackersag blev opmærksom på, at et dansk ip-nummer - et internetadresse - optrådte i bevismaterialet.
+De svenske betjente advarede deres danske kolleger, der opdagede, at hackerne havde haft adgang til cpr-numre i kørekortregistrene og muligvis også til blandt andet skattevæsenets oplysninger og oplysninger i Moderniseringsstyrelsen.
+Den svenske forbindelse gør, at også flere svenske medier beskriver det danske hackerindbrud i politiets databaser. De hæfter sig ved, at en af de mistænkte nu risikerer at blive udleveret til retsforfølgelse i Danmark.
+EU vil måske kræve hårdere straffe
+Afsløringen kommer på et tidspunkt, hvor Europaparlamentet er på vej til at præsentere et krav om, at hackere skal straffes med mindst to års fængsel. Sker dataindbruddene i det, der betegnes som kritisk infrastruktur - deriblandt regeringsnetværk - skal mindstestraffen være på fem års fængsel, skriver PC World.
+Herhjemme er strafferammen for dataindbrud på seks års fængsel eller derunder.
+Søren Astrup
+fortsæt med at læse
+Politiet syltede efterforskningen af kæmpe dansk hackersag
+Identitetstyveri: Lizl fandt sit billede på en andens Facebookprofil
+Unge er de nemmeste ofre for identitetstyveri

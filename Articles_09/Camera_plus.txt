@@ -1,0 +1,7 @@
+Title: Camera_plus
+Date: 2012-11-02
+Article Type: Bolig og haven
+Author: Jesper Friis
+
+Udvidet kamera-app, som kan lidt mere end standard-fotoapplikationerne.
+Camera+ er en rigtig god allround kameraapplikation. Det er en bedre og lidt udvidet version af den kamera-app, som følger med en iPhone. Den har nogle elegante funktioner, der gør det nemmere at placere fokus og lys. Med Camera+ kan man derfor tage billeder selv under ret vanskelige lysforhold.

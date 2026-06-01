@@ -1,0 +1,6 @@
+Title: Cyberangreb_lægger_svensk_nyhedsbureau_ned
+Date: 2012-10-01
+Article Type: Medier
+Author: Det svensk nyhedsbureau, Tidningernes Telegrambyrå (TT), har mandag formiddag været udsat for et massivt it-angreb, der lagde det meste af nyhedsvirksomheden ned.
+
+Det menes også, at de svenske jernbaner (SJ) har været udsat for lignede angreb, som går under betegnelsen ddos.

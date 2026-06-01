@@ -1,0 +1,8 @@
+Title: Dusørjægere_finder_24_sikkerhedsfejl_i_Google_Chro
+Date: 2012-09-27
+Article Type: Digitalt
+Author: Milla Mølgaard
+
+Debatredaktør
+Den har kun været i brugernes hænder i to dage, den nyeste version af Googles populære internetbrowser, Chrome.
+Men sikkehedsfolk har allerede formået at finde 24 sårbarheder i den såkaldte Chrome 22, skriver Computerworld.

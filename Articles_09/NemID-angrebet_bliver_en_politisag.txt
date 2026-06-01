@@ -1,0 +1,7 @@
+Title: NemID-angrebet_bliver_en_politisag
+Date: 2013-04-11
+Article Type: Digitalt
+Author: Søren Dilling
+
+Samtlige danske banker, der bruger NemID til deres kunders adgang til deres netbank, har ligget mere eller mindre underdrejet siden i morges på grund af et større angreb på NemID-systemet.
+Flere banker har måttet etablere nødindgange til deres netbanker uden om NemID, men flere andre banker har ikke haft den mulighed men har måttet lade deres kunder vente.

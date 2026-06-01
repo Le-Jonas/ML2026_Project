@@ -1,0 +1,6 @@
+Title: Microsoft_lukker_sikkerhedshul_i_Internet_Explorer
+Date: 2012-09-20
+Article Type: Digitalt
+Author: Mange brugere af Microsofts populære netbrowser Internet Explorer har de seneste dage været opskræmte af beretninger om store sikkerhedshuller i browseren.
+
+Nu er Microsoft så klar med en opdatering, som lukker hullet.

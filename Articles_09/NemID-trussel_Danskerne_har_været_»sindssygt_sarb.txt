@@ -1,0 +1,7 @@
+Title: NemID-trussel_Danskerne_har_været_»sindssygt_sarb
+Date: 2013-01-14
+Article Type: Digitalt
+Author: Søren Dilling
+
+Brugen af nemID gjorde danskerne langt mere sårbare over for den sikkerhedsbrist i programmet Java, som har stået åben siden i torsdags og som officielt er lukket i dag.
+Det fortæller flere sikkerhedseksperter, som politiken.dk har talt med.

@@ -1,0 +1,57 @@
+Title: Politiet_efterforsker_hackerindbrud_Rigspolitiche
+Date: 2013-06-07
+Article Type: Danmark
+Author: Søren Astrup
+
+Journalist
+Københavns Politi forsøger sammen med computereksperter fra Politiets Efterretningstjenste (PET) at danne sig et overblik over hackerangrebet, der har givet gerningsmændene adgang til fortrolige oplysninger i politiets registre.
+Men den person, der er ansvarlig for sikkerheden i registrene, er efterforskernes egen øverste chef.
+»Det er klart, at politiet - rigspolitichefen - er dataansvarlig og ansvarlig for sikkerheden og skal sørge for, at de så har den nødvendige sikkerhed, hvis han lægger registeret ud til en virksomhed«, siger Peter Blume, der er professor i persondatabeskyttelse ved Københavns Universitets juridiske fakultet.
+Den omstændighed, at politiets øverste chef risikerer kritik for mangelfuld datasikkerhed, påvirker ikke efterforskningen.
+»Vi ser umiddelbart ikke noget problem i, at Københavns Politi efterforsker sagen og den omstændighed, at Rigspolitichefen er ansvarlig for de data, som er blevet hacket«, fastslår Svend Larsen, som er politidirektør hos Rigspolitiet.
+Han hæfter sig ved en anden problemstilling ved sagen om dataindbruddet i politiets registre.
+»Vi er på en gang forurettet, og så er vi samtidig dem, der efterforsker sagen«, siger han.
+Datatilsyn: Ingen konflikt med efterforskningen
+Datatilsynet ser ikke noget problem ved konstruktionen, hvor Københavns Politi efterforsker hackersagen, mens den øverste politileder kan have et ansvar for eventuel mangelfuld sikkerhed.
+En undersøgelse af rigspolitiets ansvar for datasikkerheden har ikke noget med den strafferetlige efterforskning af eventuelle ulovligheder, som de sigtede mistænkes for, at gøre, mener direktør Janni Christoffersen fra Datatilsynet.
+»Det er simpelthen den måde, det er lagt til rette på. Hele lovgivningen er baseret på, at vi kan stille spørgsmål. Det ligger uden for min forestillingsverden, at vi ikke skulle få de oplysninger, vi efterspørger«, siger hun.
+Sagen efterforskes lokalt
+Christoffersen peger på, at efterforskningen forestås af Københavns Politi og ikke direkte af Rigspolitiet.
+»Det forhold, at der er en politimæssig efterforskning med et andet sigte i gang, kan jeg ikke se skulle gøre vor opgave anderledes«, understreger Datatilsynets leder.
+Datatilsynet kan - hvis det viser sig, at rigspolitichefen ikke har sørget for ordentlig sikkerhed i sine elektroniske registre - vælge at kritisere den ansvarlige for den manglende sikring af de følsomme data. Også selv om politiet har valgt at lade et privat firma stå for den praktiske drift af registrene.
+Rigspolitichefens ansvar
+Som ansvarlig for politiets edb-registre er det Rigspolitichefens opgave at sørge for den maksimale sikkerhed i systemerne, også selv om opgaven er udliciteret til andre.
+»Sikkerheden skal være særlig god, hvis der er tale om fortrolige eller følsomme data, alt efter hvor stor kan skaden være«, forklarer Peter Blume.
+Datatilsynet har allerede meddelt, at det vil bede Rigspolitiet om en redegørelse for, hvad der er sket i sagen om det omfattende edb-indbrud.
+»Det er rigspolitiet, der er dataansvarlig. Dem har vi kontaktet med henblik på at få at vide, hvad der er op og ned. Man kan ikke udelukke, at vi også vil interessere os for CSC«, forklarer Janni Christoffersen.
+»Datatilsynet er selvfølgelig interesseret i, at politiet har sikret sig så godt som muligt og at vide, hvad de har gjort for at modvirke dataindbrud«, siger Blume.
+Spørgsmålet er, hvilke konsekvenser, det tilsyneladende vellykkede hackerangreb vil få for rigspolitiet leder.
+»Det, der i værste fald kan ske, er, at de får alvorlig kritik fra datatilsynets side. Hvis Datatilsynet vil, kan de sende sagen til justitsministeren«, siger Københavns Universitets ekspert i persondatabeskyttelse, professor Peter Blume.
+LÆS ARTIKEL
+Peter Blume erindrer ikke nogen sager af lignende størrelse herhjemme.
+»Man kan sige, at det her er en registerskandale«, siger han med henvisning til, at nogle af oplysningerne kan falde ind under den såkaldte krigsparagraf, der stiller høje krav til sikkerheden på de computere, de opbevares på.
+»I de her tider, hvor mange mennesker taler om cyberwar, skulle de være særligt sikrede. Det er de muligvis også. Men det her taler for, at de ikke har en god sag«, siger han om den sikkerhed, der har været omkring de følsomme politiregistre.
+Politisk interesse
+Direktøren for Datatilsynet hæfter sig ved, at sagen er ganske usædvanlig og at såvel økonomi-og indenrigsminister Margrethe Vestager (R) som ansvarlig for cpr-systemet og justitsminister Morten Bødskov (S) som ansvarlig for politiets registre har været på banen.
+»Denne sag er på alle måder atypisk. Alle er på banen i denne her sag«, siger Janni Christoffersen.
+Hun håber, afsløringen af sikkerhedsbristen kan skærpe opmærksomheden omkring de offentlige registre, hvad enten de er statslige, ligger hos regioner eller er kommunale.
+»Det gode udkomme af denne her sag kan blive, at it-sikkerhed skal højt på dagsordenen hos alle myndigheder«, siger direktøren, som peger på et af de elementer i den offentlige databehandling, som der skal tages stilling til: »Gør det en forskel, at man har lagt data ud til en privat virksomhed? Det er en af de ting, der skal reflekteres over«.
+Europæiske datatilsyn advares
+Chefen for Datatilsynet vil orientere sine tilsynskolleger fra de øvrige EU-lande om det passerede.
+I forvejen har EU's kommissær for indenrigsanliggender, Cecilia Malmström, betegnet dataindbruddet i Danmark som bekymrende. Blandt de oplysninger, hackerne tilsyneladende har haft adgang til, er oplysninger om efterlyste i det fælleseuropæiske schengensystem.
+LÆS MERE
+Sikkerhedsspecialist undrer sig
+Det er fortsat ikke klarlagt, hvordan hackerne har begået dataindbruddet.
+»Dét er en million kroner-spørgsmålet«, siger Shehzad Ahmad.
+Han er chef for overvågningsfirmaet DK-Cert under Danmarks Tekniske Universitet og næstformand i Rådet for Digital Sikkerhed.
+LÆS OGSÅ
+Hacket it-firma: Man kan aldrig lave 110 procent sikre systemer
+Han oplyser, at det system, som politiets registre har ligget på hos it-virksomheden CSC regnes for særdeles sikre.
+»Hvis du ser på, hvornår der sidst er fundet en sårbarhed i det system, der skulle patches (lappes, red.), var tilbage i april 2011. Derfor kan man betragte det som et sikkert system«, vurderer han.
+Shehzad Ahmad er overrasket over, at det kunne lade sig gøre for hackerne at snuse rundt i systemerne i fem måneder.
+»Hvad gik galt? Er der nogle overvågningsprocedurer, der har svigtet, siden man ikke selv kunne detektere det?«, spørger han.
+Søren Astrup
+fortsæt med at læse
+Prominent hacker bliver udleveret til Danmark i CPR-sag
+Vestager vil indskrænke firmaers brug af kunders cpr-numre
+Justitsministeren: Vi gør alt for at optrævle hacker-angreb

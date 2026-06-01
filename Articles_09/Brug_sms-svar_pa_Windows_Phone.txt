@@ -1,0 +1,7 @@
+Title: Brug_sms-svar_pa_Windows_Phone
+Date: 2013-05-27
+Article Type: Digitalt
+Author: Morten Bay
+
+Ligesom på en iPhone kan du besvare et telefonopkald på Windows Phone med en sms, der viser, at du har set opkaldet, men er utilgængelig og derfor vender tilbage.
+Du skal dog være opmærksom på, at funktionen kun er til rådighed, når det er en af dine kontakter fra telefonbogen i telefonen, der ringer.

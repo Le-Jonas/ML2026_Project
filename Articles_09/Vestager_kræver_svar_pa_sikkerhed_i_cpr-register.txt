@@ -1,0 +1,6 @@
+Title: Vestager_kræver_svar_pa_sikkerhed_i_cpr-register
+Date: 2013-06-06
+Article Type: Digitalt
+Author: Et hackerangreb hos it-firmaet CSC har givet adgang til flere af politiets registre, hvor hackerne har kunnet kopiere filer med virksomhedsnumre og personnumre.
+
+CSC varetager også driften af det store cpr-register, og det får nu økonomi- og indenrigsminister Margrethe Vestager (R) til at kræve en undersøgelse af sikkerheden i cpr-systemet.

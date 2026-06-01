@@ -1,0 +1,6 @@
+Title: KL_forhøjer_beredskab_efter_hacker-angreb
+Date: 2013-04-09
+Article Type: Danmark
+Author: Kommunernes Landsforenings hjemmeside blev i aftes lagt totalt ned i over fire timer efter at være spammet af en gruppe, der påstår at være en del af den berømte internationale hackergruppe Anonymous.
+
+Det får nu KL til at forstærke datasikkerheden i den kommende tid. Selvom KL's datafolk var advaret på forhånd via en video på YouTube, kunne de ikke forhindre hackerne i at lægge hjemmesiden ned.

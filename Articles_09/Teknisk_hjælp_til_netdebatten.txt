@@ -1,0 +1,37 @@
+Title: Teknisk_hjælp_til_netdebatten
+Date: 2012-10-10
+Article Type: Teknisk hjælp
+Author: Knappen ’Valider’ på oprettelsessiden virker ikke
+ Kontroller at alle oplysninger er udfyldt korrekt. Hvis oplysningerne er som de skal være, skal der søges om manuel validering ved at sætte mærke i ’ Mine adresseoplysninger kan ikke valideres i folkeregistret...’
+Bemærk at deltagelse i debatten kræver, at du oplyser korrekt adresse. Har du adresse i Danmark og søger om manuel validering, vil du derfor kun blive godkendt, hvis fejlbeskeden skyldes en funktionsfejl i adresseformularen.
+
+Jeg bliver bedt om at udfylde min debatprofil for at skrive kommentarer
+Kontroller først din profilside:
+https://politiken.dk/mitpolitiken/retbruger/
+Hvis du ikke har udfyldt oplysningerne, kan du indtaste dem her. Log herefter ud og ind igen. Du skulle nu være klar til at skrive kommentarer.
+Hvis du allerede har udfyldt oplysningerne, prøv da at logge ud og ind igen.
+Jeg kan ikke se kommentarfeltet eller knappen til at sende kommentaren med
+Send-knappen kan gemme sig på meget små skærme. Prøv at scrolle inde i besked-vinduet. Fejlen kan også være forårsaget af et problem med din browser. Prøv at downloade og installere
+Google Chrome
+eller
+Mozilla Firefox
+Jeg har glemt mit password og kan ikke få et nyt
+Funktionaliteten til at ændre password virker i øjeblikket ikke. Vi arbejder på en løsning. Der er desværre ikke mulighed for at få et nyt password, før vi har løst problemet i vores ende. Vi beklager fejlen.
+Jeg kan ikke komme ind på min profilside
+Normalt kan man klikke på sit navn i sidens top for at redigere sine oplysninger. Enkelte brugere oplever, at der ikke sker noget, når de klikker på navnet. Vi arbejder på at finde årsagen til problemet, men det hjælper ofte at prøve i en anden browser.
+Jeg kan ikke tilføje mit profilfoto
+Funktionaliteten til at hente profilfoto fra Facebook virker i øjeblikket ikke. Vi arbejder på en løsning. Der er desværre ikke alternative måder at tilknytte billede på.
+Jeg har opdateret min titel og/eller profiltekst, men den ændres ikke på sitet
+Log ud og ind igen.
+Der står forkert antal anbefalinger på profilsiden
+Tallet viser afgivne anbefalinger - ikke modtagne. Vi planlægger dog at ændre dette, da det har givet anledning til misforståelser.
+Min kommentar dukker ikke op på siden
+Der går nogle minutter fra du sender en kommentar, til den er synlig på sitet.
+Samme kommentar er gentaget flere gange
+Vi er bekendt med fejlen og arbejder på en løsning.
+Ved oprettelse af debatprofil får jeg fejlbeskeden:
+‘Vejen findes ikke i dette postnummer’
+Det sker at vejnavn staves anderledes i folkeregistret, end det fremgår af vejskilt m.v. Prøv at slå adressen op via Find Postnummer på
+http://post.dk
+Prøv alternative stavemåder indtil du får et match. Brug herefter Post Danmarks stavemåde i adressefeltet.
+ingenting

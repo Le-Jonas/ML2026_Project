@@ -1,0 +1,19 @@
+Title: Fransk_anklage_USA_aflyttede_Sarkozy
+Date: 2012-11-21
+Article Type: Internationalt
+Author: Michael Seidelin
+
+Europakorrespondent
+Élyséepalæet i Paris blev i løbet af foråret udsat for et såkaldt cyberangreb to gange, og begge gange brugte sikkerhedseksperter op til tre dage på at genetablere sikkerheden omkring den franske præsident, der blandt sine magtbeføjelser har muligheden for at beordre den franske atomslagstyrke i aktion. 
+Afsløringen blev bragt i avisen Le Telegramme fra byen Brest i Bretagne, hvor de atomvåbenbærende ubåde har base. 
+»Der var tale om, at kræfter udefra trængte ind i informationssystemerne«, forklarede journalisten bag dette scoop dengang til andre franske medier. Ikke desto mindre formåede Élyséepalæet midt under præsidentvalgkampen at dysse affæren ned, men i går bragte nyhedsmagasinet L’Express en ny afsløring: Frankrigs nære allierede og Nato-partner USA stod bag cyberangrebet.
+Hermed havde gerningsmændene fri adgang til præsidentskabets intranet, og via det formåede de at anbringe et eller flere programmer på medarbejdernes computere. Takket være disse programmer havde de adgang til dokumenter og alle former for kommunikation på disse computere. 
+Kun få og meget udvalgte medarbejderes computere blev inficeret på denne måde. Ifølge de hidtidige oplysninger var præsidentens nærmeste medarbejder, generalsekretær Xavier Musca, en af dem. 
+Metoden, som bliver meget løst beskrevet i L’Express, er ikke specielt avanceret, og Élyséepalæets sikkerhedsfolk blev opmærksomme på den, da de inficerede computere pludselig kommunikerede med ukendte partnere.
+Erstatter traditionel teknologi
+Ifølge L’Express’ oplysninger ligner den virus, som anbragte spionprogrammerne i de franske computere, den amerikansk udviklede Flame. 
+Men ministeren for indre sikkerhed, Janet Napolitano, afviser over for bladet, at programmer som Flame og Stuxnet, der er skabt til at infiltrere fremmede netværk, er en del af USA’s cyberarsenal. 
+»Disse programmer har aldrig på nogen måde haft forbindelse til den amerikanske regering«, siger hun. 
+Det er eksperter meget uenige om. På den årlige sikkerhedspolitiske konference i München tidligere på året påstod en af verdens førende eksperter på området, russeren Jevgenij Kasperskij, at der er tætte forbindelser mellem den amerikansk-israelske virus Stuxnet, som har været sat ind mod Irans atomprogram, og Flame. 
+Jevgenij Kasperskij frygter, at udviklingen hurtigt kan løbe løbsk. Derfor opfordrer han til, at førende nationer indgår en aftale om FN-kontrol. 
+»På kort sigt vil vi se, at militærets budgetter for cyberkrig vil blive mangedoblet, og vi kommer til at opleve et nyt våbenkapløb i cyberspace«, skriver han i et blogindlæg om udviklingen.

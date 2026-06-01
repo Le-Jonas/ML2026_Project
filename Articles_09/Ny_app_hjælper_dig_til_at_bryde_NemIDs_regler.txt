@@ -1,0 +1,7 @@
+Title: Ny_app_hjælper_dig_til_at_bryde_NemIDs_regler
+Date: 2013-06-06
+Article Type: Digitalt
+Author: Morten Bay
+
+NemID-kortene har ikke levet en nem tilværelse.
+Mange danskere har omdøbt NemID til DumID (udtalt: Dum Idé) efter historier om hvor nemt, NemID-systemet kan hackes, problemer med installation af den lille Java-applet, systemet kræver, og hvordan NemID bryder FNs handicap-konventioner.

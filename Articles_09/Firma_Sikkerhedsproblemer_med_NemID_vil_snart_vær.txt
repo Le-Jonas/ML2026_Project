@@ -1,0 +1,6 @@
+Title: Firma_Sikkerhedsproblemer_med_NemID_vil_snart_vær
+Date: 2013-01-12
+Article Type: Digitalt
+Author: Firma bag det fejlfyldte softwareprogram Java oplyser, at man snart er klar med en løsning på NemID-truslen.
+
+Der er en løsning på vej til de omkring fire millioner danske brugere af NemID, der, grundet en fejl i software-programmet Java, ikke kan føle sig sikre i disse dage.

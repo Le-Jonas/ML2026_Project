@@ -1,0 +1,65 @@
+Title: Eksperter_advarer_Privat_er_ikke_privat_pa_Facebo
+Date: 2012-10-01
+Article Type: Digitalt
+Author: Kim Faber
+
+Journalist
+Torben Benner
+Journalist
+Lad os lægge ud med et tankeeksperiment: 
+ Du er medlem af en lokal sportsforening, hvor du mødes og hygger dig med dine venner. En dag bliver du kontaktet af et privat firma, som gerne vil give dig lidt gratis sportsudstyr. Det eneste, firmaet skal have til gengæld, er nogle oplysninger: 
+ Om du er gift eller single. Din mailadresse. Hvad du er uddannet som, og hvor du arbejder. Hvilken gud du tror på. Hvor dit politiske ståsted er. Hvilke organisationer og virksomheder du har sympati for. Hvornår du har fødselsdag. Hvad du i det hele taget går og laver for tiden. Firmaet vil i øvrigt også have lov til at kigge i dine private fotoalbum – og aflytte dine samtaler med dine venner.
+LÆS OGSÅ
+Netforbrydere udnytter din svage Facebook-kode
+Og ikke nok med det: Du skal udlevere de samme oplysninger om dine venner. 
+Mon ikke mange vil mene, at det er lige i overkanten for et par sportsstrømper? 
+ På Facebook forholder det sig anderledes. Har man hentet gratis spil, quizzer, nyhedstjenester, kalendere eller andre funktioner – de såkaldte apper – har man også givet firmaerne bag apperne adgang til sine Facebook-sider. Og i mange tilfælde desuden til sine venners. 
+Det er stærkt problematisk, mener Henning Mortensen, chefkonsulent i Dansk Industri og medforfatter til bogen ’De overvågede’: 
+»Når jeg fortæller noget privat til mine venner, regner jeg med, at det bliver mellem os. Og jeg vælger, hvem jeg har tillid til. Men det er ikke det, der sker, når man går ind på Facebook og bruger apperne«.
+Kontrol over egne data er vigtig
+På Aarhus Universitet er Anja Bechmann i gang med et forskningsprojekt, som undersøger unge Facebook-brugeres kendskab til, hvad private virksomheder tapper fra deres Facebook-sider. Hun er adjunkt på Institut for Æstetik og Kommunikation – Medievidenskab og ekspert i, hvordan data fra sociale netværk som Facebook flyder rundt. Hendes forsøgskaniner er en dansk gymnasieklasse. 
+Til formålet har Anja Bechmann i samarbejde med programmør Peter Vahlstrup oprettet en app, ’Digital Footprint’, som deltagerne i forsøget har downloadet, og som viser, hvor store mængder data alle mulige apper hver dag snupper fra deres Facebook-sider.
+LÆS OGSÅ
+Netbrugere ved ikke, hvad de siger ja til på Facebook og Google
+»’Digital Footprint’ tapper blandt andet køn, civilstatus, religiøst og politisk tilhørsforhold, uddannelse, interesser, synes godt om-tilkendegivelser og billeder. Og desuden venners navne, updates, kommentarer og deres gps-koordinater, hvis ikke de har klikket gps-funktionen fra på deres mobil«, siger Anja Bechmann. 
+’Digital Footprint’ er designet til at hente de samme typer og mængder af data som mange apper. Når gymnasieeleverne bliver opmærksomme på det, reagerer de groft sagt på to forskellige måder: 
+»Den største gruppe siger: »So what. Vi er bare et nummer i en større sammenhæng, og så længe det er firmaer, der bruger oplysningerne til at målrette annoncer, og så længe der ikke er nogen, der stjæler vores penge, er vi ligeglade«. Den anden gruppe reagerer omvendt. De siger: »Det er ikke fedt, at firmaer får fat i mine data««, siger Anja Bechmann.
+LÆS OGSÅ
+Sådan minimerer du Googles viden om dig
+Én ting er gymnasieeleverne dog enige om: Det er vigtigt at have kontrol over egne data. De unge kan ikke fordrage tanken om, at der kan dukke et billede af dem op i offentligheden, uden at de har givet specifik tilladelse til det. 
+»Men de tænker ikke over, at de selv kan have givet en virksomhed tilladelse til at bruge deres billeder, i samme øjeblik de har hentet virksomhedens app«, siger Anja Bechmann. 
+Og kæden hopper helt af, når hun fortæller dem, at nogle apper faktisk kræver tilladelse til at læse både i brugernes private beskeder i deres indboks og i deres private grupper. 
+»
+Det
+synes de er frygteligt«, siger hun. 
+Betingelserne for at benytte en app kan man læse på den side, hvor man downloader appen. Men det har ingen af de unge i Anja Bechmanns forsøg gjort. 
+I Facebooks privatlivsindstillinger er det også muligt at forhindre, at venners apper får adgang til andre oplysninger om én end dem, der allerede er offentligt tilgængelige, understreger Facebooks talsmand i Norden, Frida Lowengren. 
+»Når apper har adgang til oplysninger om dine venner, er det, fordi Facebook er et socialt netværk, og det er meningen, at man deler ting. Men Facebook ønsker, at brugerne selv bestemmer, hvilke oplysninger de giver videre. Så hvis man i sine privatindstillinger har sagt, at man ikke ønsker at videregive andre oplysninger til venners apper end de oplysninger, der i forvejen er offentlige, giver Facebook dem ikke videre«, siger hun.
+LÆS OGSÅ
+Netforbrydere udnytter din svage Facebook-kode
+Problemet er bare, at man ikke bliver gjort opmærksom på, at vennernes apper tapper ens oplysninger. Og at de unge ikke forholder sig særlig meget til privatindstillinger. 
+»De kan ikke overskue dem«, siger Anja Bechmann: 
+»Lovgivningen kræver, at virksomhederne skal være mere og mere gennemsigtige med, hvad de foretager sig. Det er de så gennem alenlange og komplekse dokumenter, som ingen læser. Jeg gør det heller ikke, selv om det er mit forskningsområde«. 
+’Transparensparadokset’ kalder hun fænomenet.
+Ikke bange for overvågning
+Når man via sin Facebook-side henter en app og dermed giver den tilladelse til at hente og bruge ens data, er det virksomheden bag, man entrerer med, og ikke Facebook. Så vil man vide, hvad der foregår, skal man ikke alene læse Facebooks omfattende vilkår og betingelser, men også app-firmaernes – der ofte er lige så omfattende. 
+Gør man det, vil man opdage, at de gratis hjælpeprogrammer overhovedet ikke er gratis. Valutaen, vi betaler med, er bare ikke penge, men vores data: Hvem vi er, hvor vi er, og hvad vi godt kan lide. Og virksomhederne bag apperne tjener store penge på at sælge disse data – i anonymiseret form, lover de – til trackingfirmaer og andre, som lever af at målrette annoncering på nettet.
+LÆS OGSÅ
+Eksperter: Google ved &raquo;fuldstændig vanvittigt&laquo; meget om dig
+Det er i sig selv ikke noget, der kan hidse unge Facebook-brugere op, siger Anja Bechmann. 
+»De er vokset op med dataovervågning. De er helt med på, at nettet i udgangspunktet er et offentligt forum«, siger hun. 
+»Men filmen knækker, når de unge opdager, at de rum, som de tror er private – mailbokse og private grupper – også kan blive overvåget«, siger Anja Bechmann. 
+Så man skal under alle omstændigheder tænke sig godt om, inden man lægger private oplysninger på nettet, advarer chefkonsulent Henning Mortensen, Dansk Industri. 
+»Det kan være sjovt og for den sags skyld også relevant her og nu at promovere sig selv på forskellige måder. Men man skal bare huske, at
+the net never forgets.
+De informationer, vi i dag giver til Facebook, og som andre virksomheder kan trække ud, forsvinder aldrig. Og måske har man om ti år ikke lyst til, at alle mulige kender for eksempel ens seksuelle præferencer«, siger han og minder om, at der er masser af eksempler på, at virksomheder bruger informationer fra Facebook, når de skal vurdere ansøgere til stillinger.
+LÆS OGSÅ
+Facebook dropper at genkende ansigter automatisk
+Ifølge Anja Bechmann er handlen med persondata en præmis for den måde, nettet fungerer på. Og Facebook og andre sociale netværk er i dag en så integreret del af vores identitet, at det er utopisk at forestille sig, at ret mange vil droppe at bruge dem, bare fordi de bliver opmærksomme på, at andre end deres Facebook-venner har adgang til deres private data. 
+»Unge i dag har i realiteten slet ikke noget valg. De
+skal
+have adgang til de sociale netværk for at have adgang til deres venner«, siger Anja Bechmann. 
+Og at kræve endnu mere ’gennemsigtighed’ i form af endnu flere dokumenter, som i detaljer beskriver, hvordan virksomhederne håndterer kravet om privacy, skaber bare en falsk tryghed. Fordi ingen læser dokumenterne. 
+»Hvad vi har brug for, er eksperter, der holder øje med det her og fortæller os, hvad det er, der foregår. Fordi vi ikke selv har ressourcerne til at gøre det. Og det er ikke, fordi det, der foregår, nødvendigvis er farligt, og fordi der skal sættes en stopper for det. Men fordi det er vigtigt at vide, så man selv kan handle på et informeret grundlag«, siger hun. 
+ Som gymnasiasterne i forskningsprojektet gjorde, da de var blevet interviewet af Anja Bechmann og havde fået at vide, hvilke former for persondata de forskellige apper hentede fra Facebook: 
+»Så gik de direkte i gang med at slette de apper, som de syntes gik for vidt«.

@@ -1,0 +1,7 @@
+Title: Sikkerhedshul_afsløret_Stol_aldrig_pa_en_sms_pa_e
+Date: 2012-08-21
+Article Type: Digitalt
+Author: Søren Dilling
+
+Et sikkerhedshul i behandlingen af sms'er i styresystemet til iPhones, iOS, gør det muligt at modtage sms'er med forfalsket afsender-nummer.
+Advarslen kommer fra DK-CERT, der overvåger it-sikkerheden på danske netværk.

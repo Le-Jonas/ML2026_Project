@@ -1,0 +1,7 @@
+Title: Hackerangrebet_er_en_alvorlig_advarsel
+Date: 2012-10-06
+Article Type: Michael Jarlner
+Author: Michael Jarlner
+
+Det føltes måske som en overkommelig skade, da anonyme hackere i går lammede en stribe af Sveriges officielle hjemmesider.
+Men i virkeligheden rummer angrebet en serie gravalvorlige pointer, der både udstiller vores sårbarhed og varsler en fremtid med langt alvorligere cybertrusler.

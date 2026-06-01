@@ -1,0 +1,17 @@
+Title: Danmark_stoler_mere_pa_Google_end_nabolande
+Date: 2012-08-30
+Article Type: Digitalt
+Author: Kim Faber
+
+Journalist
+Torben Benner
+Journalist
+Tusindvis af private og offentlige danske virksomheder bruger Google Analytics - en gratis nettjeneste, som analyserer trafik på hjemmesider.
+Men dermed overtræder de loven om beskyttelse af personoplysninger, mener flere eksperter i it-sikkerhed. 
+ Norges datatilsyn har netop kendt brugen af Google Analytics ulovlig. Årsagen er, at de cookies, som Google Analytics på vegne af virksomheder anbringer i brugernes private computere, røber pc’ernes såkaldte ip-adresser til Google.
+LÆS OGSÅ
+Firmaer bryder loven på nettet
+Og da EU, hvis lovgivning Norge læner sig op ad, definerer ip-adressen som en personoplysning er det forbudt, medmindre brugerne udtrykkeligt giver tilladelse til det.
+Tysk tvang
+Det er heller ikke lykkedes nordmændene at få klart svar på, om Google bruger de oplysninger, der indsamles via Google Analytics, til andre formål end analyse af trafik på websider. 
+Hvis det sker, er også det ulovligt. De norske virksomheder har fået indtil 10. september til at indhente svar på datatilsynets spørgsmål.

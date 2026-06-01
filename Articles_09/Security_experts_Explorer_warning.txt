@@ -1,0 +1,7 @@
+Title: Security_experts_Explorer_warning
+Date: 2012-09-18
+Article Type: Danmark
+Author: Julian Isherwood
+
+A new virus which makes Microsoft’s Internet Explorer susceptible to hackers has prompted computer experts to recommend users to temporarily stop using the popular Microsoft browser.
+“Hackers can use the vulnerability to get access to all the files on your computer,” says Tod Beardsley of Rapid7.

@@ -1,0 +1,7 @@
+Title: Firma_bag_NemID_Vi_er_nødt_til_at_gøre_noget_-_de
+Date: 2013-04-12
+Article Type: Digitalt
+Author: Rasmus Dam Nielsen
+
+Sikkerheden omkring NemID er ikke god nok.
+Det indrømmer firmaet, der administrerer loginsystemet, Nets DanID, efter at det i går lykkedes hackere at lægge NemID ned i flere timer.

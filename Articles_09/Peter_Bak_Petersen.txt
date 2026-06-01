@@ -1,0 +1,10 @@
+Title: Peter_Bak_Petersen
+Date: 2013-02-26
+Article Type: Fødselsdage
+Author: Peter Bak Petersen, systemadministrator, konsulent, Hammel, fylder 30 i dag.
+
+Peter Bak Petersen, som har været ansat i it-selskabet Evry siden april 2007, har sine hovedkompetencer inden for systemet Sap Basis og infrastruktur samt server- og netværksadministration. 
+Han har seks års erfaring med Sap Basis, har mere end syv års ekspertise inden for virtualiseringsteknologi og har arbejdet med netværk i over ti år. 
+Hos Evry, der er et af Nordens største it-huse, ligger hans primære fokus på de interne systemer, og han administrerer bl.a. alt i serverrummet, herunder en række Sap-systemer, der bruges til udvikling, uddannelse og produktionssystemer. 
+De fleste af systemerne har Peter Bak Petersen selv installeret, ligesom han også forestår løbende Sap Basis-support og systemopgraderinger. 
+Ud over at have ansvaret for Evrys interne systemer yder han support til en stor del af selskabets eksterne kunder.

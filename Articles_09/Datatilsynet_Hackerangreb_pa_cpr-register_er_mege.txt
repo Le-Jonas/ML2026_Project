@@ -1,0 +1,20 @@
+Title: Datatilsynet_Hackerangreb_pa_cpr-register_er_mege
+Date: 2013-06-06
+Article Type: Digitalt
+Author: Søren Astrup
+
+Journalist
+»Vi skal som borgere kunne have tillid til, at oplysningerne er ordentligt beskyttede hos myndighederne«.
+Det siger kontorchef i Datatilsynet Lena Andersen efter afsløringen af, at hackere i flere måneder har kunnet trænge ind i registre hos Rigspolitiet, hvor de har haft adgang til blandt andet cpr-numrene.
+De kan muligvis også havde været inde i Skats oplysninger og i selve cpr-registrerets base over samtlige danskere.
+»Det er meget alvorligt og bekymrende, for de her oplysninger skal beskyttes«, siger Lena Andersen.
+Datatilsynet har straks beordret Rigspolitiet til at redegøre for, hvordan det omfattende indbrud i de dybt fortrolige registre kunne finde sted. Tilsyneladende har gerningsmændene gennem fem måneder haft adgang til registrene hos de offentlige myndigheder.
+LÆS ARTIKEL
+»Det her viser, at it-sikkerhed skal meget højt på dagsordenen hos alle myndigheder«, understreger kontorchefen fra Datatilsynet.
+Ifølge Rigspolitiet kan det ikke udelukkes, at der er ændret i de offentlige registre, hackerne har haft adgang til.
+Rigspolitiet kan endnu ikke sige, hvor meget hackerne har kunnet se i registrene eller om de mennesker, hvis oplysninger kan være sluppet ud, vil blive advaret af myndighederne.
+Søren Astrup
+fortsæt med at læse
+Unge er de nemmeste ofre for identitetstyveri
+Identitetstyveri: Lizl fandt sit billede på en andens Facebookprofil
+Sådan bliver du overvåget på din iPhone, iPad og iPod

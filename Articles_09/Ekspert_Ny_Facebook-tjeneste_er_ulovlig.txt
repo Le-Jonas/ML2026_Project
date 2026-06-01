@@ -1,0 +1,20 @@
+Title: Ekspert_Ny_Facebook-tjeneste_er_ulovlig
+Date: 2012-09-14
+Article Type: Digitalt
+Author: Kim Faber
+
+Journalist
+Torben Benner
+Journalist
+De fleste kender til at blive spammet med reklamer i deres mailboks. Men nu kan Facebookbrugere forvente at blive spammet med reklamer på deres væg – der, hvor man udveksler nyheder og beskeder med sine Facebookvenner. 
+Det bliver resultatet af en ny annoncetjeneste, Custom Audience Targeting, som Facebook netop har introduceret til sine mest værdifulde og innovative annoncører: 
+ Hvis annoncørerne overlader data fra deres kundekartoteker til Facebook – telefonnumre eller mail-adresser – tilbyder Facebook at samkøre disse data med Facebooks egne data. Formålet er at identificere de af virksomhedernes kunder, som også har en Facebookkonto, og dermed give virksomhederne mulighed for at målrette deres annoncer til personer, som tidligere har vist interesse for deres produkt.
+LÆS ARTIKEL
+Netbrugere ved ikke, hvad de siger ja til på Facebook og Google
+»Men det vil klart være ulovligt«, siger Charlotte Bagger Tranberg, lektor ved Juridisk Institut på Aalborg Universitet og ekspert i persondataret. Medmindre virksomhederne direkte har fået lov af kunderne til at videregive oplysninger til tredjepart. 
+»En forretning må gerne indsamle personoplysninger med det formål at markedsføre sig over for sine kunder. Men det står direkte i persondataloven, at virksomheder ikke må videregive oplysninger om kunderne til en anden virksomhed til brug for markedsføring. Det er heller ikke tilladt at anvende oplysningerne på vegne af en anden virksomhed i dette øjemed, som det hedder, medmindre kunden har givet sit udtrykkelige samtykke til det«, siger hun.
+Oplysninger krypteres
+Facebooks svar er, at de personlige data fra virksomhederne – kundernes mail-adresser og telefonnumre – bliver krypterede, så det ikke er muligt at genkende personer, inden data bliver samkørt med Facebooks data, og at data i øvrigt bliver slettet, når de er blevet brugt. 
+Desuden bliver annoncerne ikke rettet mod enkeltpersoner, men mod grupper på mindst 20 personer, der lever op til kriterier, som virksomheden har formuleret – for eksempel mænd i et bestemt geografisk område mellem 20 og 50 år.
+LÆS OGSÅ
+Sådan minimerer du Googles viden om dig

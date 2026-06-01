@@ -1,0 +1,8 @@
+Title: Nils_Andersen
+Date: 2013-03-19
+Article Type: Fødselsdage
+Author: Han blev student fra Øregaard Gymnasium i 1961, kandidat i matematik fra Københavns Universitet som 22-årig og i 1966 amanuensis på Polyteknisk Læreanstalt med henblik på programmeringsundervisning. 
+I 1969 skrev han en af de første dansksprogede lærebøger i programmering, og samme år kom han til KU, hvor han arbejdede ved Datalogisk Institut fra dets etablering i 1970. 
+Gennem årene har han præsenteret mere end et dusin forskellige programmeringssprog for de studerende. 
+Han var de videnskabelige medarbejderes tillidsrepræsentant og sad i en periode i DM's hovedbestyrelse. Også efter sin formelle pensionering i 2005 fortsatte han med at udvikle undervisningsprogrammer for Diku, og i 2011 fik han tildelt instituttets pris som årets underviser.
+

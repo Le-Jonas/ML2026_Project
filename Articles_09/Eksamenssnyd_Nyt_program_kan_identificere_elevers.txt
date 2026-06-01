@@ -1,0 +1,8 @@
+Title: Eksamenssnyd_Nyt_program_kan_identificere_elevers
+Date: 2013-05-26
+Article Type: Uddannelse
+Author: Signe Aarestrup
+
+Journalist
+Inden længe samles gymnasieeleverne ved de grønne borde. Hvert år afsløres nogle i at snyde til eksamenerne, men snart bliver det måske endnu sværere at fuske med opgaverne.
+Niels Dalum Hansen, kandidatstuderende på datalogi på Københavns Universitet, er i færd med at udvikle et nyt program, der kan tegne et skriftligt fingeraftryk af eleverne.

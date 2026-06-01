@@ -1,0 +1,7 @@
+Title: Sydbanks_netbank_er_under_angreb_14_konti_hacket
+Date: 2012-08-14
+Article Type: Privatøkonomi
+Author: Søren Dilling
+
+Netbanken hos Sydbank er lige nu under angreb af hackere, som bruger virus til at forsøge at inficere brugernes windows-pc'er, så de kan skaffe sig adgang til deres netbankkonti.
+Sådan lyder advarslen til brugerne, når de logger ind på netbanken.

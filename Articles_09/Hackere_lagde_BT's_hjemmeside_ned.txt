@@ -1,0 +1,7 @@
+Title: Hackere_lagde_BT's_hjemmeside_ned
+Date: 2013-02-11
+Article Type: Medier
+Author: Marie Sæhl
+
+I sidste uge lykkedes det næsten hackere at lægge ekstrabladet.dk ned, og nu viser det sig, at bt.dk har været udsat for et lignende angreb.
+Angrebet var mere alvorligt for bt.dk end for ekstrabladet.dk, da hackerne for en tid havde held med sætte sitet ud af drift.

@@ -1,0 +1,7 @@
+Title: Hackere_Det_koster_en_50'er_at_lægge_NemID_ned
+Date: 2013-04-12
+Article Type: Digitalt
+Author: Rasmus Dam Nielsen
+
+Hvis du har lidt teknisk snilde, er en 50'er, et program hentet på nettet og en VPN-opkopling det eneste, du behøver for at tvinge hele landets loginsystem i knæ.
+Det fortæller folkene bag det hackerangreb, der i går betød, at det i timevis var stort set umuligt, at bruge netsteder, hvor man skal logge ind med NemID.

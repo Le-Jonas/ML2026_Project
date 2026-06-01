@@ -1,0 +1,13 @@
+Title: Digital_ID_tilbage_til_borgernes_lommer!
+Date: 2013-04-11
+Article Type: Læserbreve
+Author: Claus Birch
+
+Om dagens og det tidligere ”nedbrud” af NemID er der kun ét at sige: 
+Væk med den centrale løsning for noget så vigtigt som borgerens digitale signatur og tilbage med den til den rette ejermand, nemlig borgeren. Slut prut!!! 
+Der er nemlig absolut ingen grund til at tro, at det ikke sker det igen. Nemlig at kriminelle grupper så nemt som at klø sig i r……, kan lægge en så vital del af den danske internetstruktur ned med store konsekvenser for landets borgere til følge. 
+ I mit stille sind tænker jeg, at hvis angrebet ikke i dag er blevet udnyttet til andet kriminalitet end chikane, så vil det næste blive det. Ingen tvivl om at kreative sjæle næste gang vil have skytset parat til at gå efter guldet – eksempelvis bankernes ”nødløsninger”. Og hvilke ”nødløsninger” mon det offentlige finder på, hvis et angreb varer dage eller uger, som det skete i Sverige for et års tid siden. 
+Når NemID samtidig er baseret på en uigennemsigtig, stærkt forældet og særdeles sårbar teknologi som en Java-applet, kan det kun gå for langsomt med at få stoppet galskaben, inden det går helt galt. 
+Derfor skal nøglen til det hele tilbage, hvor nøgler hører til, nemlig i borgerens lomme sammen med alle de andre. Det må nu være helt klart, at nøgler ikke opbevares sammen med låsen og det ikke kan nytte at én tændstik i én lås kan lukke et helt land ude. 
+Den offentlige digitaliserede borger-service, hvor alt er baseret på NemID skal nødvendigvis kunne fungere 24/7/365 og må naturligvis ikke kunne sættes i stå på én gang og ved at angribe ét sted og det er utænkeligt, at det i nær fremtid vil være muligt at modstå sådanne angreb uden enorme økonomiske omkostninger. 
+ Det er muligt, at sagen i dag er blevet til en politisag, men det er en sag, der hører til i folketinget – og det kan kun gå for langsomt med en løsning, der er sikker for BORGEREN.

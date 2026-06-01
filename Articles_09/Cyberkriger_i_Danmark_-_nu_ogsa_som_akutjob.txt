@@ -1,0 +1,36 @@
+Title: Cyberkriger_i_Danmark_-_nu_ogsa_som_akutjob
+Date: 2013-02-23
+Article Type: Michael Jarlner
+Author: Har du solidt kendskab til arbejdet med netværk på TCP/IP-niveau? 
+Har du styr på SNORT, SQL-injections, fuzzing og penetrationstest på avanceret niveau? Og har du 'kinesiske sprogfærdigheder på højt niveau'? 
+ Så har Forsvarets Efterretningstjeneste (FE) muligvis et job til dig. I hvert fald er det nogle af de krav, som den ellers så hemmelighedsfulde danske efterretningstjeneste lige nu stiller i en lille håndfuld jobopslag på sin hjemmeside. 
+LÆS OGSÅMicrosoft udsat for hackerangreb
+Jobbene som cyberkrigere og it-agenter er i tråd med regeringens linje slået op som akutjob. Men nok så vigtigt: De vidner også om et dansk forsvar, der stille og roligt er begyndt at indstille sig på en helt ny æra. 
+En æra, som dels indeholder nye former for krig og trusler, og som dels arbejder med nye fjendebilleder, hvor det bl.a. er vigtigt at kunne kinesisk (andre taler arabisk, russisk osv.). 
+ Jobopslagene ligger helt i forlængelse af efterretningstjenestens seneste trusselsvurdering, hvor et fremtrædende kapitel hedder 'Truslen i cyberspace og spionage'. Det indledes således: 
+»Truslen fra stater, grupper og enkeltpersoner i cyberspace medfører generelt en sikkerhedsrisiko for det danske samfund og dansk forsvar, herunder udsendte enheder. Fremmede efterretningstjenester, terror- og oprørsgrupper samt kriminelle organisationer og grupper bruger i stigende grad internettet til at spionere mod Danmark eller til at anrette skade på danske hjemmesider og servere«. LÆS OGSÅNy rapport: Kinesiske regeringshackere angriber USA fra 12-etagers hus.
+Advarslen er forholdsvis afdæmpet i forhold til de advarsler, der kommer fra den anden side af Atlanten. Hør blot, hvordan det ansete amerikanske webmagasin The Daily Beast indledte en artikel for et par dage siden: 
+»Hvis mareridtsscenariet pludselig bliver til virkelighed ... Hvis hackere lukker af for elnettet, og resten af den kritiske infrastruktur går ned sammen med det ... Hvis vi bliver kastet ud i kaos og udsættes for større fysisk ødelæggelse end 50 kæmpeorkaner og økonomisk skade, der får Den Store Depression til at blegne ... Så vil vi spekulere over, hvorfor vi ikke tog os i agt for dét, den afgående (amerikanske, red.) forsvarsminister Leon Panetta har kaldt et 'cyber-Pearl Harbor'«. Alle mareridts moder
+ Alle mareridtsscenariers moder er, fastslår Daily Beast, en situation, hvor et cyberangreb lammer alt fra el-, olie-, benzin- og vandforsyningen til kemiske værker og infrastrukturen. Eller som Leon Panetta formulerede det i en tale i oktober: 
+»En angribende nation eller ekstremistisk gruppe kan bruge disse former for cyberredskaber til at skaffe sig kontrol over kritiske kontrolsystemer. De kan afspore tog eller, endnu farligere, afspore tog med livsfarlige kemikalier. De kan forgifte vandforsyningen i større byer og lukke for elnettet i store dele af landet«.
+
+Da den amerikanske forsvarsminister kom med sin advarsel, opfattede mange den som skinger. Eller i hvert fald som udtryk for så meget science fiction-tankegang, at debatten om den virkede mindre påtrængende end debatten om USA's ubemandede dødspatruljer af droner. 
+Men i denne uge var det, som om cyberdebatten rykkede lidt nærmere. 
+I hvert fald vakte det international opsigt, da det amerikanske sikkerhedsfirma Mandiant offentliggjorde en rapport, hvor det sandsynliggjorde, at Kinas militær via Folkets Befrielseshær (PLA) og dens Enhed 61398 i Shanghai har stået bag hackerangreb mod mindst 141 organisationer siden 2006. De fleste computerindbrud var rettet mod amerikanske virksomheder. 
+ Rapporten kom lige efter afsløringen af en serie hackerangreb mod de amerikanske aviser New York Times, Wall Street Journal og Washington Post, ligesom korrespondenter, der skriver om Kina og den kinesiske regering, havde fået hacket deres konti på sociale netværk om Twitter og Facebook. 
+New York Times rystede sidste år den kinesiske elite ved at afsløre, hvordan ministerpræsident Wen Jiabaos 90-årige mor og øvrige familie havde opbygget en milliardformue.
+Fremtiden er her allerede
+For Obama-regeringen var det bekvemt, at afsløringen af den kinesiske Enhed 61398 kom fra et privat selskab som amerikanske Mandiant, som styres af den 42-årige Kevin Mandia, der er tidligere cyberspecialist i USA's militær. For på den måde behøvede præsidenten ikke løfte sløret for det officielle USA's eget cyberspionageprogram. 
+På den måde kan de digitale sikkerhedsfirmaer som Mandiant siges at spille lidt af den samme rolle, som mere konventionelle sikkerhedsfirmaer som det omstridte Blackwater har spillet i den fysiske verden. 
+De digitale sikkerhedsfirmaer repræsenterer da også en hastigt voksende branche, der nu omsætter for over 150 milliarder kroner om året, og som har en indlysende økonomisk interesse i at påpege cybertrusler. Alligevel tages de alvorligt. Og det er der gode grunde til.
+LÆS OGSÅ
+Det er kun de paranoide, der overlever
+Dels virkede Mandiants afsløringer overbevisende. Dels passede de ind i et mønster, hvor cyberspace langsomt er begyndt at udvikle sig til en femte krigsdimension efter de mere klassiske områder: land, vand, luft og rummet. 
+Den helt store erkendelse af sidstnævnte kom med sidste års afsløring af, at det var USA og Israel, der i 2010 lammede Irans omstridte atomprogram med avancerede computerorme som Flame og Stuxnet: Hvor man tidligere ville have brugt bomber og soldater til den slags, brugte man her cyberspace. 
+Men bivirkningen var en yderligere militarisering af det cyberspace, som mange ellers var begyndt at opfatte som et fredeligt, globalt offentligt gode. 
+Og sidste år gjorde iranerne formentlig gengæld, da USA's nære allierede Saudi-Arabien via oliegiganten Saudi Aramco blev angrebet med den superavancerede Shamoon-virus, der ødelagde 30.000 computere.
+LÆS OGSÅ
+Kinas regering benægter at stå bag kæmpe hackerangreb mod Twitter
+Også sikkerhedsgiganten Telvent, der står for sikkerhedssystemerne i nogle af Nord- og Latinamerikas største energiselskaber, blev sidste år ramt af et hackerangreb - ifølge nyhedsbrevet Security Week fra en kinesisk gruppe. Målet var tilsyneladende ikke at stjæle information, men at teste systemets sårbarhed over for fjendtlig kontrol. 
+ Det er hele dette trusselsbillede, også Danmark så småt er begyndt at erkende. Med den store ubekendte, at 'fjenden' kan være alt fra en stat til en terrororganisation eller andet, der arbejder på engelsk, kinesisk, arabisk eller andet. 
+Og derfor søger også Forsvarets Efterretningstjeneste lige nu nye eksperter. Også som akutjob.

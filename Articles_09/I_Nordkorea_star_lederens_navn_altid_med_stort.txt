@@ -1,0 +1,8 @@
+Title: I_Nordkorea_star_lederens_navn_altid_med_stort
+Date: 2012-12-13
+Article Type: Bagsiden
+Author: Søren Astrup
+
+Journalist
+Et lille stykke html-kode på hver eneste af de officielle nordkoreanske hjemmesider har en særlig funktion: Den skal sikre, at navnet på landets leder altid står med lidt større bogstaver end resten af teksten.
+Det er blot en af finurlighederne i det særdeles lukkede lands internet, der er en sjælden fornøjelse i landet.

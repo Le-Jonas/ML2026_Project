@@ -1,0 +1,6 @@
+Title: Ondsindet_virus_misbruger_politiets_navn_for_at_lo
+Date: 2013-03-19
+Article Type: Digitalt
+Author: Ukendte gerningsmænd forsøger at lokke penge ud af computerbrugere ved at udgive sig for at være politiet.
+
+En ny virus, der er i omløb, går ind og spærrer folks computere under dække af, at det er politiet, som står bag. Virussen sender den besked, at computeren kan genåbnes mod betaling.

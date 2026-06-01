@@ -1,0 +1,6 @@
+Title: EU_laver_kæmpe_hackerangreb_pa_sig_selv
+Date: 2012-10-04
+Article Type: Digitalt
+Author: Hvad sker der, hvis hackere en dag laver et massivt angreb på hjemmesider, der tilhører EU-landenes regeringer, banker og store virksomheder?
+
+Det spørgsmål har EU-Kommissionen sat sig for at finde svaret på. Hele torsdag tester de sikkerhedssystemerne i Danmark og i de andre medlemslande ved at efterligne et rigtigt hackerangreb.

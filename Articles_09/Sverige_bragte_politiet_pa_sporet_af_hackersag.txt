@@ -1,0 +1,36 @@
+Title: Sverige_bragte_politiet_pa_sporet_af_hackersag
+Date: 2013-06-06
+Article Type: Digitalt
+Author: Søren Astrup
+
+Journalist
+Pia Buhl Andersen
+Journalist
+Det var Sverige, der i januar i år bragte det danske politi på sporet af det hackerangreb, der har været ved it-virksomheden CSC, som varetager blandt andet politiets kørekortregister, Skat og systemer fra Moderniseringsstyrelsen.
+Det oplyses på et pressemøde ved Københavns Politigård, hvor Københavns Politi, Rigspolitiet og Politiets Efterretningstjeneste fortæller om hackersagen.
+Den blev afsløret, da efterforskere i Sverige i januar henvendte sig til det danske politi med oplysningen om, at der kunne være foretaget et angreb mod CSC - et it-firma, der opbevarer en stor del af de fortrolige offentlige registre.
+Under efterforskningen af en omfattende hackersag i Sverige viste det sig nemlig, at en såkaldt ip-adresse - en computeradresse - var dukket op.
+Henvendelsen fra det svenske politi fik deres danske kolleger til at advare CSC om sikkerhedsproblemet.
+»De bekræfter, at det er rigtigt, at der har været uautoriseret adgang til data, som den svenske efterforskning peger på«, siger rigspolitidirektør Jens Henrik Højbjerg på pressemødet.
+National sikkerhed
+Herefter er der gået en stor efterforskning i gang. Den førte i går til ransagninger og anholdelsen af en mand, der sigtes for at have deltaget i hackerangrebene.
+Han mistænkes for at have skaffet sig adgang til 10.000 tjenestemænds kodeord og mailkonti og givet oplysningerne videre.
+Manden og hans svenske formodede medgerningsmænd sigtes for at ulovlig indtrængen i offentlige informationssystemer, forstyrrelse af offentlige informationssystemer og hærværk mod offentlige informationssystemer, oplyser Københavns politidirektør Thorkild Fogde.
+LÆS MERE
+Politiet: Pirate Bay-hacker står bag cpr-angreb
+»Det er fuldstændigt uacceptabelt, at det kan lade sig gøre«, siger Jens Henrik Højbjerg om sikkerhedshullet.
+Ifølge hans oplysninger er der blandt andet blevet hentet efterlysningsoplysninger fra schengensystemet og oplysninger om domme, der skal forkyndes. De andre lande i schengensystemet er blevet orienteret om den danske sikkerhedsbrist.
+Politiets Efterretningstjeneste (PET) er også involveret i sagen. Dels fordi PET har medarbejdere med kompetencer, der kan hjælpe i efterforskningen, forklarer PET-chef Jakob Scharf.
+»Vi går også ind, fordi det er rettet mod CSC. Det har elementer i sig, som har interesse for den nationale sikkerhed. Fra PET's side iværksætter vi en undersøgelse af sikkerhedsbruddet«, siger Jakob Scharf.
+Strafferammen for hackersager er seks år, oplyser rigspolitichefen.
+Han mener ikke, at der er grund til bekymring for danskere, hvis personoplysinger optræder i de registre, hackerne kunne komme ind i.
+Men for en sikkerheds skyld har politiet lagt råd og vejledning til borgerne om, hvad de skal gøre for at beskytte sig mod misbrug af deres cpr-oplysinger eller andre data ud.
+LÆS ARTIKEL
+Politiet ved endnu ikke, hvor mange borgeres data nu risikerer at være tilgængelige for andre end de danske myndigheder. Men ifølge oplysningerne fra rigspolitichefen kan der være tale om en million cpr-numre, som hackerne kan have fået fingre i.
+Det er heller ikke klarlagt, om it-indbruddet er sket for at tjene lette penge eller om gerningmændene har haft andre motiver til at forsøge at få fat i de de fortrolige oplysninger, borgerne har givet politiet.
+Ifølge Jens Henrik Højbjerg ligger flere andre følsomme registre fortsat hos CSC, heriblandt anmeldelsesregistre, hvor danskere har givet politiet oplysninger om kriminelle.
+Pia Buhl Andersen
+fortsæt med at læse
+Politikere kritiserer politiet for at ignorere tip om cpr-hacking
+Justitsministeren: Vi gør alt for at optrævle hacker-angreb
+Hackere har fået adgang til flere millioner cpr-numre

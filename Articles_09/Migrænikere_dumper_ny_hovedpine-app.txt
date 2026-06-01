@@ -1,0 +1,7 @@
+Title: Migrænikere_dumper_ny_hovedpine-app
+Date: 2013-05-03
+Article Type: Sygdom
+Author: Søren Dilling
+
+Før rodede migrænepatienter med dagbøger, hvor alle anfald, deres kraftighed, medicinen og de symptomfri perioder blev skrevet ind i hånden.
+Men i et samarbbejde mellem medicinalfirmaet Phizer og Dansk Hovedpinecenter på Glostrup Hospital er der nu udviklet en app til iPhone og Android telefoner, der kan holde styr på alle begivenheder og endda udskrive en rapport, den dag patienten skal til lægen og dokumentere sygdomsforløbet.

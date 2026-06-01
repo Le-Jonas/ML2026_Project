@@ -1,0 +1,7 @@
+Title: Se_om_dit_YouSee-udstyr_er_forældet
+Date: 2012-11-01
+Article Type: Digitalt
+Author: Søren Dilling
+
+Det er nemt at tjekke, om husstanden vil blive berørt, når YouSee lukker for tv-signalerne i det ældre mpeg-2 format til et antal kanaler på YouSee kabel-tv i 2013.
+For hvis man kan modtage for eksempel DR's HD-kanal eller TV 2 HD, så er det en mpeg-4 tuner der sidder i apparatet.
