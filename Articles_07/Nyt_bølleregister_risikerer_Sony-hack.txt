@@ -1,0 +1,7 @@
+Title: Nyt_bølleregister_risikerer_Sony-hack
+Date: 2011-05-10
+Article Type: Digitalt
+Author: Søren Dilling
+
+Det nye danske register over bøller, som skal sikre diskoteker og sportsarrangementer mod uønskede gæster, er selv elendigt sikret mod ubudne gæster.
+Sikkerheden i registeret er så dårlig, at det risikerer at blive hacket på samme måde som professionelle hackere har brudt ind i Sonys servere og stjålet oplysninger om over 100 millioner registrerede personer.

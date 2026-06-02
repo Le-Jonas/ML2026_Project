@@ -1,0 +1,20 @@
+Title: Nyt_tiltag,_der_skal_beskytte_unge_pa_Instagram,_k
+Date: 2022-11-07
+Article Type: Kultur
+Author: Unge brugere kan fremover gøre brug af video-selfies til at bekræfte deres alder på Instagram.
+
+Det sociale medie Instagram øger nu sit fokus på aldersverificering, som skal være med til at give unge mennesker på mediet en bedre oplevelse – og desuden øge sikkerheden.
+Det øgede fokus betyder, at aldersverificering nu kan ske ved, at brugeren tager en såkaldt video-selfie, som kan være med til at bekræfte brugerens alder.
+Meta, der står bag Instagram, får hjælp af tech-virksomheden Yoti, som har specialiseret sig i aldersverificering med fokus på brugerens privatliv.
+Yoti får tilsendt video-selfien fra Instagram og skal ud fra den komme med et estimat af brugerens alder.
+Det estimat sendes derefter retur til Instagram, hvorefter brugerens video-selfie slettes af både Yoti og Instagram.
+Teknologien, som Yoti gør brug af, kan ikke genkende identiteten på brugeren, men kun brugerens alder.
+Aldersverificering skal ske, hvis brugeren ønsker at ændre sin alder fra under 18 til over 18 år.
+Tidligere har brugere kunne verificere deres alder ved at indsende et billede af deres ID eller få nogle af deres venner til at bekræfte deres alder. Dette vil fortsat være en mulighed.
+De seneste år har Instagram iværksat en række initiativer, som skal være med til at gøre det mere trygt for unge mennesker under 18 år at have en profil.
+Instagram har blandt andet gjort, at det ikke er muligt for en person over 18 år at skrive til en person under 18 år, medmindre de to følger hinanden.
+Derudover er brugeres profiler under 18 år som udgangspunkt private. Det betyder, at brugere under 18 skal acceptere, hvis andre ønsker at følge dem.
+Det er dog stadig muligt for brugere under 18 år at gøre deres profil offentlig.
+Den nye mulighed for aldersverificering gennem video-selfies blev i sommer lanceret i USA. Nu er turen altså kommet til Danmark og flere andre europæiske lande.
+ritzau
+fortsæt med at læse

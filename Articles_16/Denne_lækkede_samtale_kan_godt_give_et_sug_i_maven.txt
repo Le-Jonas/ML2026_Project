@@ -1,0 +1,16 @@
+Title: Denne_lækkede_samtale_kan_godt_give_et_sug_i_maven
+Date: 2022-08-06
+Article Type: Kultur
+Author: Hals ikoniske røde øje fra ’Rumrejsen år 2001’ fra 1968. Hal er designet til at hjælpe og står for at styre rumskibet ’Discovery One’. Men den begynder at opføre sig underligt.
+
+Hals ikoniske røde øje fra ’Rumrejsen år 2001’ fra 1968. Hal er designet til at hjælpe og står for at styre rumskibet ’Discovery One’. Men den begynder at opføre sig underligt.  Foto: Cryteria
+Kan et computersystem have følelser og en sjæl? Det påstår en nu fyret Google-udvikler om det raffinerede samtalesystem LaMDA. Jeg dykker ned i hans dokumentation med skepsis – og en smule ængstelse. For hvad hvis han har ret? Jeg ved jo fra film og bøger, at selvstændige supercomputere kan ende med at udslette os.
+Som abonnent kan du ubegrænset dele artikler med dine venner og familie. Læs mere om fordelene ved et abonnement
+her
+.
+I
+begyndelsen af juni finder et hemmeligt møde sted i den amerikanske by San Francisco, ikke langt fra Googles hovedkvarter i Santa Clara County.
+Mødet foregår i softwareudvikler Blake Lemoines lejlighed. Foruden ham selv er en journalist fra Washington Post til stede, og hun laver en lydoptagelse af deres møde til en af avisens podcasts. Man kan her høre udvikleren tænde for sin computer og vente, mens maskinen åbner en chat baseret på verdens måske mest avancerede samtalesystem. Et system, der er årsag til alt hemmelighedskræmmeriet. Og som på sin vis er mødets hovedperson.
+»Lad mig se, om mit password stadig virker«, mumler softwareudvikleren, mens lyden af travl trafik summer i baggrunden, formentlig grundet åbne vinduer i sommervarmen.
+Kort efter er der hul igennem til noget, Blake Lemoine har sammenlignet med »et sødt barn«, der gerne vil hjælpe og gøre gode ting:
+Allerede abonnent? Log ind her

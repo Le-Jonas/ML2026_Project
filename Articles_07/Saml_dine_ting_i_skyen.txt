@@ -1,0 +1,7 @@
+Title: Saml_dine_ting_i_skyen
+Date: 2011-01-14
+Article Type: Digitalt
+Author: Søren Dilling
+
+Det med at have sine dokumenter liggende i den såkaldte sky er stadig kun noget, de færreste bruger, og måske er en af årsagerne, at der er så mange forskellige tjenester derude, hvor man skal huske kodeord og brugernavn og huske hvad man i det hele taget har liggende hvor.
+I virkeligheden dækker ordet sky over, at du har dine ting liggende på typisk et firmas server og har adgang til det via internettet.

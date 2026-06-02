@@ -1,0 +1,10 @@
+Title: Folkeskolens_brug_af_Google_kan_være_skadelig_»De
+Date: 2022-07-19
+Article Type: Danmark
+Author: En stor del af danske skoleelever, der bruger Google Workspace, kan blive berørt af forbud i Helsingør. Pernille Tranberg fra den dataetiske tænketank Dataethics har længe advaret mod Googles dominans og overvågning i børnehøjde.
+
+Per Munch
+Journalist
+Næsten halvdelen af de danske folkeskoler bruger en Chromebook-computer med Googles styresystem og programpakken Workspace for Education. Datatilsynet har forbudt Helsingør Kommune at bruge Workspace, da der ikke er styr på datasikkerheden. Det vil sige, at personoplysninger kan gå til tredjepart. Og 26 andre skoler er i søgelyset, oplyser Datatilsynet.
+Det bliver dyrt at forbyde elever at bruge deres Chromebooks
+Pernille Tranberg, digital rådgiver og medstifter af tænketanken Dataethics, ryster på hovedet i sit sommerhus. Hun ser en uheldig udvikling, som hun har advaret mod gang på gang, mens godt 40 kommuner har investeret massivt i Chromebook og Workspace fra Google.

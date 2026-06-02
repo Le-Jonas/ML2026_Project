@@ -1,0 +1,25 @@
+Title: »Vi_beklager_dybt«_Mellem_10_og_50_borgere_har_fae
+Date: 2022-03-24
+Article Type: Danmark
+Author: Selskab bag Mit.dk beklager, at der blev delt oplysninger fra digitale postkasser. Omfanget undersøges stadig.
+
+Artiklen er opdateret klokken 20.01
+Den nye digitale postkasse Mit.dk har denne uge fået en noget skæv start.
+På grund af ’en menneskelig fejl’, som ramte login-systemet, er der blevet delt oplysninger fra mellem 10 og 50 digitale postkasser på Mit.dk.
+Det oplyser selskabet bag Mit.dk, Netcompany, torsdag aften.
+Mit.dk gik i luften mandag morgen.
+53 minutter efter lanceringen blev Netcompany opmærksom på problemer, og klokken 09.15 var platformen lukket for alle, oplyser selskabet.
+Først onsdag eftermiddag var systemet oppe at køre igen.
+»Vores dataanalyser viser på nuværende tidspunkt, at problemet har ramt mellem 10 og 50 digitale postkasser, hvor der er delt oplysninger fra«, siger Thomas Demant, partner i Netcompany, i en skriftlig kommentar.
+»Vi undersøger fortsat problemets omfang, og vi har i dag indleveret en rapport til Datatilsynet (...)«, lyder det videre.
+I alt nåede 2.182 borgere at logge på Mit.dk, inden platformen midlertidigt blev lukket.
+De færreste nåede at blive berørt af fejlen, siger Thomas Demant.
+»Vi beklager, at nogle brugere på Mit.dk har fået delt deres oplysninger. Om morgenen den 21. marts blev vi opmærksomme på, at en bruger ved en fejl havde fået adgang til en anden brugers kontaktoplysninger i form af e-mail og telefonnummer, da vedkommende loggede ind på Mit.dk«, siger han.
+»Vi ved, at problemet er opstået på grund af en menneskelig fejl, men det er sådan noget, der ikke må ske, og vi beklager dybt«.
+Berlingske har tidligere torsdag skrevet om borgeren Tage Lysgaard, der ved en fejl oplevede at se andres personoplysninger på Mit.dk.
+»Da jeg logger ind, får jeg adgang til en person, der hedder Ted. Jeg kan se hans post og fortrolige papirer – ægtepagt med mere«, sagde han til avisen og fortalte, at han straks lukkede ned og indberettede problemet.
+Mit.dk skulle oprindelig have været taget i brug 30. november sidste år. Men premieredatoen blev udsat for at være sikker på, at systemet var helt klart.
+Tanken med den nye digitale postløsning er, at man bedre skal kunne integrere andre former for digital kommunikation.
+For eksempel kan man betale regninger direkte fra Mit.dk
+Ritzau
+fortsæt med at læse

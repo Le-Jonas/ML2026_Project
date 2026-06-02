@@ -1,0 +1,15 @@
+Title: Har_du_printet_en_kanin_i_dag_
+Date: 2011-01-19
+Article Type: Digitalt
+Author: Jon Lund
+
+En tredimensional printer i alle hjem. Det er målet for det lille New York-firma Makerbot og deres nye
+Thing-O-Matic
+3D-printer. 
+Hvor almindelige printere skriver med blæk, skriver Thing-O-Matic med plastik - i 3D. Printerhovedet kører over de samme områder igen og igen, og opbygger på den måde skaksæt, kageforme eller kaninfigurer - eller hvad du nu har bedt den om at printe. 
+Så længe det kan laves i plastik og ikke bliver for stort, er der stort set ingen begrænsninger. Alt, hvad du kan tegne på din computer, kan 'skrives ud' af Thing-O-Matic. Med en præcision på 0,02 mm. 
+ 3D-printere kostede indtil for få år siden ustyrlige summer og blev kun brugt i forskning og industri. Men det har ændret sig. Thing-O-Matic – som er Makerbots luksusudgave - koster 1.225 dollar, omtrent 7.000 kroner (inkl. et halv kilo plastik til at printe med), og er designet til at kunne stå på dit skrivebord, koblet til din computer. Tryk på Print, og maskinen går i gang.
+Thing-O-Matic og de øvrige husmands-3D-printere på markedet bruges stadig mest af (hjemme)opfindere til at lave prototyper og rette dem endeligt til, før de sendes til produktion. Eller til at lave gimmicks. 
+Men perspektiverne er store: Mangler du fire kopper til fødselsdagsbordet? Intet problem, dem printer vi! En ny tandbørste? En tøjklemme? Bare sig til!
+Flere pirater – og flere ideer
+3D-printerteknologien vil, hvis den bider sig fast, gøre piratkopiering næsten umuligt at stoppe. Når først en legoklods eller en margretheskål er blevet digitaliseret af en nørd, kan tegningen deles på nettet og skrives ud i millionvis fra private printere.

@@ -1,0 +1,17 @@
+Title: Tekniske_problemer_plager_Nets_pa_andet_døgn
+Date: 2022-06-23
+Article Type: Forbrug
+Author: Oprydningsarbejde efter en teknisk fejl hos Nets trækker ud, og borgere kan stadig opleve problemer med NemID.
+
+Der er endnu ikke ryddet op i systemerne hos Nets, der onsdag blev ramt af tekniske problemer.
+Derfor er der torsdag stadig borgere, der ikke kan tilgå netbank eller sider som sundhed.dk og borger.dk med NemID.
+Det oplyser Nets, der driver NemID, lidt før klokken 20 torsdag.
+»Vi har arbejdet hele dagen for at få det op at køre 100 procent. Vi er tættere på, end vi var tidligere på dagen«, oplyser pressevagten hos Nets.
+»Men desværre er der stadig borgere, der ikke kan tilgå NemID. Der er også offentlige myndigheder, som for eksempel Skat, man ikke kan logge ind på med NemID, men du kan bruge MitID«, lyder det videre.
+Der er torsdag aften ikke en tidshorisont for, hvornår NemID igen er oppe og køre.
+Problemerne skyldes en intern it-fejl hos Nets.
+»Vi er blevet nødt til at flytte data fra en server til en anden. Det er den operation, der desværre trækker i langdrag, og det er vi kede af«, siger pressevagten.
+ritzau
+fortsæt med at læse
+Bankerne udfaser papkortet 30. juni:
+Sådan kan du selv komme i gang med MitID

@@ -1,0 +1,7 @@
+Title: NemID_bliver_uden_mobil_løsning
+Date: 2011-05-30
+Article Type: Digitalt
+Author: Ole Wejse Svarrer
+
+Danskerne, der er trætte af papkortet med koder til NemID, kommer til at spejde forgæves efter en løsning, hvor mobiltelefonen kan generere de nøgler, der i dag kun findes på papkortet.
+Sikkerheden ved en mobil løsning er simpelthen ikke god nok. Det fremgår af et skriftligt svar fra videnskabsminister Charlotte Sahl-Madsen (K) til Folketingets udvalg for videnskab og teknologi.

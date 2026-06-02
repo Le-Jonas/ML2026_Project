@@ -1,0 +1,8 @@
+Title: Sadan_sikrer_du_din_Mac_mod_virus_og_hackerangreb
+Date: 2011-06-09
+Article Type: Forbrug
+Author: Milla Mølgaard
+
+Debatredaktør
+Engang var virus, hackerangrab og malware forbeholdt Windows-styrede computere.
+Men i forsommeren er de første tegn på Mac-vira begyndt at poppe op i cyberspace. Blandt andet er et såkaldt crime-kit, der guider til, hvordan man bedst hacker en Mac-computer, blevet lanceret blandt IT-kriminelle.

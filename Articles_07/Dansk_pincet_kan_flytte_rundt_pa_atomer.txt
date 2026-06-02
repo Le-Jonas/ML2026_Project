@@ -1,0 +1,6 @@
+Title: Dansk_pincet_kan_flytte_rundt_pa_atomer
+Date: 2011-03-16
+Article Type: Viden og tech
+Author: Danske og tyske forskere har konstrueret en pincet af laserstråler, der kan gribe om et atom og dreje det rundt, skriver Videnskab.dk.
+
+Opfindelsen er et stort skridt hen i retningen af at udvikle en potent kvantecomputer, der bruger atomer som datalager.

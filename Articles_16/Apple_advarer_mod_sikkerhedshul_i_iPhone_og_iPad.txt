@@ -1,0 +1,11 @@
+Title: Apple_advarer_mod_sikkerhedshul_i_iPhone_og_iPad
+Date: 2022-08-19
+Article Type: Tech
+Author: Apple opfordrer til, at man opdaterer sit iOS-styresystem så hurtigt som muligt på grund af sikkerhedsbrist.
+
+Alle iPhone- og iPad-brugere opfordres til at sørge for, at deres telefoner og tablets er opdateret til seneste version.
+Det sker, fordi man har opdaget to sikkerhedshuller, som blandt andet gør det muligt for andre at tage kontrol over din enhed.
+Og Apple føler sig sikker på, at mindst en af dem allerede har været anvendt til dette formål.
+Begge problemer skulle dog være løst i den udgave af styresystemet iOS med versionsnummeret 15.6.1, som er tilgængelig nu.
+Det er kun få uger siden, at version 15.6 af styresystemet udkom. Og det er ikke første gang, at Apple har måttet reparere lignende sikkerhedsbrister i styresystemet. Det skete blandt andet i april i år.
+ritzau

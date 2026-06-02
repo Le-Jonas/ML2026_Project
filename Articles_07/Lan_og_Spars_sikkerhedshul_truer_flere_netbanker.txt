@@ -1,0 +1,7 @@
+Title: Lan_og_Spars_sikkerhedshul_truer_flere_netbanker
+Date: 2010-09-29
+Article Type: Privatøkonomi
+Author: Søren Dilling
+
+Lån & Spar Bank og Eik Bank har begge huller i sikkerheden i deres netbankløsninger, hvor brugerne risikerer, at den næste bruger på en pc får direkte adgang til deres konto, efter at de tror sig logget af.
+Det fortæller en af kunderne, der har netbank i begge pengeinstitutter.

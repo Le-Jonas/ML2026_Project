@@ -1,0 +1,7 @@
+Title: It-tyve_vil_stjæle_dine_billeder_og_bruge_dem_til_
+Date: 2011-08-17
+Article Type: Digitalt
+Author: Marie Sæhl
+
+I dette øjeblik er kinesiske it-kriminelle i gang med at udvikle en såkaldt trojanervirus, som kan bruges til at stjæle private fotos fra din mobiltelefon og smartphone.
+Det er it-sikkerhedsfirmaet F-Secure, som har fundet den nye virus i en Nokiatelefon. Og selv om virussen endnu ikke er helt færdigudviklet, er det ifølge F-Secure et spørgsmål om tid.

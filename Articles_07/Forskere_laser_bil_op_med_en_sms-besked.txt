@@ -1,0 +1,7 @@
+Title: Forskere_laser_bil_op_med_en_sms-besked
+Date: 2011-08-10
+Article Type: Digitalt
+Author: Thomas Vigild
+
+Et kort tryk på nøglen og bildøren låses op - men samme klik kan også åbne din bildør for biltyve, hvis de opfanger signalet mellem din nøgle og din bil.
+To amerikanske forskere ved sikkerhedsfirmaet iSEC Partners demonstrerede under den netop afsluttede sikkerhedskonference Black Hat i Las Vegas, hvordan de alene ved at bruge en Android-smartphone kunne overtage styringen over en nyere bil, der kan styres via trådløse signaler sendt gennem det allestedsnærværende GSM-mobilnet.

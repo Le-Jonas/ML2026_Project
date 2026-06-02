@@ -1,0 +1,8 @@
+Title: Hackere_bryder_ind_i_det_amerikanske_senats_comput
+Date: 2011-06-14
+Article Type: Internationalt
+Author: Line Prasz
+
+Journalist
+Hackere begik i weekenden indbrud i det amerikanske Senats computere.
+Den løst organiserede hackergruppe Lulz Security brød ind i en offentlig del af senatets hjemmeside, men nåede ikke om bag den såkaldte firewall - en beskyttelsessoftware - og kom derfor ikke ind til den mere følsomme del af netværket.

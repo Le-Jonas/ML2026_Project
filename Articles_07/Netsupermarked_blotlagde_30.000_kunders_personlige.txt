@@ -1,0 +1,7 @@
+Title: Netsupermarked_blotlagde_30.000_kunders_personlige
+Date: 2011-03-11
+Article Type: Privatøkonomi
+Author: Peter Voergaard
+
+Netsupermarkedet irmatovet.dk har haft et hul i sikkerheden, som gjorde det muligt for udbudne gæster at se 30.000 kunders kontaktoplysninger, password og købshistorik.
+Det var muligt efter en omlægning til en større server i december 2010, hvor irmatovet.dk, som er et samarbejde mellem butikskæden Irma og torvet.dk fra september 2010, foretog en række test med kundedata.

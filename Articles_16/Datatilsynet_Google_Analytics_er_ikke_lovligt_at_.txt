@@ -1,0 +1,17 @@
+Title: Datatilsynet_Google_Analytics_er_ikke_lovligt_at_
+Date: 2022-09-21
+Article Type: Viden og tech
+Author: Datatilsynet har konkluderet, at analyseværktøjet Google Analytics ikke uden videre kan bruges lovligt.
+
+Det er ikke lovligt at bruge Google Analytics til statistik og analyse af europæiske hjemmesiders brugere. Sådan lyder konklusionen fra Datatilsynet onsdag.
+Google Analytics sender nemlig oplysningerne ud af EU og over til Googles virksomhed i USA. Og så kan oplysningerne ifølge EU-domstolen ikke længere beskyttes.
+»I USA er der ifølge EU-Domstolen nogle regler, som ikke overholder de grundlæggende lovkrav for persondata, der skal beskyttes på et højt niveau. Den beskyttelse må ikke undermineres ved, at du sender data ud af EU«, siger Makar Juhl Holst, der er chefkonsulent i Datatilsynet.
+GDPR-reglerne blev indført i 2018 til beskyttelse af europæiske borgeres privatliv. De regler gælder ikke på samme vis i USA.
+Organisationerne og virksomhederne har derfor et stykke arbejde foran sig, hvis de fortsat vil bruge Google Analytics.
+»Hvis opsætningen er, som vi har set den, skal man tage arbejdsbukserne på og kigge på, hvordan man lovliggør den«, siger Makar Juhl Holst.
+Man kan nemlig indsætte nogle foranstaltninger, som kan gøre værktøjet lovligt, fortæller Makar Juhl Holst.
+»I praksis sætter man en kile mellem sig selv og Google, som sørger for at opfange al den information, som indsamles på organisationens hjemmeside«.
+»Ellers skal man se sig om efter et andet værktøj«, siger han.
+Datatilsynet kan ikke forbyde brugen af Google Analytics, men kan vejlede virksomhederne til at vælge anderledes. De franske tilsynsmyndigheder har udstedt en vejledning, som Datatilsynet linker til på dets hjemmeside.
+Både det østrigske, det franske og det italienske datatilsyn har truffet afgørelse om værktøjet i 2022. I alle tilfælde konkluderede myndighederne, at brugen af Google Analytics var ulovlig.
+Ritzau

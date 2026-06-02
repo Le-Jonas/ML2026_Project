@@ -1,0 +1,14 @@
+Title: Login-problemer_lagde_e-Boks_ned_i_otte_timer
+Date: 2022-08-25
+Article Type: Danmark
+Author: Det er torsdag aften igen muligt at logge på Danmarks digitale postkasse efter et nedbrud.
+
+Artiklen er opdateret kl. 20.45
+Det skulle igen være muligt at logge på e-Boks efter et længerevarende nedbrud. Det oplyser tjenesten torsdag aften.
+»Der kan forekomme noget ustabilitet, men det ser ud, som om vi er på vej op igen både på web og app«, siger kommunikationschef i e-Boks Susanne Søndahl Wolff kort efter klokken 20.
+E-Boks blev ramt af et nedbrud ved 12-tiden på grund af problemer med at logge ind.
+»Der har været en opdatering, og i den forbindelse er der opstået en fejl, som gør, at brugerne ikke kan logge ind på e-Boks«, siger kommunikationschef i e-Boks Susanne Søndahl Wolff.
+Onsdag var der også problemer med at tilgå Digital Post hos mit.dk, e-Boks og øvrige platforme. Det problem var løst onsdag eftermiddag af Digitaliseringsstyrelsen, skrev ITWatch onsdag.
+»Udfordringen på e-Boks var afledt af en ændring i Digital Post-løsningen i forbindelse med en planlagt opgradering onsdag aften«, oplyser Digitaliseringsstyrelsen.
+E-Boks er en platform til digital post mellem private, virksomheder og myndigheder. Tjenesten betjener 5,8 millioner brugere i Danmark og involverer både private brugere og virksomhedsbrugere.
+ritzau

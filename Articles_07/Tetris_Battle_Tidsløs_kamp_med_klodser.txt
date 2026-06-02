@@ -1,0 +1,8 @@
+Title: Tetris_Battle_Tidsløs_kamp_med_klodser
+Date: 2011-06-07
+Article Type: Spilanmeldelser
+Author: Thomas Vigild
+
+Steffen Moestrup
+Salige 'Tetris' er været vidt omkring, siden russiske Alexey Pajitnov skabte førsteudgaven tilbage i 1983.
+Siden er det blevet til et væld af udgaver til alle mulige platforme og et hav af kloner. Nu er turen så kommet til en facebook-udgave. I sin grundform er 'Tetris' en matematisk leg. Man vender og drejer faldende klodser og skal forsøge at tilpasse dem hinanden, så klodserne udgør en hel linje, der giver point.

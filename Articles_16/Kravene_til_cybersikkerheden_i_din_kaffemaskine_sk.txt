@@ -1,0 +1,18 @@
+Title: Kravene_til_cybersikkerheden_i_din_kaffemaskine_sk
+Date: 2022-09-15
+Article Type: Tech
+Author: Når dagligdags produkter som kaffemaskiner og køleskabe kobles til internettet, øger det cyberrisiko.
+
+Forbrugere skal være trygge ved, at deres digitale produkter er beskyttet mod cyberangreb. Ikke mindst i en tid, hvor digitale køleskabe, kaffemaskiner og sikkerhedskameraer i hjemmet i stigende grad bliver koblet op på internettet.
+Det mener EU-Kommissionen. Derfor vil man nu vil skærpe kravene til digitale produkter. Det siger EU-kommissær for fremme af europæisk levevis Margaritis Schinas.
+Han erkender, at det måske lyder spøjst med sikkerhedskrav til noget så normalt ufarligt som en kaffemaskine. Men risikoen er reel, fordi mennesker og virksomheder vil være markant mere forbundet i fremtiden via dagligdags produkter:
+»Vi skal gøre klar til en æra præget af Internet of Things (Internet af Ting, red,). Her vil vi hele tiden være forbundet via hårde hvidevarer og selv vores tøj«.
+»Derfor skal vi sørge for, at der er tilstrækkelig sikkerhed i de digitale produkter«, siger Margaritis Schinas.
+Udspillet kommer på et tidspunkt, hvor risikoen for cyberangreb fylder stadig mere for både virksomheder og forbrugere. Også vigtige institutioner og infrastruktur i EU-landene er udsatte. Derfor kan cybersikkerhed i yderste konsekvens være et spørgsmål om liv og død, fastslår EU-Kommissionen i udspillet.
+EU-Kommissionen foreslår, at digitale produkter leveres med en sikker standardindstilling. Den skal forbrugerne altid skal kunne genaktivere.
+Producenter skal også forpligtes til at kryptere forbrugernes information, når det er relevant. Og producenter skal forpligtes til at minimere adgangen til personlig information til det nødvendige for produktet.
+Derudover skal forbrugere oplyses markant mere om sikkerheden i produkterne, foreslår EU-Kommissionen.
+»Sikkerheden i produkter som mobiltelefoner er lige nu kun reguleret på den fysiske side, så man sikrer, at de eksempelvis ikke bryder i brand«.
+»Men der er ikke nogen regulering på cybersikkerhed. Det vil vi ændre nu«, siger Margaritis Schinas.
+Han håber - og forventer - at indgrebet på sigt vil komme til at udgøre en global standard. Dermed vil udspillet også øge sikkerheden, hvis man køber digitale produkter i andre verdensdele.
+ritzau

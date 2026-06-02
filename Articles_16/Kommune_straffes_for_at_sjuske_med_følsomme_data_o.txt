@@ -1,0 +1,15 @@
+Title: Kommune_straffes_for_at_sjuske_med_følsomme_data_o
+Date: 2022-03-24
+Article Type: Danmark
+Author: Lejre får bøde. For første gang er offentlig myndighed straffet for at overtræde reglerne om databeskyttelse.
+
+For første gang er en offentlig myndighed blevet straffet for at have sjusket med databeskyttelse. Lejre Kommune er idømt en bøde på 50.000 kroner, oplyser Datatilsynet torsdag.
+Afgørelsen skyldes, at meget følsomme oplysninger om unge under 18 år kunne tilgås af en stor del af kommunens ansatte, uanset om de arbejdede med den type af sager eller ej. Brugen af oplysningerne om de unge blev ikke logget, oplyser Datatilsynet.
+Det var 9. marts, at Retten i Roskilde afsagde dom i sagen. Fristen for at anke til landsretten udløb onsdag, og derefter har tilsynet besluttet at oplyse om sagen. I retten tilstod kommunen at have overtrådt loven. Bødens størrelse rimer med den indstilling, som Datatilsynet kom med.
+Det var i sommeren 2020, at tilsynet anmeldte sagen fra Lejre Kommune til politiet. Offentlige myndigheder har pligt til at sikre, at kun relevante medarbejdere kan tilgå følsomme oplysninger om borgere. Desuden skal der som minimum være adgangskontrol. Og endelig skal der etableres logning af oplysningerne.
+Også en stribe andre myndigheder risikerer at blive straffet for at overtræde de databeskyttelsesretlige regler. Blandt dem er Region Syddanmark, Favrskov Kommune og Frederiksberg Kommune. Også Gladsaxe Kommune er på listen, og her mener Datatilsynet, at bøden skal ligge på 100.000 kroner. I 2018 blev fire pc’ere stjålet. Den ene indeholdt et regneark med oplysninger om godt 20.000 borgere. Harddisken var ikke krypteret.
+I den forbindelse har Retten i Glostrup slået fast i en sag med syv borgere, at de godt nok ifølge loven har krav på godtgørelse. Men i den konkrete sag var skaden, de havde været udsat for, ikke tilstrækkelig alvorlig.
+I øvrigt arbejder anklagemyndigheden også med flere sager om GDPR – General General Data Protection Regulation – mod private. For eksempel har Datatilsynet indstillet, at Kræftens Bekæmpelse skal af med en bøde på 800.000 kroner.
+Tre sager er af anklagere udvalgt som såkaldte prøvesager, hvor domstolene blandt andet skal se på bødeniveauet. De gælder hotelkæden Arp-Hansen, møbelforretningen Ilva og Taxa 4x35. Den sidstnævnte sag kommer for retten i næste uge.
+ritzau
+fortsæt med at læse

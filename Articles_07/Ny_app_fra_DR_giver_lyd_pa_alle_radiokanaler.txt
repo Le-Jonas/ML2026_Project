@@ -1,0 +1,7 @@
+Title: Ny_app_fra_DR_giver_lyd_pa_alle_radiokanaler
+Date: 2011-05-24
+Article Type: Digitalt
+Author: Søren Dilling
+
+Nu kan radioglade smartphonebrugere tune ind på samtlige Danmarks Radios kanaler, både de digitale og FM-kanalerne.
+DR har udviklet en gratis app til både styresystemet Android og Apples IOS, der giver adgang til samtlige kanaler. Hidtil har DR kun haft en app til P3-lytterne

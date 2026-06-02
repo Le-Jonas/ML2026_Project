@@ -1,0 +1,6 @@
+Title: WikiLeaks-dokumenter_hos_politiken.dk
+Date: 2010-12-09
+Article Type: Debat
+Author: Politiken bidrager til at sikre, at de dokumenter fra USA’s udenrigstjeneste, som allerede er offentliggjort, forbliver tilgængelige for offentligheden.
+
+Til brug for Politikens journalistiske behandling importeres dokumenterne til Politikens egen, søgbare database. Formålet er at sikre Politikens journalister fortsat adgang til materialet, selv om de websider som rummer dokumenterne skulle blive lukket.

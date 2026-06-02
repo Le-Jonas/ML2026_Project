@@ -1,0 +1,7 @@
+Title: Boxer_leverer_nyskabende_tv_pa_computeren
+Date: 2011-01-04
+Article Type: Digitalt
+Author: Søren Dilling
+
+Med en lille såkaldt tv-dongle forandrer Boxer fundamentalt den måde, kunderne hidtil har kunnet se købe-tv på computeren.
+Tv-signalerne fra Boxer bliver med den lille usb-dongle uafhængige af en internetopkobling og laver i stedet computeren om til et tv-apparat endda med en indbygget videooptager.

@@ -1,0 +1,14 @@
+Title: DTU_ramt_af_hackerangreb_Flere_tusinde_skal_ændre
+Date: 2022-08-23
+Article Type: Danmark
+Author: Universitetsdirektør kalder hackerangreb alvorligt, men det blev hurtigt opdaget og inddæmmet, siger han.
+
+Danmarks Tekniske Universitet (DTU) har været udsat for et hackerangreb. Det fandt sted i sidste uge, skriver tech-mediet Radar.
+Angrebet, der af DTU betegnes som alvorligt, blev hurtigt opdaget og inddæmmet.
+Det fortæller Claus Nielsen, der er universitetsdirektør på DTU, til Ritzau.
+»Der er sket et kortvarigt brud på vores firewall. Nogle er trængt ind i vores system. Det har vi hurtigt fået lukket og inddæmmet«.
+»Det er ikke et omfattende angreb. Vi vurderer ikke, at der har været tab af data, eller at der er nogen ting, der er blevet kompromitteret. Men det er alvorligt i den forstand, at de har været inde i et centralt system for at styre vores rettigheder«, siger han.
+Ifølge universitetsdirektøren kan det sammenlignes med, at der er nogle personer, som er kommet ind ad hoveddøren til deres bygning uden tilladelse. Men de er ikke kommet videre.
+Hackerne har ifølge ham ikke haft adgang til hverken person- eller forretningsfølsomme data i angrebet, som fandt sted torsdag i sidste uge.
+Alle brugere er bedt om at ændre kodeord som følge af hackerangrebet. Claus Nielsen anslår, at det dermed kan berøre op mod 25.000 profiler. Personerne har indledningsvis selv haft mulighed for at ændre deres adgangskoder.
+ritzau

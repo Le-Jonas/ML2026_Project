@@ -1,0 +1,44 @@
+Title: Sadan_sletter_du_dine_cookies
+Date: 2011-05-26
+Article Type: Digitalt
+Author: Søren Dilling
+
+Lasse Rahbek Petersen
+Virksomhederne elsker dem, de små tekstfiler kendt som cookies.
+De kan nemlig fortælle en masse om, hvordan du og jeg surfer rundt på nettet, og det er vi jo ikke altid helt glade for at andre skal udnytte, vel?
+I hvert fald ikke de firmaer, der bruger oplysningerne i dine cookies til at sende dig reklamer for noget, de tror interesserer dig.
+Du sletter dem bare.
+Du kan enten selv gøre det manuelt, når du synes, eller du kan indstille din pc til at gøre det automatisk.
+I det mest udbredte browserprogram til at surfe på nettet, Internet Explorer, er det faktisk meget nemt at sørge for, at cookies generer dig mindst muligt.
+Gør det automatisk
+Går ind imenuen 'funktioner' og vælg 'internetindstillinger', og allerede her kan du for eksempel vælge en indstilling, der indebærer, at når du forlader internettet og lukker browseren, vil den slette alle dine cookies, midlertidige filer, oversigter, adganskoder og oplysninger fra onlineformuleringer, du har udfyldt med personlige oplysninger.
+Hvis det er for voldsomt for dig at undvære, at dine tidligere internetadresser popper op som forslag blandt den række af andre adresser, du har besøgt, kan du klikke på knappen 'slet' lige ved siden af.
+Herefter får du en menu, hvor du selv kan vælge for eksempel kun at slette coockies.
+LÆS OGSÅ
+Søgemaskiner ændrer praksis
+Men det indebærer, at du skal huske, at du om kort tid igen skal ind og slette coockies og andre oplysninger, du ikke har lyst til at lade andre bruge.
+Ovenstående gælder for både Internet Explorer 8 og 9. I begge browsere kan du også slå det til, der hedder 'In-private browsing' under 'Sikkerhed', der sikrer at ingen data bliver gemt imens du browser.
+Sådan gør du i Firefox
+Et eksempel på en cookie, der decideret vil snyde dig finder man på flyselskabers hjemmesider. Den gemmes på din computer og registrerer, hvor mange gange du er inde og søge på, hvad en bestemt billet koster.
+Hjemmesiden er efter sigende programmeret til at sætte prisen op, hver gang en tidligere besøgende igen går ind og søger på billetten. Den stigende interesse tyder på, at flyselskabet kan få kunden til at betale mere i pris eller slå til, før prisen stiger igen. Men hvis man så slår cookien fra, så falder prisen igen. Vi har dog ikke kunnet dokumentere dette.
+LÆS OGSÅ
+Netudbydere må ikke længere blokere dit internet
+Også i et andet stort browserprogram på nettet, Firefox, kan du slette og/eller administrere cookies.
+Her går du ind i ind 'funktioner' derefter 'indstllinger' så 'privatliv'. Her kan du lave indstillinger for, hvordan cookies skal opføre sig i Firefox, og du kan slette dem alle. Du får en liste op over dem alle sammen med muligheden for at slette dem.
+Cookies giver popup-reklamer
+Cookies, som lægges på din computer behøver ikke nødvendigvis kun at have virkning på den hjemmeside, den kommer fra.
+De såkaldte tredjeparts-cookies bruges til at sende dig målrettede reklamer, som du ikke har bedt om.
+Hvis du har besøgt en datingside og oplyst, at du er single og 35 år, lægges en cookie på din computer med netop disse oplysninger.
+De bliver så registreret af visse andre hjemmesider, du besøger. Resultat: Der popper en reklame op på din skærm, der er aktiveret af den cookie, du fik lagt ind på datingsiden.
+Apples Safari
+Browseren Safari tilbyder også at administrere computerens forhold til cookies. Du kan nemt slette dem ved at gå tilhøjre øverst i skærmbilledet og klikke på tandhjulet, der viser generelle indstillinger.
+Herefter klikker du 'indstillinger', så 'sikkerhed' og her kan du så administrere cookies. Du kan blandt andet fjerne dem alle - hvis du fjerner alle, ser det i første omgang ud som om, det ikke lykkes. men det gør det.
+Google Chrome
+Søgegiganten Googles eget bud på en webbrowser giver dig også fuld kontrol over cookies og websidedata.
+Klik på svensknøglen i højre hjørne af skærmbilledet, vælg 'indstillinger', 'avancerede indstillinger' og i sektionen 'Beskyttelse af personlige oplysninger' klikker du på knappen 'Indstillinger for indhold'.
+Under 'cookies' har du nu en række muligheder for at tillade eller blokere de små spionfiler og du kan slette dem, der i forvejen måtte ligge i browseren.
+Lasse Rahbek Petersen
+fortsæt med at læse
+Ministerium: Ups, vi troede ikke, vi brugte cookies
+De radikale overtrådte ikke cookielov under valgkamp
+Offentlige sider sjusker med cookies på din computer

@@ -1,0 +1,6 @@
+Title: Google_tester_robotbiler
+Date: 2010-10-11
+Article Type: Biler
+Author: Den amerikanske internetgigant Google tester angiveligt robotbiler, der kan køre helt uden hjælp fra mennesker. De eksperimentelle køretøjer har angiveligt allerede kørt rundt i Californien.
+
+»Et af de største problemer, vi arbejder med i dag, er bilsikkerhed og effektivitet. Vores mål er at hindre trafikuheld, spare folks tid og reducere co2-udslippet ved grundlæggende at ændre brugen af biler«, skriver Google-ingeniør Sebastian Thrun i et blogindlæg.

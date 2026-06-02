@@ -1,0 +1,11 @@
+Title: Mange_brugeres_uvidenhed_om_vigtig_detalje_abner_f
+Date: 2022-09-30
+Article Type: Viden og tech
+Author: It-sikkerheden i MitID får kritik efter undersøgelse, men forskere pegede på problematisk sikkerhedshul allerede i december 2021.
+
+Berfin Erdem
+Journalist
+På en enkelt nat formåede
+Version2, fagbladet Ingeniørens techmedie
+, med en simpel stump kode at gætte 11.000 brugernavne i MitID – blandt andet fordi man kan gætte forkert 200 gange i timen.
+Mediet har foretaget en undersøgelse af it-sikkerheden i MitID og skriver, at der er flere alvorlige designfejl, som gør det muligt at gætte titusindvis af danskeres brugernavne samt lukke de mange brugere ude fra systemet i dagevis.
