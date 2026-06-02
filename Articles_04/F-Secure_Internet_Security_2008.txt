@@ -1,0 +1,8 @@
+Title: F-Secure_Internet_Security_2008
+Date: 2008-04-24
+Article Type: Bolig og haven
+Author: Bodil Hauge
+
+Benjamin Steengaard Rasmussen
+Efter sølle ni minutters installering, hvor man kun skal forholde sig til sprogvalg, samt om man ønsker en komplet installation med eller uden forældrekontrol, dukker startsiden op.
+De grundlæggende indstillinger kører fra start, og det samme gør spamkontrollen. F-Secure er på dansk, og grønne symboler viser, at funktioner er aktiveret, og blå og gule, at man skal være opmærksom på, at nogle funktioner er slået fra.

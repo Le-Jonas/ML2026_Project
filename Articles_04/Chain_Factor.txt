@@ -1,0 +1,8 @@
+Title: Chain_Factor
+Date: 2008-01-10
+Article Type: Spilanmeldelser
+Author: Thomas Vigild
+
+Målet er simpelt hen at dumpe brikkerne ned fra oven, så deres nummer matcher det antal brikker, der er i netop den lodrette eller vandrette række eller kolonne.
+Derpå forsvinder den, og der høstes point. 
+Lyder måske kringlet, men efter et par minutter er det ganske ligetil og logisk – men så er det for sent: Man er hooked.

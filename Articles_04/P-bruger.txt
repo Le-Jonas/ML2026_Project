@@ -1,0 +1,8 @@
+Title: P-bruger
+Date: 2008-02-12
+Article Type: p_bruger
+Author: Du har indtastet et forkert brugernavn eller password. 
+Prøv venligst igen eller kontakt Plus på plus@pol.dk. 
+ ---
+
+ingenting

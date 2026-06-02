@@ -1,0 +1,7 @@
+Title: Giv_din_bærbare_den_bedste_motor
+Date: 2008-03-28
+Article Type: Digitalt
+Author: Lars Jacobsen
+
+Det skyldes, at processoren ikke senere (nemt) kan skiftes, ligesom det er centralt at finde den rigtige balance mellem ydelse og strømforbrug.
+Samtidig er processoren vigtig, hvis du vil kaste dig ud i redigering af billeder eller video, som kræver en fornuftig regnekraft i computeren.

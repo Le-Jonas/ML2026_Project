@@ -1,0 +1,15 @@
+Title: Den_forretningsrejsende
+Date: 2007-10-01
+Article Type: Digitalt
+Author: Michael C. Svendsen
+
+Behovet:
+Maskinen skal bruges til kontorprogrammer og ikke så meget andet. Den må helst ikke veje noget videre, og batterilevetiden skal være så lang, så man kan arbejde under hele flyveturen.
+Det gode køb:
+Skærmstørrelse kan være på 12-13 tommer, vægten op til 1,3 kg. Processorhastigheden er ikke afgørende, men vælg gerne en af Intels nyere dobbeltkerneprocessorer: De bruger mindre strøm end forgængerne. Ønskes der virkelig lang batterilevetid, kan du overveje en maskine med Intels lavvolts-processorer, Core 2 Duo U7500 eller U7600, men det koster en smule i hastighed. 
+Operativsystemet skal sandsynligvis være Windows XP, der er standard de fleste steder. De færreste erhvervskunder har nemlig endnu kastet sig helhjertet over det – stadig – ret ustabile Windows Vista. Husk at købe et ekstra batteri, så arbejdstiden kan fordobles, selv om der er langt til næste strømstik. 
+Overvej desuden, om valget skal falde på en bærbar, hvor det optiske drev kan udskiftes med sekundært batteri. Så slipper man for at afbryde arbejdet for at skifte.
+Pris:
+Typisk 10.000-13.000 kroner – eller hvad du kan forhandle dig til hos chefen.
+Et eksempel:
+Lenovo ThinkPad X61s, der koster fra 10.000 kroner.

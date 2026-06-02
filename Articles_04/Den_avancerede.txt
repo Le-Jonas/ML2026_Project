@@ -1,0 +1,7 @@
+Title: Den_avancerede
+Date: 2008-03-07
+Article Type: Digitalt
+Author: Michael C. Svendsen
+
+Med de mest avancerede lydsystemer som for eksempel Logitechs Squeezebox kan man endda høre netradio helt uden om computeren eller afspille musikfiler fra en kompatibel netværksopkoblet harddisk.
+Det er også muligt at streame musik fra egen pc eller netværksharddisk til en hvilken som helst pc med netforbindelse. For eksempel på kontoret eller hotelværelset.

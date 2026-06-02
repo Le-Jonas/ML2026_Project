@@ -1,0 +1,6 @@
+Title: SKRIV_Hvor_gar_du_pa_nettet,_nar_du_er_pa_farten_
+Date: 2007-11-20
+Article Type: Danmark
+Author: Politiken tog på togtur over Sjælland for at teste statsbanernes nye internetadgang. Forbindelsen koster én krone per minut på eller 80 øre med et loft på 248,75 kroner, hvis man er kunde hos TDC, som udbyder det trådløse netværk.
+
+Netværkshastigheden i toget er en 3 mbit/s forbindelse til download, og 384 kbit forbindelse til upload, som deles mellem alle togets brugere, som logger på netværket.

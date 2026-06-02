@@ -1,0 +1,36 @@
+Title: Ordliste_til_den_digitale_verden
+Date: 2007-10-23
+Article Type: Digitalt
+Author: Thomas Vigild
+
+MiniDV:
+Små kassettebånd, som for et par år tilbage var det mest udbredte lagermedie. Rummer enten 60 eller 90 minutters film, afhængigt af optagekvalitet.
+Mini-DVD:
+Optiske dvd-skiver på 8 cm i diameter, som mange gængse videokameraer optager på i dag. Optager man i normal dvd-kvalitet, kan der være 30 minutters video på en single-sided mini-dvd. Fås også som lagermedie i nogle HD-kameraer.
+HD:
+High Definition. Kameraet kan optage i HD-format, hvilket kan afspilles på fladskærme, der understøtter opløsninger såsom 720p, 1080i (interlaced) eller 1080p (progressive). De tre testede kameraer optager alle i 1080 interlaced (1080i), hvilket betyder, at billedet på skærmen opdateres to gange i ’linjer’: når et nyt billede skal optegnes, ændres først hver anden horisontale linje i billedet, og derpå resten. Det giver stadig et skarpt HD-billede, men et, der for trænede øjne kan ’blinke’ og virke mere forstyrrende for øjet – særligt når det går hurtigt på fjernsynsskærmen med kvikke panoreringer som i for eksempel sportskampe.
+Et bedre HD-billede skabes i opløsningen 1080 progressive (1080p), hvor hele billedet tegnes op på en gang. Dette er den nuværende maksimale opløsning på fladskærme, men det er endnu kun dyre professionelle HD-videokameraer, der kan optage i 1080p.
+HDD:
+Hard Disk Drive. Kameraet har et indbygget harddisk, så man slipper for at bruge eksterne lagermedier.
+HDMI:
+High-Definition Multimedia Interface. Et standard for overførsel af digital lyd og billede. Alle nye fladskærme har HDMI-indgang, og den findes også i Blu-ray-afspillere, kameraer og på spillekonsoller.
+Composite:
+Analogt videosignal, der kombineres med et lydsignal, før det moduleres til et output-signal til fjernsyn. Det dårligste billedsignal fra HD-kameraerne.
+Component:
+Analogt videosignal, der er splittet op i tre separate signaler (ofte en grøn, en blå og en rød ledning), før signalet sendes ind i et fjernsyn. Giver bedre billedkvalitet end Composite, men dårligere end HDMI.
+i.Link/Firewire:
+En standard for at overføre data mellem for eksempel et kamera eller en harddisk og en computer. Hidtil typisk med en hastighed på 400 Mbit/s. Da USB 2.0 sender i hastigheden 480 Mbit/s, er flere kameraproducenter ved at gå væk fra FireWire 400 og bruger i stedet Firewire 800, der kan klare 800 Mbit/s.
+S-Video:
+Står for "Separate video" og er som navnet indikerer kun til billedesignaler. Et stik, der sender to analoge signaler (brightness og Colour) til for eksempel fjernsynet. Billedkvaliteten er klart lavere end ved digitale overførsler som for eksempel HDMI.
+3CCD:
+Betyder, at indspilningen på kameraet foretages med tre sensorer, en for hver grundfarve, hvilket giver et klarere og mere farvestærkt billede.
+OIS:
+Optical Image Stabilization. Betyder, at linsen optisk korrigerer for rystelser på hånden, når man holder på kameraet, så billederne bliver gode og skarpe. Hos Sony hedder samme teknologi SuperSteadyShot.
+AVCHD:
+Et komprimeret filformat, som de fleste HD-kameraer optager og gemmer deres film i. Kan ikke afspilles uden ekstra software på computeren, mens for eksempel PlayStation 3 som den eneste spillekonsol afspiller de fleste udgaver af AVCHD.
+MemoryStick Pro Duo:
+Type af hukommelseskort, som kun bruges af Sony.
+SD-kort:
+Hukommelseskort, der er det mest udbredte lagermedie i dag i digitalkameraer.
+Flash-hukommelse:
+Også kaldet Flash-RAM, hvilket er en type computer-hukommelse, der er mere stabil, mindre strømkrævende og hurtigere at slette og redigere i i forhold til en harddisk-baseret hukommelse. Stort set alle digitalkameraer bruger flash-ram i form af enten f.eks. SD-kort, MemoryStick eller den lidt ældre CompactFlash.

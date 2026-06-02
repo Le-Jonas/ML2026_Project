@@ -1,0 +1,6 @@
+Title: It-virksomhed_tvivler_pa_fidusen_ved_spam
+Date: 2007-08-10
+Article Type: Økonomi
+Author: Antallet af såkaldte spammail til virksomheder i Danmark er steget kraftigt de senere år. I takt med bedre spamfiltre sender spammere flere og flere af de uønskede reklamemails af sted.
+
+Men ifølge it-virksomheden Comendo, der skanner mails for spam og virus, er det efterhånden tvivlsomt, om det kan betale sig for spammerne.

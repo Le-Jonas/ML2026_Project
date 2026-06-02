@@ -1,0 +1,7 @@
+Title: Forældet_software_gennemhuller_sikkerheden
+Date: 2008-01-11
+Article Type: Digitalt
+Author: Mikkel Gottlieb
+
+Ifølge en undersøgelse fra det danske sikkerhedsfirma Secunia har stort set alle pc’er programmer liggende, som ikke er opdaterede. Og de programmer giver en risiko for, at ondsindede personer kan trænge ind i brugerens systemer gennem programmerne, fortæller Shehzad Ahmad, direktør i DK-Cert, som overvåger it-sikkerheden i Danmark.
+»Hvis der findes en sårbarhed i den version af et program, du bruger, så kan der være en port åben, som giver en hacker mulighed for at komme ind på pc’en. Når sårbarheden er fundet, laver producenterne opdateringer, som betyder, at sårbarheden fikses eller lukkes«, forklarer han.

@@ -1,0 +1,7 @@
+Title: Stofa_Zaptor
+Date: 2007-12-07
+Article Type: Bolig og haven
+Author: Mikkel Gottlieb
+
+Telia Stofa, som leverer kabel-tv, vil inden for kort tid præsentere et abonnement, der giver mulighed for at vælge mellem tre temapakker. Priserne kan variere fra antenneforening til antenneforening.
+Dette eksempel gælder et abonnement med én temapakke. Abonnementet forudsætter, at kunden har en Zaptor-boks, som lige nu sælges i et introduktionstilbud for 995 kr.

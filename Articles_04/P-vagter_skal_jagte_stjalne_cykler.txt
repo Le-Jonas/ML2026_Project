@@ -1,0 +1,6 @@
+Title: P-vagter_skal_jagte_stjalne_cykler
+Date: 2008-02-18
+Article Type: Danmark
+Author: Stregkoder på cyklerne og parkeringsvagter med skannere, der henter oplysninger direkte fra politiets register over stjålne cykler.
+
+Det er visionen i Københavns Kommune i kampen mod et stigende antal cykeltyverier i hovedstaden.

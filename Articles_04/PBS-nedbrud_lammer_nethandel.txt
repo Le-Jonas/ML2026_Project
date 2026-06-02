@@ -1,0 +1,6 @@
+Title: PBS-nedbrud_lammer_nethandel
+Date: 2008-04-16
+Article Type: Digitalt
+Author: »Vi er ikke i stand til at behandle internet-betalinger. Vi lavede en opdatering af en firewall, der resulterede i, at den betalingsgateway, der behandler alle nettransaktioner, ikke kom op igen. Vi har arbejdet på en løsning hele natten«, siger pressechef Søren Winge til Erhvervsbladet.dk.
+
+Nedbruddet rammer alle internetforretninger, hvor man betaler online. PBS planlægger et møde om sagen onsdag formiddag, men det er uklart, hvornår systemerne kan komme i gang igen.

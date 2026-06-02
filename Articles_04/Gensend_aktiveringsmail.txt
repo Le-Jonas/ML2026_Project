@@ -1,0 +1,6 @@
+Title: Gensend_aktiveringsmail
+Date: 2008-02-13
+Article Type: p_bruger
+Author: Din P-bruger er oprettet men ikke aktiveret.
+
+For at aktivere din P-bruger skal du klikke på "Send" herunder. Du vil så modtage en e-mail, der indeholder et link. Ved at klikke på linket aktiveres din P-bruger, og du kan efterfølgende logge ind.

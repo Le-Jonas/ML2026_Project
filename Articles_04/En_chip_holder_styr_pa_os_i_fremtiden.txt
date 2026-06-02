@@ -1,0 +1,7 @@
+Title: En_chip_holder_styr_pa_os_i_fremtiden
+Date: 2008-01-12
+Article Type: Digitalt
+Author: Lars Thomas
+
+Det er bare nogle af de ting, som Radio Frequency Identification (RFID) kan bruges til.
+RFID er en ganske enkel teknik, hvor en sender eller skanner udsender et radiosignal, som kan ramme et lille apparat, en transponder eller radiochip, der er gemt i en genstand eller indsprøjtet i kroppen, og derefter får sendt et identifikationssignal tilbage.

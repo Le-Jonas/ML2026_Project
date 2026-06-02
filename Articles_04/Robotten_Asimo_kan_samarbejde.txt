@@ -1,0 +1,7 @@
+Title: Robotten_Asimo_kan_samarbejde
+Date: 2008-01-20
+Article Type: Digitalt
+Author: Lars Thomas
+
+I de seneste to år har dens skabere forbedret programmeringen i en sådan grad, at den nu er i stand til at arbejde sammen med 'artsfæller' om at løse en opgave – såsom at servere kaffe for personer, der sidder ved flere forskellige borde.
+Takket være et program, der sætter den i stand til at vurdere, hvordan et menneske vil reagere på dens tilstedeværelse, kan den nu gøre plads for de mennesker eller andre Asimoer, den møder på sin vej, og så kan den i øvrigt selv sørge for at genoplade sit indbyggede batteri, når det begynder at knibe med energien.

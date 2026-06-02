@@ -1,0 +1,30 @@
+Title: Naboen_kan_aflytte_din_mobil
+Date: 2008-05-08
+Article Type: Digitalt
+Author: Frederik Pedersen
+
+Har du nogensinde ført en samtale på din mobiltelefon, som du ikke ville have, at andre måtte høre? 
+Nu er det ikke kun efterretningstjenester, som kan lytte med på dine samtaler, men også almindelige mennesker, som er villige til at investere nogle tusinde kroner i teknisk udstyr. 
+En bombe under mobilsystemet 
+Ved hjælp af en bærbar computer og en mobiltelefon kan din nabo eller andre nysgerrige sjæle i nærheden af dig opfange din mobilsamtale. Og med en nyudviklet softwareløsning, som snart bliver stillet til rådighed for offentligheden, kan din samtale genskabes på 30 sekunder. 
+Ifølge Torben Rune, civilingeniør og teleanalytiker hos Netplan, har det været almindelig kendt, at man teoretisk set kan bryde sikkerheden på det såkaldte GSM-net, der bliver brugt til de fleste mobilsamtaler i hele verden. 
+Men at det nu er praktisk muligt for almindelige mennesker med få ressourcer, betegner han som »en bombe under mobilsystemet«. 
+»Det overrasker mig ikke, at det kan lade sig gøre at bryde sikkerheden i praksis. Det, der overrasker mig, er, at det sker allerede nu«, siger Torben Rune. 
+Teknikken vist i Dubai 
+For ca. to uger siden blev en mobilaflytning vist i praksis ved en sikkerhedskonference i Dubai. Her demonstrerede sikkerhedsresearcheren Steven Mueller fra firmaet CellCrypt, hvordan han kunne aflytte en mobilsamtale foretaget af en person blandt publikum. 30 sekunder senere afspillede han samtalen for forsamlingen. 
+Til konferencen annoncerede han, at han inden længe ville stille sin softwareløsning til rådighed for offentligheden. Præcist hvornår og hvordan er dog endnu uvist.
+Mobilen har mistet sin uskyld
+I 2001 fastslog daværende it- og teleminister Birthe Weiss (S), at det var umuligt at aflytte GSM-nettet. 
+At situationen ser anderledes ud i dag, skyldes ifølge Torben Rune, at den tekniske udvikling er gået hurtigere, end man troede dengang. 
+»Mobiltelefoner har i årevis haft det privilegium, at folk ikke troede, at deres samtaler kunne aflyttes. Man kan sige, at mobiltelefonen nu har mistet sin uskyld«, siger Torben Rune. 
+Hos Novo Nordisk er man klar over, at mobilaflytning kan lade sig gøre. Derfor vurderer virksomheden på forhånd om hemmeligstemplet information må videreformidles via e-mail og mobiltelefon. 
+»Det kan godt være, vores holdning er relativ gammeldags. Men jeg har set det demonstreret, hvor man aflyttede en mobilsamtale uden de store problemer ved at være i nærheden«, siger Kaj Møller, sikkerhedschef i Novo Nordisk og bestyrelsesmedlem for den internationale sikkerhedsorganisation ASIS. 
+Ulovligt at aflytte andre 
+IT- og Telestyrelsen bekræfter, at aflytningen kan finde sted i praksis. Men der er nogle krav, der skal opfyldes ved aflytningen. 
+»Du skal være tæt på personen, du aflytter, og du skal være det, når samtalen starter«, siger Henry Galle Stech, civilingeniør hos IT- og Telestyrelsen. 
+Han kender til den konkrete metode, som Steven Mueller benyttede sig af ved sikkerhedskonferencen i Dubai. 
+Henry Galle Stech påpeger dog, at det ifølge straffeloven er ulovligt at aflytte andres telefonsamtaler. 
+Sikkerheden skal granskes 
+DI ITEK, som er branchefællesskabet hos Dansk Industri for virksomheder inden for it, tele, elektronik og kommunikation, er overrasket over, at aflytningen kan finde sted. 
+»Uanset om aflytningen skal ske fra kort afstand eller, om man skal bruge udstyr, der koster en formue, så er det et problem. Danskerne skal være trygge ved at bruge deres mobiltelefon«, siger branchedirektør Tom Togsverd.
+Han vil på baggrund af de nye oplysninger nu undersøge mobilsikkerheden nærmere.

@@ -1,0 +1,7 @@
+Title: Staten_vil_tjekke_din_computer
+Date: 2008-02-15
+Article Type: Digitalt
+Author: Søren Dilling
+
+Net-testen kontrollerer, hvor sårbar den private computer er for angreb fra internettet ved at undersøge for såkaldte 'åbne porte'.
+Brugeren får et resultat – i form af rødt, gult eller grønt lys – samt en vejledning i, hvordan man kan løse de problemer, scanneren kan have fundet.

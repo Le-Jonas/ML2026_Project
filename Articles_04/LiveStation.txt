@@ -1,0 +1,6 @@
+Title: LiveStation
+Date: 2007-10-02
+Article Type: Bolig og haven
+Author: LiveStation lægger an til at kunne det samme som Zattoo, men endnu streames kun en enkelt BBC-kanal.
+
+Sidste levende billede i denne omgang er LiveStation, som er baseret på Microsofts nye SilverLight-teknologi, og som foreløbig kun sender BBC News 24. I fremtiden er det dog meningen, at LiveStation skal kunne transmittere andre tv-kanaler, og den eksisterende testudgave ser da også lovende ud.

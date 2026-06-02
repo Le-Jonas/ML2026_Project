@@ -1,0 +1,7 @@
+Title: Joost
+Date: 2007-10-02
+Article Type: Bolig og haven
+Author: Søren Dilling
+
+Joost var den første til at distribuere video- og tv-indhold via p2p-teknologi og gør det godt.
+Dog er Joost ikke blot streaming, men interaktiv streaming. Det vil sige, at man selv kan bestemme, hvad man vil se, og hvornår man vil se det.

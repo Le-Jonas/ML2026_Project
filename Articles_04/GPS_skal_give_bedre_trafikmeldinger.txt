@@ -1,0 +1,7 @@
+Title: GPS_skal_give_bedre_trafikmeldinger
+Date: 2007-11-22
+Article Type: Digitalt
+Author: Søren Dilling
+
+Det vil GPS-forhandlerne og -importørerne nu gøre noget ved i samarbejde med Vejdirektoratet, der udsender trafikmeldingerne via systemet TMC.
+På den måde vil de spare danskerne for et ukendt antal ventetimer i køer, når der sker uheld og lignende på vejene især i myldretiden.

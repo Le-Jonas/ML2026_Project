@@ -1,0 +1,6 @@
+Title: Stor_aktion_fælder_internetsvindlere
+Date: 2008-05-19
+Article Type: Internationalt
+Author: Internationale efterforskere har sprængt et omfattende netværk af internetsvindlere og anklaget 38 mistænkte, oplyser det amerikanske justitsministerium. Der er hovedsageligt tale om rumænere bosat i USA.
+
+De mistænkte er anklaget for at have benyttet en teknik kendt som 'phishing'. Den består i at sende internetbrugere e-mail, der ser ud til at komme fra deres bank, internetauktionshuset eBay eller internetbetalingstjenesten PayPal og i den forbindelse franarre modtagerne deres bankinformationer for at stjæle deres penge.

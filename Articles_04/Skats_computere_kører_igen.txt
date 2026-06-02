@@ -1,0 +1,6 @@
+Title: Skats_computere_kører_igen
+Date: 2008-06-14
+Article Type: Økonomi
+Author: Skat genetablerede i dag klokken 13 internetforbindelsen til omverdenen, efter at en fejl fredag lammede det meste af væsnets it-systemer.
+
+Fejlen i et databaseprogram var ikke værre, end at mennesker, der i den forgangne uge har brugt tastselv-service på Skattevæsnets hjemmeside, ikke behøver kontakte skat. Indtastede oplysninger vil blive genskabt.

@@ -1,0 +1,7 @@
+Title: Bullguard_Internet_Security_8.0
+Date: 2008-04-24
+Article Type: Bolig og haven
+Author: Benjamin Steengaard Rasmussen
+
+Der er fokus på backup i øjeblikket, så det er en god funktion at få med (særligt hvis man ikke selv kan tage sig sammen til at få det gjort). Installeringen af pakken er enkel, dog er det skidt, at man skal opdatere den manuelt, inden den er helt klar. Det burde ske automatisk.
+Standardfunktionerne samt spamfilteret er slået til fra starten. Bullguard er på dansk, og designerne fortjener lønforhøjelse, for opsætningen og udseendet er en fornøjelse at navigere rundt i, og det letter betjeningen, at det hele er enkelt og lige til at finde ud af.

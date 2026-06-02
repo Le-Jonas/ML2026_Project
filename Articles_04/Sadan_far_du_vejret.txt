@@ -1,0 +1,16 @@
+Title: Sadan_far_du_vejret
+Date: 2008-06-13
+Article Type: Sundhed
+Author: Helle Sindal
+
+Vil man have et realistisk indtryk af de lokale vejrforhold, må man placere vejrstationens forskellige sensorer med omtanke, siger Claus Nehring, projektleder i DMI’s (Danmarks Meteorologiske Instituts) sektion for målesystemer:
+»En vejrstations sensorer måler tilstandene lige der, hvor de er placeret, og det siger ikke nødvendigvis noget om de egentlige vejrforhold. Placerer man en temperaturmåler i bagende sol, får man typisk et hedt resultat, der ikke er repræsentativt for området. På samme måde giver vindmålinger fra en lukket terrasse heller ikke indtryk af, om det blæser på den anden side af stakittet«.
+Vindmåleren
+skal op og have fat i vinden
+Ideelt skal den placeres 10 meter over terrænet, som er den internationale anbefaling – måske i toppen af flagstangen! Ellers på taget, men i så fald skal den være fri af tagryggen, som kan give både læ og turbulens. 
+Temperaturmåleren bliver ofte anbragt forkert. Den skal være i skygge – bedst med en afskærmning – og luften omkring måleren skal være velventileret, for stillestående luft kan blive varm. Luftens fugtighed måles typisk samme sted som temperaturen. 
+Nedbør anbefales målt i halvanden meters højde over jorden. Der må gerne være træer og buske i nærheden, som kan give læ omkring måleren, men ikke så meget, at nedbøren forhindres i at nå måleren. 
+Lufttrykket kan måles ude eller inde– dog ikke i et lukket rum eller et rum med klimaanlæg eller udsugning. På nogle vejrstationer sidder barometeret på selve styreenheden. 
+Læs meget mere om korrekt opstilling af vejrstationer på
+www.dmi.dk
+. Se under ’Opstilling af måleudstyr til Borgervejr’.

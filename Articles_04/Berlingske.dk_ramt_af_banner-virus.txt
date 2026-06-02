@@ -1,0 +1,8 @@
+Title: Berlingske.dk_ramt_af_banner-virus
+Date: 2008-01-24
+Article Type: Danmark
+Author: Rikke Faurfelt
+
+Hans Drachmann og Frank Hvilsom
+Brugere af berlingske.dk kan have været udsat for et banner med skadelig kode i perioden 22/1 kl. 10:00 – 24/1 kl. 08:00.
+Et annoncebanner på berlingske.dk - og muligvis flere sites i Berlingske koncernen - har vist sig at kunne installere en kodestump på de besøgendes computere, skriver berlingske.dk.

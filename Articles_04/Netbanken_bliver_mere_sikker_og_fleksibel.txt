@@ -1,0 +1,7 @@
+Title: Netbanken_bliver_mere_sikker_og_fleksibel
+Date: 2008-06-25
+Article Type: Digitalt
+Author: Frederik Pedersen
+
+Det skyldes, at bankerne og den offentlige sektor har indgået aftale om at benytte den samme digitale signatur, som hedder danID.
+Signaturen vil blive udstedt via netbankerne, som i dag betjener 3,2 millioner danskere, og fra starten af det nye år vil danID kunne bruges til at få adgang til tjenester i den offentlige sektor.
