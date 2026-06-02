@@ -1,0 +1,25 @@
+Title: Tekniske_problemer_plager_fortsat_NemID_onsdag_aft
+Date: 2022-06-22
+Article Type: Forbrug
+Author: Problemer med at få adgang til offentlige hjemmesider skyldes serverfejl hos NemID.
+
+Artiklen er opdateret kl. 18.52
+Omkring en tredjedel af NemID-brugere kan opleve problemer med at tilgå netbank og sider som sundhed.dk og borger.dk.
+Det oplyser Nets, der driver NemID, til Ritzau.
+Tidligt onsdag aften lød meldingen fra Nets, at problemet med NemID var blevet løst, og at systemet virkede som normalt.
+Der var tale om en serverfejl, som opstod onsdag morgen. Trafikken blev derfor flyttet til en ny server, lød det.
+Det viser sig imidlertid, at ikke al trafikken er blevet flyttet til den nye server endnu, siger pressechef i Nets Peter Glüsing.
+En tredjedel af brugerne vil derfor stadig opleve, at systemet er langsomt, eller at de slet ikke kan få adgang.
+Nets forventer, at systemet vil fungere som vanligt for alle brugere i løbet af de kommende timer.
+»Vi beklager selvfølgelig situationen«, siger Peter Glüsing.
+»Det er heldigvis sjældent, at vi oplever nedbrud og driftsforstyrrelser«.
+Problemerne hos NemID gav tidligere på dagen også udfordringer for de mange danskere, der har skiftet til MitID.
+Det skyldes, at NemID’s nedbrud gav forstyrrelser for NemLog-in. Det system bruges til at tilgå offentlige portaler som skat.dk og sundhed.dk, uanset om man bruger NemID eller MitID.
+Peter Glüsing oplyser, at omkring 76 procent af alle brugere har skiftet til MitID.
+Egentlig skulle alle være flyttet til MitID inden udgangen af juni. Men den frist blev udskudt til oktober på grund af lange ventetider på Borgerservice i foråret.
+Der har særligt været fokus på at få udfaset NemID-nøglekortet. Det skyldes, at der kan tages en kopi eller et foto af et nøglekort, og det dermed ikke er lige så sikkert som de nye løsninger.
+Tirsdag indskærpede Finanstilsynet i et påbud til bankerne, at nøglekortet ikke må anvendes efter 30. juni, dog med undtagelser for visse brugere.
+ritzau
+fortsæt med at læse
+Bankerne udfaser papkortet 30. juni:
+Sådan kan du selv komme i gang med MitID

@@ -1,0 +1,16 @@
+Title: EU-dom_spænder_ben_for_brug_af_politiets_brug_af_t
+Date: 2022-04-06
+Article Type: Danmark
+Author: Den brede indsamling af danskeres teledata kan muligvis ikke bruges af politiet i efterforskning efter EU-dom.
+
+Justitsministeriet vurderer, at ny EU-dom betyder, at politiet ikke må få adgang til generelt indsamlet teledata ved efterforskning af grov kriminalitet.
+Det skriver ministeriet i en pressemeddelelse præcis en uge efter, at en ny lov har gjort det muligt at få danske teleselskaber til at masseregistrere teledata for at beskytte den ’nationale sikkerhed’.
+Men de data må altså muligvis ikke benyttes til efterforskning af grov kriminalitet efter en dom i EU-domstolen.
+»Det er rigtig ærgerligt, at EU-Domstolen er kommet frem til dette resultat i dag. Det vil få konsekvenser for politiets efterforskning af grov kriminalitet som bandekriminalitet og voldtægt«.
+»Det er vigtigt for mig at understrege, at dommen ikke ændrer på, at teleudbyderne fortsat er forpligtede til at logge generelt og udifferentieret med henblik på at beskytte den nationale sikkerhed«, skriver justitsminister Nick Hækkerup (S) i en kommentar.
+Teleselskaberne har i årevis indsamlet borgernes teledata, selv om EU-Domstolen har kendt det ulovligt ad flere omgange i domme mod andre lande.
+For at komme uden om de domme har Folketinget vedtaget en ny lov om registrering. 3. marts blev den vedtaget, og den trådte i kraft 30. marts.
+Loven gør det muligt at ’at foretage generel og udifferentieret logning af trafikdata, når det vurderes, at Danmark står over for en alvorlig trussel mod den nationale sikkerhed’.
+På præcist samme tid, som loven blev trådte i kraft, vurderede Justitsministeriet, at ’Danmark står over for en alvorlig trussel mod den nationale sikkerhed’. Og dermed kunne indsamlingen af data fortsætte ufortrødent.
+»Justitsministeriet, Rigspolitiet og Rigsadvokaten vil nu overveje dommens betydning for politiets indhentning af loggede oplysninger i konkrete sager«, skriver justitsministeriet i pressemeddelelsen.
+ritzau

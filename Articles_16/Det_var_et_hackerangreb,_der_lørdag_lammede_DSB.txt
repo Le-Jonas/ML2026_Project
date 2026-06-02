@@ -1,0 +1,21 @@
+Title: Det_var_et_hackerangreb,_der_lørdag_lammede_DSB
+Date: 2022-11-03
+Article Type: Danmark
+Author: Alle DSB’s tog holdt flere timer lørdag stille på Sjælland. Det voldte problemer for togtrafikken nationalt.
+
+Niels Holst
+Journalist, digital forsideredaktør
+Hackerangreb og fejl i nødprocedure var skyld i totalnedbrud i togdriften lørdag.
+Det oplyser DSB til DR Nyheder.
+Lørdag formiddag holdt alle DSB’s tog stille på Sjælland i flere timer. Det skabte problemer i togtrafikken i hele landet.
+Dengang lød det fra DSB, at togene holdt stille grundet en ’sikkerhedsbrist’. DSB mente lørdag ikke, at der var indikationer på et hackerangreb.
+Torsdag ændrer DSB dog forklaring.
+»Vi blev kontaktet af vores underleverandør, der fortalte os, at deres testmiljø var blevet kompromitteret af kriminelle hackere. De kan samtidigt ikke udelukke, at der også er noget uden for testmiljøet«, siger sikkerhedschef hos DSB Carsten Dam Sønderbo-Jacobsen til DR Nyheder.
+Togene begyndte at holde stille klokken 9. Efter klokken 12 begyndte togene så småt at køre igen, men først sent ud på eftermiddagen var togtrafikken igen normal.
+Carsten Dam Sønderbo-Jacobsen fortæller til DR Nyheder, at når hackere kommer ind i systemet, så lukker man hele systemet ned, fordi man regner med, at systemet er sikret mod det scenarie, der ramte tusindvis af rejsende.
+»På grund af en fejl i softwaren kan vi ikke tilgå materialet offline, og derfor er vores nødprocedure ikke fuldgyldig«, siger Carsten Dam Sønderbo-Jacobsen.
+Ifølge it-sikkerhedsspecialist Jacob Herbst var det den helt rigtige beslutning at lukke hele systemet ned, men nedbruddet viser ifølge ham, at det er vigtigt at have de rigtige backup-funktioner på plads.
+»Jeg synes, at det er ret symptomatisk omkring de kritiske it-systemer. DSB’s underleverandør har måske ikke haft så meget styr på sikkerheden, som der burde være. Der bør man sætte ind«, siger han til TV 2 News.
+Han understreger, at der de seneste år er sket meget for at øge it-sikkerheden på de kritiske it-systemer, men at der skal investeres yderligere i at rette op på sikkerheden.
+Ritzau
+fortsæt med at læse

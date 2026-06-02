@@ -1,0 +1,20 @@
+Title: Forældre_kan_ikke_længere_takke_nej_til_børnebille
+Date: 2022-08-27
+Article Type: Uddannelse
+Author: Datatilsynet mener ikke længere, at skoler skal indhente samtykke, når de tager billeder til internt brug.
+
+Forældre til børn, som går i institutioner eller skoler, der bruger platformen Aula, har fra natten til lørdag ikke længere mulighed for at sige nej til, at billeder af deres børn bliver delt på Aula til internt brug.
+Det skriver DR.
+Det skyldes, at Datatilsynet har ændret sin opfattelse af, hvornår det er nødvendigt for forældre at give samtykke til brug af billeder af deres børn.
+Derfor har en opdatering af Aulas app natten til lørdag fjernet muligheden for at takke nej.
+Datatilsynet anser det som en helt normal del af skolernes hverdag, at der bliver taget billeder af børnene, som kan deles med forældrene på Aula.
+Det fortæller kontorchef Karina Sanderhoff til DR.
+»Der er et løbende samarbejde mellem skole og forældre, hvor man også som skole skal orientere om børnenes dagligdag«.
+»Og der anser vi det altså for en naturlig og relevant del af skolens arbejde, at de også kan tage billeder af eleverne og dele det med forældrene«, siger hun.
+Datatilsynet opfordrer forældre til at gå i dialog med skolen eller institutionen, hvis de vil have et billede fjernet fra Aula.
+Det er dog op til skolen eller institutionen at tage stilling til, om billederne skal fjernes.
+Firmaet Kombit, som står bag Aula, mener ikke, at funktionen til at sige nej tak er relevant, når Datatilsynet vurderer, at der ikke er behov for samtykke fra forældrene til interne billeder.
+Det fortæller juridisk direktør i Kombit, Johanne Svendsen, til DR.
+Derfor er funktionen blevet fjernet med opdateringen natten til lørdag.
+Aula er et intranet, som blandt andet bliver brugt af folkeskoler og en række institutioner.
+ritzau

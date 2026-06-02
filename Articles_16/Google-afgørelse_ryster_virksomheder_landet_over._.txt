@@ -1,0 +1,9 @@
+Title: Google-afgørelse_ryster_virksomheder_landet_over._
+Date: 2022-09-22
+Article Type: Viden og tech
+Author: Det koster mindst 40.000 kr. at sørge for, at Google Analytics lever op til myndighedernes krav om beskyttelse mod, at personlige data sendes til USA.
+
+Jens Bostrup
+Journalist
+Præcisering: I en tidligere version fremstod det, som om at Datatilsynet har forbudt brugen af Google Analytics. Der er ikke udstedt et decideret forbud, men tilsynet vurderer, at Google Analytics ikke kan bruges lovligt, medmindre man sørger for supplerende forholdsregler til at beskytte data. Ved en fejl var Google ikke kommet til orde i den tidligere version.
+Det har skabt rystelser i virksomheder og organisationer over hele Danmark, at Datatilsynet har forbudt brugen af Google Analytics, det mest almindelige værktøj til overvågning af trafikken på danske virksomheder og organisationers hjemmesider, medmindre man sørger for supplerende foranstaltninger.

@@ -1,0 +1,19 @@
+Title: Zuckerberg_truer_Vi_kan_blive_nødt_til_at_lukke_F
+Date: 2022-02-06
+Article Type: Tech
+Author: Hvis regler for dataoverførsel mellem Europa og USA skærpes, kan Facebook og Instagram være nødt til at lukke, lyder det fra techvirksomheden Meta.
+
+Techvirksomheden Meta kan blive nødt til at lukke sine sociale medier Facebook og Instagram i Europa.
+Det kan ske, hvis de ikke længere må bruge servere i USA til at lagre europæisk data.
+Sådan lyder det i en rapport fra Meta, det tidligere Facebook, der udkom fredag i forbindelse med virksomhedens seneste kvartalsrapport.
+Problemerne udspringer af en manglende aftale om transatlantisk dataoverførsel.
+EU-domstolen vendte i sommeren 2020 tomlen ned til Privacy Shield-aftalen, som på det tidspunkt var lovgivningsramme for overførsel af data mellem EU og USA.
+Siden har området været uden en fast ordning.
+Kan man ikke nå til enighed om en ny ramme for transatlantisk dataoverførsel, og der ikke findes alternativer, ’vil vi sandsynligvis ikke være i stand til at tilbyde vores produkter og tjenester, herunder Facebook og Instagram, i Europa’, skriver Meta.
+Ifølge Mikkel Flyverbom, professor i kommunikation og digitale forandringer på CBS, handler det om at sætte begrænsninger for, hvordan data kan flyttes rundt i verden, og hvilke sammenhænge den indsamlede data bruges i.
+»Så det er et opgør med, at der måske før i tiden var ret frie rammer, i forhold til hvad man kunne med data, og hvad man kunne høste og genbruge data til«.
+»Det bliver mindre og mindre lovligt og sværere og sværere at gøre. Det tror jeg, Meta reagerer på«.
+Han mener ikke, at der her og nu er risiko for, at de sociale medier pludselig forsvinder.
+»Lige nu tror jeg mest, at det handler om at spille med musklerne og opridse et scenarie, der er så radikalt, at man måske passer på med at lave regulering, der ender i det«.
+»Men man kunne godt forestille sig, at det bliver svært at drive en virksomhed som Meta, hvis den ikke vil leve op til europæisk lovgivning«, siger han.
+ritzau

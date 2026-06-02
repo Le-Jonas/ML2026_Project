@@ -1,0 +1,14 @@
+Title: Alle_borgere_kan_igen_benytte_sig_af_deres_NemID
+Date: 2022-06-25
+Article Type: Danmark
+Author: Den digitale ID-løsning har haft massive tekniske problemer de seneste dage.
+
+Alle borgere kan igen benytte sig af deres NemID, efter at den digitale id-løsning har haft tekniske problemer de seneste fem dage.
+Det oplyser selskabet bag, Nets, i en pressemeddelelse lørdag aften.
+»Nets har til aften orienteret tjenesteudbydere af NemID om, at der i løbet af i dag er foretaget tekniske ændringer, som vil gøre, at drifte af NemID nu normaliseres«, skriver selskabet.
+»Det vil også gøre, at brugere af NemID igen kan anvende løsningen på normal vis«.
+Hvis man alligevel oplever at have problemer med at logge ind på enkelte sider, så er det ikke borgerens NemID, den er gal med, men i stedet den enkelte udbyder, som er årsagen.
+Det skyldes, at nogle udbydere er koblet op på en særlig service hos Nets, som fortsat vil opleve tekniske udfordringer indtil mandag.
+Nets vil derfor bruge resten af weekenden på at på bugt med disse.
+Ritzau
+fortsæt med at læse

@@ -1,0 +1,21 @@
+Title: Borger_loggede_pa_Mit.dk_og_sa_andres_personoplysn
+Date: 2022-03-24
+Article Type: Danmark
+Author: Styrelse ville ikke lade digital postkasse genåbne, før der var styr på problem med personoplysninger.
+
+Årsagen til den flere dage lange lukning af den nye digitale postkasse Mit.dk var blandt andet, at en borger oplevede at kunne få adgang til andres postkasse og personlige oplysninger.
+Det skriver Berlingske torsdag på baggrund af en korrespondance mellem borgeren Tage Lysgaard og Digitaliseringsstyrelsen.
+Den nye digitale postkasse blev lukket mandag formiddag, kort tid efter at den var gået i luften. Først onsdag eftermiddag var den igen oppe at køre.
+Til Berlingske fortæller Tage Lysgaard, at han mandag morgen loggede ind på Mit.dk og straks opdagede, at noget var helt galt.
+»Da jeg logger ind, får jeg adgang til en person, der hedder Ted. Jeg kan se hans post og fortrolige papirer – ægtepagt med mere«, siger han til avisen.
+»Som gammel, trænet advokat rører jeg ikke noget, men lukker straks. Ti minutter senere logger jeg så på igen. Så dukker den private post op fra en, der hedder Bent«.
+Tage Lysgaard tog efterfølgende fat i først Digitaliseringsstyrelsen og siden Mit.dk’s kundeservice.
+Af en mailsamtale fremgår det, at styrelsen var opmærksom på problemet og ikke ville lade Mit.dk åbne, før der var styr på sagen.
+»Jeg kan bekræfte, at Digitaliseringsstyrelsen ikke lader Mit.dk åbne, før der foreligger den nødvendige dokumentation for, at fejlen er udbedret«, skriver styrelsen i en mail til Tage Lysgaard ifølge Berlingske.
+Styrelsen har siden bekræftet til avisen, at der kun har været problemer med uberettiget adgang til at se andres post på Mit.dk. Det står ikke klart, hvor udbredt problemet i øvrigt har været.
+Det er firmaet Netcompany, som har udviklet Mit.dk
+Thomas Demant, partner i Netcompany, skrev onsdag i en mail til Ritzau, at der havde været ’driftsforstyrrelser’ i login-systemet. Ritzau søger en ny kommentar fra selskabet.
+Mit.dk skulle oprindelig have været taget i brug 30. november sidste år. Men premieredatoen blev udsat for at være sikker på, at systemet var helt klart.
+Tanken med den nye digitale postløsning er, at man bedre skal kunne integrere andre former for digital kommunikation.
+For eksempel kan man betale regninger direkte fra Mit.dk
+ritzau

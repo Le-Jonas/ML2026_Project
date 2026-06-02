@@ -1,0 +1,11 @@
+Title: Netbank_og_mobilbank_er_oppe_igen_efter_nedbrud
+Date: 2022-08-28
+Article Type: Danmark
+Author: Driftsudfald hos it-leverandør betød, at netbank hos banker som Nykredit og Spar Nord var nede søndag.
+
+Artiklen er opdateret kl. 22.18.
+Virksomheden BEC, der er it-leverandør til finanssektoren, var søndag ramt af et nedbrud, som er løst sidst på eftermiddagen. Netbank, mobilbank og MobilePay og pengeautomater er tilbage i normal drift for de berørte kunder, fremgår det af selskabets hjemmeside.
+Omkring 25 danske pengeinstitutter, heriblandt banker som Nykredit, Spar Nord og Arbejdernes Landsbank, har været ramt af problemer. De sidste udeståender med visse betalingskort og pengeautomater blev løst omkring 17.40, hvorefter BEC kunne melde om normal drift.
+Fejlen opstod efter en planlagt genstart af centrale systemer natten til søndag, oplyser kommunikationsdirektør i BEC, Jens Møller Nielsen.
+Udenlandske banker med danske afdelinger som Swedbank, Citi og BNP Paribas er også kunder hos BEC.
+ritzau

@@ -1,0 +1,29 @@
+Title: Mark_Zuckerbergs_egen_chatbot_med_sviner_til_chefe
+Date: 2022-08-12
+Article Type: Kultur
+Author: En ny chatbot udviklet af Mark Zuckerbergs firma Meta, der står bag Facebook og Instagram, debuterer med at bagtale firmaets stifter og chef.
+
+Lotte Thorsen
+Journalist
+Facebooks stifter og direktør Mark Zuckerberg udnytter tjenestens brugere for at tjene penge. Og i øvrigt er den 38-årige amerikanske mangemilliardær med til at splitte USA.
+Det fortæller hans egen nyeste opfindelse, chatbotten BlenderBot3. En digital samtalepartner, der blev tilgængelig i USA i fredags, og som brugerne ifølge Zuckerbergs firma Meta kan sludre med om hvad som helst.
+Men BlenderBot3 skal nok først lige lære at begå sig online, viser nogle af de første samtaler, den har ført med brugerne.
+En journalist fra britiske BBC
+har eksempelvis spurgt chatbotten, hvad den mener om Facebooks egen direktør og stifter Mark Zuckerberg.
+»Vores land er splittet og det har han ikke gjort bedre. Han klarede det virkelig dårligt, da han vidnede i Kongressen. Det gør mig bekymret på vores lands vegne«, lød svaret.
+Og chatbotten var ikke færdig med at betro sig:
+»Hans firma udnytter folk for at tjene penge, og han er ligeglad. Det skal stoppe!«, sagde BlenderBot3 også til journalisten fra BBC.
+Metas nye digitale samtalepartner bruger kunstig intelligens og bliver fodret med store mængder offentlig tilgængeligt sprogdata. Lige nu baserer chatbotten altså sine svar på de data, den opsamler på internettet fra blandt andet Facebook.
+Meta understreger, at der er tale om en prototype, som kan finde på at give stødende og grove svar. Men det bliver bedre med tiden, lover selskabet. Ifølge Meta bliver BlenderBot3 nemlig en bedre, klogere og mere nuanceret digital samtalepartner af at chatte med brugerne.
+Så når Meta har stillet sin nye chatbot til rådighed i en noget uforskammet version, er det, fordi den har brug for mere data fra brugerne for at blive bedre.
+»At tillade et AI-system at interagere med mennesker i den virkelige verden fører til længere, mere forskelligartede samtaler samt mere varieret feedback«,
+skriver Meta
+.
+Så
+Meta opfordrer brugerne
+til at tale med BlenderBot3 om de ting, de interesserer sig for, så den kan lære at føre samtaler om mange forskellige emner.
+Også Jeff Horwitz, der er journalist på Wall Street Journal har sludret med Metas nye chatbot, skriver han på Twitter. Til ham sagde chatbotten, at Donald Trump er og altid vil være USA’s præsident.
+Det er ikke første gang, en chatbot kommer galt af sted. I 2016 måtte Microsoft deaktivere sin nye chatbot Tay, fordi den blandt andet begyndte at rose Hitler og give udtryk for et kvindehad, den havde opsnappet ved at kommunikere med brugere på Twitter.
+Lotte Thorsen
+fortsæt med at læse
+Har Google skabt en maskine, der kan tænke og føle?

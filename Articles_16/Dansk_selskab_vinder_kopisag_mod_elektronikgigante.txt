@@ -1,0 +1,20 @@
+Title: Dansk_selskab_vinder_kopisag_mod_elektronikgigante
+Date: 2022-06-21
+Article Type: Forbrug
+Author: Sony og Huawei skal stoppe salg af teknologi, som danske Sonion mener, at de to har stjålet fra Sonion.
+
+Den danske virksomhed Sonion, der udvikler komponenter til høreapparater og headsets, har tirsdag vundet en dobbeltsejr i en kopisag mod de internationale elektronikselskaber Huawei og Sony. Det fremgår af to kendelser fra Sø- og Handelsretten, der er afsagt tirsdag.
+De to elektronikgiganter har hver fået et midlertidigt forbud mod at sælge nogle bestemte høretelefoner, som ifølge Sonion indeholder teknologi, der er stjålet fra dem, i Danmark. Sonion har udviklet en teknologi, der opfanger vibrationer i kæbebenet og derfor kan bruges til at identificere og isolere en stemme. Det kaldes en Voice Pick Up Bone Sensor. Derfor er teknologien værdifuld i headsets, som man kan gennemføre telefonsamtaler i, da det kan isolere stemmen fra omgivelsernes støj.
+Sonion kom på markedet med teknologien i 2019. Til Børsen har Sonion tidligere fortalt, at Huawei hurtigt viste interesse for headsets med teknologien. Produktet med teknologien blev solgt til en underleverandør til Huawei i de efterfølgende år.
+I 2021 stoppede salget dog pludselig, og kort efter kom Huawei med sit eget headset. I det headset var en Voice Pick Up Bone Sensor, der kunne det samme som den teknologi, som Sonion havde fået patent på. Sensoren var udviklet af den underleverandør, som Sonion havde solgt til. En kinesisk koncern ved navn Goertek. Senere er Sony blevet trukket ind i sagen, fordi Sony i 2021 sendte et headset på markedet med den samme sensor fra Goertek.
+Efter afgørelserne tirsdag skal Sony og Huawei beslutte, om de vil kære kendelserne til landsretten.
+Hvis ikke de gør det – eller hvis landsretten giver Sonion medhold igen – kommer der herefter en hovedsag, som skal afgøre en gang for alle, om forbuddet er efter bogen. Det kan dog tage flere år, og i en branche, hvor teknologiske fremskridt sker hurtigt, kan teknologien risikere at være overhalet til den tid, hvor der falder en endelig afgørelse.
+Med kendelserne tirsdag skal Sonion derfor stille en sikkerhed, i tilfælde af at forbuddet ikke viser sig at holde. Der er tale om et beløb i størrelsesordnen 2,2 millioner kroner i sikkerhed til Huawei og 1 million kroner til Sony.
+Sagen ved Sø- og Handelsretten har kun virkning i Danmark. Sonions direktør Christian Nielsen oplyser, at der allerede er gang i en tilsvarende sag i Tyskland. Her forventer direktøren en afgørelse senere i år.
+»Så tager vi derfra stilling til, hvordan vi eventuelt vil rulle andre sager ud i Europa«, siger han.
+Sonion-direktøren håber, at tirsdagens afgørelse i Sø- og Handelsretten giver tilstrækkelig afklaring til, at parterne kan indgå et forlig frem for at føre sag efter sag mod hinanden:
+»Her har vi fået en klokkeklar tilkendegivelse. Vi mener, at det bør kunne danne udgangspunkt for, at vi kan sætte os sammen med Huawei og Sony og så indlede en drøftelse om en økonomiske kompensation. Hvis de ikke er villige til det, vil vi videreføre en hovedsag«.
+ritzau
+fortsæt med at læse
+Nordisk chef beklager Huaweis raceprofilering:
+»Det er ikke, fordi vi prøver at frikende os selv i den her sag«
