@@ -1,0 +1,7 @@
+Title: Kunde_afslører_sikkerhedshul_i_to_netbanker
+Date: 2010-09-29
+Article Type: Privatøkonomi
+Author: Søren Dilling
+
+For første gang har en bankkunde fundet et sikkerhedshul i to danske pengeinstituters netbankløsninger.
+Det er Lån & Spar Bank og Eik Bank, der med en tilsyneladende sjusket logud-procedure kompromiterer sikkerheden i den nye digitale signatur, NemID.

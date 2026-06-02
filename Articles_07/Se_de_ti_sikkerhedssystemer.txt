@@ -1,0 +1,9 @@
+Title: Se_de_ti_sikkerhedssystemer
+Date: 2010-10-01
+Article Type: Biler
+Author: Søren Dilling
+
+BMW Assist Advanced eCall
+er et system, der selv kan ringe efter hjælp ved et uheld. Hvis en sammenstødssensor registrerer, at en bil involveres i en ulykke, kontakter den avancerede eCall funktion automatisk et BMW call center og giver detaljeret besked om ulykken, herunder ulykkessted, antal forsædepassager, antal udløste airbags mv. Det vurderes, at hvis systemet var tilgængeligt i alle biler, så kunne 2.500 liv reddes hvert år i Europa, og antallet af alvorligt tilskadekomne blive reduceret med 10-15 procent.
+Honda Collision Mitigation Braking System (CMBS)
+er et radarbaseret bremsesystem. Ved hastigheder over 15 km/t. vil biler inden for en afstand på 100 meter foran bilen blive observeret. Hvis radaren vurderer, at der kan opstå et sammenstød, vil føreren i første omgang blive advaret ved en alarm. Hvis føreren ikke bremser, vil førerens sele blive strammet lidt og bilen bremses let, og hvis der stadig ikke bremses, vil selerne på forsæderne blive strammet og bilen vil lave en katastrofeopbremsning. Ud fra analyser af tysk ulykkesstatistik vurderes det, at hvis alle biler i Europa havde systemet, så kunne 19.000 ulykker undgås om året og 153.000 ulykker ville være mindre alvorlige.

@@ -1,0 +1,11 @@
+Title: Blindskrift-_programmer_er_enten_gode_eller_gratis
+Date: 2010-11-01
+Article Type: Bolig og haven
+Author: Thomas Vigild
+
+Der findes gratis alternativer til blindskriftprogrammet ’Keyboard Pro’, men de største ulemper ved dem er, at de er markant mindre velpolerede og kræver mere at sætte sig rigtigt ind i.
+Til gengæld er de funderet på et anderledes pædagogisk grundlag, og det behøver slet ikke at være så tosset endda. 
+For eksempel er det Windows-baserede ‘TypeFaster Typing Tutor’ komplet gratis, men har alligevel et imponerende væld af muligheder – f.eks. at man kan bruge det i klassesammenhæng som lærer og selv skræddersy øvelser til eleverne. 
+Samtidig er programmet fuldkommen
+open source
+, dvs. at man selv kan få lov at pille ved programmets ’motor’ og ændre den efter forgodtbefindende, hvis man har evnerne og tiden.

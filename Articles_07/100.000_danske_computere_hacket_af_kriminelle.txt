@@ -1,0 +1,9 @@
+Title: 100.000_danske_computere_hacket_af_kriminelle
+Date: 2010-09-08
+Article Type: Digitalt
+Author: Det mener erhvervslivets organisation, DI, der har udarbejdet 10 konkrete forslag til, hvordan man kan tage kampen op. 
+ Problemet er især, at 100.000 danske computere er blevet overtaget af hackere - eller mere præcist - de er inficeret med det, som i IT-verdenen kaldes BOTs. Det vurderede DI sidste år på baggrund af en analyse fra it-sikkerhedsfirmaet CSIS. 
+ Nu bør staten gribe ind, siger chefkonsulent i erhvervslivets organisation DI, Henning Mortensen.
+
+GUIDE
+Dine kodeord skal være på mindst 12 tegn

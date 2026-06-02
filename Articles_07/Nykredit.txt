@@ -1,0 +1,7 @@
+Title: Nykredit
+Date: 2011-02-24
+Article Type: Bolig og haven
+Author: Thomas Vigild
+
+I forhold til Nordea er overblikket over alle ens konti markant mere gennemskueligt allerede på første skærmbillede, når man logger ind i Nykredits bank-app. Samtidig skal man kun indtaste CPR-nummer og en selvvalgt mobilbankkode for at komme ind.
+Det skyldes, at Nykredit har fuldkommen fravalgt brugen af NemID, hvilket øger brugervenligheden, men begrænser funktionaliteten. Fravalget af NemID betyder, at Nykredits app er et hermetisk lukket system, så man kan kun overføre mellem egne konti.

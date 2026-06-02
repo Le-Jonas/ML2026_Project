@@ -1,0 +1,7 @@
+Title: 54_danske_banker_har_hul_i_sikkerheden
+Date: 2010-09-29
+Article Type: Privatøkonomi
+Author: Søren Dilling
+
+Ialt 54 danske pengeinstitutters netbankløsninger med ialt mellem 300.000 og 400.000 danskere har den samme brist i sikkerheden som Lån & Spar Bank og Eik Bank.
+Her konstaterede en kunde i formiddags, at han ikke var logget ud af sin netbank, selv om han havde lukket det faneblad i browseren, som han havde logget ind på.
