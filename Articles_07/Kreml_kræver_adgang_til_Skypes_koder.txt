@@ -1,0 +1,8 @@
+Title: Kreml_kræver_adgang_til_Skypes_koder
+Date: 2011-06-14
+Article Type: Internationalt
+Author: Sergei Serebriakov
+
+Den russiske efterretningstjeneste FSB – KGB’s efterfølger – vil efter al sandsynlighed få adgang til Skypes hemmelige koder og dermed være i stand til at overvåge privat kommunikation, når Microsoft integrerer Skype i sin nyeste version af Windows og certificerer den i Rusland. 
+»Microsoft samarbejder med FSB og udleverer oprindelige tekster til sine produkter. Skype kan blive et sådant produkt i fremtiden«, sagde Microsofts præsident i Moskva, Nikolaj Prjanisjnikov, til avisen Vedomosti forleden.
+Skype, som er en dansk-svensk opfindelse, og andre udenlandske internettelefoniprodukter, der bruger krypterede koder til at beskytte kommunikationen, har længe været en torn i øjet på Ruslands efterretningstjeneste. »Ureguleret brug af disse tjenester truer Ruslands sikkerhed«, erklærede Aleksandr Andrejetjkin, chef for FSB’s center for beskyttelse af information, i april i år.

@@ -1,0 +1,7 @@
+Title: Din_iPhone_fotograferer_tyven
+Date: 2011-08-17
+Article Type: Forbrug
+Author: Farzam Abolhosseini
+
+Apple og flere andre virksomheder er udkommet med applikationer og spionprogrammer, som kan tage billeder fra en stjålet smartphone.
+Programmet 'Find min iPhone' er en avanceret tyverisikring af iPhonen som en slags gps, der kan spore telefonen og aflevere koordinater samt, hvis man beder den om det, tage billede af tyven.

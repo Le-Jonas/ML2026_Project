@@ -1,0 +1,6 @@
+Title: 300.000_har_bøvl_med_NemID
+Date: 2011-05-19
+Article Type: Digitalt
+Author: NemID er langt fra så nemt som forventet. Nyt speciale fra Københavns Universitet indikerer, at op mod 300.000 danskere kan have problemer med at bruge systemet, skriver Videnskab.dk
+
+De potentielle problemer kan være undsluppet myndighedernes opmærksomhed, fordi den oprindelige brugertest af systemet foregik under kunstige forhold, hvilket dog er normal praksis, når man tester et it-system inden lancering.
