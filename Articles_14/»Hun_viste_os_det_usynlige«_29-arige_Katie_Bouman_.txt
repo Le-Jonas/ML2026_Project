@@ -1,8 +1,0 @@
-Title: »Hun_viste_os_det_usynlige«_29-arige_Katie_Bouman_
-Date: 2019-04-11
-Article Type: Viden
-Author: Datalog Katie Bouman har i tre år arbejdet på algoritmen, der gjorde det muligt at indfange det historiske billede af et sort hul i universet.
-
-Cecilie Markussen
-Som at tage et billede af en appelsin på månen fra Jorden af. Stort set umuligt.
-Sådan er en række videnskabsfolks bedrift blevet beskrevet, efter at de onsdag kunne afsløre det første billede af et sort hul nogensinde. Og det kunne ikke have ladet sig gøre uden den 29-årige forsker Katie Bouman. Hun udviklede nemlig en afgørende algoritme, der gjorde det muligt at stykke data fra det sorte hul sammen til ét billede – det allerførste af slagsen.

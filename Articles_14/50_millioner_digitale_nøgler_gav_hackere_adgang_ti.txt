@@ -1,8 +1,0 @@
-Title: 50_millioner_digitale_nøgler_gav_hackere_adgang_ti
-Date: 2018-10-06
-Article Type: Tech
-Author: Michael Jarlner
-
-International kommentator
-Datatilsynet i Irland har åbnet en formel undersøgelse af Facebook, der indrømmer, at hackere har stjålet de digitale nøgler til 50 millioner brugeres profiler med mulighed for at overvåge og kontrollere kontoen, fuldstændig som var det deres egen.
-»Det er den første sag af den karakter, der bliver åbnet, efter at EU’s nye regler om databeskyttelse er trådt i kraft«, siger Graham Doyle, kommunikationschef i det irske datatilsyn, der fører tilsyn med Facebooks europæiske hovedkvarter.

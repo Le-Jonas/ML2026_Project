@@ -1,7 +1,0 @@
-Title: Kodeord_til_nettet_tager_endnu_et_skridt_mod_gravens_rand
-Date: 2018-04-10
-Article Type: Digitalt
-Author: Morten Bay
-
-Nu er internet-brugere verden over kommet en anelse tættere på at slippe for at skulle huske på deres kodeord til alle mulige tjenester. De folk, der sætter standarderne for vores brug af websider, har gjort klar til, at vi snart kan bruge biometriske »kodeord« som fingeraftryk og ansigtsgenkendelse på alle websider og fra alle slags digitale enheder.
-Du har formentlig allerede stiftet bekendtskab med biometriske login-fomer på din smartphone. Hvis du er iPhone-bruger, har du i flere år kunnet logge ind eller bekræfte din identitet ved at plante en finger på Touch ID-knappen nederst på telefonen.

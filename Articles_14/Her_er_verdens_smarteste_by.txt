@@ -1,9 +1,0 @@
-Title: Her_er_verdens_smarteste_by
-Date: 2019-08-30
-Article Type: Tech
-Author: Digitalisering er vejen til mere velfærd og grøn omstilling. Prisen er øget overvågning og risiko for hacking.
-
-Jens Bostrup
-Journalist
-København har sat sig for at komme helt i front og være en af verdens smarteste byer. Men i øjeblikket er det Singapore, der holder titlen som verdens smarteste, kåret af Smart City Expo World Congress. En af de fikse funktioner, der blev fremhævet af juryen, var, at de med stor nøjagtighed ved, hvor og hvornår det næste vandrør springer læk.
-Men Singapore er allerede kommet meget videre. Seneste opfindelse er en dynamisk virtuel 3D-model af hele bystaten, der rummer stort set alle målbare detaljer om veje, forsyningsnet og samtlige bygninger, herunder indretning og materialer.

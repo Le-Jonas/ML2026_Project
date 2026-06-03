@@ -1,8 +1,0 @@
-Title: EU_lover_indgreb_for_at_redde_demokratiet
-Date: 2018-11-06
-Article Type: Tech
-Author: Jens Bostrup, Lissabon
-
-Journalist
-Manipulation af vælgerne gennem sociale medier kan begrænses betragteligt ved ganske enkelt at fjerne de falske profiler, der spreder og forstærker budskaberne.
-»Robotterne spiller en helt central rolle i valgmanipulation. De udgiver sig for mennesker, som ligner målgruppen, og har venner og følgere i dit netværk. Og det påvirker meningsdannelsen meget effektivt«, siger George Kurtz, chef for cybersikkerhedsfirmaet Crowdstrike.

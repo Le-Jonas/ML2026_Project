@@ -1,7 +1,0 @@
-Title: Sadan_blev_DSB's_billetsystemer_lagt_ned_DDoS-angreb_er_internettets_brostenskast
-Date: 2018-05-14
-Article Type: Tech
-Author: Jeppe Valeur
-
-Søndag aften blev DSB's billetsystemer og hjemmeside ramt af et cyberangreb. I timevis kunne rejsende ikke købe billetter - hverken via DSB's app, deres hjemmeside eller i billetautomater. Først mandag formiddag virkede DSB.dk igen.
-Hackerangreb var skyld i teknisk nedbrud

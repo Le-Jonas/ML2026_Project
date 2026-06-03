@@ -1,7 +1,0 @@
-Title: Russiske_hackere_har_udset_sig_nye_mal_i_USA_Konse
-Date: 2018-08-21
-Article Type: Internationalt
-Author: David E. Sanger og Sheera Frankel, The New York Times, Boston
-
-Den russiske militære efterretningsenhed, der forsøgte at påvirke valget i USA i 2016, har tilsyneladende udset sig en ny skydeskive: konservative amerikanske tænketanke, der har brudt med præsident Trump, og som anbefaler fortsatte sanktioner mod Rusland eller arbejder for at overholdelse af menneskerettighederne.
-I en ny rapport skriver Microsoft, at selskabet har identificeret og lukket hjemmesider, der i de seneste uger er blevet oprettet af hackere med forbindelser til den russiske efterretningstjeneste, der tidligere var kendt som GRU. Hjemmesiderne forsøger tilsyneladende at narre folk til at tro, at de klikker sig gennem links, der administreres af tænketankene Hudson Institute og International Republican Institute, men i virkeligheden videresendes brugerne til hjemmesider, der er oprettet af hackerne med henblik på at stjæle adgangskoder og andre personlige data.

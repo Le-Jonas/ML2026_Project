@@ -1,9 +1,0 @@
-Title: Facebook_lover_at_vise_alt,_hvad_de_ved_om_dig,_un
-Date: 2019-08-20
-Article Type: Tech
-Author: Mange vil formentlig blive overraskede over, hvor omfattende og gennemgribende indsamlingen af data er, vurderer it-forsker.
-
-Jens Bostrup
-Journalist
-Facebook indfører tirsdag en ny funktion, som gør det muligt for brugerne at se, hvor mange oplysninger det sociale medie samler om dem, når de ikke er på Facebook. Det er data fra for eksempel spil, banken, netbutikker, organisationer, myndigheder og andre alle andre apps og hjemmesider, der giver Facebook mulighed for at høste data. Facebook bruger oplysningerne til at målrette annoncer.
-Den nye funktion giver desuden brugerne mulighed for at rydde deres historik og slå fremtidig sporing fra, siger Stephanie Max, produktchef i Facebook.

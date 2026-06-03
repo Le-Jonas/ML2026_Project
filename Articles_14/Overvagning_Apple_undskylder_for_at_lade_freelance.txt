@@ -1,8 +1,0 @@
-Title: Overvagning_Apple_undskylder_for_at_lade_freelance
-Date: 2019-08-29
-Article Type: Tech
-Author: Techgiganten skifter kurs i et forsøg på at leve op til sine egne idealer om at være garant for brugernes privatliv.
-
-Michael Liedtke, AP, San Francisco
-Apple beklager nu at have ladet udenforstående lytte til samtaler optaget af den digitale assistent Siri, en praksis, der har undermineret techkoncernens forsøg på at positionere sig som garant for brugernes ret til privatliv.
-Som en del af den undskyldning, der netop er udsendt, gentager Apple sit løfte om at ikke længere at opbevare Siris lydoptagelser, medmindre brugerne selv giver tilladelse til det.

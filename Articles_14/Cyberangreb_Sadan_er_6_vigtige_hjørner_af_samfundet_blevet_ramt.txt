@@ -1,8 +1,0 @@
-Title: Cyberangreb_Sadan_er_6_vigtige_hjørner_af_samfundet_blevet_ramt
-Date: 2018-05-15
-Article Type: Tech
-Author: Jakob Sorgenfri Kjær
-
-Journalist
-Et væsentligt element i regeringens længe ventede nationale cybersikkerhedsstrategi er øget samarbejde og vidensdeling i 6 udpegede samfundskritiske sektorer. Der er tale om energi-, sundheds-, transport-, tele-, finans- og søfartssektoren.
-Der etableres blandt andet dedikerede cyber- og informationsenheder i hver sektor, ligesom der skal udarbejdes selvstændige sektorspecifikke sikkerhedsstrategier.

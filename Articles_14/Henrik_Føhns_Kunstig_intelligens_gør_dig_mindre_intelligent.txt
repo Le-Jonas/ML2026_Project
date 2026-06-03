@@ -1,7 +1,0 @@
-Title: Henrik_Føhns_Kunstig_intelligens_gør_dig_mindre_intelligent
-Date: 2018-05-14
-Article Type: Viden og Tech analyser
-Author: Henrik Føhns
-
-Googles direktør, Sundar Pichai, demonstrerede stolt i denne uge en kunstig intelligens, som selv kan ringe til en frisør for at aftale en tid til klipning og til en restaurant for at booke et bord.
-Den kunstige intelligens talte helt naturligt med et ’øh’ og et ’øhm’ på de rigtige steder og lød næsten mere naturlig end de rigtige mennesker i den anden ende af telefonlinjen.

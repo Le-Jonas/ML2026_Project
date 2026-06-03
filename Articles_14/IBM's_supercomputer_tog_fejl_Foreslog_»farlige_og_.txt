@@ -1,7 +1,0 @@
-Title: IBM's_supercomputer_tog_fejl_Foreslog_»farlige_og_
-Date: 2018-07-28
-Article Type: Tech
-Author: Morten Bay
-
-Supercomputere bliver i højere og højere grad anvendt i diagnosticering og behandling af patienter i sundhedssystemer verden over. Også i Danmark bliver supercomputere som DTU's Computome-system brugt til f.eks. sekventering af patienters DNA, så de kan modtage en mere skræddersyet behandling inden for den såkaldte præcisionsmedicin. Men det er tilsyneladende ikke altid, supercomputerne er til at stole på.
-I USA bruges IBM's supercomputer Watson blandt andet i kræftbehandlingen, men det går ofte galt. Det skriver Stat, et nyhedsmedie der dækker forskning og teknologi i sundhedssektoren. Journalister fra Stat har fået fingrene i interne rapporter fra den gruppe hos IBM, der arbejder med at integrere Watson på sundhedsområdet, og disse dokumenter indeholder skarp kritik af ’Watson for Oncology’, den særlige udgave af Watson-systemet, der er bygget til kræftbehandlings-området.

@@ -1,9 +1,0 @@
-Title: IBM-chef_star_med_et_dilemma_Tør_han_bruge_Dankor
-Date: 2019-08-30
-Article Type: Tech
-Author: IBM har ansat en dataetisk ombudsmand, formentlig den første af sin art, der skal forsøge at undgå en shitstorm mod virksomheden. Her fortæller han om nogle af de dilemmaer, han beder IBM’s ledelse og sælgere tage stilling til. Og det bliver vildere og vildere.
-
-Jens Bostrup
-Journalist
-Kim Escherich har til opgave at udfordre IBM’s chefer og sælgere på deres etik. Han tager udgangspunkt i et supermarked, der har et godt tilbud til kunderne: Hvis de tilmelder sig butikkens rabatordning, vil de få tilsendt skræddersyede tilbud, der er billigere, end de andre kunder i butikken skal betale. Det eneste, de skal gøre til gengæld, er at sætte et flueben, der giver butikken adgang til at høste alle de data, den vil.
-Systemet er kommet op at køre, og nu er en sælger kommet på besøg for at hjælpe købmanden med at få mest muligt ud af sit nye system.

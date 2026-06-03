@@ -1,8 +1,0 @@
-Title: Intelligent_trafikstyring_Lyskryds_gør_det_muligt_at_tage_hensyn_til_mængden_af_cyklister
-Date: 2018-05-06
-Article Type: Hovedstaden
-Author: Søren Astrup
-
-Journalist
-Er det en lastbil? Eller en flok cyklister?
-Hidtil har de tekniske systemer, der skal holde øje med trafikken i København og få lyssignalerne til at passe, haft svært ved at skelne.

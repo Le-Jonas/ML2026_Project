@@ -1,8 +1,0 @@
-Title: Den_første_maned_med_GDPR_Eksploderende_mange_datalæk_er_kommet_op_til_overfladen
-Date: 2018-06-27
-Article Type: Forbrug
-Author: Jakob Sorgenfri Kjær
-
-Journalist
-Danske virksomheder og myndigheder har hele 331 gange i den seneste måned oplevet et læk, hack eller anden type brud på persondatasikkerheden. Eksempelvis kom TDC til at blotlægge 10.000 borgeres ellers hemmeligholdte adresser og telefonnumre på nettet, og Kommunernes Landsforening er blevet hacket, så e-mails, passwords og andre fortrolige oplysninger om 40.000 brugere af organisationens hjemmeside er faldet i hænderne på kriminelle.
-Under de nye databeskyttelsesregler, som trådte i kraft med dataforordningen GDPR 25. maj, kan man som organisation ikke længere putte med sandheden om at være blevet ramt af disse databrister. Datatilsynet skal nu orienteres om bruddet, og den uafhængige myndighed skal følge op på alle sagerne.

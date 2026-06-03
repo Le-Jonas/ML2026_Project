@@ -1,8 +1,0 @@
-Title: Henrik_Føhns_Vil_du_virkelig_have_Facebook_som_nat
-Date: 2019-06-21
-Article Type: Viden og Tech analyser
-Author: Mark Zuckerberg fremstår igen som en sær hybrid af filantrop og magtsyg forretningsmand.
-
-Henrik Føhns
-I denne uge lancerede Facebook planer om at skabe sin egen valuta og sit eget betalingssystem til næste år. Den sociale platform går i første omgang efter folk uden bankkonti i udviklingslande, men rækken af de 27 partnere tyder på et ønske om global dominans, som man som forbruger ikke har lyst til at være en del af.
-Det vil være baseret på blockchainteknologien og bestå af en digital tegnebog på ens smartphone, som skal indeholde Facebooks mønt. Den digitale pung kommer til at hedde Calibra, og valutaen får navnet Libra. Det minder om MobilePay bare uden den traditionelle bank. Det betyder, at man ikke behøver at have sin lokale valuta i lommen, og man kan blive en del af det økonomiske kredsløb uden at have en bankkonto, fordi alle transaktioner kommer til at foregå digitalt via Facebooks to apps, Messenger og WhatsApp.

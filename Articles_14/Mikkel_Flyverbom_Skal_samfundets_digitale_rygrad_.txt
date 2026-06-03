@@ -1,9 +1,0 @@
-Title: Mikkel_Flyverbom_Skal_samfundets_digitale_rygrad_
-Date: 2019-01-14
-Article Type: Tech
-Author: Hvis du skulle have udskiftet en vigtig del af din krop, ville du nok gerne vide, hvad du fik installeret. Men så snart vi bevæger os til vitale dele af vores samfund, forsvinder den kritiske sans.
-
-Mikkel Flyverbom
-professor (mso), Copenhagen Business School
-Ligesom strøm- og vandforsyning er internet- og mobiltjenester blevet en del af rygraden i vores samfund. Vi forventer, at den type infrastruktur bare fungerer, når vi trykker på stikkontakten, drejer vandhanen eller tænder for skærmen.
-Ikke desto mindre overlader mange politikere og ledere, der træffer beslutninger om investeringer i digital infrastruktur, beslutningerne om teknologi til tech-evangelister, it-afdelinger, konsulenter eller kommercielle kræfter, der ikke interesserer sig synderligt for de samfundsmæssige konsekvenser. Og derefter sænker mørket sig.

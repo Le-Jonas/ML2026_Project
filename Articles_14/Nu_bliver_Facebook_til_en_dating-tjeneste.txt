@@ -1,7 +1,0 @@
-Title: Nu_bliver_Facebook_til_en_dating-tjeneste
-Date: 2018-05-02
-Article Type: Tech
-Author: Morten Bay
-
-Tinder, Happn og alle de andre dating-apps får snart konkurrence i den helt store stil. Facebook gør nemlig klar til at åbne for dating mellem brugerne. Det annoncerede Facebook-stifteren Mark Zuckerberg tirsdag ved åbningen af firmaets udvikler-konference, F8.
-Ligesom på de fleste andre udvikler-konferencer hos Apple, Google og Microsoft, bruger Facebook deres F8-konference til at præsentere en række nyheder ved en åbnings-keynote, afholdt af topcheferne. Zuckerberg brugte selvsagt en stor del af tiden på at tale sikkerhed og privatliv oven på den massive kritik, der har regnet ned over verdens største, sociale medie.

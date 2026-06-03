@@ -1,8 +1,0 @@
-Title: Google_holder_øje_med_hvor_du_er_-_ogsa_nar_du_har
-Date: 2018-08-20
-Article Type: Tech
-Author: Jens Bostrup
-
-Journalist
-Afsløringen af, at Google holder øje med og gemmer oplysninger om, hvor du befinder dig – også når du udtrykkeligt har bedt Google om at lade være - har fået søgegiganten til at reagere.
-Dog ikke ved at holde op med at spore brugere, der har slået lokationshistorikken fra, men ved at give en mere åben beskrivelse af, at brugerne fortsat vil blive sporet, selvom de slår lokationshistorikken fra.

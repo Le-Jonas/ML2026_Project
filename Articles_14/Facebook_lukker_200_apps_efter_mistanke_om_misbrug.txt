@@ -1,7 +1,0 @@
-Title: Facebook_lukker_200_apps_efter_mistanke_om_misbrug
-Date: 2018-05-14
-Article Type: Digitalt
-Author: Morten Bay
-
-87 millioner mennesker lyder af meget. Det er det antal mennesker, der i følge Facebook har været mulige ofre for datamisbrug i Cambridge Analytica-skandalen. Men tallet kan i virkeligheden være langt højere. Op til 200 gange så højt.
-Facebook meldte ud mandag, at de midlertidigt har lukket omkring 200 apps ned, der mistænkes for datamisbrug. Disse Facebook-apps indhentede personlige data i strid med det sociale medies regler for dataindsamling. Disse apps benyttede sig bl.a. af de samme metoder, som Aleksandr Kogan brugte ved indsamling af data gennem app’en ’This is Your Digital Life’ i 2014 og siden gav datasættet videre til Cambridge Analytica.

@@ -1,8 +1,0 @@
-Title: »Et_alvorligt_tillidsbrud«_Data_fra_psykisk_syge_l
-Date: 2018-07-15
-Article Type: Sundhed
-Author: Mynthe Villadsen
-
-Journalist
-Region Syddanmark har de seneste fire år tilbudt borgere, der lider af mildere former for angst og depression, gratis psykologbehandling via internettet. Tilbuddet har haft stor succes og blev landsdækkende i marts i år.
-Nu viser det sig, at programmet bag har haft en sikkerhedsbrist. I to år er der ved en fejl sendt oplysninger om 220 navngivne patienter i et psykiatrisk forløb til en særlig, ubeskyttet mailkonto.

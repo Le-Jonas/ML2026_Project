@@ -1,8 +1,0 @@
-Title: Kriminalforsorgen_beklager_Det_er_slut_med_at_give_data_væk
-Date: 2018-06-20
-Article Type: Tech
-Author: Jakob Sorgenfri Kjær
-
-Journalist
-I 20 dage kunne hele verden tilgå fortrolige oplysninger om 590 fængselsbetjente og andre ansatte i Kriminalforsorgen. It-leverandøren Miracle erkender at have begået fejl, men Kriminalforsorgen er ansvarlig for at passe på sine i forvejen udsatte medarbejderes data. Så hvordan kunne det ske?
-»Der er ikke andet at sige, end det er meget beklageligt, at der skete den fejl hos vores leverandør, så der pludselig var fuld adgang på nettet til at finde oplysninger om vores medarbejdere. Men vores gennemgang viser, at det kun er én af vore egne medarbejdere, der har tilgået de oplysninger«, siger Lars Vinther, it-direktør i Kriminalforsorgen.

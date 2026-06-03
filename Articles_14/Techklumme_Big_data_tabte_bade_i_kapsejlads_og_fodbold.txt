@@ -1,8 +1,0 @@
-Title: Techklumme_Big_data_tabte_bade_i_kapsejlads_og_fodbold
-Date: 2018-06-30
-Article Type: Tech
-Author: Henrik Føhns
-
-tidligere vært på DR’s populære P1-radioprogram ’Harddisken’. Han redigerer i dag Ingeniørforeningens podcast Techtopia og skriver jævnligt klummer om teknologiske forandringer her i avisen.
-Den tyske softwarevirksomhed SAP har tabt to gange i den forgangne uge. Først i verdens hårdeste kapsejlads, Volvo Ocean Race, og bagefter da det tyske landshold røg ud af VM i fodbold.
-Holdet Akzonobel blev nummer fire i Volvo Ocean Race, selv om holdets skib var spækket med teknologi, som sendte data til SAP’s platform for kunstig intelligens, kaldet Leonardo. Fodboldlandsholdet røg ud trods massiv brug af SAP-løsningen Sports One, der er blevet udviklet gennem et halvt årti. SAP og det tyske fodboldforbund har sammen udviklet en videoløsning på smartphone med udgangspunkt i holdets behov for at kunne analysere og dele relevant kampdata effektivt og dermed skabe det bedst mulige udgangspunkt for at vinde.

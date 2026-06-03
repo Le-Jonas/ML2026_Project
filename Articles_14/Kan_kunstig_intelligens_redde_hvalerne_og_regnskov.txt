@@ -1,8 +1,0 @@
-Title: Kan_kunstig_intelligens_redde_hvalerne_og_regnskov
-Date: 2018-12-01
-Article Type: Tech
-Author: Adam Hannestad, Amsterdam
-
-Journalist
-Er det en god ide at beskytte hvalerne? At begrænse arbejdsløshed? At forhindre børneprostitution eller at varsle dødbringende oversvømmelser i god tid?
-Hvis du svarede ja til et eller flere af de spørgsmål, må du være tilhænger af kunstig intelligens – eller AI, som det normalt omtales ved sin engelske forkortelse. Den bedste måde at løse de store problemer, som menneskeheden tumler med, er nemlig at lade vores computere lære at tænke selv.

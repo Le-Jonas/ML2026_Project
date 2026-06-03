@@ -1,9 +1,0 @@
-Title: Google_afslører_nyt_etisk_regelsæt_efter_kritik_af_militær-projekt
-Date: 2018-06-08
-Article Type: Tech
-Author: Morten Bay
-
-Google har efter nogle uger under hård beskydning offentliggjort en liste over etiske principper. Det sker som et svar på kritik, der er opstået efter det kom frem, at Google har leveret kunstig intelligens (AI)-teknologi til det amerikanske militærs droneprogrammer. Google lover ikke at anvende deres AI til skadelige formål. Men kritikerne er langt fra overbeviste.
-»Det ligger os meget på sinde at bruge AI på den rigtige måde«. Sådan sagde Googles administrerende direktør, Sundar Pichai i sin åbningstale ved Googles udviklerkonference i maj. Den samme linje gik igen, da han torsdag tweetede et link til en
-række etiske principper
-, Google vil følge i forhold til kunstig intelligens.
