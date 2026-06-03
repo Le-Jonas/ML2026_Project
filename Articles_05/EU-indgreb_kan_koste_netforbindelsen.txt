@@ -1,7 +1,0 @@
-Title: EU-indgreb_kan_koste_netforbindelsen
-Date: 2009-07-06
-Article Type: Digitalt
-Author: Søren Dilling
-
-EU har nemlig bestemt, at Microsoft ikke må sælge sit styresystem med en browser som Internet Explorer integreret.
-Indgrebet er sket af hensyn til producenter af andre internetbrowsere end Microsoft, idet computergiganten formodedes at have faktisk monopol på browsere, når den var integreret i styresystemet, som næsten alle nye computere sælges med.

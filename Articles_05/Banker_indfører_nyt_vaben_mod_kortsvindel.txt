@@ -1,7 +1,0 @@
-Title: Banker_indfører_nyt_vaben_mod_kortsvindel
-Date: 2009-07-29
-Article Type: Privatøkonomi
-Author: Ole Wejse Svarrer
-
-Bankerne har indført et system, hvor kunderne selv via netbanken kan spærre for brugen af kortet i en eller flere verdensdele. Hvis du eksempelvis kun er på ferie i Europa, kan du spærre for misbrug af dit kort i Asien, Afrika og Amerika.
-Og hvis du på et senere tidspunkt skal på ferie i det 'spærret område', kan du via netbanken ophæve spærringen i det givne område.

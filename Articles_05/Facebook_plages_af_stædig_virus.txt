@@ -1,7 +1,0 @@
-Title: Facebook_plages_af_stædig_virus
-Date: 2008-12-08
-Article Type: Digitalt
-Author: Søren Dilling
-
-Den bruger netværkshjemmesidens interne post-system til at sprede sig selv til andre brugeres computere, hvor den er designet til at indsamle oplysninger af personlig karakter som kodeord til netbanker.
-Facebook anerkender ifølge Reuters, at det ikke er første gang, at det sociale netværk er angrebet af den type orm, men siger at det kun er en lille del af Facebooks brugere, der er angrebet.

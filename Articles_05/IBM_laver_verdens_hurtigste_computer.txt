@@ -1,8 +1,0 @@
-Title: IBM_laver_verdens_hurtigste_computer
-Date: 2009-02-03
-Article Type: Digitalt
-Author: Thomas Vigild
-
-Sequoia er ti gange hurtigere end nutidige supercomputere og 15 gange hurtigere end IBMs tidligere supercomputer BlueGene/P.
-En million gigabyte
-For de teknisk interesserede har Sequoia 1,6 petabyte hukommelse og en regnekraft på 20  pr. sekund, hvilket betegner, hvor mange matematiske operationer computeren kan udføre samtidig. 1,6 petabyte svarer til som en million gigabyte.

@@ -1,6 +1,0 @@
-Title: Opdater_ogsa_din_firmware
-Date: 2009-03-10
-Article Type: Digitalt
-Author: Firmware er software, der ligger i en lille chip på selve hardwaren, og styrer interne funktioner i for eksempel bundkortet og lignende.
-
-En opdateret Firmware kan indeholde fejlrettelser og optimeringer i forhold til den, der oprindeligt er blevet benyttet.

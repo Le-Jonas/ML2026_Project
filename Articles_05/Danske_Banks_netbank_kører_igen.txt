@@ -1,7 +1,0 @@
-Title: Danske_Banks_netbank_kører_igen
-Date: 2009-03-13
-Article Type: Privatøkonomi
-Author: Ole Wejse Svarrer
-
-Klokken 8.45 var der igen hul igennem igen.
-En fejl hos Danske Banks netudbyder gjorde, at danskebank.dk og dermed netbank og bankens nettjeneste til erhvervskunder, Business Online, var utilgængelig i en times tid fredag morgen.

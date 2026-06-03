@@ -1,9 +1,0 @@
-Title: 8.000_danskeres_fortrolige_data_i_forkerte_hænder
-Date: 2009-03-06
-Article Type: Økonomi
-Author: Michael Lund
-
-Thomas Flensburg
-Journalist
-Tusindvis af danskeres fortrolige oplysninger er ved en fejl endt i de forkerte hænder.
-Firmaet Multidata – der håndterer udbetaling af løn til 1,3 millioner personer – har sendt omkring 8.000 elektroniske skattekort med data som personnummer, adresse, trækprocent og fradrag til de forkerte arbejdsgivere.

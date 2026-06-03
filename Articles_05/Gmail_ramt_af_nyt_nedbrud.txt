@@ -1,9 +1,0 @@
-Title: Gmail_ramt_af_nyt_nedbrud
-Date: 2009-03-11
-Article Type: Digitalt
-Author: Søren Dilling
-
-Gmail bliver brugt af mere end 113 millioner mennesker verden over, og på tjenester som
-Twitter.com
-er der livlig aktivitet af utilfredse Gmailbrugere, når man søger på ordene Gmail og down.
-Den nye nedtur for tjenesten begyndte i går og rammer stadig mange brugere. Den kommer efter et større server-kollaps i slutningen af februar, hvor tjenesten var utilgængelig for samtlige brugere i op til tre timer.

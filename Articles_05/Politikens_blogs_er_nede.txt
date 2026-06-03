@@ -1,6 +1,0 @@
-Title: Politikens_blogs_er_nede
-Date: 2009-01-30
-Article Type: Danmark
-Author: Siden torsdag formiddag har Politiken blogs på Blogs.politiken.dk været nede. Det skyldes en fejl i den server, som blogsystemet ligger på.
-
-Teknikere fra JP/Politikens IT-afdeling arbejder på at få serverne og dermed Politikens blogs op at køre igen.

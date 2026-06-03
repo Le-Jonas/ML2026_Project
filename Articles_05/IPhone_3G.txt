@@ -1,7 +1,0 @@
-Title: iPhone_3G
-Date: 2009-06-22
-Article Type: Bolig og haven
-Author: Søren Dilling
-
-Vi måtte købe fem forskellige gps-programmer i Apples App-store, før vi fandt MoteonX til 18 kroner, der fungerede til testen.
-iPhone fungerer godt i forhold til, at den er en telefon, men opdaterer langsomt og har en lav præcision i forhold til de rigtige gps'er.

@@ -1,7 +1,0 @@
-Title: Digitale_signatur_skal_bruges_i_netbanken
-Date: 2009-02-12
-Article Type: Digitalt
-Author: Søren Dilling
-
-Den øgede sikkerhed består i, at koderne til den kommende signatur findes både i brugernes hoveder og i deres lommer populært sagt, fortæller Jette Knudsen, der er kommunikationschef i DanID, der udvikler den nye signatur.
-For udover brugernavn og pasord skal hver bruger udstyres med et nøglekort, der genererer et nyt engangskodeord hver gang, brugeren logger på banken eller på skat.dk for eksempel.

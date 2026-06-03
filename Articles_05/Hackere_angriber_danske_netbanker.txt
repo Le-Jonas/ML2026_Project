@@ -1,7 +1,0 @@
-Title: Hackere_angriber_danske_netbanker
-Date: 2009-04-24
-Article Type: Digitalt
-Author: Søren Dilling
-
-Den indeholder et program pakket i et zip.-format. Det lægges på computeren og kan derfra stjæle koden til din netbank, hvis du åbner det, fortæller Peter Kruuse, der er sikkerhedsanalytiker hos firmaet CSIS.
-Efter at programmet er installeret på din computer, begynder det at overvåge dine tastetryk, når du logger ind på din netbank.

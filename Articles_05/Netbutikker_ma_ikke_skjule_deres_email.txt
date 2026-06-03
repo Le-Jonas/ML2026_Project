@@ -1,7 +1,0 @@
-Title: Netbutikker_ma_ikke_skjule_deres_email
-Date: 2009-03-25
-Article Type: Digitalt
-Author: Søren Dilling
-
-Det siger Forbrugerombudsmanden og rammer dermed direkte ned i en udbredt praksis blandt netbutikker og firmahjemmesider.
-Det skyldes, at kontakt- eller klageformularen er konstrueret sådan, at den ikke bliver sendt som en email men gennem en formular, der åbner sig på hjemmesiden.

@@ -1,7 +1,0 @@
-Title: Lav_din_helt_egen_tilbudsavis
-Date: 2008-11-17
-Article Type: Nyt om mad
-Author: Søren Dilling
-
-Nu kan du slippe for papiret og alligevel få alle de tilbud, du interesserer dig for, uden at få en eneste reklame ind af brevsprækken.
-Løsningen hedder elektroniske tilbud, der trawler de ugentlige tilbudsaviser igennem og sender tilbuddene til dig i en mail.

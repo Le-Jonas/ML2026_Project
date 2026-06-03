@@ -1,6 +1,0 @@
-Title: IT-organisation_Brug_ikke_Google_Chrome
-Date: 2008-10-24
-Article Type: Digitalt
-Author: Nu melder den statslige tyske myndighed for it-sikkerhed BSI (Bundesamt für Sicherheit in der Informationstechnik) ud, at de har fundet svagheder i beta-versionen af programmet, skriver it-borger.dk.
-
-BSI understreger, at netop betaversioner ikke bør tages i rigtig anvendelse men alene bruges til at lave de test, som altid bør gennemføres før ibrugtagning af nyt software.

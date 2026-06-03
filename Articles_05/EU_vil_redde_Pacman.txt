@@ -1,8 +1,0 @@
-Title: EU_vil_redde_Pacman
-Date: 2009-02-17
-Article Type: Spil
-Author: Thomas Vigild
-
-Thomas Vigild
-Det skyldes simpelthen, at teknologien har udviklet sig, og der er sjældent tanke for, at ny hardware kan afspille ældre software. Men nu vil forskere bag et nyt stort EU- project kaldet KEEP (Keeping Emulation Environments Portable) med et budget på 4 millioner euro bl.a. udvikle verdens første generelle "emulator", hvilket er et computerprogram, der i teorien kan gemme og afspille alle spil til alle platforme fra 1970 og frem til nutiden.
-»Noget af det første hardware som spilkonsoller og computere er allerede på i museum. Men hvis man ikke kan vise de besøgende, hvad maskinerne kunne og spille på dem, så er det meget som at udstille musikinstrumenter, men kyle al musikken ud. For fremtidige generationer kan det blive en kulturel katastrofe«, siger David Anderson, chefforsker ved engelske Portsmouth University, til New Scientist.

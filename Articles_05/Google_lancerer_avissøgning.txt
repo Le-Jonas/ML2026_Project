@@ -1,7 +1,0 @@
-Title: Google_lancerer_avissøgning
-Date: 2008-09-09
-Article Type: Digitalt
-Author: Frederik Pedersen
-
-Den nye service bliver indbygget i den eksisterende News Archive Search, som søger i online artikler på avisernes hjemmesider.
-På samme måde som Google Book Search, hvor bøger scannes og gøres søgbare, bliver ældgamle avisartikler gjort tilgængelige.

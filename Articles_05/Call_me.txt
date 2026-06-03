@@ -1,7 +1,0 @@
-Title: Call_me
-Date: 2009-01-02
-Article Type: Bolig og haven
-Author: Søren Dilling
-
-Call me bruger Telias net. Det vil sige, at du som bruger kan opleve skift i hastigheden fra op til en tredjedel af de reklamerede 3 megabit hastighed og ned til en tiendedel (100 kbit/s), på det supplerende edge-net.
-Men i de fire store byer København, Århus Odense og Ålborg, hvor 3G-nettet er bedst udbygget, er der større chance for højere hastigheder.

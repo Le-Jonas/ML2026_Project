@@ -1,7 +1,0 @@
-Title: Danskere_nøglen_til_Googles_browser
-Date: 2008-09-10
-Article Type: Digitalt
-Author: Frederik Pedersen
-
-Lars Bak fortæller, hvordan han i al hemmelighed håndplukkede et lille hold af programmører, som lejede sig ind på et kontor i Århus for at arbejde på en såkaldt JavaScript-maskine, som under navnet ’V8’ udgør en central del af Chrome, der blev lanceret sidste uge.
-’V8’ er en af årsagerne til, at Chrome i den forløbne uge har slået andre populære browsere som f.eks. Internet Explorer og Firefox i flere hastighedstest.

@@ -1,8 +1,0 @@
-Title: Det_offentlige_kan_ikke_undga_Microsoft
-Date: 2009-08-12
-Article Type: Økonomi
-Author: Søren Astrup
-
-Journalist
-Det er endnu ikke muligt at vriste det offentlige ud af afhængigheden af Microsofts kontorpakker.
-Det er konsekvensen af en undersøgelse af de standarder, der findes inden for kontorprogrammerne. De bruger særlige formater, så et brev fra et program kan åbnes med et andet program, der anvender samme formatstandard.

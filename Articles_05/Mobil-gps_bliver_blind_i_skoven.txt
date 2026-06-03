@@ -1,7 +1,0 @@
-Title: Mobil-gps_bliver_blind_i_skoven
-Date: 2009-07-01
-Article Type: Bolig og haven
-Author: Søren Dilling
-
-Med undtagelse af iPhonen, som med det rigtige downloadede program akkurat kan konkurrere men med en dårlig præcision og en langsom opdatering, er der kun de rigtige gps'er tilbage, når man skal navigere uden for vejnettet.
-De er beregnet til navigation på adresseniveau, så hvis 100 meter inde i skoven til højre for stien ikke har en adresse, er din mobils gps fuldstændig blind.

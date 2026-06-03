@@ -1,5 +1,0 @@
-Title: Blog_fallback
-Date: 2008-10-24
-Article Type: weblogs
-Author: Jesper Sidor
-

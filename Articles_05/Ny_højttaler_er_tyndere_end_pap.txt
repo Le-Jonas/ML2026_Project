@@ -1,7 +1,0 @@
-Title: Ny_højttaler_er_tyndere_end_pap
-Date: 2009-04-04
-Article Type: Viden og tech
-Author: Astrid Søndberg
-
-Et stykke folie, der er tyndere end en kvart millimeter.
-Umiddelbart ligner det sølvskinnende ark ikke en højttaler, men faktisk er det prototypen af Flat Flexible Loudspeaker, FFL, der er udviklet af ingeniører ved Universitetet i Warwick i Storbritanien.

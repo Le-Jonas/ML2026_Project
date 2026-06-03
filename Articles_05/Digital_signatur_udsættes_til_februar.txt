@@ -1,7 +1,0 @@
-Title: Digital_signatur_udsættes_til_februar
-Date: 2009-08-06
-Article Type: Digitalt
-Author: Søren Dilling
-
-De danske banker vil ikke tage den nye digitale signatur i brug før efter nytår, og derfor vil danske internetbrugere ikke opleve forbedringerne i signaturen før til februar næste år.
-Det var planen, at den nye signatur skulle kunne tages i anvendelse til november, og rent teknisk er den også klar, lyder det fra DanID, som står for udviklingen af signaturen.

@@ -1,7 +1,0 @@
-Title: Indbrudsalarmen_gar_pa_bredband
-Date: 2008-11-07
-Article Type: Bolig og haven
-Author: Søren Dilling
-
-Det sikrer en ny form for alarmservice, der ved hjælp af nettet vil genopfinde nabohjælpen.
-Den nye spiller på det danske alarmmarked hedder Lockon. Firmaet tilbyder en alarmservice, der udnytter nettet til at levere intelligente alarmløsninger.

@@ -1,7 +1,0 @@
-Title: Jackos_død_mindede_om_et_hackerangreb
-Date: 2009-06-26
-Article Type: Digitalt
-Author: Ole Wejse Svarrer
-
-Flere netmedier oplevede store problemer med at håndtere den enorme mængde af besøg på deres hjemmesider, efterhånden som nyheden bredte sig til netmedier verden over, skriver mediawatch.dk.
-Trafikken var så voldsom, at Googles anti-hacker-software blev aktiveret. Søgemaskinen modtog så mange klik i sekundet, at systemet troede, at et organiseret hacker-angreb var under opsejling.

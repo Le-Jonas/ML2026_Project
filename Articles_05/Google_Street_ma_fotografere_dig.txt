@@ -1,7 +1,0 @@
-Title: Google_Street_ma_fotografere_dig
-Date: 2009-03-24
-Article Type: Digitalt
-Author: Søren Dilling
-
-Det er nemlig som udgangspunkt ikke forbudt at fotografere dig og elskerinden, når formålet er et andet, og motivet i virkeligheden er kirken og gadebilledet.
-Når billedet senere kommer op på Google Street View med det formål at vise gadebilledet og kirken i baggrunden, er du og elskerindens identitet forhåbentlig sløret af Googles crawler-funktion.

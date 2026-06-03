@@ -1,7 +1,0 @@
-Title: Online_banking_under_attack
-Date: 2009-02-11
-Article Type: Danmark
-Author: Julian Isherwood
-
-Eastern European hackers are systematically breaking into Danish online bank accounts and emptying them of funds. So far, some 8,000 online banking customers have had their online accounts closed.
-One of them, Annette Warming, was shocked on December 27, to find that what had previously been an account showing DKK 64,800 (EUR 9,000) in credit, showed a resounding zero.

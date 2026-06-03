@@ -1,7 +1,0 @@
-Title: Genie_Backup_Manager_Home_8
-Date: 2009-07-20
-Article Type: Bolig og haven
-Author: Søren Dilling
-
-Programmet får 5 ud af 6 mulige point og roses først og fremmest for sin enkelhed og nemme betjening. Det vil sige, at det er nemt at tage en grundig backup, og det er lige så nemt at genskabe dem til ens pc, hvis man skulle få brug for det.
-Og skulle man have specialønsker til backup-indstillingerne, ligger der en række standarter i programet, man kan vælge imellem.

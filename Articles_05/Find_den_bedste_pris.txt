@@ -1,9 +1,0 @@
-Title: Find_den_bedste_pris
-Date: 2009-01-16
-Article Type: Digitalt
-Author: Søren Dilling
-
-Det sker blandt andet på Teleprisguiden, hvor du ikke alene kan konstatere, at Telia har den billigste mobile bredbåndsforbindelse på 1 mbit/s. Du kan se priser på mobile bredbåndsløsninger fra samtlige danske selskaber og på samtlige hastigheder, der er til rådighed.
-Du kan finde IT - og Telestyrelsens priser på alle
-mobile bredbåndsforbindelser her
-- husk at vælge 'bredbånd - trådløs' under type.

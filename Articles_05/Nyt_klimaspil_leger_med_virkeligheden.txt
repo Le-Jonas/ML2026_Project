@@ -1,7 +1,0 @@
-Title: Nyt_klimaspil_leger_med_virkeligheden
-Date: 2008-10-01
-Article Type: Spil
-Author: Thomas Vigild
-
-Dog sker det på noget utraditionel vis, da spillet er et såkaldt ARG-spil - et Artificial Reality Game.
-Det betyder, at spillet bevidst foregår i en gråzone mellem hvad der er spil, og hvad er virkelighed ved at udspille sig gennem en række forskellige reelle online-tjenester - blandt andet via profiler på Facebook, direkte chat via Microsoft Messenger og søgning på Microsofts Live Map-tjeneste.

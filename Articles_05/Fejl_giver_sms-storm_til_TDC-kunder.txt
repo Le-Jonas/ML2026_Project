@@ -1,7 +1,0 @@
-Title: Fejl_giver_sms-storm_til_TDC-kunder
-Date: 2009-07-01
-Article Type: Digitalt
-Author: Søren Dilling
-
-Siden tirsdag aften har kunder hos TDC og alle de teleselskaber, der bruger TDC's net fået de samme sms'er i indbakken op til tyve gange.
-Så der har været gang i slette-tasten for at indbakken ikke skulle blive overfyldt. For der er ikke tale om nye sms'er men om de samme, der bliver ved med at komme.

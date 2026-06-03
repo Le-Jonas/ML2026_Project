@@ -1,7 +1,0 @@
-Title: Fremtidens_spil_har_humor
-Date: 2009-06-10
-Article Type: Spil
-Author: Thomas Vigild
-
-Snart vil computerspil som minestryger ikke være andet end et levn fra fortiden.
-I hvert fald hvis det står til den opfindelse, som Georgios N. Yannakakis, ph. d. i informatik og ansat som adjunkt på IT-universitetet, står bag. Yannakakis har opfundet en måde, hvorpå computeren kan aflæse, hvor sjovt computerspilleren synes spillet er, skriver videnskabsportalen Videnskab.dk.

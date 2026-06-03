@@ -1,7 +1,0 @@
-Title: Backup-programmer_er_gode_og_billige
-Date: 2009-07-22
-Article Type: Bolig og haven
-Author: Søren Dilling
-
-Den erfaring er der nok mange, der har høstet. Derfor bruger vi ofte den manuelle backup-metode - nemlig at kopiere en mappe med billedfiler eller musik til en ekstern harddisk eller en dvd.
-Men det kan gøres automatisk med et backupprogram, som der findes mange af, og en test viser endda, at gode backupprogrammer også kan være gratis.

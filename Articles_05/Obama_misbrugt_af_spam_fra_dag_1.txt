@@ -1,7 +1,0 @@
-Title: Obama_misbrugt_af_spam_fra_dag_1
-Date: 2008-11-07
-Article Type: Digitalt
-Author: Søren Dilling
-
-Sikkerhedsfirmaet Trend Micro Research Lab rapporterer om spam-beskeder, der i øjeblikket rundsendes med det formål at sprede såkaldt malware. Det begyndte få timer efter, at Obama holdt sin første tale efter at valgresultatet var klart.
-Spambeskederne rundsendes som nyheder om valgresultatet og som henvisninger til Obama's taler.

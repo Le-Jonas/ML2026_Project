@@ -1,8 +1,0 @@
-Title: Photocares_brugervenliged_halter
-Date: 2008-09-16
-Article Type: Bolig og haven
-Author: Dorthe Lønstrup
-
-Journalist
-Blandt andet modtager PC-Worlds testperson ikke billederne efter en dag, som Photocare ellers har lovet.
-Sitet tilbyder, at man kan downloade Aurigma Image Uploader, som er et ActiveX-modul, der gør det lettere og hurtigere at udvælge og overføre de ønskede fotos.

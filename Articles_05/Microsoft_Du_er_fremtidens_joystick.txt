@@ -1,9 +1,0 @@
-Title: Microsoft_Du_er_fremtidens_joystick
-Date: 2009-06-02
-Article Type: Spil
-Author: Thomas Vigild
-
-Thomas Vigild og Thomas Berger
-Los Angeles
-Spring rundt foran fladskærmen og spillets figurer gør det samme. Eller tal til spillets figurer på skærmen, og de genkender din stemme og byder dig velkommen.
-I går aftes dansk tid fremviste Microsoft deres vision for fremtidens spil i kameraet kaldet Project Natal, der både kan måle ens bevægelser i tre dimensioner samt genkende ens stemme og ansigt.

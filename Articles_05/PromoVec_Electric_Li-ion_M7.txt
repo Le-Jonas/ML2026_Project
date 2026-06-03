@@ -1,9 +1,0 @@
-Title: PromoVec_Electric_Li-ion_M7
-Date: 2009-04-30
-Article Type: Sundhed
-Author: Michael C. Svendsen
-
-Batteri:
-Lithium-ion, 9 Ah.
-Gear:
-Syv indvendige.

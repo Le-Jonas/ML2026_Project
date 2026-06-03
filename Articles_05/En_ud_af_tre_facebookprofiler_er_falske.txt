@@ -1,7 +1,0 @@
-Title: En_ud_af_tre_facebookprofiler_er_falske
-Date: 2009-01-09
-Article Type: Digitalt
-Author: Ritzau
-
-Sådan vurderer en rapport fra det internationale sikkerhedsfirma Cloudmark, skriver metroXpress. Den vurdering er ikke urealistisk, vurderer Shehzad Ahmad fra organisationen DK-Cert, der overvåger it-sikkerheden i Danmark.
-»Vi kan jo se, at tendensen er, at flere produkter bliver lanceret som Facebook-profiler, og at profiler har navne, som vi kender fra it-kriminalitet,« fortæller han.

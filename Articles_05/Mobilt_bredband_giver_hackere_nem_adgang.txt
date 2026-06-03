@@ -1,7 +1,0 @@
-Title: Mobilt_bredband_giver_hackere_nem_adgang
-Date: 2009-01-13
-Article Type: Digitalt
-Author: Søren Dilling
-
-Der er derfor større risiko for hackerangreb, når kobler din computer op på det mobile bredbånd end på det almindelige bredbånd.
-Det fortæller teleanalytiker Torben Rune fra firmaet Netplan i Hillerød.

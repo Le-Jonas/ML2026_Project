@@ -1,7 +1,0 @@
-Title: Elektronisk_vidunder_har_smag_for_vin
-Date: 2009-06-28
-Article Type: Viden og tech
-Author: Steffen Ejstrup
-
-Forskere har udviklet en måde at identificere vin på, der er så nøjagtig, at den kan gøre selv den mest selvbevidste sommelier nervøs.
-Ved hjælp af en 'elektronisk næse' kan instrumentet udpege en blanding af tusindvis af forskellige komponenter, der findes i hver enkelt flaske vin.

@@ -1,9 +1,0 @@
-Title: Postcards.dk
-Date: 2009-07-08
-Article Type: Bolig og haven
-Author: Søren Dilling
-
-På
-Postcards.dk
-som er en side for brugere, der har digitalbilledet liggende på computeren, er brugervenligheden ok, men prisoplysningerne er både mangelfulde og misvisende, og det trækker karakteren ned til 3 tjektegn.
-Det er det let at smide billedet ind på hjemmesiden.

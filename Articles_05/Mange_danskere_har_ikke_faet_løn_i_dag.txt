@@ -1,8 +1,0 @@
-Title: Mange_danskere_har_ikke_faet_løn_i_dag
-Date: 2009-02-27
-Article Type: Privatøkonomi
-Author: Fejlen skyldes et nedbrud hos SDC, Skandinavisk Data Center, der ejes af 60 danske pengeinstitutter. 
-Det oplyser P4 Nordjylland. 
-Cirka halvdelen af alle lønoverførsler i disse 60 pengeinstitutter er gået galt i nat, fortæller administrerende direktør i SDC Erik Jacobsen.
-
-»Vi har haft et centralt databaseproblem, hvor lønoverførslerne ikke er kommet på plads«, siger han.

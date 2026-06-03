@@ -1,7 +1,0 @@
-Title: Googles_Gmail_er_nede
-Date: 2009-02-24
-Article Type: Digitalt
-Author: Søren Dilling
-
-Gmail gik globalt ned i dag kl. 10:30 dansk tid, men der er uenighed blandt brugerne, om hvor omfattende nedbruddet er.
-Nogle brugere rapporterer, at de godt kan bruge Gmail fra deres skrivebordsgenveje, mens andre fortæller, at det er hele Googles online programpakke, der ikke virker.

@@ -1,7 +1,0 @@
-Title: Encarta_Microsoft
-Date: 2009-03-04
-Article Type: Bolig og haven
-Author: Søren Dilling
-
-Encarta er et rigtigt hyberleksikon forstået på den måde,m at den ikke bare giver søgeresultater på artikler i Encarta men også hvad der er fundet frem på Microsofts søgemaskine Windows Live Search på hele internettet.
-Men bortset fra det er det temmelig forvirrende at finde rundt i de mange links, man præsenteres for, idet artiklerne linker til hinanden på kryds og tværs, så det viser sig, at de otte artikler om Darfur for eksempel.

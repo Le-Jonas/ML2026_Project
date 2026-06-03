@@ -1,9 +1,0 @@
-Title: Cobian_Backup_9
-Date: 2009-07-20
-Article Type: Bolig og haven
-Author: Søren Dilling
-
-Det næstbedste program får 4 ud af 6 point sammen med betalingsprogrammet Acronis.
-Det hedder
-Cobiansoft Backup
-, er svensk open source og gratis.

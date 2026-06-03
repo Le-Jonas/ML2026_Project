@@ -1,7 +1,0 @@
-Title: Nu_kender_gps'en_togtider_og_busruter
-Date: 2009-06-15
-Article Type: Digitalt
-Author: Søren Dilling
-
-Ideen er, at du stiller bilen, tager GPS'en med dig og fortsætter i den kollektive trafik hen mod dit mål i for eksempel London eller Barcelona.
-Kortene kan købes separat for hver by, og i øjeblikket er 40 europæiske byer lagt ind i systemet. Stockholm, Barcelona, London og København er blandt byerne.

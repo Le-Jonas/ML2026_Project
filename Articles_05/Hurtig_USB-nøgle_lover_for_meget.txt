@@ -1,7 +1,0 @@
-Title: Hurtig_USB-nøgle_lover_for_meget
-Date: 2009-08-19
-Article Type: Digitalt
-Author: Thomas Berger, London
-
-En af fordommene omkring USB-nøgler er, at jo højere kapacitet er jo langsommere er dataoverførselshastighederne.
-Tjek.dk har derfor lavet en lille test af tre USB-nøgler:

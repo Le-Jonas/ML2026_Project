@@ -1,7 +1,0 @@
-Title: Garmin_eTrex_Legend
-Date: 2009-06-22
-Article Type: Bolig og haven
-Author: Søren Dilling
-
-eTrex Legend HCx - Super brugervenlig, men angiver selv unøjagtigheden til hele 8-10 meter.
-Logisk opbygget brugerflade og en rigtig god begynder-gps.

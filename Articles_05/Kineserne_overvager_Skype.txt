@@ -1,7 +1,0 @@
-Title: Kineserne_overvager_Skype
-Date: 2008-10-03
-Article Type: Internationalt
-Author: Hans Christian Kromann
-
-Det har længe været kendt, at den kinesiske regering censurer hjemmesider, som Google og Yahoo, men nu kan canadiske forskere afsløre, at kineserne også overvåger Skype.
-Forskerne, som er en del af Citizen Lab ved universitetet i Toronto, siger ifølge nyhedsbureauet AP, at de har fundet frem til en database med tusindvis af beskeder med følsomme ord. De er blevet indsamlet og lagret af regeringen, efter de er blevet sendt over online-telefontjenesten Skype.

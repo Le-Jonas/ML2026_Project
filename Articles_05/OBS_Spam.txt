@@ -1,6 +1,0 @@
-Title: OBS_Spam
-Date: 2009-03-30
-Article Type: Rune Engelbreth Larsen
-Author: Rune Engelbreth
-
-Inden for 8-9 dage har bloggen modtaget knap 15.000 spam-kommentarer, hvorfor en tekniker p.t. er ifærd med at rydde op og justere. Det betyder desværre også, at nogle få kommentarer, som ikke er spam, kan være røget i filteret ved en fejltagelse i disse dage og derfor med rimelig sandsynlighed risikerer at blive slettet (eftersom det vil tage for lang tid at gå alle 15.000 indlæg i spamfilteret efter manuelt). Det håber jeg, at der er forståelse for. Det drejer sig efter alt at dømme om langt mindre end ½ procent af samtlige kommentarer fra denne periode, som altså går tabt - hvis du hører til en af dem, der har skrevet forgæves og undrer dig over, at dit indlæg ikke kommer online, er dette altså sandsynligvis grunden. Langt de fleste debattører vil slet ikke have bemærket dette, og det hele skulle også fungere optimalt igen i løbet af indeværende døgn. REL.
