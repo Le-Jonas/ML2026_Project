@@ -1,7 +1,0 @@
-Title: Hackere_kan_overtage_styring_af_fly_fra_en_smartph
-Date: 2013-04-12
-Article Type: Digitalt
-Author: Morten Bay
-
-Flykapringer har gennem de sidste mange årtier været et foretrukkent middel for terrorister af forskellig art.
-Men nu behøver de ikke engang være om bord i flyet for at kapre det. I stedet kan de stå på jorden og med en helt almindelig Android-telefon overtage dele af flyets kontroller. Det viser en ny app, der netop er blevet afsløret.

@@ -1,8 +1,0 @@
-Title: iPhone-opdatering_gør_benzin-app_umulig_at_bruge
-Date: 2012-10-03
-Article Type: Biler
-Author: Allan Graubæk
-
-Journalist
-Jagten på billig benzin har været en smule mere besværlig på det seneste, hvis man har ønsket at bruge FDM's app til smartphone.
-Appen 'Benzinpriser', der kan lokalisere de bedste tilbud på benzin og diesel, blev nemlig sat ud af drift af den seneste opdatering til iPhone, hvor man henter iOS 6-versionen af telefonens styresystem.

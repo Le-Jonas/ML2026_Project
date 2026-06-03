@@ -1,7 +1,0 @@
-Title: testtest
-Date: 2012-12-12
-Article Type: dataviz
-Author: Kristian Jensen
-
-Journalist
-Kristian Jensen

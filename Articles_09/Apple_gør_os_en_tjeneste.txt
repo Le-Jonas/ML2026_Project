@@ -1,7 +1,0 @@
-Title: Apple_gør_os_en_tjeneste
-Date: 2013-02-02
-Article Type: Læserbreve
-Author: Kristian Trenskow
-
-De seneste dages skriverier om Apples deaktivering af Java hos deres Mac-brugere, har fået flere til at studse over Apples handling. Apple kan - fjernstyret centralt fra Apple - deaktivere software der har risiko for at kunne gøre skade på deres brugere. Senest så vi det ske, da der blev opdaget sikkerhedshuller - også i Java - i starten af januar.
-Det kan vist ikke komme bag på nogen, at Apple er kendt for at tage beslutninger på vegne af deres brugere. Også selvom de er kontroversielle og går imod brugerens interesser. Nogle af de seneste års mest kontroversielle beslutninger har bl.a. været manglende understøttelse af det såkaldte Flash-plug-in på deres mobilplatform. Og senest har vi altså også set det i forbindelse med Java.

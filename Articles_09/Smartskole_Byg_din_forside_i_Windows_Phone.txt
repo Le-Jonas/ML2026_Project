@@ -1,7 +1,0 @@
-Title: Smartskole_Byg_din_forside_i_Windows_Phone
-Date: 2013-02-22
-Article Type: Digitalt
-Author: Morten Bay
-
-Det er meget let at konfigurere forsiden i den nye Windows Phone 8-telefon, og der er et utal af muligheder.
-Ikonerne hedder Live Tiles – fliser – og du kan både indstille størrelsen på dem, men også rykke rundt med dem, som du vil, og tilføje tiles fra dine apper.

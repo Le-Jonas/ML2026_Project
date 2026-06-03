@@ -1,6 +1,0 @@
-Title: Alvorligt_sikkerhedshul_gør_dit_NemID_usikker
-Date: 2013-01-11
-Article Type: Digitalt
-Author: Hvis du er en af Danmarks små fire millioner brugere af NemID, skal du være ekstra meget på vagt i disse dage.
-
-Det skyldes et alvorligt sikkerhedshul i programmet Java, som NemID bruger, fremgår det af Ingeniørens netmedie Version2.

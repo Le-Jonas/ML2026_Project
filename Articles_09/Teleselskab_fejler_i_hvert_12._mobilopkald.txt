@@ -1,7 +1,0 @@
-Title: Teleselskab_fejler_i_hvert_12._mobilopkald
-Date: 2013-05-14
-Article Type: Digitalt
-Author: Søren Dilling
-
-Hver 12. gang, du forsøger at lave et mobilopkald, mislykkes det. I hvert fald hvis du befinder dig et sted med ringe dækning, og du er kunde hos Telenor eller i et af de mindre selskaber, der benytter sig af Telenors mobilnet.
-Derved placerer teleselskabet sig i toppen blandt de fire store teleselskaber i landet. Kunder hos TDC, Telia og 3 fejler nemlig kun i hvert 20. opkaldsforsøg.

@@ -1,8 +1,0 @@
-Title: NemID_brød_ned_Mistanke_om_stort_hackerangreb
-Date: 2013-03-25
-Article Type: Digitalt
-Author: Milla Mølgaard
-
-Debatredaktør
-Har du forgæves forsøgt at logge på NemID i aftes og i dag, er du ikke den eneste.
-Systemet bag den digitale signatur, som knap fire millioner danskere benytter sig af, var nede i to timer i går og igen over middag i dag.

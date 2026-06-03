@@ -1,7 +1,0 @@
-Title: Nordea-kunder_er_blevet_svindlet_af_hackere_gennem
-Date: 2013-05-17
-Article Type: Forbrug
-Author: Søren Dilling
-
-I næsten fem måneder sidste år var Nordea i Sverige udsat for konstante hackerangreb fra den samme computer, som tilhørte en af stifterne af fildelingstjenesten Pirate Bay.
-Det gik ud over tre danske bankkunder, en fagforening, Odense Kommune og den danske betalingskorttjeneste Nets Card Processing.

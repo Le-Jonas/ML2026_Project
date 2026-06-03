@@ -1,8 +1,0 @@
-Title: Hacket_it-firma_Man_kan_aldrig_lave_110_procent_s
-Date: 2013-06-06
-Article Type: Digitalt
-Author: Søren Astrup
-
-Journalist
-It-firmaet CSC beklager stærkt det dataindbrud, der har givet hackere adgang til politiets registre og muligvis også til cpr-oplysninger, registre fra skattevæsenet og fra Moderniseringsstyrelsen.
-»Vi har ligesom så mange andre et IBM mainframesystem. Det system, der bliver regnet som det mest sikre i verden - men også det, de kriminelle har fundet en adgang til«, siger Kim Ege Møller, der er kommunikationsmedarbejder hos CSC Danmark.

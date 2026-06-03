@@ -1,7 +1,0 @@
-Title: Nest_&ndash;_termostat
-Date: 2013-02-01
-Article Type: Digitalt
-Author: Thomas Vigild
-
-Amerikanske Nest kan styre temperaturen i alle rum direkte fra smartphonen via Wi-fi, men Nest tilpasser sig også automatisk familiens dagligdag og varmebehov via bl.a. bevægelsessensorer, så den lærer forskel på weekend, hverdag, ferie og fest.
-Den sporer hele årets energiforbrug og spytter sirlige kurver ud, hvis man ønsker totalt overblik over sit varmeforbrug.

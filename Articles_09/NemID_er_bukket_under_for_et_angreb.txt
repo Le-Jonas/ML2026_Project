@@ -1,7 +1,0 @@
-Title: NemID_er_bukket_under_for_et_angreb
-Date: 2013-04-11
-Article Type: Digitalt
-Author: Søren Dilling
-
-Samtlige danske netbanker er under angreb via et angreb på selve nemID-log-in systemet, fortæller Nets, som administrerer systemet.
-Heller ikke adgangen til offentlige hjemmesider, som kræver brug af NemID, fungerer.

@@ -1,7 +1,0 @@
-Title: Photosynth
-Date: 2012-11-02
-Article Type: Bolig og haven
-Author: Jesper Friis
-
-Applikation, der gør det muligt at tage 360-graders billeder og dele dem på sociale medier.
-Photosynth er beregnet til at lave 360-graders billeder, men kvaliteten er ikke helt oppe at ringe. Flere steder overlapper billederne hinanden skævt, og de såkaldte syninger er ret ujævne. Selv om man kan dele billederne på Photosynths hjemmeside, fungerer den sociale del af Photosynth ikke rigtigt.

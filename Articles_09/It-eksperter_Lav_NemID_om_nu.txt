@@ -1,7 +1,0 @@
-Title: It-eksperter_Lav_NemID_om_nu
-Date: 2013-04-19
-Article Type: Digitalt
-Author: Sabrina Uldbæk Skjødt
-
-De seneste uger har mange danskere oplevet problemer, når de ville logge på NemID. Det skyldes hackerangreb, og det er i følge eksperter relativt simpelt at lave fiflerier med det offentlige it-system.
-Derfor mener it-forskere og andre fagfolk, at man bor vælge en anden løsning en NemID, fordi teknologien bag er alt for sårbar.

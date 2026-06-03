@@ -1,7 +1,0 @@
-Title: Ekstrabladet.dk_udsat_for_hackerangreb
-Date: 2013-02-08
-Article Type: Medier
-Author: Marie Sæhl
-
-Ekstra Bladets hjemmeside blev tirsdag udsat for et hackerangreb, der næsten lagde netavisen ned.
-»Vi har været udsat for det, man kan kalde internetchikane, som gjorde vores hjemmeside meget langsom«, siger Per Palmkvist Knudsen, der er it-direktør i JP/Politikens Hus.

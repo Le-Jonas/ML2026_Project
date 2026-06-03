@@ -1,8 +1,0 @@
-Title: Hackere_har_angrebet_cpr-register
-Date: 2013-06-06
-Article Type: Digitalt
-Author: Søren Astrup
-
-Journalist
-Politiets kørekortregister, herunder cpr-numre, er blevet hacket i sommeren 2012, og der kan være foretaget ændringer i registret, oplyser Rigspolitiet.
-Gerningsmændene har også hentet oplysninger om cpr-numre og om efterlyste i schengenområdet.

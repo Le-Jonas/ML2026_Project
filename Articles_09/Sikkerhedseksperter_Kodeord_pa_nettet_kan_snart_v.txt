@@ -1,7 +1,0 @@
-Title: Sikkerhedseksperter_Kodeord_pa_nettet_kan_snart_v
-Date: 2013-05-13
-Article Type: Digitalt
-Author: Morten Bay
-
-Der er vel næppe noget mere irriterende end at glemme sit kodeord til sin mail, netbank, Facebook eller noget helt fjerde.
-Efterhånden skal vi holde styr på så mange kodeord, at de fleste vælger at bruge det samme kodeord til alle deres nettjenester. Men dette udgør en sikkerhedsrisiko, for hvis en hacker får fat i det ene kodeord, har han adgang til alle dine profiler på nettet.

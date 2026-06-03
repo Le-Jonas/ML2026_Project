@@ -1,9 +1,0 @@
-Title: Vi_tjekker_Her_er_tre_mader_at_fa_smartphonens_mu
-Date: 2012-10-08
-Article Type: Forbrug
-Author: Thomas Vigild
-
-Mens det bugner af lette, elegante løsninger, hvis du vil afspille musik fra din smartphone på musikanlægget derhjemme, bliver det halve kompromisløsninger, hvis du ønsker samme funktion i din bil. 
-Sådan lyder konklusionen, efter at Tjek har testet tre løsninger, der kobler smartphones mere eller mindre trådløst sammen med bilradioen, så du kan nyde podcast, musik fra streamingtjenester som Spotify og Wimp eller bare din egen musik på telefonen, mens du kører bil.
-Basfyldt musikafspiller kommer i pilleform
-Vil man køre kabelfrit, er en udbredt løsning en bluetooth-baseret FM-sender, som sidder i både TuneLink og Jabra Freeway. Denne gør, at musikken fra en smartphone bliver udsendt via bluetooth og videre ud på en forudbestemt FM-frekvens. Herefter er det bare at indstille bilradioen på denne frekvens, og så aflytter man pludselig sin helt personlige smartphonestyrede radiokanal. FN-kanalen er ganske lokal og kan kun opfanges i nærheden af bilen.

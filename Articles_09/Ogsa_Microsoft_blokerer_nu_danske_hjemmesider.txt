@@ -1,7 +1,0 @@
-Title: Ogsa_Microsoft_blokerer_nu_danske_hjemmesider
-Date: 2012-10-22
-Article Type: Digitalt
-Author: Søren Dilling
-
-En lang række hjemmesider, der har benyttet det samme danske hosting-firmas servere, er for nylig blevet spærret på det sociale netværk Facebook.
-Og nu er også Microsoft begyndt at spærre for mails til og fra danske hjemmesider, der har købt plads hos samme nethosting-firma, unoeuro.dk i Skanderborg.

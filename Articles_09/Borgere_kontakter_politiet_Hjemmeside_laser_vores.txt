@@ -1,6 +1,0 @@
-Title: Borgere_kontakter_politiet_Hjemmeside_laser_vores
-Date: 2012-10-23
-Article Type: Digitalt
-Author: Midt- og Vestjyllands Politi er blevet kontaktet af en del borgere, der giver udtryk for, at deres computer er blevet låst af en hjemmeside, der hedder Ukash Vires.
-
-Siden popper frem på borgernes computerskærme, når de logger på internettet, og kræver, at de betaler bøder for at få låst deres computer op igen.

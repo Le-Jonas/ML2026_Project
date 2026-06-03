@@ -1,7 +1,0 @@
-Title: Hvem_er_du_
-Date: 2013-03-28
-Article Type: Spil
-Author: Steffen Moestrup
-
-EGO er et godt eksempel på, hvordan en ganske enkel spilidé kan føre til et succesfuldt spil, der afstedkommer mange livlige diskussioner ved spisebordet.
-Kort fortalt går EGO ud på at kende hinanden godt. Et spørgsmål kan eksempelvist lyde "Hvem minder mest om et æsel?" eller "Hvem ligner sin far mest?" Så taster den første spiller svaret, hvorefter turen går videre til næste spiller, der skal besvare samme spørgsmål. Vedkommende skal dog ikke svare med egen holdning men forsøge at gætte hvad første spiller besvarede.

@@ -1,6 +1,0 @@
-Title: It-selskab_til_NemID-brugere_Skynd_jer_at_lukke_h
-Date: 2013-01-14
-Article Type: Digitalt
-Author: It-selskabet Oracle har udsendt en opdatering af programmet Java. Den afhjælper to sårbarheder i Java, som potentielt kunne udnyttes af it-kriminelle.
-
-Det sårbare Java-program har været et problem for ikke mindst brugere af NemID, og eksperter har derfor advaret mod Java-brug de seneste dage.

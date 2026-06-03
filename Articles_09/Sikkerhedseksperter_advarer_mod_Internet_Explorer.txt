@@ -1,6 +1,0 @@
-Title: Sikkerhedseksperter_advarer_mod_Internet_Explorer
-Date: 2012-09-17
-Article Type: Digitalt
-Author: Computereksperter opfordrer til, at man midlertidigt holder op med at bruge Microsoft-browseren Internet Explorer.
-
-Der er opdaget en ny virus, der gør browseren modtagelig for virusangreb, siger de.

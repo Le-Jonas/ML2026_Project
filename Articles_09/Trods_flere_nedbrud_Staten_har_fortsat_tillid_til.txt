@@ -1,7 +1,0 @@
-Title: Trods_flere_nedbrud_Staten_har_fortsat_tillid_til
-Date: 2013-04-12
-Article Type: Digitalt
-Author: Rasmus Dam Nielsen
-
-Da NemID i går blev hacket, var det tredje gang på under tre uger, at loginsystemet blev angrebet.
-Folkene bag det seneste angreb hævder i dag overfor Version 2, at det var ganske enkelt og billigt. En såkaldt booter til 10 dollar kunne gøre det.

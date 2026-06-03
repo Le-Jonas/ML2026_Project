@@ -1,7 +1,0 @@
-Title: Computerbrøler_koster_investeringsselskab_2,65_mil
-Date: 2012-08-06
-Article Type: Internationalt
-Author: Rasmus Raun Westh
-
-Onsdag i sidste uge kostede en it-fejl investeringsselskabet Knight Capital dyrt, da en automatiseret computer gik amok.
-Softwarefejlen betød, at computerne - i stedet for at lave sikre investeringer ud fra avancerede algoritmer - forårsagede finanskaos i 45 minutter.

@@ -1,6 +1,0 @@
-Title: Hver_anden_kylling_indeholder_resistente_bakterier
-Date: 2012-09-19
-Article Type: Sygdom
-Author: Prøver fra kyllingekød viser, at næsten halvdelen af både importeret og dansk kyllingekød indeholder multiresistente ESBL-bakterier.
-
-ESBL-bakterier er resistente over for antibiotika af typen cefalosporiner, der er kritisk vigtige i behandlingen af livstruende infektioner hos mennesker.

@@ -1,7 +1,0 @@
-Title: Spil_pa_mobilen_læser_dine_tanker
-Date: 2012-11-12
-Article Type: Spil
-Author: Sandra Meinecke
-
-App-spil kan gætte, hvem du tænker på ud af en hemmelig algoritme.
-Det kan være hvem som helst: pigen du er håbløst forelsket i, Britney Spears, Præsident Obama eller Jesus.
