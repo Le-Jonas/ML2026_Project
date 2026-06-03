@@ -1,9 +1,0 @@
-Title: Gladsaxe_og_Hørsholm_far_de_første_offentlige_data
-Date: 2020-03-10
-Article Type: Tech
-Author: Manglende kryptering af borgernes personlige data udløser politianmeldelse og krav om henholdsvis 100.000 og 50.000 kroner i bøde.
-
-Jens Bostrup
-Journalist
-Datatilsynet anmelder Gladsaxe Kommune og Hørsholm Kommune til politiet for ikke at have passet godt nok på borgernes følsomme persondata. Tilsynet indstiller, at Gladsaxe Kommune skal betale 100.000 kroner og Hørsholm Kommune 50.000 kroner i bøder.​
-De to kommuner er de første offentlige institutioner, der bliver anmeldt for dataforbrydelser, efter at EU’s persondatabeskyttelse trådte i kraft i maj 2018.

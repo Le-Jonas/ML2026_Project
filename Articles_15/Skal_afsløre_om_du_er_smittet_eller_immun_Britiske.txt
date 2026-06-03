@@ -1,9 +1,0 @@
-Title: Skal_afsløre_om_du_er_smittet_eller_immun_Britiske
-Date: 2020-05-04
-Article Type: Sundhed
-Author: Flere førende techgiganter arbejder på et såkaldt sundhedspas, der skal vise, om man er coronasmittet eller immun. Formålet er, at flere skal kunne møde på arbejde, men eksperter er bekymrede over både metoden og effekten.
-
-Noa Mousten Haimoff
-journalist
-Hvis et digitalt certifikat kan vise, om man er coronafri, eller om man har haft corona før og dermed kan antages at være immun, så vil flere kunne møde fysisk op på deres arbejdsplads.
-Techfirmaet Onfido melder ifølge avisen The Guardian, at det er i tæt dialog med den britiske regering med henblik på at implementere en såkaldt sundhedspas-app. Planen med appen er, at den ved ansigtsgenkendelse skal kunne forbinde medarbejdere til antistoftests. Onfidos system vil kunne tages i brug i Storbritannien inden for et par måneder.

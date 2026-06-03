@@ -1,9 +1,0 @@
-Title: Forsker_har_regnet_pa_det_Regeringens_nye_supervab
-Date: 2021-02-17
-Article Type: Sundhed
-Author: Beregninger viser, at to ugentlige kviktests har en stor effekt på smittespredningen. Til gengæld garanterer de ikke den enkelte mod at smitte andre.
-
-Magnus Bredsdorff
-Klimaredaktør
-Mellem 36 og 50 procent af smittespredningen kan to ugentlige kviktests fjerne. Det viser beregninger, som lektor Viggo Andreasen fra RUC, der er ekspert i matematikken bag epidemier, har været med til at udføre for Staten Serum Institut.
-»Hvis du kigger på, om du risikerer at smitte bedstemor, så kan ingen forhåndstest give dig sikkerhed. Men hvis du ser det på befolkningsniveau, så har to tests om ugen en effekt. Det gælder om at få fjernet så mange smittede som muligt på et tidligt tidspunkt«, siger han. Det skyldes, at de inficerede giver halvdelen af smitten videre, inden de selv får symptomer.

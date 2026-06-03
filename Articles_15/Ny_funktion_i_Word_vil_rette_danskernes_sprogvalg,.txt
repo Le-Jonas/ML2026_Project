@@ -1,9 +1,0 @@
-Title: Ny_funktion_i_Word_vil_rette_danskernes_sprogvalg,
-Date: 2019-09-11
-Article Type: Kultur
-Author: Ligesom en stavekontrol vil tekstprogrammet Word snart tilbyde en tjeneste, der kan få folk til at skrive i et mere inkluderende sprog.
-
-Torben Benner
-Journalist
-Microsoft vil i løbet af efteråret rulle en ny tjeneste ud på tekstbehandlingsprogrammet Word, der skal hjælpe folk til at skrive mere politisk korrekt og inkluderende.
-Hvis du for eksempel skriver ’en dement’, vil tjenesten foreslå ’en person med demens’, eller hvis du skriver ’en handikappet’ i stedet foreslå ’en person med handikap’.

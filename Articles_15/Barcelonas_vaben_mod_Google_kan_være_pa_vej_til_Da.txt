@@ -1,9 +1,0 @@
-Title: Barcelonas_vaben_mod_Google_kan_være_pa_vej_til_Da
-Date: 2019-09-08
-Article Type: Tech
-Author: Barcelona har udviklet et effektivt forsvar mod tech-giganternes dominans. S, R og SF vil importere det til Danmark.
-
-Jens Bostrup
-Journalist
-Borgmestre og regeringer over hele verden ser med stigende bekymring på, at digitaliseringen af byer og stater sender store mængder data om borgerne og deres adfærd i retning af samarbejdspartnere som Google og IBM. De data udgør fremtidens vitale infrastruktur, der skal bruges til at indrette alt fra uddannelser over sundhedsvæsnet til transportsystemet. Og den er på private hænder.
-I Barcelona har Francesca Bria, der har stået i spidsen for byens digitalisering, imidlertid udviklet et enkelt og effektivt forsvarsvåben: Alle virksomheder, der samarbejder med bystyret, og i den forbindelse indsamler data, forpligter sig til at sende data tilbage til Barcelona.

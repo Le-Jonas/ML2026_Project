@@ -1,9 +1,0 @@
-Title: Facebook_trodser_advarsler_og_begynder_at_kryptere
-Date: 2019-11-03
-Article Type: Tech
-Author: Myndigheder advarer om frit spil for pædofile. Men Facebook er i gang med at kryptere sit indhold.
-
-Jens Bostrup
-Journalist
-Facebook tester nu kryptering af lyd- og videosamtaler »fra ende til anden på tværs af alle dine aktive enheder«. Det skriver tech-mediet Engadget, som dokumenterer historien med et skærmbillede.
-Myndighederne verden over har ellers protesteret voldsomt mod Facebooks planer, der blev annonceret i marts, om at kryptere alle samtaler både på skrift og i tale, på Messenger og Instagram. I dag skal man aktivt vælge kryptering til, og det er kun muligt for tekster.

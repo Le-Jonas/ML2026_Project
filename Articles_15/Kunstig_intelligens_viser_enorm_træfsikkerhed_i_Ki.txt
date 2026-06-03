@@ -1,9 +1,0 @@
-Title: Kunstig_intelligens_viser_enorm_træfsikkerhed_i_Ki
-Date: 2019-11-26
-Article Type: Tech
-Author: Eksperter frygter, at de avancerede teknikker bliver eksporteret til andre autoritære regimer i hele verden.
-
-Jens Bostrup
-Journalist
-Teknologien bag Kinas indsats for at opspore potentielle terrorister er tilsyneladende forbløffende effektiv. På en enkelt uge blev over 24.000 mistænkte udpeget af den kunstige intelligens, der indsamler og bearbejder alle mulige data om de 11 millioner muslimer i Kinas Xinjiang-provins.
-Lokale embedsmænd og politifolk undersøgte sagerne og besluttede at gribe ind mod 99,98 procent af de mistænkte – en imponerende træfsikkerhed.

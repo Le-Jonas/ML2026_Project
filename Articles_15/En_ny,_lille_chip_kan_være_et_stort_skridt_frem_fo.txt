@@ -1,8 +1,0 @@
-Title: En_ny,_lille_chip_kan_være_et_stort_skridt_frem_fo
-Date: 2019-12-12
-Article Type: Digitalt
-Author: Verdens største producent af netværksudstyr har præsenteret et stort skridt fremad for internettets infrastruktur, der især tilgodeser økonomisk udfordrede nationer. Men konkurrenterne i lige i hælene på dem.
-
-Morten Bay
-Internettet har haft mange sjove navne gennem tiden, såsom ’Cyberspace’ og ’Informations-motorvejen’. Hvis det nu så uundværlige ’Internet’ virkelig er en slags datatrafikåre, skal den vedligeholdes, fuldstændig som E45 skal. Netværksgiganten Cisco er nu på vej med en ny asfaltbelægning til internettet, men det betyder ikke bare hurtigere og sikrere forbindelser, når du ser Netflix derhjemme. Forbindelserne bliver også billigere, og det har især stor betydning for udviklingslandene.
-Selv om vi bruger udtryk som »trådløst internet« og »skyen« er internettet i virkeligheden ikke ret luftigt. Tværtimod består internettet af store datacentre med endeløse rækker af servere, der er koblet sammen med med kabler, primært af den fiberoptiske slags. Disse kabler krydser kontinenter og verdenshave, og det er kun de sidste få meter mellem for eksempel din computer og din WiFi-router, at internettet er trådløst. På den anden side af routeren er der rigtig meget tråd og ikke ret meget trådløshed. Selv mobile dataforbindelser er kun trådløse over meget korte afstande, og med den nye 5G-teknologi, der er på vej, kommer du geografisk endnu tættere på mobilmasterne og dermed også tættere på internettets brogede kabelnetværk.

@@ -1,9 +1,0 @@
-Title: Overlæge_Kvaliteten_af_antistoftests_svinger_volds
-Date: 2020-04-24
-Article Type: Danmark
-Author: Langt fra alle testkits holder, hvad producenten lover, men de bedste kits kan hjælpe samfundet. Det siger overlæge Anders Fomsgaard fra Statens Serum Institut, som har testet flere af produkterne.
-
-Sebastian Stryhn Kjeldtoft
-Undersøgende redaktør
-Stadig flere firmaer udbyder en ny type coronatest, som påstår at kunne måle, om en person har været smittet med covid-19 og opbygget antistoffer i blodet imod virussen. Men kvaliteten af de såkaldte antistoftests svinger voldsomt, og nogle af dem er reelt ubrugelige, siger overlæge Anders Fomsgaard fra Statens Serum Institut (SSI).
-Sammen med kolleger fra Nordsjællands Hospital, Rigshospitalet og Roskilde Universitet har SSI undersøgt ni antistoftests, som kan købes på det globale marked. Hver test blev kvalitetsvurderet, blandt andet ved at afprøve testene på blodprøver fra patienter på Hillerød Hospital, som på anden vis var testet positive for coronavirus.

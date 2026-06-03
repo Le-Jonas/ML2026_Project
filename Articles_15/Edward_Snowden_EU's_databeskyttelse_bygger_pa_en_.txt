@@ -1,9 +1,0 @@
-Title: Edward_Snowden_EU's_databeskyttelse_bygger_pa_en_
-Date: 2019-11-07
-Article Type: Tech
-Author: Både borgere og brugere er i realiteten magtesløse over for overvågningen. EU’s databeskyttelse er ingen løsning, siger Edward Snowden, der afslørede det omfattende samarbejde mellem techgiganter og USA’s efterretningstjeneste.
-
-Jens Bostrup, Lissabon
-Journalist
-De europæiske regler om databeskyttelse (GDPR), der skal beskytte brugerne mod misbrug af data, bygger på en fundamental misforståelse.
-»Fejlen ligger allerede i navnet: den generelle forordning om databeskyttelse. Den misforstår, hvori problemet består. Problemet er ikke at beskytte data, men at de overhovedet bliver indsamlet«, siger Edward Snowden.

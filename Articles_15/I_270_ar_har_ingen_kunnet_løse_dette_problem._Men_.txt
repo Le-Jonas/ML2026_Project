@@ -1,9 +1,0 @@
-Title: I_270_ar_har_ingen_kunnet_løse_dette_problem._Men_
-Date: 2020-12-28
-Article Type: Historie
-Author: Tysk matematiker finder løsning på problemet med den græssende ged.
-
-Torben Benner
-Journalist
-I mere end 270 år har matematikere grublet over et tilsyneladende simpelt matematisk spørgsmål:
-Hvor langt skal rebet være, hvis en ged, der er bundet til en pæl i rækværket i en rund indhegning, skal have adgang til nøjagtig halvdelen af indhegningen?

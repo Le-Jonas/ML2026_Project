@@ -1,8 +1,0 @@
-Title: Lektor_er_forarget_Vores_børns_Aula-data_bør_ikke_
-Date: 2019-10-27
-Article Type: Debat
-Author: I sidste uge opdagede jeg, at vores børns Aula-data er hostet af Amazon. Det gælder også fortrolige informationer og følsomme personoplysninger, for eksempel hvis en lærer, en skolepsykolog og forældre har en dialog om et barns trivsel.
-
-Jesper Balslev
-Først blev jeg forarget. Så tweetede jeg om min forargelse over Amazons opbevarelse af Aula-data.
-Forargelse er ikke en konstruktiv måde at forholde sig til verden på, og lige denne forargelse er ikke timet godt, for nu er Aula allerede gået i luften.

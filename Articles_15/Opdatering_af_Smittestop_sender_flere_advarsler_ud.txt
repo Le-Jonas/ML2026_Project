@@ -1,9 +1,0 @@
-Title: Opdatering_af_Smittestop_sender_flere_advarsler_ud
-Date: 2020-10-28
-Article Type: Viden og tech
-Author: Appen bliver bedre uge for uge, lover direktøren for Netcompany. Men brugerne er frustrerede.
-
-Jens Bostrup
-Journalist
-Efter flere måneders frustration over manglende advarsler fra Smittestop-appen udsendte Sundhedsministeriet tirsdag en opdatering, som betyder, at brugerne fremover vil modtage flere notifikationer.
-En af de frustrerede bruger er Anne-Marie Møller, der deltog i et fødselsdagsselskab for hele familien med 17 personer. Dagen efter viste det sig, at den ene af gæsterne var smittet, men der kom kun en enkelt notifikation fra Smittestop – og den gik til den smittedes kone. Fire gæster blev smittet under sammenkomsten, men de hørte aldrig noget fra appen.

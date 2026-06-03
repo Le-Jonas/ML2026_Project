@@ -1,9 +1,0 @@
-Title: Barcelona_holder_it-giganter_pa_afstand_Vores_dat
-Date: 2019-09-05
-Article Type: Tech
-Author: Barcelonas it-chef forklarer, hvorfor offentligt ejerskab til borgernes data er helt afgørende for den europæiske velfærdsmodel.
-
-Jens Bostrup
-Journalist
-Francesca Bria har fået til opgave at gøre Barcelona til en smart by, der med digitale løsninger sikrer både bæredygtighed, komfort og livskvalitet. Men hun griber opgaven ganske anderledes an end kollegaerne i alle de andre storbyer, der gerne vil være smarte (og dem er der mange af).
-Hun har udviklet en offentlig udbudspolitik, der stiller andre krav til leverandørerne, end at de blot skal være billigst. Der er krav om miljøbeskyttelse, balance mellem mænd og kvinder samt mindsteløn. Men det vigtigste er kravet om tilbagelevering af de data, byens borgere generer og brug af open source i udviklingen af nye digitale løsninger.
