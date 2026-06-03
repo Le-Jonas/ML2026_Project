@@ -1,7 +1,0 @@
-Title: I_aften_kommer_start-menuen_tilbage_til_Windows
-Date: 2013-06-26
-Article Type: Digitalt
-Author: Morten Bay
-
-Microsoft har kaldt programmører og pressefolk til San Francisco i forbindelse med deres BUILD-konference, der starter kl. 18 dansk tid.
-Ligesom konkurrenterne Apple og Google bruger Microsoft deres udvikler-konference til at lancere nye produkter og initiativer, og i aften skulle åbnings-keynoten byde på et comeback for en meget savnet Windows-funktion: start-menuen.

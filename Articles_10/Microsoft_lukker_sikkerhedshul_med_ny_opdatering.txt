@@ -1,6 +1,0 @@
-Title: Microsoft_lukker_sikkerhedshul_med_ny_opdatering
-Date: 2014-05-01
-Article Type: Digitalt
-Author: It-giganten Microsoft har torsdag udsendt en opdatering, der vil reparere en alvorlig sikkerhedsbrist i Internet Explorer, som blev afsløret i mandags.
-
-Sikkerhedsbristen i browseren var så alvorlig, at USA's ministerium for intern sikkerhed anbefalede brugere at benytte en anden browser. Samme advarsel lød fra de tyske og britiske regeringer.

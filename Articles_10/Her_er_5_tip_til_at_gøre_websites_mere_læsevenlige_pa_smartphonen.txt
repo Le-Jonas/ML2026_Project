@@ -1,8 +1,0 @@
-Title: Her_er_5_tip_til_at_gøre_websites_mere_læsevenlige_pa_smartphonen
-Date: 2014-04-29
-Article Type: Digitalt
-Author: Morten Bay
-
-Selv om skærmene på vores smartphones bliver større og større, er det langt fra sikkert, at de websites, du læser, er indrettet efter dem. Og det betyder en masse kniben sammen af øjnene og zoomen ind og ud. Her er 5 tips til, hvordan du undgår dette.
-2. Læs som ren tekst
-Har man en iPhone med iOS7, kan man klikke på stregerne oppe i venstre hjørne af adressefeltet i Safari for at se en artikeltekst som ren tekst. På Android kan du vælge at bruge browser-appen Readability, der gør websites nemmere at læse.

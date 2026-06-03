@@ -1,7 +1,0 @@
-Title: Rejsekort-brøler_Forkert_opdatering_var_skyld_i_nedbruddet
-Date: 2014-02-14
-Article Type: Forbrug
-Author: Elisabeth Lønkjær Eskildsen
-
-Tusindvis af morgenrejsende gik i dag forgæves til rejsekortstanderne i både bus, tog og metro. I flere timer var rejsekortet ude af funktion, og dagens første meldinger lød, at der var fejl i den systemopdatering, der blev sendt ud i nattens løb med nedbrud til følge.
-Men det var ikke den rutinemæssige opdatering af rejsekort-standerne, som denne gang skulle korrigere fejl i tidsrabatter for unge og pensionister, der var problemet. Det var nemlig en forkert version af opdateringen, der var blevet sendt ud.

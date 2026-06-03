@@ -1,8 +1,0 @@
-Title: Tyskerne_krypterer_mails_for_at_undga_overvagning
-Date: 2013-08-09
-Article Type: Internationalt
-Author: Tinne Hjersing Knudsen
-
-Journalist
-Fra i dag kan den amerikanske sikkerhedstjeneste ikke længere læse med i tyskernes private mail.
-I hvert fald ikke hos kunderne hos Deutsche Telekom og United Internet. De to internetudbydere krypterer fra nu af automatisk alle mail for sine kunder, som udgør to tredjedele af den tyske befolkning.

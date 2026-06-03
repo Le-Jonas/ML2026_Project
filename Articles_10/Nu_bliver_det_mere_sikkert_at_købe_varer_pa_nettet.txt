@@ -1,8 +1,0 @@
-Title: Nu_bliver_det_mere_sikkert_at_købe_varer_pa_nettet
-Date: 2013-10-30
-Article Type: Digitalt
-Author: Jakob Mikael Espersen
-
-Journalist
-Hvis du handler med et internationalt betalingskort såsom MasterCard eller Visa på nettet fra i dag, bliver du højst sandsynligt bedt om at registrere dit mobilnummer.
-Hidtil har mange indkøb på nettet skullet godkendes af en kode, når man handlede i netbutikker, som er tilmeldt enten Verified by Visa eller MasterCard SecureCode.

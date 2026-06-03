@@ -1,6 +1,0 @@
-Title: Virksomheder_tjekker_it-sikkerhed_efter_Se_og_Hør-sag
-Date: 2014-05-09
-Article Type: Virksomheder
-Author: Store danske virksomheder som TDC, Spar Nord og DSV gennemgår nu deres it-systemer for at finde ud af, om der er huller i datasikkerheden, skriver Børsen.
-
-Det er den igangværende Se og Hør-skandale, hvor en it-medarbejder har overvåget kendte og kongeliges dankorttransaktioner, der har fået selskaberne til at reagere.

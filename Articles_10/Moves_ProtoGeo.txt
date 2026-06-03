@@ -1,9 +1,0 @@
-Title: Moves_ProtoGeo
-Date: 2014-04-07
-Article Type: Sundhed
-Author: Helle Sindal
-
-Eva Hansson:
-Nemt at indstille vægt, skridtlænge og tid ved start. Følger godt med ved retningsskift. Tæller med god præcision over en hel dag. Bruger mobilens gps og gemmer dine ruter på et kort.
-Jon Lund:
-Meget Apple-agtig app – let, intuitiv og selvforklarende. Kun på engelsk. Kan tælle skridt, kilometer, aktive minutter og kalorier. Super, at den selv opdager, hvornår man cykler, så cykeltid tæller også med. Laver total log over din dag og visualiserer din færden. Men måler stort set ikke indendørsgang. Tæller lavest af alle. Superfed app, men ikke i top, hvis det er skridttælling, det handler om.

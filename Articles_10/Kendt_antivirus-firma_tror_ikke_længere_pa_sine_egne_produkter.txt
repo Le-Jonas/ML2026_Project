@@ -1,7 +1,0 @@
-Title: Kendt_antivirus-firma_tror_ikke_længere_pa_sine_egne_produkter
-Date: 2014-05-08
-Article Type: Digitalt
-Author: Morten Bay
-
-Vi har tabt krigen mod computervira og anden malware.
-Lige meget hvor gode vores antivirus-programmer er, så kan det bare ikke lade sig gøre at hamle op med angreb udefra, der hele tiden bliver mere og mere avancerede og aggressive.

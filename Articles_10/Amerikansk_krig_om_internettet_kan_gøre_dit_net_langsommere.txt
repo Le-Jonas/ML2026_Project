@@ -1,7 +1,0 @@
-Title: Amerikansk_krig_om_internettet_kan_gøre_dit_net_langsommere
-Date: 2014-05-23
-Article Type: Digitalt
-Author: Morten Bay
-
-Det er ikke let at være Tom Wheeler. Han er formand for den amerikanske telestyrelse, FCC. Og det er ham, der skal forsøge at finde en vej ud af net-neutralitets-konflikten, så internettet stadig er lige åbent for alle.
-FCCs bestyrelse godkendte i sidste uge hans seneste forslag. Men forslaget er upopulært blandt stort set alle andre.

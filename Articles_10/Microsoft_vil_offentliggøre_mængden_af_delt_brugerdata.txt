@@ -1,7 +1,0 @@
-Title: Microsoft_vil_offentliggøre_mængden_af_delt_brugerdata
-Date: 2013-07-17
-Article Type: Internationalt
-Author: Mette Brudvig
-
-Microsoft vil ikke finde sig i at blive gjort til syndeluk, efter hemmelige dokumenter har vist, at firmaet udleverer store mængder brugerdata til National Security Agency (NSA).
-Derfor beder virksomheden den amerikanske justitsminister, i et offentligt brev, om opbakning til at få lov at offentliggøre, hvor meget brugerdata, firmaet egentlig udleverer til staten.

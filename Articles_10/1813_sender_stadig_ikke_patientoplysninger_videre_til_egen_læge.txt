@@ -1,6 +1,0 @@
-Title: 1813_sender_stadig_ikke_patientoplysninger_videre_til_egen_læge
-Date: 2014-01-10
-Article Type: Sundhed
-Author: Selv om 1813-ordningen tidligere har meldt, at opstartsproblemer med at sende patientinformationer videre til egen læge skulle være løst, så savner de praktiserende læger stadig epikriserne, der er det journalark, din praktiserende læge modtager, når du har være i kontakt med 1813. Det skriver Sundhedsguiden.dk.
-
-Selvom der nu er gået ti dage, siden vagtlægeordningen blev erstattet af akuttelefonen, er der stadigvæk problemer i forhold til at give de praktiserende læger besked, når deres patienter har henvendt sig på grund af akut sygdom. Det kan betyde, at lægen kommer til at mangle vigtige informationer om patientens sygdom og behandling. I første omgang skyldtes problemet it-vanskeligheder hos Region Hovedstaden, som man mener at have løst, så alle epikriser nu bliver sendt videre, men formand for de praktiserende læger i hovedstadsområdet (PLO) Birgitte Alling Møller, der er praktiserende læge i Gribskov, mener ikke at problemet er løst:

@@ -1,7 +1,0 @@
-Title: Netrunner
-Date: 2013-07-15
-Article Type: Spil
-Author: Thomas Vigild
-
-Scenariet med ene heltemodig hacker der kæmper mod gigantisk global mega-koncern med skumle planer gemt i sit computersystem får man mulighed for at udspille i kortspillet ’Netrunner’.
-Det foregår i et såkaldt asymmetrisk kortspil, hvor de to spillere ikke spiller efter samme regler og mål. Koncern-spilleren spiller en række skjulte kort med sine ’agendaer’ på bordet og beskytter dem løbende mod hackerens angreb med virtuelle ’mure’, i spillet kaldet ’ice’.

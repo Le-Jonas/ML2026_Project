@@ -1,7 +1,0 @@
-Title: Supporten_slutter_i_dag_Sadan_udskifter_du_Windows_XP
-Date: 2014-01-24
-Article Type: Digitalt
-Author: Karim Pedersen
-
-Microsoft lukker for support til sit 12 år gamle styresystem Windows XP fra den 8. april og dermed er der nu en rigtig god grund til at udskifte den forældede software.
-Der kommer ikke flere sikkerhedsopdateringer til Windows XP efter april, og det kan blive farligt for brugerne, selvom Microsoft fortsat vil beskytte styresystemet med sin egen antivirus et år frem.

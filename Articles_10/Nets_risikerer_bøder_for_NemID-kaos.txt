@@ -1,7 +1,0 @@
-Title: Nets_risikerer_bøder_for_NemID-kaos
-Date: 2013-10-18
-Article Type: Digitalt
-Author: Søren Dilling
-
-Det bliver med stor sandsynlighed dyrt for Nets i form af bøder, at NemID-nøglen nu på tredje døgn er kastet ud i de længst varende problemer i nøglens historie.
-Digitaliseringsstyrelsen, der varetager kontrakten med Nets om levering af NemID-nøglen, varsler nemlig nu bøder, hvis kontraktens bestemmelser om oppetid ikke bliver overholdt.

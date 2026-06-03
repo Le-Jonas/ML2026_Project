@@ -1,6 +1,0 @@
-Title: NemID_kommer_først_til_at_virke_helt_igen_pa_fredag
-Date: 2013-10-17
-Article Type: Digitalt
-Author: Danske NemID-brugere må have tålmodighed endnu et døgn, før det elektroniske login igen er tilbage på fuld styrke.
-
-Først fredag vil danskerne formentligt kunne opdatere til den nyeste Java-version og bruge NemID uden problemer.

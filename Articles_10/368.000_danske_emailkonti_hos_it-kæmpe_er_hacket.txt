@@ -1,7 +1,0 @@
-Title: 368.000_danske_emailkonti_hos_it-kæmpe_er_hacket
-Date: 2013-11-11
-Article Type: Digitalt
-Author: Søren Dilling
-
-Da Adobe blev hacket for nogle uger siden med flere millioner lækkede kontooplysninger som hackernes bytte, vidste man ikke, hvor mange danske emailkonti, der var imellem.
-Det ved man nu, efter at sikkerhedsfirmaet CSIS har analyseret samtlige lækkede konti og har fundet frem til 368.116 emailkonti alene, der ender på .dk

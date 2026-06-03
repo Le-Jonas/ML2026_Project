@@ -1,6 +1,0 @@
-Title: NSA_har_angiveligt_udnyttet_sikkerhedshul
-Date: 2014-04-12
-Article Type: Digitalt
-Author: Den amerikanske efterretningstjeneste NSA har i mere end to år været vidende om det store sikkerhedshul på it-fronten, som kaldes Heartbleed. NSA har angiveligt også jævnligt brugt programfejlen til at indhente oplysninger ifølge kilder.
-
-Heartbleed optræder i programmet OpenSSL, der er et bibliotek, som bruges af mange computerprogrammer. Det tilbyder kryptering og hemmeligholdelse af data, men en fejl kan gøre alle disse følsomme oplysninger offentlige.

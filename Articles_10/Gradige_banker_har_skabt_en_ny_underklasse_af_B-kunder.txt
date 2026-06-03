@@ -1,7 +1,0 @@
-Title: Gradige_banker_har_skabt_en_ny_underklasse_af_B-kunder
-Date: 2013-09-11
-Article Type: Kritikerskolen
-Author: Peter Ahrenfeldt Schrøder
-
-Mange banker deler os op i A- og B-kunder. A-holdet får de billige lån til lave renter. B-holdet får de dyre lån og betaler kasino-regningen for bankdirektører og aktionærer.
-Danske Bank kræver nu over 17 procent i årlig låneafgift af en kunde på B-holdet, der gerne vil oprette et forbrugslån på 30.000 kroner med en løbetid over tre år. En A-kunde kan derimod få præcis samme lån til kun 9 procent. De selv samme penge låner Danske Bank næsten gratis i Nationalbanken, som kun kræver 0,2 procent i rente af bankerne. Det samme billede går igen i Nordea, Jyske Bank og flertallet af landets andre større banker.

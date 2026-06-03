@@ -1,7 +1,0 @@
-Title: Dansk_firma_kan_blokere_for_3D-print_af_skydevaben
-Date: 2013-10-18
-Article Type: Digitalt
-Author: Søren Dilling
-
-Politi og myndigheder i i Europa udtrykker stigende bekymring over den nye teknologi inden for print af tredimensionelle produkter, der tillader almindelige mennesker at fremstille skydevåben ved hjælp af en forholdsvis billig printer og en tegning hentet på internettets mere skumle sider.
-Men et dansk firma baseret i Aalborg, Create It REAL, kommer nu såvel myndigheder som producenter af printerne til undsætning med et program, der arbejder på samme måde som et antivirusprogram, men hvor målet ikke er virus men 3D-tegninger, der ligner skydevåben.

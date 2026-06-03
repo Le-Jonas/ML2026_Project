@@ -1,7 +1,0 @@
-Title: Sadan_styrer_du,_hvilke_Android-apps_der_abner_filer_automatisk
-Date: 2014-05-04
-Article Type: Digitalt
-Author: Morten Bay
-
-En af de funktioner, der deler vandene på Android-platformen, er muligheden for at vælge, hvilken app der åbner en given fil. Når man åbner f.eks. et dokument, bliver man spurgt, hvilken app der skal åbne dokumentet, og om denne app altid skal åbne denne filtype fremover.
-Men hvad nu, hvis man er kommet til at vælge en forkert app, sådan at visse filer altid bliver åbnet i det forkerte program? Det er heldigvis nemt at rette:

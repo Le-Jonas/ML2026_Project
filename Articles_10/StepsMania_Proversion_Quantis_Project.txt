@@ -1,9 +1,0 @@
-Title: StepsMania_Proversion_Quantis_Project
-Date: 2014-04-07
-Article Type: Sundhed
-Author: Helle Sindal
-
-Eva Hansson:
-Nem at betjene og indstille. Viser antallet af skridt gennem dagen, ugen eller måneden. Giver motiverende trofæer. Følger godt med ved retningsskift. Nulstiller sig selv nogle gange – for tit til at være pålidelig. Men sjovt med trofæerne.
-Jon Lund:
-Dansk brugsanvisning. Kræver tilmelding. Kan tælle skridt, kilometer og kalorier. Har vennefunktion. Målingerne ligger præcis i gennemsnittet af de otte tællere i testen, men nok 25 procent under det reelle antal skridt. Virker okay, men har en meget klodset brugerflade. Historikken er svær at finde rundt i. Minder om Accupedo, men tæller bedre.

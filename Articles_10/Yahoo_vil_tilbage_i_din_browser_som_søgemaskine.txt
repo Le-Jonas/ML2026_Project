@@ -1,7 +1,0 @@
-Title: Yahoo_vil_tilbage_i_din_browser_som_søgemaskine
-Date: 2014-01-08
-Article Type: Digitalt
-Author: Morten Bay
-
-Det ville jo være rart, hvis din søgemaskine vidste, hvad du søgte efter, selv når du ikke selv ved det. Ville det ikke?
-Det er i hvert fald håbet hos de fleste søgemaskine-udbydere lige fra Google over Microsofts Bing og til Yahoo, der nu netop er sprunget med på denne vogn.

@@ -1,8 +1,0 @@
-Title: 'Dræberfunktion'_skal_stoppe_smartphonetyverier
-Date: 2014-04-14
-Article Type: Digitalt
-Author: Karim Pedersen
-
-Karim Pedersen
-I løbet af de sidste tre år er antallet af tyverier fra lommer og tasker hos danske unge i alderen 20 til 29 år mere end fordoblet, viser tal fra Danmarks Statistik, og det er især de dyre smartphones, der er i høj kurs hos tyveknægtene.
-Men de mange tyverier kan måske forhindres ved at indbygge en såkaldt 'kill switch' i telefonerne. Det er en fjernaktiveret funktion, som sørger for at telefonen kan gøres ubrugelig hvis den bliver stjålet.

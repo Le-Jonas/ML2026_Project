@@ -1,7 +1,0 @@
-Title: Startknappen_er_tilbage_Nu_er_Windows_8.1_klar
-Date: 2013-10-18
-Article Type: Digitalt
-Author: Morten Bay
-
-Microsoft tog et stort skridt med lanceringen af Windows 8, hvor de gik fra et system, der var baseret på ikoner, man klikker på med musen, til fliser, man trykker på med fingeren.
-Det nye, touch-orienterede Windows var ikke nogen supersucces lige med det samme på grund af de nye features, men med den første opdatering kan dette ændre sig.

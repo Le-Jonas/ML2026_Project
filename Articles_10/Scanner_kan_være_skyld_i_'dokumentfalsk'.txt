@@ -1,8 +1,0 @@
-Title: Scanner_kan_være_skyld_i_'dokumentfalsk'
-Date: 2013-08-06
-Article Type: Digitalt
-Author: Jakob Mikael Espersen
-
-Journalist
-Du skal lige have en kopi af et vigtigt dokument, men hvis du ser godt efter, er seks-tallene skiftet ud med otte-taller. To gættelystne Xerox-printere ændrer selv på tallene, når de spytter kopier ud.
-En ny undersøgelse, udført af den tyske datalog David Kriesel, viser, at det kan være konsekvensen af at bruge en Xerox-printer.

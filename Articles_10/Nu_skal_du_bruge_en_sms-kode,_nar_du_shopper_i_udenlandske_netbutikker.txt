@@ -1,7 +1,0 @@
-Title: Nu_skal_du_bruge_en_sms-kode,_nar_du_shopper_i_udenlandske_netbutikker
-Date: 2013-08-27
-Article Type: Digitalt
-Author: Søren Dilling
-
-Fra den 30. oktober vil samtlige danske netbanker i samarbejde med betalingstjenesteselskabet Nets ændre procedure for, hvordan man handler i en udenlandsk butik på nettet, når man betaler med enten sit Visa Dankort eller sit Mastercard.
-Hidtil har pengeoverførslen i mange indkøb på nettet skullet godkendes af en ekstra kode, når man handlede især i udenlandske netbutikker, som er tilmeldt enten Verified by Visa eller MasterCard SecureCode.

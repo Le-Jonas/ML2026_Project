@@ -1,5 +1,0 @@
-Title: Politikens_RSS-feeds
-Date: 2014-02-27
-Article Type: Om Politiken
-Author: Politikens RSS-feeds stilles til rådighed for enkeltpersoners private brug. Du er velkommen til at lade Politikens RSS-feeds indgå i din egen private nyhedsoversigt på din pc, mobiltelefon eller lignende. Politiken accepterer derimod ikke uden at have afgivet særskilt tilladelse dertil, at RSS-feeds eller delefunktionen på Politikens artikler indgår i nyhedsoversigter, der gøres tilgængelige for andre eller på anden måde udnyttes kommercielt. Dette gælder, uanset om tjenesten stilles til rådighed gratis eller mod betaling. RSS-feeds må således heller ikke udnyttes på virksomheders hjemmesider, intranet, extranet, eller andet.
-

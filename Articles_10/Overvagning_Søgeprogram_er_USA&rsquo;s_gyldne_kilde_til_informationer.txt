@@ -1,9 +1,0 @@
-Title: Overvagning_Søgeprogram_er_USA&rsquo;s_gyldne_kilde_til_informationer
-Date: 2013-07-23
-Article Type: Internationalt
-Author: Peter Wivel
-
-Den indenlandske tyske efterretningstjeneste, Forfatningsbeskyttelsen, bekræfter, at det har afprøvet søgeprogrammet X-Keyscore, som er udviklet af det amerikanske Nationale Sikkerhedsagentur, NSA.
-Dette værktøj gør det muligt at lagre, hvad amerikanerne kalder en »
-full take
-«, altså en komplet kopi, af al datakommunikation inden for et udvalgt målområde, inden den bliver filtreret.

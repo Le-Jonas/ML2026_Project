@@ -1,8 +1,0 @@
-Title: Eksperter_advarer_»Det_er_hul_i_hovedet_at_nedgradere_Java_for_at_fa_NemID_til_at_virke«
-Date: 2013-10-17
-Article Type: Digitalt
-Author: Signe Thomsen
-
-Journalist
-Hvis din NemID ikke virker, er det en rigtig dårlig ide at lade være med at hente den nyeste version af Java.
-Sådan lyder det fra to it-sikkerhedseksperter, Politiken har talt med.

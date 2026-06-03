@@ -1,8 +1,0 @@
-Title: Frustreret_pendler_udvikler_ny_app_til_at_rette_op_pa_rejsekortet
-Date: 2014-03-14
-Article Type: Forbrug
-Author: Mette Guldagger
-
-Journalist
-Priser og andre oplysninger bag rejsekortets blanke flade behøver ikke længere være en dyb hemmelighed for kortets ejer, mens rejsen står på.
-For mens andre måske bare ser et hvidt kort med en blå prik, så softwareudvikleren Casper Bang flere muligheder.

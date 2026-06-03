@@ -1,8 +1,0 @@
-Title: Travlhed_Læger_bryder_regler_ved_computeren
-Date: 2013-12-31
-Article Type: Danmark
-Author: Sean Coogan
-
-Journalist
-Sygehuslæger trodser reglerne på grund af it-problemer. Det kan få juridiske konsekvenser for dem, men øger også risikoen for, at der bliver byttet om på patienterne, siger lægeformand.
-71 procent af de 2.607 læger på sygehuse, der har deltaget i Politiken Researchs undersøgelse, svarer, at de i løbet af en typisk arbejdsdag deler computer med kolleger. Reglerne dikterer, at lægerne skal logge individuelt ind, når de eksempelvis er inde i de elektroniske patientjournaler. Det skal blandt andet sikre, at man kan se, hvilken læge der har rettet i en patients journal.

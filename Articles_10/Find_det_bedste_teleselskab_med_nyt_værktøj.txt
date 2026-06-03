@@ -1,7 +1,0 @@
-Title: Find_det_bedste_teleselskab_med_nyt_værktøj
-Date: 2014-02-20
-Article Type: Digitalt
-Author: Søren Dilling
-
-Hidtil har brugere af mobildata og internettet fra computere kunnet måle, hvilken hastigehd, de kan opnå på en såkaldt bredbåndsmåler på Erhvervsstyrelsens hjemmeside.
-Men Erhvervsstyrelsen har netop lanceret en ny avanceret udgave af bredbåndsmåleren, som ellers har været forsinket i næsten et år.
