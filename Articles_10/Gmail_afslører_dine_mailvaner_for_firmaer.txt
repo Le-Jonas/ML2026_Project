@@ -1,7 +1,0 @@
-Title: Gmail_afslører_dine_mailvaner_for_firmaer
-Date: 2013-12-18
-Article Type: Digitalt
-Author: Karim Pedersen
-
-Google gennemfører nu en meget vigtig ændring i sit postsystem Gmail, der har mere end 425 millioner brugere.
-Indtil nu har det været sådan, at du selv skulle vælge at hente eksterne billeder i dine mails.

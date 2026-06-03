@@ -1,7 +1,0 @@
-Title: Anti_Doping_Danmark_tester_CSC-system
-Date: 2007-07-28
-Article Type: Cykling
-Author: Mads Pinholt
-
-Professionelle cykelryttere bruger meget tid på at udfylde formularer, sende fax og e-mail for at holde både Den Internationale Cykelunion (UCI) og de nationale antidopingmyndigheder underrettet om, hvor de er, så dopingkontrollanterne ikke skal gå forgæves.
-Danske Team CSC har fået udviklet et nyt system, hvor rytterne fra en hvilken som helst internetadgang kan rette i deres oplysninger, ligesom de bliver advaret, hvis de er ved at overskride en deadline.

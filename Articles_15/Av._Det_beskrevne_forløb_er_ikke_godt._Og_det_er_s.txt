@@ -1,9 +1,0 @@
-Title: Av._Det_beskrevne_forløb_er_ikke_godt._Og_det_er_s
-Date: 2020-01-23
-Article Type: Uddannelse
-Author: I mindst to kommuner er elevers persondata givet videre til Google. Klart brud på loven, siger jurister.
-
-Jacob Fuglsang
-USA-korrespondent
-Der skal årvågne forældre til at opdage, når elevers data videregives til Google. Det har vist sig i foreløbig to kommuner, hvor skoleelevernes personoplysninger er blevet videregivet til Google-ejede YouTube. ​​​​
-I Helsingør og Odense Kommuner oplevede forældre, at deres børns fulde navn og skole stod som på YouTube-profiler, uden at de selv eller børnene havde oprettet profilen. Oplysningerne kom via Googles grundpakke, der hedder GSuite for Education, og det skete, fordi kommunerne havde oprettet tillægstjenester til grundpakken.

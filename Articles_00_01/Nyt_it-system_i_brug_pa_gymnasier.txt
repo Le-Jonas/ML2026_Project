@@ -1,9 +1,0 @@
-Title: Nyt_it-system_i_brug_pa_gymnasier
-Date: 2003-07-28
-Article Type: Danmark
-Author: Omkring 4.000 elever på syv gymnasier vil i det nye skoleår møde et nyt it-system, der gør det muligt for dem og deres forældre over internet løbende at holde sig orienteret om det læste antal timer i de enkelte fag, skemaændringer med mere. Gearet til at håndtere skemaændringer
- Systemet, Lectio, er et nyudviklet dansk redskab til at håndtere de skemaændringer, der opstår ved sygdom, temadage og kurser. 
- Systemet viser det til enhver tid aktuelle skema for elever, lærere og lokaler samt forholdet mellem planlagte og afholdte lektioner. Forventes i kraft alle steder 2005
- Når en lærer har foretaget en ændring, kan alle se det opdaterede skema hjemmefra eller på skolen via internettet. 
- »Jeg forventer, at alle danske gymnasier i forbindelse med den nye gymnasiereform i 2005 vil tilbyde en service á la Lectio, når vi går væk fra det klassiske ugeskema og over til en øget brug af projektarbejdsformen«, siger Martin Holbøll fra it-virksomheden Macom A/S, der står bag systemet.
-

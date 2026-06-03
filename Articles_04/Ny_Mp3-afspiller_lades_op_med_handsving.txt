@@ -1,7 +1,0 @@
-Title: Ny_Mp3-afspiller_lades_op_med_handsving
-Date: 2007-08-13
-Article Type: Digitalt
-Author: Søren Dilling
-
-Nu har Trevor Baylis også lavet en medieafspiller - en Trevor Baylis Eco Media Player - med mange funktioner, som både kan bruges som FM-radio, mp3-afspiller, videoafspiller, til at optage lyde og til at lagre data på.
-Den kan også bruges til at oplade en mobiltelefon, og den lades op med et håndsving. Drejer man på håndsvinget i et minut, er der strøm nok til 40 minutters afspilning. Den kan dog også lades op via et usb-stik i computeren.

@@ -1,8 +1,0 @@
-Title: Politi_bruger_ansigtsgenkendelse_mod_teenagere
-Date: 2019-08-03
-Article Type: Tech
-Author: Politiet i New York har brugt avanceret overvågningsteknologi til at behandle fotos af børn og unge. Der er stort set ikke ført kontrol med den kontroversielle praksis.
-
-Joseph Goldstein og Ali Watkins, The New York Times
-I New York er tusinder af politifotos af børn og teenagere blevet overført til en database, der bruges i forbindelse med ansigtsgenkendelse. Det er sket, selv om der er dokumentation for, at teknologien oftere foretager forkerte identifikationer, når der er tale om unge menneskers ansigter.
-Ifølge interne dokumenter har politiet i omkring fire år brugt teknologien til at sammenligne billeder fra gerningssteder med de fotos, som politiet har taget af unge mennesker i forbindelse med en anholdelse. De fleste af fotografierne er af 13-16-årige teenagere, men der er også billeder af børn helt ned til 11 år.

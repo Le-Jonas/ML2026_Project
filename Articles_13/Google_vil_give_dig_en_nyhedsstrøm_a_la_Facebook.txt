@@ -1,7 +1,0 @@
-Title: Google_vil_give_dig_en_nyhedsstrøm_a_la_Facebook
-Date: 2017-07-20
-Article Type: Digitalt
-Author: Morten Bay
-
-De fleste Android-brugere kender det, og mange iPbone-ejere har også valgt det til:
-Google Now har i nogle år været leverandør af de såkaldte ’cards’, der har leveret nyheder, påmindelser og information skræddersyet efter brugerens behov. Men nu bliver Google Now sendt på pension og i stedet kommer Google Feed, der i endnu højere grad skal give dig en daglig informations-strøm, du kan bruge til noget.

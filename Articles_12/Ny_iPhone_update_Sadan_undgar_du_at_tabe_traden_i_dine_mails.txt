@@ -1,7 +1,0 @@
-Title: Ny_iPhone_update_Sadan_undgar_du_at_tabe_traden_i_dine_mails
-Date: 2016-10-08
-Article Type: Digitalt
-Author: Morten Bay
-
-Den seneste udgave af styresystemet til iPhone og iPad, iOS 10, har bragt en masse nyheder med sig. En af de apps, der dog har fået ekstra opmærksomhed i denne omgang, er den indbyggede Mail-app. Apple har sat en række muligheder ind i Mail-app’en, som man hidtil har skullet bruge e-mail-apps fra andre udbydere for at finde. Men mange af disse nye funktioner er slået til fra starten, og det har gjort nogle brugere en anelse forvirrede.
-Et eksempel på dette er den måde, Mail nu organiserer e-mails i tråde. Selve muligheden for at se e-mail-samtaler som en lang tråd er ikke ny, men det er måden, de vises på. E-mail-tråde vises nu som standard i én lang tråd med alle e-mails helt åbne. Det betyder, at hvis en e-mail-samtale er en del af selve e-mail-teksten, bliver hele samtalen vist, samtidigt med at alle e-mails i tråden bliver vist. En e-mail kan altså både være en del af selve teksten i en anden e-mail og dukke op som sig selv i tråden.

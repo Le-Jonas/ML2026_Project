@@ -1,9 +1,0 @@
-Title: Stort_kvantespring_Forskere_har_taget_et_kæmpe_skr
-Date: 2019-10-23
-Article Type: Viden
-Author: Det er lykkedes et hold forskere fra Google at få en iskold kvantecomputer til at lave en beregning, der giver verdens eksisterende supercomputere baghjul.
-
-Lasse Foghsgaard
-Videnskabsredaktør
-Vil det nogensinde lykkes at lave en kvantecomputer, som kan give hele verdens supercomputere baghjul og dermed så kimen til en ny guldalder med opdagelser og opfindelser?
-Mange har været skeptiske. Men den skepsis kan godt pakkes sammen i dag. For det er lykkedes et ingeniørhold fra Google at lave en kvantecomputer i laboratoriet, som ifølge forskerne kan foretage en udregning på cirka 200 sekunder eller lidt over 3 minutter, som det ville tage verdens bedste supercomputere 10.000 år at gennemføre. Opfindelsen er så stor, at verdens førende videnskabelige tidsskrift Nature torsdag har valgt at rydde forsiden til fordel for gennembruddet.

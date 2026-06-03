@@ -1,7 +1,0 @@
-Title: Husk_nar_du_køber_WiFi
-Date: 2008-06-27
-Article Type: Forbrug
-Author: Kenneth Knudsen
-
-Ydelsen er central, hvis du eksempelvis skal se HD-film over netværket, benytte IP-telefoni eller spille.
-PC Worlds anbefaling er derfor, at du holder dig til den såkaldte WiFi Draft 2.0 N-standard. Den er det optimale udgangspunkt for at opnå en god kvalitet i dine dataoverførsler, og du bør ideelt set vælge en dualband-router, hvis der både er G- og N-enheder på din husstands netværk.

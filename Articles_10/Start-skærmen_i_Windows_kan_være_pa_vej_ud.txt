@@ -1,7 +1,0 @@
-Title: Start-skærmen_i_Windows_kan_være_pa_vej_ud
-Date: 2014-02-04
-Article Type: Digitalt
-Author: Morten Bay
-
-Da Microsoft lancerede Windows 8 med en startskærm, der mest var lavet til tablets, var der mange, der var skeptiske.
-Start-skærmen, med dens berøringsvenlige fliser, faldt bestemt ikke i alle pc-brugeres smag, og Microsoft måtte give folk muligheden for at starte Windows op direkte på skrivebordet.

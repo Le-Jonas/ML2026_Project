@@ -1,6 +1,0 @@
-Title: 5000_computere_i_Region_Midtjylland_er_i_risiko_for_cyberangreb
-Date: 2017-05-16
-Article Type: Forbrug
-Author: En rundspørge foretaget af Information viser, at særligt Region Midtjylland er i risiko for at blive ramt af cyberangreb som det såkaldte WannaCry-angreb, der de seneste dage har lammet computere i 150 lande og har lagt dele af det britiske sundhedsvæsen ned.
-
-Regionen oplyser, at man i øjeblikket har 'cirka 5000' maskiner, der kører det forældede Windows XP-styresystem. De befinder sig 'hovedsageligt på hospitalerne', hvor de indgår i den daglige drift - og de fleste af dem er koblet på internettet.

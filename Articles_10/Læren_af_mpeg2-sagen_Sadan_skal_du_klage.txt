@@ -1,7 +1,0 @@
-Title: Læren_af_mpeg2-sagen_Sadan_skal_du_klage
-Date: 2013-11-29
-Article Type: Digitalt
-Author: Søren Dilling
-
-Højesteret har givet en forbruger medhold i en principiel sag og afgjort, at forhandleren burde have oplyst ham om, at det tv, han købte, ikke ville kunne vise DR's programmer efter et stykke tid.
-Fjernsynet havde nemlig en såkaldt mpeg2-modtager, og Højesteret mener, at branchen på daværende tidspunkt var klar over, at Danmarks Radio ville begynde at sende i mpeg4-formatet. Derefter ville fladskærmen ikke kunne vise DR's programmer.

@@ -1,7 +1,0 @@
-Title: Stil_krav_til_dit_web-hotels_sikkerhed
-Date: 2002-10-21
-Article Type: Økonomi
-Author: Kunder på de såkaldte web-hoteller, der lægger plads til hjemmesider, skal lægge et større pres på dem ved at kræve dokumentation for, at de har sikkerheden i orden. Det mener IT-sikkerhedseksperten Preben Andersen, chefkonsulent ved sikkerhedsorganisationen Dk-Cert, efter at danske hjemmesider på ny er blevet generet og fjernet efter et hackerangreb. 
-De næsten 400 danske hjemmesider lå på web-hotellet DK Web Online, der blev angrebet i går. Web-hotellet har et "hjørne" hos et større engelsk selskab, der har selve server-computerne stående. Dette danske hjørne er mål for angreb, tilsyneladende fra brasilianske hackere. 
-Det afgørende problem for web-hotellerne er konstant at holde deres udstyr opdateret med de seneste "reparationer" af it-systemerne. Ifølge Preben Andersen er man oppe på at konstatere 15 nye sårbarheder hver dag i it-systemer, og disse sårbarheder kan hackere udnytte til angreb.
-

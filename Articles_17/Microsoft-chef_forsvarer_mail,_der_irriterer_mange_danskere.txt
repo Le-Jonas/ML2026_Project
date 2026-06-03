@@ -1,9 +1,0 @@
-Title: Microsoft-chef_forsvarer_mail,_der_irriterer_mange_danskere
-Date: 2022-12-19
-Article Type: Viden og tech
-Author: På mange arbejdspladser dumper der regelmæssigt en mail ind, der analyserer hver enkelt medarbejders arbejde. For de fleste en irriterende distraktion, for andre en bekymrende overvågning. Microsoft-direktør Ole Kjeldsen svarer på kritikken.
-
-Jens Bostrup
-Journalist
-Det vækker en del irritation, at Microsoft Viva – uden at nogen er blevet spurgt - bare lander i folks indbakker med mere eller mindre relevante analyser af vores arbejde. Hvorfor bliver brugerne ikke spurgt først?
-»Det er rigtigt, at hvis man bare har slået det til, og det lige pludselig bare popper op, så er der helt sikkert nogle brugere, som vil sige, ’det var dog irriterende’ eller ’hvorfor er der nogen, der skal sige til mig, at jeg ikke må sende mails kl. ni om aftenen’. Vi kunne måske have været endnu tydeligere i vores kommunikation til kunderne om, at de også har en opgave i forbindelse med at tage stilling til, hvad Viva kan bruges til, og lære de ansatte at bruge det rigtigt«.

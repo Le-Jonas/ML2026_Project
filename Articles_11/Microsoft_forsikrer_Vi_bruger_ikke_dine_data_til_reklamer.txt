@@ -1,8 +1,0 @@
-Title: Microsoft_forsikrer_Vi_bruger_ikke_dine_data_til_reklamer
-Date: 2014-06-14
-Article Type: Digitalt
-Author: Morten Bay
-
-Microsoft vil helst ikke være kendt for at bruge dine personlige data til annoncering. Det har de i nævnt i forbifarten adskillige gange, men nu sætter de fokus på det. Det sker med en substantiel ændring i nogle af firmaets brugerlicens-aftaler.
-Nye aftaler
-Fra 31. juli træder der nye brugerlicens-aftaler i kraft for flere Microsoft-tjenester, herunder Outlook.com(tidligere Hotmail), søgemaskinen Bing og skylageret OneDrive. Især disse tre tjenester kan i sagens natur bruges til at indsamle data om brugeren.

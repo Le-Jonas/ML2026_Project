@@ -1,8 +1,0 @@
-Title: Eksperter_Andre_lande_tør_ikke_bruge_Java_pa_grund_af_sikkerhedshuller
-Date: 2013-10-19
-Article Type: Digitalt
-Author: Signe Thomsen
-
-Journalist
-I Danmark er hele vores NemID-system bygget på platformen Java, som i de seneste dage har givet brugerne store problemer i forbindelse med en sikkerhedsopdatering. Men lige netop sikkerheden - eller manglen på samme - er årsag til, at det efterhånden kun er danskere, der bruger Java.
-»I resten af verden er der ikke ret mange, der baserer deres løsninger på Java længere. De fleste både virksomheder og myndigheder mener, det er for risikofyldt, fordi der er så mange sikkerhedshuller«, fortæller Henrik Lund Kramshøj, som er direktør i it-sikkerhedsfirmaet Solido Networks.

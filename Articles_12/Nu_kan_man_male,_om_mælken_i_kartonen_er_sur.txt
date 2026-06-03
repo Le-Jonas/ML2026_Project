@@ -1,7 +1,0 @@
-Title: Nu_kan_man_male,_om_mælken_i_kartonen_er_sur
-Date: 2016-01-23
-Article Type: Viden og tech
-Author: Henrik Larsen
-
-Det er nedtur at gå i døgnkiosken efter mælk til aftenkaffen og ende foran en kølemontre, hvor kartonerne er lige ved at slå godnatprutten i forhold til sidste salgsdag.
-Her ville det virkelig være smart, hvis man på en eller anden måde kunne se på emballagen, om mælken er på tærsklen til at blive sur. Og den udfordring har tre kemikere fra Københavns Universitet nu overvundet fundet en løsning på i form af en slags laboratorieplatform, som arbejder ved hjælp af farvestoffer.

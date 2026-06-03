@@ -1,7 +1,0 @@
-Title: DanID_advarer_Ny_bølge_af_NemID-angreb_er_i_gang
-Date: 2012-05-03
-Article Type: Digitalt
-Author: Søren Dilling
-
-Firmaet bag NemID login til blandt andet danske netbanker advarer nu mod en ny bølge af angreb mod netbankkunder.
-Forskellen fra tidligere angreb er, at de nye angreb ikke retter sig mod kunder i en bestemt netbank men mod samtlige netbankkunder.

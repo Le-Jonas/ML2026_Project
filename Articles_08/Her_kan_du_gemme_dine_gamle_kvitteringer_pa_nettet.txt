@@ -1,8 +1,0 @@
-Title: Her_kan_du_gemme_dine_gamle_kvitteringer_pa_nettet
-Date: 2012-05-12
-Article Type: Digitalt
-Author: Morten Bay, Los Angeles
-
-Kvitteringer har en irriterende evne til at hobe sig op alle vegne. 
-Ved hjælp af Shoeboxed, en app til Android og iPhone, kan du skanne dine kvitteringer og lægge dem op på en server, så du altid har dem tilgængelige.
-Tjenesten kan endda forstå, hvad der står på kvitteringen og sætte beløbene ind i et Excel-ark, så du får et overblik over, hvad du har brugt penge på. Vær opmærksom på, at butikker ikke nødvendigvis vil acceptere en digital kopi af en kvittering, hvis en vare skal byttes.

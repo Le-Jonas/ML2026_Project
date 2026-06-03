@@ -1,9 +1,0 @@
-Title: Kunstig_intelligens_vil_vække_afdøde_elskede_til_l
-Date: 2023-11-12
-Article Type: Tech
-Author: Flere selskaber sælger nu ’sorgrobotter’, der imiterer afdøde, og som de efterladte kan tale med. Muhammad Ahmad har bygget en farfar-bot til sine børn. Potentialet er skræmmende, siger sorgforsker.
-
-Sebastian Stryhn Kjeldtoft, Taipei
-Undersøgende redaktør
-Muhammad Ahmads bedsteforældre døde, før han var fem år gammel, så han lærte dem aldrig at kende. Da lægerne sagde, at Ahmads far kun havde få uger tilbage at leve i, gav det ham en radikal idé.
-»Jeg havde set min far lege med min brors børn, og jeg havde håbet, at mine børn også skulle lære ham at kende. Men min datter var endnu ikke født, da min far døde. Det fik mig til at tænke, at jeg måske kunne lave en simulation af min far. Et system med alle de samtaler, jeg havde haft med ham, og som mine børn kunne tale med«, fortæller han.

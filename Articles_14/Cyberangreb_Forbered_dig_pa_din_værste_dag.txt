@@ -1,8 +1,0 @@
-Title: Cyberangreb_Forbered_dig_pa_din_værste_dag
-Date: 2019-04-11
-Article Type: Tech
-Author: Verden ved det godt, men det kniber med at tage truslerne fra cyberspace rigtig alvorligt. Nu kan virksomhederne få deres cybersikkerhed gennembanket i en lastbil med et futuristisk kommando og kontrolcenter.
-
-Jacob Svendsen
-»Din værste dag«, siger den store hollænder til mig. »Det her bliver din værste dag«.
-Truslen bliver afleveret med et smil i mødelokalet i IBMs danske hovedkontor - udenfor venter en stor sort amerikansk truck. Helt fuldstændig renvasket og nypudset er der ingen spor af de mange kilometer europæisk landevej, som IT-giganten IBMs rullende X-Force Cyber Tactical Operation Center (C-TOC) har kørt siden den kom til kontinentet i januar.

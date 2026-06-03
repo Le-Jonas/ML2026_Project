@@ -1,8 +1,0 @@
-Title: Fortrolige_dokumenter_afslører_Facebooks_hemmelige
-Date: 2018-12-05
-Article Type: Tech
-Author: Jens Bostrup
-
-Journalist
-Det britiske underhus har offentliggjort fortrolige dokumenter fra Facebook, der rejser en ny storm mod det sociale medie.
-Ifølge Damian Collins, konservativ formand for underhusets medieudvalg, viser dokumenterne, at Facebooks ledelse på flere punkter bevidst har vildledt offentligheden og deres brugere. Blandt andet har de fortsat givet adgang til data fra brugernes venners, selvom ledelsen udadtil gav indtryk af, at den trafik var blevet stoppet.

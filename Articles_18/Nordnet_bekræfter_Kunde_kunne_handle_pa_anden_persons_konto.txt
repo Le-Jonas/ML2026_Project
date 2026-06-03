@@ -1,9 +1,0 @@
-Title: Nordnet_bekræfter_Kunde_kunne_handle_pa_anden_persons_konto
-Date: 2025-02-12
-Article Type: Danmark
-Author: Efter tirsdagens sikkerhedsnedbrud lød det først, at Nordnet ikke havde set eksempler på handler foretaget i andres navn under nedbruddet, men nu bekræfter platformen det første tilfælde.
-
-Bjørn van Overeem
-Journalist
-Investeringsplatformen Nordnet bekræfter nu, at en bruger har gennemført en aktiehandel på en fremmed persons konto, som vedkommende ved en fejl fik adgang til under tirsdagens sikkerhedsnedbrud.
-Det fortæller pressechef Jonas Melander til Politiken.

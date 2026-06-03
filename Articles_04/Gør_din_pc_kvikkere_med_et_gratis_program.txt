@@ -1,9 +1,0 @@
-Title: Gør_din_pc_kvikkere_med_et_gratis_program
-Date: 2008-05-17
-Article Type: Digitalt
-Author: Michael C. Svendsen
-
-Nu er et af de bedste alternativer imidlertid kommet på gaden i en ny udgave, der kan hentes kvit og frit over nettet. 
-Det er det såkaldte Ubuntu Linux-operativsystem i version 8.04, og det kan vise mindst lige så flot grafik som Windows Vista.
-Ubuntu kører endda betydeligt hurtigere og mere stabilt på selv ældre computere. Ubuntu 8.04 indeholder en masse programmer til både kontorbrug, sjov og medieafspilning og er blevet lettere at installere. 
-Så har du ikke lyst eller råd til at smide 700 kroner efter en ny Windows-kopi (samt 4.000-6.000 kroner til en pc, der kan trække det), er Ubuntu en mulighed.

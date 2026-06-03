@@ -1,6 +1,0 @@
-Title: Dankort-systemet_er_ramt_af_stort_nedbrud
-Date: 2014-01-20
-Article Type: Privatøkonomi
-Author: Dankort-systemet er ramt af et omfattende nedbrud i hele landet.
-
-Forbindelsen til datacentralen forsvandt ved 05.15-tiden, fortæller selskabet bag dankort-systemet, Nets. Problemet skyldes, at der gået noget galt med en planlagt opdatering, lyder det.

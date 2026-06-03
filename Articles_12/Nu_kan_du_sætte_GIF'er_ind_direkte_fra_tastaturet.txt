@@ -1,7 +1,0 @@
-Title: Nu_kan_du_sætte_GIF'er_ind_direkte_fra_tastaturet
-Date: 2016-05-05
-Article Type: Digitalt
-Author: Morten Bay
-
-Vi ved alle sammen, at et billede siger mere end 1.000 ord. Og det må jo betyde, at 150 billeder siger mere end 150.000 ord.
-Så hvis man har en animeret GIF, der varer 10 sekunder og har en frame rate på 15 billeder i sekundet, så kan man på meget kort tid netop sige mere end 150.000 ord.

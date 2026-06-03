@@ -1,6 +1,0 @@
-Title: McAfee
-Date: 2007-09-19
-Article Type: Bolig og haven
-Author: Web: dk.mcafee.com
-
-Det er overraskende, at et gammelkendt og velrennomeret program som McAfee VirusScan er et af de langsomste i testen. Man skulle tro, at McAfee ellers havde forfinet og optimeret deres scanningsmotor.

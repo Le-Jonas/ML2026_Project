@@ -1,9 +1,0 @@
-Title: Aktivisten_Max’_vilde_oprør_ryster_techgiganterne_
-Date: 2022-02-07
-Article Type: Tech
-Author: En østrigsk aktivist insisterer på, at EU tager sine love og værdier alvorligt. Det giver enorm hovedpine overalt i Europa.
-
-Jens Bostrup
-Journalist
-Mark Zuckerberg truer med, at han kan blive nødt til at lukke både Facebook og Instagram i Europa, hvis der ikke kommer en aftale, der lovliggør, at Facebook sender europæernes personlige oplysninger hjem til hovedkvarteret i USA.
-Men ikke kun Zuckerberg har et problem. Det kan blive meget værre – eller bedre – alt efter temperament. Det østrigske datatilsyn afgjorde i januar, at det mest udbredte værktøj til at få hjemmesider til at fungere, Google Analytics, ikke må bruges i Europa. Datatilsynet i Danmark arbejder lige nu på at udsende en vejledning til virksomhederne.

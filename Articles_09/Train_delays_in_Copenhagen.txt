@@ -1,7 +1,0 @@
-Title: Train_delays_in_Copenhagen
-Date: 2012-08-31
-Article Type: Danmark
-Author: Julian Isherwood
-
-Morning railway traffic in and around Copenhagen is subject to delays today due to an attempt at cable theft near Ny Ellebjerg Station.
-The attempt to remove cables was discovered when the system reported faults in an area that has previously been subjected to cable theft and was thus under extra surveillance.

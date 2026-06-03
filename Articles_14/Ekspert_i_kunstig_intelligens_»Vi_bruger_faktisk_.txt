@@ -1,9 +1,0 @@
-Title: Ekspert_i_kunstig_intelligens_»Vi_bruger_faktisk_
-Date: 2019-09-02
-Article Type: Tech
-Author: Apple og Google har til borgeres, politikeres og eksperters forargelse aflyttet og nedskrevet private samtaler fra danske brugere. Ekspert i kunstig intelligens Thomas Terney mener derimod, at det ikke bør komme som en overraskelse.
-
-Jóhann Thór Haahr Hansen
-Journalist
-Du mener, at vi ikke bør være overraskede over, at techgiganterne aflytter os gennem vores smartphones. Hvorfor skal vi ikke det?
-»Der mangler en generel forståelse i befolkningen om, hvad det er, der gør, at vi kan bruge intelligente systemer, og hvordan intelligente systemer bliver lavet. Og at vi faktisk bruger mennesker til at træne intelligente systemer, uanset om det er selvkørende biler, billedgenkendelse eller stemmestyrede assistenter. Måden, man træner systemerne på, er, at de efterligner os. De gør det, vi plejer at gøre. Det er det, vi gerne vil have dem til, for det er hele pointen i at lave intelligente systemer. Derudover er der en benhård konkurrence om at komme først med de nye og bedste teknologier, og en af de teknologier, der bliver kæmpet meget hårdt om, er talegenkendelse. Og techvirksomhederne bruger alle midler for at komme langt med den«.

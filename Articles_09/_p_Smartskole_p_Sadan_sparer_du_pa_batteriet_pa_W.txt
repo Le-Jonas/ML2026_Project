@@ -1,8 +1,0 @@
-Title: _p_Smartskole_p_Sadan_sparer_du_pa_batteriet_pa_W
-Date: 2013-04-14
-Article Type: Digitalt
-Author: Morten Bay
-
-For nogle uger siden bragte vi nogle tip til at spare batteri på Windows Phone 8-platformen.
-Men Microsoft har gjort ret meget ud af at give brugerne mulighed for at justere deres batteriforbrug selv, så her kommer lidt flere ideer til at optimere batteriforbruget på din Windows Phone.
-Brug laderen, der fulgte med telefonen

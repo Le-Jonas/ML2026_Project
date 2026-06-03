@@ -1,7 +1,0 @@
-Title: NemID_erkender_darlig_kommunikation_til_udlandsdan
-Date: 2010-08-27
-Article Type: Forbrug
-Author: Niels Rytter
-
-Sådan lyder beskeden fra firmaet bag den nye digitale signatur, efter det er kommet frem, at udlandsdanskere ikke kan bestille NemID over internettet gennem deres eksisterende Digital Signatur.
-»Jeg er dybt frustreret over inkompetencen hos NemID. Man føler sig overset som dansker i udlandet«, siger Kasper Hansen, der har boet fire år i Atlanta i USA.

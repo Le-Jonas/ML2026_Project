@@ -1,9 +1,0 @@
-Title: Hvor_opstar_den_næste_katastrofe_Det_kan_AI_med_»
-Date: 2024-03-20
-Article Type: Viden og tech
-Author: Dansk Flygtningehjælp har iværksat de første nødhjælpsaktioner baseret på spådomme fra kunstig intelligens. Perspektiverne er store, men det sker med organisationens troværdighed som indsats.
-
-Jens Bostrup
-Journalist
-Kunstig intelligens kan nu forudsige, hvor den næste flygtningekrise opstår, så præcist, at Dansk Flygtningehjælp kan sende personale og materialer til stedet, så de står klar, når behovet opstår.
-Modellen har været under forberedelse i flere år og er nu så tilpas pålidelig, at det første nødhjælpshold er blevet sendt til Somalia, og de næste er på vej til Sydsudan og Burkina Faso, fortæller Alexander Kjærum, senioranalytiker i Dansk Flygtningehjælp. Forhåbningen er, at maskinen kommer til at stå for mere og mere af flygtningehjælpens planlægning.

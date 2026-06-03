@@ -1,8 +1,0 @@
-Title: ATS_Kvinde_med_stærk_fynsk_dialekt_sender_AI-program_til_tælling
-Date: 2025-04-03
-Article Type: ATS
-Author: ATS er Politikens daglige satirespalte.
-
-Det AI-program, der har stået for at tekste en række TV 2-regioners udsendelser, er brudt sammen. Kollapset skyldes en spidsbelastning, forklarer regionerne i en pressemeddelelse:
-»Dialekter er notorisk vanskelige for AI at forstå og transskribere, og da en kvinde med stærk fynsk dialekt skulle tale om den nye »drooon’baaaas’ i Oooo’nse« samtidig med en live-gennemstilling, som TV Midtvest foretog i Thyborøn, hvor to meget lokale fiskere skulle diskutere storfisker Henning Kjeldsens erstatning for menneskerettighedsbrud, blev den algoritme, der håndterer dialekter, simpelthen overbelastet«.
-ATS er Politikens daglige satirespalte.

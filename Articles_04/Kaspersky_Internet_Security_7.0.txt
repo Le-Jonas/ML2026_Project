@@ -1,8 +1,0 @@
-Title: Kaspersky_Internet_Security_7.0
-Date: 2008-04-24
-Article Type: Bolig og haven
-Author: Bodil Hauge
-
-Benjamin Steengaard Rasmussen
-Selve installeringen er enkel og smertefri, og fra start er de grundlæggende indstillinger slået til. Dog skal forældrekontrollen – logisk nok – slås til manuelt.
-Kaspersky er på dansk og ser ikke specielt indbydende ud, snarere lidt småkedelig. Den er dog enkelt opbygget med menuer i venstre side.

@@ -1,7 +1,0 @@
-Title: Handske_kan_oversætte_tegnsprog
-Date: 2003-08-04
-Article Type: Internationalt
-Author: Det er de færreste af os, der forstår "en lyd" af, hvad døve fortæller, når de taler tegnsprog. Men det skal en ny handske rette op på. En digital handske koblet til en computer kan følge den døves håndbevægelser og "oversætte" dem til almindelig tale eller tekst, som hørende har lettere ved at forstå. Foreløbig er det kun 200 engelske og spanske ord, den er programmeret til at oversætte. Findes foreløbig kun i prototype
-Handsken hedder 'AcceleGlove', og den er opfundet af Jose Hernandez-Rebollar fra George Washington University. Foreløbig findes den kun i prototype, men hvis den sættes i produktion, vil den få stor betydning for døves muligheder for at kommunikere med andre, skriver AP. 
-Men døve er ikke ubetinget begejstrede for, at deres tegnsprog nu bliver mere forståeligt. Nogle mener, at håndbevægelserne er en del af døves unikke kultur, og det skal man efter deres mening ikke bruge kunstige hjælpemidler til at lave om på.
-

@@ -1,7 +1,0 @@
-Title: Det_kan_du_bruge_din_gamle_smartphone_til
-Date: 2014-07-02
-Article Type: Digitalt
-Author: Morten Bay
-
-Hvis du har en gammel smartphone, du ikke rigtig ved, hvad du skal bruge til, kan du overveje at installere den fast i din bil. På den måde behøver du ikke skulle sætte din primære telefon i holderen, hver gang du sætter dig ind i bilen, fordi du vil bruge den til GPS-navigation.
-Da du næppe har et SIM-kort siddende i din gamle telefon, skal du i stedet downloade en GPS-app, hvor du kan hente kort ned og gemme dem på telefonen. Så behøver telefonen ikke være online for at du kan bruge den til navigation. Eksempler på disse kunne være Sygic til iPhone og Android eller HERE Drive+ til Windows Phone.

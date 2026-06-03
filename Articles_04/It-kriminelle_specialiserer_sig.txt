@@ -1,6 +1,0 @@
-Title: It-kriminelle_specialiserer_sig
-Date: 2008-04-08
-Article Type: Digitalt
-Author: Det er nogle af de erfaringer, som sikkerhedsfirmaet Symantec fremlægger i dag i forbindelse med selskabets halvårlige rapport om trusler på internet.
-
-»Fem ud af ti af de netsteder, der bliver forsøgt angrebet mest, er sociale sites«, siger sikkerhedsekspert Ken Willén, Symantec.

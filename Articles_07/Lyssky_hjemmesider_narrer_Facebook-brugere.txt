@@ -1,7 +1,0 @@
-Title: Lyssky_hjemmesider_narrer_Facebook-brugere
-Date: 2011-03-15
-Article Type: Digitalt
-Author: Peter Voergaard
-
-Når du surfer på Facebook, bør du være ekstra på vagt over for dine venners statusopdateringer - især hvis opdateringen linker til en video, for der er stor risiko for, at du via linket narres til at 'synes godt om' lyssky hjemmesider.
-Bagmænd bag fænomenet clickjacking tjener nemlig penge på, at du besøger diverse hjemmesider, hvoraf nogle lokker brugerne til at deltage i undersøgelser, mens hjemmesider installerer computervirus på brugerens computer.

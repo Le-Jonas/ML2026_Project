@@ -1,6 +1,0 @@
-Title: Ny_stigning_i_antallet_af_it-angreb
-Date: 2013-02-11
-Article Type: Digitalt
-Author: Internettet fylder mere og mere i danskernes hverdag, og det er ikke altid lige behageligt.
-
-IT-kriminelle forsøger nemlig i stigende grad at få adgang til danskernes værdier gennem computeren, viser den årlige opgørelse fra DK-Cert, som overvåger netværkene i den danske uddannelsessektor og har til opgave at varsle eventuelle it-trusler.

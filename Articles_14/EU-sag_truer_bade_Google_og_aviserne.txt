@@ -1,8 +1,0 @@
-Title: EU-sag_truer_bade_Google_og_aviserne
-Date: 2018-09-20
-Article Type: Tech
-Author: Jens Bostrup, Dublin
-
-Journalist
-En klagesag, der netop er modtaget i det irske datatilsyn, kan underminere hele den forretningsmodel, der ligger bag meget store dele af det gratis internet: lige fra giganter som Google og Facebook til store og små aviser. Det vurderer chefen for det irske datatilsyn, Dale Sunderland, over for Politiken.
-Meget store dele af det gratis internet, vi kender i dag, bliver finansieret af annoncer, der er målrettet til den enkelte bruger, og det er hele den forretningsmodel, som nu er kommet under anklage.

@@ -1,6 +1,0 @@
-Title: Københavns_Universitet_bag_nyt_it-system
-Date: 2007-04-03
-Article Type: Økonomi
-Author: Hvad gør man som produktionschef eller logistiker i et firma, hvis det kniber med at få råvarer til produktionen eller en kunde afbestiller i sidste øjeblik, mens en anden vigtig kunde har stået på spring i længere tid for at få den samme vare.
-
-Med et nyt program projekt lavet af professor David Pisinger og hans to forskningsassistenter, Emil Soelberg Frisendal og Bjørn Petersen på Datalogisk Institut, DIKU, på Københavns Universitet, kan man få styr på logistikken, når noget går galt i produktionen eller kundekredsen.

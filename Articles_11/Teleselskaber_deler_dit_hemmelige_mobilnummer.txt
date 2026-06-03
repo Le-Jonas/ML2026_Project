@@ -1,7 +1,0 @@
-Title: Teleselskaber_deler_dit_hemmelige_mobilnummer
-Date: 2014-11-04
-Article Type: Forbrug
-Author: Søren Dilling
-
-Flere af de store, danske teleselskaber sender automatisk dit mobilnummer til udvalgte samarbejdspartnere, når du surfer ind på specifikke domæner.
-Det viser et studie, som datalog og internetaktivist Christian Panton har demonstreret, skriver Ingeniørens netmedie, Version2.dk

@@ -1,6 +1,0 @@
-Title: Hackere_knækker_'oprydningsprogram'_som_bruges_af_millioner
-Date: 2017-09-18
-Article Type: Digitalt
-Author: Computerprogrammet CCleaner skulle egentlig hjælpe computerbrugere med at slippe af med overflødige programmer og trimme systemerne.
-
-Men en version af programmet, der kunne downloades i august, har vist sig at indeholde en ubehagelig overraskelse for brugerne.

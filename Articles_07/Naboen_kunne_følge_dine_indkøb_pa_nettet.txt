@@ -1,7 +1,0 @@
-Title: Naboen_kunne_følge_dine_indkøb_pa_nettet
-Date: 2011-06-15
-Article Type: Digitalt
-Author: Christian Bartels
-
-Det er ikke længere sikkert, at dine diskrete indkøb fra nettet er forblevet diskrete.
-På grund af et hul i sikkerheden hos Post Danmarks online pakkeservice, WebPack, har det været muligt for hvem som helst at tjekke informationer om din og naboens forsendelse fra internettet. Det skriver det digitale nyhedsbrev Version2.

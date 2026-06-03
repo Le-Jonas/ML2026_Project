@@ -1,7 +1,0 @@
-Title: Sikkerhed_ved_NemID_og_Java
-Date: 2013-02-02
-Article Type: Læserbreve
-Author: Dan Civa
-
-Kristian Trenskow, hvor er det godt at du kommer med dit indlæg omkring brugen af Apple, Java og NemID. Hvis NemID, der blev lanceret i 2010, med dets afhængighed af Java, fortsat har sikkerhedsproblemer med brugen af Java, er det selvfølgelig en fejl at vi skal bruge Java til NemID.
-Der opstod nærmest en panikagtig stemning i begyndelsen af januar, da der blev opdaget sikkerhedshuller hos Java. Som det blev tilrådet, afinstallerede jeg straks Java i nogle dage, indtil banken igen gav grønt lys for geninstallation af den seneste Java. De fleste af os er, mere eller mindre, afhængige af disse software produkter som hackerne står på spring til at snige sig ind i, hvor der er sikkerhedshuller. Hvadenten det er NemID til banken, Skatten og andre myndigheds instancer, så SKAL vi være absolut sikre på, at der ikke står en hacker parat til at bruge et uacceptabelt sikkerhedshul i softwaren.

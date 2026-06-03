@@ -1,9 +1,0 @@
-Title: Ekspert_kritiserer_brist_i_coronapassets_sikkerhed
-Date: 2021-04-08
-Article Type: Sundhed
-Author: Sundhed.dk frygter ikke strafbar manipulation af oplysninger i coronapasset. Men det er nemt at snyde, og det kan friste svage sjæle, siger ekspert i it-sikkerhed. Etisk Råd rejser en helt anden bekymring.
-
-Anders Legarth Schmidt
-Journalist
-Kort efter at coronapasset er blevet taget i brug som adgangsbillet til blandt andet en tur på massagebriksen eller i frisørstolen, bliver der rejst kritik af den digitale sikkerhed på portalen sundhed.dk.
-Med et par klik i en internetbrowser er det muligt – og i klokkeklar strid med loven – at ændre afgørende oplysninger i passet om ens status. Man kan således ændre datoen, for hvornår testen er foretaget, ligesom man også kan ændre selve svaret fra positiv til negativ.

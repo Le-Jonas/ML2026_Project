@@ -1,8 +1,0 @@
-Title: Menneskelig_intelligens_fører_stadig_over_computer
-Date: 2020-12-07
-Article Type: Tech
-Author: At finde den optimale løsning på pakningsproblemet har været en gåde for dataloger i årtier, men nu viser dansk forskning, at mennesket i praksis stadig er bedre end selv den stærkeste computer, hvis man skal regne ud, hvordan man f.eks. pakker flest klejner ned i æsken til jul.
-
-Jens Valbjørn Stavnsbjerg
-Man kan hurtigt få indtrykket af, at computerkraft slår os mennesker i alt fra de klogeste skaktræk til manuelt fabriksarbejde - ja selv i nyhedsjournalistikken banker robotterne på døren. Men den har stadig sine blinde vinkler.
-For når du skal lave brunkager til jul, og du skal finde ud af, hvordan du spilder mindst muligt af den udrullede dej, løser du umiddelbart et problem bedre, end nogen algoritme kan regne sig frem til.

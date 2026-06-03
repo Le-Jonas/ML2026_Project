@@ -1,8 +1,0 @@
-Title: Lige_her_viste_regeringen,_at_den_ikke_aner,_hvad_
-Date: 2022-02-10
-Article Type: Medier
-Author: Medierne burde – ligesom kommunerne – drosle ned for brugen af overvågningsværktøjer som Google Analytics og i stedet arbejde hen imod digital suverænitet, skriver Pernille Tranberg i denne mediekommentar.
-
-Pernille Tranberg
-Værktøjet Google Analytics hjælper hjemmesider med statistik. Hvor mange besøgende har de, hvad er mest populært, hvordan bevæger de sig rundt, hvor går de hen bagefter? Det er en udbredt tjeneste i Europa, og det er et af Googles værktøjer til at spore os alle. 70 procent af godt 15.000 danske hjemmesider bruger Google Analytics ifølge Cookiebot.
-Det er et problem. Det østrigske datatilsyn erklærede for nylig Google Analytics for ulovlig, for med brugen sender man østrigernes data til USA, og USA betragtes af EU som et usikkert tredjeland. USA passer med andre ord ikke godt nok på europæernes data. Mens vi venter på en melding fra det danske datatilsyn og Det Europæiske Databeskyttelsesråd (EDPB), som bidrager til en ensartet anvendelse af vores privatlivs-love, kan vi passende se på, hvem der egentlig bruger Google Analytics.

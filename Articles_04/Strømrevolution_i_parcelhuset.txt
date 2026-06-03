@@ -1,8 +1,0 @@
-Title: Strømrevolution_i_parcelhuset
-Date: 2007-10-03
-Article Type: Bolig og haven
-Author: Niels Nørgaard
-
-Frem for udenlukkende at have stærk strøm, som vi har i dag, skal husene indrettes med både svag og stærk strøm. Det vil samtidig lette vejen for solenergi og fremtidens ekstremt energibesparende lysdioder.
-Det er første gang i 100 år, at elforsyningen i de private hjem nytænkes. Baggrunden er det utal af elapparater, som vi alle har, og som med få undtagelser kun kræver 12 volt jævnstrøm. 
-Der er bare det problem, at al strømmen i vores stikkontakter i dag er 220 volt vekselstrøm (stærkstrøm) og ikke den 12 volt jævnstrøm (svagstrøm), som elapparaterne kræver.

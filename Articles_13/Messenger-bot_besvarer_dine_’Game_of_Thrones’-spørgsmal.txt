@@ -1,8 +1,0 @@
-Title: Messenger-bot_besvarer_dine_’Game_of_Thrones’-spørgsmal
-Date: 2017-07-06
-Article Type: Forbrug
-Author: Morten Bay
-
-Når HBO Nordic 17. juli blænder op for syvende sæson på ’Game of Thrones’, gælder det om at holde tungen lige i munden. Den populære serie er kendt for sin kompleksitet, dens mange karakterer og fortælletråde, subplots og undernarrativer. Det kan være svært at holde styr på det hele. Men nu kommer teknologien til hjælp.
-GoT-ekspert i bot-form
-Det engelske, digitale bureau Catch har lavet en temmelig genial bot, der naturligvis hedder ’GoTBot’ – ’Game of Thrones Bot’. Den fungerer som en slags serie-Gud, der kan spørges om hvad som helst og hvem som helst, der har fundet sted i serien. Hvis du ikke lige har styr på, hvem der er døde, hvem der er i live, og hvordan de endte i enten den ene eller den anden tilstand, kan du bare spørge.

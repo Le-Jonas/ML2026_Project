@@ -1,9 +1,0 @@
-Title: Har_du_aborteret,_tager_du_medicin_eller_er_du_ble
-Date: 2019-06-22
-Article Type: Danmark
-Author: Region Hovedstaden har ikke overblik over, hvor mange gange danske patientjournaler er blevet åbnet af medarbejdere i USA, som i dataspørgsmål ses som et usikkert tredjeland. Eksperter advarer mod misbrug.
-
-Carl Emil Arnfred
-Journalist
-Det var nok de færreste, der havde regnet med, at danske patienters dybt personlige helbredsoplysninger skulle kunne tilgås fra den amerikanske stat Wisconsin.
-Ikke desto mindre har en stor gruppe it-medarbejdere fra virksomheden Epic i USA adgang til danske sundhedsdata gennem it-systemet Sundhedsplatformen. I august sidste år havde 152 Epic-medarbejdere adgang til systemet fra den anden side af Atlanten.

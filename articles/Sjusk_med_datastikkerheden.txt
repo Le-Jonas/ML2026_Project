@@ -1,9 +1,0 @@
-Title: Sjusk_med_datastikkerheden
-Date: 2002-05-19
-Article Type: Danmark
-Author: De populære trådløse edb-netværk er en trussel mod datasikkerheden. Fordi sikkerheden ignoreres, er der uhindret adgang til personfølsomme oplysninger, og netværkene står til rådighed for også kriminelle og terrorister. 
-Morgenavisen Jyllands-Posten har afsløret huller i datasikkerheden i 200 netværk i København og Århus. Ved hjælp af blot en bærbar computer forsynet med et trådløst netværkskort fik vi i løbet af få timer adgang til edb-systemerne hos en stribe af Danmarks største virksomheder samt en række offentlige kontorer. 
-Hos alle på nær Københavns kommune lukkede avisen sig straks ud efter at have konstateret, at døren stod åben. Kun i Danmarks største kommune gik vi videre, og her var der fri adgang til ansættelseskontrakter, e-mails og interne telefonlister. 
-Virksomheder som A.P. Møller, Nordea og Post Danmark udsætter sig ikke alene for en stor risiko for dataindbrud (hacking). Hvis de har personfølsomme data såsom løn og oplysninger om sociale forhold på deres netværk, overtræder de også persondataloven. 
-»Det er alt for lemfældigt«, siger ekspert i forvaltningsret Oluf Jørgensen, afdelingsforstander ved Danmarks Journalisthøjskole.
-

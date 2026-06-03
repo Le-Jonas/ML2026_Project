@@ -1,9 +1,0 @@
-Title: 5_hjerter_Selv_en_algoritme_kan_ikke_styre_leret
-Date: 2021-05-16
-Article Type: Design
-Author: Nyt galleri for keramik har slået dørene op på Frederiksberg med en udstilling, der er så langt fra den klassiske drejeskive, som man næsten kan komme.
-
-Lars Hedebo Olsen
-Designredaktør på Politiken
-Det har taget Alma Bangsgaard og Hilda Nilsson 28 minutter og 56 sekunder at printe den lille cylinder ud, som de har givet titlen ’Nr. 1’. Til gengæld har det taget dem 9 timer, 2 minutter og 9 sekunder at printe cylinder ’Nr. 40’ ud. Den har så også en højde på 31,5 cm og en diameter på 24 cm, mens den lille hurtige kun er 8 cm høj.
-For en klassisk keramiker må de fremstillingstider give sved på panden. Ved hjælp af en 3D-printer, en computer og et program for algoritmisk keramik, har de to designere skabt 40 værker på et par dage. Det er selvfølgelig at stramme den, for de har jo ikke arbejdet uafbrudt, men lægger man alle tiderne sammen for udprintningen, lander man på et par dage, hvilket er ingenting i forhold til den tid, mange keramikere bruger på blot ét værk.

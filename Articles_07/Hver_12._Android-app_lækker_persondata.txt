@@ -1,7 +1,0 @@
-Title: Hver_12._Android-app_lækker_persondata
-Date: 2011-07-25
-Article Type: Digitalt
-Author: Søren Dilling
-
-Otte procent af de applikationer, der findes til det populære mobilstyresytem Android, lækker personlig data. Det viser en analyse, som er foretaget af sikkerhedsvirksomheden Dasient.
-Det skriver Computerworld.

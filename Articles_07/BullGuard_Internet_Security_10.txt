@@ -1,7 +1,0 @@
-Title: BullGuard_Internet_Security_10
-Date: 2011-02-18
-Article Type: Bolig og haven
-Author: Kenneth Knudsen
-
-Danske BullGuard har leveret en helstøbt sikkerhedsløsning, der blandt andet tilbyder antivirus, antispyware, antiphishing, spamfilter, firewall og et backup-drev på fem gigabyte.
-Internet Security 10 kan installeres på op til tre computere, men må undvære forældrekontrol. En underlig beslutning, når sikkerhedspakken i øvrigt lader til at være meget familiefokuseret.

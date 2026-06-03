@@ -1,7 +1,0 @@
-Title: Facebook_ramt_af_massevirus
-Date: 2014-12-16
-Article Type: Digitalt
-Author: Emilie  Kleding
-
-En virus på det sociale medie Facebook spreder sig hastigt blandt brugerne.
-Det gør den ved, at en ven på Facebook sender en besked eller et opslag på folks væg, som opfordrer til at åbne en vedhæftet fil. Hvis man åbner filen, deler virussen sig til folks egne Facebook-venner og så fremdeles.

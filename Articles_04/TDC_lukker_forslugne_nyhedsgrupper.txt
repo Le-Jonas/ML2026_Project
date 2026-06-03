@@ -1,9 +1,0 @@
-Title: TDC_lukker_forslugne_nyhedsgrupper
-Date: 2007-09-10
-Article Type: Digitalt
-Author: Dorthe Lønstrup
-
-Journalist
-May Schack
-TDC har besluttet at stoppe opdateringen af cirka 3000 ud af i alt 41.000 nyhedsgrupper på selskabets nyhedsservere.
-Lukningen sker fra den 15. oktober og omfatter samtlige såkaldt binære nyhedsgrupper, der bruges til at udveksle for eksempel billed- og lydfiler samt software.

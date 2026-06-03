@@ -1,7 +1,0 @@
-Title: Forskning_Hackere_kan_hjælpe_virksomheder
-Date: 2014-12-29
-Article Type: Danmark
-Author: Simon Boas
-
-Oftest bliver hackere forbundet med lovløse forbrydere, der kun har til hensigt at stjæle data fra virksomheder eller tømme folks private bankkonti.
-Men selv om en hacker er en person, der forsøger at udnytte svagheder i computersystemer, så kan hackere bruges til andet end kriminalitet. Nu vil Rigspolitiet nemlig ansætte civile it-eksperter i kampen mod cyberkriminalitet.

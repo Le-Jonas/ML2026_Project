@@ -1,6 +1,0 @@
-Title: Skat_ramt_af_massivt_it-nedbrud
-Date: 2008-06-13
-Article Type: Økonomi
-Author: En database leveret af IBM var formentlig årsagen til, at Skat fredag blev ramt af et massivt it-nedbrud.
-
-Systemerne blev lukket ned af frygt for at miste data, og måske er indtastninger foretaget i løbet af ugen gået tabt, oplyser Skat.

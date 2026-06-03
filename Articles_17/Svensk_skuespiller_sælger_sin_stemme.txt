@@ -1,9 +1,0 @@
-Title: Svensk_skuespiller_sælger_sin_stemme
-Date: 2024-03-05
-Article Type: Bøger
-Author: Storytel i Sverige lancerer nu en ny funktion, hvor lytterne kan skippe en oplæser, de ikke bryder sig om, og vælge en anden.
-
-Birgitte Kjær
-Journalist
-14. marts er der Mofibo Awards i Store Vega, hvor streamingtjenesten præmierer lydbogsforfattere, indlæsere og en særpris til årets nye indlæsertalent. Hvem der får statuetter, er hemmeligt, men i fremtiden kan det meget vel være en robot.
-For Storytel, der ejer Mofibo, er i fuld gang med at lancere indlæsning baseret på kunstig intelligens, så lytterne kan bytte en indlæserstemme ud med en anden.

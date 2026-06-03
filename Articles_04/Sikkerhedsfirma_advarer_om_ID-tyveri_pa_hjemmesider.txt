@@ -1,6 +1,0 @@
-Title: Sikkerhedsfirma_advarer_om_ID-tyveri_pa_hjemmesider
-Date: 2007-10-17
-Article Type: Digitalt
-Author: Senest er tre såkaldt falske domæner dukket op i Randers, Glamsbjerg og Hvidovre. På de falske domæner lægger uskyldige navn til hjemmesider, som bagmænd anvender til at lokke informationer fra andre.
-
-»Vi har set disse ting før, men det er blevet mere omfattende. Tidligere har vi typisk set det i andre lande, hvor sikkerheden ikke er så god. Når vi nu ser det i Danmark, må det være, fordi bagmændene mener, at risikoen for at blive afsløret er ubetydelig«, siger Michael Dahl, landeansvarlig for it-sikkerhedsfirmaet F-Secure i Danmark.

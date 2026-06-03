@@ -1,7 +1,0 @@
-Title: Antivirusprogram_kan_have_skaffet_russiske_hackere_følsomme_amerikanske_dokumenter
-Date: 2017-10-06
-Article Type: Digitalt
-Author: Morten Bay
-
-Normalt installerer man antivirus-programmer på computere for at gøre dem mere sikre. Men i hvert fald i et tilfælde havde det den stik modsatte virkning:
-Russiske hackere har angiveligt fået adgang til følsomme informationer om USA's cybersikkerheds-beredskab gennem netop et antivirus-program. Og endnu engang er det den russiske antivirus-producent Kaspersky Labs, der er under mistanke.

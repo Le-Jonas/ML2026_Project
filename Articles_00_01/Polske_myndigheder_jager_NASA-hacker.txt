@@ -1,8 +1,0 @@
-Title: Polske_myndigheder_jager_NASA-hacker
-Date: 2002-06-27
-Article Type: Internationalt
-Author: De polske myndigheder meddeler, at de jagter en computerhacker, som menes at stå bag indtrængen i den amerikanske rumfartsorganisation NASA's netværk. 
-Hackningen hos NASA har forårsaget ødelæggelser, der vurderes til at ville koste omkring en million dollar. 
-Eftersøgningen er koncentreret om Poznan i den vestlige del af Polen, hvor de lokale myndigheder oplyste, at de har reageret på en henvendelse fra USA. 
- Myndighederne nægtede dog at kommentere specifikke oplysninger fra medier i USA om, at amerikansk politi skal have fundet et elektronisk spor i cyberspace, der fører tilbage til en gymnasieelev fra Poznan.
-

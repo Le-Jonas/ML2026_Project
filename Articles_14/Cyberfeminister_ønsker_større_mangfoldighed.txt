@@ -1,8 +1,0 @@
-Title: Cyberfeminister_ønsker_større_mangfoldighed
-Date: 2018-09-05
-Article Type: Tech
-Author: Sara Krog
-
-Journalist
-For første gang kan overvågningskameraer genkende passagerer i en bil i bevægelse. Det nye system er ved blive sat op på grænsen mellem USA og Mexico.
-Men det er ikke alle bilister, kameraet kender lige godt. Algoritmen, der holder de kørendes ansigter op mod de pas- og visabilleder, der ligger i systemet, er ifølge The Guardian langt bedre til at genkende hvide ansigter. Latinoer og andre minoriteter løber derfor en større risiko for at blive standset, enten fordi de ikke bliver genkendt, eller fordi de bliver forvekslet med en anden.

@@ -1,8 +1,0 @@
-Title: Mobilnettet_redder_hjertepatienter
-Date: 2004-05-05
-Article Type: Danmark
-Author: Et forsøg med ny teknologi i lægeambulancerne i hovedstaden har vist, at det kan redde menneskeliv, fordi patienter, der bliver ramt af en blodprop hurtigere kan komme under behandling. Det skriver Urban i dag. 
-Tidsbesparelsen skyldes, at ambulancefolkene laver et hjertekardiogram, mens patienten stadig ligger på sit stuegulv. Kardiogrammet sendes via mobilnettet direkte til en håndholdt computer hos den vagthavende hjertelæge på 
-Rigshospitalet, som kan se, om der er tale om en blodprop. 
-Hvis det er tilfældet, kører ambulancen forbi de lokale sygehuse og direkte til Rigshospitalet, hvor alt er klar til behandlingen. Erfaringerne fra det første år viser, at patienterne i gennemsnit kommer 70 minutter før frem til behandlingen på Rigshospitalet.
-

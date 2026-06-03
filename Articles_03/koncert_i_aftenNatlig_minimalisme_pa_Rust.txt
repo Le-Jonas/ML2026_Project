@@ -1,8 +1,0 @@
-Title: koncert_i_aftenNatlig_minimalisme_pa_Rust
-Date: 2006-09-08
-Article Type: Musik
-Author: Morten Svendstorp
-
-Simon Lun Andersen
-I natten mellem fredag og lørdag finder en af sensommerens mange natkoncerter sted på Rust. Det er den engelske trio 'Fujiya & Miyagi', der slipper deres minimalistiske funky klubtoner løs, og med det navn kunne man godt foranlediges til at tro, at der her er tale om et engelsk projekt med japanske rødder, men der er faktisk tale om tre blege engelske drenge fra Brighton, der har set ’Karate Kid’.
-Som forsanger David Best ærligt synger på sangen ’Photocopier’: »We were just pretending to be japanese«. Men deres leg med navn og associationer har tilsyneladende været vellykket, for sammen med blandt andet bandet 'Hot Chip' er 'Fuija & Miyigi' en del af de nye engelske bands, der mikser indiepop med klubmusik.

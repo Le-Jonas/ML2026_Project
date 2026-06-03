@@ -1,9 +1,0 @@
-Title: Ekspert_om_Bramsens_it-udspil_Det_løser_stort_set
-Date: 2021-06-09
-Article Type: Tech
-Author: Det store problem for dansk cyberforsvar er, at det ligger under efterretningstjenesten. Det løser ikke noget, at det bliver suppleret af glade amatører i et digitalt hjemmeværn, der meget let kan anrette store skader, vurderer sikkerhedseksperten Peter Kruse.
-
-Jens Bostrup
-Journalist
-Regeringens udspil om styrket cybersikkerhed løser stort set intet og kan tværtimod gøre ondt meget værre.
-Så hård er meldingen fra Peter Kruse, en af Danmarks førende eksperter i it-sikkerhed og grundlægger af sikkerhedsfirmaet CSIS.

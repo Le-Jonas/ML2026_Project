@@ -1,6 +1,0 @@
-Title: Telia_abner_lynhurtigt_mobilt_internet
-Date: 2010-12-09
-Article Type: Digitalt
-Author: Som det første teleselskab i Danmark åbnede Telia torsdag sit telenet på den nye 4G-teknologi. Det betyder muligheden for særligt hurtige forbindelser via mobilt internet.
-
-Med en 4G-dims koblet til computeren kan man hente data ned med en hastighed på op til 80 megabit pr. sekund. Dermed kan et musikalbum på 10 numre hentes ned på et halvt minut.

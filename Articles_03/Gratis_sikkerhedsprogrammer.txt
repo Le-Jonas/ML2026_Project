@@ -1,7 +1,0 @@
-Title: Gratis_sikkerhedsprogrammer
-Date: 2007-03-28
-Article Type: Digitalt
-Author: Søren Dilling
-
-Noget af det vigtigste ved et antivirusprogram er, at det altid er opdateret.
-Vi har fundet to, der indeholder mulighed for løbende opdatering af virusdefinitionerne.

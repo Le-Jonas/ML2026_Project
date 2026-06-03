@@ -1,7 +1,0 @@
-Title: iPhone-brugere_sov_over_sig
-Date: 2010-11-01
-Article Type: Digitalt
-Author: Søren Dilling
-
-En fejl i iPhone gør, at alarmer, som blev indstillet før vi skiftede til normaltid, vækker for sent.
-Fejlen består i, at alarmer - typisk vækkeuret - indstillet før skiftet til normaltid, aktiveres en time for sent efter overgangen til såkaldt normaltid.

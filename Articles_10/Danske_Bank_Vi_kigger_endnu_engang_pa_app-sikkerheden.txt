@@ -1,6 +1,0 @@
-Title: Danske_Bank_Vi_kigger_endnu_engang_pa_app-sikkerheden
-Date: 2013-09-13
-Article Type: Digitalt
-Author: De danske brugere af Danske Banks app til netbank på mobilen benytter samme platform, som den det svenske datatilsyn er bekymret for, bekræfter bankens danske pressechef, Kenni Leth.
-
-»Man bruger sit cpr-nummer og en personlig kode for at logge ind. Det er en løsning, som rigtig mange andre banker også bruger. Først ved transaktioner og overførsler skal man bruge sit nem-id«, siger Kenni Leth til Ritzau.

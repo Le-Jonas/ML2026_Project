@@ -1,9 +1,0 @@
-Title: test_stil_spørgsmal_i_artikel-modul_
-Date: 2025-12-03
-Article Type: Politik
-Author: Kan vi stille spørgsmål fra liveblog inde i teksten kun?
-
-Laura Jonasdottir
-Journalist og digital tilrettelægger
-MUMLETEKST
-Laura tester spørgsmålsmodul fra Liveblog

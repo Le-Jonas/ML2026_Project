@@ -1,9 +1,0 @@
-Title: Mark_Zuckerberg_har_taget_konsekvensen_efter_»monsterets«_kollaps
-Date: 2025-06-29
-Article Type: Tech
-Author: Metas topchef er utilfreds med selskabets præstationer inden for kunstig intelligens og har sat gang i investeringerne. Ambitionen er at skabe en overmenneskelig intelligens.
-
-Mike Isaac og Cade Metz
-The New York Times
-I april stødte Mark Zuckerbergs ambitiøse planer for fremtidens kunstige intelligens ind i virkeligheden.
-Kun få uger forinden havde Metas 41-årige topchef pralet med, at selskabets nye AI-model, som skulle drive de nyeste chatbots og andre avancerede systemer, ville blive et »sandt monster«. Internt sagde Zuckerberg til sine ansatte, at han ville gøre konkurrenternes AI-systemer, for eksempel OpenAI, rangen stridig og gøre det muligt at drive funktioner som stemmestyrede chatbots, forlyder det fra personer, som har talt med ham.

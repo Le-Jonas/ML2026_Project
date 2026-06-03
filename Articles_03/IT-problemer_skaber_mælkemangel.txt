@@ -1,7 +1,0 @@
-Title: IT-problemer_skaber_mælkemangel
-Date: 2006-11-10
-Article Type: Økonomi
-Author: Matias Seidelin og Mona Samir Sørensen
-
-En server hos Arla Foods’ eksterne it-leverandør fungerer i øjeblikket ikke optimalt, og det betyder, at der kan være mangel på mælk og andre mejeriprodukter i butikkerne, skriver Arla Foods i et nyhedsbrev.
-Serveren håndterer den elektroniske varebestilling, som stort set hele den danske detailhandel bruger til at bestille den nøjagtige mængde mejeriprodukter til næste dags salg.

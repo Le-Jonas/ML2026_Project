@@ -1,9 +1,0 @@
-Title: Softwareingeniør_hacker_sig_adgang_til_flere_hundr
-Date: 2020-01-02
-Article Type: Tech
-Author: Søren Louv-Jansen kunne ved hjælp af et program på få minutter få adgang til hundredvis af kortholderes oplysninger i Københavns Zoo, for at demonstrere, hvor let det var. Københavns Zoo bekræfter hændelsen, og er ved at undersøge sagen.
-
-Jóhann Thór Haahr Hansen
-Journalist
-Hvis du er indehaver af et årskort til Københavns Zoo, er dine stamdata forbavsene nemme at få adgang til.
-Det opdagede softwareingeniøren Søren Louv-Jansen, da han selv skulle logge ind på sit årskort på København Zoos hjemmeside. Han kunne ikke huske sin kode, men kradsede lidt i overfladen og fandt ud af, at hans adgangskode var hans postnummer.

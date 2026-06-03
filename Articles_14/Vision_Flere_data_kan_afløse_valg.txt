@@ -1,9 +1,0 @@
-Title: Vision_Flere_data_kan_afløse_valg
-Date: 2019-02-08
-Article Type: Tech
-Author: Allerede om få år vil maskinerne kunne give et præcist billede af den enkeltes ønsker og interesser i politiske spørgsmål, og de kan forsvare vores holdninger i realtid.
-
-Jens Bostrup
-Journalist
-Kunstig intelligens og big data kan forbedre og forstærke demokratiet – og det i en sådan grad, at valgkampe hvert fjerde år, der rundes af ved at kaste et kryds i valgurnen, til sidst bliver helt overflødigt.
-Man kan ganske enkelt bruge og kombinere alle data om, hvordan vi hver for sig lever, tænker og føler. Hvad vi går mest op i, og hvad der er mindre væsentligt for vores velfærd og lykke. På den måde kan beslutningstagerne danne sig et helt præcist billede af, hvordan politiske beslutninger kan indrettes sådan, at flest muligt får maksimal glæde af de politiske beslutninger.

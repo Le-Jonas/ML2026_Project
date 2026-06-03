@@ -1,9 +1,0 @@
-Title: Minister_is_phasing_out_Microsoft_in_the_Ministry_of_Digitalization
-Date: 2025-06-10
-Article Type: News
-Author: For the first time, sovereignty is becoming a priority in the joint digitalization strategy of the government, municipalities, and regions.
-
-Jens Bostrup
-Journalist
-Digitalization Minister Caroline Stage (Moderaterne) will begin phasing out Microsoft from her ministry starting next month. The plan is for about half of the employees to start using Libre Office instead of Office 365 over the summer. If all goes as expected, the entire ministry will be using the open source software by autumn.
-The minister shared this ahead of the launch of a new digitalization strategy for the next four years, where digital sovereignty is a priority for the first time. The strategy has been agreed upon between the state, regions, and municipalities.

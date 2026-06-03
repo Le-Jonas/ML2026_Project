@@ -1,6 +1,0 @@
-Title: TDC_abner_for_fantasillioner_af_netadresser
-Date: 2011-06-06
-Article Type: Økonomi
-Author: Verden er ved at løbe tør for adresser til de mange apparater, der skal kobles på internet. Men nu kan danske virksomheder få adgang til et utal af nye internet-adresser hos telekoncernen TDC.
-
-Fra onsdag er TDC nemlig klar til at lancere den nye ip-løsning med navnet IPv6. Det åbner for et astronomisk antal nye ip-adresser - faktisk så mange, at der ikke findes et dansk ord for det.

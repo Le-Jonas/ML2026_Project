@@ -1,7 +1,0 @@
-Title: Guide_Sadan_kan_du_fa_meget_mere_ud_af_Google_Maps
-Date: 2013-11-23
-Article Type: Digitalt
-Author: Morten Bay
-
-Vi har her kigget på det, de fleste bruger, nemlig den mobile version til Android og iPhone.
-De to versioner er næsten ens, selv om brugere på Googles eget Androidsystem er forkælet med ekstra funktioner, som vi gennemgår ved en anden lejlighed.

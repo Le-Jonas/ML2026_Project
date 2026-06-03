@@ -1,9 +1,0 @@
-Title: Ruslands_mest_aggressive_hackere_er_pludselig_fors
-Date: 2021-07-14
-Article Type: Internationalt
-Author: Hackergruppen REvil har kostet vestlige virksomheder mange millioner kroner. Det er uklart, hvorfor den pludselig er forsvundet.
-
-David E. Sanger
-The New York Times
-Det er få dage siden, at den amerikanske præsident, Joe Biden, krævede, at den russiske præsident, Vladimir Putin, skal sætte en stopper for russiske hackergrupper, der angriber amerikanske mål. Nu er en af de mest aggressive russiske grupper, der opererer ved at tage data som gidsel og kræve løsepenge, pludselig gået offline.
-Spørgsmålet er, hvem der har fået det til at ske.

@@ -1,6 +1,0 @@
-Title: ATS_Hackerangreb_far_Mærsk_til_at_bruge_brevduer
-Date: 2017-08-20
-Article Type: Bagsiden
-Author: Efter det omfattende hackerangreb tidligere på sommeren er Mærsk af sikkerhedsmæssige grunde begyndt at bruge gamle og gennemprøvede metoder i deres kommunikation.
-
-Dåsetelefoner bruges nu i den interne kommunikation.

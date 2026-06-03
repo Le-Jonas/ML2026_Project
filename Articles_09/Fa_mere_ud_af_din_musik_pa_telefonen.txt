@@ -1,8 +1,0 @@
-Title: Fa_mere_ud_af_din_musik_pa_telefonen
-Date: 2013-05-08
-Article Type: Digitalt
-Author: Morten Bay
-
-Rigtig mange har opdaget fordelene ved streamingtjenester som Spotify og Wimp. Men nogle gange er det også rart at have musikken liggende på sin smartphone, så man kan lytte til den på steder, hvor der ikke er mobildækning. Her er tre tips til, hvordan du gør musikoplevelsen på Android lidt sjovere.
-1. Normaliser musikken
-Hvis du selv har kørt din gamle cd-samling ind som mp3-filer på din computer, ligger sangene formodentlig i mange forskellige lydstyrker. Dette er især et problem på en smartphone, der i forvejen ikke nødvendigvis kan spille særlig højt og derfor kompenserer for lav lydstyrke. Programmet Mp3Gain, der kan hentes på http://mp3gain.sourceforge.net, analyserer hele din mp3-samling og giver sangene ensartet lydstyrke, uden at du mister dynamikken i musikken. Følg programmets instrukser. Når du er færdig, kan du overføre musikken til din Android-smartphone.

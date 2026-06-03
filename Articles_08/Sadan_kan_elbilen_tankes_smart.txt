@@ -1,6 +1,0 @@
-Title: Sadan_kan_elbilen_tankes_smart
-Date: 2011-09-21
-Article Type: Biler
-Author: Et forsøg med elbiler på Bornholm viser, at det er muligt at oplade elbiler på en intelligent måde.
-
-Det vil sige, at der er vindkraft i elnettet, og strømmen er billig - og sådan, at elbilerne kan tankes op fra alle typer ladestandere, uanset hvem der har sat dem op.

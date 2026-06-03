@@ -1,7 +1,0 @@
-Title: 24-arig_varetægtsfængslet_i_Rust-sag
-Date: 2005-06-17
-Article Type: Danmark
-Author: En 24-årig mand er til aften blevet varetægtsfængslet i 26 dage i sagen om skudepisoden på spillestedet Rust i København den 28. maj, hvor dørmanden Ammar Hasan blev dræbt. 
-Af de 26 dage bestemte Københavns Byret, at de 12 dage skal foregå i isolation, skriver Ritzau. Manden er sigtet for drabsforsøg. 
-Den 24-årige skulle angiveligt have deltaget i angrebet på den dørmand, der affyrede de dræbende skud ved Rust.
-

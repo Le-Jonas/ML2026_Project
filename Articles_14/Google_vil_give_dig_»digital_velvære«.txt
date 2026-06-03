@@ -1,7 +1,0 @@
-Title: Google_vil_give_dig_»digital_velvære«
-Date: 2018-05-10
-Article Type: Digitalt
-Author: Morten Bay
-
-Oven på den seneste tids kritik af de store tech-firmaer, der især er gået ud over Facebook oven på Cambridge Analytica-skandalen, er Silicon Valley nu på charmeoffensiv overfor brugerne. Ligesom Mark Zuckerberg gjorde det, da han blev forhørt i den amerikanske kongres, taler Google nu åbent om det ansvar, som de har overfor brugerne. For Google handler det især om det, de kalder »Digital Well-being« - digital velvære.
-Konceptet blev annonceret på Googles udviklerkonference, I/O, tæt på hovedkvarteret i Mountain View i Californien. Det var topdirektøren Sundar Pichai selv, der startede med at bringe konceptet på banen i forbindelse med præsenationen af en af hoveddelene af projektet: Pauser.

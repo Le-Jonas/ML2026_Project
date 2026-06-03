@@ -1,7 +1,0 @@
-Title: Nu_kan_du_give_vennerne_fingeren_via_SMS
-Date: 2014-06-18
-Article Type: Digitalt
-Author: Morten Bay
-
-Du har formentlig ikke ret meget om Unicode Consortium, men de spiller en vigtig rolle i dit liv.
-Det er nemlig dem, der varetager Unicode-standarden, som er det standard-sæt af bogstaver og symboler, der går på tværs af computere, smartphones og tablets. Det er også dem, der får emoji’er skrevet på én type smartphone til at dukke op på en anden type. Og nu har de lanceret 250 nye emoji’er.

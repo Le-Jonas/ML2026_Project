@@ -1,8 +1,0 @@
-Title: Hvad_har_Smukfest-deltagere,_Brøndby-fans_og_en_st
-Date: 2020-01-12
-Article Type: Bøger
-Author: De kan være med til at forhindre vold på stadion, gøre Smukfest bedre og sågar identificere Alzheimers. Men de kan også være fyldt med fejl og fordomme. I de senere år er fortællingen om algoritmernes herligheder blevet udfordret. Det skriver de to brødre og tech-iagttagere Johan og Adam Moe Fejerskov i en ny bog. Den ene er journalist, den anden er forsker. Vi bringer her et forkortet kapitel fra bogen, der ifølge brødrene især er et resultat af deres »mange diskussioner med hinanden«.
-
-Johan Moe Fejerskov og Adam Moe Fejerskov
-Joy Buolamwini var som studerende på Georgia Tech i USA blevet sat til at arbejde med en social robot. Sådan én, der ved hjælp af avanceret software kan føre en relativt ukompliceret samtale med et menneske. Måske snakke lidt om vejret, sige, at det er dejligt, at solen skinner, eller ligefrem fortælle en vittighed, som robotten selv finder ved en hurtig søgning på nettet. ​​​
-Men robotten ville ikke, som Joy Buolamwini ønskede det. Det var, som om teknologien stødte den unge datalogistuderende fra sig. For robotten var Joy Buolamwini ikke et menneske. Problemet viste sig at være hendes hudfarve. Boulamwini er sort. Og den robot, som den ghanesiske amerikaner forsøgte at gøre brug af, var ikke i stand til at genkende sorte kvinder og kunne derfor ikke kommunikere med hende.

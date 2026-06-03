@@ -1,6 +1,0 @@
-Title: Kommunernes_it-sammenlægning_er_kommet_i_mal
-Date: 2007-01-02
-Article Type: Danmark
-Author: Danmarkshistoriens største it-projekt - konverteringen af Kommunedata (KMD) og de 65 nye storkommuners centrale it-systemer, der startede 22. december - er gennemført.
-
-Det betyder, at kommunerne som planlagt kan tage it-systemerne i brug tirsdag. Under konverteringen af de kommunale it-systemer blev der fundet en række mindre fejl. Hovedparten er dog allerede rettet, og de resterende 26 rettes i løbet af januar.

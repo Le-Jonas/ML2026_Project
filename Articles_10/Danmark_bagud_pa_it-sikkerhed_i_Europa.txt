@@ -1,8 +1,0 @@
-Title: Danmark_bagud_pa_it-sikkerhed_i_Europa
-Date: 2013-12-22
-Article Type: Danmark
-Author: Jakob Sorgenfri Kjær
-
-Journalist
-I modsætning til Sverige, Tyskland, Norge, USA og en række andre lande, vi ellers sammenligner os med, har Danmark ikke en national strategi for cybersikkerhed.
-Det er bredt anerkendt, at en væsentlig byggesten i et lands cyberforsvar er en national strategi, der nøje fortæller, hvordan myndigheder og private aktører skal koordinere deres indsats for at forebygge og forsvare sig mod it-kriminalitet, cyberangreb og spionage.

@@ -1,8 +1,0 @@
-Title: Sikkerhedsekspert_Hackere_bliver_bedre_til_at_lokke_penge_ud_af_folk
-Date: 2013-06-17
-Article Type: Digitalt
-Author: Asem Elghiouane
-
-Journalist
-Projektlederen fra Grundtvigs Højskole, Søren Lerche, blev det uheldige offer for hackere i sidste uge.
-Han fik stjålet sin identitet via sin Gmail, og blev derefter den ufrivillige afsender af en falsk googleoversat mail med titlen »akut hjælp«, der bad hans netværk om 1.350 britiske pund (cirka 12.675 kroner).

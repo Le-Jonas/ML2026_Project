@@ -1,8 +1,0 @@
-Title: Opgavekontrol_giver_ikke_bedre_opgaver
-Date: 2010-10-20
-Article Type: Debat
-Author: Ida Klitgård
-
-For nylig kunne vi læse (Politiken 23.9.), hvordan DTU har opdaget langt flere snydere til skriftlig eksamen ved at køre de studerendes elektroniske opgaver gennem opgavekontrolsystemet ’Urkund’ end ved blot at lade eksaminators og censors øjne køre ned gennem dokumentet.
-DTU snupper snydere med IT-opgavekontrol
-Da internettet er blevet en uvurderlig ressource for de studerende, er det uimodståelig nemt at kopiere tekstbidder og hele dokumenter fra nettet over i en opgave og udgive det for at være ens eget værk.

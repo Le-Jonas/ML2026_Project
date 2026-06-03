@@ -1,8 +1,0 @@
-Title: Tre_apps_Fa_dit_kontor_med_i_lommen
-Date: 2013-03-16
-Article Type: Digitalt
-Author: Rasmus Hørmand-Pallesen
-
-Skan dokumenter til pdf, skriv eller tegn efterfølgende noter direkte på pdf’en, og send resultatet via mail. Du kan også udskrive digitale billetter direkte til din smartphone.
-1. Lommeskanner
-Med appen TurboScan kan du bruge kameraet i din smartphone til skanner. Efterfølgende er det muligt at beskære, vælge sort-hvid eller farve og gemme i forskellige formater som pdf og jpeg. Skanninger kan også sendes videre via e-mail.

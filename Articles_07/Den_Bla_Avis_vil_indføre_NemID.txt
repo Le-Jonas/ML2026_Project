@@ -1,8 +1,0 @@
-Title: Den_Bla_Avis_vil_indføre_NemID
-Date: 2011-02-04
-Article Type: Digitalt
-Author: Cecilie Lund Kristiansen
-
-Uddannelsesredaktør
-Mere end en million danskere handler hver måned på Den Blå Avis på nettet.
-Her er man i fuld gang med at udvikle et nyt system, så alle brugere i fremtiden kan logge på og blive valideret gennem NemID. Det skal skabe mere sikkerhed for de mange brugere.

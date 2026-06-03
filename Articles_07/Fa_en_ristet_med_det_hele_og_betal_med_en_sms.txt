@@ -1,6 +1,0 @@
-Title: Fa_en_ristet_med_det_hele_og_betal_med_en_sms
-Date: 2011-03-22
-Article Type: Digitalt
-Author: Hos kødbyens Pølser på Flæsketorvet i København kan man nu betale for sin hotdog eller den ristede med svøb ved at sende en sms.
-
-Og når sms'en når til firmaet NFC Danmarks server, trækkes beløbet for pølsen automatisk på kundens mobiltelefonregning.

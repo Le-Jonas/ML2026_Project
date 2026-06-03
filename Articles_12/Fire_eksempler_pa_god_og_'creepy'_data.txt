@@ -1,8 +1,0 @@
-Title: Fire_eksempler_pa_god_og_'creepy'_data
-Date: 2016-09-05
-Article Type: Internationalt
-Author: Peter Sinnbeck
-
-Journalist
-Big Data som betegnelse dækker i sin enkelthed over de værktøjer og processer, der benyttes for at håndtere enorme datamængder.
-Og i udnyttelsen af rådata fra hele verden er der åbnet for uendelige måder, hvorpå forskere f.eks. kan samle millioner af Alzheimer-patienters data sammen og søge efter mønstre – i adfærd, genetiske strukturer, testresultater, og så videre og så videre.

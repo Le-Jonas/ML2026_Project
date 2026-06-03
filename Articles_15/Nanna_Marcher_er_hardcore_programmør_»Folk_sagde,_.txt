@@ -1,8 +1,0 @@
-Title: Nanna_Marcher_er_hardcore_programmør_»Folk_sagde,_
-Date: 2019-09-10
-Article Type: Uddannelse
-Author: Nanna Marcher læser softwareudvikling på IT-Universitetet i København, hvor kønsfordelingen er meget ulige. Hun er ligeglad med, at nogle ser det som et mandestudie.
-
-Lisa Seidelin
-Journalist
-En lang række tal, bogstaver og tegn former sig hen over skærmen i en for mange uforklarlig og kryptisk rækkefølge. Det er de koder, der bestemmer, hvilken farve baggrunden på en app har, og hvor man med tommelfingeren kan trykke for at nå ind til en ny side. For Nanna Marcher giver rækkerne af tal, bogstaver og tegn på skærmen perfekt mening. Men hardcore kodning er ikke nok. Nanna Marcher vil også bestemme, hvordan appen designes.

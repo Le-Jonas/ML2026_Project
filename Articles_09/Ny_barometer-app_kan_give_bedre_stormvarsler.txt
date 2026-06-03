@@ -1,7 +1,0 @@
-Title: Ny_barometer-app_kan_give_bedre_stormvarsler
-Date: 2013-02-15
-Article Type: Digitalt
-Author: Sabrina Uldbæk Skjødt
-
-Meteorologer og app-udviklere i USA er gået sammen om at udnytte de barometre, der i forvejen sidder i tusindvis af smartphones.
-Sammen vil de samle data ind, så de lokale vejrudsigter kan blive endnu mere præcise.

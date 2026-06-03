@@ -1,7 +1,0 @@
-Title: Billedfortælling_25_ars_musik_og_vildskab_pa_Rust
-Date: 2015-02-26
-Article Type: Byliv
-Author: Cecilie Lyngberg
-
-Græsrødder, hip hop-giganter, 1.000 liter gratis fadøl og kædedans fra Balkan.
-I anledning af natklub og spillestedet Rusts 25 års fødselsdag, har Politiken bedt Morten Varano, musiker og Rust-direktør, kigge spillestedets billedarkiver igennem og finde ti favoritter, der hver er med til at fortælle historien om Rust.

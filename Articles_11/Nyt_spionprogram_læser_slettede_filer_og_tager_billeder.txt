@@ -1,6 +1,0 @@
-Title: Nyt_spionprogram_læser_slettede_filer_og_tager_billeder
-Date: 2014-11-24
-Article Type: Digitalt
-Author: En avanceret og ondsindet software døbt Regin er siden 2008 blevet brugt til systematisk at udspionere og indsamle oplysninger hos en række internationale regeringer og virksomheder.
-
-Det oplyser antivirusvirksomheden Symantec, der står bag opdagelsen, i en pressemeddelelse.

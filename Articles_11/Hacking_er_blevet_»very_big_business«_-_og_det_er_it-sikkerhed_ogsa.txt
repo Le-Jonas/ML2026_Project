@@ -1,8 +1,0 @@
-Title: Hacking_er_blevet_»very_big_business«_-_og_det_er_it-sikkerhed_ogsa
-Date: 2015-06-11
-Article Type: Global økonomi
-Author: Mathias Petersen
-
-Journalist
-Da Googles sikkerhedschef for deres Chrome-browser, Justin Schuh, for nylig snakkede med det amerikanske onlinemedie Business Insider, var hans budskab klart: Cyberkriminalitet er blevet »very big business«, og hackerne er blevet bedre, fordi der efterhånden er store penge at hente i hackerangreb.
-Derfor har behovet for at beskytte sig heller aldrig været større, end det er lige nu. Og det kan især mærkes i cybersikkerhedsbranchen, som lever højt på skandaler om datalæk og cyber-bankrøverier. Her er it-sikkerhed lig med penge, og det er store penge, vel at mærke.

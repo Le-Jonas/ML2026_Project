@@ -1,7 +1,0 @@
-Title: Sadan_beskytter_du_dig_mod_appernes_indbyggede_spioner
-Date: 2013-12-22
-Article Type: Digitalt
-Author: Karim Pedersen
-
-Når du installerer en mobil-app på din smartphone, kan du risikere, at programmet henter personlige oplysninger som telefonnummer, kontakter og positionsdata og sender dem tilbage til producenten uden at fortælle dig om det.
-Det seneste eksempel er det populære program ’Brightest Flashlight Free’. Den gratis lommelygte-app til Android registrerer konstant, hvor mobilen befinder sig.

@@ -1,8 +1,0 @@
-Title: Lasse_Underbjerg_giver_din_robot_følelser
-Date: 2018-08-26
-Article Type: Tech
-Author: Jens Bostrup
-
-Journalist
-Vi snakker med vores mobil. Ikke bare i den, men også – og i stadig større del af vores tid – med den. I den anden ende sidder der en robot, der svarer på vores spørgsmål, bestiller varer og giver gode råd.
-I øjeblikket taler de fleste formentlig mest med Siri, Alexa eller Google Home, alt efter hvilken af de store techgiganter, der har designet vores personlige assistent. Men om tre-fire år vil det være helt anderledes almindeligt. De fleste større virksomheder og organisationer vil møde deres kunder med en robot, forventer Lasse Underbjerg.

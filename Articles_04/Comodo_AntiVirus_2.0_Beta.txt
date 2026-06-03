@@ -1,7 +1,0 @@
-Title: Comodo_AntiVirus_2.0_Beta
-Date: 2007-10-19
-Article Type: Bolig og haven
-Author: Søren Olsen
-
-Comodo AntiVirus er på nuværende tidspunkt en betaudgave og derfor kan der opstå ændringer i den endelige udgave.
-Desuden fungerer produktet kun på Windows XP, men måske bliver det Vista-egnet, når programmet kommer ud af betafasen.

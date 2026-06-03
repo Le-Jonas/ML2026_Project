@@ -1,8 +1,0 @@
-Title: 'Knæk_Læsekoden'_knækker_læsekoden
-Date: 2011-09-01
-Article Type: Spil
-Author: Thomas Vigild
-
-Steffen Moestrup
-En fornemmelse af bogstavernes lyde er noget af det mest centrale, når barnet skal lære at læse. Langt vigtigere end selve bogstavets navn. Derfor er applikationen Knæk Læsekoden et oplagt valg, hvis man har et barn, der netop er begyndt at fatte interesse for alfabetet og dets lyde.
-I Knæk Læsekoden kan der vælges mellem tre forskellige niveauer. Det meste enkle niveau består udelukkende at enkeltbogstaver. Niveau to består af korte stavelser, mens niveau tre består af hele ord. I alle tre niveuaer fungerer applikationen således, at en mandestemme siger et bogstav, en stavelse eller et ord højt, hvorpå brugeren skal finde det sagte på skærmen.

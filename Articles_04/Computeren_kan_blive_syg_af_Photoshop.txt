@@ -1,6 +1,0 @@
-Title: Computeren_kan_blive_syg_af_Photoshop
-Date: 2007-07-11
-Article Type: Digitalt
-Author: Alle brugere af Photoshop CS2 eller CS3 bør fluks lukke et sikkerhedshul i programmet.
-
-Softwarefirmaet Adobe, som ejer Photoshop, har i dag frigivet en rettelse, som forbrugerne bør installere med det samme. Rettelsen vil lukke en fejl, der giver uvedkommende adgang til at skjule kode i BMP, DIB, RLE eller PNG filer, der så bliver afviklet automatisk, når billedet åbnes i Photoshop.

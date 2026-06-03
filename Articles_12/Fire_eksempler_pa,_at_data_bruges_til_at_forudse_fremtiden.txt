@@ -1,8 +1,0 @@
-Title: Fire_eksempler_pa,_at_data_bruges_til_at_forudse_fremtiden
-Date: 2015-09-17
-Article Type: Global økonomi
-Author: Michael Jarlner
-
-International kommentator
-Finanssektoren er blandt de ivrigste tilhængere af såkaldte predictive analytics.
-Der er store muligheder, hvis man ved hjælp af forbrugsmønstre kan forudsige livsbegivenheder i god tid og rådgive og håndtere kunderne derefter. Kan man for eksempel forudsige sandsynligheden for en tvangsauktion? IBM er et af de selskaber, der har reklameret med denne type modeller.

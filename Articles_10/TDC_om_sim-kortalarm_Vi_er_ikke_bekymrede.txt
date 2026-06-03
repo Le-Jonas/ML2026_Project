@@ -1,7 +1,0 @@
-Title: TDC_om_sim-kortalarm_Vi_er_ikke_bekymrede
-Date: 2013-07-23
-Article Type: Digitalt
-Author: Søren Dilling
-
-En tysk sikkerhedsekspert har netop afsløret, at simkortet i 750 millioner mobiltelefoner verden over er så sårbare, at det vil tage en hacker blot to minutter at overtage kontrollen med den mobiltelefon, simkortet sidder i.
-Men den type simkort er der sandsynligvis meget få tilbage af i Danmark, for der kommer hele tiden opdateringer af teknikken, og der lægges nye sikkerhedsstandarder ind på alle nye simkort.

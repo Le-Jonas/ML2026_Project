@@ -1,8 +1,0 @@
-Title: Center_for_Cybersikkerhed_Der_er_sket_»kompromittering_af_loginoplysninger«_i_angreb_mod_danske_universiteter
-Date: 2018-03-23
-Article Type: Danmark
-Author: Simone Scheuer-Hansen
-
-Journalist
-Flere mailkonti tilhørende nuværende eller tidligere ansatte på danske universiteter har været kompromitteret af en statslig aktør. Det vurderer Forsvarets Efterretningstjenestes Center for Cybersikkerhed (CFCS).
-»Det er vigtigt at sige, at der ikke er tale om hacking, men en kompromittering af nogle loginoplysninger. Vi har ikke viden om, at personlige oplysninger udover loginoplysninger er blevet kompromitteret. Men vi ved, at nogen har fået uretmæssig adgang til systemer, de ikke skal have adgang til«, siger chef for Center for Cybersikkerhed, Thomas Lund Sørensen.

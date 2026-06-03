@@ -1,6 +1,0 @@
-Title: Hackere_rammer_Apple-apps_med_virus
-Date: 2015-09-21
-Article Type: Digitalt
-Author: Flere apps hos Apple er blevet inficeret med virus.
-
-Det er sket, efter at hackere har fået udviklerne af lovlig software til at bruge en forfalsket version af Apples software, Xcode, til at skabe iOS og Mac-apps. Softwaren går under navnet XcodeGhost.

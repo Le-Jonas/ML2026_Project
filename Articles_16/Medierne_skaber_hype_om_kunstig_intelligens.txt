@@ -1,8 +1,0 @@
-Title: Medierne_skaber_hype_om_kunstig_intelligens
-Date: 2022-08-11
-Article Type: Medier
-Author: Google-ingeniørens oplevelse af LaMDA viser, at det er nødvendigt altid at sikre, at mennesket aldrig kommer i tvivl om, hvorvidt vi taler med et menneske eller en maskine ved at kræve, at alle maskiner klart og tydeligt deklareres som det, de er: en maskine.
-
-Pernille Tranberg
-Der er for megen fascination og for lidt kritik og fokus på løsninger, når publicistiske medier dækker ny teknologi.
-I juni bragte Washington Post en historie om en Google-ingeniør, Blake Lemoine, der så og hørte syner. Han mente, at det kunstigt intelligente system (LaMDA), han arbejdede med i big tech-virksomheden, var sansende og opførte sig som en syvårig. Historien gik verden rundt gennem publicistiske medier, som spekulerede i, om han havde ret. I lørdags var det så Politikens tur til at give denne ene mand og hans vanvittige påstande masser af omtale. For hvad nu hvis.

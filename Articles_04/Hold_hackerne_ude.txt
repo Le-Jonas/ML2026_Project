@@ -1,9 +1,0 @@
-Title: Hold_hackerne_ude
-Date: 2008-02-06
-Article Type: Digitalt
-Author: Det er et program, der sørger for at blokere uvedkommende programmers afsendelse af data ind eller ud af computeren og dermed gør det sværere for hackere eller programmer som ’trojanske heste’ at få kontrol over pc’en. 
-Selv om de nyere udgaver af Windows har indbygget firewall, er det alligevel en god idé at installere en egentlig version i stedet.
-
-Ikke blot fordi man herved er betydeligt bedre beskyttet mod sikkerhedstrusler, men også fordi en regulær selvstændig firewall er lettere at betjene og forstå end Windows’ egen. 
-En god mulighed er den letanvendelige og effektive ZoneAlarm FireWall til Windows XP og 2000, der ofte høster ros i både danske og udenlandske tests.
-Hvad gør ZoneAlarm FireWall godt?

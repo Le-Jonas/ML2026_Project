@@ -1,8 +1,0 @@
-Title: Vi_skal_lære_at_navigere_i_den_digitale_virkelighed
-Date: 2014-10-19
-Article Type: Leder
-Author: Dette er en leder. Lederen er udtryk for Politikens holdning og skrives på skift af medlemmerne af avisens lederkollegium.
-
-Beskrivelsen af programmet Deep-Face, som er udviklet af Facebook, var sidste uge en øjenåbner for privatlivets stadig snævrere grænser.
-Programmet er en ekstremt avanceret ansigtsgenkendelse, der betyder, at ens ansigt kan spores i hidtil uset grad.
-Dette er en leder. Lederen er udtryk for Politikens holdning og skrives på skift af medlemmerne af avisens lederkollegium.

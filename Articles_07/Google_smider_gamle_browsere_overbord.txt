@@ -1,7 +1,0 @@
-Title: Google_smider_gamle_browsere_overbord
-Date: 2011-06-03
-Article Type: Digitalt
-Author: Søren Dilling
-
-Firmaet bag verdens største søgemaskine på nettet, Google, vil stoppe med at understøtte ældre versioner af bowsere som Internet Explorer 6 og 7, Safari 3, Firefox 3.5 og tidligere versioner.
-Det betyder i praksis, at man på længere sigt ikke længere vil kunne bruge Googles tjenester Gmail, Google Calendar, Talk, Docs og Sites fuldt ud, eller de vil helt ophøre med at virke.

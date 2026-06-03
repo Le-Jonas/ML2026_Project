@@ -1,8 +1,0 @@
-Title: Apples_betalingstjeneste_er_slet_ikke_sa_sikker
-Date: 2015-03-04
-Article Type: Digitalt
-Author: Morten Bay
-
-Da Apple lancerede Apple Pay sammen med de nye iPhone 6-modeller, var mange temmelig begejstrede. Og effekten har da også været til at føle på: Samsung har nu fulgt op med deres egen betalingsløsning, og Google har genoplivet deres. Især sikkerheds-aspektet gjorde Apple Pay interessant for mange. Men måske er tjenesten slet ikke så sikker, når det kommer til stykket.
-Du kan registrere andres kreditkort
-Apple Pay er nemlig ikke sikret mod tyveri af det svageste led i sikkerhedskæden – din identitet. Systemet kan som teknologi sikre selve betalingen, men finder svindlere først ud af at snyde telefonen til at tro, at det er et svindeloffer, der sætter betalingen i gang, er der ikke så meget at gøre. Og det er tilsyneladende en svindelmetode, der er ved at brede sig.

@@ -1,8 +1,0 @@
-Title: Google_indrømmer_mærkværdige_fejl_i_sin_stavekontr
-Date: 2012-03-20
-Article Type: Digitalt
-Author: Milla Mølgaard
-
-Debatredaktør
-Gogle Docs har enn stavekontol ful af fjejl.
-Et faktum, der betyder, at fejlfinderen i Googles populære online tekstprogram sandsynligvis ikke vil kunne indentificere tryk- og stavefejlene i starten af denne artikel.

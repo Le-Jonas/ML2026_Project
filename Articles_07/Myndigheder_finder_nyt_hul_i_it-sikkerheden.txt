@@ -1,7 +1,0 @@
-Title: Myndigheder_finder_nyt_hul_i_it-sikkerheden
-Date: 2010-09-15
-Article Type: Digitalt
-Author: Søren Dilling
-
-IT-medarbejdere hos offentlige myndigheder og private leverandører blev tirsdag aften sat i arbejde, da Økonomistyrelsen sendte en mail rundt med et klart budskab:
-Gå systemerne igennem og meld tilbage inden torsdag klokken 12 om eventuelle sikkerhedsfejl.

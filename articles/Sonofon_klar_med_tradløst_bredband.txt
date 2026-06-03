@@ -1,8 +1,0 @@
-Title: Sonofon_klar_med_tradløst_bredband
-Date: 2001-06-20
-Article Type: Økonomi
-Author: Teleselskabet Sonofon er klar til at lancere selskabets store satsning på et landsdækkende net til trådløs bredbåndsforbindelse baseret på den såkaldte FWA-teknologi. Sonofon vandt i december sidste år to FWA-licenser. Når selskabet nu tager FWA-nettet i brug, gør man sig samtidig totalt uafhængig af TDC (Tele Danmark) i kampen om kunderne. 
-Sonofons to licenser retter sig til forskellige dele af telemarkedet. Den ene licens er velegnet til at nå ud til tyndt bebyggede områder i Danmark og kan også bruges af både hjemmearbejdspladser og mindre virksomheder, der ønsker en højhastighedsforbindelse. 
-Den anden licens retter sig mere mod store virksomheder i større byer. 
-I forhold til for eksempel ADSL-forbindelser satser Sonofon på, at man hurtigt kan være ude med et landsdækkende net og dermed tilbyde bredbånd i områder af landet, hvor ADSL endnu ikke er klar.
-

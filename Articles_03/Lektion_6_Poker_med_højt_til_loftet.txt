@@ -1,8 +1,0 @@
-Title: Lektion_6_Poker_med_højt_til_loftet
-Date: 2006-06-14
-Article Type: Poker
-Author: Nikolaj Lauta
-
-Projektleder / Journalist
-Da Poker er et spil, hvor man byder penge (jetoner) på sine kort, kommer vi ikke udenom at berøre den pekuniære side af sagen. Limits betyder loft/grænse og der er regler for, hvor meget det er tilladt at byde.
-Der er fire forskellige typer limits: No limit: Betyder præcis det, der står: Ingen grænser på indsatsen! I praksis spilles der med, at man maksimalt kan byde det, man har på bordet (kaldet tablestakes).

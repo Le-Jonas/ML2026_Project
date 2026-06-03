@@ -1,7 +1,0 @@
-Title: Google_læser_din_personlige_mail
-Date: 2013-10-12
-Article Type: Digitalt
-Author: Maj Susanne Junker
-
-Det er ikke et tilfælde, at du på nettet ser masser af tilbud om en rejse til USA, efter du har mailet med din familie om jeres ferieplaner.
-Noget lignende oplever de 425 millioner andre aktive brugere af Googles gratis e-mail-tjeneste Gmail, og det skyldes blandt andet, at Google automatisk skanner dine private mail for visse ord for at se, hvad du interesserer dig for, så de kan målrette reklamer til dig – og tjene penge.

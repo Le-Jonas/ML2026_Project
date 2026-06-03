@@ -1,8 +1,0 @@
-Title: Adgang_til_vores_data_kan_fundamentalt_ændre_forsi
-Date: 2018-11-17
-Article Type: Tech
-Author: Jens Bostrup
-
-Journalist
-Tryg tilbyder en billigere bilforsikring til unge under 30, hvis de installerer en boks i bilen, der under hver eneste køretur registrerer hastighed, udsving i acceleration, trykket på speederen og meget mere. Jo pænere de unge kører, des mere rabat på forsikringen.
-Men det er kun et af de første, spæde skridt, lød det torsdag fra årsmødet i brancheforeningen Forsikring & Pension, der satte branchens dataetik til debat.

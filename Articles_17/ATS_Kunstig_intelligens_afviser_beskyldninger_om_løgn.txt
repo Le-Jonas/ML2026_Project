@@ -1,8 +1,0 @@
-Title: ATS_Kunstig_intelligens_afviser_beskyldninger_om_løgn
-Date: 2023-03-06
-Article Type: ATS
-Author: ATS er Politikens daglige satirespalte.
-
-ChatGPT, du er blevet beskyldt for at lyve og opdigte oplysninger, når man spørger dig om noget. Hvad har du at sige til dit forsvar?
-»Jeg er en meget avanceret kunstig intelligens sprogmodel udviklet af OpenAI. Jeg er trænet på et enormt tekstkorpus og kan generere menneskelignende tekstresponser til spørgsmål om et bredt spektrum af emner«.
-ATS er Politikens daglige satirespalte.

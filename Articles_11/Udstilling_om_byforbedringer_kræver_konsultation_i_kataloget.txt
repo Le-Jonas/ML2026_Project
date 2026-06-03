@@ -1,8 +1,0 @@
-Title: Udstilling_om_byforbedringer_kræver_konsultation_i_kataloget
-Date: 2014-10-11
-Article Type: Arkitektur
-Author: Karsten R.S. Ifversen
-
-Arkitekturredaktør på Politiken
-Hvorfor samler vejstriberne ikke lys op om dagen, og afgiver det om natten? Hvorfor er der lys på motorvejen, når ingen biler kører?
-Tænk, hvis biler automatisk tændte for vejbelysningen foran sig og slukkede den bag sig, mens de kom kørende. Og tænk, hvis der var lagt frosttegn på asfalten med en temperaturfølsom maling, så de dukkede frem, når temperaturen nærmede sig nulpunktet.

@@ -1,8 +1,0 @@
-Title: Send_adressen_ind_i_dit_gps-anlæg_med_et_par_tasteklik
-Date: 2013-11-16
-Article Type: Biler
-Author: Allan Graubæk
-
-Journalist
-Indtastning af adresser i bilens navigationsanlæg kan være lidt af en plage. Enten skal man benytte sig af en lidt sløvt reagerende trykskærm eller bruge nogle akavet placerede taster.
-Måske drømmer man om at kunne sende adresserne derfra direkte fra sin computer og ind i bilens gps-anlæg.

@@ -1,8 +1,0 @@
-Title: Otte_danske_gadgetopfindelser
-Date: 2011-05-13
-Article Type: Digitalt
-Author: Emilie Taulø-Jacobsen
-
-Livredder
-Træthed bag rattet er skyld i 20 procent af alle trafikulykker, og den statistik ønsker folkene bag den danske opfindelse Anti Sleep Pilot at lave om på.
-Anti Sleep Pilot, der er udviklet i samarbejde med søvnforskere, ingeniører og interaktionsdesignere, sørger for at vurdere førerens træthed under kørslen gennem en personlig risikoprofil, træthedsstatus på dagen samt løbende kørselsdata og opfordrer til pauser, når træthedsniveauet nærmer sig et kritisk punkt.

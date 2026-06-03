@@ -1,7 +1,0 @@
-Title: Hackere_far_frit_spil,_nar_computeren_husker_dine_adgangskoder
-Date: 2016-08-23
-Article Type: Digitalt
-Author: britt christensen
-
-Netbank, arbejdsmail, nyhedssites, forældreintra, fitnesscenter og Facebook. Og så lige den private mail, LinkedIn og forsikringsselskabet også. Det kan være svært at huske og holde styr på de mange forskellige brugernavne og adgangskoder, vi bruger, når vi klikker rundt på nettet. I undertegnedes browserhistorik er der aktuelt 28 tjenester, der kræver log in.
-For at gøre det så nemt som muligt, tilbyder alle browsere og et stadigt stigende antal hjemmesider i dag også at huske adgangskoden for dig.

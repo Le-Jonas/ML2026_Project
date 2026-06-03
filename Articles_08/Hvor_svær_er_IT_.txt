@@ -1,7 +1,0 @@
-Title: Hvor_svær_er_IT_
-Date: 2012-02-04
-Article Type: Læserbreve
-Author: Anne Grete Hansen
-
-Lidt historie: I "gamle dage" havde vi Datacentralen og Kommunedata, der klarede enorme statslige og kommunale opgaver. Privatiseringsønsket viste sig at være uheldigt der, hvor de blev "opslugt" af CSC, som mestendels har gjort sig uheldigt bemærket. Det startede forsigtigt under Nyrup, men fortsatte i den grad under Fogh. Der er blevet kastet mange gode penge efter dårlige. Journalsystemer, apotekerverdenen, tingbøger/skøder etc.etc. og nu senest - med samme CSC en totalt floppet løsning for Politiet. Staten er fanget i nettet, som aktionær, af CSC.
-Bornholms Politi kan uddrage nøjagtig den samme konklusion, som vi kan her på POL.dk. Bygger man løsninger op på forældet teknologi kan man spilde milliarder af skatteborgernes penge. POL er i den mere beskedne ende. For det er bare sådan, at hvis man IT-mæssigt befinder sig i 4. generation frem for i 6. genererer man endnu flere fejl ved at forsøge at lappeskrædderere.

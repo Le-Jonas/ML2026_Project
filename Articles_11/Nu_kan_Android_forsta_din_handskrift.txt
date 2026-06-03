@@ -1,7 +1,0 @@
-Title: Nu_kan_Android_forsta_din_handskrift
-Date: 2015-04-17
-Article Type: Digitalt
-Author: Morten Bay
-
-Håndskriftsgenkendelse har været en af de store udfordringer, som computerprogrammører og udviklere har forsøgt at løse i årtier. Helt tilbage i tresserne forsøgte man at få computere til at forstå menneskets håndskrift, og der er kun blevet gjort meget lidt fremskridt siden.
-Apple barsler med pennestyret og ekstrastor iPad

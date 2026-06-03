@@ -1,7 +1,0 @@
-Title: Tv-streaming_haler_ind_pa_traditionel_flow-tv
-Date: 2014-09-28
-Article Type: Digitalt
-Author: Karim Pedersen
-
-Streaming af tv-programmer over nettet har efterhånden næsten samme udbredelse som traditionelt tv, viser en ny medierapport fra Ericsson Consumerlab, der bygger på tal fra 23 lande, dog ikke Danmark.
-Tre ud af fire forbrugere ser streamet indhold flere gange om ugen, og det er omtrent på niveau med andelen, der ser almindelig programlagt tv mere end én gang hver uge.

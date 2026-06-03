@@ -1,7 +1,0 @@
-Title: Dance_Central
-Date: 2010-08-26
-Article Type: Digitalt
-Author: Thomas Vigild
-
-Skaberne Harmonix bag ‘Rock Band’-musikspillene skifter med dansespillet ‘Dance Central’ plastikguitar og trommesæt ud med spillerens egen krop.
-‘Dance Central’ fungerer nemlig kun til Microsofts Kinect-kamera, hvorved spillet konstant måler, om man danser korrekt i forhold til de viste dansetrin, der ruller over skærmen.

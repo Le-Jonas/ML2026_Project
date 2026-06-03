@@ -1,6 +1,0 @@
-Title: Guide_Sadan_undgar_du_hackerangreb
-Date: 2017-05-15
-Article Type: Digitalt
-Author: Fredag er engelske hospitaler og en lang række lande blevet ramt af et hackerangreb. Ved angrebene har hackerne låst filerne på computeren og krævet en løsesum for at åbne filerne.
-
-Den type angreb kaldes ransomware og kan også ramme privatpersoner.

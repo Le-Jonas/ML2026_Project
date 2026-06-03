@@ -1,8 +1,0 @@
-Title: Overblik_WikiLeaks_under_angreb
-Date: 2010-12-09
-Article Type: Internationalt
-Author: Line Prasz
-
-Journalist
-Søndag 28. november begyndte lækagestitet WikiLeaks at frigive de første af de 250.000 varslede indberetninger fra amerikanske ambassader verden over.
-Næsten øjeblikkeligt blev et hacker-angreb, DDOS (Destributed Denial of Service), iværksat, som forsøgte at tvinge WikiLeaks væk fra internettet.

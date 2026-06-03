@@ -1,9 +1,0 @@
-Title: Hjælp_til_nødstedte_bilister_pa_motorveje
-Date: 2004-07-01
-Article Type: Danmark
-Author: Bilister, der kører galt på motorvejen og ikke aner, hvor de er, har nu udsigt til hjælp. Alarmopkald fra mobiltelefonen til 112 kan nu stedbestemmes, og den mulighed skal udnyttes i fremtiden. 
-Alarmmyndighederne oplever dagligt problemer, fordi de ikke ved, hvor opkaldene stammer fra. Det kan betyde, at hjælpen bliver forsinket. 
-»Jeg vil i dag bede IT- og Telestyrelsen om hurtigst muligt at få iværksat et pilotforsøg, der øger sikkerheden for borgerne«, siger videnskabsminister Helge Sander (V) efter at have læst en rapport, der beskriver de nye muligheder. Belgien og Storbritannien bruger systemet
-Rapporten er udarbejdet af en arbejdsgruppe under IT- og Telestyrelsen, som har kigget på de teknologier og tekniske løsninger, der kan anvendes til stedbestemmelse af mobilopkald til 112. 
-I Belgien og Storbritannien kører man allerede med et lignende system, og i Danmark er stedbestemmelserne en realitet fra om et år.
-

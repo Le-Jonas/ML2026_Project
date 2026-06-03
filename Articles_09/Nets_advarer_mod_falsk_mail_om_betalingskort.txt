@@ -1,6 +1,0 @@
-Title: Nets_advarer_mod_falsk_mail_om_betalingskort
-Date: 2012-10-26
-Article Type: Digitalt
-Author: En større bølge af phishingmails skyller tilsyneladende ind over Danmark.
-
-Modtagerne får besked om, at de skal logge på et bestemt link for at bekræfte kort-oplysninger - ellers vil betalingskortet blive spærret inden for 24 timer på grund af flere mislykkede login-forsøg.

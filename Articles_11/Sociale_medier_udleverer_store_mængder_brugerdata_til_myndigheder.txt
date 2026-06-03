@@ -1,8 +1,0 @@
-Title: Sociale_medier_udleverer_store_mængder_brugerdata_til_myndigheder
-Date: 2014-10-16
-Article Type: Digitalt
-Author: Mie Louise Raatz
-
-Journalist
-Når politiet, kommunen eller NSA anmoder sociale medier som Facebook, LinkedIn og Twitter om oplysninger om dets brugere, udleveres de ofte.
-Som Politiken i dag har beskrevet, har netop Facebook for nylig udviklet en ansigtsgenkendelsesteknologi, der giver selv FBI baghjul og med hele 97,25 procents nøjagtighed kan genkende ansigt på deres brugeres billeder.

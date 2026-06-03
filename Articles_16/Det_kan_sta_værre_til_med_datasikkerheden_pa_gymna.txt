@@ -1,9 +1,0 @@
-Title: Det_kan_sta_værre_til_med_datasikkerheden_pa_gymna
-Date: 2022-07-23
-Article Type: Danmark
-Author: Datatilsynets forbud mod Chromebooks i Helsingørs skoler bør ifølge eksperter også give de danske gymnasier sved på panden. For der kan være tale om et større problem på ungdomsuddannelserne.
-
-Marie Juul Jørgensen
-Journalist
-Brugen af Googles værktøjer i folkeskolen har for nylig fået hård kritik. Datatilsynet har forbudt Helsingør Kommune at bruge programmet Workspace, da tilsynet mener, der er ikke styr på datasikkerheden.
-Nu peger en række eksperter på, at det kan stå endnu værre til på gymnasierne. Når danske gymnasieelever skal samarbejde eller aflevere opgaver, benytter de sig ofte af værktøjer, som de som privatpersoner har adgang til via deres egen Google-konto.

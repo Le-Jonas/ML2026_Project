@@ -1,7 +1,0 @@
-Title: Bankernes_NemID_er_pa_vej_op_igen
-Date: 2013-04-11
-Article Type: Digitalt
-Author: Søren Dilling
-
-I disse minutter er de fleste danske banker igen ved at få deres login via NemID til at fungere.
-Således kan man allerede logge ind med NemID hos Arbejdernes Landsbank og hos Sydbank, og hos Nets, der via sit datterselskab DanID står for driften af NemID er der også adgang til deres systemer via NemID.

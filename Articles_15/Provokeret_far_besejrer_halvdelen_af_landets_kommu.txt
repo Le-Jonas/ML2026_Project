@@ -1,9 +1,0 @@
-Title: Provokeret_far_besejrer_halvdelen_af_landets_kommu
-Date: 2020-12-27
-Article Type: Viden og tech
-Author: Googles Chromebook kan høste flere data om skoleelever, end EU-reglerne tillader. Men det er kommunerne, der bryder loven, lyder afgørelsen fra Datatilsynet.
-
-Jens Bostrup
-Journalist
-Næsten halvdelen af landets kommuner vil først i det nye år modtage en henvendelse fra Datatilsynet, der fastslår, at de har brudt lovgivningen om beskyttelse af elevernes data. De har alle brugt Googles bærbare computer Chromebook og undervisningsmoduler uden at sikre sig, at elevernes data er tilstrækkeligt beskyttet, oplyser datatilsynets sagsbehandler Allan Frank. Hvilke sanktioner, kommunerne får – det kan spænde fra kritik til bøder – vil han ikke oplyse, før kommunerne selv har fået henvendelsen.
-Problemet er, at de Chromebooks, kommunerne har indkøbt, ikke respekterer EU’s databeskyttelsesregler, når de benyttes med standardindstillingerne.

@@ -1,9 +1,0 @@
-Title: Historikere_tager_nu_utraditionelle_metoder_i_brug
-Date: 2022-02-18
-Article Type: Historie
-Author: Omkring en tredjedel af den middelalderlige europæiske litteratur om riddere og helte er gået tabt, vurderer et internationalt forskerhold. De har målt antallet af bevarede ridderfortællinger – blandt andet i Island – med en metode, der normalt er forbeholdt optællingen af dyre- og plantearter.
-
-Lotte Thorsen
-Journalist
-Hvis biologer vil have et overblik over, hvor mange dyre- og plantearter der findes i et givent område, kan de bruge den matematiske model Chao1 til at estimere det.
-Men nu viser det sig, at man også kan bruge modellen, der normalt bruges til at beregne biodiversitet, til at regne sig frem til, hvor mange ridder- og helteromaner fra middelalderen vi har mistet i eksempelvis Island.

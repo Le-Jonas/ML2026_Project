@@ -1,9 +1,0 @@
-Title: Nyt_studie_overrasker_Eksperiment_med_djævelsk_ap
-Date: 2022-09-28
-Article Type: Viden og tech
-Author: Vi accepterer i forbløffende høj grad at blive udspioneret via telefonen. Jo mere vi er oplyst, des mere accept. Graden af brugerkontrol spiller ingen rolle, viser ny forskning. Minister kalder det vildt interessant og vil bruge rapporten til at forberede politisk indgreb.
-
-Jens Bostrup
-Journalist
-Et nyt dansk og amerikansk forskningsprojekt gennemhuller forestillingen om, at man kan tøjle virksomhedernes datahøst om vores privatliv ved at kræve oplysning, samtykke og brugerkontrol.
-»Vores forskning viser, at ingen af delene virker i praksis«, siger Irina Shklovski, professor ved Datalogisk Institut på Københavns Universitet, der står bag undersøgelsen i samarbejde med amerikanske kolleger.

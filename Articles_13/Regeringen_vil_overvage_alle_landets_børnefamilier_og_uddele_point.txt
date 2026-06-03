@@ -1,8 +1,0 @@
-Title: Regeringen_vil_overvage_alle_landets_børnefamilier_og_uddele_point
-Date: 2018-03-02
-Article Type: Danmark
-Author: Jakob Sorgenfri Kjær
-
-Journalist
-Ledighed per år: 500 point. Udeblevet fra tandpleje per gang: 300 point. Udeblevet fra sundhedspleje per gang: 1.000 point. Psykisk lidelse: 3.000 point. Inspireret af en idé og frikommuneansøgning fra Gladsaxe Kommune vil regeringen som led i sin ghettoplan give kommuner ret til at samkøre data om forældre og deres børn fra en lang række registre.
-Målet er at opdage udsatte børn så tidligt som muligt. Midlet er at bruge kunstig intelligens til at lave en tæt digital profilering med point til alle familier med mindre børn i landets kommuner.

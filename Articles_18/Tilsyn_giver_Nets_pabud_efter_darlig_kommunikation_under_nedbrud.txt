@@ -1,7 +1,0 @@
-Title: Tilsyn_giver_Nets_pabud_efter_darlig_kommunikation_under_nedbrud
-Date: 2025-10-23
-Article Type: Danmark
-Author: It-nedbrud skabte problemer for Tivoli, Grøn Koncert og Storebæltsbroen. Nu har selskab fået påbud.
-
-Betalingsvirksomheden Nets kritiseres af Finanstilsynet for dårlig kommunikation under et it-nedbrud i juli, der skabte betalingsproblemer, oplyser tilsynet i en pressemeddelelse torsdag.
-Nedbruddet, der varede omkring tre timer, gjorde, at kortbetalinger blev afvist. Problemerne berørte forretninger og personer i Danmark, Norge og Sverige. Det fik blandt andet konsekvenser for Tivoli i København, festivalen Grøn Koncert og betalingsanlæggene ved Storebæltsbroen. I sidstnævntes tilfælde førte det til lange køer.

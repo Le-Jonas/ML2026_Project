@@ -1,7 +1,0 @@
-Title: Computer_efterligner_menneskets_hjerne
-Date: 2015-02-25
-Article Type: Viden og tech
-Author: Maj Bach Madsen
-
-Forskere har fodret en algoritme med store mængder af skærmbilleder fra arkadespil og lært den at spille 49 forskellige klassikere fra 1970’erne og 80’erne.
-Algoritmen opnåede 75 procent af et trænet menneskes resultater i mere end halvdelen af spillene. For nostalgikere er det sjovt at se computeren være hæderlig til ’Pong’, ’Space Invaders’ og ’Breakout’, men forskerne bag det lærenemme computerprogram har arbejdet med mere end vores pixelerede fortid.

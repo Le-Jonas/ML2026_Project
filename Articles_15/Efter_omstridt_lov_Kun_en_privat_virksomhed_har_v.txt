@@ -1,8 +1,0 @@
-Title: Efter_omstridt_lov_Kun_en_privat_virksomhed_har_v
-Date: 2020-11-30
-Article Type: Danmark
-Author: Forsvarets Efterretningstjeneste skal i 2023 overvåge 200 virksomheder, statslige og offentlige myndigheder som led i forsvaret mod cyberangreb. I dag er 76 tilsluttet netsensorsystemet, men lederen af projektet er fortrøstningsfuld.
-
-Jacob Svendsen
-Virksomheder og myndigheder med afgørende betydning for den samfundskritiske digitale sikkerhed står ikke i kø for at lade Forsvarets Efterretningstjeneste overvåge deres digitale infrastruktur.
-Blot en enkelt virksomhed med samfundskritisk betydning for Danmark er i løbet af i år blevet tilsluttet det avancerede sensornetværk, som Center for Cybersikkerhed (CfCS) under Forsvarets Efterretningstjeneste (FE) er ved at oprette.

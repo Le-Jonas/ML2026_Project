@@ -1,9 +1,0 @@
-Title: Et_af_historiens_største_data-tyverier_En_milliar
-Date: 2022-07-06
-Article Type: Viden og tech
-Author: Dybt private oplysninger stjålet. Hackeren hævder, at databasen omfatter en milliard kinesere.
-
-Jens Bostrup
-Journalist
-En hacker hævder at have stjålet personoplysninger fra en milliard kinesere. Hvis det viser sig at være sandt, er det blandt historiens største datatyverier.
-Og det er ikke ligegyldige data. De kommer fra en database hos politiet i Shanghai og omfatter navn, adresse, fødested, det nationale ID-nummer, telefonnummer og detaljerne om, hvad politiet har registreret på den enkelte, lige fra smårapserier til voldsanklager fra partneren. Antallet af sager løber op i flere milliarder, hævder den anonyme hacker.

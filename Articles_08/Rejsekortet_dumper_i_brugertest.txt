@@ -1,7 +1,0 @@
-Title: Rejsekortet_dumper_i_brugertest
-Date: 2011-12-21
-Article Type: Forbrug
-Author: Søren Dilling
-
-Det nye rejsekort, der er ved at blive indført til bus- og togrejser, ser ud til at forvirre brugerne på flere punkter. Det viser en test af systemets brugervenlighed, som er gennemført på Danmarks Tekniske Universitet.
-Ifølge Ingeniørens netavis Version 2 giver det nye system blandt andet problemer, fordi man både skal tjekke ind og ud på rejsen. Hidtil har rejsende kun skullet tænke på billetten, når de købte den.

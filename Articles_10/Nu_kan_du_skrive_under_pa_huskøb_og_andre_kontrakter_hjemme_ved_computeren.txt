@@ -1,7 +1,0 @@
-Title: Nu_kan_du_skrive_under_pa_huskøb_og_andre_kontrakter_hjemme_ved_computeren
-Date: 2013-10-30
-Article Type: Digitalt
-Author: Helle Sindal
-
-De fleste er vant til at bruge NemID til netbank og kontakt med offentlige instanser, men en ny tendens er, at mange andre af dagligdagens aftaler og dokumenter nu også kan klares med en digital signatur.
-Det gælder for eksempel forsikringsaftaler, lejekontrakter, ansættelseskontrakter og andre juridisk bindende aftaler, som du dermed slipper for at skanne, underskrive og sende med posten eller aflevere.

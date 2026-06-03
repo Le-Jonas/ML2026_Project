@@ -1,8 +1,0 @@
-Title: Flyapps_skruer_op_for_nørdfaktor_og_brugbarhed
-Date: 2015-12-14
-Article Type: Fly og lufthavne
-Author: Allan Graubæk
-
-Journalist
-Nu kan en app fra et flyselskab vise, om flyet, som du skal om bord på, overhovedet er på vej til lufthavnen. En anden app kan give adgang til det hurtige spor i sikkerhedskontrollen, hvis du synes, at køen til den almindelige kontrol er for lang.
-Det er lavprisselskaberne easyJet og Norwegian, der skruer op for indholdet i deres app. EasyJet har indgået en aftale med søgetjenesten flightradar24.com, der giver et billede af flytrafikken verden over. Norwegian har nu udvidet tilbuddene i deres app, som hidtil næsten har været ubrugelig. Denne bruges til at opbevare et boardingpas til den kommende flyvning, men det har ikke været muligt at f.eks. bestille billetter i den gamle app. Det kan man nu, og dermed er Norwegian på app-fronten kommet på niveau med fleste andre flyselskaber.

@@ -1,9 +1,0 @@
-Title: Astrid_Haug_skriver_Google_fyrer_sort_kvinde,_ford
-Date: 2020-12-24
-Article Type: Internationalt
-Author: Fra Facebook til Google og Amazon siger ansatte fra, når de bliver stødt på etikken. Det er en af techgiganternes største udfordringer p.t.
-
-Astrid Haug
-techkommentator
-Overskriften lyder som noget fra det amerikanske satiremagasin The Onion. Det var dem, der i november 2008 skrev: »Landets værste job gives til en sort mand« som en kommentar til, at Barack Obama var blevet præsident midt i finanskrisen.
-Overskriften her er dog god nok. I starten af december fyrede Google nemlig Timnit Gebru, en sort kvinde, der gennem sin research inden for dataetik har påvist, at kvinder og sorte klarer sig dårligere end mænd i Googles ansigtsgenkendelse. Det kan føre til diskrimination af kvinder og sorte.

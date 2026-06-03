@@ -1,7 +1,0 @@
-Title: Lav_din_e-mail-signatur_pa_telefonen,_præcis_som_du_vil_have_den
-Date: 2014-02-08
-Article Type: Digitalt
-Author: Morten Bay
-
-Det er ganske smart, at man med en signatur slipper for at skrive sit navn, hver gang man sender en e-mail.
-Men de fleste e-mail-apps kommer med en signatur, der allerede er sat ind. Og det kan betyde, at din mail slutter med at fortælle modtageren, hvilken telefon du sender fra, eller hvilken app du bruger.

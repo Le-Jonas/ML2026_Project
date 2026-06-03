@@ -1,7 +1,0 @@
-Title: Nordnet_er_oppe_at_køre_igen_efter_nedbrud
-Date: 2025-02-11
-Article Type: Danmark
-Author: De første meldinger om sikkerhedsproblemer på Nordnets hjemmeside og app kom klokken 11.10 tirsdag formiddag.
-
-Investeringsplatformen Nordnet er oppe at køre igen efter en sikkerhedsbrist, der førte til en nedlukning af platformens app og hjemmeside i flere timer.
-Det oplyser pressechef i Nordnet Danmark Jonas Meland til Ritzau.

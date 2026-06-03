@@ -1,9 +1,0 @@
-Title: »Ijn_bruner_katt«_Kunstig_intelligens_skal_redde_t
-Date: 2019-09-26
-Article Type: Kultur
-Author: Maskinoversættelse mellem rigsdansk og bornholmsk skal fremme interessen for dialekten, som er i fare for at uddø. Derfor sidder over 30 ældre bornholmere for tiden og indtaster gamle komedier og sangtekster, som skal bruges til at udvikle sprogteknologi og en digital ordbog for bornholmsk.
-
-Lotte Thorsen
-Journalist
-Snart er der ikke længere nogen, der ved, at ’en brun kjætta’ er en brun hunkat. Det er nemlig så få unge bornholmere, der taler bornholmsk, at dialekten er i fare for at uddø i løbet af nogle årtier. Derfor skal computere lære at forstå bornholmsk for at hjælpe med at sikre dialekten mod udryddelse.
-To forskere fra IT-Universitetet og Københavns Universitet har udviklet de første sprogteknologiske værktøjer, der så småt gør det muligt at oversætte fra bornholmsk til rigsdansk. Hvis bornholmsk skal have en chance for også at blive talt om 20 år, er det nemlig afgørende, at dialekten også findes i de teknologier, vi bruger til hverdag, mener forskerne.

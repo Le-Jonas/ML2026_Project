@@ -1,7 +1,0 @@
-Title: Økonomistyrelsen_tager_ansvar_for_sikkerhedsbrist
-Date: 2010-09-14
-Article Type: Digitalt
-Author: Søren Dilling
-
-Men det var det private firma, Assemble A/S, der sjuskede i forbindelse med de løsninger, firmaet havde lavet for flere kommuner og i det nemlog-in system, som Økonomistyrelsen har ansvaret for.
-Nemlog-in systemet sørger for, at når en bruger først er inde for at se eller redigere sine personlige oplysninger hos myndighederne ved hjælp af sin digitale signatur, så kan man fortsætte fra den ene offentlige myndighed til den anden inde bag sikkerhedsmuren, uden at man behøver logge ind flere gange.

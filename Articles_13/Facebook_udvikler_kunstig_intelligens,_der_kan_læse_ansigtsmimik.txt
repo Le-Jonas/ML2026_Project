@@ -1,8 +1,0 @@
-Title: Facebook_udvikler_kunstig_intelligens,_der_kan_læse_ansigtsmimik
-Date: 2017-10-01
-Article Type: Internationalt
-Author: Silja Thøgersen
-
-Journalist
-En af de mest inderligt menneskelige evner, man kan forestille sig, er evnen til at aflæse et andet menneskets ansigts små tegn på skiftende humør og følelser.
-Men Facebooks research afdeling AI Lab forsøger nu at minimere forskellen på mennesket og den kunstige intelligens' empatiske evner.

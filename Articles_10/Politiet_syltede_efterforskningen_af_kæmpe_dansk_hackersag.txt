@@ -1,6 +1,0 @@
-Title: Politiet_syltede_efterforskningen_af_kæmpe_dansk_hackersag
-Date: 2013-06-28
-Article Type: Danmark
-Author: Rigspolitiet blev allerede i midten af januar advaret af svensk politi om, at efterforskningen af en stor svensk hackersag trak tråde til Danmark.
-
-Men først i slutningen af februar fandt Rigspolitiets it-efterforskningssektion ressourcer til at gennemgå det svenske materiale, som afslørede, at hackere havde skaffet sig adgang til en række af politiets centrale registre og millioner af danskeres cpr-numre.

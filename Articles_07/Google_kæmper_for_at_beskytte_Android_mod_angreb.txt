@@ -1,6 +1,0 @@
-Title: Google_kæmper_for_at_beskytte_Android_mod_angreb
-Date: 2011-03-22
-Article Type: Digitalt
-Author: Søgegiganten Google måtte for nylig fjerne 58 skadelige apps fra Android Market, der var inficeret af virus.
-
-Samtidig fjerner firmaet ved opdateringer de skadelige applikationer fra tusindvis af mobiltelefoner med Androids styresystem.

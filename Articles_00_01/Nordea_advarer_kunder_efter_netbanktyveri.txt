@@ -1,9 +1,0 @@
-Title: Nordea_advarer_kunder_efter_netbanktyveri
-Date: 2004-06-21
-Article Type: Økonomi
-Author: Danmarkshistoriens første netbanktyveri har fået Nordea til at sende brev ud til 570.000 bankkunder med netbank. 
-Banken opfordrer kunderne til at installere en såkaldt firewall, der virker som et skjold, hvis nogen forsøger at hacke sig ind på deres private computer. »Som at låse døren«
-Informationschef Jens Bekke understreger dog, at der ikke er nogen grund til at være nervøs for at bruge netbank. 
-»Vi har sendt brevet ud for at berolige kunderne, og for at gøre opmærksom på, at det er en rigtig god idé at beskytte sin computer mod ubudne gæster. Præcis som når man låser sin dør, før man går ud«, siger Jens Bekke. 
-Nordea har lagt en vejledning ud på sin hjemmeside, der oplyser kunderne om, hvordan de kan installere de beskyttende programmer.
-

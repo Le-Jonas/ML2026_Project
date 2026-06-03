@@ -1,6 +1,0 @@
-Title: Hver_10._dansker_har_en_pivaben_pc
-Date: 2008-03-11
-Article Type: Digitalt
-Author: Hackere har det nemt i disse dage, hvis man skal tro resultaterne af den sårbarhedstest, som videnskabsminister Helge Sander (V) lancerede for tre uger siden, skriver Comon.dk.
-
-Ifølge en særkørsel af resultaterne fra testen, som Videnskabsministeriets it-sikkerhed har foretaget for ComOn, er hver 10. danske pc så åben over for angreb, at den udgør en alvorlig sikkerhedsrisiko.

@@ -1,7 +1,0 @@
-Title: Henrik_Føhns_Blockchain_er_næste_generations_internet
-Date: 2018-02-05
-Article Type: Viden og Tech analyser
-Author: Klumme, Henrik Føhns
-
-I denne uge kom regeringens strategi for digital vækst. Her kan man blandt læse, at der over tre år er sat 19 millioner kroner af til en blockchain-løsning for skibsregistrering og certifikater. Initiativet er kun sparsomt uddybet under overskriften ’Data som vækstdriver i erhvervslivet’, hvor der står:
-»Danmark bliver også det første land i verden til at anvende blockchain-teknologi til registrering af skibe. Det kan skabe grundlag for en effektiv udnyttelse af teknologien med store byrdelettelser for virksomheder på f.eks. registrering, faktura og blanketter«.

@@ -1,9 +1,0 @@
-Title: Forsvaret_tester_udstyr_mod_'friendly_fire'
-Date: 2007-11-26
-Article Type: Danmark
-Author: Charlotte Branner
-
-Journalist på Forbrug & Liv
-Jacob Svendsen
-Flere af de soldater, der i dag ligger ved fronten i Helmand har selv været med til at afprøve udstyr fra den svenske våben- og bilfabrikant SAAB, der kan forhindre misforståelser under kamp.
-Det svenske system går ud på, at hver enkelt soldat udstyres med en gps-sender i sin uniform. Senderen kan så via satellit registreres på en computer enten ude i felten ved delingsførerne eller på den nærmeste kommandopost. I princippet kan delingsføreren ved at se på en bærbar computer trådløst forbundet til gps-systemet se, hvor de enkelte soldater er.

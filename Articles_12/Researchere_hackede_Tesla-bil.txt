@@ -1,8 +1,0 @@
-Title: Researchere_hackede_Tesla-bil
-Date: 2015-08-07
-Article Type: Internationalt
-Author: Oliver Kløvedal Reich
-
-Journalist
-Sænke farten, låse dørene og slukke motoren.
-To sikkerhedsresearchere fortalte torsdag, at det var lykkedes dem at hacke sig adgang til en Tesla Model S' underholdningssystem. Via underholdningssystemet lykkedes det dem at fjernstyre bilen. Det skriver Financiel Times.

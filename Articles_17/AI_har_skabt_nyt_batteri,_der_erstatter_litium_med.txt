@@ -1,9 +1,0 @@
-Title: AI_har_skabt_nyt_batteri,_der_erstatter_litium_med
-Date: 2024-01-09
-Article Type: Viden og tech
-Author: Kunstig intelligens har leveret et lovende gennembrud for den grønne omstilling med et helt nyt materiale, der ikke findes i naturen. Men der er stykke vej endnu.
-
-Jens Bostrup
-Journalist
-Et amerikansk forskningslaboratorium har udviklet et helt nyt batterimateriale, der kan spare op til 70 procent litium sammenlignet med de nuværende. Det sjældne og efterhånden dyre metal bliver erstattet med et helt nyt materiale, der ikke findes naturligt. Men det består hovedsageligt af natrium, der let og billigt kan udvindes af havvand.
-Batteriet er fremstillet af Pacific Northwest National Laboratory (PNNL) i en prototype, der angiveligt virker. Det er udviklet med hjælp fra kunstig intelligens og en enorm computerkraft, som Microsoft har bidraget med.

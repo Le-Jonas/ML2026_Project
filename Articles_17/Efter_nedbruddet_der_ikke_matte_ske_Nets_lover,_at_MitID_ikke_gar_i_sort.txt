@@ -1,9 +1,0 @@
-Title: Efter_nedbruddet_der_ikke_matte_ske_Nets_lover,_at_MitID_ikke_gar_i_sort
-Date: 2022-11-23
-Article Type: Forbrug
-Author: Vores digitale adgangskort til det offentlige NemID gik i sort i fem dage. Nu viser rapport, at ejeren Nets ikke havde testet systemet godt nok. Men der er styr på NemID’s afløser - MitID, lover Nets.
-
-Jakob Aaberg Lauridsen
-Journalist
-Hundredtusinder af danskere mistede uden varsel adgangen til deres sundhedsjournaler og digitale brevkasser, da NemID pludselig brød sammen fem dage i juni.
-Det var en kombination af menneskelige fejl og systemfejl, der fik systemet til at gå ned, og samtidig havde den private ejer Nets i flere år undladt at teste den afgørende nødprocedure, der kunne have forhindret nedbruddet.

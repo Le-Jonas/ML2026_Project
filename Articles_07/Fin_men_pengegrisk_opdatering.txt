@@ -1,7 +1,0 @@
-Title: Fin_men_pengegrisk_opdatering
-Date: 2011-06-21
-Article Type: Bolig og haven
-Author: Hans Lauring
-
-Her er kernen i det originale gameplay bevaret, mens grafik og lyd har fået et selvfølgeligt løft.
-Samtidig er spillet udvidet med flere fjender, blinkende ikoner på skærmen, der giver øjeblikkelige bonusser, samt en strategidel mellem banerne, hvor man både kan opgradere sin Yar og vælge næste bane ud fra en vurdering af risiko versus mulig gevinst.

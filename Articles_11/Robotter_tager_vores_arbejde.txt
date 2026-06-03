@@ -1,7 +1,0 @@
-Title: Robotter_tager_vores_arbejde
-Date: 2014-09-10
-Article Type: Anders Emil Møller
-Author: Anders Emil Møller
-
-I løbet af en 5 minutter lang skriftlig korrespondance mellem et panel ved Royal Society i London og Eugene Goostman var en tredjedel af panelet overbevist om, at de chattede med en 13-årig dreng fra Ukraine. Men i virkeligheden er Eugene en computer med såkaldt kunstig intelligens. Og nu har den bestået den såkaldte Turing Test – en slags prøve på, om maskiner kan tænke.
-Det er sikkert, at maskiner, robotter og computere hele tiden vil kunne magte mere og mere af menneskets arbejde. Men om det skaber flere nye jobs, end det overflødiggør, er stadig en kilde til debat. Især spørgsmålet om, hvilke jobs og dermed hvilke kompetencer der kommer til at forsvinde og hvor hurtigt, har fået øget fokus.

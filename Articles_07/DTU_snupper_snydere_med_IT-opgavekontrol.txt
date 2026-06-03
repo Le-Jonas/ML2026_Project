@@ -1,7 +1,0 @@
-Title: DTU_snupper_snydere_med_IT-opgavekontrol
-Date: 2010-09-23
-Article Type: Danmark
-Author: Andreas Lindqvist
-
-Danmarks Tekniske Universitet (DTU) har på bare ni måneder fanget 17 opgavesnydere ved hjælp af avanceret IT.
-Snyderne er blevet fanget ved, at elektroniske udgaver af deres rapporter er blevet kørt igennem et IT-program, som sammenligner teksten med andre studerendes opgaver og indhold på internettet.

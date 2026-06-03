@@ -1,9 +1,0 @@
-Title: Vagthund_ser_med_alvor_pa_nye_telefejl
-Date: 2019-09-27
-Article Type: Danmark
-Author: Rigspolitiet har efter eget udsagn længe kendt til fejl i selskabernes data om telemaster. Men problemet er alvorligt, og der bør tages hånd om det, siger telesagens uafhængige kontrolgruppe.
-
-Jakob Sorgenfri Kjær
-Journalist
-Der er væsentlig forskel på, om en mast er fejlregistreret med 220 meter eller flere kilometer. Sådan lyder det fra den uafhængige kontrol- og styregruppe, som justitsminister Nick Hækkerup (S) har udpeget til at overvåge myndighedernes håndtering af teleskandalen.
-Rigspolitiet har opdaget fejl i sit it-system, som kunne få telemaster til at forrykke sig op til 220 meter i det materiale, som politi og anklagere har brugt. Men Politikens analyse af teleselskabernes egne registreringer viser markant større fejl og geografiske afvigelser. I de grelle tilfælde er der 24 til 109 kilometers forskel på en masts oplyste adresse og dens geografiske koordinat, og Politiken har fundet fejl i både de angivne adresser og koordinater.

@@ -1,7 +1,0 @@
-Title: Fremtidens_kodeord_kender_dig_pa_fingerspidserne
-Date: 2011-05-13
-Article Type: Digitalt
-Author: Christian Bartels
-
-Det er måske slut med at huske passwords til facebook, arbejdsmailen, regnskabsprogrammet og din løbeprofil på nettet.
-Forskere fra T-labs afdelingen på det tekniske universitet i Berlin har sammen med forskere fra Ben Gurion Universitet i Israel opfundet et program, der afkoder din måde at skrive passwords på.

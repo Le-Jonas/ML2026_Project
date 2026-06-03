@@ -1,9 +1,0 @@
-Title: Kort-lase_kan_hackes_for_en_halvtredser
-Date: 2007-08-07
-Article Type: Digitalt
-Author: Andreas Lindqvist
-
-Der bliver hacket på livet løs i denne uge i Las Vegas.
-Her afholdes nemlig hackerkonferencen Defcon, og et af tilløbsstykkerne var ifølge Ingeniørens hjemmeside, hackeren Zac Frankens demonstration af
-indbrudssystemet Gecko
-.

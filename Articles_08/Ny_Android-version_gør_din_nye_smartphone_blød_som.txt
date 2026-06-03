@@ -1,7 +1,0 @@
-Title: Ny_Android-version_gør_din_nye_smartphone_blød_som
-Date: 2012-06-28
-Article Type: Digitalt
-Author: Morten Bay
-
-Der er kun tale om en lille opgradering, hvis man kigger på versionsnummeret. Fra 4.0 til 4.1. Men i den lille ”.1” ligger der en større forskel end man skulle tro.
-Den nyeste version af Android, også kaldet Jelly Bean, har kun nok ændringer om bord til at kunne forsvare en decimal-opgradering. Men disse ændringer betyder til gengæld en hel masse for helt almindelige mennesker.

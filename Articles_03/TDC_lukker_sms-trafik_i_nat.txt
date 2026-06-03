@@ -1,7 +1,0 @@
-Title: TDC_lukker_sms-trafik_i_nat
-Date: 2006-09-05
-Article Type: Økonomi
-Author: Peder Bjerge og Kim Rathcke Jensen
-
-Kunder hos TDC og selskaber, der anvender selskabets net, vil ikke kunde sende sms- og mms-beskeder i nat.
-TDC lukker ned for sms-beskederne i forbindelse med renovering af strømforsyningen til selskabets sms-central i Albertslund.

@@ -1,7 +1,0 @@
-Title: Test_Dyre_smartphones_har_darlige_antenner
-Date: 2012-04-27
-Article Type: Digitalt
-Author: Jesper Hvass
-
-Smartphones kan en masse ting, og salget eksploderer, men test fra telebranchen viser nu, at de oftere taber forbindelsen end almindelige mobiltelefoner.
-En intern test fra et dansk teleselskab viser, at for eksempel en Nokia 2323 Classic holder kontakt til mobilnettet i 853 minutter, før den oplever udfald, mens Apples populære smartphone iPhone 4S til sammenligning oplever udfald efter 392 minutter. Det skriver Børsen.

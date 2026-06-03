@@ -1,8 +1,0 @@
-Title: Kædereaktion_af_mindre_fejl_skyld_i_strømsvigtet
-Date: 2003-09-24
-Article Type: Internationalt
-Author: Det var sandsynligvis en kædereaktion af helt almindelige fejl på atomkraftværkerne Oskarshamn og Ringhals, der i går var skyld i det omfattende strømsvigt i Sydsverige og Østdanmark. 'Ordinær fejl i reaktor tre'
-Svenska Kraftnäts tekniske direktør Sture Larsson siger til avisen Dagens Nyheter, at strømafbrydelsen skyldes en ret ordinær fejl i reaktor tre på Oskarshamn, som blev koblet fra nettet. 
-»Straks derefter skete der en kortslutning på et fordelingsanlæg uden for Varberg, måske på grund af vejret. Det anlæg fordeler strømmen fra reaktor tre og fire på Ringhals, som så stoppede. Alt i alt blev det for meget for elnettet, der kollapsede. Vi mistede 3.000 megawatt«, siger han til avisen onsdag. 'Et rent tilfælde'
-»Hver enkelt hændelse kan vi håndtere, men ikke flere så kort efter hinanden. Det er derfor et rent tilfælde«, siger han om to årtiers mest omfattende strømsvigt, der efterlod millioner af svenskere og danskere i adskillige timer uden strøm.
-

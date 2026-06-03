@@ -1,7 +1,0 @@
-Title: Microsofts_svar_pa_Siri_vil_mere
-Date: 2015-07-21
-Article Type: Digitalt
-Author: Morten Bay
-
-Der er efterhånden kun en uges tid til at Windows 10 lanceres. Mange Windows-brugere vil få den nye Windows-version installeret automatisk, og dermed også stifte bekendtskab med Cortana. ’Hun’ er Microsofts svar på Siri, Apples virtuelle assistent.
-Men til forskel fra Siri har Cortana allerede taget springet fra den mobile platform over på computeren, og er en del af Windows 10.

@@ -1,7 +1,0 @@
-Title: Google_Sats_for_milliarder_i_sundhedsomradet
-Date: 2015-04-04
-Article Type: Økonomi
-Author: Richard Waters
-
-Anvendelse af personlige data for at forbedre sine brugeres sundhed har længe været blandt Googles højeste ambitioner. Men selskabets vidtrækkende muligheder for dataindsamling har endnu ikke resulteret i en førende position inden for digital sundhed.
-Tjenesten Google Health, hvor brugerne kunne lægge deres egne helbredsoplysninger og patientjournaler op, blev lanceret i 2008 og taget af markedet igen i 2011. Larry Page, administrerende direktør og medstifter af Google, sagde sidste år, at reglerne for beskyttelse af personlige oplysninger forhindrede medicinsk forskning og begrænsede brugen af tjenester som Google Health.

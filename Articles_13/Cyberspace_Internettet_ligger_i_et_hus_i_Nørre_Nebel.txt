@@ -1,7 +1,0 @@
-Title: Cyberspace_Internettet_ligger_i_et_hus_i_Nørre_Nebel
-Date: 2018-03-11
-Article Type: Tech
-Author: Jeppe Valeur
-
-De ser ikke ud af meget, de to sorte kabler, der bryder op af det beskidte stengulv i et lille rum ved siden af en brugt Webergrill og et støvet havebord. Der er intet skilt, som fortæller, at de to kabler, der ikke er meget tykkere end et barns håndled, er en af internettets hovedpulsårer.
-Men den er god nok. TAT-14 – som kablet, der her er delt i to, hedder – er Danmarks internetmotorvej til USA.

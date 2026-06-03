@@ -1,7 +1,0 @@
-Title: Nu_kan_NemID_kryptere_dine_mails
-Date: 2010-10-08
-Article Type: Digitalt
-Author: Søren Dilling
-
-Tre måneder efter lanceringen af NemID får den omstridte afløser for den gamle digitale signatur nu også mulighed for at signere og kryptere e-mails.
-Det skriver version2.dk.

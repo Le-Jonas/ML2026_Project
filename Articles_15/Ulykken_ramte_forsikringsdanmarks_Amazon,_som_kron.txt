@@ -1,9 +1,0 @@
-Title: Ulykken_ramte_forsikringsdanmarks_Amazon,_som_kron
-Date: 2020-09-14
-Article Type: Danmark
-Author: Ved brug af big data har Scalepoint vundet en unik position som leverandør af digital skadebehandling til det meste af forsikringsbranchen. Men en fejl har åbenbaret flere risici for forsikringsselskaberne ved at give så meget kundedata videre til andre.
-
-Jakob Sorgenfri Kjær
-Journalist
-En svipser fra en lille rød murstensbygning på Østerbro har ramt omkring 1 million borgere, som er kunder eller samarbejdspartnere i otte forskellige forsikringsselskaber. I tre måneder var 1.693.025 registrerede navne med i nogle tilfælde fortrolige eller følsomme persondata – cpr-numre og helbredsoplysninger – eksponeret i det usikre tredjeland Ukraine. Dermed blev borgernes persondata bragt i fare for at blive misbrugt af uvedkommende.
-Brøleren er begået og erkendt af firmaet Scalepoint. Men hvordan og hvorfor har et firma, som de færreste har hørt om, overhovedet fået nallerne i dine og millioner andres data fra en kunderelation, der oprindeligt blev indgået med et forsikringsselskab?

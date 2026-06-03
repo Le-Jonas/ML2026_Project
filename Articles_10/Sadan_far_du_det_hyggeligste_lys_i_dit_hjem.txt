@@ -1,7 +1,0 @@
-Title: Sadan_far_du_det_hyggeligste_lys_i_dit_hjem
-Date: 2013-11-21
-Article Type: Bolig og haven
-Author: Kamilla Bøgesø Kjærgaard
-
-Lyskilders farvegengivelse måles i enheden Ra – det eneste parameter, der fortæller os noget om lysets kvalitet.
-Ra-værdien bestemmes ved at teste lyskildens evne til at gengive otte udvalgte farver.

@@ -1,7 +1,0 @@
-Title: Tv-stationer_udstyrer_dit_fjernsyn_med_spion-chip
-Date: 2014-02-09
-Article Type: Digitalt
-Author: Karim Pedersen
-
-Hvis du har anskaffet et såkaldt smart-tv, må du regne med at fjernsynet sender informationer om dine tv-vaner til producenten, tv-stationer og Google. Det viser en omfattende teknisk analyse, som det tyske elektronik-fagblad c't har foretaget.
-Et smart-tv er basalt set en forholdsvis langsom computer med eget styresystem, browser og internet-forbindelse. Så snart, fjernsynet er koblet på nettet, begynder det at overføre data til producenten. Denne datastrøm kører konstant og ubemærket i baggrunden.

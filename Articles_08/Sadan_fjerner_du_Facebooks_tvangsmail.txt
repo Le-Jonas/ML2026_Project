@@ -1,7 +1,0 @@
-Title: Sadan_fjerner_du_Facebooks_tvangsmail
-Date: 2012-06-26
-Article Type: Digitalt
-Author: Søren Dilling
-
-Facebook tog sig i løbet af det forløbne døgn den frihed at skifte din email ud til dit.navn@facebook.com som nu præsenteres på din timeline eller din startside, hvis timeline ikke er aktiv, i stedet for den email, du selv har valgt.
-Det skete uden at spørge brugerne og uden at give en forklaring. Men er du ikke interesseret i at benytte tjenesten, er det forholdsvist nemt at fjerne den.

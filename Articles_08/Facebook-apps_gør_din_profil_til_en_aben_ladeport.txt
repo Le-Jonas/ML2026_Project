@@ -1,7 +1,0 @@
-Title: Facebook-apps_gør_din_profil_til_en_aben_ladeport
-Date: 2011-09-27
-Article Type: Digitalt
-Author: Søren Dilling
-
-En stor del af de over to millioner danske Facebookbrugere, som har installeret apps som Farmville, FourSquare, Hug Me, Family Tree og Market Place på deres profil, har ladet adgangen til deres personlige data stå åben som en ladeport - selv om de har forsøgt at sikre sig i Facebooks privatlivindstillinger.
-For selv om de har drejet på deres privatlivsindstillinger til et bestemt niveau for, hvem der har adgang til at se deres private data, kan der være fuld adgang til samtlige disse data via de Facebook-apps, som de fleste har mindst et par stykker af.

@@ -1,8 +1,0 @@
-Title: It-afpresning_Nystartet_firma_overfører_løsesummer_til_kriminelle
-Date: 2017-02-14
-Article Type: Danmark
-Author: Jakob Sorgenfri Kjær
-
-Journalist
-Dilemmaet er til at føle på: Ville du betale it-kriminelle en løsesum på eksempelvis 3.500 kroner, hvis det kunne redde dine familiebilleder eller dit næsten færdige kandidatspeciale? Ville du betale 25.000 kroner, hvis det kunne redde din virksomhed? Eller ville du, i tråd med politiets og it-eksperters råd, nægte at betale?
-Et nystartet dansk firma har fundet et marked i at hjælpe ofrene for den såkaldte ransomware med at betale de kriminelle netværk, der afpresser tusindvis af danske borgere og virksomheder. På et år har firmaet Cryptounlock assisteret omkring 40 kunder med at betale løsesummer til hackere, der har overtaget kontrollen med deres it-systemer. Cryptounlock har hjulpet med at betale løsesummer på beløb, der svarer til mellem 3.500 kroner og op til 26.000 kroner.

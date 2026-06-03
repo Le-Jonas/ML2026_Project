@@ -1,7 +1,0 @@
-Title: Dette_kamera_stiller_skarpt_efter_billedet_er_tage
-Date: 2012-01-13
-Article Type: Digitalt
-Author: Søren Dilling
-
-Det kan være svært at få billedet skarpt med kameraet lige i det punkt, man gerne vil have det, også med al mulig moderne automatik.
-Det problem løser kameraet Lytro Light Field Camera.

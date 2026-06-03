@@ -1,9 +1,0 @@
-Title: Farvel_til_NemID-papkortet_efter_10_ar_Om_en_maned
-Date: 2021-09-10
-Article Type: Privatøkonomi
-Author: Med den nye digitale signatur skal vi stadig stryge på vores smartphone for at godkende, men det er slut med at folde papkortet ud.
-
-Murat Tamer
-Journalist
-Gennem mere end et årti har NemID været vores nøgle til det offentlige, banken og onlinekøb. Vi har brugt den igen og igen til at identificere os og til at underskrive aftaler og dokumenter. Snart er den fortid. Tiden er løbet fra NemID. Fremtiden kræver endnu bedre sikkerhed.
-Derfor skal vi alle inden længe skrotte NemID og skifte til det nye MitID. De to digitale signaturer ligner ved første øjekast hinanden, men der er forskelle, som kan få betydning for, hvordan du fremover bruger dit login.

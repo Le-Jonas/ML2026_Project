@@ -1,7 +1,0 @@
-Title: Nyt_usb-stik_løser_irriterende_problem
-Date: 2013-12-05
-Article Type: Digitalt
-Author: Søren Dilling
-
-Når opladeren eller datakablet skal i mobiltelefonen, rammer man tit forkert, fordi det lille usb-stik kun kan vende den ene vej.
-Vender man det forkert og bruger for mange kræfter, risikerer man at ødelægge enten stikket eller indgangen eller begge dele.

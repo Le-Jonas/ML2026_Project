@@ -1,8 +1,0 @@
-Title: Byrdefuldt_eller_saliggørende_Forarsrengøring_i_data_for_8_milliarder_kroner_i_danske_firmaer
-Date: 2018-05-23
-Article Type: Tech
-Author: Jakob Sorgenfri Kjær
-
-Journalist
-Aldrig før har erhvervslivet oplevet så stor, tung og dyr en byrde. Sådan lyder det fra Dansk Erhverv, der - efter at have spurgt 415 medlemsvirksomheder - regner sig frem til, at databeskyttelsesforordningen, GDPR, koster erhvervslivet 8,1 milliarder kroner.
-»Tallet er meget, meget stort«, siger Dansk Erhvervs underdirektør Geert Laier Christensen.

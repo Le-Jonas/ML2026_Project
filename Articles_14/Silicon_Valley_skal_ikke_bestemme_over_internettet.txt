@@ -1,9 +1,0 @@
-Title: Silicon_Valley_skal_ikke_bestemme_over_internettet
-Date: 2018-09-09
-Article Type: Tech
-Author: Perry MacLeod Jensen
-
-Journalist
-Asger Skovdal Jepsen
-Techfestivalen i København har været et wake-up call. Sådan lyder det samstemmende fra publikum og arrangører, da de sidste foredrag og workshop er ved at være færdige hen mod lørdag aften.
-Enorme indsamlinger af data, der kan omsættes til algoritmer, der forudsiger alt fra vores måde at bevæge os igennem trafikken til, om vi risikerer at udvikle alzheimers, er ikke bare noget, der giver os mulighed for at skabe en bedre verden. Cambridge Analytica-skandalen er bare et af de eksempler, der gennem det seneste år har rettet opmærksomheden mod de potentielle risici, den teknologiske revolution også medfører.

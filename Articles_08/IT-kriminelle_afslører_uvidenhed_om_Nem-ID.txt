@@ -1,7 +1,0 @@
-Title: IT-kriminelle_afslører_uvidenhed_om_Nem-ID
-Date: 2011-09-19
-Article Type: Digitalt
-Author: Søren Dilling
-
-Sikkerhedsfirmaet CSIS Security Group har netop stoppet et såkaldt phishing-angreb på kunder i Nordeas netbank, som er et forsøg på at lokke adgangskoder til kundernes netbank ud af dem.
-Angrebet kommer i form af en mail med et link, som fører kunderne over på en side, de kriminelle selv har lavet.

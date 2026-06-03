@@ -1,6 +1,0 @@
-Title: MirADSL_10240_1024_Kbit_s
-Date: 2007-10-22
-Article Type: Bolig og haven
-Author: Skal du have en hurtig forbindelse, og er du ikke en ørn til det med at sætte netværk sammen i din bolig, bør du overveje denne løsning.
-
-Du får hjælp med opsætningen, men antivirus og firewall er dog ikke inkluderet.

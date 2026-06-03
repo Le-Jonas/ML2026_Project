@@ -1,6 +1,0 @@
-Title: Politiet_tester_nyt_landevejsvaben
-Date: 2013-09-04
-Article Type: Danmark
-Author: Politiet tester en nummerpladeskanner, som kan blive et nyt våben på landevejen, der skal hjælpe med at fange borgere, som kan være på vej til eller har overtrådt loven.
-
-Tre kameraer på taget af politiets bil skal aflæse nummerpladerne på bilister. Er der match mellem en nummerplade på vejen og en, der er efterlyst i politiets system, lyser en skærm op ved siden af instrumentbrættet.

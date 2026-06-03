@@ -1,9 +1,0 @@
-Title: Nets_dropper_Java_i_den_næste_version_af_NemID
-Date: 2013-10-19
-Article Type: Digitalt
-Author: Signe Thomsen
-
-Journalist
-De seneste dage har NemID været lagt ned, fordi det ikke fungerer med den seneste version af Java. Kritikken er haglet ned over både Nets og Digitaliseringsstyrelsen for overhovedet at bruge Java som platform for NemID.
-LÆS ARTIKEL
-LØRDAG Eksperter: Andre lande tør ikke bruge Java på grund af de mange sikkerhedshuller

@@ -1,6 +1,0 @@
-Title: Finland_udsat_for_internet_spionage
-Date: 2008-06-11
-Article Type: Internationalt
-Author: Den finske stat og et firma, der arbejder inden for våbenindustrien, har været offer for spionage på internettet.
-
-Ifølge den finske avis Helsingin Sanomat er der tale om et angreb, hvor en virus er blevet sendt til medarbejdernes elektroniske post. Ved hjælp af virussen har personerne bag angrebet haft mulighed for at læse de ansattes e-mails.

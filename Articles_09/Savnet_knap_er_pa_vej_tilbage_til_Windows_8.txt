@@ -1,7 +1,0 @@
-Title: Savnet_knap_er_pa_vej_tilbage_til_Windows_8
-Date: 2013-04-17
-Article Type: Digitalt
-Author: Morten Bay
-
-Da Windows 8 blev lanceret, var der megen debat om den manglende startknap.
-Så meget, at der nærmest er opstået et lille nichemarked for tredjeparts-apps, der giver dig startknappen tilbage i den nyeste version af Windows.

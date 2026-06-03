@@ -1,9 +1,0 @@
-Title: Habløs_skole-it_Eat_og_Aula_er_udviklet_af_folk_m
-Date: 2021-08-30
-Article Type: Forbrug
-Author: Hvorfor tester det offentlige sjældent, om funktioner også virker på en mobiltelefon og ikke bare på en pc?
-
-Lars Dahlager
-Journalist
-»Jeg fatter ikke det her. Jeg kan simpelthen ikke få det lort til at virke«, hvæsede min kæreste og kastede sin telefon over i sofaen til mig. Jeg er it- og teknologiansvarlig derhjemme og forventes at få styr på alting, der involverer nuller og ettaller.
-Udfordringen var Københavns Kommunes Eat-ordning, en madordning, hvor man skal være ret så oppe på dupperne og hurtigt ud af starthullerne for at overhovedet at få mad.

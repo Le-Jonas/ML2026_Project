@@ -1,8 +1,0 @@
-Title: Dumpet_App-styret_espresso-maskine_ligner_noget_fra_et_festlokale_i_en_andelsforening
-Date: 2017-05-27
-Article Type: Design
-Author: Lars Hedebo Olsen
-
-Designredaktør på Politiken
-Det bliver tilsyneladende sværere og sværere for almindeligt tænkende mennesker at holde styr på deres elektriske remedier i husstanden.
-Så svært, at man nu ikke længere kan rejse sig fra sin stol og gå hen og tjekke, om der er mere mælk i beholderen på espressomaskinen, eller om den skal gøres ren. Derfor har Siemens nu skabt espressomaskinen EQ.9 Connect, som man kan styre via en app på sin telefon eller tablet.

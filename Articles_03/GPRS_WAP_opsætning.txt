@@ -1,6 +1,0 @@
-Title: GPRS_WAP_opsætning
-Date: 2006-12-21
-Article Type: mobil
-Author: De fleste moderne mobiltelefoner har i dag GPRS/WAP
-
-Er du i tvivl om hvorvidt din telefon har denne funktion, kan du læse mere på dit telefonselskabs hjemmeside. Når du har fundet ud af om din telefon har en fungerende opsætning og fået sat den rigtigt op, kan du besøge mobil.politiken.dk.

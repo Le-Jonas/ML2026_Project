@@ -1,9 +1,0 @@
-Title: Facebook_sletter_kritik_af_Socialdemokratiet_i_Køb
-Date: 2021-11-05
-Article Type: Tech
-Author: Facebook begraver helt uskyldige opslag for at mindske had.
-
-Jens Bostrup
-Journalist
-Facebook og Instagram begraver et meget stort antal ’problematiske’ opslag uden at oplyse brugeren om det og uden at give mulighed for at klage. Og det er et stort demokratisk problem.
-Det siger eksperter, efter at det er kommet frem i interne dokumenter fra Facebook, hvor ekstremt dårlig den kunstige intelligens er til at opdage had. Algoritmen fanger kun omkring 5 procent af de opslag, som er så hadske, at de bryder Facebooks regler, lyder Facebooks egne tal, der bygger på stikprøver.

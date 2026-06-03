@@ -1,7 +1,0 @@
-Title: Alvorlig_IT-fejl_lukker_dele_af_Sveriges_forsvarssystemer
-Date: 2017-01-26
-Article Type: Internationalt
-Author: Jacob Svendsen
-
-Det er omfattende, og det skyldes muligvis, at en ansat har medbragt et USB-stik, som har sluset den angribende virus ind i den del af det svenske forsvars IT-systemer, der står for planlægning af militærøvelser.
-Så meget ved den svenske offentlighed om årsagen, til at IT-systemet 'Caxcis' er lukket ned - men heller ikke mere. Da den svenske avis Dagens Nyheter fik fat i nyheden, bekræftede forsvarets talsmand, at et system, der ikke vedrører forsvarets operative kapacitet, var ramt. Men her stoppede meddelsomheden.

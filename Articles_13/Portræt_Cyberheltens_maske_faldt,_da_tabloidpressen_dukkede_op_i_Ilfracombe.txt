@@ -1,8 +1,0 @@
-Title: Portræt_Cyberheltens_maske_faldt,_da_tabloidpressen_dukkede_op_i_Ilfracombe
-Date: 2017-05-21
-Article Type: Internationalt
-Author: Christian Bæk Lindtoft
-
-Journalist
-Bag Superman står journalisten Clark Kent. Bag Batman den stenrige forretningsmand Bruce Wayne, og bag Spiderman keminørden Peter Parker.
-Bag twitternavnet @MalwareTechBlog står den 22-årige selvlærte IT-sikkerhedsekspert og brite Marcus Hutchins, der stadig bor hos sine forældre. Hvor superheltene fra tegneseriehæfter og Hollywood-lærreder typisk stiller sig i vejen for buldrende lokomotiver fyldt med sagesløse passagerer på vej mod en dyb afgrund, bremsede cyberhelten Hutchins fredag den 12. maj i den ondsindede cyberorm WannaCry, der hastigt gik fra at være et problem i det britiske sundhedssytem til at kræve løsesummer på 200.000 computerskærme i 150 lande.

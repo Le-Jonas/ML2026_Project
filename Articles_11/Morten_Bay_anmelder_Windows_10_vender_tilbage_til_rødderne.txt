@@ -1,7 +1,0 @@
-Title: Morten_Bay_anmelder_Windows_10_vender_tilbage_til_rødderne
-Date: 2015-07-29
-Article Type: Digitalt
-Author: Morten Bay
-
-Windows har fulgt et sjovt mønster, siden Windows 95 bragede igennem og blev et stort hit på alverdens pc’er for 20 år siden. Det ser nemlig ud til, at hver anden Windows-udgave rettet mod forbrugerne bliver lidt af et flop.
-Efter Windows 95 (og dens mindre opdatering, Windows 98) lancerede Microsoft Windows ME, der var fyldt med fejl. Så kom Windows XP, der var så stor en succes, at der stadig er folk, der bruger den her 14 år efter dens lancering – også selvom Microsoft er holdt op med at understøtte den. Men Microsoft havde endnu større ambitioner, og det førte til lanceringen af Vista.

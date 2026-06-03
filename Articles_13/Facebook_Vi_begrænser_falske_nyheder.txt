@@ -1,8 +1,0 @@
-Title: Facebook_Vi_begrænser_falske_nyheder
-Date: 2017-02-01
-Article Type: Kultur
-Author: Torben Benner
-
-Journalist
-For at begrænse omfanget af falske nyheder i brugernes nyhedsfeed har Facebook lavet en ny algoritme, så tjenesten bliver bedre til at opfange og begrænse falske nyheder og fremme de pålidelige nyheder.
-Det skriver Facebook i en nyhedsopdatering.

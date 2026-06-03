@@ -1,9 +1,0 @@
-Title: Hundredtusinde_danskere_udelukket_fra_ny_smitte-ap
-Date: 2020-06-18
-Article Type: Sundhed
-Author: Kun nyere iPhones kan installere appen, der skal stoppe spredning af covid-19. Uheldigt, mener ekspert.
-
-Jonas Pröschold
-Journalist
-Det er langt fra alle danskere, der kan bruge en ny smittesporingsapp, der netop er blevet lanceret af Sundhedsministeriet. Appen ’Smittestop’ kan løbende registrere, hvilke andre telefoner med appen installeret, den har været i nærheden af. Hvis en bruger bliver konstateret smittet med covid-19 vil andre, der har været tæt på personen i længere tid, modtage en besked om den potentielle smittefare i appen.
-Men for, at systemet virker, kræver det, at så mange som muligt har hentet appen — og det kan mange danskere ikke.

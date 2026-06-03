@@ -1,8 +1,0 @@
-Title: Ministerier_har_skærpet_sikkerheden_efter_hackerangreb,_der_lagde_dem_ned
-Date: 2018-05-17
-Article Type: Danmark
-Author: Anders Legarth Schmidt
-
-Journalist
-De to ministerier ønsker ikke at gå for meget i detaljer om sikkerheden, for der er ingen grund til at give hackere en mulighed for at lure, om der eventuelt måtte være huller i det bolværk, der skal forhindre nye it-angreb.
-Men både Integrationsministeriet og Statsministeriet oplyser til Politiken, at de har skærpet sikkerhedsforanstaltningerne i kølvandet på de hackerangreb, der sidste efterår lagde de to ministeriers hjemmesider ned.

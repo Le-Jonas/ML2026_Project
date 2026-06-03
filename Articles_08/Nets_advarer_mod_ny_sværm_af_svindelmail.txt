@@ -1,7 +1,0 @@
-Title: Nets_advarer_mod_ny_sværm_af_svindelmail
-Date: 2012-02-29
-Article Type: Privatøkonomi
-Author: Søren Dilling
-
-I øjeblikket modtager tusinder af danskere e-mail sendt fra svindlere, der giver sig ud for at være fra Nets, bankernes fælles betalingsservice-selskab.
-De falske e-mail er typisk skrevet på dårligt dansk og opfordrer modtageren til at registrere sit kort ved at afgive følsomme oplysninger (kortnummer, udløbsdato, kontrolcifre, CPR) via et link i mailen.

@@ -1,6 +1,0 @@
-Title: Sms_fører_til_færre_udeblevne_patienter
-Date: 2011-10-24
-Article Type: Sygdom
-Author: Langt færre patienter glemmer deres aftaler på sygehuset, når de får en sms med en påmindelse om tidspunktet for en forestående operation, behandling eller undersøgelse.
-
-En stikprøve fra et pilotprojekt i Region Midtjylland viser, at påmindelserne på sms har resulteret i 34 procent færre udeblivelser.

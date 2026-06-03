@@ -1,8 +1,0 @@
-Title: Forkert_brugernavn_eller_kodeord
-Date: 2008-02-12
-Article Type: p_bruger
-Author: Kristian Nissen
-
-Kristina E. Young og Tanja Frederiksen
-Det indtastede brugernavn eller kodeord kunne ikke findes i databasen, kontroller om "Caps Lock" er slået til eller om "Num Lock" er slået til.
-[*]

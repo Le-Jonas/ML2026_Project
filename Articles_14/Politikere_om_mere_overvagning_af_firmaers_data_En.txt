@@ -1,9 +1,0 @@
-Title: Politikere_om_mere_overvagning_af_firmaers_data_En
-Date: 2019-01-09
-Article Type: Danmark
-Author: På tværs af Folketinget er partier klar til at øge efterretningstjenestens adgang til overvågning af private firmaer og myndigheder for at undgå cyberangreb.
-
-Cecilie Lund Kristiansen
-Uddannelsesredaktør
-Det er ikke uden bekymring, at forsvarsordførere i Folketinget læser det lovforslag, som regeringen i denne uge har fremsat. Forslaget handler om den såkaldte netsikkerhedstjeneste, og hvis det bliver vedtaget, vil private firmaer og myndigheder i fremtiden kunne tvinges til at lade Center for Cybersikkerhed overvåge deres it-systemer.
-Men på tværs af partier er der også bred enighed om, at truslen er så alvorlig, at Forsvarets Efterretningstjeneste, som Center for Cybersikkerhed ligger under, skal have stærkere muskler, end tilfældet er i dag. Derfor kan øgede beføjelser til at overvåge data være nødvendigt.

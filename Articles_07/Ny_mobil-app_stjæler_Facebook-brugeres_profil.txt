@@ -1,7 +1,0 @@
-Title: Ny_mobil-app_stjæler_Facebook-brugeres_profil
-Date: 2011-06-07
-Article Type: Digitalt
-Author: Søren Dilling
-
-Et skrækscenarie er så småt ved at udvikle sig på danske skoler og uddannelsesinstitutioner, hvor eleverne logger på deres Facebook og andre sociale medier via skolens trådløse netværk.
-For en ny app til Android-telefoner kan opsnappe al trafik og selv overtage Facebook-profilen, hvorefter Android-brugeren kan poste meddelelser, lægge billeder ind og ændre både kodeord og brugernavn på Facebook-profilen uden videre.

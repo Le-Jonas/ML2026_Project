@@ -1,9 +1,0 @@
-Title: Ny_programpakke_fra_Sun_skal_bekæmpe_Microsoft
-Date: 2003-09-17
-Article Type: Økonomi
-Author: Udskift Windows med Linux og Microsoft Office med Staroffice, Mozilla og alle de andre gratis programmer. 
-Det tilbyder software firmaet Sun. De har dog ikke bare samlet en masse gratis programmer i en programpakke, de har også skræddersyet dem, så brugerne kan være sikre på, at de fungerer sammen. Nemt
-Løsningen - som kaldes for Madhatter - kommer til at koste omkring 700 kroner per styk per år, uanset hvor mange licenser man vil have. 
-Sun håber på, at mange virksomheder vi fravælge Microsoft til fordel for Suns nye pakke, når det nu bliver ganske nemt at skifte til Staroffice og deslige uden at skulle stykke det hele sammen selv. 
-Madhatter kommer i handlen herhjemme til december og med i prisen er også opdateringer hvert kvartal.
-

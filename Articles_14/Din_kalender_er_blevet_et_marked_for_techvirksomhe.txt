@@ -1,9 +1,0 @@
-Title: Din_kalender_er_blevet_et_marked_for_techvirksomhe
-Date: 2019-04-13
-Article Type: Tech
-Author: I dag fortæller du din kalender, hvad du vil foretage dig i den kommende tid. Med udbredelsen af kunstig intelligens kan det blive kalenderen, der siger, hvad du skal foretage dig.
-
-Mikkel Flyverbom
-Professor
-Digitale teknologier bliver ofte solgt som værktøjer, der kan hjælpe os med at arbejde hurtigere og nå mere på kortere tid. Vi behøver ikke længere gå i arkiverne, sætte frimærker på kuverter eller mødes fysisk. Og lige om lidt bliver bilerne selvkørende, og robotterne vil tage sig af de mest rutineprægede dele af vores arbejde. Men samtidig er digitale teknologier også tidsrøvere. Folk bombarderer hinanden med tidskrævende e-mails, sociale medier higer efter vores tid og opmærksomhed, og hvert nyt it-system kræver langvarig omstilling i organisationer.
-Så får vi mere eller mindre tid på grund af digitale forandringer? Uanset om vores erfaringer er, at digitale teknologier skaber mere luft i programmet eller presser os tidsmæssigt, må vi forholde os til, at vores tid i stigende grad er et marked, som techvirksomheder vil søge at indtage.

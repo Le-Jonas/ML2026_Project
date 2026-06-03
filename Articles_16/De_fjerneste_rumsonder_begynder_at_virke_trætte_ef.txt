@@ -1,9 +1,0 @@
-Title: De_fjerneste_rumsonder_begynder_at_virke_trætte_ef
-Date: 2022-06-22
-Article Type: Viden og tech
-Author: Voyager 1-sonden sender data, der tyder på en vis forvirring i de tekniske systemer. Ikke underligt: Den har rejst i næsten 50 år.
-
-Søren Astrup
-Journalist
-Nogle af Nasa’s ældste sonder er tilsyneladende ved at blive demente. Eller også er de blot ved at være lidt trætte.
-Set med nutidens teknologi-øjne tilhører Voyager-sonderne fra 1977 en meget fjern og nærmest primitiv fortid med et it-system, der kører med en hukommelse på hele 69 kilobit og en datalagring, der sker på bånd, hvorfra informationerne sendes tilbage til jorden med en svag sendeenhed, der har en styrke på 23 watt.

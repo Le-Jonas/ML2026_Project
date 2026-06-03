@@ -1,7 +1,0 @@
-Title: Teleselskab_smider_smartphones_af_det_hurtige_mobi
-Date: 2012-05-30
-Article Type: Digitalt
-Author: Søren Dilling
-
-For at sikre forbindelsen under taleopkald smider TDC ofte smartphones fra det hurtige 3G-mobilnet over på det langsommere men mere stabile GSM-net.
-Og det skyldes, at smartphones har så dårlige antenner og ringe udviklet software, at de har svært ved at holde forbindelsen på 3G-nettet både i byerne og på landet, fortæller TDC til Ingeniøren.dk.

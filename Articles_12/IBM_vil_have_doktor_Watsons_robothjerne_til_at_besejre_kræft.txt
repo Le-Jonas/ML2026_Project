@@ -1,8 +1,0 @@
-Title: IBM_vil_have_doktor_Watsons_robothjerne_til_at_besejre_kræft
-Date: 2016-09-23
-Article Type: Økonomi
-Author: Astrid Louise Rasmussen
-
-Journalist
-I 2011 slog IBM’s supercomputer Watson USA’s klogeste quizhoveder i ’Jeopardy’ og beviste dermed, at den ikke bare var i stand til at adlyde ordrer. Den kunne også på linje med mennesker læse og forstå sprog, som i Jeopardy’s særlige spørgegenre gemmer på ordspil, sarkasme og tvetydigheder.
-Siden da har IBM forsøgt at overføre Watsons evne til at læse og analysere store mængder data til sundhedsvæsnet, hvor flere lande allerede har indført den kunstige intelligens som en del af diagnosticerings- og behandlingsforløb.

@@ -1,8 +1,0 @@
-Title: Salmonella_DT_104_i_nordjyske_slagtekyllinger
-Date: 2002-08-30
-Article Type: Økonomi
-Author: Fødevaredirektoratet har fundet den multiresistente bakterie Salmonella DT 104 i en besætning slagtekyllinger i Nordjylland. 
-For at forhindre smittespredning via fangstredskaber og biler og for ikke at få introduceret salmonellasmitten i slagteriet er det besluttet at slå besætningen med omkring 22.000 kyllinger ned. 
-Salmonella DT 104 er ikke mere smittefarlig end andre salmonellatyper, og den bliver dræbt ved almindelig gennemstegning. 
-Problemet er, at netop den salmonellatype er resistent over for flere typer antibiotika.
-

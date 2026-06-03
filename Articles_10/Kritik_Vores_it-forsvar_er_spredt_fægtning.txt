@@ -1,8 +1,0 @@
-Title: Kritik_Vores_it-forsvar_er_spredt_fægtning
-Date: 2013-12-23
-Article Type: Digitalt
-Author: Jakob Sorgenfri Kjær
-
-Journalist
-I april 2012 tvang hackere sig adgang til CSC, der er statens største it-leverandør og derfor ligger inde med borgernes fortrolige personoplysninger. I de efterfølgende fire måneder boltrede de it-kriminelle sig i CSC’s systemer og kopierede fire millioner danske kørekortnumre og 1,2 millioner stykker data – ’records’ – om efterlyste personer i det europæiske Schengen-informationssystem.
-Cyberangrebet opdagede CSC og politiet først i februar 2013 – ti måneder efter selve indbruddet. Og det skete, ifølge en redegørelse fra Rigspolitiet, kun fordi svensk politi i en helt anden sag havde fundet logfiler, som afslørede angrebet på CSC.

@@ -1,7 +1,0 @@
-Title: Snart_kan_du_afspille_alt_tradløst_fra_din_pc_til_dit_tv
-Date: 2014-01-16
-Article Type: Digitalt
-Author: Karim Pedersen
-
-En flok unge danskere har fundet løsningen på, hvordan du kan sende dit billedsignal fra computeren til fjernsynet uden at skulle rode med besværlige kabler.
-De har opfundet en trådløs dims, der sættes i fjernsynets HDMI-stik. Når du har installeret den medfølgende software på din computer, sendes billedsignalet direkte over det trådløse netværk til tv-apparatet.

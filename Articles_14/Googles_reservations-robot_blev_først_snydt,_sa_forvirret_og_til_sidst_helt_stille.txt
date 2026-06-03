@@ -1,7 +1,0 @@
-Title: Googles_reservations-robot_blev_først_snydt,_sa_forvirret_og_til_sidst_helt_stille
-Date: 2018-06-28
-Article Type: Tech
-Author: Morten Bay
-
-Tilbage i maj blev der sendt chokbølger gennem den del af verden, der interesserer sig for teknologi. Google demonstrerede deres Duplex-teknologi ved udviklerkonferencen Google I/O, og straks rejste der sig et brøl af både jubel og kritik over, hvad tilhørerne lagde ører til. Google meldte hurtigt ud, at de ville tage kritikken til efterretning, og fortsætter nu ufortrødent med at teste systemet.
-Google Duplex er en slags server-baseret udvidelse til Google Assistant. Sidstnævnte er Googles svar på virtuelle assistenter som Siri og Alexa, og den kan snart findes i danske Android-telefoner og de Home-højttalere, som Google har tænkt sig at sende ud i danske butikker senere i år.

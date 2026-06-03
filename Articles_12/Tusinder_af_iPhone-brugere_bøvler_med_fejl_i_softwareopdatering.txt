@@ -1,7 +1,0 @@
-Title: Tusinder_af_iPhone-brugere_bøvler_med_fejl_i_softwareopdatering
-Date: 2016-03-29
-Article Type: Digitalt
-Author: Søren Dilling
-
-Den 21. marts sendte Apple en ny softwareversion af sit styresystem IOS ud til millioner af iPhone- og iPad-brugere verden over, men snart viste det sig, at det ikke var en særlig god ide at hente opdateringen.
-I begyndelsen blev ældre modeller som iPhone 5 og iPad Air ramt af problemer, men det blev delvist løst af en opdatering, som Apple sendte ud et par dage senere.

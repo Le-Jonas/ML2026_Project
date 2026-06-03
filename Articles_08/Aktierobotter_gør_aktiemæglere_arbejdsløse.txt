@@ -1,7 +1,0 @@
-Title: Aktierobotter_gør_aktiemæglere_arbejdsløse
-Date: 2012-02-09
-Article Type: Læserbreve
-Author: Jan Grønlund
-
-Før havde aktiemæglere kontrol over, hvad købere og sælgere af aktier var villige til at betale. Nu er det robotter eller mere præcist superhurtige computere med programmer med evne til lynhurtig salg og køb af aktier, som har overtaget størsteparten af køb og salg. Dette kaldes high frequency trading, som sker på sekunder. I den forbindelse står disse aktierobotter fysisk i samme serverrum som serverene, som styrer Børsen for at forbedre overførselshastighed. Hvis man ikke får plads i dette serverrum, så har konkurrenterne en fordel med lidt hurtigere adgang til Børsen.
-Det er et overraskende antal foreslåede handler, som robotterne foretager. I november måned sidste år på Oslo Børs var der 40 millioner foreslåede handler på aktier, hvor kun 2 millioner handler totalt på Børsen blev indgået. I november måned blev 11 millioner foreslåede handler slettet i løbet af 16 millisekunder. Det giver aktiemæglere nul chance for at følge med på handlerne, fordi det ikke er til at vide hvilke priser, som er gyldige. Derfor oplever aktiemæglere også mere arbejdsløshed.

@@ -1,6 +1,0 @@
-Title: Google_søger_nu_i_ting,_ikke_i_ord
-Date: 2012-05-22
-Article Type: Digitalt
-Author: Man skulle tro, Google var træt af, at Wikipedia hele tiden dukker op som nogle af de første søgeresultater, når man skriver noget ind i søgemaskinen.
-
-I hvert fald har Google nu lanceret noget, de kalder for Knowledge Graph, der skal give mere intelligente søgninger på sigt, men i første omgang blot fungerer som et minileksikon.

@@ -1,7 +1,0 @@
-Title: Nem_digital_radio
-Date: 2007-06-14
-Article Type: Digitalt
-Author: Thomas Vigild
-
-Skal man have den nemmeste og mest overskuelige, men også mindst fleksible radiooplevelse, er løsningen DAB, digital audio broadcast, de digitale radiosignaler, der skal afløse FM-sendenettet inden for det næste par år. Men fordi lydkvaliteten er forbedret med digital sending, og selv om man ikke skal rode med frekvenser og nu kan høre genrespecifikke kanaler som børne-radio døgnet rundt, er der stadig sus og skratten i DAB's glansbillede.
-For eksempel har en DAB-radio ingen lokale radiostationer, så hvis man gerne lytter meget til Radio Sydhavsøerne eller Radio Mojn, skal den nye DAB-radio også have mulighed for at modtage FM-radio-signal – hvilket langt de fleste modeller da også har.

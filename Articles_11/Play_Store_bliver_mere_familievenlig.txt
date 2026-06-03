@@ -1,7 +1,0 @@
-Title: Play_Store_bliver_mere_familievenlig
-Date: 2015-06-09
-Article Type: Digitalt
-Author: Morten Bay
-
-Google har ikke så stram en godkendelsesproces som Apple, når det gælder apps og indhold til Android. Men nu bliver tingene i det mindste lidt mere familievenlige.
-Fremover vil man nemlig kunne trykke på en ’Familie’-knap i app-butikken og få fremvist et forhåndssorteret udvalg af apps og indholdstilbud, der har fået et ekstra tjek for at sikre børnevenligheden.

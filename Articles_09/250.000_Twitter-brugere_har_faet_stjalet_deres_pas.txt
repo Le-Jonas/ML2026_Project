@@ -1,6 +1,0 @@
-Title: 250.000_Twitter-brugere_har_faet_stjalet_deres_pas
-Date: 2013-02-02
-Article Type: Digitalt
-Author: Det sociale netværk Twitter er blevet udsat for et professionelt hackerangreb, og omkring 250.000 brugere har fået deres passwords stjålet.
-
-»Dette angreb er ikke udført af amatører, og vi tror ikke, at det er en isoleret hændelse«, lyder det fra Bob Lord, sikkerhedschef for Twitter.

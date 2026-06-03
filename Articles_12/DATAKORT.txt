@@ -1,6 +1,0 @@
-Title: DATAKORT
-Date: 2015-11-16
-Article Type: Danmark
-Author: Når man derimod prøver funktionen med at uploade fra en csv-fil, som jo oftest vil være den letteste vej, når man sidder med noget data, får man denne fejl:
-
-Error reading CSV file: scope.target.forEach is not a function

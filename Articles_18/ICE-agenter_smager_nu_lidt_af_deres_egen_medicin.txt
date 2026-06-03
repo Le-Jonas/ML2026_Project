@@ -1,9 +1,0 @@
-Title: ICE-agenter_smager_nu_lidt_af_deres_egen_medicin
-Date: 2025-09-05
-Article Type: Internationalt
-Author: Flere aktivister har fået nok af de brutale ICE-anholdelser og deportationer i USA og tager nu sagen i egen hånd. Seneste skud på stammen er brugen af kunstig intelligens.
-
-Julie Franson Frost Andersen
-Journalist
-ICE-agenter har i en rum tid brugt kunstig intelligens til at identificere, spore og udvise borgere uden amerikansk statsborgerskab. Men nu ser det ud til, at de må smage deres egen medicin.
-En aktivist bosiddende i Holland ved navn Dominick Skinner har nemlig udviklet et AI-værktøj, der kan afmaskere ICE-agenters ansigter.

@@ -1,7 +1,0 @@
-Title: Google_advarer_om_mystik_pa_din_computer
-Date: 2011-07-21
-Article Type: Digitalt
-Author: Søren Dilling
-
-Hvis der sker noget usædvanligt på din computer for eksempel i form af trafik på den, som du ikke selv styrer, eller mystiske aktiviteter uden for din kontrol, kan du fremover komme til at se en advarsel som den gule ovenfor.
-Det er Googles seneste træk mod hackere og deres ondsindede software.

@@ -1,6 +1,0 @@
-Title: Mirai_DTL-642E500
-Date: 2007-08-28
-Article Type: Bolig og haven
-Author: Mirai-skærmen er på mange måder testens underhund. Navnlig i vurderingen af skærmens billedkvalitet falder den tydeligt igennem i forhold til testens øvrige deltagere, men heller ikke lyden er for god.
-
-På den anden side: Apparatet har en opløsning på 1920 x 1080, som ifølge producenten skulle kunne håndtere den højeste HD-standard, 1080p (når blot firmwaren er opdateret, hvilket den ikke var på vores testeksemplar). Det er imponerende til prisen.

@@ -1,8 +1,0 @@
-Title: Robotter_blæser_ilt_i_rygerlunger
-Date: 2014-04-06
-Article Type: Viden og tech
-Author: Morten Garly Andersen
-
-Morten Garly Andersen
-Tre hospitaler i Region Hovedstaden tester i øjeblikket unik dansk robotteknologi. Udstyret sikrer livsvigtig ilt til patienter, som er indlagt periodevis for at få behandling for sygdommen kronisk obstruktiv lungefunktion – også kaldet kol eller rygerlunger.
-Det nye robotudstyr skal sørge for at dosere og justere ilten hos den enkelte patient. Det skal ske med stor præcision for at sikre, at der opnås den rette mætning med ilt af blodet. Hidtil er denne ilt blevet doseret af personale på sygehusene flere gange dagligt til hver enkelt patient, og det er en tidskrævende og usikker metode.

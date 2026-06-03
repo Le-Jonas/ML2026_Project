@@ -1,7 +1,0 @@
-Title: NemID_ma_dagligt_hjælpe_over_4.000_med_bøvl
-Date: 2011-05-19
-Article Type: Digitalt
-Author: Søren Dilling
-
-Da NemID blev lanceret, havde man en plan for, hvor mange ressourcer, man skulle sætte af til telefonsupport til brugere, der ikke kunne finde ud af den nye digitale signatur.
-Det budget er forlængst overskredet, og alene i marts i år fik NemID's telefonsuppoort 128.000 henvendelser. Det svarer til over 4.000 daglige henvendelser, lørdage og søndage inkluderet.

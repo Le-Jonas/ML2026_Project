@@ -1,7 +1,0 @@
-Title: Hackere_indtager_Xbox_Live
-Date: 2007-04-01
-Article Type: Danmark
-Author: Thomas Vigild
-
-Microsoft afviste i første omgang at have sikkerhedsproblemer og skød skylden på brugerne.
-Men ifølge amerikanske ComputerWorld har Microsofts egen telefonhotline videregivet personlige oplysninger om kunder til fremmede.

@@ -1,7 +1,0 @@
-Title: Dropbox_sender_dine_billeder_ud_i_skyen
-Date: 2014-04-24
-Article Type: Digitalt
-Author: Karim Pedersen
-
-Den populære lagertjeneste Dropbox har lanceret en ny gratis foto-app, Carousel, der skal samle og organisere alle dine billeder og videoklip.
-Den nye app til iOS og Android kombinerer fotos i din Dropbox-mappe med billeder på din telefon, og sørger for at nye billeder automatisk bliver gemt og synkroniseret i skyen.

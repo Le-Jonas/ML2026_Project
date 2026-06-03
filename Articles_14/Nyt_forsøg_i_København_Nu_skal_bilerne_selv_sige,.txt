@@ -1,9 +1,0 @@
-Title: Nyt_forsøg_i_København_Nu_skal_bilerne_selv_sige,
-Date: 2019-04-30
-Article Type: Danmark
-Author: Et forsøg i Vallensbæk udnytter nye bilers gps-systemer, der kan give oplysninger om køretid og fart og dermed afsløre, om der er ved at opstå kø.
-
-Søren Astrup
-Journalist
-Der er et kryds. Der er kø. Og så er der biler, der automatisk taler med lyssignalerne.
-Mange nye biler har indbygget gps - og vel at mærke en gps, der snakker med omgivelserne. Det kan gøre det muligt at styre lyssignalerne meget bedre, så de kan sættes til at skifte efter behov og ikke som hidtil efter faste intervaller.

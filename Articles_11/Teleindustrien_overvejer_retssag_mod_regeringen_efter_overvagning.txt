@@ -1,8 +1,0 @@
-Title: Teleindustrien_overvejer_retssag_mod_regeringen_efter_overvagning
-Date: 2014-06-02
-Article Type: Virksomheder
-Author: Jakob Sorgenfri Kjær
-
-Journalist
-Siden 2007 er den hjemlige teleindustri blevet pålagt at overvåge og gemme enorme mængder data om danskernes internettrafik.
-I dag valgte regeringen at sløjfe denne hårdt kritiserede såkaldte sessionslogning, fordi ministeriet nu endegyldigt erkender, at disse data er ubrugelige for politiets efterforskning.

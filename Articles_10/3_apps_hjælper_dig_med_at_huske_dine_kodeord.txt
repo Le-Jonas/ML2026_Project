@@ -1,8 +1,0 @@
-Title: 3_apps_hjælper_dig_med_at_huske_dine_kodeord
-Date: 2014-05-10
-Article Type: Digitalt
-Author: Allan Graubæk
-
-Journalist
-Bedst, som man har lært at huske sit password til en nettjeneste, er det tid til at skifte det igen. Lige nu betyder Heartbleed-sikkerhedsbristen, at det er ekstra vigtigt at skifte password mange steder.
-Så skal man bare finde et sted at gemme sit password til password-huskeren.

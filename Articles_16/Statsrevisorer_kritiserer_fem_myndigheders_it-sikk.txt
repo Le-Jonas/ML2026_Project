@@ -1,7 +1,0 @@
-Title: Statsrevisorer_kritiserer_fem_myndigheders_it-sikk
-Date: 2022-01-17
-Article Type: Danmark
-Author: Myndigheder, der ikke opfylder it-sikkerhedskrav, kan ifølge statsrevisorer have haft øget risiko for hacking.
-
-Statsrevisorerne kritiserer, at fem myndigheder ikke lever op til statens minimumskrav til it-sikkerhed.
-Det skriver de i en ny beretning.

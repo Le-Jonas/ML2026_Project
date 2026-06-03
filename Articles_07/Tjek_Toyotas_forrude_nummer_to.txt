@@ -1,7 +1,0 @@
-Title: Tjek_Toyotas_forrude_nummer_to
-Date: 2011-01-14
-Article Type: Digitalt
-Author: Søren Dilling
-
-Bilfabrikanten Toyota har udviklet et informationssystem til biler, der både kan bygges ind i fremtidige modeller eller styres direkte med en iPhone eller en Android mobiltelefon via bluetooth-forbindelsen.
-Systemet giver bilisten mulighed for at finde den nærmeste blomsterhandler enten ved at sige: find blomsterhandler, eller via systemets browser og Microsofts søgemaskine Bing, og med oplysningerne puttet ind i GPS-systemet er det bare at køre efter anvisningerne.

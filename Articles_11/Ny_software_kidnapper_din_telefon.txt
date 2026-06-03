@@ -1,6 +1,0 @@
-Title: Ny_software_kidnapper_din_telefon
-Date: 2014-05-29
-Article Type: Digitalt
-Author: Nu melder antivirus-producenten Bitdefender om de første såkaldte ransomware-angreb mod danske telefoner. Det er afpresnings-software, som låser telefonen og kræver en løsesum for at låse den op igen. I de sidste uger har eksperterne registreret de første forsøg på at tage Android-telefoner som gidsel med ransomware. Her bliver offeret afkrævet omkring 1.600 kroner for at få adgang til sin telefon igen.
-
-Ligesom mange andre former for skadelig software bliver ransomware-programmet spredt over inficerede hjemmesider. Hvis offeret besøger en af de ramte sider, bliver programmet automatisk hentet ned på mobilen. Det ligner en videoafspiller, der viser sit eget logo på mobilens skærm.

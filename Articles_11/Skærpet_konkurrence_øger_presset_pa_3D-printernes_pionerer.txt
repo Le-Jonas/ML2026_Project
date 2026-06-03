@@ -1,7 +1,0 @@
-Title: Skærpet_konkurrence_øger_presset_pa_3D-printernes_pionerer
-Date: 2015-04-20
-Article Type: Økonomi
-Author: Tanya Powley
-
-Fra en rød pøl af flydende plastik begynder en tredimensional kugle af forbundne sekskanter og femkanter at dukke op. Det tager kun 6 minutter, før den løftes af en mekanisk arm i sin endelige geometriske form.
-Det er et fænomen kendt under forkortelsen Clip (Continuous Liquid Interface Production) og er udviklet af Carbon3D, en opstartsvirksomhed fra Silicon Valley, med støtte fra kapitalfonden Sequoia Capital. Men selv om teknologien er inspireret af en scene fra science fiction-filmen ’Terminator 2’, hvor robotten T-1000 vokser frem fra en lille pøl af flydende metal, er den nye teknik i allerhøjeste grad en realitet – og står til at forandre 3D-industrien ved at gøre skabelsen af plastikobjekter 100 gange hurtigere.

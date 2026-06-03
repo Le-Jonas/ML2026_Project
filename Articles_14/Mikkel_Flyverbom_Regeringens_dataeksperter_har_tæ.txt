@@ -1,7 +1,0 @@
-Title: Mikkel_Flyverbom_Regeringens_dataeksperter_har_tæ
-Date: 2018-12-02
-Article Type: Viden og Tech analyser
-Author: Mikkel Flyverbom
-
-Teknologiske omvæltninger, store techvirksomheders ansvarsløshed og en stigende utilpashed ved overvågning har gjort det tydeligt for de fleste, at der er behov for spilleregler på det digitale område og især for brugen af data. Den teknologiske udvikling, vi taler om, indebærer ikke bare digitalisering, men også det, vi kan betegne som dataficering.
-Dataficering betyder, at vores aktiviteter i digitale sammenhænge efterlader store mængder data, der kan opsamles og genbruges i kommercielt, politisk eller kontrolmæssigt øjemed.

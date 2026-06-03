@@ -1,9 +1,0 @@
-Title: »Vild_rapport«_om_afværget_cyberangreb_Forsynings
-Date: 2023-11-14
-Article Type: Danmark
-Author: Det er en »vild rapport«, som forsyningsselskabernes cybercenter for nylig udsendte om det så vidt vides hidtil største cyberangreb mod Danmark, siger lektor fra Forsvarsakademiet.
-
-Jakob Hvide Beim
-Forsvarsredaktør
-Det var »venligt«, bemærker Rasmus Dahlberg fra Forsvarsakademiet, at de fjendtligt sindede kræfter bag cyberangrebet på en række danske forsyningsselskaber tilbage i maj begyndte deres angreb i dagtimerne.
-For som det hedder i en ny rapport om angrebet, så har selskabernes cybercenter, SektorCERT, der skal bekæmpe den slags, »ikke bemanding til at reagere på angreb uden for almindelig arbejdstid«.

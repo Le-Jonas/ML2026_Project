@@ -1,8 +1,0 @@
-Title: Betal_parkering_med_mobiltelefon
-Date: 2001-09-06
-Article Type: Danmark
-Author: Snart er det slut med at fumle med småmønter, når parkeringen skal betales. Fire selskaber står bag et forsøgsprojekt i København, der skal gøre det muligt at betale for parkeringen med mobiltelefonen. 
-»Kunden ringer til et servicenummer og indtaster den ønskede parkeringstid. Et kvarter inden udløb kan kunden få en SMS-besked på mobiltelefonen og så bestille en ny periode uden besværet med først at skulle tilbage til bil og parkometer«, siger Rune Sørensen, koncernmarketingdirektør i SONOFON, der står bag projektet sammen med TDC, Dan Net og Siemens. Tre kroner i gebyr
-Bilister med mobiltelefon og abonnement hos TDC eller SONOFON skal teste systemet i de næste seks måneder. Projektet i København er det første i Danmark, hvor man kan bruge en almindelig mobiltelefon til direkte betaling for parkering. Der bliver et gebyr på tre kr. pr. parkering. 
-Bilisterne tilmelder sig ordningen og modtager en mærkat til at sætte indvendigt på ruden. P-vagten kan ved hjælp af en terminal straks se, om der er betalt for parkeringen. Betaling sker over telefonregningen.
-

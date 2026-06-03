@@ -1,8 +1,0 @@
-Title: Tele_Danmark_ramt_af_computerfejl
-Date: 2001-03-03
-Article Type: Økonomi
-Author: /ritzau/
-
-En fejl i en af Tele Danmarks computercentraler gav lørdag en del af telefonselskabets kunder problemer med at ringe op, oplyser Tele Danmark. 
-»Det er vores såkaldte IN-central i Kolding, der har en fejl - og den vil primært ramme vores Duet- og Favorit Internet-kunder over hele landet. Fejlen er periodisk - det vil sige, at man nogle gange kan have held til at få forbindelse og andre gange ikke kan komme igennem«, siger pressechef Max Stougaard. 
-Tele Danmarks teknikere troede egentlig, at fejlen var rettet op allerede i går , men den dukkede op igen.

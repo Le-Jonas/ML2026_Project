@@ -1,6 +1,0 @@
-Title: Kunstig_intelligens_skal_hjælpe_Carlsberg_med_at_finde_den_rigtige_ølsmag
-Date: 2017-11-07
-Article Type: Danmark
-Author: Når der skal brygges nye typer øl i Carlsberg, vil udviklerne i fremtiden kunne få hjælp af intelligente sensorer, der skal teste de forskellige smagsnuancer i øllen.
-
-Det er målet med et nyt forskningsprojekt, som Carlsberg Laboratoriet har sat i søen i samarbejde med iNANO ved Aarhus Universitet.

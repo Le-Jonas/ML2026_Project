@@ -1,8 +1,0 @@
-Title: Massivt_it-nedbrud_tvinger_tog_pa_Sjælland_til_at_holde_stille
-Date: 2014-07-08
-Article Type: Danmark
-Author: Jakob Stig Jørgensen
-
-Journalist
-Alle fjern- og regionaltog holder i øjeblikket stille på Sjælland.
-Banedanmark har store problemer med deres it-systemer, og det betyder, at de signaler, der skal fortælle togene, om de kan køre eller ej, ikke virker.

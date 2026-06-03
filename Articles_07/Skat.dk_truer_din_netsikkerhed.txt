@@ -1,7 +1,0 @@
-Title: Skat.dk_truer_din_netsikkerhed
-Date: 2010-09-30
-Article Type: Digitalt
-Author: Søren Dilling
-
-Adgangen til dine personlige og følsomme oplysninger hos offentlige myndigheder kan ligge åben for hvem som helst, der sætter sig ved den computer, du lige har brugt til at logge på en af de offentlige hjemmesider.
-Flere besøg på skat.dk, borger.dk og sundhed.dk viser, at det ikke - som omtalt i går - kun er en række danske netbanker, der lader en brugers adgang forblive åben, hvis man ikke logger ud på den 'rigtige' måde.

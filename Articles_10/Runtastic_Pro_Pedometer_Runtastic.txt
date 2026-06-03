@@ -1,9 +1,0 @@
-Title: Runtastic_Pro_Pedometer_Runtastic
-Date: 2014-04-07
-Article Type: Sundhed
-Author: Helle Sindal
-
-Eva Hansson:
-Nem at indstille og bruge, men appen fungerer kun, når programmet er åbent. Viser dine skridt i løbet af en dag, uge eller måned. Følger godt med ved retningsskift. Nulstiller sig selv et par gange.
-Jon Lund:
-Alt er på engelsk, og der er ingen forklaringer eller hjælpefunktioner. Kræver konto og tilmelding med Facebook. Kan tælle skridt, kilometer, aktive minutter og kalorier. Er kun indrettet til at måle afgrænsede aktiviteter, f.eks. et løb. Meget svingende brugt som heldagsskridttæller. Skidt app – meget begrænset funktionalitet, trist udseende og ringe måleevne.

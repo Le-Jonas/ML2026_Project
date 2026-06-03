@@ -1,7 +1,0 @@
-Title: Din_mobil_kan_gøre_dine_butiksbesøg_lige_sa_personlige_som_netshopping
-Date: 2013-12-16
-Article Type: Digitalt
-Author: Karim Pedersen
-
-Både PayPal og Apple har udviklet deres egen teknologi, som bruger din smartphone til at genkende dig og levere personlig service, når du træder ind i en butik.
-De to teknologier har næsten det samme navn. PayPal kalder sit system for Beacon, mens Apple bruger betegnelsen iBeacon.

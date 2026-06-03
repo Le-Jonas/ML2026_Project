@@ -1,8 +1,0 @@
-Title: Skak-program_blev_ved_en_fejl_til_et_nyt_kunstværktøj
-Date: 2017-01-09
-Article Type: Kunst
-Author: Mikkel Vuorela
-
-Journalist
-Da de amerikanske spiludviklere Drew Skilmann og Patrick Hackett for et par år siden arbejdede på et skak-program i 3D, opdagede de, at brikkerne ved en fejl trak lysende streger efter sig i det digitale rum, som et par virtual reality-briller skaber.
-I stedet for at rette fejlen begyndte de i stedet at dyrke den med det formål at skabe et værktøj, der gjorde det muligt at tegne i tre dimensioner.

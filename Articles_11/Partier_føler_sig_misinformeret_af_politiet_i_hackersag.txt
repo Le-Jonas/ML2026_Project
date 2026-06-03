@@ -1,8 +1,0 @@
-Title: Partier_føler_sig_misinformeret_af_politiet_i_hackersag
-Date: 2014-09-24
-Article Type: Politik
-Author: Jakob Sorgenfri Kjær
-
-Journalist
-I rapporter fra Rigspolitiet og Forsvarets Efterretningstjeneste (FE) om hackerangrebet på CSC har myndighederne oplyst regeringen og Folketinget om, at svensk politi først henvendte sig i januar 2013 med oplysninger om hackerangrebet. Politi og anklagemyndighed har gentaget det udsagn i den verserende retssag mod to tiltalte for angrebet.
-Men i går kom det så frem i retten, at svensk politi fire gange tidligere og første gang allerede i begyndelsen af juni 2012, midt under angrebet, alarmerede dansk politi om et muligt it-indbrud i CSC.

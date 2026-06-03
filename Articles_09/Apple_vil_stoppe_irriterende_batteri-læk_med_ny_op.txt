@@ -1,7 +1,0 @@
-Title: Apple_vil_stoppe_irriterende_batteri-læk_med_ny_op
-Date: 2013-02-20
-Article Type: Digitalt
-Author: Søren Dilling
-
-Apple har nu frigivet en opdatering til styresystemet i iPhone og iPad, iOS 6.1, der skal løse et oproblem, mange har oplevet - at batteriet lyntømmes.
-Elektronikgiganten har tidligere forklaret, at problemet skyldtes, at enhederne konstant forsøgte at komme i kontakt med Microsofts Exchange-servere til email blandt andet.

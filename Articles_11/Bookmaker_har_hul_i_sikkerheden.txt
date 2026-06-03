@@ -1,8 +1,0 @@
-Title: Bookmaker_har_hul_i_sikkerheden
-Date: 2015-03-13
-Article Type: Digitalt
-Author: Laura Byager Rabøl
-
-Journalist
-Hvis du kender din kammerats fødselsdag og kan gætte dig frem til hans brugernavn, kan du uden problemer gå ind på hans bruger på bookmakersiden Betfair.
-Det viser en undersøgelse, som webportalen BetXpert har lavet af bookmakerportalerne i Danmarks brugersikkerhed.

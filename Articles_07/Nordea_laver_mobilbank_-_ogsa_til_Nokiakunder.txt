@@ -1,7 +1,0 @@
-Title: Nordea_laver_mobilbank_-_ogsa_til_Nokiakunder
-Date: 2011-01-31
-Article Type: Digitalt
-Author: Søren Dilling
-
-Nordea er nu klar med sin egen netbankapplikation på Android mobiltelefoner og som en web-baseret løsning, som kan køre på de fleste modeller, der har adgang til nettet..
-Det betyder i første omgang mulighed for at tjekke sit indestående, overføre penge mellem egne konti samt overføre penge til andre.

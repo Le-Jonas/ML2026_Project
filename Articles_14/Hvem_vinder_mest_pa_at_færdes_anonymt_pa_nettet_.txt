@@ -1,8 +1,0 @@
-Title: Hvem_vinder_mest_pa_at_færdes_anonymt_pa_nettet_
-Date: 2018-11-19
-Article Type: Tech
-Author: Emil Valdimarsson
-
-Redaktør
-I en tid hvor techfirmaer og efterretningstjenester beviseligt har kigget borgere over skulderen og hentet data fra folks profiler på sociale medier og ’private’ samtaler, er efterspørgslen for at kunne færdes online uden at efterlade sig digitale fodspor naturligt nok vokset.
-Her kommer tjenester som Wickr, Signal og WhatsApp ind i billedet. Tjenesterne er end to end-krypterede, så sendte beskeder ikke kan læses af andre end afsender og modtager. I nogle tilfælde slettes beskederne også efter kort tid.

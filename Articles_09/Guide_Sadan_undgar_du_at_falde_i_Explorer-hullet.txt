@@ -1,7 +1,0 @@
-Title: Guide_Sadan_undgar_du_at_falde_i_Explorer-hullet
-Date: 2012-09-18
-Article Type: Digitalt
-Author: Kasper Iversen
-
-Flere it-eksperter anbefaler, at man helt dropper browseren Internet Explorer, indtil en nyopdaget sikkerheds-sårbarhed ved programmet er udbedret, mens Microsoft selv forsøger at lægge en dæmper på bekymringerne.
-Men faktisk kan man uden videre tage sagen i egen hånd og selv lukke sikkerhedshullet.

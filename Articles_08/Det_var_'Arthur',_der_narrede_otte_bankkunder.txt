@@ -1,7 +1,0 @@
-Title: Det_var_'Arthur',_der_narrede_otte_bankkunder
-Date: 2011-09-30
-Article Type: Digitalt
-Author: Søren Dilling
-
-Det var 'Arthur Williams' fra New York, der narrede otte kunder i Nordeas netbank og stjal op til 8.000 kroner fra deres konto.
-Navnet er sandsynligvis falsk, men det står som indehaver af det domæne, hvorfra en såkaldt phishingside har narret koder ud af danske bankkunder.

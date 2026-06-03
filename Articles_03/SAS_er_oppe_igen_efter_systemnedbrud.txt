@@ -1,6 +1,0 @@
-Title: SAS_er_oppe_igen_efter_systemnedbrud
-Date: 2007-02-15
-Article Type: Økonomi
-Author: Efter en formiddag med forsinkelser på op til 30 minutter, er SAS igen oppe at køre på fuld tryk.
-
-Det var et systemnedbrud, der gav forsinkelser på op til 30 minutter på luftfartsselskabets afgange.

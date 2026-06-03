@@ -1,9 +1,0 @@
-Title: Nar_tech-giganterne_ikke_skal_lytte_med_Bjørn_og_T
-Date: 2019-02-02
-Article Type: Tech
-Author: Project Alias er en 3D-printet ’parasit’, der kan monteres på digitale assistenter som Google Home og Amazon Alexa og sørger for, at tech-giganterne ikke kan lytte med inden for hjemmets fire vægge.
-
-Emil Valdimarsson
-Redaktør
-27-årige Bjørn Karmann og 26-årige Tore Knudsen har i januar måned fyldt i overskrifterne i tech-medier verden over på baggrund af deres nyeste opfindelse: Project Alias.
-Produktet er en 3D-printet, svampelignende ’parasit’, som sættes oven på de digitale assistenter Google Home eller Amazon Alexa. Parasitten hvisker hvid støj og ligegyldigheder ind i assistentens mikrofon og forvirrer robotten, så forbrugeren sikrer sig, at tech-giganterne ikke kan lytte med i ens hjem, 24 timer i døgnet.

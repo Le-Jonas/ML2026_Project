@@ -1,7 +1,0 @@
-Title: Hver_tredje_computer_har_installeret_forældet_Windows
-Date: 2014-03-10
-Article Type: Forbrug
-Author: Karim Pedersen
-
-Der er kun ganske kort tid tilbage, inden Microsoft giver det officielle dødsstød til sit gamle styresystem Windows XP, men mange brugere har stadig ikke skiftet til en nyere version.
-Ifølge de seneste tal fra Netmarketshare ligger Windows XP fortsat på næsten en tredjedel af alle verdens computere. Der er ellers gået 13 år, siden softwaren blev lanceret i 2001, og salget er for længst stoppet.

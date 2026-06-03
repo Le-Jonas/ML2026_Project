@@ -1,9 +1,0 @@
-Title: Ericsson_Dele_af_netværket_flytter_til_Rumænien
-Date: 2019-03-19
-Article Type: Danmark
-Author: Sikkerhed og kvalitet er i højsædet, når Ericsson skal installere 5G i Danmark, siger Ericssons administrerende direktør, Börje Ekholm.
-
-Sebastian Stryhn Kjeldtoft
-Undersøgende redaktør
-Selv om Ericsson i de kommende måneder skal udskifte alle Huawei-komponenter i TDC’s netværk med sine egne, kommer operationen ikke til at gå ud over de danske forbrugere. Det siger Ericssons administrerende direktør, Börje Ekholm, efter at det svenske selskab mandag indgik aftale med TDC om at udbygge fremtidens 5G-netværk.
-»Moderniseringen af TDC’s netværk skal være en smertefri oplevelse for kunderne. Fra midten af i år begynder vi at opgradere systemerne, så vi når en bred dækning af 5G-netværket i Danmark mod slutningen af næste år. Til den tid vil brugerne begynde at opleve fordelene ved de meget høje 5G-hastigheder«, siger Börje Ekholm over telefon fra Brasilien.

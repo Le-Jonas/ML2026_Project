@@ -1,6 +1,0 @@
-Title: Mobilepay_er_ude_af_drift
-Date: 2016-08-29
-Article Type: Forbrug
-Author: Det kan være en god idé at tage dankort eller kontanter med i lommen her til morgen, selv om du har vænnet dig til at betale med mobiltelefonen.
-
-Danske Banks Mobilepay-system er midlertidigt ude af drift, og når man forsøger at logge på mobil-appen, får man følgende besked:

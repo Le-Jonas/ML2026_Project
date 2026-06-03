@@ -1,7 +1,0 @@
-Title: Din_kloge_telefon_er_den_nye_supercomputer
-Date: 2014-06-12
-Article Type: Anders Emil Møller
-Author: Anders Emil Møller
-
-I sidste uge præsenterede teknologimastodonten Apple det næste operativsystem til deres populære iPhone. I første omgang var det dog ikke almindelige brugere, men udviklere af applikationer til den smarte telefon, der fik vist de nye muligheder og funktioner.
-Apple åbnede for 4.000 såkaldte API’er, der gør det muligt at lade deres egen og andres software tale sammen i telefonen. En iagttager fra Financial Times kaldte det et stort filosofisk skridt for Apple, fordi det udvider mulighederne for at bruge telefonen som den avancerede internetcomputer, den også er.

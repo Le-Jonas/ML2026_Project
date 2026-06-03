@@ -1,8 +1,0 @@
-Title: Populær_internetbrowser_har_været_under_hackerangreb_i_nat
-Date: 2013-09-18
-Article Type: Digitalt
-Author: Jakob Mikael Espersen
-
-Journalist
-Virksomheden Microsoft har netop udgivet en softwarerettelse til Internet Explorer.
-Det sker, efter hackere har opdaget en sikkerhedsfejl i den legendariske webbrowser, som mange benytter sig af, skriver Reuters.

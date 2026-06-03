@@ -1,6 +1,0 @@
-Title: Hackere_kan_angribe_hjertepatienters_pacemakere
-Date: 2017-02-17
-Article Type: Danmark
-Author: Patienter med forstyrrelser i hjerterytmen kan få indopereret en lille computer, der kan overtage hjertets elektriske impuls og holde hjertets rytme i takt.
-
-Men det er ikke nødvendigvis uproblematisk, når elektriske apparater regulerer vitale funktioner i kroppen. For hvis de - som pacemakere hos hjertepatienter - er koblet til internettet, kan de også være i fare for it-angreb.

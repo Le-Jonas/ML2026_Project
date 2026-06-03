@@ -1,6 +1,0 @@
-Title: Overblik_Sadan_virker_den_tyske_lov_om_hadtale
-Date: 2018-01-09
-Article Type: Tech
-Author: En bruger på f.eks. Twitter finder et opslag krænkende i henhold til den tyske straffelovs paragraf 130's bestemmelser om had, hetz og nedsættende omtale af mennesker ud fra deres religiøse, politiske eller etniske tilhørsforhold.
-
-Brugeren udfylder en klage, bl.a. med informationer om, hvorfor det er krænkende. Klageren skal med sin digitale signatur også garantere, at klagen ikke er skrevet i sjov eller er et forsøg på at miskreditere andre brugere.

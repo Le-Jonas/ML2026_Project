@@ -1,7 +1,0 @@
-Title: Data_authority_questions_Danske_Bank_mobile_banking_solution
-Date: 2013-09-13
-Article Type: Danmark
-Author: Julian Isherwood
-
-The Swedish Data Inspection Board (DIB) has advised Danske Bank that the changes that it has planned to its mobile app netbanking system, do not satisfy the Board’s requirements on the safety of personal information.
-The ruling, which can be appealed, follows the DIB’s approaches to Danske Bank, Nordea and Handelsbanken operating in Sweden in 2012, informing them that their apps did not live up to Sweden’s personal information security requirements.

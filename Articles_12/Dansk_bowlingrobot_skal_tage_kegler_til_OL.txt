@@ -1,8 +1,0 @@
-Title: Dansk_bowlingrobot_skal_tage_kegler_til_OL
-Date: 2015-11-07
-Article Type: Viden og tech
-Author: Frederik Buhl Kristensen
-
-Journalist
-Det var et teknologisk gennembrud af de store, da IBM-computeren Deep Blue 10. februar 1996 slog den russiske skaklegende Garry Kasparov i et spil skak. Det var første gang, kunstig intelligens for alvor havde vist sin overlegenhed over menneskelig intelligens.
-Om en robot, der kan lave flere strikes end verdensmesteren i bowling, vil være et lige så stort gennembrud i 2015, er næppe sikkert. Ikke desto mindre kan det teknologiske hop være lige på trapperne.

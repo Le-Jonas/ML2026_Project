@@ -1,9 +1,0 @@
-Title: PET_skal_have_lov_til_at_masseovervage_danskere_uden_mistanke
-Date: 2025-03-31
-Article Type: Danmark
-Author: Lovudkast flytter grundlæggende hegnspæle og vil give PET uhindret adgang til offentlige registre og borgernes privatliv. Eksperter og organisationer advarer mod konsekvenser for borgeres deltagelse i offentlig debat og brug af velfærd.
-
-Jakob Sorgenfri Kjær
-Journalist
-Registre over hospitalsindlagte, besøg på skadestuer, borgernes kontakt med psykiatrien og de sociale myndigheder. Blandet i en pulje med danskernes udsagn, likes og delinger på sociale medieplatforme, som samkøres med datastrømme om bevægelser rundt på internettet og i den fysiske verden.
-Står det til et lovforslag fra SVM-regeringen, skal Politiets Efterretningstjeneste (PET) have en ny og principielt omkalfatrende adkomst til at samle og analysere »større sammenhængende datasæt« om danske borgere, virksomheder og organisationer. Det skal ske i en analyseplatform, hvor PET ved brug af kunstig intelligens skal opdage mønstre og potentielt udpege mistænkelige personer, grupper og bevægelser, som kan være relevante for videre efterforskning.

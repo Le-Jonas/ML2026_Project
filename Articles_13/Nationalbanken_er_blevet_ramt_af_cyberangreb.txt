@@ -1,8 +1,0 @@
-Title: Nationalbanken_er_blevet_ramt_af_cyberangreb
-Date: 2017-09-29
-Article Type: Danmark
-Author: Nationalbanken har været udsat for et cyberangreb.
-
-»I lighed med andre danske institutioners hjemmesider har Nationalbankens hjemmeside i dag været mål for et denial-of-service angreb«, lyder det fra Nationalbanken ifølge
-Finans.dk
-.

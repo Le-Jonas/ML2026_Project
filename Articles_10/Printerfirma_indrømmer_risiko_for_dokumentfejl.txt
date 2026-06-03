@@ -1,8 +1,0 @@
-Title: Printerfirma_indrømmer_risiko_for_dokumentfejl
-Date: 2013-08-09
-Article Type: Digitalt
-Author: Jakob Mikael Espersen
-
-Journalist
-En scanning af vigtige dokumenter forløber ikke altid risikofrit.
-Politiken bragte tidligere på ugen historien om to gættelystne Xerox Workcentre maskiner, der ifølge den tyske datalog David Kriesel ændrer på tallene, når man scanner dokumenter ind som PDF-filer.

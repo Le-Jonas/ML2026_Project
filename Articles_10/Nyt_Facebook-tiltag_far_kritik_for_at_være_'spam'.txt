@@ -1,6 +1,0 @@
-Title: Nyt_Facebook-tiltag_far_kritik_for_at_være_'spam'
-Date: 2014-04-08
-Article Type: Digitalt
-Author: Facebook afslørede i sidste måned, at de nu er klar til at tillade automatisk afspilning af videoer i alle Facebook-brugeres nyhedsfeed.
-
-En video genererer langt mere datatrafik end billeder og tekst, selvom det kun drejer sig om ganske få sekunders afspilning.

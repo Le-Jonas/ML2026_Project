@@ -1,9 +1,0 @@
-Title: Aktindsigt_afslører_hemmelighedsfuld_og_dybt_bekym
-Date: 2024-04-09
-Article Type: Viden og tech
-Author: En aktindsigt afslører en hemmelighedsfuld masseovervågning i skattevæsnet. Betydelig risiko for krænkelse af danskernes menneskerettigheder, siger regeringens vagthund.
-
-Jens Bostrup
-Journalist
-Skattevæsnet har 23 kunstigt intelligente systemer kørende, som bliver fodret med personlige oplysninger om den enkelte borger. Men formålet med overvågningen, og hvilke personlige data maskinerne bliver fodret med, bliver i vidt omfang hemmeligt.
-Skattestyrelsen har mørklagt formålet med 17 af de 23 systemer. I 7 af systemerne har Skattestyrelsen mørklagt, hvilken slags persondata de kører på.

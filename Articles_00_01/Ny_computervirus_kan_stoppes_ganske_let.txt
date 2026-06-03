@@ -1,9 +1,0 @@
-Title: Ny_computervirus_kan_stoppes_ganske_let
-Date: 2003-09-20
-Article Type: Økonomi
-Author: En ny computervirus, som er begyndt at sprede sig i Danmark kan bekæmpes forholdsvis let. Det siger sikkerhedschef i it-sikkerhedsorganisationen DK-Cert, Preben Andersen, til Ritzau. 
-»Vi skal ikke forvente en udbredelse på linje med eksempelvis blaster-ormen. Dengang var ingen forberedt på angrebet, men denne nye virus har vi allerede fundet en kur mod«, siger Preben Andersen. Virusprogrammer virker
-Den nye virus går under navnet Gibe.E, og den spreder sig via et to år gammelt hul i Microsoft Windows styresystem, hvor den angriber computerens anti-virus program eller firewall-programmer og forsøger at nedbryde dem. 
-Men kuren mod den nye virus er allerede klar. 
-»Den enkelte virksomhed eller bruger skal sørge for at få opdateret sit virusprogram, og så er der dæmmet op for Gibe.E. Der blev nemlig lavet antivirusprogram mod Gibe.E allerede i torsdags, hvor den første gang blev opdaget her i landet«, siger Preben Andersen.
-

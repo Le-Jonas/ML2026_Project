@@ -1,7 +1,0 @@
-Title: IT-ekspert_Hul_i_Internet_Explorer_varsler_store_
-Date: 2012-12-13
-Article Type: Digitalt
-Author: Søren Dilling
-
-Den alternative sikkerhed i virtuelle tastaturer på skærmen, som mange tyr til på computeren i modsætning til det fysiske, fordi de ved, at spionprogrammer kan optage og sladre om tastetryk på det fysiske tastatur, ser nu ud til at være en falsk sikkerhed.
-Et sikkerhedsfirma har nemlig opdaget, at Microsofts browser Internet Explorer i samtlige versioner kan misbruges til at fortælle alt om, hvad musen laver.

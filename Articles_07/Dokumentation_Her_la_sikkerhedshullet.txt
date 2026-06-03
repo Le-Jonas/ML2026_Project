@@ -1,7 +1,0 @@
-Title: Dokumentation_Her_la_sikkerhedshullet
-Date: 2010-09-14
-Article Type: Digitalt
-Author: Ole Wejse Svarrer
-
-Politiken skriver i dag, at hvis man logger sig på NemID via hjemmesiden nemid.dk, åbner man samtidig en ladeport af personfølsomme oplysninger som skatteforhold, familiens CPR-numre, adgang til patientjournal og medicinforbrug.
-Politiken Tjek gennemgår her sikkerhedsbristen punkt for punkt:

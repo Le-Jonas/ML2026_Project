@@ -1,6 +1,0 @@
-Title: i-Que_robot
-Date: 2015-12-07
-Article Type: Forbrug
-Author: Thomas Vigild: Med sit kæmpestore røde øje og en krop i skrigorange og hvid ligner i-Que-robotten mest af alt en slags overvågningssensor med påklistrede robotben og overdimensionerede hænder. Så snart man tænder for den og kobler den trådløst via Bluetooth til sin smartphone, begynder den at svinge kroppen rundt, blinke og tale i ét væk.
-
-I-Que bruger nemlig maskinkraften fra telefonen til at tale, og efter en lidt for langvarig introduktion lyser midterøjet op, hvilket betyder, at børnene nu kan stille i-Que spørgsmål, som den efterfølgende forsøger at finde svar på via telefonens internetforbindelse. Selv om den langtfra forstår alt, svarer den både morsomt og godt – dog ofte ufrivilligt komisk, især når den ikke forstår spørgsmålet og i stedet skifter emne.

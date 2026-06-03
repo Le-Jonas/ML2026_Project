@@ -1,9 +1,0 @@
-Title: Det_kan_da_godt_være,_at_Telli_er_dansk_statsborge
-Date: 2019-10-31
-Article Type: Tech
-Author: Telli Betül Karacan oplevede, at hendes herkomst blev brugt til at udpege hende som havende risiko for langtidsledighed. Eksperter mener, at profileringsværktøjet, der baserer sig på kunstig intelligens, er upræcist og diskriminerende.
-
-Jóhann Thór Haahr Hansen
-Journalist
-I slutningen af september sad 25-årige Telli Betül Karacan i København og forberedte sig på sit første jobcentermøde. En måned forinden havde hun afsluttet statskundskabstudierne og meldt sig ledig. Forud var hun blevet bedt om at udfylde et forberedelsesskema, hvor hun skulle vurdere sin chance for at få job, oplyse om, hvor længe hun forventede at være ledig, og om hun før havde været på overførselsindkomst.
-Men under en fane i forberedelsesskemaet var der allerede udfyldt nogle informationer om hende på forhånd. Navn, alder og etnicitet. ’Efterkommer af ikke-vestlige indvandrere’, stod der sort på hvidt på computerskærmen.

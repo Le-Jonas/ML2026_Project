@@ -1,7 +1,0 @@
-Title: USA_sigter_nordkoreaner_for_nogle_af_historiens_st
-Date: 2018-09-07
-Article Type: Tech
-Author: Morten Bay
-
-Park Jin Hyok. Dette navn vil offentligheden høre en del mere til i den kommende tid. Det er nemlig ham, der sammen med en gruppe af statsfinansierede, nordkoreanske landsmænd har udført nogle af de største hackerangreb, verden har været udsat for i de senere år. Det mener i hvert fald USAs regering, der nu officielt har sigtet Park Jin Hyok for både svindel og IT-forbrydelser.
-Det amerikanske justitsministerium har efter flere års undersøgelser fundet frem til, at Park Jin Hyok var en af hovedmændene bag WannaCry-angrebet, der i maj sidste år lagde store dele af det britiske hospitalsvæsen ned, tvang Nissan og Renault til at standse bilproduktionen på flere fabrikker og derudover ramte både de tyske og russiske jernbaner, FedEx, en række teleselskaber verden over, samt flere landes statslige computersystemer, inklusive Danmarks.

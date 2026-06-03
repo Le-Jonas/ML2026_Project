@@ -1,6 +1,0 @@
-Title: Microsoft_vil_beskytte_deres_kunder_bedre_mod_NSA-overvagning
-Date: 2013-11-28
-Article Type: Digitalt
-Author: Mistanken om, at efterretningstjenesten NSA er brudt ind Microsofts globale netværk, får nu konsekvenser.
-
-Den amerikanske IT-gigant vil styrke sit tekniske bolværk mod overvågning af internettrafikken gennem en stærkere kryptering. Det siger kilder med kendskab til sagen til Washington Post.

@@ -1,7 +1,0 @@
-Title: Nu_hjælper_Google_Maps_dig_med_at_parkere_i_København
-Date: 2017-08-30
-Article Type: Digitalt
-Author: Morten Bay
-
-Hvis du er hyppig bruger af Google Maps, vil du snart opdage en række P’er, der dukker op, når du navigerer hen til din destination. I hvert fald, hvis din destination er i København. Fra i denne uge viser Google Maps nemlig, hvor det er lettest at parkere i hovedstaden.
-Det er efterhånden længe siden, GPS-navigation var sådan noget med en stor klods med en skærm på, der sad i ens forrude. Mange har også forsaget GPS’en, der er indbygget i bilen, hvis denne er af ældre dato. Navigations-apps i ens smartphone kan nemlig også tage højde for trafikken, og det kan de gamle GPS’er ikke.

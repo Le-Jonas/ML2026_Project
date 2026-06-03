@@ -1,7 +1,0 @@
-Title: Facebook_er_arrogant_og_antidemokratisk
-Date: 2013-06-15
-Article Type: Jes Stein Pedersen
-Author: Jes Stein Pedersen
-
-Afsløringen af, at amerikanske borgeres digitale aktivitet hemmeligt bliver overvåget af efterretningsvirksomheden National Security Agency (NSA), har også været en afsløring af, at overvågningen foregår i en eller anden form for forståelse med it-giganter som Apple, Microsoft, YouTube – og Facebook.
-NSA registrerer systematisk alle personlige oplysninger, altså navn, adresse, cpr-nr., alle password og login, alle beskeder, mail, sms’er, spillelister etc.

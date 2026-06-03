@@ -1,7 +1,0 @@
-Title: Problemerne_er_snart_løst_
-Date: 2013-02-08
-Article Type: Læserbreve
-Author: Per Mosegaard
-
-Det er en helt unik YO-YO-mskine, der ligger bag debatsiderne i øjeblikket - det kræver stort held, at ramme et tidspunkt, hvor siderne bare virker nogenlunde.
-Debatredaktøren må snart skære igennem, og sørge for at der rulles tilbage til en version, der virkede. At fortsætte med et fejlbehæftet produkt, hvor det forsøges at rette problemer løbende, skaber bare flere problemer. Det er velkendt, at udviklingsarbejde under tidspres, som jeg fornemmer det sker i øjeblikket, kun sørger for at systemet bliver endnu mere ustabilt.

@@ -1,8 +1,0 @@
-Title: IBM_spiller_nøglerolle_i_stor_svensk_skandale
-Date: 2017-07-24
-Article Type: Internationalt
-Author: Jens Bostrup
-
-Journalist
-Den svenske statsminister, Stefan Löfven, er havnet i et politisk stormvejr og skal nu forklare, hvordan følsomme informationer af betydning for den nationale sikkerhed måske er havnet hos personer i udlandet, der ikke er sikkerhedsgodkendt.
-Det korte svar er, at den svenske transportstyrelse i 2015 indgik en aftale med IBM om drift af myndighedens it-system. Systemet omfatter hele det svenske register over kørekort, herunder billeder, og følsomme informationer om broer, tunnelbanen, veje og havne.

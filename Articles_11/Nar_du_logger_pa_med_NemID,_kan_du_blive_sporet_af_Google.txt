@@ -1,9 +1,0 @@
-Title: Nar_du_logger_pa_med_NemID,_kan_du_blive_sporet_af_Google
-Date: 2015-07-22
-Article Type: Digitalt
-Author: Jakob Sorgenfri Kjær
-
-Journalist
-Emilie  Kleding
-Hvis noget er gratis, er det dig, der er produktet.
-Sådan lyder tommelfingerreglen fra eksperter i datasikkerhed. Men mange offentlige myndigheder har valgt at bruge gratis tjenester fra amerikanske it-selskaber på deres hjemmesider. Omkostningen er, at data om brugernes ip-adresser, udstyr og adfærd på de offentlige hjemmesider bliver sendt videre til selskaberne.

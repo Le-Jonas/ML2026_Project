@@ -1,8 +1,0 @@
-Title: Snart_holder_din_Android-telefon_meget_længere_pa_batteriet
-Date: 2014-07-04
-Article Type: Digitalt
-Author: Morten Bay
-
-Der er en ny Android-version på vej, og for første gang har Google droppet at opkalde den efter søde sager. Indtil nu har Android-versionerne heddet alt fra Jellybean over Ice Cream Sandwich til KitKat, men den næste version hedder bare Android L. Det kan stå for mange ting, men man kunne fristes til at tro, at det står for »long«. Som i lang batterilevetid.
-36% længere levetid
-En af de mest ventede forbedringer ved den nye Android-version er nemlig, hvor lang tid, din Android-smartphone kan holde sig i gang mellem opladninger. Nye tests viser, at Android L kan holde op til 36 procent længere på batteriet end telefoner med den nuværende version af Android kan præstere.

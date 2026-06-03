@@ -1,7 +1,0 @@
-Title: Kæmpe_sikkerhedsbrist_i_NemID
-Date: 2010-09-14
-Article Type: Digitalt
-Author: Søren Dilling
-
-Det kan Politiken afsløre i dag.
-Sikkerhedsbristen findes på hjemmesiden nemid.dk, der ikke er den officielle indgang til det officielle Danmarks nye digitale signatur. Men siden er er prydet med logoet for det officielle Danmarks indgang på nettet, Borger.dk. Og du kan logge dig på systemet med din NemID-kode og nøglekort.

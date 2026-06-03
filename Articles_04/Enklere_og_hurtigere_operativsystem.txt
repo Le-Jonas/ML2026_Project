@@ -1,9 +1,0 @@
-Title: Enklere_og_hurtigere_operativsystem
-Date: 2008-02-06
-Article Type: Digitalt
-Author: Jacob Trier
-
-Langt hovedparten af computere i dag kører Windows, andre kører MacOS, og begge systemer koster et sted mellem 700 og 1.000 kroner, der typisk indregnes i prisen på den ny maskine.
-Men der findes gratis alternativer, nemlig de Linux-baserede systemer, og disse såkaldte
-open source-programmer
-er blevet meget nemmere at bruge de senere år.

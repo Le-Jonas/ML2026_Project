@@ -1,7 +1,0 @@
-Title: Smartskole_Sadan_far_du_overblikket_over_info_fra
-Date: 2013-03-01
-Article Type: Digitalt
-Author: Morten Bay
-
-Hvis du ikke kender begrebet widgets i forvejen, så kan de allerbedst beskrives som ’vinduer’ ind til en given app.
-På Android kan du for eksempel placere en kalender-widget på en af de skærme, der huser dine app-ikoner, og således kan du se, hvad der står i kalenderen, uden at du behøver åbne app’en.

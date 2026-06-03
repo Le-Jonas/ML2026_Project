@@ -1,8 +1,0 @@
-Title: Tusindvis_af_bankkunder_kan_opleve_bøvl_med_netbank
-Date: 2013-10-01
-Article Type: Privatøkonomi
-Author: Pia Buhl Andersen
-
-Journalist
-Når du den kommende tid logger på netbank, kan du opleve lang ventetid.
-En lang række danske og nordiske banker benytter it-udbyderen Skandinavisk Data Center (SDC), og her er man i færd med at ændre i nogle centrale systemer, skriver Computerworld.

@@ -1,9 +1,0 @@
-Title: Se_læsernes_bedste_Android-apps
-Date: 2010-10-28
-Article Type: Digitalt
-Author: Thomas Vigild
-
-Interessen for Android er mærkbar stigende - og efter guiden i går har flere læsere reageret ved at sende deres forslag ind til bedste Apps til Android - langt hovedparten af dem er tilmed gratis.
-Flere læsere skriver samtidig, at den ene app, jeg anbefalede i går -
-Easytether
-, der laver en Android-telefon om til et modem til computeren - er unødvendig i den nyeste version af styresystemet.

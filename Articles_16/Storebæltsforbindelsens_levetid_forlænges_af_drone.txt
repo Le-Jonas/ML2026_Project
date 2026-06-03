@@ -1,9 +1,0 @@
-Title: Storebæltsforbindelsens_levetid_forlænges_af_drone
-Date: 2021-06-13
-Article Type: Danmark
-Author: Sund & Bælt er godt i gang med digitalisering af vedligeholdet af den faste forbindelse over Storebælt. Selskabet er blandt de førende på området internationalt og er på vej med en app, som en ekspert venter, at der kan være et stort marked for.
-
-Ellen Ø. Andersen
-Journalist
-Højt over os suser trafikken ud på højbroen over Storebælt. Nede på Sprogøs kyst er der ikke meget sus. Vandet er blikstille, og solen skinner. Det passer den lille drone, som er på testflyvning ved en af de store bropiller. Om et par dage er det alvor: Så skal dronen på inspektionstur for at tage nærbilleder af bropillernes overflade.
-Det har den været en del gange efterhånden, og Storebæltsforbindelsens ejer, Sund & Bælt, har fået udviklet en algoritme, som er trænet til at genkende mulige skader. Den sorterer op til 90 procent af billederne fra, så det kun er de relevante, der skal analyseres af en ingeniør, som afgør, om der er tale om skader – samt om og hvornår de skal repareres.

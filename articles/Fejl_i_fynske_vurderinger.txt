@@ -1,9 +1,0 @@
-Title: Fejl_i_fynske_vurderinger
-Date: 2002-05-15
-Article Type: Økonomi
-Author: En menneskelig fejl er skyld i, at en tredjedel af de 110.000 ejendomme på Fyn i disse dage får tilsendt en ejendomsvurdering behæftet med fejl, skriver Fyens Stiftstidende. 
-»Vores undersøgelser lige nu viser, at vurderingerne i 19 ud af de 32 fynske kommuner er fejlagtige«, siger servicechef i Kommunedata, Bent Krogaard, Odense. 
-Hos Kommunedata, som udsender ejendomsvurderingerne, er der sket en fejl ved udprintningen, således at forside og bagside ikke passer sammen. 
- Tallene på forsiden er rigtige, mens bagsiden kan være naboens ejendomsvurdering - i heldigste fald. 
-Fastsættelsen af værdien på de enkelte ejendomme er der dog ikke ændret ved.
-

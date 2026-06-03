@@ -1,6 +1,0 @@
-Title: Yamada_DVT-1300
-Date: 2007-05-20
-Article Type: Bolig og haven
-Author: Selv om denne settopboks i standby tilstand bruger halvdelen af energiforbruget i aktiv tilstand, er den alligevel bedst i test.
-
-De tre andre settopbokse bruger i praksis lige så meget strøm, når de står i standby, som når de er aktive.

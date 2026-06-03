@@ -1,7 +1,0 @@
-Title: Dansk_professor_Sig_goddag_til_min_maskinelle_tvilling
-Date: 2014-11-27
-Article Type: Viden og tech
-Author: Henrik Scharfe
-
-I 2010 traf jeg en afgørende beslutning. For at forstå, hvad robotter egentlig er og kan, fik jeg bygget en robotkopi af mig selv i Japan. Robotten var den tredje i Geminoid-serien, og jeg gav den navnet Geminoid-DK. Geminoid betyder tvillingeagtig, og jeg troede, at efternavnet DK ville gøre det klart for de fleste, at her var tale om en dansk en af slagsen. Det har dog vist sig at kræve en del forklaring rundt om i verden.
-Meget tyder på, at vi nærmer os en tilværelse, hvor robotter på arbejdspladsen, i hjemmet, i skoler og på institutioner bliver mere og mere almindelige. EU har afsat betydelige midler til forskning i robotter, Google har for nylig opkøbt en række robotvirksomheder, Kina og Korea har lige indgået en massiv aftale om fælles forskning på området etc. Alt sammen indikationer på, hvad der kan vente os i en nær fremtid.

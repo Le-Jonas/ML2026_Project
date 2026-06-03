@@ -1,7 +1,0 @@
-Title: Virus_angriber_Apple-computere
-Date: 2011-10-24
-Article Type: Digitalt
-Author: Søren Dilling
-
-Apples dage som leverandør af verdens sikreste gadgets er talte, mener sikkerhedsfirmaet F-Secure, efter at firmaet har opdaget en virus ved navn Flashback C, der angriber Mac-computere.
-Virussen ligner et Flash Player installationsprogram, men i virkeligheden afinstallerer det Mac-computerens indbyggede virus-forsvar i Mac OS X styresystemet. Herefter er computeren helt åben for angreb.

@@ -1,7 +1,0 @@
-Title: Snart_kan_du_bruge_Dropbox_direkte_fra_Word
-Date: 2014-11-16
-Article Type: Digitalt
-Author: Morten Bay
-
-Mange Windows-brugere har formentlig allerede taget OneDrive i brug. Det er det gratis lager i skyen, som Microsoft har sat op, så man kan bruge det som lagerplads direkte i Windows.
-Men hvad nu, hvis man allerede har en konto hos Dropbox, der var en af de første, succesfulde tjenester af slagsen?

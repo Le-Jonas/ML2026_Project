@@ -1,7 +1,0 @@
-Title: Efterse_skrueblade
-Date: 2008-03-28
-Article Type: Sundhed
-Author: Troels Lykke
-
-Lejerne skal være i orden på en motor. Zinkanoden mod galvanisk tæring på en skrueaksel, eller som her på et Z-drev, skal som regel skiftes hvert andet år, ellers kan man tabe zinkanoden i løbet af sæsonen, da den kan være tæret væk.
-Zinkanoder modvirker også galvanisk tæring af skroggennemføringer som f.eks. vandafløb og udstødning.

@@ -1,7 +1,0 @@
-Title: Fladskærmen_virker_ikke_før_den_er_betalt
-Date: 2007-05-10
-Article Type: Digitalt
-Author: Søren Dilling
-
-En ny RFID-chip, der gør dvd'er, MP3-afspillere, fladskærme, printere og andre elektroniske og elektriske apparater ubrugelige, når de forlader fabrikken, kommer måske snart på markedet.
-Først når kunden betaler, bliver der sendt en radiokode, som aktiverer produktet, skriver Ingeniøren.

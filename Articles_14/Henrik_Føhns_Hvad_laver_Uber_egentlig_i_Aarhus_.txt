@@ -1,8 +1,0 @@
-Title: Henrik_Føhns_Hvad_laver_Uber_egentlig_i_Aarhus_
-Date: 2018-07-16
-Article Type: Viden og Tech analyser
-Author: Henrik Føhns
-
-tidligere vært på DR’s populære P1-radioprogram ’Harddisken’. Han redigerer i dag Ingeniørforeningens podcast Techtopia og skriver jævnligt klummer om teknologiske forandringer her i avisen.
-Hver dag møder 55 mennesker op på et kontor på Åboulevarden i Aarhus’ midtby og arbejder for Uber. Selv om Uber med den omdiskuterede taxalovgivning trak stikket i København og stoppede med at udbyde sin kørselstjeneste til danskerne i april 2017, så lever firmaets udviklingskontor i Aarhus i bedste velgående.
-Den såkaldte Uber-lovgivning stiller krav om sædefølere og taxametre ved taxakørsel. Det betyder dog intet for kontoret i Aarhus, der siden 2014 har bygget og leveret centrale dele af den softwareinfrastruktur, som omkring 3 millioner chauffører og 75 millioner passagerer bruger på verdensplan ifølge Ubers egne tal.

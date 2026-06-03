@@ -1,9 +1,0 @@
-Title: Hjælp_og_tips_til_Politiken.tv
-Date: 2008-02-04
-Article Type: Video
-Author: John Rahbek
-
-Politiken.tv afspiller i videoformatet Flash, så hvis du har problemer med at afspille videoerne, så kan årsagen være, at Flash ikke er installeret på din computer.
-Du kan hente og installere den seneste version af Adobe Flash
-her
-.

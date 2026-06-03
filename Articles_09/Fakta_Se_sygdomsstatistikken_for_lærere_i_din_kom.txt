@@ -1,7 +1,0 @@
-Title: Fakta_Se_sygdomsstatistikken_for_lærere_i_din_kom
-Date: 2012-10-16
-Article Type: Danmark
-Author: Kilde: Det Fælleskommunale Løndatakontor
-
-Note: Sygedage er opgjort i kalenderdage pr. helårsansat lærer i folkeskolen. Det betyder, at for sygeperioder, der strækker sig over en weekend, vil weekenddagene tælle med i sygeregnskabet.
-Tabellen kan ikke sammenlignes med mange kommuners egne lokale opgørelser over sygefravær, fordi de kan være opgjort på baggrund af antal ansatte - og ikke helårsansatte.

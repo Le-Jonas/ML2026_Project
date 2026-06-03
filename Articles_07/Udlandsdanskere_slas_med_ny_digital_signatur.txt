@@ -1,7 +1,0 @@
-Title: Udlandsdanskere_slas_med_ny_digital_signatur
-Date: 2010-08-27
-Article Type: Digitalt
-Author: Niels Rytter
-
-Det kan mange udlandsdanskere havne i.
-En teknisk fejl hos firmaet bag den nye digitale signatur betyder, at det ikke er muligt for udlandsdanskere at bestille NemID. I hvert fald ikke over nettet gennem deres eksisterende Digital Signatur.

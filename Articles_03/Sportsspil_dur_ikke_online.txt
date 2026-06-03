@@ -1,7 +1,0 @@
-Title: Sportsspil_dur_ikke_online
-Date: 2006-09-13
-Article Type: Spil
-Author: Thomas Vigild
-
-Det mener storproducenten af sportsspil, Electronic Arts, der er gået i gang med at lukke en lang række computerservere, der før har administreret online-multiplayerdelene til populære sportsspil som ’FIFA Soccer 2005’, ’Tiger Woods PGA Tour 2005’ eller ’NBA Live 2005’, alle udgivet i 2004.
-Spillene kan stadig spilles derhjemme offline, men internetdelen lukkes nu, da det ifølge EA ikke længere er rentabelt at lade serverne køre, fordi der er for få spillere online.

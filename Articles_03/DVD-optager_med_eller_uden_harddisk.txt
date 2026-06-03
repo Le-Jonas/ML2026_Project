@@ -1,7 +1,0 @@
-Title: DVD-optager_med_eller_uden_harddisk
-Date: 2007-04-03
-Article Type: Digitalt
-Author: Søren Dilling
-
-På næsten alle optagere er det muligt at mærke de forskellige optagelser og fjerne visse dele som for eksempel starten på en forsinket optagelse, reklamer og lignende.
-Nogle dvd-optagere uden harddisk kan også lave TimeShift optagelse, som betyder at man kan optage et sted på disken, mens man afspiller fra et andet sted.

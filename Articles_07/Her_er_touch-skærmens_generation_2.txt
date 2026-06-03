@@ -1,8 +1,0 @@
-Title: Her_er_touch-skærmens_generation_2
-Date: 2011-05-16
-Article Type: Digitalt
-Author: Thomas Vigild
-
-Glem nutidens trykfølsomme skærme. 
-Morgendagens computer eller mobiltelefon kan styres via elektroniske lysrammer, som præcist sporer hvordan, du bevæger dine hænder. Og det helt uden at trykke på nogen knapper.
-Amerikanske forskere har udviklet en prototype på en ny slags computerstyring, der både er billig og præcis i drift. Den 28"-store ramme kaldet ZeroTouch ser ikke umiddelbart ud af meget, men stikker man fingre, hænder, arme eller objekter igennem den, kan de spores og dermed omsættes til kommandoer til en skærm bag rammen.

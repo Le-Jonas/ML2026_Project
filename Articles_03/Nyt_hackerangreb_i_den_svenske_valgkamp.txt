@@ -1,6 +1,0 @@
-Title: Nyt_hackerangreb_i_den_svenske_valgkamp
-Date: 2006-09-16
-Article Type: Internationalt
-Author: Sveriges Socialdemokratiske ungdomsparti (SSU) anmeldte i nat, at deres database var blevet hacket, oplyser partisekretær Peter Skeppeström.
-
-Personoplysninger om SSU´s medlemmer lå åbent tilgængelige på internettet, da Peter Skeppeström i går opdagede, at partiet hjemmeside var blevet hacket. Teknikere har siden arbejdet på højtryk med problemet.

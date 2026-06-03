@@ -1,7 +1,0 @@
-Title: Ny_GPS-app_fortæller_dig_hvor_du_skal_parkere
-Date: 2012-08-31
-Article Type: Digitalt
-Author: Morten Bay
-
-Det er ikke så længe siden, GPS-enheder blot var noget, vi brugte i bilerne. Men i dag bruger vi dem i vores smartphones til at finde vej på cykel, til fods såvel som på fire hjul. Det har tyske Navigon nu taget konsekvensen af i deres nye app til iOS og Android.
-Google får Maps til at virke uden netforbindelse

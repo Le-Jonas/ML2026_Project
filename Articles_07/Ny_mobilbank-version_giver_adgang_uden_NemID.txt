@@ -1,7 +1,0 @@
-Title: Ny_mobilbank-version_giver_adgang_uden_NemID
-Date: 2011-04-14
-Article Type: Digitalt
-Author: Søren Dilling
-
-Danske Banks mobilbank er nu ude i en ny version, der både giver adgang til at tilmelde regtgninger til betalingservice og til at få adgang til mobilbanken uden om NemID- nøglekortet, hvis man blot skal se de seneste opdateringer på sine konti.
-»Fremover skal man blot anvende sit bruger-ID og sin personlige servicekode, hvis man vil tjekke sin saldo eller se de seneste transaktioner« siger Peter Trier Schleidt, vicedirektør i Danske Banks IT og udviklingsafdeling.

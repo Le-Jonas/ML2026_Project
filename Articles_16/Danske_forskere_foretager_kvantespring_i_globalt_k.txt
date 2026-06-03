@@ -1,8 +1,0 @@
-Title: Danske_forskere_foretager_kvantespring_i_globalt_k
-Date: 2022-02-23
-Article Type: Viden
-Author: Et dansk forskerhold har netop demonstreret, at man kan sikre en datastrøm helt imod hacking ved hjælp af kvantemekanik. Men spørgsmålet er, hvad der rammer os først: superstærke kvantecomputere, der kan hacke sig ind overalt, eller kryptering til at beskytte os imod dem.
-
-Nils Thorsen
-De færreste af os er nok klar over det, men kapløbet er allerede i fuld gang. Og før eller siden kommer vi til at mærke det. Et kapløb mellem de såkaldte kvantecomputere, som forskere i disse år tager tilløb til, og som skønnes at blive langt stærkere end nutidens computere. Og de sikkerhedssystemer, de har lige så travlt med at udvikle, fordi de gamle af slagsen ikke vil kunne hamle op med fremtidens computerkraft.
-Og hvem der kommer først – og med hvad – kan få stor betydning for klodens digitale sikkerhed og for, hvilke selskaber og lande der kommer stærkest ud af startboksene, når kloden igen skifter digitalt gear, og vi får en regnekraft, der kan få nutidens teknologi til nærmest at se rørende langsom ud. Eller som Ulrich Busk Hoff, seniorrådgiver i kvanteteknologi ved Grundforskningscentret bigQ på Danmarks Tekniske Universitet, sammenfatter det:

@@ -1,6 +1,0 @@
-Title: ’Grønne’_el-certifikater_star_i_vejen_for_grøn_oms
-Date: 2018-09-04
-Article Type: Tech
-Author: Det føles rart og klimavenligt, når man kan man sætte opvaskemaskinen i gang på grøn strøm. Men de grønne certifikater vildleder forbrugerne. Og hvad værre er: De står i vejen for en teknologisk udvikling, der for alvor vil fremme den grønne omstilling.
-
-Det siger Olivier Corradi, grundlægger af tmrow.com, der har specialiseret sig i at bruge kunstig intelligens og big data til at redde klimaet.

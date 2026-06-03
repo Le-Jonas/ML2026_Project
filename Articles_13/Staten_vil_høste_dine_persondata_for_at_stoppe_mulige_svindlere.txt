@@ -1,9 +1,0 @@
-Title: Staten_vil_høste_dine_persondata_for_at_stoppe_mulige_svindlere
-Date: 2017-12-13
-Article Type: Danmark
-Author: Jakob Sorgenfri Kjær
-
-Journalist
-
-Ved at køre en række forskellige registre med persondata sammen med oplysninger om borgerne fra det åbne internet vil regeringen bremse personer, som sandsynligvis har intentioner om at begå økonomisk kriminalitet.
-Et lovudkast viser, at Erhvervsstyrelsen vil høste data fra forskellige myndigheder og bruge såkaldt machine learning i sagsbehandlingen: kunstig intelligens, som analyserer persondata fra Skat og andre myndigheder og finder mistænkelige mønstre. Med algoritmer vil styrelsen bremse mønsterafvigere i at stifte firma og angive mistænkelige selskaber til Skat.

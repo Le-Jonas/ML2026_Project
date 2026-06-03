@@ -1,8 +1,0 @@
-Title: 40_investeringsradgivere_bliver_erstattet_af_robotter_i_opsigtsvækkende_fyringsrunde
-Date: 2017-04-19
-Article Type: Økonomi
-Author: Adam Hannestad
-
-Journalist
-Når et selskab med 13.000 medarbejdere beslutter at nedlægge 40 stillinger, er det normalt ikke noget, der trækker den store opmærksomhed. Men da verdens største porteføljemanager, BlackRock, offentliggjorde en nyhed om netop dette for to uger siden, vakte det opsigt.
-For de 40 personer skulle erstattes af robotter. Eller rettere: ikke fysiske robotter, men computerprogrammer, der via såkaldt kunstig intelligens kan planlægge investeringer for selskabets kunder.

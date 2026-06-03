@@ -1,7 +1,0 @@
-Title: Smartphone-kunder_i_Android-marked_risikerer_it-ty
-Date: 2011-03-02
-Article Type: Digitalt
-Author: Peter Voergaard
-
-Danskere med Android-telefoner risikerer at blive mål for it-tyve, fordi applikationerne til telefonen ikke bliver sikkerhedskontrolleret, inden de lægges ud til brugerne.
-Det er Androids-systemets åbne marked for applikationer, som udgør sikkerhedsbristen, fordi it-kriminelle frit kan designe tilsyneladende harmløse progammer, som kan stjæle koder og bankoplysninger fra brugerne, advarer antivirus-firmaet Bullguard, som lever af at sælge sikkerhedssoftware.

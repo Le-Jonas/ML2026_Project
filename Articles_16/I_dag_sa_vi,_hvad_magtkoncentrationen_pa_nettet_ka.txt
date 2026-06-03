@@ -1,9 +1,0 @@
-Title: I_dag_sa_vi,_hvad_magtkoncentrationen_pa_nettet_ka
-Date: 2021-06-08
-Article Type: Tech
-Author: Det er endnu uklart, hvorfor en række af verdens største hjemmesider gik ned tirsdag. Men nedbruddet viser, at internettet er skrøbeligt, siger en ekspert.
-
-Adam Hannestad
-Journalist
-Muligvis siger firmanavne som Fastly, Cloudflare, Cloudfront eller Akamai ikke de fleste noget. Men hvis en eller flere af dem pludselig har problemer, kan man som it-bruger mærke det verden over.
-Det kunne man pludselig se tirsdag, da et uforklaret nedbrud hos Fastly fik hjemmesider verden over til at gå ned på samme tidspunkt. Den britiske regerings, for eksempel. Populære webtjenester som Reddit, Twitch, Spotify eller PayPal. Videoudbydere som HBO Max. Eller medier som CNN, Le Monde, BBC og danske TV 2.

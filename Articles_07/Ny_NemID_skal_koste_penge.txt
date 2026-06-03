@@ -1,7 +1,0 @@
-Title: Ny_NemID_skal_koste_penge
-Date: 2010-12-09
-Article Type: Digitalt
-Author: Søren Dilling
-
-I løbet af det næste halvår vil DanID, som er firmaet bag NemID, være klar med alternativer til papkortet med engangskoder. Men det vil efter al sandsynlighed koste penge at bruge for eksempel mobiltelefonen i stedet for papkortet.
-»Vi følger to spor: Et, hvor koderne genereres af software på folks mobiltelefon og et, hvor det sker med en særlig token. Vi ved ikke endnu, hvad vi vælger. Det kan også ende med begge to,« forklarer Jette Knudsen, kommunikationschef hos DanID til version2.dk

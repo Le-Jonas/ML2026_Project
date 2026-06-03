@@ -1,9 +1,0 @@
-Title: Ekspert_»Mediechefer_ma_have_ondt_i_maven«_over_G
-Date: 2024-05-17
-Article Type: Viden og tech
-Author: Googles nye AI-funktion viser, at ny EU-lovgivning er forældet, endnu inden den er trådt i kraft, mener europæiske medieorganisationer.
-
-Jens Bostrup
-Journalist
-EU-loven om kunstig intelligens, AI Act, blev vedtaget sidste år og er endnu ikke trådt i kraft. Men den er allerede blevet overhalet af den rivende udvikling af generativ kunstig intelligens.
-Det siger Dicle Duran Nielsen, adm. direktør i Danske Medier, efter nyheden om, at Googles AI Overblik kommer til Danmark og andre europæiske lande inden årets udgang. Allerede i denne uge bliver den rullet ud i USA. Overblikket, der præsenteres i toppen af resultatsiden, er et kunstigt intelligent resume af de hjemmesider, den traditionelle søgning henviser til.

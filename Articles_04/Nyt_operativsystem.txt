@@ -1,7 +1,0 @@
-Title: Nyt_operativsystem
-Date: 2008-02-01
-Article Type: Digitalt
-Author: Michael C. Svendsen
-
-Operativsystemet er det program, der forvandler computeren fra en kostbar, bippende metalklump til et værktøj, man faktisk kan bruge til noget.
-Langt hovedparten af computere i dag kører Windows, andre kører MacOS, og begge systemer koster et sted mellem 700 og 1.000 kroner, der typisk indregnes i prisen på den ny maskine.

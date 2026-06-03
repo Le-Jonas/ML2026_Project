@@ -1,7 +1,0 @@
-Title: Sadan_beskytter_du_dig_mod_de_nyopdagede_hacker-huller_i_computere_og_smartphones
-Date: 2018-01-05
-Article Type: Digitalt
-Author: Morten Bay
-
-Onsdag blev IT-verdenen sat i en tilstand af panik. Det blev nemlig opdaget, at langt de fleste computere, smartphones og tablets, der er i brug i dag, har to store sikkerhedshuller, som hackere kan udnytte til at komme ind i resten af maskinen. Eksperterne arbejder hårdt på at få lukket hullerne lige nu. Men før den endegyldige forsegling af hullerne sker, er der ting, du kan gøre for at minimere faren.
-De to sikkerhedshuller har fået navnene ’Meltdown’ og ’Spectre’. Årsagen til, at de udgør så farlige sikkerhedshuller er ret teknisk, men det største problem er udbredelsen af dem. Hullerne er nemlig til stede i stort set alle CPU’er fra Intel, ARM og AMD, der er blevet produceret de sidste 20 år. Det betyder, at såvel pc’er, Mac-computere, iPhones, iPads og Android-smartphones og -tablets nu kan være i fare.

@@ -1,7 +1,0 @@
-Title: Verdens_første_pc-virus_smittede_via_floppy-disket
-Date: 2011-03-11
-Article Type: Digitalt
-Author: Søren Dilling
-
-I disse dage for 25 år siden lavede to pakistanere verdens første computervirus til pc'er.
-It-sikkerhedsfirmaet F-Secure er vendt tilbage til, hvor det hele startede i Pakistan med virussen Brain. Det er der kommet en kort online dokumentarfilm ud af. (Se faktaboksen til højre)

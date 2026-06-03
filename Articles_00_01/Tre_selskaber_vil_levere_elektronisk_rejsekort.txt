@@ -1,9 +1,0 @@
-Title: Tre_selskaber_vil_levere_elektronisk_rejsekort
-Date: 2004-05-05
-Article Type: Danmark
-Author: Ud med gamle klippekort og ind med et plastikkort, der automatisk giver den rigtige pris for en rejse med bus eller tog. 
-Kortet arbejdes der på. Foreløbig har tre selskaber meldt sig på banen som leverandører til selskabet Rejsekort A/S, der er ejet af DSB, HUR, fire amtslige trafikselskaber og Ørestadsselskabet. De tre selskabsgrupper vil konkurrere om at levere et system til elektronisk rejsekort. Først i hovedstaden
-Vinderen, der udpeges sidst på året, skal etablere, installere og drive rejsekortet. I første omgang i hovedstadsområdet og derfra videre ud i landet, så et rejsekort med tiden kan bruges til al kollektiv trafik i Danmark. 
-Ideen med kortet er, at passagerer blot skal køre kortet igennem ved rejsens start og rejsen slutning. Betalingen for bus- og togrejserne sker herefter automatisk - fratrukket den rabat, som en person har ret til. Dermed skulle det være slut med at have klippekort til forskellige trafikselskaber liggende krøllede i bunden af tasken. 
-De tre selskaber er East-West Denmark, TransSys Danmark og Unisys.
-

@@ -1,9 +1,0 @@
-Title: Alexa,_Siri_og_Assistant_Sadan_tjekker_du,_hvad_d
-Date: 2019-08-20
-Article Type: Tech
-Author: Det er nemt at se, hvad Alexa og Assistant har hørt dig sige, men det er straks sværere med Siri. Vi guider dig til, hvilke optagelser, de har af dig, og hvordan du sletter dem.
-
-Jonas Pröschold
-Journalist
-I flere lande er det kommet frem, at techgiganter har lyttet til brugeres fortrolige informationer. Tirsdag kan Politiken for første gang afdække, at projektansatte i selskaber hyret af Apple og Google har hørt og nedskrevet indhold fra danskeres telefoner og smarthøjtalere, som brugerne næppe var klar over.
-Apple har stemmetjenesten ’Siri’ og Google har ’Assistant’ — de har det til fælles, at de begge beredvilligt hjælper dig, når du har et spørgsmål eller vil have dem til at tælle ned til dit æg er blødkogt.

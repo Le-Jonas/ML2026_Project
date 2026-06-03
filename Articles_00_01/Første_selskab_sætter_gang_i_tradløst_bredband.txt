@@ -1,9 +1,0 @@
-Title: Første_selskab_sætter_gang_i_tradløst_bredband
-Date: 2001-03-15
-Article Type: Økonomi
-Author: Selskabet Butler Networks har åbnet Danmarks første FWA-forbindelse til trådløst bredbånd, efter at selskabet i december var blandt de udvalgte, der fik en licens af Telestyrelsen. Den første FWA-basestation er etableret på Vesterbrogade i København. Den første forbindelse er etableret til konsulentvirksomheden Dubex på Islands Brygge. 
-»Vi fik tilbudt at være testkunde hos Butler Networks, og på få dage havde vi en trådløs forbindelse etableret til vores internetudbyder. Det er en let og hurtig måde at få ægte bredbånd på«, siger Gorm Mandsberg, partner i Dubex. 
- Målgruppen for FWA, Fixed Wireless Access, hos Butler Networks er virksomheder med behov for at transmittere data, tale og video og med krav om store båndbredder. Blandt kommende opkoblinger nævnes boligforeninger med krav om stor kapacitet, reklamebureauer, der skal transmittere billeder, og koncerner med stort behov for udveksling af information. 
- Butler Networks er klar med sin næste basestation i København og venter at være i Jylland til sommer. Efter planen vil selskabet være oppe på 31 basestationer, inden året er omme. 
-Hver station har en rækkevidde på fire kilometer.
-

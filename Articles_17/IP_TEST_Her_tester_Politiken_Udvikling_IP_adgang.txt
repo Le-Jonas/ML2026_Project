@@ -1,8 +1,0 @@
-Title: IP_TEST_Her_tester_Politiken_Udvikling_IP_adgang
-Date: 2023-01-20
-Article Type: IP test
-Author: Dette er en test artikel.
-
-Rasmus Damberg
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque euismod auctor justo id finibus. Donec non ex aliquet, tempor ante quis, facilisis arcu. Proin ut felis odio. Donec commodo hendrerit sagittis. Vivamus eu eleifend orci, vitae condimentum lacus. Duis nulla lorem, feugiat id pellentesque ac, euismod quis mi. Cras a ullamcorper urna.
-Morbi pellentesque suscipit tortor id ornare. Mauris feugiat gravida mollis. Suspendisse pretium nibh at sem tincidunt, suscipit fringilla tellus semper. In hac habitasse platea dictumst. Pellentesque sit amet rhoncus metus. Quisque ultrices justo at urna euismod maximus. Donec blandit dignissim tellus, nec posuere nulla euismod nec. Nulla condimentum ex quis ex porta efficitur.

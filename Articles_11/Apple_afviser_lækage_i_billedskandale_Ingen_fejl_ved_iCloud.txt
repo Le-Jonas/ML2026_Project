@@ -1,6 +1,0 @@
-Title: Apple_afviser_lækage_i_billedskandale_Ingen_fejl_ved_iCloud
-Date: 2014-09-03
-Article Type: Digitalt
-Author: Den amerikanske computerproducent Apple oplyser, at der er ikke er fundet fejl ved dets iCloud-service, hvor brugere kan lagre billeder og dokumenter virtuelt.
-
-Udtalelsen kommer i forbindelse med en skandale, hvor nøgenbilleder af blandt andet Hollywood-skuespillere er blevet lækket søndag og mandag. Billederne har hackere angiveligt fået gennem målrettede angreb på Apples tjenester.

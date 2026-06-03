@@ -1,7 +1,0 @@
-Title: Nyt_program_vil_gøre_det_muligt_at_overvage_kærest
-Date: 2012-08-08
-Article Type: Digitalt
-Author: Kasper Iversen
-
-Snart kan helt almindelige mennesker uden de store forhindringer aflytte samtaler, stjæle data og sende sms'er til ekstremt dyre numre fra Android-telefoner.
-Ved en konference, som begynder i dag i staten Washington, vil to it-sikkerhedsfolk nemlig offentliggøre et nyt, gratis værktøj, der gør det let for de fleste at bygge såkaldt malware.

@@ -1,7 +1,0 @@
-Title: SAS-flytype_risikerer_strømsvigt_i_cockpit
-Date: 2008-08-08
-Article Type: Økonomi
-Author: Andreas Lindqvist
-
-Strømsvigt i instrumenter, navigationsudstyr og landingshjul kan være livsfarlige under start og landing.
-Ikke desto mindre er der konstateret ikke mindre end 37 af den slags episoder på fly fra Airbus' 320-serie, som SAS har 12 af. Det er et mellemdistancesfly, som typisk bruges på europæiske flyvninger.

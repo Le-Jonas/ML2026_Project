@@ -1,7 +1,0 @@
-Title: Sadan_klarer_du_opdateringen_fra_Apple
-Date: 2011-10-25
-Article Type: Digitalt
-Author: Søren Dilling
-
-Mange har problemer med at opdatere deres iPhone, iPad eller iPod Touch til deet nye styresystem fra Apple, IOS5. her er et par bud på, hvordan du gør.
-Slut din enhed (iPod Touch, iPhone eller iPad) til din pc og start iTunes og sørg for, at iTunes har forbindelse til din enhed.
