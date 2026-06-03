@@ -1,9 +1,0 @@
-Title: Formand_frygter,_at_farlig_tendens_med_overvagning
-Date: 2022-10-18
-Article Type: Viden og tech
-Author: Arbejdsgiverne har mulighed for at tjekke medarbejdernes arbejde i alle detaljer. Men det kan skabe stress og mistrivsel, frygter ingeniørforeningen IDA.
-
-Jens Bostrup
-Journalist
-Mathilde Lærke Nielsen lever af at betjene kunder over telefonen. Siden april er alle hendes samtaler ved hjælp af kunstig intelligens blevet optaget og analyseret, og der er løbende givet point for, hvor godt hun gør det. Resultaterne bliver slået op på en storskærm.
-Da maskinen blev indført i ingeniørforeningen IDA’s forsikringsselskab, lærte Mathilde Lærke Nielsen sig hurtigt aldrig at svare »tak og i lige måde«, når en kunde afsluttede samtalen med at ønske hende en fortsat god dag.

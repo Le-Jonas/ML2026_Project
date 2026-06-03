@@ -1,9 +1,0 @@
-Title: Lækkede_dokumenter_afslører_ny_vildledning_Kunsti
-Date: 2021-10-22
-Article Type: Viden og tech
-Author: Facebook vidste, at kunstig intelligens er meget lidt effektiv. Men gjorde sig endnu mere afhængig af den for at skjule det. Og gav et helt andet billede udadtil.
-
-Jens Bostrup
-Journalist
-Facebooks topchef, Mark Zuckerberg, har under adskillige høringer i den amerikanske Kongres givet indtryk af, at stort set alle hadefulde og voldelige opslag bliver fjernet af den kunstige intelligens, som Facebook har investeret milliarder i at udvikle de seneste fem år.
-Men interne dokumenter, som whistlebloweren Frances Haugen tog med sig, da hun i sommer forlod Facebook, fortæller en ganske anden historie. Ifølge Facebooks egne opgørelser bliver kun omkring 5 procent af de hadefulde opslag og kun 0,6 procent, der rummer vold eller opfordringer til vold, fjernet. Resten får lov at stå, skriver The Wall Street Journal, der har fået Frances Haugens materiale.

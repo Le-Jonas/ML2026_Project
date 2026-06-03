@@ -1,9 +1,0 @@
-Title: Robert_Lauritzen_matte_helt_til_Indien_og_Japan_fo
-Date: 2021-04-26
-Article Type: Tech
-Author: Uden danske data er der større risiko for fejl, når kunstig intelligens analyserer danskere. EU’s nye forslag om regulering kan åbne vejen til danske sundhedsdata.
-
-Jens Bostrup
-Journalist
-Robert Lauritzens maskine kan på under 60 sekunder afgøre, om en hovedpine skyldes noget alvorligt såsom kræft, blodprop eller blødning. I givet fald kan den med det samme udpege de områder af hjernen, der skal undersøges nærmere.
-De 95 procent af patienterne, der bortset fra hovedpinen ikke fejler noget alvorligt, der kan behandles, kan med det samme gå hjem.

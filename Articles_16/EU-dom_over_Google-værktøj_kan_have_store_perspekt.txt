@@ -1,9 +1,0 @@
-Title: EU-dom_over_Google-værktøj_kan_have_store_perspekt
-Date: 2022-01-19
-Article Type: Tech
-Author: Oplysninger om brugerne bliver ulovligt sendt til USA, fastslår Østrigs datatilsyn. De danske datatilsyn arbejder derfor på en ny vejledning til danske virksomheder.
-
-Jens Bostrup
-Journalist
-Det mest udbredte værktøj, virksomheder bruger til at analysere trafikken på deres hjemmeside, kan ikke længere bruges. Google sender i strid med de europæiske regler om databeskyttelse oplysninger om brugerne til USA, fastslår det østrigske datatilsyn.
-Afgørelsen gælder umiddelbart i Østrig, men det danske datatilsyn arbejder på en ny vejledning til danske virksomheder, skriver Datatilsynet på sin hjemmeside torsdag.

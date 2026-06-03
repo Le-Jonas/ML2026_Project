@@ -1,9 +1,0 @@
-Title: Ekspert_efter_afsløringer_fra_Nemlig.coms_lager_»
-Date: 2021-04-11
-Article Type: Forbrug
-Author: Ingen tid til tissepauser og et headset, der giver ordrer og måler medarbejdernes effektivitet i realtid. Det er forholdene for pakkerne hos Nemlig.com, der af eksperter bliver betegnet som sundhedsskadelige.
-
-Jonas Pröschold
-Journalist
-»38-001«, siger den engelsktalende robot i headsettet. »68«, svarer lagermedarbejderen, da han står foran reol 38 og har fundet hylde 001, hvor stakkevis af æggebakker med skrabeæg står på en europalle. Alle produkter på Nemlig.coms lager har bekræftelseskoder, og 68 er koden for skrabeæggene.
-»Tag 1«, siger robotten, og medarbejderen gentager »1« og tager en enkelt æggebakke fra pallen. »Kasse 5«, siger robotten, og medarbejderen halvløber tilbage til sin pakkevogn. Han finder kasse 5 og læser kassens bekræftelseskode, »55«, højt, hvorefter han lægger æggene i den sorte flamingokasse. »38-003« siger robotten, og medarbejderen løber igen tilbage til reol 38 for at hente varer til en anden ordre.

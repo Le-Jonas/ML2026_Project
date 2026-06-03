@@ -1,9 +1,0 @@
-Title: Værtens_officielle_app_kan_spionere_pa_deltagerne_
-Date: 2022-11-06
-Article Type: Tech
-Author: Menneskeretsgrupper og The Guardian har analyseret den egyptiske app, der kræver adgang til deltagernes e-mail, billeder, gps-data og kamera.
-
-Jens Bostrup
-Journalist
-De omkring 25.000 stats- og regeringschefer, ministre, diplomater, journalister, virksomheder og aktivister, der deltager i årets klimatopmøde i Egypten, skal acceptere nogle ret skrappe betingelser, når de installerer den officielle app fra de egyptiske værter: Appen kræver adgang til telefonens gps-data, kamera og billeder.
-Den egyptiske regering, der har udviklet appen, forbeholder sig ret til at gå ind i brugernes konti, når det tjener »tekniske og administrative formål og af sikkerhedsgrunde«, som det hedder i privatlivsaftalen.

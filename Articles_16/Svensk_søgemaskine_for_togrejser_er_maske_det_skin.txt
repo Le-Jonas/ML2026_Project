@@ -1,9 +1,0 @@
-Title: Svensk_søgemaskine_for_togrejser_er_maske_det_skin
-Date: 2021-04-12
-Article Type: Togrejser
-Author: Railtic har fået svensk innovationsstøtte og håber snart at nå ambitionen om at være togrejsens svar på Momondo.
-
-Sune Højrup Bencke
-Journalist
-Siden den svenske søgemaskine for togrejser Railtic åbnede for halvandet år siden, har den overordnede ambition været klar: At skabe et modsvar til en velkendt flysøgemaskine som Momondo.
-Altså en rejsetjeneste, hvor brugeren med en enkelt søgning får hele sin rejseplan med navn på togoperatørerne, tider, stop og information om alle former for service om bord – forskellige klasser, sovemuligheder og eventuelt restaurantvogn.

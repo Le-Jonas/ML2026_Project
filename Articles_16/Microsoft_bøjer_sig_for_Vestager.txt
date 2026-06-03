@@ -1,9 +1,0 @@
-Title: Microsoft_bøjer_sig_for_Vestager
-Date: 2021-05-06
-Article Type: Tech
-Author: Trækket skal imødekomme EU’s ønske om ’teknologisk suverænitet’.
-
-Jens Bostrup
-Journalist
-Overvej et øjeblik, hvor mange følsomme data, du og alle andre brugere deler på Microsoft Teams eller nedfælder i Outlook, Word eller Excel, der automatisk bliver lagret et sted oppe i ’skyen’. En sand guldgrube for en efterretningstjeneste.
-Selskabet bag Office 365, en af de mest udbredte programpakker i Europa, lover nu, at alle de data, der samles ind om brugerne, vil forblive i EU. Løftet gælder også data, der lægges op på cloud-tjenesten Azure.

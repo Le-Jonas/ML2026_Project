@@ -1,9 +1,0 @@
-Title: Datatilsynet_udtrykker_hard_kritik_af_SSI's_made_a
-Date: 2021-04-29
-Article Type: Danmark
-Author: Datatilsynet langer ud efter Statens Serum Instituts (SSI) omgang med personfølsomme oplysninger indsamlet under starten af corona-pandemien.
-
-Ebbe Sidenius
-Journalist
-»Det er næsten så alvorligt, som det overhovedet kan blive«, siger Allan Frank, som er it-sikkerhedsspecialist og jurist hos Datatilsynet.
-En udtalelse juristen kommer med efter, at netop Datatilsynet tidligere i dag udtalte hård kritik af Statens Serum Instituts (SSI) håndtering af personfølsomme data. Data om befolkningen som SSI indsamlede i starten af pandemien.

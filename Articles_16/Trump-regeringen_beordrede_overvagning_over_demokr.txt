@@ -1,9 +1,0 @@
-Title: Trump-regeringen_beordrede_overvagning_over_demokr
-Date: 2021-06-12
-Article Type: Internationalt
-Author: Der er røre hos demokraterne, efter det er kommet frem, at Trumps regering tvang it-giganter til at udlevere data om journalister og politiske modstandere.
-
-Nicolas Fandos og Charlie Savage,
-The New York Times
-USA’s justitsministerium har indledt en undersøgelse af tidligere præsident Donald Trumps regering, som i 2017 og 2018 beordrede teknologivirksomheder til at udlevere data om journalister og demokratiske politikeres mailkonti og mobiltelefoner.
-Der er tale om såkaldt metadata, det vil sige oplysninger om navne, telefonnumre, optegnelser over telefonsamtaler og beskeder, men ikke selve indholdet af disse samtaler og beskeder.

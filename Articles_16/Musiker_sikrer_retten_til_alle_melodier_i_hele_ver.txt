@@ -1,9 +1,0 @@
-Title: Musiker_sikrer_retten_til_alle_melodier_i_hele_ver
-Date: 2022-05-30
-Article Type: Musik
-Author: Med et katalog på 68 milliarder sange vil en musiker sætte sig på rettighederne til enhver tænkelig melodi.
-
-Birgitte Kjær
-Journalist
-Alle melodier er nu komponeret.
-Det mener musiker og jurist Damien Riehl, som sammen med programmøren Noah Rubin har bygget et computerprogram, som kan generere 300.000 melodier i sekundet, og som nu har skabt et katalog på 68 milliarder sange.

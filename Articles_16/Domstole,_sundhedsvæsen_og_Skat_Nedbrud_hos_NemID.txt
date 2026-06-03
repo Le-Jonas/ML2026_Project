@@ -1,9 +1,0 @@
-Title: Domstole,_sundhedsvæsen_og_Skat_Nedbrud_hos_NemID
-Date: 2022-06-24
-Article Type: Danmark
-Author: Advokater kan ikke få adgang til sagsakter, tinglysningssager og dødsboer kan ikke behandles, og borgerne har problemer med at tilgå coronapas og lægehenvisninger. Tekniske problemer hos Nets volder store problemer.
-
-Morten Skjoldager
-Journalist
-Sagsbehandlingen af civile retssager foregår via hjemmesiden minretssag.dk. Her kan advokater hente sagsakter, se tidsfrister og indsende dokumentation. For at få adgang til systemet skal advokaterne dog bruge NemID, og på grund af tekniske problemer hos Nets har det siden onsdag været umuligt at tilgå minretssag.dk.
-»Det er mildt sagt problematisk, at det kan ske, og at der ikke findes et backupsystem«, som advokat Leif Donbæk skriver på Twitter.

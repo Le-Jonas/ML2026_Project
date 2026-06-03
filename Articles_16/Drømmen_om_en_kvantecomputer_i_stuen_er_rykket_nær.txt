@@ -1,9 +1,0 @@
-Title: Drømmen_om_en_kvantecomputer_i_stuen_er_rykket_nær
-Date: 2021-07-10
-Article Type: Viden
-Author: Danske forskere har taget et stort skridt på vejen til at lave en kvantecomputer, der kan fungere ved stuetemperatur og ikke behøver at blive frosset ned til det absolutte nulpunkt for at kunne slå nutidens supercomputere af banen.
-
-Lasse Foghsgaard
-Videnskabsredaktør
-Når man læser ord som teleportation, superposition og sammenfiltring i en videnskabelig artikel, som netop er blevet offentliggjort i det anerkendte tidsskrift Nature Physics, så fornemmer man, at den svimlende kvanteteori, som Niels Bohr og de andre kvantepionerer formulerede for godt 100 år siden, for alvor er på vej til at kunne få en praktisk anvendelse.
-Det er en forskergruppe fra DTU, der står bag ordvalget. Det er ikke, fordi det er lykkedes at teleportere danske fodboldfans foran fladskærme i København ind på Wembley stadion i London, så de kan se aftenens EM-finale mellem Italien og England live. Eller at få statsminister Mette Frederiksen til at være på Christiansborg og i EU-Parlamentet på samme tid.

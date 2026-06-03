@@ -1,9 +1,0 @@
-Title: EU's_datatilsyn_gar_i_krig_med_Europol
-Date: 2022-01-10
-Article Type: Tech
-Author: Det europæiske politisamarbejde sidder ulovligt på flere milliarder personlige data om 250.000 borgere.
-
-Jens Bostrup
-Journalist
-Europol skal slette enorme mængder personlige data, der er indsamlet og opbevares ulovligt. Kravet kommer fra EU’s databeskyttelsestilsyn, skriver The Guardian.
-Der er tale om flere milliarder personlige oplysninger, mange af dem følsomme, der gennem de seneste seks år er blevet indsamlet af de nationale politistyrker i forbindelse med efterforskninger. Oplysningerne kommer blandt andet fra politianmeldelser og fra krypterede telefontjenester, som politiet har hacket. De vedrører mindst 250.000 personer, herunder mistænkte for terror og anden alvorlig kriminalitet, men også personer, som de mistænkte blot har været i kontakt med.

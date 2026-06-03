@@ -1,9 +1,0 @@
-Title: Hoteller_ramt_af_hackerangreb_Svært_at_sove_om_na
-Date: 2021-06-16
-Article Type: Rejser
-Author: Hackere har lammet et populært hotel-bookingsystem. Det gør ondt på hoteller, der i forvejen er i knæ på grund af coronakrisen.
-
-Niels Holst
-Journalist, digital forsideredaktør
-Et stort antal danske hoteller holder i disse dage vejret. Hackere har lagt et populært bookingsystem ned, og ingen ved, hvornår det kommer op at køre igen.
-»Det er en alvorlig situation. Vi famler i blinde. Alle vores data ligger i systemet, og vi kan ikke se, hvem der kommer på hotellet, og ved ikke, hvad vores gæster har bestilt at spise«, siger Finn Steffensen, der driver Nymindegab Kro og samtidig er formand for foreningen Small Danish Hotel.

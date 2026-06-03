@@ -1,9 +1,0 @@
-Title: Robot_skal_skabe_en_bæredygtig_og_uudtømmelig_ener
-Date: 2021-05-26
-Article Type: Viden
-Author: Et dansk forskerhold fra DTU har udviklet en robot, der kan suge den velduftende rosmarinolie ud af usynlige små bobler på bladenes underside uden at skade planten overhovedet. Forskerne håber, at det kan blive startskuddet til en mere bæredygtig udnyttelse af planter og træer generelt.
-
-Lasse Foghsgaard
-Videnskabsredaktør
-Duften af rosmarin er ikke til at tage fejl af, da vi træder ind i laboratoriet på DTU i Kongens Lyngby i selskab med ph.d.-studerende Magnus Valdemar Paludan og lektor Kaare Hartvig Jensen.
-Duften kommer fra et rosmarinblad, der ligger badet i et skarpt lys fra et mikroskop, mens en robotarm udstyret med en sylespids glasnål bevæger sig over bladet og stikker nålen ind i nogle små hvide bobler på bladets underside og suger rosmarinolie ud.

@@ -1,9 +1,0 @@
-Title: »Med_den_nye_teknik_er_der_nærmest_fri_adgang_til_
-Date: 2021-07-23
-Article Type: Tech
-Author: Pegasus er formentlig færdig. Men deres kollegaer i branchen kører videre – med et spektakulært gennembrud, der har vidtrækkende konsekvenser.
-
-Jens Bostrup
-Journalist
-Pegasus-afsløringen har budt på spektakulære afsløringer af aflytningens omfang fra konger og præsidenter til systemkritikere, undersøgende journalister og sågar en bortløben prinsesse.
-Men for sikkerhedseksperten Peter Kruse ligger nogle af skandalens største perspektiver i de tekniske detaljer langt nede i metoderapporten fra sikkerhedslaboratoriet i Amnesty International.
