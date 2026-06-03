@@ -1,6 +1,0 @@
-Title: Kriminelle_lænser_danske_betalingskort_med_ny_avanceret_software
-Date: 2016-04-29
-Article Type: Forbrug
-Author: Danske betalingskort er blevet lænset af it-kriminelle, som benytter ny og avanceret software til i løbet af få sekunder at foretage over 100 transaktioner i et mønster, hvor den enkelte handel ser legal ud, skriver Ingeniøren.
-
-»Jeg sidder og kigger på et eksempel, hvor der blev foretaget 30 transaktioner inden for 15 sekunder på et betalingskort, herunder på Facebook Virtual Goods, Paypal og Dominos,« fortæller Kaspar Kock Kristensen, vicedirektør i Nets med ansvar for misbrugsovervågning.

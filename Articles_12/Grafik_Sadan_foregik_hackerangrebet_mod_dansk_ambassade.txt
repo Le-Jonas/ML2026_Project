@@ -1,8 +1,0 @@
-Title: Grafik_Sadan_foregik_hackerangrebet_mod_dansk_ambassade
-Date: 2016-01-21
-Article Type: Danmark
-Author: Mathias Gram
-
-Journalist
-I december 2014 tikkede en mail ind i indbakken hos en af de ansatte på en dansk ambassade.
-En tilsyneladende fredelig email, hvor enten et Power-Point diasshow eller et Word-dokument var vedhæftet. Ved et tryk på filen startede et skjult virusprogram, designet til at indsamle informationer og kodeord fra computeren. Et velorganiseret hackerangreb, der skulle komme til at strække sig over fire måneder, var gået i gang.

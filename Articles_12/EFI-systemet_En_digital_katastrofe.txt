@@ -1,8 +1,0 @@
-Title: EFI-systemet_En_digital_katastrofe
-Date: 2015-08-08
-Article Type: Dansk økonomi
-Author: Michael Olsen
-
-Journalist
-EFI var tænkt som det nye og effektive digitale gældsvåben, da de statslige skattemyndigheder overtog ansvaret for at inddrive al offentlig gæld i 2005. En opgave, der tidligere lå i kommunerne.
-Det nye it-flagskib skulle gøre det muligt – hurtigere, nemmere og mere effektivt – at inddrive alt fra ubetalte skatter og afgifter til parkeringsbøder, togbøder, studielån eller underholdsbidrag. Og så kunne det nye it-system samtidige erstatte hundredvis af kommunale skattefolk og bidrage med betydelige besparelser i statskassen.

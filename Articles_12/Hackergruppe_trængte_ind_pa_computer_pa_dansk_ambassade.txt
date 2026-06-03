@@ -1,8 +1,0 @@
-Title: Hackergruppe_trængte_ind_pa_computer_pa_dansk_ambassade
-Date: 2016-01-21
-Article Type: Danmark
-Author: Under et intensivt angreb mod Udenrigsministeriet lykkedes det sidste år for en velorganiseret hackergruppe at trænge igennem ministeriets forsvarsværker og inficere en computer på en dansk ambassade med et ondsindet program designet til fjernkontrol og til at stjæle data.
-
-Det skriver
-Jyllands-Posten
-.

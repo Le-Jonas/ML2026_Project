@@ -1,6 +1,0 @@
-Title: Kort
-Date: 2015-11-16
-Article Type: Danmark
-Author: Hvis man vil kunne skifte ikoner på samme kort, kommer de også med i boksen. Med titlen. Det virker som en fejl. Med mindre det er meningen, at man kun kan bruge én slags ikon på hvert kort?
-
-Lader man brugerne uploade punkter og billeder, er det som om, der mangler plads til en 'send' knap...? Brugeren får i hvert fald ikke mulighed for at sende info, så derfra er det lidt svært at teste, hvad der sker... Den kommer frem, hvis man ikke har så mange punkter, som brugeren skal beskrive, men det virker ikke optimalt, at man er begrænset der?

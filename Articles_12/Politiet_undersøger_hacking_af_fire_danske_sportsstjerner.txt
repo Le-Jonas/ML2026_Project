@@ -1,8 +1,0 @@
-Title: Politiet_undersøger_hacking_af_fire_danske_sportsstjerner
-Date: 2016-09-22
-Article Type: Sport
-Author: Hans Davidsen-Nielsen
-
-Journalist
-Hovedcomputeren står i den canadiske millionby Montreal, men alligevel: Anti Doping Danmark forsøger nu på eget initiativ at komme efter en hackergruppe ved navn ’Fancy Bear’, der har stjålet og lækket medicinsk data om i alt 25 internationale sportsstjerner, heriblandt fire fra Danmark.
-Dopingmyndigheden har netop indgivet politianmeldelse, efter at OL-svømmerne, Pernille Blume og Jeanette Ottesen, håndboldspilleren Casper U. Mortensen og cykelrytteren Niklas Larsen har fået hacket fortrolige helbredsoplysninger og fået dem lagt på nettet. Formålet med lækagen er at få dem til at fremstå som dopingsyndere, selv om de har fået tilladelse til at bruge astma-medicin.

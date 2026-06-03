@@ -1,8 +1,0 @@
-Title: Overlæger_raser_over_nyt_it-system_Patienters_sikkerhed_er_i_fare
-Date: 2016-06-02
-Article Type: Sundhed
-Author: Lars Igum Rasmussen
-
-Sundhedsredaktør
-Forestil dig, at du på din arbejdsplads, et hospital eksempelvis, har op til 30 forskellige it-systemer. De er gamle. De taler dårligt sammen. De går ned. De kræver en masse forskellige log-in.
-Forestil dig så, at ledelsen forrige lørdag slette alle de dårlige, gamle it-systemer og indførte én helt nyt 2,8 milliard kroner dyrt it-program.

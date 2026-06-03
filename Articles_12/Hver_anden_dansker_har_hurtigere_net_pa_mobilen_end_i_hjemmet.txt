@@ -1,8 +1,0 @@
-Title: Hver_anden_dansker_har_hurtigere_net_pa_mobilen_end_i_hjemmet
-Date: 2016-02-15
-Article Type: Digitalt
-Author: Emil Stenz
-
-Journalist
-Det er ikke længere sikkert, at den hurtigste vej til yndlingsserien på Netflix eller det nye album på Spotify går gennem hjemmenetværket i husstanden. Langt fra endda.
-I gennemsnit er 4G-net mere end dobbelt så hurtigt som WiFi set over hele verden. Det viser en undersøgelse fra virksomheden OpenSignal, der er blandt verdens førende inden for måling af datadækning og -hastigheder.

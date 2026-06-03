@@ -1,7 +1,0 @@
-Title: Mobiltelefoner_sladrer_om_studerendes_venskaber,_sms'er_og_facebookvaner
-Date: 2015-09-11
-Article Type: Digitalt
-Author: Cecilie Lyngberg
-
-Et studie har over to år samlet data fra mobiltelefonerne på en årgang førsteårsstuderende på Danmarks Tekniske Universitet, DTU. Forskerne ved nu ned til mindste detalje, hvor de studerende har været, sovet, hvem de har været sammen med, hvem de har sms’et med – og hvem de er venner med på Facebook. Samtidig har forskerne lavet personlighedstests på de studerende og spurgt ind til blandt andet motions-, søvn-, alkohol- og rygevaner.
-Studiet er »helt klart det største af sin slags i verden« og samtidig går det »ufattelig tæt på de studerende«, siger en af hovedkræfterne bag, lektor Sune Lehmann fra DTU Compute. Det handler ikke alene om big data, men også om »deep data og det dybtgående billede af det enkelte individ«, siger Sune Lehmann.

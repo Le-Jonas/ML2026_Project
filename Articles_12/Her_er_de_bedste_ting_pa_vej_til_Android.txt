@@ -1,7 +1,0 @@
-Title: Her_er_de_bedste_ting_pa_vej_til_Android
-Date: 2016-07-31
-Article Type: Digitalt
-Author: Morten Bay
-
-Den næste version af Android har fået tilnavnet Nougat, i den gode tradition Google har for at opkalde deres Android-udgaver efter noget sødt. For nylig slap Google den sidste test-version af Nougat løs, og det betyder, at den færdige version rettet mod os forbrugere er lige på trapperne. Det betyder også, at vi nu ved mere om, hvad der venter os.
-Store dele af Nougat er programmeret om helt fra bunden, hvilket har skabt et meget mere effektivt og hurtigt styresystem, hvor apps installeres hurtigere, og softwaren fylder mindre. Samtidig er det lykkedes at skrue op for hastigheden på grafikken via en ny styringsenhed for 3D-grafik, som Google kalder for ’Vulkan’.

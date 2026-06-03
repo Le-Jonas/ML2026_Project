@@ -1,7 +1,0 @@
-Title: Microsoft_vil_tvinge_Windows_10_ind_pa_alle_Windows_7_og_8-pc'er
-Date: 2015-10-30
-Article Type: Digitalt
-Author: Søren Dilling
-
-Microsofts bestræbelser på at lokke brugere til at opgradere til Windows 10 indebærer fra næste år, at styresystemet, der fylder op til seks gigabyte, automatisk bliver hentet til computere med Windows 7 og 8, uden at brugeren får det at vide. Det skriver den engelske avis The Guardian.
-Selskabet har meddelt, at Windows 10 vil blive en 'anbefalet opdatering' fra årsskiftet, hvilket betyder, alle med Windows 7 eller 8, som har automatiske opdateringer aktiveret - hvilket er den bedste måde at holde computeren beskyttet mod sikkerhedsfejl - får det nye styresystem.

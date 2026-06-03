@@ -1,8 +1,0 @@
-Title: Nu_viser_Google_Maps,_om_der_er_plads_pa_pubben
-Date: 2016-11-25
-Article Type: Storby og kultur
-Author: Allan Graubæk
-
-Journalist
-Google Maps-appen kan vise dig, hvor din favoritpub ligger. Den kan give rutevejledning dertil. Den kan give dig telefonnummeret, og nu kan den også vise dig, om der overhovedet er plads til dig på pubben.
-Den sidste funktion er helt ny i appen, og den benytter sig af en blanding af på forhånd opsamlede data og helt aktuelle data til at fortælle, hvor travlt et sted er. Funktionen kan bruges i alle de lande, Google Maps dækker.

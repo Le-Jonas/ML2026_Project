@@ -1,7 +1,0 @@
-Title: Borger.dk_er_nede
-Date: 2016-02-25
-Article Type: Digitalt
-Author: Søren Dilling
-
-Borger.dk virker ikke. Danskerne kan ikke bruge tjenesten til at gå ind på deres personlige oplysninger som sundhedsprofil og civil status.
-»Vi har i øjeblikket et teknisk problem, som vi arbejder på at løse«, lyder den kortfattede besked på hjemmesiden,

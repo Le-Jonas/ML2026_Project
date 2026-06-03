@@ -1,6 +1,0 @@
-Title: Windows-opdatering_gør_mange_webkameraer_ubrugelige
-Date: 2016-08-23
-Article Type: Digitalt
-Author: Hvis du benytter dig af den seneste opdatering af Windows 10 som styresystem på din computer - og i øvrigt har et webkamera - så er der en væsentlig risiko for, at opdateringen har sat kameraet ud af drift.
-
-Det skriver BBC.

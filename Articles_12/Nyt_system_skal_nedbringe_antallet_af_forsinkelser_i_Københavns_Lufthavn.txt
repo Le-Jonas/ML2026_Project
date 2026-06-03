@@ -1,8 +1,0 @@
-Title: Nyt_system_skal_nedbringe_antallet_af_forsinkelser_i_Københavns_Lufthavn
-Date: 2016-10-05
-Article Type: Fly og lufthavne
-Author: Sune Højrup Bencke
-
-Journalist
-Hver dag letter og lander 700 fly i Københavns Lufthavn. Nogle til tiden, andre forsinket.
-Men fremover håber Danmarks største lufthavn at kunne ændre det til 'de fleste til tiden, meget få forsinket'. For Københavns Lufthavn har netop - efter 2½ års arbejde - fået implementeret computersystemet A-CDM - Airport Collaborative Decision Making.

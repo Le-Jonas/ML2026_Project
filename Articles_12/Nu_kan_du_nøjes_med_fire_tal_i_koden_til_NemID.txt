@@ -1,8 +1,0 @@
-Title: Nu_kan_du_nøjes_med_fire_tal_i_koden_til_NemID
-Date: 2016-06-15
-Article Type: Digitalt
-Author: Britt Christensen
-
-Journalist
-Fra snørklede kodeord med bogstaver og tal til kun fire tal.
-Fra i dag er det nemmere at logge på netbank, skat og borger.dk. Nets, der står for NemID herhjemme, har nu gjort det muligt at vælge en kode, der kun består af fire tal, som man kender det fra koden til dankortet og Mobilepay, frem for en seks tegn lang kombination af både tal og bogstaver, som hidtil har været kravet.

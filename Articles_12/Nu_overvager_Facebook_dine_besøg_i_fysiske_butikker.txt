@@ -1,7 +1,0 @@
-Title: Nu_overvager_Facebook_dine_besøg_i_fysiske_butikker
-Date: 2016-06-17
-Article Type: Digitalt
-Author: Søren Dilling
-
-I løbet af de kommende måneder ruller Facebook en ny tjeneste ud, der kan fortælle annoncører, om en bruger, der har klikket på en annonce fra annoncøren, bagefter går hen i den butik, der er omtalt i annoncen.
-Det gør Facebook ved at kombinere data fra klikket på annoncen og data fra brugerens smartphones lokalisering, som Facebook overvåger, hvis den er slået til.

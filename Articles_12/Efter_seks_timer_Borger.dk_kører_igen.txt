@@ -1,7 +1,0 @@
-Title: Efter_seks_timer_Borger.dk_kører_igen
-Date: 2016-02-25
-Article Type: Digitalt
-Author: Søren Dilling
-
-Efter timelange problemer hos firmaet CSC, administratoren af Borger.dk, danskernes adgang til deres personlige oplysninger hos offentlige myndigheder, er siden nu oppe at køre igen.
-Siden havde problemer fra morgenstunden, og ved ni-tiden gik det helt galt, og Digitaliseringsstyrelsen blev tvunget til at anvende en nødside, der blot fortalte, at der bar tekniske vanskeligheder, og at brugerne kunne finde nogle af ders egne oplysninger ved at gå direkte til Skat og Diogital Post.

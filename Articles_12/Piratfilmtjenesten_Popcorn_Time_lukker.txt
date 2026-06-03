@@ -1,8 +1,0 @@
-Title: Piratfilmtjenesten_Popcorn_Time_lukker
-Date: 2015-10-26
-Article Type: Film og tv
-Author: Torben Benner
-
-Journalist
-Den mest populære piratfilm-tjeneste popcorntime.io lukker for altid, siger en af bagmændene til hjemmesiden torrentfreak.com.
-»Jeg har lukket alle servere ned, der er ikke mere jeg kan gøre nu. Jeg har slettet alle logfiler, der kan skade andre udviklere«, fortæller udvikleren 'Wally'.

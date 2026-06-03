@@ -1,8 +1,0 @@
-Title: Russere_sværmer_om_amerikanske_undersøiske_datakabler
-Date: 2015-10-27
-Article Type: Internationalt
-Author: Oliver Kløvedal Reich
-
-Journalist
-Der strømmer dagligt information og data til en værdi af 67 milliarder danske kroner gennem de undersøiske kabler.
-Kablerne indeholder op mod 95 procent af verdens digitale kommunikation, blandt andet masser af pengeoverførsler mellem internationale banker. Hvert sekund med nedbrud kan derfor koste dyrt.

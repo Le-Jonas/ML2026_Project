@@ -1,9 +1,0 @@
-Title: Hackere_hænger_utro_netdatere_til_tørre
-Date: 2015-08-19
-Article Type: Digitalt
-Author: Kristian Trojaborg
-
-Journalist
-»Jeg leder efter en, som ikke er tilfreds derhjemme, eller som bare keder sig, og trænger til lidt spænding«
-Sådan lyder starten af en profiltekst på det canadiske utroskabs-site AshleyMadison, men forfatteren bag sidder nok med lettere svedige håndflader i dag. Hackergruppen 'Impact Team' har nemlig gjort alvor af de trusler, de fremsagde for en måneds tid siden, og har i dag frigivet 9.7 gigabyte personfølsomme oplysninger om brugerne af utroskabshjemmesiden,
-skriver Wired.com.

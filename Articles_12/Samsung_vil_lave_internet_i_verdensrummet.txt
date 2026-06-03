@@ -1,7 +1,0 @@
-Title: Samsung_vil_lave_internet_i_verdensrummet
-Date: 2015-08-18
-Article Type: Digitalt
-Author: Morten Bay
-
-Vi kalder det for ’skyen’ eller ’The Cloud’, når vi lagrer vores data på en server langt væk. Metaforen dækker over den trådløshed, vi føler vi tilgår nettet med. Men hvad nu, hvis der rent faktisk var tale om en fysisk sky, der bestod af små satellitter?
-Den fremtidsvision har Samsung netop lagt fremlagt i en videnskabelig artikel, hvor de fremlægger metoden for, hvordan det skal fungere. Farooq Khan, der er leder af Samsungs udviklingslaboratorier i Texas står bag artiklen, der omtaler projektet som ’Space Internet’.

@@ -1,8 +1,0 @@
-Title: Efter_advarsler_Journalisternes_og_jihadisternes_hemmelige_beskedtjeneste_hacket
-Date: 2016-08-03
-Article Type: Medier
-Author: Simon Løber Roliggaard
-
-Journalist
-Journalister, aktivister og mange andre verden over bruger appen Telegram til at sende krypterede beskeder til hinanden.
-Telegram, der på verdensplan har 100 millioner brugere, er nu blevet hacket i Iran af en gruppe med mulige forbindelser til den iranske regering.

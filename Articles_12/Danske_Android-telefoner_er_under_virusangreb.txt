@@ -1,7 +1,0 @@
-Title: Danske_Android-telefoner_er_under_virusangreb
-Date: 2016-02-17
-Article Type: Digitalt
-Author: Morten Bay
-
-Det kan virke åbenlyst, men det kan alligevel ikke siges mange gange nok: Hvis du modtager en SMS med et link fra et nummer, du ikke kender, så slet SMS’en lige med det samme.
-Det gælder især i disse dage, og hvis du ejer en Android-smartphone.

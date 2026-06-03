@@ -1,7 +1,0 @@
-Title: Rust_inviterer_til_stor_fødselsdagfest
-Date: 2016-02-01
-Article Type: Koncert
-Author: Janus Camara
-
-Når Rust fylder år, er de som regel gode til at fejre sig selv, og det gælder også i år.
-Sidste år bestod 25-års fejringen af en koncertrække med flere store danske og internationale navne, men da 26 måske ikke er en lige så stor begivenhed, bliver fejringen snævret ind til én stor fest, 26. februar.

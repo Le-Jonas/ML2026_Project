@@ -1,7 +1,0 @@
-Title: Nu_gar_det_stærkt_med_de_virtuelle_assistenter
-Date: 2016-11-17
-Article Type: Digitalt
-Author: Morten Bay
-
-Siden computere for alvor begyndte at spille en rolle vore liv, har vi drømt om at tale med dem. J.C.R. Licklider, hvis idéer og arbejde bl.a. førte til udviklingen af den personlige computer og Internettet, beskrev fænomenet i artiklen ’Man-Computer Symbiosis’ fra marts 1960. Han regnede med, at computere ville kunne genkende vores talekommandoer indenfor omtrent fem år.
-I dag er computerne millioner gange kraftigere end i 1960, og vi har dem i lommerne. Alligevel svarer vore smartphones alt for ofte: »Beklager, jeg forstod ikke spørgsmålet«, når vi tiltaler dem. Næsten 57 år efter Lickliders artikel er vi stadig ikke kommet ret meget længere.

@@ -1,7 +1,0 @@
-Title: Robotterne_stjæler_middelklassens_jobs
-Date: 2016-10-08
-Article Type: Debat
-Author: Jacob Christian Eriksen
-
-»Maskinerne vil i fremtiden ikke kun erstatte fysiske opgaver. De vil også kunne erstatte vores vidensarbejde. Med big data og algoritmer kan computere analysere langt hurtigere, end nogen kontorarbejder er i stand til. Resultatet er, at maskinerne overtager opgaver, som vi før tænkte, at kun mennesker kan udføre. Med tiden vil der være mange folk, der ikke har evner til at tilføje væsentlig mere værdi, end en maskine kan. Maskiner er hurtigere og beder hverken om løn eller arbejdsskadeerstatning«.
-Sådan siger den amerikanske fremtidsforsker Martin Ford, der er aktuel med bogen ’Robotterne kommer’, der netop er udkommet på dansk. I 1990’erne var han direktør i et it-firma, der producerede software til Microsoft Windows. I begyndelsen var der mange jobs i firmaet, for der skulle både produceres programmer og cd-rommer, og det hele skulle sendes fysisk af sted med posten. I dag der ingen fysisk produktion længere – det hele overføres digitalt til kunderne.

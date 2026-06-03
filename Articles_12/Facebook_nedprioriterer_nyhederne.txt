@@ -1,7 +1,0 @@
-Title: Facebook_nedprioriterer_nyhederne
-Date: 2016-07-10
-Article Type: Digitalt
-Author: Morten Bay
-
-Bruger du en stor del af din Facebook-tid på at læse nyheder? Du er ikke alene. Analyser fra Pew Research Center viser, at antallet af mennesker, der får deres nyheder gennem Facebook, er i kraftig stigning. Det har Facebook i de senere år benyttet sig af, og har blandt andet brugt aftaler med nyhedsmedier til at holde os bundet til skærmen. Men nu skifter de kurs.
-I de senere år har Facebook forsøgt at sortere efter relevans. Posts og nyheder i dit nyhedsfeed blev sorteret efter, hvad Facebook tror, du interesserer dig for, baseret på data, de samler op om dig. Men fremover vil Facebook sortere i dit nyhedsfeed ved at bruge et af den sociale netværksteoris allermest centrale aspekter: Nærhedsprincippet. Sorteringsmekanismen vil kigge på, hvem du interagerer med allermest og placere disse Facebook-venners posts højere oppe i nyhedsfeedet.

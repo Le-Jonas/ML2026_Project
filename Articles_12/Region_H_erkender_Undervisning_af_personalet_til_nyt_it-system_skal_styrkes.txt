@@ -1,8 +1,0 @@
-Title: Region_H_erkender_Undervisning_af_personalet_til_nyt_it-system_skal_styrkes
-Date: 2016-06-10
-Article Type: Sundhed
-Author: Lars Igum Rasmussen
-
-Sundhedsredaktør
-Der skete det, der egentlig slet ikke måtte ske, da lægerne skulle ordinere medicin til patienterne fra det nye, meget omtalte it-system, Sundhedsplatformen, i de første døgn efter indførelsen natten til den 21. maj.
-Når læger havde ordineret ny medicin til patienten, kom det aldrig frem på det nationale it-system til medicin, Fælles Medicin Kort (FMK). Dermed kunne ingen læger se, at patienten skulle have ny medicin. En alvorlig, potentielt farlig fejl, der kunne være skadelig for patienten.

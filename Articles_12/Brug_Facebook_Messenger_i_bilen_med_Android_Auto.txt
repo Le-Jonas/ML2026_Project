@@ -1,8 +1,0 @@
-Title: Brug_Facebook_Messenger_i_bilen_med_Android_Auto
-Date: 2016-11-17
-Article Type: Digitalt
-Author: Morten Bay
-
-For kort tid siden åbnede Google Android Auto op, så alle kunne bruge app’en, uanset om ens bil understøtter systemet eller ej. Nu kan de så tilføje endnu en smart feature, nemlig Facebook Messenger, der kan bruges næsten på samme måde som et håndfrit telefonopkald.
-Kan også bruges i veteranbiler
-Android Auto er en tjeneste, der gør det muligt at bruge nogle grundfunktioner og populære apps i Android via bilens eget display. Det er Googles svar på Apples CarPlay, der gør det samme for iPhone-ejere. Men modsat Apple har Google valgt at gøre Android Auto tilgængelig for alle – og ikke kun dem med en nyere og kompatibel bil.

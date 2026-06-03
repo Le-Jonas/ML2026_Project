@@ -1,7 +1,0 @@
-Title: Googles_nye_assistent_er_som_en_butler,_der_lytter_med
-Date: 2016-05-19
-Article Type: Digitalt
-Author: Morten Bay
-
-De store tech-giganter skal åbenbart have hver deres virtuelle assistent. Apple har Siri til iPhone og iPad, Microsoft har Cortana til Windows og Windows Phone, og Amazon har Alexa på deres tv-bokse og den trådløse højttaler Echo.
-Google Assistant kan dog noget mere, og er til stede mange flere steder. Allerede ved lanceringen vil Google Assistant kunne bruges på samme måde som først Cortana kunne det og siden Siri, nemlig ved at forstå den kontekst, du spørger i. Og det hele kan foregå med stemmestyring.
