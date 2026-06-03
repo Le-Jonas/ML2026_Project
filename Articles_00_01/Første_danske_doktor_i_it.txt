@@ -1,8 +1,0 @@
-Title: Første_danske_doktor_i_it
-Date: 2003-11-10
-Article Type: Økonomi
-Author: Det første doktorforsvar i IT-Universitetets historie vil finde sted på fredag, når docent Finn Kensing skal forsvare sin doktordisputats. Disputatsen handler om udviklingen af en ny metode til at lave forundersøgelser før man går i gang med store it-projektet. 
-Finn Kensing har udviklet metoden til it-forundersøgelser sammen med kolleger fra Roskilde Universitetscenter. Bruger man metoden vil man ifølge forskerne være bedre sikret mod de store budgetoverskridelser og delvist uanvendelige systemer, som nogle it-projekter er endt med. 
-»I en af de virksomheder, vi har samarbejdet med, beløb udgiften til forundersøgelsen sig til en-to procent af den samlede investering. Har man ikke råd til det, skal man ikke sætte et it-projekt i gang«, siger Finn Kensing til Ritzau. 
-IT-Universitetet blev etableret den 1. juli i år. IT-Universitetet er en videreførelse af på IT-Højskolen, som blev oprettet i 1999. Universitetet uddanner cand.it'ere inden for seks forskellige linjer.
-

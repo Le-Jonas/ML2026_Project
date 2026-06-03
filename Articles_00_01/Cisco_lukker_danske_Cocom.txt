@@ -1,7 +1,0 @@
-Title: Cisco_lukker_danske_Cocom
-Date: 2001-04-25
-Article Type: Økonomi
-Author: Den danske IT-virksomhed Cocom, som under store fanfarer i 1999 blev solgt til den amerikanske IT-gigant Cisco for 470 mio. kr., lukker, og de knap 100 medarbejdere afskediges, skriver dagbladet Børsen onsdag. Afskedigelserne sker som led i den fyringsrunde, Cisco har indledt verden over i kølvandet på den økonomiske nedtur. På verdensplan skal koncernen i alt skære 8500 job. 
-»Vi har set på forretningsområder og ikke lande, og fandt ud af, at markedet endnu ikke er parat til at aftage den teknologi, som Cocom tilbyder«, siger Ciscos vicepræsident for Nordeuropa, Andy Lockhart, til Børsen. 
- Cocom, der blev grundlagt af Henrik Hvidtfeldt og Gregers Kronborg i 1995, fremstiller en teknologi, som gør det muligt via højhastighedsmodem at forbinde tv-kabelnet med Internettet og interaktive tjenester.
-

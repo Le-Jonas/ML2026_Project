@@ -1,9 +1,0 @@
-Title: IT-opsving_pa_vej
-Date: 2003-06-25
-Article Type: Økonomi
-Author: En konjunkturundersøgelse, viser, at en tredjedel af de danske virksomheder planlægger at foretage »omfattende IT-investeringer inden for de kommende 12 måneder«. Undersøgelsen er lavet af Greens Analyseinstitut for dagbladet Børsen, Lavkonjuktur sætter fokus på effektivitet
-Den varslede fremgang for IT-virksomhederne kommer på et tidspunkt med generel lavkonjunktur i erhvervslivet. Men det er ofte under en lavkonjunkturs pres på virksomhedernes indtjening, at virksomhederne sætter ekstra fokus på effektiviteten og herunder edb-systemerne. 
-Desuden sker der en stigende digitalisering af den offentlige sektor, som også støtter IT-væksten. 
-Knap to tredjedele af de kommende IT-investeringer begrundes med udskiftning af eksisterende IT, mens næsten en tredjedel begrundes med besparelser. 
-IT-sektoren beskæftiger 92.500 danskere, og den omsætter for 189 milliarder kroner om året.
-

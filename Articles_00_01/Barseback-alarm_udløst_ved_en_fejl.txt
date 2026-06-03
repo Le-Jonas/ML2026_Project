@@ -1,7 +1,0 @@
-Title: Barseback-alarm_udløst_ved_en_fejl
-Date: 2003-10-21
-Article Type: Internationalt
-Author: Myndighederne i Skåne fik tirsdag mange henvendelser fra offentligheden, efter at sikkerhedsalarmer i beboelsesområdet ved Barsebäck-atomkraftværket mandag aften blev udløst ved en fejl. 
-Fejlen skete, da Sveriges Radio skulle bruge sin særlige beredskabsplan i ulykkessituationer som følge af en brand i en garage i Norrköping. 
-Kun de lokale i Norrköping-området skulle have haft meldingen, men den blev i stedet sendt via det såkaldte RDS-system rundt til andre landsdele, også Barsebäck.
-

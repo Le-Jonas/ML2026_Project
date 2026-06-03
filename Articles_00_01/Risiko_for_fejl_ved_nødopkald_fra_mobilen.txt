@@ -1,8 +1,0 @@
-Title: Risiko_for_fejl_ved_nødopkald_fra_mobilen
-Date: 2004-03-12
-Article Type: Danmark
-Author: Bor man i Århus, men står i Hobro, ser en ulykke og ringer 112... ja, så skal man være ekstra omhyggelig med sine oplysninger. For hos alarmcentralen kommer hjemadressen på mobiltelefonens ejers automatisk frem på skærmen. Det giver mulighed for menneskelige fejl og forvekslinger - og for at ambulancen eller andre udrykningskøretøjer dirigeres et forkert sted hen. 
-Det var formentlig denne type forveksling, der forleden betød, at en ambulance blev sendt til Ringsted, selv om den mindre trafikulykke, der var grunden til nødopkaldet, var sket på Torvet i Køge. 
-»Vores folk på alarmcentralen er selvfølgelig uddannet til at spørge grundigt ud om ulykkesadressen, men der kan ske fejl, og derfor ville det være godt, hvis folk i almindelighed er opmærksomme på den situation og udtrykker sig ekstra klart om ulykkesadressen, når der alarmeres fra mobiltelefon. Når der ringes 112 fra en fastnettelefon, er der ingen problemer, for så er telefonadressen som regel lig med ulykkesadressen«, siger vagthavende hos Slagelse Politi, Kurt G. Nielsen til Dagbladet Køge. 
-Ringer man fra en mobiltelefon, der kører med taletidskort, får man ingen oplysninger om adresse hos alarmcentralen.
-

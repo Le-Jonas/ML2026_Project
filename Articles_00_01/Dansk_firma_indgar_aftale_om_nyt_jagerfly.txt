@@ -1,9 +1,0 @@
-Title: Dansk_firma_indgar_aftale_om_nyt_jagerfly
-Date: 2004-04-02
-Article Type: Økonomi
-Author: Den århusianske it-virksomhed Systematic har indgået en samarbejdsaftale om udvikling af software til fremtidens jagerfly, JSF. 
-Aftalen er indgået med JSF-projektets chef, Tom Burbage fra den amerikanske Lockheed Martin-koncern. 
-Aftalen giver Systematic mulighed for at levere dels software til kommunikation til og fra flyet, dels et avanceret hjælpeværktøj i forbindelse med flyets vedligeholdelse. 
-Der er endnu ikke tale om en endelig ordre, men hos Systematic håber man på, at en endelig aftale kan indgås henimod slutningen af sommeren. 
-»JSF-aftalen er et afgørende gennembrud, der åbner store perspektiver for Systematic«, siger adm. direktør Michael Holm.
-

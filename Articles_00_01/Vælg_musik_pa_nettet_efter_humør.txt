@@ -1,8 +1,0 @@
-Title: Vælg_musik_pa_nettet_efter_humør
-Date: 2003-04-10
-Article Type: Kultur
-Author: I fremtiden bliver cd'er erstattet af direkte digital distribution fra internettet og via det mobile bredbånd. Dette stiller musikforbrugeren over for det dilemma at skulle vælge online mellem enorme musikkataloger samt at skulle vælge blandt de tusindvis af numre, som ligger lokalt på hjemmets og kontorets computere. 
-Derfor har det danske firma Syntonetic opfundet teknologien Moodplayer, der gør det muligt øjeblikkeligt at få spillet den musik, der passer til humøret. Gennembrud i flyvemaskiner
- Syntotenic forventer at få sit gennembrud i luften på flyselskabers playlister. I stedet for at skulle tvangsfodres med faste 'playlister' fra flyets musikbibliotek, så åbner Moodplayer op for, at passagererne selv kan navigere rundt mellem numrene ... lidt mere jazz, mere romantik, lidt ældre, mere melankoli, højere tempo, flere duetter, mere danseegnet og så videre. På den måde kan musikvalg i fremtiden bestemmes af både situation og humør. 
-Moodplayer er et resultat af tre års udviklingsarbejde, blandt andet med B&O, danske musikeksperter og udenlandske partnere.
-

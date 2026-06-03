@@ -1,9 +1,0 @@
-Title: Falske_regninger_til_Norge
-Date: 2003-04-13
-Article Type: Økonomi
-Author: Det danske internetfirma No Dots har sendt falske fakturaer til en række norske firmaer. 
-Regningerne på 4.980 kroner har faktura- og kundenummer, så det ser ud som om, man allerede er kunde hos firmaet, og kun med lille blå skrift står der i et hjørne, at man ikke behøver at betale regningen, skriver it-avisen ComOn. 
-Betaler man de knap 5.000 kroner, får man registreret sit firmanavn som såkaldt Qname - men systemet kan kun bruges af folk, der har installeret et stykke software fra No Dots hjemmeside. Genganger
-Firmaet bag er angiveligt det samme, som i december under navnet Keyword Nordic sendte tilsvarende fup-fakturaer ud til tusind danske virksomheder. 
-Københavns bedrageriafdeling vurderede dengang, at de falske fakturaer ikke er ulovlige, da de juridisk set bare er et tilbud, man kan sige nej til.
-

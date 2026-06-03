@@ -1,8 +1,0 @@
-Title: Se_et_hjerte_indefra
-Date: 2001-03-02
-Article Type: Danmark
-Author: Gå rundt på et køkkenbord mellem mælkekartoner og cornflakespakker så høje som skyskrabere eller se en læge bevæge sig rundt i et hjerte. Det er der mulighed for på søndag, når det nyåbnede Center for Avanceret Visualisering og Interaktion (CAVI) holder åbent hus i Århus. 
-Det højteknologiske værksted er til daglig åbent for forskere, erhvervsliv og studerende, og det er etableret af Aarhus Universitet og Alexandra Instituttet i samarbejde med Center for IT- forskning. Der er indkøbt for 25 mio. kr. elektronik til det århusianske IT-flagskib. 
-CAVI er et højteknologisk center, der med avanceret 3D-teknologi sammensmelter virtuel og fysisk virkelighed. I det virtuelle studie kan man opleve illusionen af at gå rundt på sit køkkenbord mellem mælkekartoner og cornflakespakker så store som skyskrabere, eller man kan komme ind og være med i et børneprogram, hvor studiet ligger på havets bund. 
-CAVI byder også på et 3D-kig ind i et hjerte. Teknologien er udviklet i samarbejde med hjertelæger fra børneafdelingen på Skejby Sygehus. Ud fra MR-scanninger skabes en 3D-model af et hjerte, som lægerne kan bevæge sig ind i og rundt om. Det øger kvalitet og sikkerhed ved det risikable indgreb som en hjerteoperation på et barn er.
-

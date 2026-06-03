@@ -1,9 +1,0 @@
-Title: Danske_forskere_bag_verdens_mindste_transistor
-Date: 2003-10-15
-Article Type: Økonomi
-Author: For første gang i verden er der lavet en transistor af et enkelt organisk molekyle. 
-Det er et europæisk forskerteam ledet af professor Thomas Bjørnholm ved Nano-Science Centret på Københavns Universitet, som står bag den opsigtsvækkende nyhed. 
-Den organiske transistor er hundrede gange mindre end en traditionel transistor og er et vigtigt skridt på vejen mod forsvindende små og meget hurtige computere. Åbner op for at bygge computere på anden måde
-»Hvis vi for eksempel kigger på en computer, så kan vi med vores transistor indsætte en million gange flere transistorer per enhed. Det betyder, at computeren bliver hurtigere, mere kraftig, og at den størrelsesmæssigt nærmest helt vil forsvinde. Men det åbner også op for, at vi i fremtiden vil kunne bygge computere på helt nye måder«, fortæller Thomas Bjørnholm. 
-Fordelen ved at bygge med organiske molekyler frem for de traditionelle uorganiske materialer som silicium er ifølge Thomas Bjørnholm, at man vil kunne udnytte biologiens selvorganiserende egenskab og dermed få molekylerne til at organisere sig selv i de kredsløb, man nu skal bruge.
-

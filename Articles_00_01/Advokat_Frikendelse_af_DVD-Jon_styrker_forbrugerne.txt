@@ -1,8 +1,0 @@
-Title: Advokat_Frikendelse_af_DVD-Jon_styrker_forbrugerne
-Date: 2003-01-08
-Article Type: Økonomi
-Author: Forsvarsadvokater kalder overfor den norske avis Aftenposten en norsk domstols frikendelse den unge computerekspert med tilnavnet DVD-Jon for et skridt fremad for forbrugernes rettigheder. 
-Den 19-årige Jon Lech Johansen blev i går pure frifundet af Oslo Byret, der ikke fandt ham ansvarlig for, at hans program DeCSS kan bruges til ulovligheder. 
-Sagen er ikke blot et nederlag for den norske anklagemyndighed, som har efterforsket sagen i tre år, men også for Microsofts styresystem og for film- og musikindustrien i Hollywood. 
- DVD-Jon baserer sit værk på styresystemet Linux.
-

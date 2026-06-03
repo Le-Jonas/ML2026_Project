@@ -1,8 +1,0 @@
-Title: Telemedicin_skal_afhjælpe_lægemangel
-Date: 2004-07-17
-Article Type: Danmark
-Author: For at modvirke tendensen til at befolkningen flytter fra yderområderne til de større byer, blandt andet fordi de er bange for, at de kan få tilstrækkelig lægehjælp, bliver der nu søsat et helt nyt projekt, der skal vende tendensen. 
-Projektet - Baltic eHealth - skal sammenbinde de forskellige sundhedsdatanet i Østersø-regionen, så læger og andet sundhedspersonale kan hjælpe hinanden på tværs af landegrænser. 
-»For eksempel har vi mangel på røntgenlæger i Danmark. Hvis vi kan sende røntgenbilleder til Estland over internettet, så kan de se på billederne og diagnosticere derfra. På den måde behøver man ikke at have så mange ansat på hospitalerne, forklarer konsulent Henning Voss fra Center for Sundheds-telematik på Odense Universitetshospital. 
-På langt sigt håber man, at kunne afhjælpe lægemanglen i yderkantsområderne i Østersø-området og kunne bygge et netværk op, så læger kan arbejde sammen på tværs af landegrænser.
-

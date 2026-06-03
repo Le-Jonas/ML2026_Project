@@ -1,8 +1,0 @@
-Title: To_amerikanere_fik_Nobelprisen_i_økonomi
-Date: 2003-10-08
-Article Type: Kultur
-Author: Amerikanerne Robert F. Engle og Clive W. J. Granger fik onsdag eftermiddag tildelt Nobelprisen i økonomi for deres forskning i metoder til at analysere økonomiske tidsserier, meddeler Kungliga Vetenskapsakademien. 
- Robert. F. Engle er 60 år og professor ved New York University - Clive W. J. Granger er 69 år og professor ved University of California. Bruges ved økonomiske prognoser
- En tidsserie kan for eksempel vise udviklingen i bruttonationalproduktet (BNP), renter eller aktiekurser. 
-Tidsserierne benyttes ved udarbejdelse af økonomiske prognoser og i det hele taget til at fastslå diverse sammenhænge mellem de økonomiske nøgletal.
-

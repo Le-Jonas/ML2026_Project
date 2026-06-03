@@ -1,9 +1,0 @@
-Title: Computerfejl_gav_forsinkelser_i_flytrafikken
-Date: 2002-05-17
-Article Type: Danmark
-Author: Forsinkelser i massevis. Det var resultatet af computerproblemer ved både et trafikkontrolcenter i England og Bruxelles - og forsinkelserne ramte også danske flypassagerer på vej til og fra Københavns Lufthavn i Kastrup. 
-Værst gik det ud over flyvninger til London, hvor man på et tidspunkt kunne læse på lufthavnens afgangstavler, at en bestemt afgang var syv timer forsinket fra København. 
-Flere flyafgange blev også helt aflyst, mens passagerer, der blot skulle mellemlande i London på vej videre ud i verden, strandede i den britiske hovedstad. 
-Problemerne startede fra morgenstunden fredag ved det nye nationale kontrolcenter i Swanwick i det sydlige England, netop som flytrafikken var allermest intensiv. Først efter fire til fem timer lykkedes det teknikerne at finde frem til computerfejlen - og hele eftermiddagen var der store forsinkelser, inden flyvepladserne fik indhentet den tabte tid. 
-En datafejl senere på eftermiddagen i det store europæiske kontrolcenter Eurocontrol i Bruxelles skabte flere aflysninger og forsinkelser.
-

@@ -1,8 +1,0 @@
-Title: Microsoft_forhindrer_angreb_fra_ormen_Blaster
-Date: 2003-08-16
-Article Type: Internationalt
-Author: Midnat mellem fredag og lørdag var computerormen programmeret til at slå til mod en central Microsofthjemmeside. 
-Ormen, der også går under navnet MSBlaster og LoveSan, udnytter et hul, der sidste måned blev opdaget i Microsofts styresystemer Windows 2000, Windows XP, Windows NT og Windows Server 2003. 
-»Microsoft har trukket tænderne ud på Blaster«, siger Lloyd Taylor, næstformand for computervirksomheden Keynote Systems, der følger tendenser på Internet. 
-Han tilføjer, at man ikke forventer at se nogen følger af ormen på Internet.
-

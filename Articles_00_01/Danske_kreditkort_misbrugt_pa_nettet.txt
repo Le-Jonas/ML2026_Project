@@ -1,8 +1,0 @@
-Title: Danske_kreditkort_misbrugt_pa_nettet
-Date: 2004-07-22
-Article Type: Kultur
-Author: Ud over betalingen for film købt hos den amerikanske netbutik DVDPacific.com, har flere danskere fået hævet 240 kroner fra deres bankkonto efter at have betalt med deres Visa eller Mastercard på nettet, skriver IT-avisen ComON. Oplysninger ikke sløret
-DVDPacifics it-direktør erkender i et debatindlæg på et australsk internetforum, at misbruget sandsynligvis er opstået, fordi dvd-butikken ikke har sløret de kreditkortoplysninger, som kunderne har indtastet. 
-Derved har en hacker haft mulighed for at aflure oplysningerne og benytte dem til også selv at hæve penge fra kundernes bankkonti. Sag overdraget til FBI
-Efter et massivt antal henvendelser fra misbrugte kunder er sagen nu overdraget til FBI's særlige afdeling for internetsvindel.
-

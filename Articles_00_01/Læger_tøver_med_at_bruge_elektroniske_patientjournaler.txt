@@ -1,8 +1,0 @@
-Title: Læger_tøver_med_at_bruge_elektroniske_patientjournaler
-Date: 2003-08-19
-Article Type: Danmark
-Author: Sygehuslægerne tager ikke særlig godt imod de elektroniske patientjournaler, som amterne er i gang med at indføre. De elektroniske journaler skal være med til at effektivisere arbejdet i sundhedsvæsnet, men kun omkring 20 procent af lægerne på sygehusene skriver direkte ind på computeren, mens langt størstedelen af lægerne stadig bruger diktafon. Teknologien holder læger tilbage
-Den Elektroniske Patientjournal (EPJ) er baseret på, at lægerne skal skrive ind direkte på en pc, så man undgår dobbelt arbejde, når en sekretær skal færdiggøre arbejdet. 
-I Viborg Amt er der indført EPJ på cirka 80 procent af alle sengene. Men it-konsulent Jens Grønlund vurderer, at højst 20 procent af lægerne selv sætter sig til tastaturet for at skrive ind i Den Elektroniske Patientjournal. 
-»Først når teknologien gør det muligt at have en pc med i lommen eller lave en computer med talegenkendelse, vil lægerne bruge EPJ fuldt ud«, vurderer Jens Grønlund.
-

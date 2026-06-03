@@ -1,9 +1,0 @@
-Title: SMS-service_skal_forhindre_biblioteksbøder
-Date: 2003-03-12
-Article Type: Kultur
-Author: Familier i Roskilde kan nu slippe for at holde styr på krøllede biblioteksbon'er. 
-Roskilde Bibliotek tilbyder som det første bibliotek i Danmark at sende en gratis SMS-besked til lånerne, tre dage før de skal aflevere de materialer, som er lånt på biblioteket. 
-Lånerne tilmelder sig SMS-servicen på internettet. Ydelsen er gratis i en forsøgsperiode på cirka et år og derefter kommer den til at koste et par kroner. 
-Ordningen har allerede vist sig at være en succes. »Det myldrer ind med folk, der gerne vil tilmeldes servicen. På to uger har vi allerede fået 200 tilmeldinger«, siger Torben Sørensen, IT-koordinator på biblioteket. 
-Der er flere perspektiver i teknologien, der er udviklet af Telekom Scandinavia og Fujitsu Invia. Det vil på sigt være muligt at udvide servicen til også at omfatte SMS-beskeder om bibliotekets arrangementer, kurser og bøger, der er kommet fra andre biblioteker.
-

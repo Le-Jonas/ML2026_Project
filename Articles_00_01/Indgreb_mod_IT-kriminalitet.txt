@@ -1,7 +1,0 @@
-Title: Indgreb_mod_IT-kriminalitet
-Date: 2003-11-02
-Article Type: Danmark
-Author: Regeringen vil med et nyt lovforslag skærpe kursen over for IT-kriminalitet. Blandt andet skal det gøres strafbart at snyde med adgangskoder og passwords på internettet. I særligt grove tilfælde skal det kunne give op til seks års fængsel, skriver Jyllands-Posten. 
-Konkret betyder forslaget, at det bliver strafbart at videregive adgangskoder til for eksempel en internetavis, en virksomheds interne EDB-system eller et offentligt informationssystem med personfølsomme oplysninger. 
-»Flere og flere fortrolige oplysninger bliver lagt ud på nettet, og vi skal kunne gribe ind, hvis en person snyder med password - også før det udvikler sig til egentlig industrispionage«, siger justitsminister Lene Espersen (K), der forventer bred opbakning til lovforslaget i Folketinget. Hun fremlægger forslaget i den kommende uge.
-

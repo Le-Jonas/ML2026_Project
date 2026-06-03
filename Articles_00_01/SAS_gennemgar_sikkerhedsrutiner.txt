@@ -1,8 +1,0 @@
-Title: SAS_gennemgar_sikkerhedsrutiner
-Date: 2001-07-18
-Article Type: Økonomi
-Author: Det skandinaviske flyselskab SAS vil gennemgå selskabets interne sikkerhedsrutiner, efter at fire SAS-fly på mindre end 14 dage har foretaget nødlandinger, siger SAS i Norge. 
-Den seneste nødlanding fandt sted tirsdag, da et fly på vej fra Oslo til Stockholm måtte returnere efter fem minutter i luften, da der var røg i flyet. 
-»Vi har en meget god sikkerhed i SAS. Men det, at vi i de sidste 14 dage har afbrudt fire flyvninger, er selvfølgelig alvorligt«, siger den operative leder for SAS i Norge, Freddy Haugen, til den norske avis Dagbladet. 
-De øvrige nødlandinger fandt sted den 5. juli, da en motor på et Fokker 50-fly satte ud, den 6. juli, da en indikationsfejl på en MD87-maskine skabte frygt for overophedning i en motor, og den 13. juli, da en Boeing 767 fra Singapore til Bangkok returnerede til Singapore, da der var tegn på fejl ved højderoret.
-

@@ -1,7 +1,0 @@
-Title: Antallet_af_svin_stiger
-Date: 2001-07-26
-Article Type: Økonomi
-Author: Antallet af svin er steget gennem det seneste år, viser nye tal fra Danmarks Statistik. Den samlede bestand er per 1. juli opgjort til 13.029.000 styk, og dermed er bestanden steget med tre procent i forhold til samme tidspunkt sidste år. 
-De sæsonkorrigerede tal viser dog nedgang for alle kategorier svin i det seneste kvartal med undtagelse af sopolte - eller ungsvin - bestemt til avl samt gylte. 
- Danmarks Statistik konkluderer på baggrund af stigningen i bestanden af sopolte og gylte, at det ser ud til, at det samlede antal af svin er stigende og ikke stagnerende, også selvom om blandt andet bestanden af drægtige søer og diegivende søer er faldet med henholdsvis én og tre procent.
-
