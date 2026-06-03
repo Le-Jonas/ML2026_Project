@@ -1,7 +1,0 @@
-Title: HP_vinder_test_af_all-in-one_printere
-Date: 2008-01-25
-Article Type: Dagens Tjek
-Author: Michael Fahlgren og Søren Dilling
-
-Det skyldes i høj grad HP’s tilgang til at integrere software, hardware og lokalnet, som får de forskellige funktioner i maskinen til at arbejde fint sammen.
-Vi satte os for at teste markedets mest markante blækbaserede multifunktionsmaskiner i prislejet op til 1.500,- kroner.

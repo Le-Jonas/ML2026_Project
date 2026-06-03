@@ -1,7 +1,0 @@
-Title: 9_-_Arkiver,_rediger,_print_og_backup
-Date: 2008-05-27
-Article Type: Digitalt
-Author: Markus Schulin-Zeuthen
-
-Det er som regel et fotoprogram, som kan sortere og måske småredigere dine billeder. Ellers findes der flere gratis og billige programmer på nettet.
-Billedet her er fra Picasa, som er et Google-baseret program. Det er meget brugervenligt og enkelt, og det kan faktisk redde mange "billedkiks" - fx en skæv horisontlinje, røde øjne, kontrast m.m.

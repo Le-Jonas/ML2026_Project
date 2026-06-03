@@ -1,6 +1,0 @@
-Title: Send_nyt_kodeord
-Date: 2008-02-14
-Article Type: p_bruger
-Author: Indtast den e-mail du brugte, da du oprettede din P-bruger, så vil du modtage et nyt kodeord til din P-bruger.
-
-Husk, at du efterfølgende kan ændre dit kodeord under "Rediger profil"

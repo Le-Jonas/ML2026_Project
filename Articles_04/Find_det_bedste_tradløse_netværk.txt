@@ -1,8 +1,0 @@
-Title: Find_det_bedste_tradløse_netværk
-Date: 2008-06-27
-Article Type: Bolig og haven
-Author: Søren Dilling
-
-Kenneth Knudsen og Søren Dilling
-Kernen i et trådløst netværk hedder en router. Men hvilken router skal man købe? Hvilken standard skal den have, og hvad er familiens behov egentligt?
-Det har vi samlet nogle bud på i forbindelse med dette tjek af fem trådløse routere med den nye trådløse standard med det mundrette navn 802.11n - nogle steder endda benævnt IEEE 802.11n.

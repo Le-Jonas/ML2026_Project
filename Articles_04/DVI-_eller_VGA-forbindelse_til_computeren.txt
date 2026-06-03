@@ -1,6 +1,0 @@
-Title: DVI-_eller_VGA-forbindelse_til_computeren
-Date: 2008-02-21
-Article Type: Bolig og haven
-Author: Alle skærme i dag er udstyret med en digital (DVI) eller analog (VGA) tilslutning til din computer.
-
-VGA-stikket er det oprindelige 15-bens stik, som har været på markedet i mange år.

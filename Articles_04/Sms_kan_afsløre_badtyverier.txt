@@ -1,8 +1,0 @@
-Title: Sms_kan_afsløre_badtyverier
-Date: 2008-02-29
-Article Type: Digitalt
-Author: Det er det såkaldte AIS system, som bådejerne skal installere i skibet, hvorefter Søværnets Operative Kommando (SOK) gratis sender en sms, hvis båden flytter sig.
-
-Baggrunden for tilbuddet er et ønske fra Søværnet om at udbrede kendskabet og brugen af AIS-systemet. 
-»Det er yderligere et bidrag til at udbrede kendskabet til et system, der kan forbedre sejladssikkerheden og forbedre SOKs muligheder for at hjælpe, hvis uheldet er ude«, siger orlogskaptajn Mick Nielsen fra SOK. 
- AIS står for Automatic Identification System. Det registrerer, hvor skibene er og mindsker dermed risikoen for kollisioner, ligesom det forbedrer SOKs mulighed for at sende assistance til nødstedte skibe.

@@ -1,7 +1,0 @@
-Title: Acer_TravelMate_5720G
-Date: 2008-03-27
-Article Type: Bolig og haven
-Author: Lars Jacobsen
-
-Det gør TravelMate 5720G til den bærbare computer i testen, som virker mest solidt bygget. Det er nok den maskine i testen, vi ville tryggest ved at slæbe med i tasken hver dag.
-I modsætning til de øvrige bærbare i testen, som alle har grafikkort fra Nvidia, så har Acer valgt at bruge et grafikkort fra ATI. Selv om der er tale om en nyere model, klarer den sig ikke fantastisk i testen, og det gør TravelMate 5720G til en bærbar beregnet til den mindre krævende computerspiller.

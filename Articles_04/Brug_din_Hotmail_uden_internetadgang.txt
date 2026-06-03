@@ -1,7 +1,0 @@
-Title: Brug_din_Hotmail_uden_internetadgang
-Date: 2007-11-07
-Article Type: Digitalt
-Author: Søren Dilling
-
-Men med lanceringen af Windows Live Suite kan du nu tjekke din Hotmail – også når du er offline. .
-Online e-mailløsninger plejer at komme til kort, når man står uden netadgang for eksempel i et sommerhus, en bil eller tog og bare ikke kan få adgang til informationen i en vigtig mail, fordi der ikke er en netforbindelse i nærheden.

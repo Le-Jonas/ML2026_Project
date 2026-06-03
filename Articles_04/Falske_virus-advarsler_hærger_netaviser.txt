@@ -1,7 +1,0 @@
-Title: Falske_virus-advarsler_hærger_netaviser
-Date: 2008-01-03
-Article Type: Digitalt
-Author: Søren Dilling
-
-Hver gang de kommer ind på politiken.dk, ekstrabladet.dk eller pcworld.dk får de at vide af deres McAfee-antivirusprogram, at det har stoppet en trojansk hest, inden den inficerede deres computer.
-Men advarslerne er falske og bunder i en 'fumlet' opdatering af antivirusprogrammet, fortæller Peter Kruuse fra det danske it-sikkerhedsfirma, CSIS Security Group.

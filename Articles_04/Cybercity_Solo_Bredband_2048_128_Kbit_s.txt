@@ -1,7 +1,0 @@
-Title: Cybercity_Solo_Bredband_2048_128_Kbit_s
-Date: 2007-10-05
-Article Type: Bolig og haven
-Author: Søren Dilling
-
-Landets pt. billigste abonnement på en 2 MB forbindelse, som kan fås i hele landet.
-For 179 kroner per måned får du en rimelig hurtig forbindelse, men du skal nok tænke dig om, hvis du selv sender store datamængder ud, for så kan de 128 Kbit/s godt komme til at virke som en flaskehals. Det er dog ikke noget, du vil mærke ved almindelig brug

@@ -1,8 +1,0 @@
-Title: Den_studerende
-Date: 2007-10-01
-Article Type: Digitalt
-Author: Behovet: En billig maskine, der kan bruges til websurf og kontorprogrammer. Den må hverken være for tung eller fylde for meget i rygsækken. Regn ikke med imponerende batterilevetid i denne prisklasse, men et par timer burde maskinen nok kunne løbe på en opladning. Det gode køb: Skærmstørrelser på op til 14 eller højst 15,4 tommer holder både vægten og størrelsen og batteriforbruget nogenlunde i skak. Processoren er sandsynligvis en dobbeltkerne-CPU fra AMD eller en af Intels discountprocessorer. Her er næppe råd til – eller behov for – kraftfulde grafiske kredsløb. 
-Vælg gerne et 9-cellers batteri frem for standardstørrelsen med 6 celler, det giver ekstra batterilevetid og koster ikke alverden. 
-En systemhukommelse på mindst 1 gigabyte RAM er nødvendig, hvis du køber en maskine med Windows Vista. Overvej dog et mindre krævende styresystem, for eksempel Windows XP. Har du eller kæresten en smule teknisk snilde, kunne du også droppe Windows helt, spare 500-1.000 kroner og installere et gratis Linux operativsystem som eksempelvis Ubuntu. Til gengæld må du så sige farvel til mange Windows-spil og forberede dig på en smule problemer med printere og anden hardware. 
-Apples flotte og brugervenlige MacBooks er også meget populære blandt studerende. Men prisen er høj, og der har været en del kvalitetsproblemer. Pris: Op til 5.000 kr. Et eksempel: Zepto 3215W til cirka 5.000 kroner inklusive en Windows-version.
-

@@ -1,6 +1,0 @@
-Title: Find_det_sikreste_flyselskab
-Date: 2007-08-11
-Article Type: Rejsekøb
-Author: Det er det tyske analysebureau Jacdec, Jet Airliner Crash Data Evaluation Center, som indsamler data over flyulykker og offentliggør statistikkerne.
-
-Når SAS havner så langt nede på listen, skyldes det den store ulykke i Milano i 2001, hvor 114 mistede livet. Jacdec udregner sine statistikker efter antallet af omkomne ved ulykker, så hvis De lider af flyskræk, skal de nok ikke læse videre.

@@ -1,7 +1,0 @@
-Title: Google_anonymiserer_omstridt_brugerdata
-Date: 2008-07-15
-Article Type: Digitalt
-Author: Frederik Pedersen
-
-Det sker som led i en retssag, hvor Viacom har sagtsøgt Google for 5 milliarder kroner, da de mener, at YouTubes brugere har uploadet videoer, som Viacom har copyright på.
-Oplysningerne indbefatter brugernavne, tidspunkter og ip-adresser, som kan identificere internetbrugere på samtlige videovisninger på YouTube, hvilket fylder svimlende 12,5 millioner megabyte.

@@ -1,9 +1,0 @@
-Title: Pris_pa_bærbar_dumpet_drastisk
-Date: 2007-07-25
-Article Type: Digitalt
-Author: Søren Dilling
-
-Rebecca Vang
-Det svenske firma Madison lancerer nu en rekordbillig lavteknologisk bærbar computer til salg på
-nettet.
-Den billige pris skyldes ifølge firmaet blandt andet anvendelse af open source-programmer både til styresysten (i stedet for Windows) og i værktøjsprogrammerne (i stedet for Microsofts Office-pakke for eksempel).

@@ -1,7 +1,0 @@
-Title: Spammail_angriber_din_netbank
-Date: 2008-08-26
-Article Type: Digitalt
-Author: Søren Dilling
-
-Men åbner man mailen og den vedhæftede fil, åbner man samtidig et program, der kan aflure koderne til ens netbank, lyder advarslen fra Finansrådet og sikkerhedsfirmaet F-Secure.
-»Mailen foregiver at være afsendt af F-Secure, men den er udsendt af it-kriminelle med henblik på at lokke modtagerne til at åbne den vedhæftede fil.

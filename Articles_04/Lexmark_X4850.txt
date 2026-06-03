@@ -1,8 +1,0 @@
-Title: Lexmark_X4850
-Date: 2008-01-22
-Article Type: Bolig og haven
-Author: Søren Dilling
-
-Michael Fahlgren
-Noget så relativt sjældent som et indbygget trådløst netværk møder vi i Lexmark X4850, der hermed er med på en af de store trends – installation af trådløse netværk i hjemmet. Desværre understøtter trådløsheden kun udskrift – ikke scanning.
-Installationsvejledningen er en integreret del af installations CD’en, så der er ingen undskyldning for at installere X4850 forkert.

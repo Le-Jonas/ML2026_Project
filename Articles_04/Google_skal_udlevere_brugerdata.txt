@@ -1,7 +1,0 @@
-Title: Google_skal_udlevere_brugerdata
-Date: 2008-07-04
-Article Type: Digitalt
-Author: Frederik Pedersen
-
-Oplysningerne indbefatter brugernavne, tidspunkter og ip-adresser, som kan identificere internetbrugere, på samtlige videovisninger på YouTube og fylder svimlende 12,5 millioner megabyte.
-Det sker som led i en retssag, hvor Viacom har sagtsøgt Google for 5 milliarder kroner, da de mener, at Youtubes brugere har uploadet videoer, som Viacom har copyright på.

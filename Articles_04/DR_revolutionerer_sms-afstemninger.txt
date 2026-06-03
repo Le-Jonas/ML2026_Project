@@ -1,7 +1,0 @@
-Title: DR_revolutionerer_sms-afstemninger
-Date: 2008-07-10
-Article Type: Kultur
-Author: Rasmus Strøyer
-
-DR har udviklet et program til sms-afstemninger, som gør det næsten gratis at deltage.
-Man downloader et lille program til mobilen, og vupti, prisen for en stemme lyder på 4 øre. Den lave pris skyldes, at det ikke længere er via sms, man deltager, men via et lille program på mobilen, som sender data direkte til DR.

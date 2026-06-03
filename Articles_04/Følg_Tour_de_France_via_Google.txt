@@ -1,7 +1,0 @@
-Title: Følg_Tour_de_France_via_Google
-Date: 2007-07-10
-Article Type: Digitalt
-Author: Kim Elmose
-
-Hvis du som fan af Tour de France vil have en bedre fornemmelse af de strabadser, rytterne skal igennem de næste tre uger, kan du følge med på et kort, hvor en hollænder har tegnet hele ruten ind.
-Kortet er en udvidelse til Googles 3D-verdenskort, Google Earth.

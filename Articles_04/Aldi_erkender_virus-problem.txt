@@ -1,7 +1,0 @@
-Title: Aldi_erkender_virus-problem
-Date: 2007-09-11
-Article Type: Digitalt
-Author: Søren Dilling
-
-Aldi beklager i en pressemeddelelse, at diskountkæden siden onsdag den 5. september har solgt et antal bærbare computere fra Medion, som har været inficeret med en virus.
-Viriussen er identificeret som Stoned Angelina, og de bærbare er ud af en serie fra Medion med betegnelsen MD 96290.

@@ -1,8 +1,0 @@
-Title: Linksys_Kiss_1600
-Date: 2007-07-31
-Article Type: Bolig og haven
-Author: Thomas Vigild
-
-Anders Børsmose
-Noble hensigter, hvilket man mærker allerede ved installeringen, da man her frit kan vælge, om man vil bruge den medfølgende software til at synkronisere med computeren eller andre streamer-programmer som eksempelvis Windows Media Connect eller SlimServer. Fornemt og fleksibelt.
-Den medfølgende software fungerer også til Mac, så her får særligt D-link baghjul: installer programmet, marker, hvilke film, billed- og lydfiler du vil dele med fjernsynet, og voila: de popper op på fjernsynet og kan afspilles uden knas.

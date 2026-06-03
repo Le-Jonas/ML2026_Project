@@ -1,6 +1,0 @@
-Title: Hvad_er_blogsøgning_
-Date: 2008-02-11
-Article Type: FAQ
-Author: Politiken.dk forbinder bloggere over hele verden med artikler på politiken.dk ved hjælp af Twingly blogsøgning.
-
-Du kan se forbindelsen to steder: På forsiden af politiken.dk viser vi listen over de artikler på politiken.dk, som flest blogindlæg inden for den seneste uge har linket til. Desuden viser vi under alle politiken.dk-artikler en boks med links til de blogindlæg, som har linket til den pågældende artikel.

@@ -1,6 +1,0 @@
-Title: IT-sikkerhed_skal_omfatte_terror,_strømsvigt_og_brand
-Date: 2007-09-25
-Article Type: Økonomi
-Author: IT-sikkerhed for virksomhederne har i årevis handlet om virusangreb og ondsindede hackere.
-
-Men nu er det tid til at tænke it-sikkerhed ind i en større sammenhæng, der tager højde for, hvordan en virksomhed kan klare sig, hvis den i en periode bliver lukket ude af cyberspace i forbindelse med for eksempel et terrorangreb.

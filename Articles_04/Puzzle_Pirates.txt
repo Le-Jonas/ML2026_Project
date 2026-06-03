@@ -1,9 +1,0 @@
-Title: Puzzle_Pirates
-Date: 2008-03-14
-Article Type: Digitalt
-Author: Rasmus Hørmand-Pallesen
-
-Puzzle Pirates er bygget op omkring en masse puslespil, som skal løses undervejs, når man sejler, udkæmper sværdkampe eller navigerer rundt. Når puslespil løses, optjener man valuta, som kan bruges til at købe skibe eller andre pirateffekter.
-Spillet har to valutaer. Den ene kan kun opnås ved at løse diverse puslespil, den anden kan købes for rigtige penge. De to valutaer kan så ombyttes spillerne imellem. Skal man købe noget i spillet, kræves begge former for valuta. Herved opnås en balance mellem dem, som ikke ønsker at bruge virkelige penge, og dem, som ikke er bange for at hive tegnebogen frem for at opnå hurtigere fremgang. 
-Det er gratis at oprette en profil hos Puzzle Pirates.
-www.puzzlepirates.com

@@ -1,6 +1,0 @@
-Title: Jeg_kan_ikke_logge_ind!
-Date: 2008-02-12
-Article Type: P-bruger
-Author: For at kunne logge ind efter at du har oprettet en P-bruger skal du aktivere din P-bruger ved at klikke på det link du modtog via mail da du oprettede dig. Når du logger ind skal du være opmærksom på om "Caps Lock" eller "Num Lock" er slået til.
-
-Hvis ikke du kan finde mailen i din indbakke, kan den evt. være at finde i dit mailprograms spam mappe. For at få tilsendt aktiverings mailen påny, skal du logge ind med det brugernavn og kodeord du anvendte da du oprettede dig, så vil du blive guidet videre.

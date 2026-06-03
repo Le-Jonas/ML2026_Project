@@ -1,7 +1,0 @@
-Title: Alwil_avast!_4_Home_Edition_v4.7
-Date: 2007-10-19
-Article Type: Bolig og haven
-Author: Line Jakobsen og Rasmus Emborg
-
-Det er ganske tankevækkende, at gratisudgaven af avast! klarer flere scanningsområder end mange kommercielle antivirusprodukter.
-Udover on-access, on-demand og email scanner avast også scripts, instant messenger-trafik samt netværks, http-data og zippede arkiver.

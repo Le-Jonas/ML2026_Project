@@ -1,7 +1,0 @@
-Title: SAS_ændrede_reservedel_pa_uheldsfly
-Date: 2007-11-06
-Article Type: Økonomi
-Author: Bo Maltesen
-
-SAS handlede helt på egen hånd og i strid med ’godkendt procedure’ fra flyfabrikanten Bombardier, da SAS’ mekanikere 22. oktober udskiftede en bestemt reservedel i højre landingsstel på det Dash 8-fly, der fem dage senere nødlandede i Kastrup.
-Under udskiftningen ændrede værkstedet reservedelen, hvilket førte til, at en glemt pakning i landingsstellets hydrauliske system de næste fem dage kunne fortsætte sin vandring frem mod en hydraulisk arm, som den blokerede, så højre landingsstel under en landing i Københavns Lufthavn 27. oktober ikke kunne slås ud.

@@ -1,7 +1,0 @@
-Title: Ondsindet_OL-film_udnytter_Tibet
-Date: 2008-04-15
-Article Type: Digitalt
-Author: Søren Dilling
-
-Støder man på filmen på nettet, henter den ned og begynder at afspille den, vil den installere et program, der sender dine tastetryk videre til en hacker.
-Det er sikkerhedsfirmaet McAfee, der har opdaget svindelnummeret.

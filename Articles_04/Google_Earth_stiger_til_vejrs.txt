@@ -1,7 +1,0 @@
-Title: Google_Earth_stiger_til_vejrs
-Date: 2007-08-23
-Article Type: Digitalt
-Author: Søren Dilling
-
-Et virtuelt teleskop, kalder Google sin nye tjeneste, som er en tilføjelse til tjenesten Google Earth, som blot vender ud i rummet.
-Google Sky er skabt ved at sammensætte billeder fra forskellige videnskabelige kilder som the Space Telescope Science Institute (STScI), the Sloan Digital Sky Survey (SDSS) og the United Kingdom Astronomy Technology Centre (UK ATC).

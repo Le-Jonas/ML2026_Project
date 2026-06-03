@@ -1,7 +1,0 @@
-Title: Sadan_tjekkede_vi_spejlrefleks
-Date: 2008-08-21
-Article Type: Bolig og haven
-Author: Michael Fahlgren og Søren Dilling
-
-Hvidbalance og farvetest foregår ved hjælp af et almindeligt tilgængeligt fototarget i form af en såkaldt GretagMacbeth ColorChecker.
-Her udvælges ren rød, grøn, blå, hvid, sort og grå, som efter fotografering udmåles ved hjælp af værktøjerne i Adobe Photoshop CS3.

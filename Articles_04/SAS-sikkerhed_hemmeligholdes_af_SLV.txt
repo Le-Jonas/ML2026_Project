@@ -1,8 +1,0 @@
-Title: SAS-sikkerhed_hemmeligholdes_af_SLV
-Date: 2007-09-12
-Article Type: Danmark
-Author: Andreas Lindqvist
-
-Nikolaj Lauta
-Hvert år må cirka 250 fly vende om og flyve tilbage til Københavns Lufthavn.
-I langt de fleste tilfælde er årsagen uskyldig - en indikatorlampe, som blinker den forkerte farve, selv om intet er galt. Eller som i en Dash 8 Q400 i mandags, fordi ventilationsanlægget ikke fungerer.

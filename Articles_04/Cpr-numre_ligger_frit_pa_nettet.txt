@@ -1,6 +1,0 @@
-Title: Cpr-numre_ligger_frit_pa_nettet
-Date: 2007-10-11
-Article Type: Digitalt
-Author: Derfor svømmer et betydeligt antal cpr-numre rundt på nettet, påpeger it-sikkerhedsfirmaet CSIS Security Group.
-
-Numrene kan i værste fald udnyttes i forbindelse med såkaldt identitetstyveri.
