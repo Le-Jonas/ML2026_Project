@@ -1,9 +1,0 @@
-Title: Kabel_med_superledere_tages_i_brug
-Date: 2001-05-27
-Article Type: Økonomi
-Author: Amager bliver det første sted i verden, hvor superledende kabler skal levere strøm til private husstande. 50.000 amagerkanske husstande vil fra mandag få strøm via de specielle kabler. 
-Det nye superkabel i København er kun 30 meter langt og er blevet installeret på Amager Koblingsstation, hvor det skal stå sin prøve. Når prøvetiden er forbi, er det meningen, at kablerne skal bruges over afstande på fire til seks kilometer. Det er Københavns Energi og NKT Cables, der sætter verdens første superlederkabel i drift, og ifølge Nyhedsmagasinet Ingeniøren har projektet på Amager kostet 10 mio. kr. Sparer på energien
-De superledende kabler kan få energiforbruget til at falde med fem til syv procent, og det betyder også, at udledningen af CO2 mindskes. Samtidig er kablerne billigere at installere end traditionelle elkabler. Og benytter man de lange kabler, kan man blandt andet spare højspændingstransformatorer, som indtil nu har været nødvendige for at transportere strømmen ud til brugerne. 
-Superledning blev opdaget helt tilbage i 1911. Metoden går ud på, at man benytter sig af ekstrem kulde til at føre el ud til eksempelvis en husstand. Kulden gør, at al elektrisk modstand stort set forsvinder og derved forsvinder energitabene også. 
-Da man forventer, at forbruget af el vil stige i fremtiden, vil det kræve en udbygning af elnettet. Og i takt med teknologiudviklingen forudses superkabler med stor kapacitet og til stadig mere konkurrencedygtige priser at komme til at spille en stor rolle i fremtiden elforsyning.
-

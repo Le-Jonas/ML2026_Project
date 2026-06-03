@@ -1,9 +1,0 @@
-Title: Østdansk_samarbejde_om_IT_pa_sygehuse
-Date: 2001-11-16
-Article Type: Danmark
-Author: Fire østdanske amter og Hovedstadens Sygehusfællesskab (H: S) er gået i samarbejde om at satse på fælles IT-løsninger i sundhedsvæsenet. Aftalen ligger i forlængelse af et nuværende samarbejde om behandling af patienter. 
-Samarbejdet følger en opfordring fra H:S, Amtsrådsforeningen, Sundhedsministeriet og Sundhedsstyrelsen om at styrke indsatsen for at få indført en elektronisk patientjournal. 
-»Dette samarbejde har en række fordele, der ikke mindst kommer borgere og patienter til gode. Fælles udbud, køb og genbrug af IT-løsninger giver en bedre økonomi og dermed mulighed for et højt tempo i processen. Patientforløb også på tværs af amtsgrænser kan understøttes med data«, siger formanden for sundhedsudvalget i Bornholms Amt, Bjarne H. Kirkegaard (KRF). 
- Aftalen tager afsæt i moduler, hvor IT understøtter diagnostik, undersøgelser, behandling og pleje af patienten samt kommunikation i såvel eget hospitalsvæsen som med samarbejdspartnere udefra. Modulerne anskaffes i fællesskab eller af en enkelt partner i samarbejdet, afhængig af nytteværdi, behov og lokale politiske ønsker. 
-De fire amter i IT-aftalen er Bornholms Amt, Frederiksborg Amt, Københavns Amt og Storstrøms Amt.
-

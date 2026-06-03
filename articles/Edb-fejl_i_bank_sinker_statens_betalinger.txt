@@ -1,9 +1,0 @@
-Title: Edb-fejl_i_bank_sinker_statens_betalinger
-Date: 2001-12-14
-Article Type: Danmark
-Author: Staten må væbne sig med tålmodighed i mindst fire måneder endnu, før den kan stryge den fulde gevinst af en særdeles gunstig aftale med Jyske Bank om statens betalinger, skriver Berlingske Tidende. 
-Banken er ved at overtage administrationen med statens betalinger, efter at den med et lavpristilbud vandt opgaven foran tre andre pengeinstitutter. Fejl på fejl
- Men tidsplanen er skredet. Genstridige fejl i den tekniske håndtering af alle forsvarets betalinger har netop udskudt bankens overtagelse af forsvarets transaktioner til marts 2002. 
- En edb-fejl har ført til flere udsættelser af opgaven, som skulle være overtaget 1. juli i år. 
-»Problemet består i, at hvis der eksempelvis indtastes et forkert kontonummer i en enkelt betaling, så standser systemet flere tusinde andre betalinger. Det skal rettes, før forsvaret kan skifte over til Jyske Banks system«, siger kontorchef Laila Reenberg, Forsvarsministeriet.
-

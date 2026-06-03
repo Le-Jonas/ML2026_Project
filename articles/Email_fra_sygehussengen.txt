@@ -1,8 +1,0 @@
-Title: Email_fra_sygehussengen
-Date: 2001-11-16
-Article Type: Danmark
-Author: Email fra sygehussengen, fælles elektroniske patientjournaler for alle sygehusafdelinger og internet-booking af røntgenundersøgelser hos praktiserende læge - det bliver virkelighed for Frederikshavn-Skagen Sygehus, der nu får status af digitalt sygehus. Projektet til i alt 36,3 mio. kr. skal løbe frem til udgangen af 2003. 
-»Det banebrydende er, at vi bruger så mange elektroniske ting samtidig og kommer på tværs af alle afdelinger. De forskellige IT-systemer skal kunne tale sammen«, siger sygehusdirektør Ingeborg Thusgaard. 
-Der skal laves elektroniske patientjournaler, som kan bruges på alle sygehusets afdelinger. Og ved hjælp af internet-booking kan patienten hos den praktiserende læge booke tider til operationer, ambulatorieundersøgelser og røntgen. Desuden skal der ved sygehussengene installeres patientterminaler, så patienten kan sende email, gå på internettet og måske se sin egen journal. 
-»På barselsgangen er der planer om at opstille computere, så man kan scanne billedet af den nyfødte ind og sende det til moster i Canada«, siger Ingeborg Thusgaard.
-

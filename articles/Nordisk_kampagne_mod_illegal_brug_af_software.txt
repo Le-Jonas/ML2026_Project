@@ -1,8 +1,0 @@
-Title: Nordisk_kampagne_mod_illegal_brug_af_software
-Date: 2001-04-05
-Article Type: Økonomi
-Author: /ritzau/
-
-Omkring 30.000 nordiske virksomheder vil i løbet af denne måned blive kontaktet af den internationale organisation BSA (Business Software Alliance), der bekæmper illegal brug af software. Virksomhederne vil få tilbud om frit lejde i en måned til at bringe orden i licensforholdene omkring deres edb-programmer. Hvis virksomheden melder sig til kampagnen, vil BSA til gengæld undlade at tage retsskridt i løbet af de 30 dage, selv om man får information om, at virksomheden bruger programmer uden licens. 
-»Det er på høje tid med en debat om copyright, og hvordan man respekterer kreativt arbejde, hvis Danmark skal blive den ledende IT-nation, som statsministeren har udtrykt ønske om«, siger Niels Appel formand for BSA Danmark. 
-Ifølge en analyse fra analysefirmaet IPR bliver knap en tredjedel af al software i den private og offentlige sektor i Danmark brugt uden licenser.
