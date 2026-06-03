@@ -1,9 +1,0 @@
-Title: 36_pensionister_grebet_i_snyd_efter_et_ars_overvagning_af_1,1_million_danskere
-Date: 2024-11-14
-Article Type: Tech
-Author: Massiv overvågning af 2,4 millioner danskere er i strid med både menneskerettighederne og EU-reglerne, mener eksperter. Og så virker det ikke engang, viser en opgørelse.
-
-Jens Bostrup
-Journalist
-Omkring 1 million danske pensionister bliver hver dag overvåget for at tjekke, om der er nogen, der ulovligt modtager pensionstillæg. En kunstig intelligens bliver fodret med data fra en stribe registre og udpeger de pensionister, der muligvis har slået sig ned uden for EU og EØS-landene uden at oplyse det til de danske myndigheder.
-Sidste år fandt systemet frem til 511 mistænkelige pensionister. Sagsbehandlerne valgte at se nærmere på 351 af dem. I 36 tilfælde var der penge til statskassen – altså i 7 procent af de sager, maskinen rejste.

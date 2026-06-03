@@ -1,9 +1,0 @@
-Title: Ukrainsk_startup_bruger_ai_til_at_finde_og_advare_mod_russernes_propagandakrig
-Date: 2025-11-17
-Article Type: Tech
-Author: Ved hjælp af kunstig intelligens er det blevet muligt for en ukrainsk iværksætter at spore russisk misinformation i realtid. Systemet bruges nu i over 30 lande.
-
-Jens Bostrup
-Journalist
-De russiske styrker buldrer frem på slagmarken i Ukraine, men det går noget mere trægt på holdningsfronten. Her har modstanderne for første gang i mange år fået et overtag, der dæmmer op for russisk propaganda. Og det skyldes kunstig intelligens.
-»Vi kan nu overvåge fjendtlige aktiviteter på mere end 50 forskellige sprog. Vi kan opspore nye operationer i realtid og reagere på dem. For første gang er vi et skridt foran«, siger Ksenia Iliuk. Hun er medgrundlægger af LetsData, der for tre år siden begyndte i Ukraine. I dag bliver deres ai-system brugt af myndigheder og virksomheder i over 30 lande.

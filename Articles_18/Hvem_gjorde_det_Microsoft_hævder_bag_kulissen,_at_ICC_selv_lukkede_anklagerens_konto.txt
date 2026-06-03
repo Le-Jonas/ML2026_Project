@@ -1,9 +1,0 @@
-Title: Hvem_gjorde_det_Microsoft_hævder_bag_kulissen,_at_ICC_selv_lukkede_anklagerens_konto
-Date: 2025-06-05
-Article Type: Tech
-Author: Microsoft-kontoen blev lukket ned for chefanklageren i Den Internationale Straffedomstol efter et dekret fra Trump. Det har rystet verden. Nu benægter Microsoft, at de gjorde det. Så hvad skete der?
-
-Jens Bostrup
-Journalist
-I første omgang var Microsoft udadtil tavs efter nyheden om, at chefanklageren ved Den Internationale Straffedomstol (ICC) har fået spærret sin konto hos selskabet – som er sket efter et dekret fra den amerikanske præsident.
-Men bag kulissen henvendte Microsoft sig til store kunder og fortalte, at Politiken (og de fleste andre medier i verden) havde taget fejl. Microsoft har ikke lukket chefanklagerens konto.

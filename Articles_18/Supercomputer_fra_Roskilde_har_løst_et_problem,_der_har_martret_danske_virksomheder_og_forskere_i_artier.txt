@@ -1,9 +1,0 @@
-Title: Supercomputer_fra_Roskilde_har_løst_et_problem,_der_har_martret_danske_virksomheder_og_forskere_i_artier
-Date: 2025-04-07
-Article Type: Tech
-Author: Danskernes mest intime data kan nu køres sammen og bruges til bedre medicin og klima. DTU-direktør forventer et væld af nye virksomheder og forretningsmodeller, der kan udfordre USA.
-
-Jens Bostrup
-Journalist
-En supercomputer i Risø nær Roskilde har løst et problem, der har martret danske forskere og virksomheder i årtier: Danmark har nogle af de bedste og mest omfattende sundhedsdata i verden. Især fordi cpr-numrene gør det muligt at koble sundhedsdata til alle mulige andre forhold: dna, økonomi, beskæftigelse, sociale forhold, geografi, kriminalitet – stort set alle hjørner af vores ophav og tilværelse.
-Danskernes data er derfor en veritabel guldgrube for forskerne. Men de har svært ved at udvinde guldet, fordi EU’s databeskyttelse gør det overordentligt besværligt at samkøre og behandle de personfølsomme data.

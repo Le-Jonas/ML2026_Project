@@ -1,9 +1,0 @@
-Title: Ny_forskning_AI-agenter_udvikler_deres_egne_sociale_normer_og_fordomme,_nar_de_taler_sammen
-Date: 2025-07-07
-Article Type: Tech
-Author: Kunstige intelligenser er for første gang blevet undersøgt, når de agerer i flok, med samme metoder, som sociologer bruger. Der er påfaldende ligheder i adfærden – med skræmmende konsekvenser.
-
-Jens Bostrup
-Journalist
-Kunstige intelligenser optræder i stigende grad som flokdyr. De kommunikerer og samarbejder om at finde frem til konsensus og fælles løsninger.
-Nu har en gruppe forskere, herunder fra IT-Universitetet i København, for første gang studeret AI-agenternes adfærd som flokdyr. 24 kunstige intelligenser blev sat sammen for at løse en simpel opgave i et eksperiment, der normalt bruges i den sociologiske forskning.

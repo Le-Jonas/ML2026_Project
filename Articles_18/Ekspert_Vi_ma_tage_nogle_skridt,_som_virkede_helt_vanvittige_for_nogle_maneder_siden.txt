@@ -1,9 +1,0 @@
-Title: Ekspert_Vi_ma_tage_nogle_skridt,_som_virkede_helt_vanvittige_for_nogle_maneder_siden
-Date: 2025-03-25
-Article Type: Tech
-Author: Afhængigheden af Microsoft har gjort Danmark ekstremt sårbar over for amerikansk pres. Men det vil tage mange år at vikle os ud af det, siger professor Mikkel Flyverbom.
-
-Jens Bostrup
-Journalist
-Skal vi vitterlig være bange for, at Microsoft og andre amerikanske techgiganter kan trække stikket til cloudtjenester, lamme store dele af samfundet og udløse en katastrofe, hvis den amerikanske præsident beslutter at lægge pres på Danmark, f.eks. for at få Grønland?
-Mikkel Flyverbom, professor på CBS og formand for regeringens nu opløste ekspertgruppe om techgiganterne, vurderer, at uforudsigeligheden er større lige nu.

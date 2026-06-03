@@ -1,9 +1,0 @@
-Title: Dansk_Industri_Vi_kan_ikke_blive_fri_af_Microsoft
-Date: 2025-11-04
-Article Type: Tech
-Author: Vi slipper ikke ud af afhængigheden af Microsoft. Men vi skal sikre os i de hjørner, hvor sårbarheden er kritisk, siger Dansk Industri i ny strategi. DI har selv skabt problemet, siger ekspert.
-
-Jens Bostrup
-Journalist
-Dansk Industri har nu lagt en strategi for, hvordan Danmark bør håndtere afhængigheden af amerikansk tech, og hvordan vi skal blive digitalt suveræne.
-Strategien fra Danmarks største erhvervsorganisation rummer to klare bud, der både er nye og kontroversielle: Den nuværende afhængighed af selskaber som Microsoft, Google og Amazon er som udgangspunkt ikke noget problem. Vi skal ganske enkelt opgive tanken om at gøre os uafhængige på den front.

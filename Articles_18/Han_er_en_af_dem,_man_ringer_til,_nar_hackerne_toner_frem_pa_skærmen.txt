@@ -1,9 +1,0 @@
-Title: Han_er_en_af_dem,_man_ringer_til,_nar_hackerne_toner_frem_pa_skærmen
-Date: 2025-10-22
-Article Type: Tech
-Author: Næsten to ud af tre danske virksomheder har en beredskabsplan for cyberangreb. Men kun 38 procent har trænet den. Det gør Danmark sårbar, mener sikkerhedseksperter.
-
-Jens Bostrup
-Journalist
-Det ser ud til at være alvor, da it-chefen i den danske koncern Forenede og fem af hans medarbejdere træder ind i en skurvogn, hvor den fiktive Nordic Critical Systems har hovedsæde.
-En kunde ringer desperat: De er blevet hacket. Alle virksomhedens data er blevet utilgængelige. »Der skal gøres noget. Nu!«, når kunden lige at sige, inden forbindelsen bliver afbrudt, og en maskeret hacker toner frem og bebuder, at der skal betales løsepenge.

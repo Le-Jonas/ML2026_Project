@@ -1,9 +1,0 @@
-Title: 97_procent_af_kommunerne_tilstar_Vi_kan_ikke_handtere_cyberangreb
-Date: 2024-12-10
-Article Type: Tech
-Author: Angreb på de kommunale it-systemer er daglige og bliver stadig mere alvorlige. Når et af dem lykkes, kan det få fatale konsekvenser. KL og regeringen skændes om regningen.
-
-Jens Bostrup
-Journalist
-Hele 97 procent af de danske kommuner er ifølge deres egne it-chefer ikke rustet til de cyberangreb, som de dagligt udsættes for. It-cheferne vurderer, at cybertruslen er større eller langt større, end kommunerne har ressourcer til at håndtere.
-Det viser en undersøgelse, som Kommunernes Landsforening tirsdag offentliggør i magasinet Momentum.
