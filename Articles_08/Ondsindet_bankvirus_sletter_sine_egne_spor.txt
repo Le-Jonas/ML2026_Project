@@ -1,7 +1,0 @@
-Title: Ondsindet_bankvirus_sletter_sine_egne_spor
-Date: 2012-02-23
-Article Type: Digitalt
-Author: Jesper Hvass
-
-Det ondsindede program, som tidligere på måneden blev brugt til at frarøve otte Danske Bank-kunder 700.000 kroner, var så udspekuleret, at det selv slettede egne spor.
-Det fortæller en af de ramte kunder, som også er it-konsulent til Version2.

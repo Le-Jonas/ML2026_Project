@@ -1,7 +1,0 @@
-Title: Udskældt_iPhone-app_kunne_spore_intetanende_kvinde
-Date: 2012-04-25
-Article Type: Digitalt
-Author: Søren Dilling
-
-Det eneste smartphone-appen (eller applikationen) 'Girls Around Me' krævede for at fungere optimalt var, at de folk, den skulle spore, havde en åben Facebook-profil, samt at de havde tjekket ind et sted i byen.
-For den virkede på den måde, at den indsamlede information fra åbne profiler på sociale tjenester som Facebook, hentede dem ned på den smartphone, den var installeret på sammen med et Google-kort, der nøjagtigt viste, hvor de personer, der havde tjekket ind på et bestemt sted, befandt sig.

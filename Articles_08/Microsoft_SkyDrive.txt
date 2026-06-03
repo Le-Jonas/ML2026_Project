@@ -1,9 +1,0 @@
-Title: Microsoft_SkyDrive
-Date: 2012-06-18
-Article Type: Bolig og haven
-Author: Michael C. Svendsen
-
-SkyDrive har applikationer til både Windows og Mac samt til Windows Phone - og også til iOS eller Android. 
-Tjenesten har et velfungerende browserlayout, hvor man får adgang til nedskalerede webudgaver af de kendte Officeprogrammer som f.eks. Word. Her er også en smart funktion, der gør det muligt at trække filer fra én SkyDrive-opkoblet pc til en anden - også selv om de pågældende data ikke ligger i en mappe, der synkroniseres med SkyDrive.
-Denne tjeneste har langt den billigste lagerkapacitet: 100 GB koster 279 kroner årlig. Den store ulempe er imidlertid, at tjenesten er langsommere til at synkronisere end Dropbox og Google Drev. 
-Det kan naturligvis skyldes forbigående problemer med kapaciteten i den periode, hvor Lørdagsliv testede, så prøv selv, om du er tilfreds med hastigheden. SkyDrive havde også en lidt mærkværdig tendens til ikke at synkronisere alle mapper og filtyper lige hurtigt. Der er stadig en smule optimeringsarbejde tilbage for Microsoft, før den fungerer upåklageligt.

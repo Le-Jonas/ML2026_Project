@@ -1,6 +1,0 @@
-Title: Robot-operationer_stoppet_af_bakterier
-Date: 2012-06-27
-Article Type: Danmark
-Author: Alle operationer med robotter af mærket da Vinci indstilles nu midlertidigt i Danmark.
-
-Det skyldes blandt andet ujævnheder på de instrumenter, som robotten bruger. Det betyder, at det muligvis er vanskeligt at gøre instrumenterne helt sterile.

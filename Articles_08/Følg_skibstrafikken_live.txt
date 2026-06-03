@@ -1,9 +1,0 @@
-Title: Følg_skibstrafikken_live
-Date: 2012-06-14
-Article Type: Danmark
-Author: Kortet baserer sig på data fra AIS (Automatic Identification System). Alle skibe over 299 bruttoregistertons skal have en AIS-sender ombord, som sender oplysninger om bl.a. skibets position, fart, kurs, navn og dimensioner, samt hvilken havn, skibet er på vej mod. Oplysningerne kommer frem ved klik på det enkelte skib.
-
-Ved at zoome ud får du hele verden på kortet, og kan zoome ind på de farvande, som er dækket med AIS-modtagere. I menuen til venstre vælges de informationer, du ønsker vist på kortet.
-Kortet opdateres med 100 sekunders mellemrum.
-Data om skibstrafikken indsamles som led i forskningsprojektet Marine Traffic Project, som ledes fra University of the Aegean i Grækenland og publiceres på www.marinetraffic.com.
-fortsæt med at læse

@@ -1,6 +1,0 @@
-Title: Offentlige_hjemmesider_smitter_med_virus
-Date: 2011-09-28
-Article Type: Digitalt
-Author: Offentlige hjemmesider bliver angrebet af it-kriminelle og kan dermed sende borgerne videre til et ondsindet netsted.
-
-Det advarer it-sikkerhedsfirmaet F-Secure om. Selskabet har blandt andet sporet smittede hjemmesider i Odder Kommune.

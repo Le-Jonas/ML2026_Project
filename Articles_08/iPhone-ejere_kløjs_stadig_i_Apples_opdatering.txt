@@ -1,7 +1,0 @@
-Title: iPhone-ejere_kløjs_stadig_i_Apples_opdatering
-Date: 2011-10-25
-Article Type: Digitalt
-Author: Søren Dilling
-
-Det er langt fra slut med opdateringsproblemerne i forbindelse med Apples nye styresystem til iPhone, iPod Touch og iPad.
-Selv over en uge efter lanceringen af den nye version af styresystemet til IOS5 er der stadig brugere, som ikke kan få opdateringen til at installere, mens der er andre brugere, som det har lykkedes at hente opdateringen og installere den, hvorefter deres iPhone er gået død.

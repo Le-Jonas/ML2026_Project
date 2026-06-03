@@ -1,7 +1,0 @@
-Title: Brugere_med_ældre_Macs_kan_ikke_længere_logge_pa_m
-Date: 2012-05-24
-Article Type: Digitalt
-Author: Oliver Bærentsen
-
-Har du en Mac med en PowerPC-processor, skal du ud og investere i en ny computer, hvis du vil fortsætte med at logge på onlinetjenester via NemID.
-Nets, som står for NemID har nemlig lukket for adgangen for de pågældende Mac-maskiner.

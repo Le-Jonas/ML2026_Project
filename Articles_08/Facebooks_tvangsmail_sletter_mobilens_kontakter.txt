@@ -1,7 +1,0 @@
-Title: Facebooks_tvangsmail_sletter_mobilens_kontakter
-Date: 2012-07-04
-Article Type: Digitalt
-Author: Søren Dilling
-
-Mange smartphonebrugere, som har aktiveret Facebooks automatiske synkronisering af kontakter mellem Facebook-profilen og deres smartphone har fået sig noget af en overraskelse.
-Alle deres kontakters emailadresser har fået endelsen @facebook.com

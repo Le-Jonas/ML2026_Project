@@ -1,8 +1,0 @@
-Title: Vokaljagt_uden_lyd
-Date: 2011-09-01
-Article Type: Spil
-Author: Thomas Vigild
-
-Steffen Moestrup
-Sjældent har jeg afprøvet en så simpel applikation som Vokaljagt fra det danske selskab Spinami.
-I al sin enkelhed fremtoner et billede på skærmen samt et ord, der mangler en vokal. Billede og ord matcher naturligvis hinanden, og så skal barnet ellers finder den rigtige vokal og indsætte den på den tomme plads. Jeg afprøvede først applikationen alene og tænkte, at det her er simpelthen for monotont til, at noget barn orker at bruge det mere end få sekunder.

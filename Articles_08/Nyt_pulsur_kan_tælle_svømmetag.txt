@@ -1,8 +1,0 @@
-Title: Nyt_pulsur_kan_tælle_svømmetag
-Date: 2011-10-06
-Article Type: Motion
-Author: Per Munch
-
-Journalist
-Hidtil har Svømmere, der vil måle distance og hastighed i åbent vand, taget gps-uret ind under badehætten for at holde forbindelsen med satellitterne. For med et almindeligt gps-træningsur om håndleddet, så ryger satellitforbindelsen, når armen går dybt under overfladen i et svømmetag.
-Nu lancerer Garmin et ur, der kan regne ud, hvor svømmeren er, trods udfald fra senderen. Og så tæller uret samtidig svømmetag, sådan at den seriøse triatlet eller svømmer kan lære sig at bevæge sig gennem vand med færrest mulige svømmetag og den bedst mulige svømmeøkonomi. For hvert armtag tæller, når man for eksempel skal tilbagelægge 3,8 km i havet til den lange jernmand.

@@ -1,8 +1,0 @@
-Title: Google_Drev
-Date: 2012-06-18
-Article Type: Bolig og haven
-Author: Michael C. Svendsen
-
-Google Drev bygger i bund og grund på det dokumentbibliotek, som brugere af Google Dokumenter allerede kender. Man kan gemme, synkronisere og åbne næsten alle de filtyper, man vil. 
-Man kan også bruge tjenesten til at oprette og redigere tekstdokumenter m.m. direkte i browseren via Google Dokumenter. Mange foretrækker dog nok at arbejde direkte i det dedikerede Google Drev-program på Windows eller Mac, hvor man - præcis som i Dropbox og SkyDrive - får oprettet en folder, der automatisk synkroniserer alle ændringer med nettjenesten, når du er online. Men vel at mærke så du stadig har adgang til dine filer, når du er offline; de ligger jo i en mappe på din harddisk. Det virker fint, og Google Drev synkroniserer umiddelbart lige så hurtigt som Dropbox. 
-På de mobile enheder er Google Drev dog noget mere begrænset. Der findes f.eks. kun en dedikeret Drev-app til Googles eget styresystem, Android. Man starter med 5 GB gratis kapacitet - i sig selv dobbelt så meget som Dropbox - men kan få 100 GB for knap 500 kroner årligt. Men skulle det ikke være nok, kan man købe helt op til svimlende 16 terabyte.

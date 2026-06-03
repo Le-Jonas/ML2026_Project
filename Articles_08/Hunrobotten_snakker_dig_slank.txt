@@ -1,7 +1,0 @@
-Title: Hunrobotten_snakker_dig_slank
-Date: 2012-01-13
-Article Type: Digitalt
-Author: Søren Dilling
-
-Autom Weight Loss Coach er en interaktiv træner i vægttab, som har vist sig at være bedre til at få en overvægtig til at holde sin diæt end et vægttabsprogram.
-Den benytter sig af en algoritme, som skaber en daglig samtale med brugeren.

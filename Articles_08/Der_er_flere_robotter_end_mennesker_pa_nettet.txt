@@ -1,7 +1,0 @@
-Title: Der_er_flere_robotter_end_mennesker_pa_nettet
-Date: 2012-03-15
-Article Type: Digitalt
-Author: Søren Dilling
-
-Over halvdelen af al trafik på internettet er ikke drevet af mennesker, der er aktive ved en computer men af robot-programmer.
-Det viser en ny rapport fra sikkerhedsfirmaet Incapsula, der leverer løsninger til sikker adgang til data, som firmaer opbevarer på servere i skyen.

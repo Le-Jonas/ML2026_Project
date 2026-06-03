@@ -1,7 +1,0 @@
-Title: Fredagsspillet_Da_Tetris_mødte_Minestryger
-Date: 2012-02-24
-Article Type: Spil
-Author: Thomas Vigild
-
-Hvordan laver man verdens bedste spil? Man stabler da bare to af de allermest spillede spil oven på hinanden og skaber et helt tredje: værsgo til ugens Fredagsspil TETRISweeper.
-Som titlen afslører, så er det slet og ret det kendte 'Tetris', der flettes sammen med 'Minestryger' - og resultatet er mildest talt overraskende.

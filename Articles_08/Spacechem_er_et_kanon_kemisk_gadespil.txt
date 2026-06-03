@@ -1,8 +1,0 @@
-Title: Spacechem_er_et_kanon_kemisk_gadespil
-Date: 2012-02-28
-Article Type: Forbrug
-Author: Thomas Vigild
-
-Kenneth McNeil
-Bevæbnet med grundstoffer som hydrogen, kulstof og magnesium skal man skabe stadig mere komplicerede molekylære strukturer. Det begynder med en simpel sølvfluorid-binding, men inden længe er man i gang med trippelbindinger som acetylen. Det overraskende er, at dette kemishow er hamrende fængslende.
-Helt konkret foregår ' Spacechem' inde i forskellige reaktorer, der alle er bygget op som et net af felter. Målet er at samle et bestemt molekyle. Og man skal som spiller løbende indkode, hvordan molekylet skal opføre sig igennem reaktoren for at ende som målmolekylet.

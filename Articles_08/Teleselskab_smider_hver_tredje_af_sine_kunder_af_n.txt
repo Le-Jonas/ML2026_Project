@@ -1,7 +1,0 @@
-Title: Teleselskab_smider_hver_tredje_af_sine_kunder_af_n
-Date: 2012-06-14
-Article Type: Digitalt
-Author: Søren Dilling
-
-Mellem 35.000 og 45.000 kunder hos mobilselskabet M1 mistede i går forbindelsen, efter at selskabet M1 opdaterede sit betalingssystem. Det nye system troede, de ikke havde betalt regningen.
-De mange kunder hos telselskabet, som ifølge IT- og Telestyrelsens seneste statistik har 145.000 kunder, blev ved en fejl koblet af nettet natten til onsdag i forbindelse med, at selskabet skiftede det gamle betalingssystem ud til et, der skal give kunderne en løbende saldo.

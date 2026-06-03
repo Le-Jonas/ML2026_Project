@@ -1,7 +1,0 @@
-Title: Skift_til_billigste_abonnement_direkte_pa_mobilen
-Date: 2011-09-08
-Article Type: Digitalt
-Author: Søren Dilling
-
-En ny gratis applikation holder øje med alt forbrug, tale, beskeder og data på en Android-smartphone.
-Men derudover sammenligner den det aktuelle forbrug på smartphonen med alle danske priser på telemarkedet og kommer med forslag til selskaber, der leverer abonnementer, der passer bedre til forbuget.

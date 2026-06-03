@@ -1,7 +1,0 @@
-Title: Forkert_browser-indstilling_giver_andre_adgang_til
-Date: 2012-03-07
-Article Type: Digitalt
-Author: Søren Dilling
-
-Har du været inde og tjekke din årsopgørelse via din NemID og bagefter har lukket ned efter alle kunstens regler - det vil sige logget ud og lukket browservinduet ned og endda slukket computeren - kan den næste bruger af computeren alligevel få dine skattepapirer smidt lige i hovedet.
-Det sker, hvis indstillingen i Microsofts browser Internet Explorer ikke er helt perfekt.

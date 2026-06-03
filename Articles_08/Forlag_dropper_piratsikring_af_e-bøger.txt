@@ -1,7 +1,0 @@
-Title: Forlag_dropper_piratsikring_af_e-bøger
-Date: 2012-04-30
-Article Type: Bøger
-Author: Carsten Andersen
-
-Det engelsksprogede forlag Tor har besluttet at droppe den hårde beskyttelse mod piratkopiering af e-bøger.
-Den såkaldte DRM-beskyttelse har betydet, at læsere ikke har kunnet flytte en digital bog rundt mellem forskellige læseplatforme. I stedet for at beskytte mod kopiering har virkningen været den stik modsatte.

@@ -1,7 +1,0 @@
-Title: Ny_app_kan_afsløre_darlige_forbindelser_pa_mobilma
-Date: 2012-06-08
-Article Type: Digitalt
-Author: Søren Dilling
-
-Ingeniørstuderende fra Aalborg Universitet har udviklet en applikation til smartphones, som samler oplysninger omkring teleselskabernes netværk.
-Applikationen har ingen funktion for brugeren, men henter man den og aktiverer den, kan hver enkelt være med til at kortlægge ikke alene teleselskabernes dækning de steder, smartphonen befinder sig, men også hvilke smartphones, der har gode og dårlige forbindelser.

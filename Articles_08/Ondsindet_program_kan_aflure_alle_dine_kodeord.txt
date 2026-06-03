@@ -1,7 +1,0 @@
-Title: Ondsindet_program_kan_aflure_alle_dine_kodeord
-Date: 2012-02-21
-Article Type: Digitalt
-Author: Jesper Hvass
-
-Ved et spektakulært angreb på NemID lykkedes det tidligere på måneden it-svindlere at stjæle 700.000 fra otte af Danske Banks netkunder.
-Nu viser en analyse af det ondsinde program, som blev brugt i svindlen, at det var mere udspekuleret end som så. Den såkaldte trojanske hest stjæler nemlig alle dine kodeord.
