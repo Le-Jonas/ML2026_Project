@@ -1,9 +1,0 @@
-Title: Kunstig_intelligens_bliver_trukket_i_retten_i_helt
-Date: 2023-12-29
-Article Type: Internationalt
-Author: Den amerikanske avis The New York Times er det første store medie i USA, der sagsøger OpenAI for at bruge deres materiale til at træne ChatGPT uden at spørge om lov.
-
-Trine Bjørn Egede
-Journalist
-The New York Times sagsøger virksomhederne OpenAI og Microsoft for krænkelse af ophavsretten.
-Avisen er det første store medie i USA, der sagsøger en AI-virksomhed for at bruge journalistisk indhold til kunstig intelligens. Retssagen åbner for en juridisk kamp om brug af værker til at træne kunstig intelligens til robotter som ChatGPT.

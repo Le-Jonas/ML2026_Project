@@ -1,9 +1,0 @@
-Title: Nedbrud_It-firma_har_haft_en_ret_darlig_dag_pa_kon
-Date: 2024-04-09
-Article Type: Danmark
-Author: Leverandøren af systemet bag blandt andet skat.dk og e-Boks siger, at nedbruddet »selvfølgelig ikke er acceptabelt«. Nu skal årsagen findes.
-
-Anders Legarth Schmidt
-Journalist
-Det er nok ingen overdrivelse at slå fast, at det har været en ekstraordinært sløj dag på kontoret hos it-virksomheden Aeven i Søborg.
-For som ansvarlig for driften af NemLog-in var det Aeven, som stod med hånden på kogepladen klokken 9.43 tirsdag formiddag, da systemet gik ned.

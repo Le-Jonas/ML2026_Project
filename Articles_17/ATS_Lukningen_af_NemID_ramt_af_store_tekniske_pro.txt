@@ -1,8 +1,0 @@
-Title: ATS_Lukningen_af_NemID_ramt_af_store_tekniske_pro
-Date: 2023-11-01
-Article Type: ATS
-Author: ATS er Politikens daglige satirespalte.
-
-I forbindelse med dagens endegyldige lukning af NemID har Nets oplevet en serie af tekniske problemer, beretter virksomhedens chef for teknik og klimaløsninger, Ingeborg Tielemans:
-»Vi har villet lukke helt for NemID, men mit nøglekort er uheldigvis blevet væk, og min mobil er til reparation, så jeg kan ikke bruge tofaktorgodkendelsen i min MitID-app, så nu smutter jeg ned og får lidt hjælp i Borgerservice til at finde den 6-cifrede kode, jeg skal bruge for at logge ind og lukke ned«.
-ATS er Politikens daglige satirespalte.

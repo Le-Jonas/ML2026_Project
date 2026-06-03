@@ -1,9 +1,0 @@
-Title: Nyt_forsøg_med_ChatGPT_vil_maske_ændre_rekrutterin
-Date: 2023-09-07
-Article Type: Viden og tech
-Author: Automatisering plejer at ramme de svageste på arbejdsmarkedet. Men skriverobotter som ChatGPT skiller sig markant ud, viser amerikansk forskning.
-
-Jens Bostrup
-Journalist
-Et studie fra det anerkendte universitet MIT (Massachusetts Institute of Technology) tyder på, at brugen af ChatGPT til at skrive professionelle tekster øger både produktiviteten, kvaliteten og arbejdsglæden.
-Det er nok ikke så overraskende, at produktiviteten forbedres. Det mest interessante ved studiet er, at de skribenter, som uden skriverobotten fungerer dårligst, bliver løftet væsentligt mere, så forskellene i høj grad bliver udlignet, siger Thomas Wilken, økonom i tænketanken Kraka.

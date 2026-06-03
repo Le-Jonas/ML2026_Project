@@ -1,8 +1,0 @@
-Title: Jorden_far_flere_og_flere_søer_-_og_det_er_darligt_nyt_for_klimaet
-Date: 2022-11-26
-Article Type: Viden og tech
-Author: Danske og kinesiske forskere har med satellitbilleder og kunstig intelligens kortlagt 3,4 millioner søer over hele Jorden. En markant stigning på bare fire årtier er både et varsel om øget udledning af drivhusgasser og et vidnesbyrd om, hvordan vi mennesker omlægger naturen til vores egne formål.
-
-Nils Thorsen
-De store søer er lette nok at få øje på fra luften. Det er antallet af små søer på kloden, man aldrig rigtig har kendt. For selv om satellitfotos længe har været detaljerede nok til at identificere de mindre søer, er der så mange af dem, at regnekraften på computere ikke har været stor nok til at tælle dem. Og computere har ikke tidligere kunnet skelne mellem billeder af forskellige vandoverflader som søer og floder.
-»Derfor har vi ikke haft nogen særlig god viden hverken om mængden af søer, deres samlede areal, eller hvordan det har ændret sig i de sidste 30-40 år«, siger Rasmus Fensholt, professor på Institut for Geovidenskab og Naturforvaltning på Københavns Universitet.

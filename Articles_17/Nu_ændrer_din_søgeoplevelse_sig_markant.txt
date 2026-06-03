@@ -1,8 +1,0 @@
-Title: Nu_ændrer_din_søgeoplevelse_sig_markant
-Date: 2023-05-11
-Article Type: Tech
-Author: Kunstig intelligens indtager snart alle de populæreste Google-produkter, fra Gmail til Google Docs. Teknologien kan skrive dine e-mails for dig, men visse eksperter er ikke helt trygge ved udviklingen.
-
-Morten Bay, Mountain View, Californien
-Søgninger på Google er på vej til at blive en hel del mere informative og snakkesalige på én gang.
-Techgiganten sætter nu sit kerneprodukt, søgning, ind i kampen mod ærkekonkurrenten Microsoft, der ifølge eksperter har opnået et solidt forspring på kunstig intelligens ved at hægte den ultrapopulære ChatGPT-chatbot på firmaets Bing-søgemaskine.
