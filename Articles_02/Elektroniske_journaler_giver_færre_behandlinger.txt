@@ -1,9 +1,0 @@
-Title: Elektroniske_journaler_giver_færre_behandlinger
-Date: 2006-01-10
-Article Type: Danmark
-Author: Selv om indførelsen af elektroniske patientjournaler (EPJ) på de offentlige sygehuse har mindsket risikoen for fejl i behandlingen, så har det også medført, at færre patienter behandles i løbet af en dag. 
-Det vurderer 30 procent af de 300 læger, som it-virksomheden Hewlett-Packard har interviewet om brugen af it på landets sygehuse Ingen svarer
-Kun 14 procent mener, at der behandles flere patienter på grund af EPJ, mens halvdelen svarer, at det ikke gør nogen forskel. 
-Overordnet set mener 27 procent af de adspurgte sygehuslæger, at arbejdsprocesser baseret på it-redskaber har betydet et fald i antallet af patienter, der kan behandles på sygehuset, mens 21 procent svarer det modsatte. 
-Et flertal af lægerne fastslår dog, at it-redskaber dels gør personalet mere effektivt, dels giver en bedre patientsikkerhed.
-

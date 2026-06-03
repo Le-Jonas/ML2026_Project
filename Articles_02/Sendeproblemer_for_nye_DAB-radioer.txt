@@ -1,9 +1,0 @@
-Title: Sendeproblemer_for_nye_DAB-radioer
-Date: 2004-12-15
-Article Type: Danmark
-Author: Digital radio - DAB-radio - skulle være det nye vidunder på lydfronten, men selv om lyden kan være i høj kvalitet, og selv om de største byer skulle være godt dækket med sendere, så er der flere steder problemer med at modtage signalet, skriver dagbladet URBAN. 
-»Vi har godt vidst, at den indendørs dækning ikke kunne blive så god, som vi først havde håbet på«, siger specialkonsulent Lis Grete Møller fra DR Teknologisk Stab. 
-Problemet er blandt andet, at DAB-signalerne er mere følsomme end FM-signalerne, og at DAB-signalerne derfor har sværere ved at nå ind i bygninger. 
-»Hvis du befinder dig på gadeniveau og dybt inde i en bygning, er der problemer. Der kan signalet ikke nå ind. Og hvis bygningen er af jern og beton, bliver det endnu værre«, siger Lis Grete Møller. 
-På en konference i 2006 skal DR beslutte sammen med andre lande, om sendeeffekten skal skrues op.
-

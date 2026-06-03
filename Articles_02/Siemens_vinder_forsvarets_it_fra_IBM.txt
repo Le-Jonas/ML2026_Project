@@ -1,9 +1,0 @@
-Title: Siemens_vinder_forsvarets_it_fra_IBM
-Date: 2005-01-17
-Article Type: Økonomi
-Author: IBM kan pakke sig. Siemens gøre klar til at rykke ind. 
-Efter en lang udbudsproces har it-koncernen Siemens vundet opgaven med at drive og videreudvikle forsvarets DeMars-system, som blandt andet bruges til økonomistyring, materielforvaltning og administration af de omkring 30.000 medarbejdere i forsvaret. 
-Med Siemens skifter forsvaret leverandør på opgaven, idet IBM hidtil har stået for projektet. Forsvaret står selv for en del
-Udbuddet af forsvarets it-systemer er blevet delt i to, og forsvaret vil selv videreføre den anden del, som vedrører driften af forsvarets interne netværk og ca. 15.000 pc'er. 
-I alt tre store it-virksomheder med CSC som den tredje afgav bud på den samlede opgave.
-

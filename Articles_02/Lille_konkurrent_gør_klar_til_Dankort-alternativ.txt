@@ -1,8 +1,0 @@
-Title: Lille_konkurrent_gør_klar_til_Dankort-alternativ
-Date: 2005-01-07
-Article Type: Økonomi
-Author: Betalingsfirmaet Ewire gør nu klar til at lancere et alternativ til dankortet. 
- Det kan for eksempel være sygesikringskortet, der vil blive taget i brug som identifikation af den enkelte bruger i forhold til en Ewire-konto. Har erfaring fra nettet
- Ewire, der i dag står bag en 'elektronisk pung' på internet, har haft et fysisk betalingsmiddel under overvejelse et stykke tid som en naturlig fortsættelse af internet-aktiviteterne. Nu er det gjort muligt via de nye terminaler til chipkort. 
- »De nye terminaler er bredbåndsbaserede og kører via internet. Dermed kan de køre udenom PBS, men det kræver en ændring af softwaren i den enkelte terminal«, forklarer Lasse Rungholm, direktør for Ewire.
-

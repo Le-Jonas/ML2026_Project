@@ -1,8 +1,0 @@
-Title: Priskrig_pa_bredband
-Date: 2004-09-20
-Article Type: Økonomi
-Author: Ligesom det er sket på markedet for mobiltelefoner, vil forbrugerne opleve markante prisfald på bredbåndsmarkedet, hvor ny teknologi med langt højere hastigheder er lige om hjørnet. 
-Det vurderer teleanalytikere, efter at internetleverandøren Tiscali spillede aggressivt ud på det danske ADSL-marked med et tilbud om kraftige ADSL-forbindelser på 2 megabit pr. sekund til blot 199 kr. pr. måned. 
-Den type ADSL-forbindelser ligger ellers typisk i et prisleje på 500 kr. Der er dog tale om en kampagne, så prisen stiger til 249 kr. i november. Som betaling for den lavere pris må kunderne acceptere kun at kunne overføre 1000 megabyte per måned. En mængde, der vil opfylde det forbrug, som omkring 80 procent af netbrugerne har, vurderer selskabet. 
-Og udviklingen går helt klart mod lavere netbåndspriser, fastslår analytiker John Strand, Strand Consult, der ikke vil give et bud på, på hvilket niveau priskrigen vil ende.
-
