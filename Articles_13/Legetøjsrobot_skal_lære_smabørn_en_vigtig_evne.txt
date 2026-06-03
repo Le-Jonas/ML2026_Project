@@ -1,7 +1,0 @@
-Title: Legetøjsrobot_skal_lære_smabørn_en_vigtig_evne
-Date: 2017-04-19
-Article Type: Økonomi
-Author: Zach Wichter, New York Times
-
-Den tager et forsigtigt skridt frem, drejer til venstre, tager endnu et skridt og slår sig ned under et træ – eller rettere en tegning af et træ.
-Cubetto kan faktisk ikke gå, men den smilende robot af træ triller rundt ved egen kraft på en rute, der styres af mennesket bag maskinen.

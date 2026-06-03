@@ -1,7 +1,0 @@
-Title: Ny_lækage_fra_WikiLeaks_CIA_kan_spionere_dig_via_din_telefon_og_dit_Samsung-tv
-Date: 2017-03-08
-Article Type: Digitalt
-Author: Morten Bay
-
-I går slap WikiLeaks en række dokumenter løs på nettet, der påstås at afsløre en del af den amerikanske efterretningstjeneste CIAs spionage-værktøjer.
-Lækagen omfatter blandt andet en hel del af den software, som CIA kan bruge til at bryde ind i forskellige netværkssystemer og diverse forbrugerteknologi. Deriblandt et værktøj, der kan spionere på ejere af Samsungs fjernsyn.

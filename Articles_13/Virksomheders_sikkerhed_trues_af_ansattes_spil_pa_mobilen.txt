@@ -1,6 +1,0 @@
-Title: Virksomheders_sikkerhed_trues_af_ansattes_spil_pa_mobilen
-Date: 2017-02-02
-Article Type: Danmark
-Author: Mobiltelefoner bruges af mange til både arbejdsmail og spil. Men det kan være en farlig cocktail for virksomhederne. Det skriver it-firmaet Cisco i deres årlige sikkerhedsrapport.
-
-Heri beskriver it-firmaet, hvordan applikationer såsom spil beder om adgang til informationer fra andre funktioner i telefonen. Informationerne skal bruges i reklameøjemed.

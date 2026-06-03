@@ -1,8 +1,0 @@
-Title: Med_politisk_vilje_Borgernes_retssikkerhed_og_statens_deling_af_data_kan_ga_hand_i_hand
-Date: 2017-12-15
-Article Type: Tech
-Author: Jakob Sorgenfri Kjær
-
-Journalist
-En lang række juridiske eksperter og organisationer på tværs af erhvervslivet og borgerrettigheder har den seneste uge advaret med store bogstaver mod den svækkede rets- og datasikkerhed i regeringens nye datatiltag. Vidtgående – næsten ubegrænsede – beføjelser til statslig overvågning, ingen demokratisk kontrol med brugen af personoplysninger og et totalt fravær af gennemsigtighed for borgerne, lyder det fra de bekymrede røster.
-Men regeringens store plan om at effektivisere den offentlige sektor og målrette kontrollen af potentielle lovbrydere gennem øget brug af persondata kan sagtens gå hånd i hånd med retssikkerheden. Sådan lyder det fra it-giganten Microsoft, der bakkes op af blandt andre Dansk Industri og Rådet for Digital Sikkerhed.

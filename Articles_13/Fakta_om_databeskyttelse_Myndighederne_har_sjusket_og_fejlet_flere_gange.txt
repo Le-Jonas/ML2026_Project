@@ -1,9 +1,0 @@
-Title: Fakta_om_databeskyttelse_Myndighederne_har_sjusket_og_fejlet_flere_gange
-Date: 2017-10-13
-Article Type: Digitalt
-Author: Jakob Sorgenfri Kjær
-
-Journalist
-Jeppe Valeur
-I 2012 fik hackere adgang til politiets indre systemer og downloadede over flere måneder store mængder data, heriblandt cpr-numre fra kørekortregistret. Datatilsynet konkluderede i 2015, at det blandt andet var muligt for hackerne at få adgang til oplysningerne, fordi Rigspolitiet og it-leverandøren CSC ikke havde gjort tilstrækkeligt for at afskære systemerne fra internettet.
-En dansk statsborger og en svensk statsborger blev i 2014 idømt henholdsvis 6 måneder og 3 et halvt års fængsel for at stå bag hackerangrebet.

@@ -1,8 +1,0 @@
-Title: It-ekspert_Alle,_der_kører_et_Microsoft-netværk,_der_ikke_er_opdateret,_er_truet
-Date: 2017-05-13
-Article Type: Digitalt
-Author: Michael Olsen
-
-Journalist
-Det er lidt af en tilfældighed, at det er hospitaler, der i stor stil må lukke ned som en konsekvens af det globale hackerangreb fredag aften.
-Samtlige organisationer, myndigheder, firmaer og offentlige virksomheder, der kører et Microsoft-netværk er truede, lyder meldingen fra Henrik Larsen, chef for it-sikkerhedsorgansationen DKCERT.

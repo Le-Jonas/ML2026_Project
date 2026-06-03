@@ -1,8 +1,0 @@
-Title: Om_tre_uger_kan_USA_gøre_det_muligt_for_internetudbydere_at_genere_udvalgte_hjemmesider
-Date: 2017-11-25
-Article Type: Tech
-Author: Mathias Glistrup
-
-Journalist
-Millioner af amerikanske internetbrugere holder i disse dage vejret. I denne uge præsenterede den amerikanske telestyrelse, Federal Communications Commission (FCC), et længe ventet forslag om at afskaffe en række regler, der har til formål at sikre et åbent og frit internet. Vedtager de forslaget 14. december, vil det være muligt for landets internetudbydere at blokere eller sænke hastighederne på udvalgte hjemmesider, som de så kan afkræve penge for at gøre tilgængelige igen.
-For amerikanske forbrugere betyder det, at udbydere som Verizon, Comcast og AT&T eksempelvis fremover vil kunne tilbyde en billig internetpakke, der giver hurtig adgang til almindelige hjemmesider og sociale medier, mens en hurtig forbindelse til streamingtjenester kræver en dyrere pakke.

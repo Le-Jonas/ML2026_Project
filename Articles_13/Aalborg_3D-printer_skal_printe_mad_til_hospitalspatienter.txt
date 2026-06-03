@@ -1,8 +1,0 @@
-Title: Aalborg_3D-printer_skal_printe_mad_til_hospitalspatienter
-Date: 2017-09-03
-Article Type: Danmark
-Author: Silja Thøgersen
-
-Journalist
-Du er alvorligt syg og indlagt. Der lugter kemisk rent, på den måde der kendetegner en hospitalsstue. Rastløs ligger du og vender dig i din hvide, formløse T-shirt og rusker i de knitrende lyseblå dyner. Det er snart tid til frokost. Men du har ikke lyst til noget som helst. Slet ikke det, der er på menuen fra hospitalskøkkenet.
-Det vil et nyt projekt prøve at løse med en fødevare-3D-printer, som kan printe det, de enkelte patienter drømmer om, tilsat præcis de vitaminer, proteiner og fedtprocenter, de har brug for.

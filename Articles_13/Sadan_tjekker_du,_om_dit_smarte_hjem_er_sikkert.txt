@@ -1,7 +1,0 @@
-Title: Sadan_tjekker_du,_om_dit_smarte_hjem_er_sikkert
-Date: 2017-09-10
-Article Type: Digitalt
-Author: Morten Bay
-
-Der var engang, da du relativt nemt kunne beskytte din computer mod vira, malware og hackere, der ville ind og snuse til dine personlige oplysninger – og i værste fald stjæle dem og bruge dem til f.eks. at få fat i dine kreditkortoplysninger. Du skulle blot sørge for at installere et ordentligt antivirusprogram eller lignende. Der var også engang, da det var nok bare at købe en Mac i stedet for en pc. De tider i er imidlertid ovre.
-Efterhånden som vi har fået flere internetopkoblede ting ind i hjemmet, er der også langt flere indgange for hackerne. Mange af dem kan du slet ikke selv gøre noget for at beskytte. Det såkaldte ’Internet of Things’ (IoT) breder sig, og med det kommer et større behov for at lukke af for hackernes muligheder for at trænge ind i dit netværk.

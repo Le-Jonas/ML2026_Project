@@ -1,8 +1,0 @@
-Title: Det_tager_10_minutter_at_fjerne_en_pille_fra_en_patient
-Date: 2017-12-17
-Article Type: Sundhed
-Author: Hans Drachmann
-
-Journalist
-I november ville lægerne, der opererer kvinder med brystkræft på Herlev Hospital, ændre en fast praksis med at give en kvalmestillende pille til patienterne efter operationen.
-Men de kunne ikke finde ud af, hvordan de skulle fjerne pillen, når den var ordineret i den nye elektroniske patientjournal, Sundhedsplatformen.

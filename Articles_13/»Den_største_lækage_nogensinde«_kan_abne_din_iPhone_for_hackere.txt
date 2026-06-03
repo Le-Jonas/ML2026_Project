@@ -1,7 +1,0 @@
-Title: »Den_største_lækage_nogensinde«_kan_abne_din_iPhone_for_hackere
-Date: 2018-02-08
-Article Type: Digitalt
-Author: Morten Bay
-
-Ejere af Apples populære iPhone kan ikke længere føle sig helt så sikre som normalt. Vigtig kode fra iPhone-softwaren iOS er blevet lækket på nettet, hvor hackere nu kan kigge den igennem for sårbarheder, de kan udnytte. Eksperter kalder det for et meget stort problem, men Apple har endnu ikke officielt meldt ud, hvordan de har tænkt sig at tackle lækagen.
-Onsdag nat dansk tid blev koden bag den såkaldte iBoot-funktion nemlig lagt op på Github, der er det mest populære samlingsssted for programmører og software-udviklere, der udveksler kode med hinanden. Det er faktisk ikke første gang, iBoot-koden er blevet lækket. Det skete også for tre måneder siden på Reddit, men her lagde ingen rigtig mærke til det. Kodens tilstedeværelse på det største kode-site på nettet gør det til en helt anden historie.

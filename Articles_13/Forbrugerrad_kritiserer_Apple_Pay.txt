@@ -1,6 +1,0 @@
-Title: Forbrugerrad_kritiserer_Apple_Pay
-Date: 2017-11-14
-Article Type: Forbrug
-Author: Forbrugerrådet Tænk har bedt Konkurrence- og Forbrugerstyrelsen tage et kritisk blik på Apples betalingstjeneste Apple Pay, der blevet lanceret i Danmark i slutningen af oktober.
-
-Det skyldes, at tjenesten ikke tillader brugerne at bruge dankortdelen af deres Visa-dankort til at betale med.

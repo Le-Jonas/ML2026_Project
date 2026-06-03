@@ -1,8 +1,0 @@
-Title: MobilePay_abner_op_for_at_betale_avisabonnementer
-Date: 2017-03-02
-Article Type: Forbrug
-Author: Rasmus Straka
-
-Journalist
-Når du fremover logger ind på appen MobilePay fra Danske Bank, vil du blive mødt af en ny funktion: Betal dit avisabonnement, fitnessmedlemskabet eller regningen hos teleselskabet med et enkelt swipe.
-Ligesom i dag vil en kunde, der ønsker at tegne et abonnement, skulle gøre det hos selve virksomheden. I stedet for bagefter at skulle finde betalingskortet frem, vil MobilePay kunne bruges til at gennemføre betalingen.

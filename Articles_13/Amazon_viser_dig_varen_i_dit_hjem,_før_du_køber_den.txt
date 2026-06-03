@@ -1,7 +1,0 @@
-Title: Amazon_viser_dig_varen_i_dit_hjem,_før_du_køber_den
-Date: 2017-11-02
-Article Type: Tech
-Author: Morten Bay
-
-Problemet med at købe ting på nettet har altid været, at du ikke kan kigge på varen, inden du køber den. Det er relativt uproblematisk, når det handler om bøger eller toiletpapir fra et mærke, du kender i forvejen. Det er et noget større problem, når vi taler om f.eks. tøj eller møbler. Især det sidste er noget bøvl at returnere, når først du f.eks. har pakket en sofa ud for blot at konstatere, at den ikke passer ind i din stue.
-Det gør verdens største e-handelsbutik, Amazon, nu noget ved. I Amazon-app’en til iPhone kan du nu se, hvordan udvalgte varer ser ud i din stue, før du køber. Foreløbig er det kun den amerikanske Amazon-app, der understøtter det, men teknologien viser, hvordan resten af verden også vil kunne købe ting på Amazon i en nær fremtid.

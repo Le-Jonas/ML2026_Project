@@ -1,7 +1,0 @@
-Title: Nyhedsanalyse_En_grim_og_afslørende_rapport_om_russiske_'cyberbjørne'_kom_pa_et_godt_tidspunkt
-Date: 2017-04-25
-Article Type: Danmark
-Author: Jacob Svendsen
-
-Når forsvarsminister Claus Hjort Frederiksen (V) er »rystet« over afsløringen af omfattende – formentlig – russiske hackerangreb mod Forsvarsministeriet og Udenrigsministeriet og i tilgift taler om, at »vi står med en meget kritisk situation«, så er der grund til at tage forargelsen med et gran salt. Ligesom man heller ikke skal falde bagover i forhold til, om angrebene har været avancerede.
-Den friske rapport fra Center for Cybersikkerhed under Forsvarets Efterretningstjeneste (FE) om omfattende, langstrakte og vedholdende cyberangreb »meget sandsynligt udført« af hackergruppen Fancy Bear er i realiteten en 18 sider lang bekræftelse af de velkendte advarsler om angreb på Danmarks vitale samfundsmæssige infrastruktur.

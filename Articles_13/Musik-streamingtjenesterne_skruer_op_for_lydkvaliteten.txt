@@ -1,7 +1,0 @@
-Title: Musik-streamingtjenesterne_skruer_op_for_lydkvaliteten
-Date: 2017-03-19
-Article Type: Digitalt
-Author: Morten Bay
-
-Folk med gode ører kan i denne tid glæde sig over, at lydkvalitet igen er blevet noget, man taler om. I sidste uge kunne du læse om Hi-Res Audio, der giver bedre lydkvalitet i musikken end den, du i sin tid fik med cd-mediet. I denne uge handler det om, hvordan du snart både kan få den højeste lydkvalitet og den nemme adgang til musikken, som streamingtjenesterne leverer.
-Ifølge hifi-nørderne er lyden på store musikstreamingtjenester som Spotify og Apple Music ikke ret god. Det skyldes, at tjenesterne gerne vil sikre at musikken spiller stabilt, selv når den skal sendes som data over langsomme netforbindelser og mobile netværk. Derfor piller man alle de mindst hørbare et-taller og nuller ud, inden man sender musikken afsted digitalt. Det kaldes kompression, og jo hårdere, man komprimerer, jo færre detaljer er der derfor i musikken.

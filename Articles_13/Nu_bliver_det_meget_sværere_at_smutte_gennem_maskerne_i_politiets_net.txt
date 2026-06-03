@@ -1,8 +1,0 @@
-Title: Nu_bliver_det_meget_sværere_at_smutte_gennem_maskerne_i_politiets_net
-Date: 2017-08-29
-Article Type: Danmark
-Author: Silja Thøgersen
-
-Journalist
-Snart begynder politiet at bruge sit nye ’supervåben’ Pol-Intel.
-Landets forbrydere skal nu fanges ved hjælp af lynhurtig dataanalyse. Systemet gør det muligt at søge på tværs af 13 af politiets databaser som nummerpladegenkendelse (ANPG), kriminalregistret og meddelerdatabasen med en enkelt søgning.

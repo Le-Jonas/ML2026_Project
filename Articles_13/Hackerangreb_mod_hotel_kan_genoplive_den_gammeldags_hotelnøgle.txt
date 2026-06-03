@@ -1,8 +1,0 @@
-Title: Hackerangreb_mod_hotel_kan_genoplive_den_gammeldags_hotelnøgle
-Date: 2017-02-03
-Article Type: Rejser
-Author: Allan Graubæk
-
-Journalist
-På et østrigsk luksushotel er det snart slut med elektroniske nøglekort, der giver adgang til værelserne. I fremtiden vil gæsterne blive udstyret med en gammeldags nøgle af metal. Det skriver det østrigske netmedie The Local.
-På kort tid har det firestjernede Romantik Seehotel Jaegerwirt været udsat for hackerangreb, der gjorde det umuligt for gæsterne at bruge de elektroniske nøglekort. Det seneste angreb var det værste, for det gjorde det også umuligt at omprogrammere kortene, og hele hotellets computersystem blev i øvrigt lagt ned.

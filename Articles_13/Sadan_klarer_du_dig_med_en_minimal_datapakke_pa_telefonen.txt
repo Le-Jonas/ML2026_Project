@@ -1,8 +1,0 @@
-Title: Sadan_klarer_du_dig_med_en_minimal_datapakke_pa_telefonen
-Date: 2016-12-14
-Article Type: Digitalt
-Author: Allan Graubæk
-
-Journalist
-Der er udbredt ny priskrig på mobiltelefonimarkedet, og den medfører lave priser på pakker med tale og data, helt ned til 39 kroner om måneden. Indholdet i sådan en pakke er dog så begrænset, at man skal man tænke grundigt over, hvordan man vil bruge sin telefon. Telefonen kan nemlig af sig selv kan skabe en masse datatrafik, som hurtigt vil udhule en så lille datapakke på 1 GB.
-Et eksempel: Politiken oplevede, at en iPhone på en køretur i bil fra Amager til Taastrup selv forårsagede et dataforbrug på 25 MB. Vi fandt aldrig ud af, hvad telefonen havde gang i.

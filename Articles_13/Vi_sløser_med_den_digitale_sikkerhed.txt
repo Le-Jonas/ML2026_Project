@@ -1,8 +1,0 @@
-Title: Vi_sløser_med_den_digitale_sikkerhed
-Date: 2017-07-28
-Article Type: Signatur
-Author: Marcus Rubin
-
-Kronikredaktør
-Mens jeg var på sommerferie, blev min facebookkonto og instagramkonto hacket og i en periode overtaget af andre. Hvorfor lige jeg blev ramt, aner jeg ikke, men det var en ubehagelig oplevelse.
-Kampen for at få mine egne data tilbage har fået mig til at tænke mere over, hvor ufattelig sårbare vi alle – både som samfund, individer og virksomheder – er over for målrettede digitale angreb. Til en vis grad vidste jeg det naturligvis godt, lige fra jeg så ’War Games’ som barn til sommerens gentagne verdensomspændende hackerangreb, har det været tydeligt, at der er en klar sikkerhedsmæssig omkostning ved den massive digitalisering.

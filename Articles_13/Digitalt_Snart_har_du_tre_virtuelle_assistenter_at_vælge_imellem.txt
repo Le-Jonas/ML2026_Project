@@ -1,7 +1,0 @@
-Title: Digitalt_Snart_har_du_tre_virtuelle_assistenter_at_vælge_imellem
-Date: 2018-03-04
-Article Type: Digitalt
-Author: Morten Bay
-
-Det vrimler frem med virtuelle assistenter. Der er nu så mange digitale hjælpere, der kommunikerer med dig gennem (nogenlunde) almindelig samtale, at det kan være svært at holde styr på dem. Amazon har Alexa, Apple har Siri, Microsoft Cortana og Samsung Bixby.
-Og så er der Google Assistant. Den er den måske nok mest udbredte assistent, fordi den bor i langt de fleste Androidtelefoner på markedet samt en del intelligente højttalere og kan downloades som app til iPhone som alternativ til Siri.

@@ -1,7 +1,0 @@
-Title: Apple_Vi_arbejder_pa_at_lukke_alle_CIA-hullerne
-Date: 2017-03-09
-Article Type: Digitalt
-Author: Morten Bay
-
-Den store WikiLeaks-lækage, der tirsdag viste, at CIA har mulighed for at bryde ind i alt fra smartphones til smart-tv, gjorde mange iPhone-brugere dybt urolige. I dokumenterne var der nemlig lange lister over de muligheder for at udspionere iPhone- og iPad-brugerne, som CIA rådede over.
-Men Apple siger, at de arbejder hårdt på at lukke alle hullerne, og mange af dem er allerede for længst blevet fikset.

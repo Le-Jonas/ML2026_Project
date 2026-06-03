@@ -1,8 +1,0 @@
-Title: PET_gemmer_slettede_data_i_skjult_lager
-Date: 2018-04-02
-Article Type: Danmark
-Author: Sebastian Stryhn Kjeldtoft
-
-Undersøgende redaktør
-Selv om Politiets Efterretningstjeneste ifølge loven skal slette følsomme personoplysninger, senest 15 år efter de er indsamlet, overføres en ukendt mængde i stedet til en anden, hidtil hemmelig database. Her kan agenter se oplysningerne, der burde være slettet, hvis PET-chefen giver lov.
-PET kalder det ’logisk sletning’ i en aktindsigt, Politiken har fået. Det betyder, at dokumenter ikke slettes, men »behandles adskilt fra PET’s øvrige oplysninger og kun kan tilgås af særligt udpegede personer i PET«.

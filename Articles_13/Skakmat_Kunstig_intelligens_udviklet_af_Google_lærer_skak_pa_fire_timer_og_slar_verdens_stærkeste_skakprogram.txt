@@ -1,8 +1,0 @@
-Title: Skakmat_Kunstig_intelligens_udviklet_af_Google_lærer_skak_pa_fire_timer_og_slar_verdens_stærkeste_skakprogram
-Date: 2017-12-07
-Article Type: Tech
-Author: Sebastian Risbøl
-
-Redaktør
-Skak er et vanskeligt spil, der kan tage meget lang tid at mestre.
-I hvert fald for et menneske.

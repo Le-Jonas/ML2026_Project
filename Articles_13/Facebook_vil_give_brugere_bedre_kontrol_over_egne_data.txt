@@ -1,9 +1,0 @@
-Title: Facebook_vil_give_brugere_bedre_kontrol_over_egne_data
-Date: 2018-03-28
-Article Type: Tech
-Author: Facebook lover brugerne en ny genvej til at slette egne data og varsler flere ændringer i privatlivsindstillingerne. Det skriver nyhedsbureauet Reuters.
-
-Meldingen kommer efter den seneste tids fokus på et stort datalæk og misbrug af data fra det sociale medie.
-Facebook-brugere vil derfor fremover få en ny genvej til at navigere i privatlivsindstillingerne.
-Det skal blandt andet gøre det lettere at downloade og slette den information, som brugerne selv har delt på det sociale medie.
-ritzau

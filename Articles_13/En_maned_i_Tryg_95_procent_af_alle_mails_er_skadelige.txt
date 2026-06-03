@@ -1,8 +1,0 @@
-Title: En_maned_i_Tryg_95_procent_af_alle_mails_er_skadelige
-Date: 2017-02-16
-Article Type: Danmark
-Author: Jakob Sorgenfri Kjær
-
-Journalist
-Så sent som i tirsdags blev forsikringskoncernen Tryg ramt af et ransomwareangreb fra omkring 1.500 skadelige mails til ansatte i det norske datterselskab.
-Mailene sigtede mod at blive åbnet af medarbejdere, der med tryk på et link uforvarende kunne have spredt lammende kryptering i it-systemerne. Tryg fik afværget truslen, men det er blot et aktuelt eksempel på, hvad en stor virksomhed dagligt må leve med.
