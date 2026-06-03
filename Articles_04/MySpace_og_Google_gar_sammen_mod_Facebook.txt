@@ -1,0 +1,8 @@
+Title: MySpace_og_Google_gar_sammen_mod_Facebook
+Date: 2007-11-02
+Article Type: Digitalt
+Author: Mikkel Gottlieb
+
+OpenSocial
+hedder Googles nyeste våben i kampen om de mange internetbrugere, der gerne vil dyrke sociale netværk på Internettet.
+Idéen er at skabe en platform, hvor programmører kan skrive programmer, som kan afvikles på mange forskellige sites.

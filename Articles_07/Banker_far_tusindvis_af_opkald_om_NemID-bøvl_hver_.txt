@@ -1,0 +1,7 @@
+Title: Banker_far_tusindvis_af_opkald_om_NemID-bøvl_hver_
+Date: 2011-01-07
+Article Type: Digitalt
+Author: Ole Wejse Svarrer
+
+I oktober måned blev Danske Banks kundecenter kontaktet 1.713 gange hver dag. Opkaldet eller mailen kom fra en frusteret kunde, der ikke kunne hitte ud af NemID.
+Tallene stemmer fint overens med erfaringerne fra Jyske Bank, der har opgjort antallet af supporthenvendelser til 17 procent af det samlede antal netbankkunder. Også Nordea bekræfter, at andelen af supporthenvendler ligger i det lag, idet de 800.000 netbankkunder genererer lidt under 1.000 NemID-relaterede henvendelser dagligt.

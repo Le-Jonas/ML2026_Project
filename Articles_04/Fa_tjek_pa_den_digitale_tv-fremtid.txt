@@ -1,0 +1,20 @@
+Title: Fa_tjek_pa_den_digitale_tv-fremtid
+Date: 2008-06-06
+Article Type: Digitalt
+Author: Michael C. Svendsen
+
+Men du skal have en særlig tuner, som kan modtage signalerne. 
+Lad os allerførst slå fast, at: 
+Du vil
+altid
+kunne købe en ekstern boks, som gør dig i stand til at modtage tv. Du skal altså ikke være bekymret for, om dit nye fladskærms-tv bliver forældet, eller om det har alle de tunere, du nogensinde får brug for.
+Betyder intet for kabeltv
+Skiftet til digital tv får
+kun
+betydning for dig, hvis du modtager tv via din egen antenne eller via fællesantenne. Derimod vil kabeludbyderne fortsat sende analoge signaler i deres sendenet i årene fremover. Skiftet får heller ingen betydning for dig, der ser tv via satellit eller fibernet. 
+Modtager du tv via antenne, og vil du for alt i verden ikke have en ekstern boks stående ved siden af dit tv efter november 2009, bliver det desværre en smule speget. 
+For ganske vist findes der masser af fjernsyn med indbygget digital tuner af typen DVB-T, der kan modtage de digitale udsendelser fra DR, DR 2 og TV 2, der allerede sendes i dag. Imidlertid ventes endnu et skift i de digitale standarder.
+Spørg efter et CA-stik
+Vil du derfor have den størst mulige sandsynlighed for at kunne se samtlige de ekstra digitale kanaler, der kommer fra november 2009 – uden ekstra tunerboks – bør du ikke blot købe et tv med indbygget digital tuner af typen ’DVB-T’.
+Apparatet bør også have et såkaldt CA-stik (det står for ’Common Interface’), så det kan håndtere den ekstra elektronik, der endnu ikke er indbygget i de apparater, der er på gaden i dag. 
+Netop på det her punkt er det en god idé, hvis du spørger dig for i forretningen.

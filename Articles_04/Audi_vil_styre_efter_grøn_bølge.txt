@@ -1,0 +1,6 @@
+Title: Audi_vil_styre_efter_grøn_bølge
+Date: 2008-08-12
+Article Type: Biler
+Author: Audi arbejder med et nyt Travolution system, som skal sikre at bil og stopsignal kan kommunikere med hinanden, skriver Bilmagasinet.
+
+Bilisten kan ikke styre lyset, men systemet kan give føreren besked om, hvilken hastighed han skal køre for at nå næste lyskryds, mens der er grønt.

@@ -1,0 +1,6 @@
+Title: Babelgum
+Date: 2007-10-02
+Article Type: Bolig og haven
+Author: Babelgum er en klon af Joost - kan man lide Joost, vil man også kunne lide Babelgum. Ikke mindst fordi der er en hel del indhold.
+
+Begge er baseret på p2p-teknologi, begge distribuerer video fra professionelle produktionsselskaber, og begge har et fancy brugerinterface med gennemsigtige menuer. Desuden er Joost og Babelgum begge på beta-stadiet, men fungerer allerede ret godt.

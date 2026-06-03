@@ -1,0 +1,7 @@
+Title: Millioner_milliarder_netadresser_er_pa_vej
+Date: 2011-03-03
+Article Type: Digitalt
+Author: Søren Dilling
+
+Frygten for at vi er ved at løbe tør for internet-adresser synes overdrevet. I hvert fald kan telekoncernen TDC fastslå, at vi med nye såkaldte IPv6-adresser når op på et så astronomisk tal ip-adresser, at det ikke engang har et dansk navn.
+Den nye generation af netadresser når op på 3,4 gange 10 i 38. - eller 10 ganget med sig selv 38 gange ...

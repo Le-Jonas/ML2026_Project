@@ -1,0 +1,8 @@
+Title: Skønhed_er_sat_pa_formel
+Date: 2008-04-09
+Article Type: Digitalt
+Author: Miriam Zesler
+
+Redaktør
+En gruppe forskere på Tel Aviv University i Israel har udviklet et computerprogram, der er i stand til at vurdere, hvad der gør en kvindes ansigt attraktivt ud fra matematiske data og formler.
+»Mennesker afgør skønhed ud fra abstrakte tankeprocessor, men de forstår normalt ikke, hvordan de er nået frem til deres konklusioner. Vores software lader en computer foretage en æstetisk vurdering«, siger AMit Kagian, der leder projektet, til Sciencedaily.

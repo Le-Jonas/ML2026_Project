@@ -1,0 +1,15 @@
+Title: Storspilleren
+Date: 2007-10-01
+Article Type: Digitalt
+Author: Michael C. Svendsen
+
+Behovet:
+En bærbar med en stor skærm, men stadig til at tage med over til vennerne, når de allernyeste spiltitler skal gennemprygles over netværket. Vægt og batteritid spiller ingen rolle: Der er altid masser af strømfordelere i nærheden. Og selv om computeren vejer 4-5 kg, er den stadig nemmere at transportere end en stationær pc med skærm og tastatur. Pc-spilleren ved, at bærbar spilydelse i topklasse koster penge – rigtig mange penge – så han har sparet op.
+Det gode køb:
+Computerens skærm skal være 17 tommer bredformat med en opløsning på mindst 1.680 x 1.050 billedpunkter. Processoren er en af de nye, hurtige Intel Core 2 Duo-modeller med et modelnummer fra T7300 til T7700. 
+De grafiske kredsløb er fra Nvidia og har 512 MB dedikeret hukommelse, mens der er mindst 2 gigabyte systemhukommelse og sikkert HDMI eller DVI-udgang, så computeren kan sluttes til fladskærms-tv’et med det bedst mulige resultat. 
+Som operativsystem er Windows XP et godt bud, Windows Vista æder nemlig en del af de kostbare systemressourcer, der hellere skal bruges til at booste spiloplevelsen med. Glem alt om Linux eller MacOS, dertil er spilunderstøttelsen alt for ringe.
+Pris:
+Typisk 14.000 til 18.000 kr.
+Et eksempel:
+Dell XPS M1710 til omkring 16.000 kr.

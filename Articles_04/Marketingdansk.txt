@@ -1,0 +1,77 @@
+Title: Marketingdansk
+Date: 2008-02-19
+Article Type: Debat
+Author: KIRSTEN RASK
+
+Marketingsproget er over os.
+Det er som om det breder sig ind over alle genrer – fra journalistikken over fag- og saglitteraturen til skønlitteraturen. Marketingsprog er enkelt. Meget enkelt. Vi ser det først og fremmest i syntaksen, sætningsgangen, som her:
+Kender du det? Alle har et særligt ønske til deres firmadomicil. Måske flere. Og medarbejderne har forventninger til deres arbejdsplads. Det kan være central beliggenhed, fleksibel indretning, gode parkeringsforhold, godt naboskab eller en god udsigt. CPH Business Park har sin egen arkitekt. Vi kan have dit nye domicil klar til indflytning på kun 12 uger. CPG Business Park rummer det hele. Inklusive en lang række faciliteter, blandt andet fitnesscenter og frokostrestaurant. Det kan blive dit nye domicil.
+Teksten består af ti ’punktummer’ eller perioder, med gennemsnitlig 7,7 ord i hver, enhver lix-entusiasts drøm ført ud i det absurde (lix er en kvantitativ metode til at ’måle’ teksters sværhedsgrad ved bl.a. at tælle det gennemsnitlige antal ord mellem punktummerne). 
+Og tilmed har alle sætninger samme ordstilling, nemlig ligefrem ordstilling; ingen har omvendt ordstilling, hvor subjektet (grundleddet) altså står efter verbalet (udsagnsleddet). Det kan ikke undgå at give en monoton, nærmest opremsende rytme og frasering. 
+Mange skribenters syntaktiske sans er i årevis blevet understimuleret og erstattet af punktumfiksering. Ser uddannelsesinstitutioner, journalisthøjskoler og tekstforfatterkurser det som deres mål at uddanne deres studerende til producenter af læse let-tekster frem for til kyndige – for ikke at sige virtuose – forfattere og skribenter? Det er både uhøfligt og udtryk for manglende situations- og sprogfornemmelse at tale ned til sin modtager. 
+Gode (tekst)forfattere behøver ikke at tænke i lix-tal for at skrive forståeligt, flydende og opløftende. 
+Alt for mange har desuden fået lix-metoden galt i halsen og tror at jo kortere sætningerne er, jo bedre bliver de. Men lix-metoden anbefaler faktisk en gennemsnitlig punktumlængde på 18-25 ord; bliver de for korte, ryger sammenhængen. 
+Og den naturlige rytme, kan man tilføje. Under alle omstændigheder er og bliver kvantitative målemetoder som lix en rigid måde at bedømme sprog på, især når ordtælleriet afløser den sunde sans for sætningsopbygning og -sammenhæng. 
+Værre er det at den manglende syntaktiske viden har ført til den fejlopfattelse at en sætning holder op når man sætter et punktum. Men det der står mellem to punktummer, er langtfra automatisk lig med en sætning. I den citerede tekst rummer de ti perioder kun otte sætninger i grammatisk forstand. En sætning er et verbal (udsagnsled) med de led der knytter sig til dét. Og sætningen er ikke slut før der ikke er flere led der lægger sig til det pågældende verbal (udsagnsled). 
+Men værst er det at mange skribenter åbenbart går ud fra den opfattelse at deres læsere er dummere end de selv er – det er et meget ufrugtbart udgangspunkt for ligeværdig kommunikation, som kun kan føre til at man gør sig umage for at tale ned til sin læser. Og det er denne holdning der lader til at brede sig ud over nærmest alle andre tekstgenrer. Målet er at skrive så (over)forenklede sætninger som muligt, som her fra en hjemmeside:
+Danmarks Medie- og Journalisthøjskole er en statsinstitution under Undervisningsministeriet med sit eget lovgrundlag. Højskolen ledes af en bestyrelse, der ansætter rektor.
+Rektor har den daglige ledelse af højskolen.
+Grunduddannelserne reguleres blandt andet af studieordninger og undervisningsplaner, som besluttes i studienævnet.
+’Center for Journalistik og Efteruddannelse’ er en delvis selvstændig enhed på højskolen. Bestyrelsen ansætter en centerleder til at varetage den faglige ledelse af efteruddannelsesvirksomheden.
+Bestyrelsen har nedsat et praktikudvalg og et optagelsesnævn til at styre højskolens arbejde med optagelsesprøverne og samarbejdet med praktikstederne.
+Teksten består af en række sætninger, blot listet op efter hinanden, uden sammenhængsskabende overgange og med ligefrem ordstilling i alle sætninger. Og kun en enkelt sætning indeholder en uddybende ledsætning (bisætning). 
+Målet lader til at være: helst kun
+én information pr. punktum
+. Endnu en misforståelse: Den gamle regel om at man skal tilstræbe kun at have én information
+pr. sætning
+, er også blevet drevet på amokkurs på grund af manglende syntaktisk viden. 
+Den oprindelige tanke om én information pr. sætning vil naturligt give 2-4 informationer pr. helsætning fordi naturligt sprog f.eks. nemt kan indeholde en hovedsætning plus 2-3 ledsætninger. Men når man sætter en sætning lig med en periode eller ’punktum’, bliver reglen dermed snævret ind til én information pr. periode, og så får vi læse let-sprog ud over alle grænser. 
+Eninformationssætningerne kræver ofte nogle klodsede opsamlinger for at give en eller anden sammenhæng i teksten, f.eks.:
+Mere end 100 politifolk fra flere afdelinger i politikredsen deltog med bistand fra Rigspolitiet i aktionen. Aktionen har været under planlægning gennem længere tid.
+Er det angsten for ’lange punktummer’ – eller for ledsætninger – der afholder skribenten fra at samle de to oplysninger i én helsætning, bestående af en hovedsætning og en ledsætning?:
+Mere end 100 politifolk fra flere afdelinger i politikredsen deltog med bistand fra Rigspolitiet i aktionen, som har været under planlægning gennem længere tid.
+Endnu et eksempel på punktumsprog:
+De faldende boligpriser har gjort tusinder af boligejere teknisk insolvente. Det skriver JyllandsPosten.
+Faktisk bliver teksten både kortere og mere flydende når man trækker de to sætninger sammen:
+De faldende boligpriser har gjort tusinder af boligejere teknisk insolvente, skriver JyllandsPosten.
+Indimellem udarter gentagelserne til kunstige udskilninger, som her:
+61.537 boliger. Så mange er til salg ifølge Boligsiden.dk.
+Spidsplacering er en udmærket teknik til at sætte fokus på vigtige oplysninger. Men det giver et unaturligt kantet sprog at adskille talmængden fra resten af sætningen, og jeg tvivler på at man husker tallet bedre end hvis man trækker det hele sammen i én periode:
+61.537 boliger er til salg ifølge Boligsiden.dk.
+Et andet nedslående resultat af punktumfikseringen er at manges sætningsopbygning simpelt hen bryder sammen hvis de kommer til at skrive en sætning med lidt længere ledsætninger (bisætninger), f.eks.:
+Denne bygning, der er blevet 50 i år og
+skal snart stå sin prøve
+som sæde for rådet, bliver nu sat i stand.
+Det er Økumenisk Ungdom, der har tilrettelagt Jose-Ramons program i Danmark og
+står
+også for en grupperejse til mødet i Hamburg.
+Fabrikken blev lukket fordi medarbejderne følte sig utrygge og
+ville ikke
+risikere noget.
+Det var den samme mand som for et år siden var blevet frataget sit kørekort, men som
+kørte stadig
+rundt på vejene.
+En hyppig kasusfejl skyldes også sammenblandingen af sætning med periode, f.eks.:
+Tilbuddet gælder alle kunder. Både *de der er i kredit, og *de der er i debet.
+Det skal være
+dem
+fordi sætningens objekt (genstandsled) fortsætter hen over punktummet. Hvordan forklare det til sprogbrugere som tror at det altid er en ny sætning der begynder efter punktummet? 
+Overforenklingens skurrende misforståelser … 
+Jeg er forslugen og umættelig læser af skønlitteratur, både dansk og udenlandsk (oversat) og har været det siden jeg lærte at læse. 
+Derfor tillader jeg mig med en vis ret også at udtale mig om sproget i skønlitteraturen. Her er der også i slående grad gået kortsprog i sætningerne, med flad syntaks og monoton ligefrem ordstilling – som om marketingsproget har dannet skole. 
+Eksemplet her er ikke ekstremt, men til gengæld meget typisk for ’tidens stil’. Novellen vandt tredjepladsen i Politikens nylige konkurrence:
+Jeg går forbi kirken og over parkeringspladsen om morgenen. Det er den hurtigste genvej. Gennem kirken og over parkeringspladsen. Det tager seks minutter. Så er jeg i skole. Det regner, og vinden river i min jakke. Jeg springer over og mellem vandpytterne, og selvom jeg har skoletasken fyldt med sindssygt tunge bøger, så springer jeg mig let og elegant vej mod den allerstørste og dybeste af alle vandpytterne. Vandpytternes konge.
+Den ene længere sætning der er, med en enkelt ledsætning, afføder straks et opsamlende ’så’ – som om læserne ikke kan kapere så ’indviklet’ en sætning uden en gentagelse:
+selv om … så ...
+Det er jo ikke dårligt sprog, men det smager i forstemmende grad af (lav)lix-tænkning. Og den manglende spændvidde i sætningernes indbyrdes samspil plus den flade syntaks berøver forfatteren det redskab der ligger i – gennem syntaksen – at bygge en spændingskurve op, som så kan forløses ved hjælp af et pludseligt skift i sætningsrytmen. 
+Groft sagt skal man mere end 50 år tilbage i tiden – eller til oversat litteratur – for at finde eksempler på lidt mere udbyggede sætningskonstruktioner, f.eks. Knud Hjortø (fra Kraft, 1902):
+Der var en påfaldende forskel mellem disse to mænd: Den ene høj, med en rank og festlig skikkelse, skabt til at bære lang, sort frakke, og med fine rynker over hele ansigtet, – ikke særlig mange i panden – med et selskabeligt smil og et forekommende udtryk i øjnene og med et tykt, hvidt hår. Men den anden var bred, hade korte ben, der ikke var lige, nedarvede furer og tidligt tilkomne rynker hen over panden og omkring munden, og allerede en tyndt bevokset plet oppe i issen. Sådan så bondesønnen ud, der havde hutlet sig frem i studenterårene med middagsmad et par gange om ugen, med mange privattimer og uden tid eller råd til at ha interesse for det, der lignede litteratur eller andre lettere nydelser, men udelukkende var henvist til den massive, videnskabelige kost, der ikke er særlig skikket til at gøre ens sind let eller ens optræden rask.
+Bemærk i øvrigt sprogmanden Hjortøs meget moderne retskrivning i 1902 (bolle-å og lille begyndelsesbogstav i substantiver blev som bekendt først indført officielt i 1948; hans kortformer ’ha’ og ’hade’ er ikke blevet indført.) 
+Hjortøs eksempel er især præget af meget udbyggede prædikativer (omsagnsled til grundled) og objekter (genstandsled). 
+Det der gør de lange sætninger læsbare, er at han giver dem bagvægt, dvs. sætter ledsætninger (bisætninger) og præpositionsforbindelser bag efter hovedsætningen. Hans substantiver (navneord) optræder aldrig uden mindst ét beskrivende adjektiv (tillægsord). Og så har han mange aktive verber, alt sammen træk der er langt mere frugtbare at operere med når det gælder skriveteknik, end ord- og bogstavtællemetoder som lix. Men det er selvfølgelig langt mere bekvemt at lade sig nøje med tællemetoden. 
+I faglitteraturen har vi også forfattere der hæver sig over kortsproget. En af vores mest sprudlende og forførende faglige formidlere, Tor Nørretranders, sætter tydeligvis sin læser højt, f.eks. i ’Til glæden’:
+Dopamin blev for alvor berømt, da det blev klart, at signalstoffet var involveret i et dramatisk fænomen, der i 1954 var blevet opdaget ved en tilfældighed af to amerikanske forskere, James Olds og Peter Milner: intens selv-stimulering hos rotter. Efter at forsøgsdyrene havde fået elektroder indsat i en dybtliggende del af hjernen, kunne de ved at trykke på en pedal tilføre sig selv et lille elektrisk stød i dette hjerneområde. Resultatet var, at rotterne intenst trykkede løs på pedalen, gerne hundredvis af gange i timen, ja, tusindvis af gange, til de efterhånden var døden nær af udmattelse eller sult (for de ville hellere trykke løs end spise). Selvstimuleringen viste, at der fandtes et belønnings- eller fornøjelsescenter i hjernen, som ved stimulering førte til noget, som rotterne gerne ville have gentaget, igen og igen – og hellere end mad, sex og samvær. De blev ganske enkelt afhængige.
+Traditionelt fagsproget er kendt – berygtet – for at være substantivisk, altså indeholde mange navneord, og dét er stærkt med til at hæmme læsningen/forståelsen af en tekst. Nørretranders går imod den tendens: Læg mærke til de mange aktive verber (udsagnsord). Han byder tilmed på skiftende tempusformer: ud over præteritum (datid) også den ’sammensatte tid’ pluskvamperfektum (før datid), som P. O. Enquist har helt ret i er en form man møder sjældnere og sjældnere i litteraturen – og i journalistikken, kunne man tilføje, hvor den ’historiske præsens (nutid)’ breder sig på bekostning af andre tider. 
+Og så udnytter Nørretranders fornemt syntaksen til at bygge op til den slående korte konklusion: Efter de længere beskrivelser kommer pludselig: De blev ganske enkelt afhængige. Den skiller sig mærkbart – nærmest fysisk – ud rent rytmisk og bliver så meget desto lettere at forstå og huske fordi formen understreger funktionen. 
+Formålet med eksemplerne har ikke været at hænge nogen ud, men kun at vise en tendens i tidens sprogstil – med et illustrerende modeksempel. 
+Anstødsstenen har været min oplevelse af at vi som læsere i stigende grad bliver talt ned til, og savnet af veludviklede, fritstrømmende – måske ligefrem ornamenterede – sætninger med glissandoer af fint bølgende overgange, fortryllende appositioner, opløftende prædikativer og andre nydelser. Bare som modvægt til marketingsproget.

@@ -1,0 +1,7 @@
+Title: Firma_opfinder_tradløs_strøm
+Date: 2008-08-22
+Article Type: Viden og tech
+Author: Hans Christian Kromann
+
+Snart er det slut med akrobatiske krumspring for at komme over den udspændte ledning til den bærbare.
+På den igangværende Intel Developer Forum har forskere fra Intel præsenteret trådløs strøm for verden.

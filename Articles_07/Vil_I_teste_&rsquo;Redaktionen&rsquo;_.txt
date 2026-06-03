@@ -1,0 +1,6 @@
+Title: Vil_I_teste_&rsquo;Redaktionen&rsquo;_
+Date: 2011-03-30
+Article Type: Skole
+Author: Politiken har brug for nogle klasser, som har lyst til at prøve programmet af, og dermed være de første klasser, der producerer en avis i Politikens version af ’Redaktionen. Programmet er allerede testet ret grundigt igennem, så det bør være småting, der kan opstå undervejs.
+
+Krav til deltagelse:

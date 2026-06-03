@@ -1,0 +1,7 @@
+Title: 8_-_Zoom
+Date: 2008-05-27
+Article Type: Digitalt
+Author: Markus Schulin-Zeuthen
+
+Og omvendt hvis du zoomer ud, bliver billedet skarpere længere "ind" i baggrunden.
+Du skal dog være opmærksom på, at jo mere du zoomer, des mindre lys kommer der ind til "filmen", og rystelser kan forekomme. Automatikken sørger som regel for at kompensere for dette.

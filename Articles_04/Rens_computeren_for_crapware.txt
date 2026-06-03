@@ -1,0 +1,41 @@
+Title: Rens_computeren_for_crapware
+Date: 2007-09-02
+Article Type: Digitalt
+Author: Michael C. Svendsen
+
+Familien har lige købt ny pc, og du ser frem til at komme på nettet eller redigere dine feriebilleder. På sidelinjen hopper børnene for at komme til med sidste nye spil. 
+Men hov! Allerede da computeren starter første gang, ligger der 10-20 ikoner på skrivebordet, og vinduer popper frem og bønfalder dig om at registrere eller betale for først det ene, så det andet stykke software. 
+En lang række softwarevirksomheder betaler pc-producenten for at kunne anvende nye computere som markedsføringsplatform. Fuldstændig uden hensyntagen til, om køberen af maskinen har brug for programmerne eller ej.
+Til skade for computeren
+Fænomenet kaldes
+bloatware
+med vink til det engelske ord for ’oppustet’. I andre kredse betegnes programmerne ganske enkelt som
+crapware
+. Men hvor de i begrænset omfang blot er et irritationsmoment, kan de i værste fald gøre din computer ustabil eller langsom. Andre programmer gør det svært at installere sikkerhedssoftware efter eget valg eller tager af egen drift kontrol over en lang række filtyper. 
+Stort set alle producenter af Windows-computere – ikke mindst de store som HP, Dell og Acer – lægger bloatware på nye computere til privatbrugere. Så det er reelt umuligt at undgå fænomenet, med mindre man vælger Mac eller Linux i stedet. Eller køber computeren direkte fra en lokal producent og betinger sig, at man kun vil have styresystemet installeret. 
+Det betaler sig at bruge en lille times tid på at fjerne de programmer, du ikke har brug for.
+Renseproces
+1. Slet overflødige genveje
+Nemmest er det at slippe af med de internetgenveje, som f.eks. Yahoo eller diverse spiltjenester betaler for at få lagt på computerens skrivebord. Dem skal du blot markere med et enkelt museklik og trykke på ’Delete’-tasten – så er de likvideret. Ligeledes kan du uden videre slette ikonet for ’Acrobat Reader’. For åbner du en PDF-fil, vil programmet alligevel starte automatisk.
+2. Fjern programmer
+Installerede programmer er heller ikke svære at slippe af med. Mange programmer slettes let ved at vælge programmets ’Uninstall’-funktion, som du finder ved at klikke på programmets egen mappe under Windows’ ’Start’menu og vælge ’Alle programmer’. Kan du ikke finde en funktion til at fjerne programmer med, kan du i stedet aflive programmet ved at gå ind i Windows’ kontrolpanel. Det findes på en Windows Vista-maskine ved at klikke på ’Startmenuens’ ikon nederst til venstre, dernæst på ’Kontrolpanel’ og endelig på ’Fjern et program’. Så vil du se en liste over alle programmer på computeren. Nu kan du blot vælge uønskede elementer efter tur og klikke på ’Fjern’. Princippet er stort set det samme på en maskine med Windows XP.
+3. Slip for internetbjælker
+Har producenten stopfodret pc’en med bloatware, er der sikkert også allerede installeret en såkaldt søgebjælke i Internet Explorer. Hvis den er fra Google, vil du muligvis gerne beholde den, da Googles værktøjslinje er ganske nyttig. Vil du den til livs, kan den hurtigt slettes via kontrolpanelet – fuldstændig som beskrevet ovenfor. 
+Værre er det med Yahoo! Toolbar. Dels er den stort set ubrugelig, dels kan den være svær at slippe af med. I nogle tilfælde kan også den fjernes via kontrolpanelet som et hvilket som helst andet program. Men ofte skal du forsøge dig med andre metoder. Prøv f.eks. dem, du finder beskrevet i en lille artikel fra PC World af undertegnede ved navn ’Sådan afliver du Yahoo! Toolbar’, som du finder ved at søge på ’yahoo toolbar’ på www.pcworld.dk eller direkte i Google.
+4. Slet sikkerhedsprogrammer
+Sikkerhedsfirmaet Symantec er en af dem, der er længst fremme i skoene som bloatwareproducent, og man skal lede længe efter en ny pc uden præinstalleret prøveversion af firmaets Norton Internet Security. 
+Det er et udmærket program, men bestemt ikke gratis, når prøveperioden på 30 eller 60 dage er overstået. Har du ikke tænkt dig at bruge programmet, vil det drive dig til vanvid med sine insisterende påmindelser om, at du skal registrere dig, skanne for virus eller betale for abonnement ved kasse et. 
+Du skal naturligvis have sikkerhedssoftware på computeren alligevel. Bruger du det nyeste Internet Explorer eller Firefox samt et gratis antivirusprogram – er du allerede sikret acceptabelt. Uden det koster dig en krone. 
+Ligesom med alle andre sikkerhedsprogrammer er det dog vigtigt at fjerne Norton Internet Security, før du installerer et andet sikkerhedsprogram. Ellers vil programmerne bekæmpe hinanden og reelt låse din maskine med jævne mellemrum, fordi de begge indeholder data, som til forveksling ligner virus.
+5. Også bloatware fra Microsoft
+Tilhængere af Linux og Mac vil nok hævde, at Windows er den værste form for bloatware, fordi det er så svært at slippe for. 
+Men glemmer vi den standende it-jihad et øjeblik, kan vi konstatere, at Microsoft også gør sit for at markedsføre andre programmer end netop Windows på nye computere. Navnlig er Windows Live Messenger pågående. For selv om du har tænkt dig at anvende dette (gratis) program, er du nok helst fri for, at det konstant åbner vinduer, afspiller lyde eller minder dig om, at en eller anden kontaktperson har logget på. Alt dette er dog let at ændre på. 
+I ’Messenger’-programmets menu vælger du blot ’Funktioner’ og hernæst ’Indstillinger’. Så kan du i menuerne ’Generelt’, ’Personligt’, ’Meddelelser’ samt ’Beskeder og lyde’ ændre på alle de dele af programmet, der driller. 
+På nogle maskiner pusher Microsoft også en tidsbegrænset prøveversion af Office 2007. Den kan du bare slette ligesom ethvert andet program, hvis du hellere vil bruge en ældre Microsoft Office-pakke, du allerede ejer. Eller måske det glimrende, gratis OpenOffice, som du finder på www.openoffice.org.
+6. Bestem selv over filer
+En del præinstalleret software er imidlertid ikke tidsbegrænset, kan være ganske nyttigt og bør ikke slettes ukritisk. Navnlig er præinstallerede dvd-brænderprogrammer ofte bedre end Windows’ indbyggede brænderfunktioner. 
+Måske ligger der også udmærket fotosoftware på computeren. 
+Desværre har megen software tendens til at tage kontrol over filtyper – typisk lyd eller billeder – du måske hellere ville åbne i andre programmer. Men det kan du lave om på. 
+Irriterer det, at den nye computer automatisk åbner alle jpg-billedfiler i den præinstallerede fotosoftware, klares problemet ved at højreklikke på en jpg-billedfil, vælge ’Åbn med’ og dernæst ’Vælg standardprogram’. 
+Hvis du hellere vil åbne billedfiler i ’Windows Billedgalleri’, markerer du ganske enkelt dette program – eller et andet, du foretrækker – og sætter flueben i ’Brug altid det valgte program’ til at åbne denne type fil og klikker herefter på ’OK’. 
+Samme princip gør sig gældende med enhver anden filtype, og på den måde kan du let genvinde kontrollen over din nye computer.

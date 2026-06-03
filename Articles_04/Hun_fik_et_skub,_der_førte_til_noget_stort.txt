@@ -1,0 +1,38 @@
+Title: Hun_fik_et_skub,_der_førte_til_noget_stort
+Date: 2008-08-10
+Article Type: Fakta
+Author: Rasmus Thirup Beck
+
+Hun arbejder med de mindste størrelser, der kan arbejdes med, men hendes meritter hører til blandt de største. 
+Professor Anja Boisen fra Danmarks Tekniske Universitet (DTU) er en af verdens førende forskere i nanoteknologi og har blandt andet høstet international anerkendelse for udviklingen af nanosensorer, der kan gøre det lettere at spore alt fra sprængstoffer over bakterier i fødevarer til skadelige nanopartikler i arbejdsmiljøer. Tidligere i år fik hun den hidtil største anerkendelse for sit arbejde, da hun modtog Villum Kann Rasmussens årslegat på 2,5 mio. kroner for »en pionerindsats inden for det nanoteknologiske forskningsområde«. 
+At hun overhovedet kom i gang med den mere ambitiøse forskning efter færdiggørelsen af sin erhvervs-ph.d. i 1997, har hendes daværende professor en stor del af æren for. Han gav hende et venligt skub og opfordrede hende til at søge de dengang nye FREJA-midler, der var specielt rettet mod kvindelige forskere. Da hun lige havde omstillet sit hoved til, at hun da sagtens kunne søge, selvom hun endnu ikke havde den store anciennitet, så gjorde hun det – og fik midler til at ansætte to ph.d.-studerende på sit projekt. 
+»Jeg havde slet ikke tænkt på det som en mulighed, men da jeg begyndte at skrive ansøgningen, troede jeg til gengæld så meget på projektet, at jeg tænkte, at hvis ikke jeg fik det, så kunne det være lige meget – så måtte jeg et andet sted hen«, konstaterer Anja Boisen 11 år og en masse banebrydende forskning senere.
+Udvikler fremtidens teknologi
+Det var faktisk den forskning, Anja Boisen lavede med disse første penge, som lagde fundamentet for alt det, hun siden hen har arbejdet med som forsker. Efterfølgende er det blevet til mere end 40 mio. kroner i støtte. 
+Hun havde en ide om, at de små sensorbjælker, hun havde været med til at udvikle i forbindelse med sin ph.d., kunne bruges til at spore forskellige ting. Ideen holdt stik, og i dag er hun sammen med sit forskerhold på DTU med i kapløbet om at udvikle den teknologi, der i fremtiden vil blive standard på dette område. 
+Det mest opsigtsvækkende af denne forskning er uden tvivl arbejdet med sporing af sprængstof i uforståeligt små mængder. Den sensorteknologi, hun har været med til at udvikle, kan således spore under 0,5 nanogram, altså 0,0000000005 almindelige gram, DNT, TNT eller RDX. 
+En terrorist skal altså eksempelvis kun have rørt ved sprængstof af den type, før en sensor kan afsløre vedkommende. Den store udfordring, der resterer, er at lave en sensor, der reagerer på så mange forskellige typer af sprængstoffer, at den rent praktisk kan bruges til eksempelvis terrorbekæmpelse. Og der kommer nyt om ikke så længe på det felt, lover Anja Boisen. 
+»På det seneste har vi faktisk holdt lidt igen med at publicere, fordi vi lige vil have nogle ting på plads, og så få det i Science eller Nature. Det vil få endnu mere opmærksomhed, det er jeg sikker på«.
+Hvad driver dig som forsker?
+»Nysgerrighed, stædighed og det kreative i at prøve noget, som ingen andre har prøvet før, med en fornemmelse af, at ’det her kommer til at fungere’«. Og så den internationale konkurrence. Det er sjovt«.
+Hvad med noget så simpelt som ambition?
+»Det sjove er, at da jeg startede på DTU, var det ikke sådan, at jeg sagde ’om fem år, der vil jeg gerne være professor’. Men der er da ambition. Jeg vil gerne gøre tingene godt, og jeg vil gerne være den bedste. Jeg har bare ikke haft en karriereplan«.
+Kvinder mangler rollemodeller
+Boisens første rigtige møde med kvindernes manglende tilstedeværelse i forskerverdenen kom, da hun tidligt i karrieren søgte og fik FREJA-midlerne. 
+Der var så mange ansøgninger, at det kun var tre procent, der blev udvalgt, og det var selvfølgelig fint. Det mærkelige var bare, at da de almindelige forskningsmidler var blevet uddelt kort tid forinden, havde næsten ingen kvinder søgt. 
+»Hvorfor er det lige, at det er sådan? «, spørger Anja Boisen, og svarer delvis selv: 
+»Jeg ved det ikke. Jeg ved bare, at jeg heller ikke selv havde gjort det, men fordi der var et program, der handlede om kvindelige forskningsledere, så tænkte jeg ’nå ja’. Det er virkelig underligt, at kvinderne ikke er her, at de ikke søger de stillinger, der er. Hvad er det, vi gør forkert? Er det opslagene, der er formuleret forkert, er det måden, vi sælger os på?«. 
+Hun vurderer, at en af årsagerne til den lave andel af kvindelige forskere både i hendes eget fag og generelt i den danske forskerverden skal findes i det forhold, at der ikke er ret mange rollemodeller. 
+Og så spiller det en rolle, at der, især i medierne, verserer så mange historier om, hvor hårdt det er at være kvinde i forskerverdenen, og hvor mange fordomme der er. 
+Boisen har selv oplevet fordommene blandt ellers seriøse kolleger. 
+Til et større videnskabeligt møde i Schweiz sagde en af de lokale professorer, som endda havde været med til at invitere hende, at han i ramme alvor ikke mente, at kvinder egner sig til at forske, fordi de ikke kan tænke logisk. 
+Anja Boisen ryster opgivende på hovedet, da hun fortæller historien. Hun pointerer, at det er den eneste gang, hun har oplevet sådan noget: 
+»Jeg vil helst slå på, at kvinder kan få fede og kreative job, hvor de kan gøre en forskel i et internationalt miljø med masser af rare mennesker«, siger den 41-årige forsker.
+Anja Boisens forskning:
+En nanopartikel er
+lige så mange gange mindre end en fodbold, som fodbolden er mindre end Jordkloden. Anja Boisen og kollegerne er med andre ord nede i nogle helt utroligt små størrelser, når de arbejder med at udvikle nanosensorer. En anden måde at beskrive størrelsesforholdene på er, at en mikrosensor er på størrelse med bredden af et hår, mens en nanosensor er cirka tusinde gange mindre.
+Den type sensor,
+som Boisen arbejder på at udvikle, består af en få nanometer tyk bjælke, som registrerer de mikroskopiske partikler i luften, f.eks. sprængstofpartikler eller nanopartikler i industrimiljøer, der arbejder med nanoteknologi. 
+En anden teknologi er rettet mod fødevareområdet, hvor man forsøger at udvikle en mikrosensor, der skifter farve ved tilstedeværelsen af helbredsskadelige bakterier i maden. Den sensor, man arbejder på, er lavet af plastik, kræver ingen strøm og kan smides væk efter brug. Den er derfor velegnet i fødevareemballage, hvor den kan advare forbrugeren.
+Boisen er ikke
+et sekund i tvivl om vigtigheden af sit forskningsområde: »At tingene bliver så små, og at man kan måle mange ting parallelt og hurtigt, det gør, at vi vil komme til at lave meget hurtigere diagnostik end i dag. Det er en vigtig teknologi – og der er næsten ingen grænser for, hvad den kan bruges til«.

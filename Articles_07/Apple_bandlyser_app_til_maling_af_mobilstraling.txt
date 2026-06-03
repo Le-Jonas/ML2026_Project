@@ -1,0 +1,6 @@
+Title: Apple_bandlyser_app_til_maling_af_mobilstraling
+Date: 2011-03-28
+Article Type: Digitalt
+Author: Et israelsk firma har lavet en applikation til smartphones, der kan måle strålingen fra telefonen og kan advare med en hyletone, hvis strålingen kommer over det niveau, myndighederne har fastlagt som øverste grænse.
+
+Appplikationen er lavet til såvel Android, Blackberry og iPhones, men ifølge Ingeniørens netavis ing.dk har Apples topchef Steve Jobs selv grebet ind og smækket døren i til Apples App Store.

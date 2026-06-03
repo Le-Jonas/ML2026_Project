@@ -1,0 +1,7 @@
+Title: Nordea
+Date: 2011-02-24
+Article Type: Bolig og haven
+Author: Thomas Vigild
+
+For at logge ind i Nordeas mobilbank skal man bruge både CPR-nummer, mobilbankkode og til slut et NemID nummer, så man må sige, at sikkerheden, men også bøvlet er helt i top.
+Er man først inde er det muligt at overføre penge mellem egne konti, men modsat Nykredit også ud af banken til andre konti. Ligeså er der de sædvanlige muligheder for at se kontoudtog, kommende betalinger og tilmelde sin telefon til at få info pr. sms.

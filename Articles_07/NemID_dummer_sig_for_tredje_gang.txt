@@ -1,0 +1,7 @@
+Title: NemID_dummer_sig_for_tredje_gang
+Date: 2011-01-17
+Article Type: Digitalt
+Author: Ole Wejse Svarrer
+
+For tredje gang er firmaet bag NemID, DanID, kommet til at sende nøglekort og brevet med den midlertidige adgangskode ud på én gang.
+Dermed har eksempelvis langfingrede postbude nemt kunne stjæle modtagernes digitale nøgle og få adgang til modtagerens NemID, skriver business.dk.

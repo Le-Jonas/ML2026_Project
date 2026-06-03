@@ -1,0 +1,7 @@
+Title: Major_NemID_breach
+Date: 2010-09-14
+Article Type: Danmark
+Author: Julian Isherwood
+
+A simple, but understandable, wrong keystroke in the new NemID system has been available to open a barn door security breach to a wide range of a user’s personal information – including the ability to choose a new name, according to Politiken.
+The NemID system is Denmark’s new digital signature designed to provide a single login for public and private services on the Internet. The - official – NemID site claims: “NemID offers strong protection against intruders and hackers.”

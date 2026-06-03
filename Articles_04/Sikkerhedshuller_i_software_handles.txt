@@ -1,0 +1,8 @@
+Title: Sikkerhedshuller_i_software_handles
+Date: 2007-07-08
+Article Type: Økonomi
+Author: Søren Astrup
+
+Journalist
+Der kan være gode penge at tjene, hvis man kan finde en fejl i et computerprogram.
+Sikkerhedshullerne kan bruges af hackere eller kriminelle, der kan udnytte dem til at skaffe sig adgang til andre menneskers computere. Nu er der oprettet en elektronisk markedsplads, hvor informationerne om de kritiske fejl kan sælges og købes.

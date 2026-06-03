@@ -1,0 +1,7 @@
+Title: IBM_lancerer_ny_gratis_kontorpakke
+Date: 2008-06-03
+Article Type: Digitalt
+Author: Søren Dilling
+
+IBM's kontorpakke er baseret på open source-systemet openOffice.org, hvilket vil sige, at kildekoden er offentlig og kan ændres og forbedres af brugerne.
+Lotus Symphony har en anderledes brugerflade end den - også gratis - kontorpakke, OpenOffice.org, skriver norske digi.no

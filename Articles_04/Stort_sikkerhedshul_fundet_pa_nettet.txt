@@ -1,0 +1,7 @@
+Title: Stort_sikkerhedshul_fundet_pa_nettet
+Date: 2008-07-09
+Article Type: Digitalt
+Author: Frederik Pedersen
+
+Sikkerhedshullet gør det muligt for ondsindede personer at angribe internetudbydere og virksomheder, så både hjemmebrugere og ansatte bliver ledt til falske hjemmesider uden at vide det.
+Store it-firmaer, heriblandt Microsoft, er i gang med at udseende sikkerhedsopdateringer, og pc-brugere, der modtager automatiske opdateringer, får dermed lukket sikkerhedshullet.

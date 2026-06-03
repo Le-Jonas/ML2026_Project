@@ -1,0 +1,7 @@
+Title: Fa_hjemmesiden_læst_op
+Date: 2008-02-01
+Article Type: Digitalt
+Author: Søren Dilling
+
+Oplæsningsprogrammet er derudover blevet forbedret på to andre vigtige områder.
+Dels er talesyntesen udskiftet til en mere naturlig, menneskelig stemme. Dels går det nu hurtigere, fra man markerer en tekst og trykker på afspil, til oplæsningen begynder.
