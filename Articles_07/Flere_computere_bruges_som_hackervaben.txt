@@ -1,8 +1,0 @@
-Title: Flere_computere_bruges_som_hackervaben
-Date: 2011-04-11
-Article Type: Digitalt
-Author: Søren Dilling
-
-Peter Voergaard
-Fænomenet hvor it-kriminelle overtager privatcomputere bliver mere almindeligt.
-Men selv om der er blevet færre af de såkaldte botnets, der kan bruges til it-tyveri, er it-kriminelle blevet dygtigere til at designe programmer, som kan bruges til at overtage almindelige danskeres computer, fortæller it-sikkerhedseksperter Peter Kruse fra it-sikkerhedsfirmaet CSIS.

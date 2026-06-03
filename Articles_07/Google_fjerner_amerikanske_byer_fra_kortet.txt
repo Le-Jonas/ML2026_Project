@@ -1,7 +1,0 @@
-Title: Google_fjerner_amerikanske_byer_fra_kortet
-Date: 2010-09-23
-Article Type: Digitalt
-Author: Thomas Vigild
-
-De godt 90.000 beboere i den amerikanske by Sunrise i Florida har været forsvundet i over en måned. Også rådhuset, de kommunale bygninger og alle forretninger er pist væk.
-I al fald på Google Maps, da søgninger i Googles verdenskort efter byen Sunrise sendte alle til byen Sarasota i stedet - der vel at mærke ligger over 300 km. fra Sunrise og er placeret på den modsatte kyst i staten.

@@ -1,6 +1,0 @@
-Title: Det_kan_du_som_bruger_pa_politiken.dk
-Date: 2010-12-20
-Article Type: Danmark
-Author: Som bruger på politiken.dk kan du blandt andet skrive kommentarer i debatter eller selv sætte dagsorden med dine egne læserbreve.
-
-Politiken tillader kun kommentarer skrevet i eget navn. Ved oprettelsen tjekker systemet derfor, om brugeren rent faktisk findes på den oplyste adresse. Dette sker ved et automatisk tjek i folkeregistret.

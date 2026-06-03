@@ -1,7 +1,0 @@
-Title: Nyt_sikkerhedshul_i_den_gamle_digitale_signatur_er
-Date: 2010-09-14
-Article Type: Digitalt
-Author: Søren Dilling
-
-Den gamle digitale signatur, som masser af danskere stadig bruger, har nemlig det samme sikkerhedshul som den nye NemID. Hullet betyder, at fremmede kan få adgang til meget private og følsomme personoplysninger som familiens cpr-numre eller skatte- og indtægtsforhold.
-Sikkerhedsbristen er præcis den samme, som indtil mandag aften fandtes i det nye udgave af den digitale signatur, NemID.

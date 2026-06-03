@@ -1,7 +1,0 @@
-Title: NemID_bringer_videnskabsministeren_pa_glatis
-Date: 2010-10-07
-Article Type: Digitalt
-Author: Søren Dilling
-
-Det kan ikke være kommet bag på de statslige IT-myndigheder, at der var huller i sikkerhedssystemet på de hjemmesider, som den nye digitale signatur NemID giver adgang til, da politiken første gang skrev om det 14. september.
-Men i morges i DR P1 Morgen svarede videnskabsminister Charlotte Sahl-Madsen (K) på spørgsmålet om, hvorfor myndighederne ikke havde gjort noget for at stoppe sikkerhedsbristen, og hvornår myndigheder blev klar over problemet:

@@ -1,7 +1,0 @@
-Title: Gigantisk_sikkerhedshul_opdaget_i_iPhone
-Date: 2010-10-26
-Article Type: Digitalt
-Author: Thomas Vigild
-
-Mens Apple gang på gang har betonet sikkerheden ved de seneste opdateringer af iPhone - særligt overfor erhvervslivet - så kan man overraskende nemt bryde ind i de nyeste iPhones, selvom de er låst med et firecifret kodeord.
-Det eneste det kræver er fem enkle knaptryk, hvorefter man har fuld adgang til hele telefondelen på iPhonen - dvs. opkald og telefonbog. Det betyder blandt andet at man får fri adgang til telefonsvarer, kontakter og sågar ringe frit.

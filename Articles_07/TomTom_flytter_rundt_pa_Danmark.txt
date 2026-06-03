@@ -1,8 +1,0 @@
-Title: TomTom_flytter_rundt_pa_Danmark
-Date: 2010-12-08
-Article Type: Biler
-Author: Allan Graubæk
-
-Journalist
-En række gps-apparater fra TomTom, der er solgt i Danmark hen over sommeren og det tidlige efterår, har så ringe indbygget hukommelse, at de ikke kan rumme data på alle lande på én gang.
-Derfor er Europa på disse apparater delt op i flere forskellige kortzoner, hvoraf kun én ad gangen kan være i brug i apparatet.

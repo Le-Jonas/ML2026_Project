@@ -1,7 +1,0 @@
-Title: Danskere_lover_hurtigere_Google
-Date: 2010-12-09
-Article Type: Digitalt
-Author: Michael C. Svendsen
-
-Den kommende udgave af Googles browser Chrome, der frigives om 3-4 måneder, vil sparke gang i avancerede webprogrammer og onlinetjenester, der kommer til at køre markant hurtigere.
-Det lover to af Googles danske udviklere, der begge er ansat på søgegigantens århusianske udviklingscenter og har hænderne langt inde i maven på udviklingen af Googles browser.

@@ -1,7 +1,0 @@
-Title: Hackere_trykker_dødsrygter_pa_Murdochs_egne_hjemme
-Date: 2011-07-19
-Article Type: Internationalt
-Author: Jesper Vangkilde
-
-Mediekongen Rupert Murdoch har fået en noget brat optakt til sin dagens høring, hvor han skal udfrittes af britiske parlamentarikere.
-Flere af hans medieimperiums hjemmesider - herunder The Times og The Sun - var i aftes udsat for hackerangreb fra gruppen LulzSec, og det inkluderede direkte Murdoch selv.

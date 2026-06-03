@@ -1,7 +1,0 @@
-Title: Sa_er_det_slut_med_pin-_og_tast-selv-koder
-Date: 2011-03-10
-Article Type: Digitalt
-Author: Søren Dilling
-
-Allerede nu har KMD (det gamle Kommunedata) og ATP stoppet for oprettelse af nye pinkoder og og Skat vil stoppe udstedelsen af tastselv-koder til borgerne i løbet af året, og fra efteråret vil de eksisterende koder ikke længere kunne bruges.
-Det fremgår af en meddelse fra Kommunernes Landsforening, der slår fast, at al adgang til offentlige hjemmesider med selvbetjening for borgerne fra efteråret skal foregå enten med NemID eller med den gamle digitale signatur.

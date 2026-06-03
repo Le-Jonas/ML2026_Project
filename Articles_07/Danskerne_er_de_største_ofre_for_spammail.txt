@@ -1,7 +1,0 @@
-Title: Danskerne_er_de_største_ofre_for_spammail
-Date: 2010-12-07
-Article Type: Digitalt
-Author: Rikke Brunsgaard Andersen
-
-Danmark er det land i verden, der modtager flest spammails pr. indbygger, kun overgået af Italien. Hele 93,2% af alle modtagede emails i Danmark karakteriseres som spam.
-Det fortæller Martin Lee, senior softwareingeniør fra netsikkerhedsfirmaet MessageLabs Intelligence i Storbritannien, der i dag offentliggør sin sikkerhedsrapport for 2010 samt sine prognoser og forventede trends for 2011.

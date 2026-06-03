@@ -1,7 +1,0 @@
-Title: Symantec_Norton_Internet_Security_2011
-Date: 2011-02-18
-Article Type: Bolig og haven
-Author: Kenneth Knudsen
-
-Programmet installerede på under et minut - og efterfølgende glemte vi til tider, at der overhovedet var et sikkerhedsprodukt installeret. Ikke desto mindre er Internet Security 2011 proppet med funktioner.
-Du får blandt andet antivirus, antispyware, antiphishing, Norton Safe Web, antispam, identitetsbeskyttelse, Nortons omdømmebaserede tjeneste og forældrekontrol.

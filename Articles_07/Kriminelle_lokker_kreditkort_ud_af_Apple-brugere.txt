@@ -1,7 +1,0 @@
-Title: Kriminelle_lokker_kreditkort_ud_af_Apple-brugere
-Date: 2011-08-03
-Article Type: Digitalt
-Author: Søren Dilling
-
-En såkaldt phishing-gruppe forsøger i øjeblikket at sende falske mail til brugere, der har konto på Apples App Store, hvor de fleste også har deres kreditkortoplysninger liggende.
-Mailen er tilsyneladende sendt fra Apple, og i mailen får brugerne at vide, at der er problemer med en betaling på det meget sandsynlige beløb af godt en dollar, som kan være betalingen for en app til en iPhone.

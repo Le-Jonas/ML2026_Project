@@ -1,6 +1,0 @@
-Title: Franske_computere_jagtet_af_hackere
-Date: 2011-03-07
-Article Type: Internationalt
-Author: Frankrigs finansministerium har i december været genstand for et cyberangreb, hvor målet var oplysninger, der har med det franske formandskab for G20 at gøre, siger embedsmænd mandag.
-
-Budgetminister Francois Baroin siger, at indbruddet i omkring 150 computere ikke gav adgang til nogen personlige data eller skatteoplysninger, som lå på dem.

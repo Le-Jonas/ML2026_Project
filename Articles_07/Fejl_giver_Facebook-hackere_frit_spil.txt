@@ -1,6 +1,0 @@
-Title: Fejl_giver_Facebook-hackere_frit_spil
-Date: 2010-11-04
-Article Type: Digitalt
-Author: Der går nemlig flere måneder, før Facebook får rettet den fejl, der gør det muligt for hackere at stjæle login-oplysninger gennem de såkaldte Wi-Fi-zoner. Det oplyser en talsmand til Forbes.com.
-
-»Vi håber at finde en løsning inden for de kommende måneder. Som altid anbefaler vi, at folk er forsigtige, når de sender eller modtager oplysninger via usikrede Wi-Fi-netværk«, lyder det fra talsmanden.

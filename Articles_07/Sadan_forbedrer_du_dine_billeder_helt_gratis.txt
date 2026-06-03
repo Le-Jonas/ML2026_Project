@@ -1,7 +1,0 @@
-Title: Sadan_forbedrer_du_dine_billeder_helt_gratis
-Date: 2010-09-27
-Article Type: Digitalt
-Author: Michael C. Svendsen
-
-For at bruge Windows Live Billedgalleri skal du først hente den programpakke, der kaldes Windows Live Essentials.
-I vores gennemgang har vi taget udgangspunkt i allernyeste version, der i skrivende stund stadig ’kun’ er i den næsten færdige beta-udgave – og på engelsk - men som ventes frigivet sin endelige version først på efteråret.

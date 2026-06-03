@@ -1,7 +1,0 @@
-Title: Nu_spreder_apps_sig_til_computeren
-Date: 2010-12-09
-Article Type: Digitalt
-Author: Thomas Vigild
-
-Har du tjek på dine apps? For nu spreder fænomenet med små dedikerede oftest web-baserede programmer sig til computeren ig gør os i stand til at se nettet gennem apps og ikke browsere.
-Nok har Apple for et par måneder siden annonceret en lignende butik på vej til Mac-computerne, men Google kom dem i går i forkøbet med lanceringen af Chrome Web Store, der fungerer sammen med Googles Chrome-browser.

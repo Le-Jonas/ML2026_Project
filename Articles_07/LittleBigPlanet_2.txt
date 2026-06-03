@@ -1,7 +1,0 @@
-Title: LittleBigPlanet_2
-Date: 2010-08-26
-Article Type: Digitalt
-Author: Thomas Vigild
-
-Fra at skabe små baner til at skabe hele spil.
-Sådan er kort fortalt nyheden i anden udgave af den legende værktøjskasse for spil ‘LittleBigPlanet’. Ved at styre små Sackboys - kludedukker - skal man udforme egne spil, og mulighederne er imponerende. Man kan både lægge egne stemmer på sit spil, komponere sin egen musik, lave mellemsekvenser og designe fjenderne og hvor intelligente de skal være.

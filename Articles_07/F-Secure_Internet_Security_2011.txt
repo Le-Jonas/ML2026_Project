@@ -1,7 +1,0 @@
-Title: F-Secure_Internet_Security_2011
-Date: 2011-02-18
-Article Type: Bolig og haven
-Author: Kenneth Knudsen
-
-Med 2011-udgaven af F-Secures komplette sikkerhedspakke er der er et minimum af kedelig installationstid.
-Netop dette var ellers med til at skæmme sidste års udgave noget, ligesom 2010-versionen havde en tendens til at frembringe irriterende sikkerhedsmeddelelser.

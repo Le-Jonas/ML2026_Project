@@ -1,9 +1,0 @@
-Title: Falsk_sikkerhed_i_nyt_dansk_mobilprogram
-Date: 2010-10-13
-Article Type: Digitalt
-Author: Thomas Vigild
-
-Tag et billede af dit dankort, dit personalekort eller måske dit NemID-nøglekort, så du altid har kortenes oplysninger med dig direkte på mobilen.
-Men husk at beskytte oplysningerne "
-sikkert og nemt og gemt væk fra pilfingre og tyve"
-med en adgangskode, som den danske udvikler Daniel Bahl skriver om sit program GemID udviklet til iPhone og iPod Touch.

@@ -1,7 +1,0 @@
-Title: Flyselskab_vil_teste_aske-detektor
-Date: 2011-05-25
-Article Type: Fly og lufthavne
-Author: Amalie Kønigsfeldt
-
-Bedst som det europæiske luftrum igen mærker til den islandske vulkanaske, er lavprisselskabet easyJet klar med en aske-detektor.
-Detektoren, der er udviklet på Norsk Institut for Luftforskning, bruger infrarød kamerateknologi til at spore aske i atmosfæren op til 100 kilometer væk.
