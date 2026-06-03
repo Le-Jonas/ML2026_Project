@@ -1,0 +1,7 @@
+Title: Ferm_software_til_en_digital_livsstil
+Date: 2009-03-26
+Article Type: Bolig og haven
+Author: Thomas Vigild
+
+Ingen af programmerne har større radikale ændringer i forhold til den forrige version, men de bærer præg af en finpudsning, der i høj grad kæler for detaljerne.
+Med en nu indbygget automatisk ansigtsgenkendelse skimmer programmet alle ens billeder igennem, og prøver at finde ud af, hvordan ens yndlingsmotiver er.

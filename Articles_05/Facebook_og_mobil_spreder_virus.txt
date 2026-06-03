@@ -1,0 +1,7 @@
+Title: Facebook_og_mobil_spreder_virus
+Date: 2009-01-05
+Article Type: Digitalt
+Author: Ditte-Marie Ascanius
+
+Cyberkriminelle benytter sig nemlig i stigende grad af sociale netværk på internettet som MySpace, LinkedIn og Facebook, når de spreder crimeware, fortæller Magnus Kalkuhl, der er virusanalytiker i it-sikkerhedsfirmaet Kaspersky Lab.
+»Grunden til, at sociale medier er oplagte for hackerne, er, at brugerne ofte er meget tillidsfulde over for disse sites, der er kommunikationsplatform for venner og bekendte. Det betyder, at brugerne sænker it-sikkerhedsparaderne, hvilket gør det nemt for de cyberkriminelle at hacke sig ind på en brugers profil«, siger han.

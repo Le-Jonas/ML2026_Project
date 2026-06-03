@@ -1,0 +1,7 @@
+Title: MathMagic
+Date: 2008-12-16
+Article Type: Jul
+Author: Thomas Vigild
+
+Hvis spil skal kobles med læring, gøres det fornemt i ‘MathMagic’-spillene.
+Grundideen er hentet fra domino-klodser, da hver klods er inddelt i fire felter, der repræsenterer hver deres matematiske operation som division, addition og substraktion.

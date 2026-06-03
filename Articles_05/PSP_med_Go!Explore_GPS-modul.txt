@@ -1,0 +1,8 @@
+Title: PSP_med_Go!Explore_GPS-modul
+Date: 2008-09-15
+Article Type: Bolig og haven
+Author: Thomas Vigild
+
+Forvandlingen sker ved at skrue en hvid buttet antenne fast i toppen og installere en god portion kortdata på hukommelseskortet. 
+Det gode ved GPS’en til PSP er, at den fungerer, er pædagogisk opbygget og indeholder opdateret kortmateriale fra TeleAtlas.
+Den viser tilmed udvalgte bygninger i alverdens hovedstader i 3D, for eksempel Rundetårn og Hovedbanegården i København. Imponerende, men mest lir, for det forbedrer ikke navigationen synderligt og synes snarere at overbelaste konsollen.

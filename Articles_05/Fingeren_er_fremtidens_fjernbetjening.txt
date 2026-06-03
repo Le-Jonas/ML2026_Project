@@ -1,0 +1,9 @@
+Title: Fingeren_er_fremtidens_fjernbetjening
+Date: 2009-03-03
+Article Type: Digitalt
+Author: Thomas Vigild
+
+Den store tyske elektronikmesse CEBIT premierer i dag systemet iPoint 3D, der baseret på to normale kameraer opfanger håndbevægelser foran skærmen og omsætter dem til kommandoer.
+»Eftersom kommunikationen er helt uden berøring er systemet ideelt i situationer, hvor fysisk kontakt mellem brugeren og et computersystem er umuligt eller ikke tilladt - som f.eks. i et operationsrum«, siger Paul Chojecki, forsker ved det tyske
+Fraunhofer Institute for Telecommunications, Heinrich-Hertz-Institut.
+der har udviklet teknikken.

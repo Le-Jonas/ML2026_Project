@@ -1,0 +1,7 @@
+Title: 573.928_kreditkort_omfattet_af_svindelsag
+Date: 2009-07-28
+Article Type: Privatøkonomi
+Author: Ole Wejse Svarrer
+
+Oplysninger er stjålet mellem 12. marts og 8. juni. Gerningsmændene havde held til at indsætte en 'spion' på Network Solutions servere og kunne dermed tappe oplysninger, mens de mange kreditkort blev brugt til at handle på nettet.
+I alt er 4.343 net-butikker ramt af tyveriet. De data, der er stjålet, er navn, adresse og kreditkort-numre, der efterfølgende kan bruges til svindel med kortene.

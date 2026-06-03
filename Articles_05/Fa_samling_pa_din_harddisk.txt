@@ -1,0 +1,7 @@
+Title: Fa_samling_pa_din_harddisk
+Date: 2009-03-10
+Article Type: Digitalt
+Author: Søren Dilling
+
+Men efterhånden som du sletter filer, ændrer på filer og installerer ny software, opstår der tomme huller på harddisken.
+I sidste ende er Windows derfor nødt til at lægge nye filer ind der, hvor der nu engang er plads.

@@ -1,0 +1,6 @@
+Title: Kloge_senge_skal_mindske_hospitalsulykker
+Date: 2008-09-13
+Article Type: Danmark
+Author: En ny generation af patientsenge på landets hospitaler skal lette arbejdet for portører og mindske risikoen for arbejdsskader.
+
+Netop nu arbejder Syddansk Universitets afdeling for robotteknologi, RoboCluster, sammen med firmaet Magic Drive på at designe en prototype på fremtidens hospitalseng. Den får "intelligente hjul" med en slags servostyring, som gør den overlegen i forhold til sengene i dag:

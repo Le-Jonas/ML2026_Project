@@ -1,0 +1,8 @@
+Title: Giv_Windows_mindre_at_tænke_pa
+Date: 2009-03-10
+Article Type: Digitalt
+Author: Søren Dilling
+
+Thomas Berger
+Det handler både om, at du måske har installeret alt for mange skrifttyper, som du slet ikke bruger eller slået en række unødvendige men kønne grafiske effekter til.
+For eksempel indekseringssystemer og netværksredskaber, som alle sammen lægger beslag på computerens arbejdshukommelse.

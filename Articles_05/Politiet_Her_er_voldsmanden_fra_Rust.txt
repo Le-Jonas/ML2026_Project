@@ -1,0 +1,6 @@
+Title: Politiet_Her_er_voldsmanden_fra_Rust
+Date: 2009-05-18
+Article Type: Danmark
+Author: To tydelige overvågningsbilleder fra Café Rust er nu blevet offentliggjort af politiet i København.
+
+Offentligheden skal hjælpe politiet med at finde den mand, der i sidste uge slog en 25-årig nordmand i hovedet med et ølglas, så han senere døde af det.

@@ -1,0 +1,8 @@
+Title: Google-browser_er_aben_for_angreb
+Date: 2008-09-08
+Article Type: Digitalt
+Author: Mette Guldagger
+
+Journalist
+Version 0.2.149.28, som var den seneste version indtil i går, indeholder en kritisk fejl, skriver den norske netavis vg.nett.
+Fejlen gør din computer åben for 'klassiske drive-by-angreb', så du som bruger kan blive udsat for virus.

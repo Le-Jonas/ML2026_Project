@@ -1,0 +1,6 @@
+Title: Maske_er_Linux_en_løsning
+Date: 2009-03-10
+Article Type: Digitalt
+Author: Det er væsentlig mindre ressourcekrævende, og kan derfor bedre køre på en lidt ældre maskine.
+
+Du skal blot være opmærksom på, at der ikke nødvendigvis findes drivere til al din hardware under Linux, og det kan give problemer med for eksempel printere.

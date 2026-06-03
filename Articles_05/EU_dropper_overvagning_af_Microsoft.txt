@@ -1,0 +1,13 @@
+Title: EU_dropper_overvagning_af_Microsoft
+Date: 2009-03-04
+Article Type: Internationalt
+Author: Siden 2005 har EU overvåget it-giganten Microsoft, fordi EU-kommissionen mener, at it-giganten misbruger sin dominans på markedet. 
+ Men nu afskaffer EU den konstante overvågning i form af en ekstern ekspert – en såkaldt monitoring trustee. 
+»Kommissionen forlanger ikke længere en fuldtids monitoring trustee til at vurdere Microsofts eftergivelighed«, skriver kommissionen ifølge nyhedsbureauet Reuters i en udtalelse. Konsulenter skal stadig undersøge
+ Af den fremgår det, at den ny holdning fra kommissionen blandt andet skyldes ændret opførsel fra Microsoft og bedre muligheder for tredje parter til at opnå deres rettigheder i nationale retssystemer. 
+ Microsoft slipper dog ikke helt for at føle kommissionens ånde i nakken. Fremover vil kommissionen gennem konsulenter stadig følge situation. Microsoft måtte betale bøde
+ EU-kommissionens utilfredshed med Microsoft byggede på, at softwaregiganten knyttede sine softwareprogrammer til sit eget styresystem Windows, så programmerne ikke kun bruges til andre styresystemer. 
+Det begunstiger gigantens egne programmer, og dermed misbruger Microsoft sin dominerende position på markedet, mente EU-kommissionen. 
+ Den gav i sin tid Microsoft en bøde på 1,68 milliarder euro, hvilket i dag svarer til 12,52 milliarder kroner.
+
+Så sent som i januar anklagede EU-kommissionen Microsoft for at forhindre fri konkurrence ved at binde dets internetbrowser Explorer til Windows.

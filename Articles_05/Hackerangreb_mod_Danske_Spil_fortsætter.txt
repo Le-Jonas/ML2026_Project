@@ -1,0 +1,8 @@
+Title: Hackerangreb_mod_Danske_Spil_fortsætter
+Date: 2009-08-17
+Article Type: Danmark
+Author: Peter Schøler
+
+Journalist
+Teknikerne arbejder fortsat i højeste gear for at genoprette skaderne efter weekendens voldsomme hackerangreb mod danskespil.dk.
+Men byrden bliver forværret af fortsatte forsøg på at få Danske Spils server til at gå ned fra udenlandske computere på automatpilot, der forsøger at logge sig ind i systemerne.

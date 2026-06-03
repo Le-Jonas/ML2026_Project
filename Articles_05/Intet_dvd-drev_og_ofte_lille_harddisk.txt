@@ -1,0 +1,7 @@
+Title: Intet_dvd-drev_og_ofte_lille_harddisk
+Date: 2008-12-17
+Article Type: Digitalt
+Author: Michael C. Svendsen
+
+Så skal du installere programmer fra en disk, er du enten nødt til at købe et eksternt drev eller installere programmer via en USB-pen eller et netværk.
+For eksempel ved at oprette et såkaldt ”virtuelt drev” og indlæse programmerne herfra (det kan du finde vejledninger til på nettet).

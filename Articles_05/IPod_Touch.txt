@@ -1,0 +1,7 @@
+Title: IPod_Touch
+Date: 2008-09-15
+Article Type: Bolig og haven
+Author: Thomas Vigild
+
+IPod Touch skanner simpelthen de trådløse netværk i nærheden og kan ud fra deres placering gætte sin position. Det er dog rent gætværk, for selv i storbyer med mange trådløse netværk kan usikkerheden svinge mellem 1 og 20 km.
+Andre steder kan apparatet slet ikke finde sig selv, selv om det har kontakt til et netværk.

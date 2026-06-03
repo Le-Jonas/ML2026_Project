@@ -1,0 +1,7 @@
+Title: Millioner_af_kreditkort_er_hacket
+Date: 2009-01-22
+Article Type: Privatøkonomi
+Author: Ole Wejse Svarrer
+
+Det er betalingsgiganten Heartland, der står bag over 100 millioner transaktioner med kreditkort i USA, der er blevet hacket af it-kriminelle. Ifølge selskabet har hackerne plantet software i Heartlands systemer, for på den måde at opsnappe kortoplysningerne, skriver den norske avis, VG. De har angiveligt opsnappet de såkaldte Track 2-data fra kortenes magnetstriber.
+Med disse data i hånden er det muligt at kopiere nye kort.

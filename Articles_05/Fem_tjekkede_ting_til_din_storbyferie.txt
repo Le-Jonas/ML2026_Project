@@ -1,0 +1,8 @@
+Title: Fem_tjekkede_ting_til_din_storbyferie
+Date: 2009-03-11
+Article Type: Rejsegrej
+Author: Emilie Taulø-Jacobsen
+
+1. Backtracking
+Trackstick noterer ved hjælp af 24 satellitter din rute i byen.
+Når du kommer hjem sætter du den i USB-porten på din computer og går ind på Google Earth, hvor hele ruten tegnes ind.

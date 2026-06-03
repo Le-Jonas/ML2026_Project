@@ -1,0 +1,21 @@
+Title: GUIDE_Vælg_den_rette_elcykel
+Date: 2009-05-04
+Article Type: Sundhed
+Author: Michael C. Svendsen
+
+Lad dig ikke forvirre af de mange tekniske begreber, når du skal købe en elcykel.
+Det bedste råd er nemlig at kræve en ordentlig prøvetur af mindst en halv times varighed – og sammenligne med prøveture på andre elcykelmodeller – før du beslutter dig. Her er en oversigt over de vigtigste elcykel-begreber:
+El-motorernes
+gennemsnitlige driftseffekt måles i watt. Motorerne kan dog ofte yde mere i spidsbelastninger, så tallet er ikke helt retvisende. Derfor bruges drejningsmomentet ofte som supplerende angivelse af motorens reelle trækkraft.
+Des større kapacitet,
+elcyklens batteri har i amperetimer (Ah), des længere kan du køre på en opladning (forudsat at de anvendte motorer er ens). Elcyklerne i dette tjek har batterier med en kapacitet på 9 eller 10 amperetimer, hvilket – ifølge vores erfaringer i en test af fire elcykler – svarer til en distance på 25-30 kilometer med fuld motoreffekt en stor del af vejen eller helt op til det dobbelte ved mere sparsommelig indstilling og kørestil.
+Batteriet
+bør være af lithium-ion (Li-ion) eller lithium-polymer (LiPo) typen. Modsat f.eks. de ældre nikkel-cadmium-batterier kan de lithium-baserede nemlig sjatlades uden at miste kapacitet. Samtidig lader de hurtigt; typisk tager det under en time at nå en kapacitet på 50 procent af det maksimale. En fuld opladning tager typisk 4-5 timer.
+Lad batteriet helt op
+, før du sætter cyklen i vinterhi og husk at lade det op til maksimum mindst hver anden måned; det forlænger levetiden. Opbevar helst batteriet ved stuetemperatur om vinteren. Levetiden forringes nemlig, hvis det opbevares for koldt (elcyklen kan dog sagtens anvendes i frostvejr, ligesom både motor og batteri tåler regn).
+Et lithium-baseret batteri
+holder typisk til over 600 hele opladningscyklusser, før dets kapacitet falder til under 80 procent af den oprindelige. Afhængig af cykelproducenten koster et nyt batteri på dagens marked 3.000-4.000 kroner. Nogle producenter – f.eks. Batavus – sælger tillige batterier, der monteres på siden af cyklen for ekstra lang rækkevidde.
+Motorerne
+på moderne elcykler er af den såkaldt børsteløse type, der ikke slides nævneværdigt over tid og ikke kræver vedligehold eller udskiftning. Motoren er indkapslet, så den ikke tager skade af vind og vejr.
+Juridisk og forsikringsmæssigt
+er en elcykel identisk med en almindelig cykel. Den dækkes derfor også af familie-/indboforsikringen. Dog er der ifølge Forsikringsoplysningen ofte maksimaldækning på cykler. Derfor kan du med fordel høre dit forsikringsselskab om mulighed for ekstra dækning, hvis du rammer grænsen ved køb af en særlig kostbar model.

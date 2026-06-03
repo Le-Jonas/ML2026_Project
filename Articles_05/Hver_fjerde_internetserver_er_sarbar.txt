@@ -1,0 +1,7 @@
+Title: Hver_fjerde_internetserver_er_sarbar
+Date: 2008-11-11
+Article Type: Digitalt
+Author: Frederik Pedersen
+
+Sikkerhedshullet gør det muligt for ondsindede personer at angribe internetudbydere og virksomheder, så både hjemmebrugere og ansatte bliver ledt til falske hjemmesider uden at vide det.
+Men nu viser en verdensomspændende undersøgelse, at mange computere stadig er sårbare over for sikkerhedshullet.

@@ -1,0 +1,6 @@
+Title: Hackere_misbruger_norsk_tabloidavis
+Date: 2009-05-06
+Article Type: Kultur
+Author: Den største netavis i Norge måtte bruge en stor del af dagen i går på at forsikre læserne om, at det er sikkert at læse VG Nett.
+
+Fra VG's rejseside havde hackere fundet et hul i sikkerheden, og det betød, at netlæserne kunne blive sendt automatisk videre til en kriminel netside i USA. Her fik netlæserne en falsk virusalarm med besked om at downloade et gratis - falsk - antivirusprogram.

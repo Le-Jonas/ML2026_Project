@@ -1,0 +1,8 @@
+Title: Ny_forvirring_om_Visa_dankort_i_Sterling-sag
+Date: 2008-11-19
+Article Type: Rejsekøb
+Author: Jakob Sorgenfri Kjær
+
+Journalist
+Normalt vil Dankort-delen blive aktiveret ved køb i danske netbutikker, mens Visa-delen vil blive aktiveret ved køb på internationale hjemmesider. Men i Sterlings tilfælde er der tilsyneladende ikke den samme logik.
+Om det er den ene eller anden del af kortet er langt fra ligegyldigt. Således kan aktivering af Visa-delen give det fulde beløb retur, mens aktivering af Dankort-delen giver en kurv at hoppe i.

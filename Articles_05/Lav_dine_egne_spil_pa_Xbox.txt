@@ -1,0 +1,7 @@
+Title: Lav_dine_egne_spil_pa_Xbox
+Date: 2009-01-09
+Article Type: Spil
+Author: Thomas Vigild
+
+Tag controlleren i hånden og lav dine egne spil. Microsoft går nu efter at skabe endnu mere brugerskabt indhold til deres Xbox 360-konsol med det kommende spil/programmeringssprog 'Kodu', hvor meningen er, at spilleren laver deres egne spil. Og det mens de morer sig.
+Via en overskuelig brugerflade kan man i 'Kodu' sammensætte egne baner, ændre på grafikken i spillet og lave fjender og forhindringer. Microsofts mål med 'Kodu' er at give spillerne et lettilgængeligt spilværktøj og demokratisere spiludviklingen, så flere kan udtrykke sig via spil - hvilket i høj grad minder meget om Sony 'LittleBigPlanet', der udkom i oktober sidste år og nu har over 300.000 spillerskabte baner til download.

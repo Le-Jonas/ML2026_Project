@@ -1,0 +1,7 @@
+Title: Facebook_er_en_legeplads_for_hackere
+Date: 2008-09-03
+Article Type: Kultur
+Author: På det sociale netværk Facebook bliver danskere genforenet med gamle klassekammerater, eks-kærester og fjern familie.
+
+Men netværkstedet er også drømmeland for professionelle hackere, der har forstået at udnytte svagheder i programmer til at overtage kontrollen med din computer. 
+Den - korte - tekniske forklaring er, at Facebook benytter sig af eksempelvis Quicktime, Flash og Windows Media Player, som ligger frit tilgængeligt til download på nettet.

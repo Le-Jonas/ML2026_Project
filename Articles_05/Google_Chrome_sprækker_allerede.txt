@@ -1,0 +1,7 @@
+Title: Google_Chrome_sprækker_allerede
+Date: 2008-09-04
+Article Type: Digitalt
+Author: Søren Dilling
+
+Det skriver theregister.co.uk
+Den ene sårbarhed er i virkeligheden af ældre dato, og opstår i Chrome, fordi den er baseret på det samme grundlag, som Apples browser Safari i en ældre version end den nyeste.
