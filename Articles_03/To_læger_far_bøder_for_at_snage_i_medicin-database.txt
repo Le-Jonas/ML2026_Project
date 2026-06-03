@@ -1,8 +1,0 @@
-Title: To_læger_far_bøder_for_at_snage_i_medicin-database
-Date: 2007-02-20
-Article Type: Danmark
-Author: Søren Astrup
-
-Journalist
-En overlæge og en praktiserende læge kiggede uberettiget i et medicinregister.
-Det har nu kostet dem bøder på 5.000 og 3.000 kroner, efter at de uden adkomst kiggede nærmere på en række kollegers fortrolige ordinationer af medicin. De to - en overlæge og en praktiserende læge - gik ind i den såkaldte personlige elektroniske medicinprofil, PEM, hvor de søgte i nogle andre lægers medicinudskrivninger.

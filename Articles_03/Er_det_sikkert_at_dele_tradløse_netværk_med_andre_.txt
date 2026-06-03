@@ -1,7 +1,0 @@
-Title: Er_det_sikkert_at_dele_tradløse_netværk_med_andre_
-Date: 2007-03-27
-Article Type: Digitalt
-Author: Søren Dilling
-
-Mange boligforeninger har valgt at deles om et trådløst netværk, og du kan også finde trådløse netværk på offentlige steder ('hot spots').
-Hot spots findes fx i lufthavne, hoteller, konferencecentre og caféer.

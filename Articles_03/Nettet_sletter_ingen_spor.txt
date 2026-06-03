@@ -1,9 +1,0 @@
-Title: Nettet_sletter_ingen_spor
-Date: 2006-10-15
-Article Type: Danmark
-Author: Morten Skjoldager
-
-Journalist
-I august 2004 knoklede et hold på fire datamatikere for at fjerne alle spor af et dokument, som ikke burde være endt på nettet.
-Ni dage tog det, før dokumentet var helt væk fra nettet. Alligevel dukkede det op igen senere. 
-Dokumentet fortalte om borgere, der havde fået afslag på kontanthjælp, om revalidering og om familier, som fik tvangsfjernet deres børn. Det var ved en fejl endt på Sundsøre Kommunes hjemmeside.

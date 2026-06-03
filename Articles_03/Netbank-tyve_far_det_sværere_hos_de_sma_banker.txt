@@ -1,7 +1,0 @@
-Title: Netbank-tyve_far_det_sværere_hos_de_sma_banker
-Date: 2007-04-30
-Article Type: Digitalt
-Author: Matias Seidelin
-
-Sikkerheden bliver nu hævet hos 450.000 bankkunder.
-Nemlig dem, der bruger en af 80 små og mellestore pengeinstitutter, der bruger datacenteret SDC.

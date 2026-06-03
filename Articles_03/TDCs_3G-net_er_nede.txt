@@ -1,6 +1,0 @@
-Title: TDCs_3G-net_er_nede
-Date: 2007-04-20
-Article Type: Danmark
-Author: Det har siden klokken 15 været umuligt at ringe til eller fra 3G telefoner.
-
-Ifølge TDC er fejlen endnu ikke fundet, men teknikerne arbejder på det. Kort efter klokken 15 fredag eftermiddag betød en fejl i TDC’s 3G-net, at mobiltelefoner ikke kan bruge nettet. TDC opfordrer kunderne til i stedet at skifte til det "gamle" gsm net, som ikke er ramt af fejlen. Det er derfor stadig muligt at ringe til eller fra mobiltelefoner uden 3G telefoni.

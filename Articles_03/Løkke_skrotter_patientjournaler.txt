@@ -1,9 +1,0 @@
-Title: Løkke_skrotter_patientjournaler
-Date: 2006-05-01
-Article Type: Danmark
-Author: Har du fået konstateret sukkersyge i Silkeborg, er det ikke sikkert, at lægen kan læse det i din sygejournal, hvis du flytter til Slagelse. 
-Men nu skal det være slut med, at landets hospitaler har hjemmelavede it-systemer, som ikke taler samme sprog. It-problemer i sundhedsvæsenet
-Indenrigs- og sundhedsminister Lars Løkke Rasmussen (V) kræver, at landets sygehuse dropper deres egne elektroniske patientjournaler og i stedet indfører et ensartet nationalt system. 
-Det viser et endnu ikke offentliggjort brev, som sundhedsministeren ifølge Nyhedsmagasinet Ingeniøren har sendt til Folketingets sundhedsudvalg. 
-Det konkrete udspil kommer efter, at ministeren i januar fik magt til at gribe ind over for it-problemerne i sundhedsvæsnet med den nye sundhedslov.
-

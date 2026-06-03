@@ -1,7 +1,0 @@
-Title: Beregn_dit_hvilestofskifte
-Date: 2007-03-26
-Article Type: Sundhed
-Author: Chris Macdonald
-
-Med Harris-Benedicts formel kan du estimere dit hvilestofskifte.
-For kvinder: Hvilestofskifte = 655 + (9,6 x vægt) + (1,85 x højde) – (4,7 x alder)

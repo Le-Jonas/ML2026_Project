@@ -1,8 +1,0 @@
-Title: Lektion_3_Populært_som_bare_poker
-Date: 2006-06-14
-Article Type: Poker
-Author: Nikolaj Lauta
-
-Projektleder / Journalist
-Nu skulle vi gerne have styr på hændernes rangfølge - altså en flush slår en straight osv. Der er dog stadig et stykke vej, før vi kan komme i gang med at spille. Først skal vi have nogle begreber og regler på plads:
-Det spil vi skal lære hedder Texas Holdem og er det mest populære variant af poker i øjeblikket. Der kan deltage fra 2 til 10 deltagere. Vi vil i resten af ugen antage, at der deltager 10. Af bekvemmelighedsgrunde har jeg ladet

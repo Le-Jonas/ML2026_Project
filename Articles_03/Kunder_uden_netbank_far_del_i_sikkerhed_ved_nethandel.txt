@@ -1,7 +1,0 @@
-Title: Kunder_uden_netbank_far_del_i_sikkerhed_ved_nethandel
-Date: 2007-03-20
-Article Type: Danmark
-Author: Søren Dilling
-
-For at begrænse risikoen for misbrug ved handel på internettet har kortorganisationerne Visa og MasterCard udviklet en ordning, der giver kunder i netbankerne mulighed for at handle med ekstra sikkerhed i de netbutikker, der er tilsluttet ordningen.
-Ordningen fungerer sådan, at forbrugerne udover kortets nummer, udløbsdato og kontrolkode også skal indtaste deres netbankkode i det krypterede system som en ekstra sikkerhed.

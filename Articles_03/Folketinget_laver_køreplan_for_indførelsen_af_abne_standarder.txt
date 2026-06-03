@@ -1,6 +1,0 @@
-Title: Folketinget_laver_køreplan_for_indførelsen_af_abne_standarder
-Date: 2007-06-25
-Article Type: Danmark
-Author: Med åbne standarder kan Microsofts snærende greb om computerprogrammerne løsnes.
-
-Derfor kan der være udsigt til offentlige besparelser og større fleksibilitet i forhold til software efter at Folketingets it-ordførere er blevet enige om at lave en køreplan for, hvordan de såkaldte åbne standarder kan indføres herhjemme.

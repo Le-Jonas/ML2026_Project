@@ -1,7 +1,0 @@
-Title: Sikkerhed_ved_betaling_pa_nettet
-Date: 2007-03-22
-Article Type: Digitalt
-Author: Søren Dilling
-
-Kontroller, at betalingen sker på en sikker forbindelse, og at de indtastede oplysninger er krypterede.
-Sikkerheden er markeret ved en lille hængelås nederst i browseren (fx. Internet Explorer, Mozilla Firefox eller Safari).

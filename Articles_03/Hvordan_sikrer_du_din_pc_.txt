@@ -1,7 +1,0 @@
-Title: Hvordan_sikrer_du_din_pc_
-Date: 2007-01-24
-Article Type: Danmark
-Author: Daniel Bergsagel
-
-»Min lille computer kan ødelægge den store virksomhed«, sagde den konservative retsordfører, Tom Behnke, efter et møde i Teknologirådet.
-Her fremlagde en stribe sikkerhedseksperter konklusionerne af en undersøgelse af Danmarks it-sikkerhed. Og den er noget usikker. Hver dag udsættes Danmark for tusinder af computerangreb. Og det kan ifølge sikkerhedseksperten Preben Andersen fra DK-Cert skyldes fordi meget tyder på at kun 40 procent af os tager de gode it-sikkerhedsråd højtideligt.

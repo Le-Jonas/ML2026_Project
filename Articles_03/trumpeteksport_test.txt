@@ -1,7 +1,0 @@
-Title: trumpeteksport_test
-Date: 2006-08-23
-Article Type: cci-eksport
-Author: politiken_admin admin
-
-byline
-brødtekst

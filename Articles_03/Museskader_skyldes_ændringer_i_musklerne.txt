@@ -1,7 +1,0 @@
-Title: Museskader_skyldes_ændringer_i_musklerne
-Date: 2006-11-09
-Article Type: Viden og tech
-Author: Smertefulde museskader, der opstår efter gentaget computerarbejde, synes at hænge sammen med ændringer i den enkelte muskel.
-
-Det fremgår af nyt forskningsarbejde ved Aalborg Universitet. Her kan forskerne via mange små sensorer på den enkelte muskel tegne et slags landkort over, hvor aktiv de forskellige dele af musklen er. 
- Resultaterne af forskernes arbejde peger på, at den enkelte muskel ændrer sig, når det gør ondt. Bestemte dele af musklen bliver 'hyperaktive'.

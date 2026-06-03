@@ -1,7 +1,0 @@
-Title: Spilmarathon_med_innovation
-Date: 2007-02-21
-Article Type: Spil
-Author: Thomas Vigild
-
-Den danske spilkonkurrence 'Nordic Game Jam' samlede i starten af februar 80 nordiske studerende og udviklere, der delt op i 12 hold havde 48 timer til at overbevise et dommerpanel og et publikum, at de kunne lave det bedste spil på kortest mulig tid. Konkurrencen var arrangeret i samarbejde mellem IGDA, IT Universitetet og Diginet Øresund.
-Alle 12 små spil skulle opfylde mindst tre af fem krav: spillet skulle indeholde reference til nordisk kultur, have flere måder at vinde på, indeholde vand, underlagt en tidsfrist eller være muligt at spille med én hånd.
