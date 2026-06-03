@@ -1,6 +1,0 @@
-Title: Løb_4_apps_der_giver_dig_fart_pa
-Date: 2014-10-10
-Article Type: Digitalt
-Author: Tag din løbetræner med dig i lommen.
-
-Danskudviklet tracking-service som bruger telefonens gps til at vise, hvor langt og hvor hurtigt du har løbet og med enkle intervalprogrammer. Premiumversion med avanceret intervaltræning og personlig træningsplan for 24 kroner per måned.

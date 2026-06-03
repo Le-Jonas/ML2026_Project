@@ -1,8 +1,0 @@
-Title: Nu_kan_du_betale_med_Mobilepay_i_andre_apps
-Date: 2014-06-19
-Article Type: Virksomheder
-Author: Pia Buhl Andersen
-
-Journalist
-Den succesfulde app Mobilepay tager nu endnu et skridt ind på scenen for mobilbetaling.
-Danske Bank, der står bag app'en, tilbyder fremover app-udviklere, at de kan lade kunderne betale med Mobilepay.

@@ -1,7 +1,0 @@
-Title: Nu_skal_Android_styre_Philips'_smart-tv
-Date: 2014-09-10
-Article Type: Digitalt
-Author: Søren Dilling
-
-Google har truet med sit Google TV længe - et setup, hvor styresystemet Android og browseren Chrome skal styre løjerne på et tv, der så kan opgraderes fra dumt til smart.
-IT-giganten har dog stadig ikke fået styr på systemet, og imens pibler Android som styresystem til smarte tv-skærme op andre steder.

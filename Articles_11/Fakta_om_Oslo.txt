@@ -1,9 +1,0 @@
-Title: Fakta_om_Oslo
-Date: 2015-06-03
-Article Type: Oslo
-Author: Tom Nørgaard
-
-Indbyggertal:
-575.000
-Areal:
-454 km2

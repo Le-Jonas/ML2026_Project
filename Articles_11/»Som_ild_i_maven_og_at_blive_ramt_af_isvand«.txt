@@ -1,7 +1,0 @@
-Title: »Som_ild_i_maven_og_at_blive_ramt_af_isvand«
-Date: 2015-03-19
-Article Type: Viden og tech
-Author: Maj Bach Madsen
-
-Slangerobotter, der kan analysere kloakker, og et digitalt implantat, der kan rense kræftceller og infektioner ud af blodet og slå dem ihjel. Det er to af de ideer, der blev udviklet på en fem dage lang workshop med 60 deltagere i en konkurrence, som er arrangeret af tidligere danske studerende ved Singularity University i USA og Industriens Fond.
-Efter workshoppen er der udvalgt fem finalister, som dyster om et tiugers sommerkursus på Singularity University i Silicon Valley. Det er et privat, ikkeakkrediteret universitet, sponsoreret af store virksomheder som Google og Nokia med det formål at udnytte ny teknologi i fremsynet iværksætteri. Konkurrencens ambitiøse mål at finde ideer, der kan forandre livet for en milliard mennesker.

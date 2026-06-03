@@ -1,7 +1,0 @@
-Title: Dna-register_skal_kortlægge_tusindvis_af_danskeres_styrker_og_svagheder
-Date: 2015-02-26
-Article Type: Viden og tech
-Author: Henrik Larsen
-
-En central database med sundhedsoplysninger er i støbeskeen.
-Basen skal rumme dna-informationer i form af de fulde genomer – kortlægningen af den totale arvemasse – fra en lang række danskere. Forskere fra både hospitaler og universiteter skal kunne søge om at få adgang til basen.

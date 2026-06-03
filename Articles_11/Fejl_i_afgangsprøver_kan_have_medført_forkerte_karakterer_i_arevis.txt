@@ -1,8 +1,0 @@
-Title: Fejl_i_afgangsprøver_kan_have_medført_forkerte_karakterer_i_arevis
-Date: 2015-05-12
-Article Type: Uddannelse
-Author: Jakob Stig Jørgensen
-
-Journalist
-En fejl i de digitale afgangsprøver for landets 9. klasser kan have betydet, at elever har fået en forkert karakter i geografi og biologi, siden de digitale prøver blev indført i fagene i 2007.
-Det erkender Undervisningsministeriet, efter at Styrelsen for It og Læring i går opdagede en fejl i en digital læseprøve, som 13.600 elever tog som en del af et pilotforsøg i sidste uge.

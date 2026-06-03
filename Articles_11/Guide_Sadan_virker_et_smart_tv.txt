@@ -1,7 +1,0 @@
-Title: Guide_Sadan_virker_et_smart_tv
-Date: 2015-05-01
-Article Type: Digitalt
-Author: Karim Pedersen
-
-Et smart tv er et fjernsyn, der er koblet på nettet og giver et meget bredere udvalg af funktioner end det, der kendes fra et almindeligt tv uden internet.
-Et smart tv har eget styresystem, hvor du selv kan installere apps. Det kender du nok fra smartphone eller tablet. Der er også mange mobile apps, som findes i smart tv-udgaver. Vær dog opmærksom på, at de forskellige producenter ikke kører med den samme platform.

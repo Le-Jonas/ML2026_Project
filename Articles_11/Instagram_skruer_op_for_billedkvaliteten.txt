@@ -1,8 +1,0 @@
-Title: Instagram_skruer_op_for_billedkvaliteten
-Date: 2015-07-08
-Article Type: Digitalt
-Author: Morten Bay
-
-Hvis man vil være en rigtig god graverjournalist i teknologiens verden, er det ikke nogen dum idé at kunne navigere rundt i computerkode. Det er ofte sådan, nyheder kommer for en dag, før de egentlig er offentliggjort.
-Koden afslørede nyheden
-Sådan et eksempel fik vi mandag, da websitet The Verge kiggede Instagrams nylancerede website igennem. Her fandt de kode-kyndige skribenter en bid kode, der henviste til billeder i højere opløsninger, end vi er vant til på det sociale fotonetværk.

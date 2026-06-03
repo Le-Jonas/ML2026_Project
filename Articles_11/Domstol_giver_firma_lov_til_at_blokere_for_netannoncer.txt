@@ -1,7 +1,0 @@
-Title: Domstol_giver_firma_lov_til_at_blokere_for_netannoncer
-Date: 2015-06-12
-Article Type: Økonomi
-Author: Jeevan Vasagar og Henry Mance
-
-En tysk domstol afgjorde for nylig, at det ikke er ulovligt at producere software, der blokerer for annoncer på nettet. Dommen anses for at være en alvorlig udfordring for de globale mediehuses indtjeningsmuligheder.
-Byretten i München fandt det heller ikke i strid med loven, at et firma imod betaling udarbejder en særlig liste over godkendte reklamer, som får lov til at trænge gennem filtre, der blokerer for reklamer.

@@ -1,8 +1,0 @@
-Title: Postindustriel_lounge-arkitektur_giver_plads_til_ingeniørers_store_tanker
-Date: 2014-12-05
-Article Type: Arkitektur
-Author: Karsten R.S. Ifversen
-
-Arkitekturredaktør på Politiken
-Unge ingeniørstuderende sidder spredt ud over DTU Skylabs rummelige hal. Fordybet i grupper sidder de og kæmper med at lave intelligent strømforsyning og mere effektiv udnyttelse af parkeringsarealer i Lyngby-Taarbæk Kommune.
-Til at løse opgaverne, der kræver analyse af store mængder data, har IBM stillet særligt avancerede værktøjer til rådighed for dem i dette todøgns såkaldte hackathon, intensive 48 timer, hvor studerende har meldt sig til at løse virkelige opgaver.

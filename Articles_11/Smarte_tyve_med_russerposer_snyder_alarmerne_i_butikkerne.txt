@@ -1,8 +1,0 @@
-Title: Smarte_tyve_med_russerposer_snyder_alarmerne_i_butikkerne
-Date: 2014-10-06
-Article Type: Virksomheder
-Author: Per Thiemann
-
-Redaktør for økonomi og samfund
-Normalt bryder en infernalsk alarm løs, når en sikret vare nærmer sig tyveridetektorerne ved udgangen af en butik.
-Systemet opdager imidlertid intet, hvis varen ligger i en pose, som er foret med metal. På den måde kan ubetalte varer forlade butikken, uden at alarmen lyder.

@@ -1,8 +1,0 @@
-Title: Google_vil_gøre_dine_søgeresultater_mere_sikre
-Date: 2014-08-08
-Article Type: Digitalt
-Author: Morten Bay
-
-Google vil presse verdens webmastere til at gøre nettet til et sikrere sted. Hvis det står til søgegiganten, skal de enkelte websider gøre meget mere for at beskytte brugernes private informationer, især de sider, hvor man som bruger afleverer mere følsomme informationer som f.eks. kreditkort-numre med mere.
-Sorterer efter sikkerhed
-Dette har Google tænkt sig at opnå ved at trykke websiderne på maven der, hvor det gør ondt. Et af de vigtigste markedsføringsparametre for en kommerciel webside er, hvor nem den er at finde på Google, og hvor højt oppe, den rangerer i listen over søgeresultater.

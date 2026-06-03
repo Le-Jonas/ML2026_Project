@@ -1,8 +1,0 @@
-Title: Frustreret_far_udvikler_nem_app_til_udskældt_ForældreIntra
-Date: 2014-11-11
-Article Type: Digitalt
-Author: Annemette Grundtvig
-
-Journalist
-Er der lektier til mandag? Hvornår er der konsultation? Og hvad skal pakkes til udflugten onsdag?
-Svaret findes på skolernes intranet, hvor 600.000 af de 1.100.000 månedlige brugere er mødre og fædre. Men det er alt for besværligt, synes Morten Slott Hansen, der ud over at være far til Marcus, som går i 1. klasse på Trekroner Skole, arbejder på at udvikle apps og optimere mobile løsninger.

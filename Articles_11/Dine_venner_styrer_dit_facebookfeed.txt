@@ -1,8 +1,0 @@
-Title: Dine_venner_styrer_dit_facebookfeed
-Date: 2015-05-07
-Article Type: Digitalt
-Author: Nanna Martensen
-
-Journalist
-Når du klikker ind på din facebook-profil, er det en amerikansk søgemaskine, der har bestemt, hvad du ser.
-En såkaldt algoritme har nøje sorteret og filtreret de opdateringer, du får, ud fra hvad du tidligere har søgt på.

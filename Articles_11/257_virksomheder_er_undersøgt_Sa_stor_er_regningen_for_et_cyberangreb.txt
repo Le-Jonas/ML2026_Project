@@ -1,8 +1,0 @@
-Title: 257_virksomheder_er_undersøgt_Sa_stor_er_regningen_for_et_cyberangreb
-Date: 2014-11-18
-Article Type: Økonomi
-Author: Hannah Kuchler
-
-San Francisco
-Cyberangreb koster i dag virksomheder dobbelt så meget som for fire år siden. Det skyldes blandt andet, at de må bruge flere penge på at informere deres kunder, rense computersystemer og rette op på diverse forstyrrelser af driften og handlen.
-I gennemsnit koster det nu en amerikansk virksomhed 75 millioner kroner at blive udsat for et cyberangreb mod 38 millioner kroner i 2010. Det viser en uafhængig undersøgelse, som Ponemom Institute med støtte fra HP har foretaget blandt 257 virksomheder. Nogle af de mest omtalte cyberangreb koster dog langt mere.

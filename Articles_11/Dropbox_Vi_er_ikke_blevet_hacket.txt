@@ -1,7 +1,0 @@
-Title: Dropbox_Vi_er_ikke_blevet_hacket
-Date: 2014-10-15
-Article Type: Digitalt
-Author: Morten Bay
-
-Mandag var Dropbox-brugere over hele verden ved at gå i panik.
-Adskillige nyhedsmedier bragte nemlig nyheden om, at flere hundrede logins til den populære cloud-tjeneste var blevet kompromitteret og lagt til offentligt skue.

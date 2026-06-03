@@ -1,7 +1,0 @@
-Title: Guide_Sadan_virker_taxatjenesten_Uber
-Date: 2014-11-19
-Article Type: Forbrug
-Author: Søren Dilling
-
-Den nye taxatjeneste Uber, der netop har lanceret sig selv i København og også allerede er blevet politianmeldt af Trafikstyrelsen for overtræde persontransportloven, er alene baseret på en app til smartphones.
-Det vil sige, at uden en smartphone med styresystemerne Android, IOS eller Windows Phone kan tjenesten ikke anvendes.

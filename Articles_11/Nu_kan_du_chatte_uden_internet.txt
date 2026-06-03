@@ -1,7 +1,0 @@
-Title: Nu_kan_du_chatte_uden_internet
-Date: 2014-09-12
-Article Type: Digitalt
-Author: Karim Pedersen
-
-Normalt kræver det en netforbindelse at sende en sms eller at skrive en besked til en ven på Facebook. Men nu kan du chatte løs med vennerne, selv om du ikke har forbindelse til internettet. Lyder det mærkeligt?
-Det er det egentlig ikke. Programmer som Firechat og Hellochat udnytter en forholdsvis ukendt ny funktion i den mobile platform iOS 7, som de fleste iPhones har. Funktionen er en udvidelse af Airplay-teknologien, hvor Apple-enheder som iPhones kan forbindes med stereoanlæg og tv-bokse trådløst. Telefoner og anlæg taler så at sige sammen uden at være på nettet. De er bare forbundet med hinanden.

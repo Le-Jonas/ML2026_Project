@@ -1,7 +1,0 @@
-Title: 5_funktioner_i_mail_til_iOS,_du_maske_ikke_kender
-Date: 2014-12-15
-Article Type: Digitalt
-Author: Morten Bay
-
-Mail var en af de apps, der fik en ordentlig overhaling, da Apple for et par måneder siden lancerede iOS 8. Det betyder, at e-mail-programmet til iPhone og iPad nu har en række funktioner, som du måske endnu ikke har hørt om eller slet ikke vidste, appen kunne levere. Her er fem af dem.
-Det har tidligere været ret besværligt, hvis du midt under udformningen af en e-mail var nødt til at gå tilbage til en anden mail for at tjekke noget. Så skulle du først gemme den e-mail, du var i gang med som en kladde, gå ind i en anden e-mail og tjekke for at gå tilbage i kladden og fortsætte. Det er blevet meget nemmere nu, hvor du bare stryger nedad med fingeren fra toppen af den e-mail, du er i gang med at skrive, så ligger den nede i bunden af skærmen og venter på at blive aktiveret igen.

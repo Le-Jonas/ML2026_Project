@@ -1,7 +1,0 @@
-Title: Studerende_gør_undervandsrobotter_til_allemandseje
-Date: 2015-04-21
-Article Type: Viden og tech
-Author: Simon Boas
-
-Ved det store bassins vandkant På Den Blå Planet har de 10 studerende fra Københavns Erhvervsakademi taget opstilling med bærbare computere, kamera og andet elektronisk grej, der skal bruges til testdykket af deres undervandsrobot
-Den lille hvide madkasselignende undervandsrobot er udstyret med tre propeller samt et lille kamera, der gerne skulle sende direkte billeder fra havbunden og op til de studerende ved bassinkanten.

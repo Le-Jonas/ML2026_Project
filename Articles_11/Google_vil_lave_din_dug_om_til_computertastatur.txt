@@ -1,7 +1,0 @@
-Title: Google_vil_lave_din_dug_om_til_computertastatur
-Date: 2015-06-07
-Article Type: Digitalt
-Author: Morten Bay
-
-De fleste forbinder Google med søgning, platforme som Android og Chrome, vejvisning med Google Maps, Gmail, Google Docs, Google Drive og mange andre tjenester.
-Dette er dog kun nogle få af de teknologier, Google tilbyder. Der er hele tiden hundredvis af teknologier under udvikling i hovedkvarteret i Silicon Valley, og en enkelt gang om året løfter Google lidt af sløret for dem. Det sker under den årlige udviklerkonference Google I/O, der løb af stabelen i sidste uge. Ud over de officielle udmeldinger til pressen kunne man besøge stande for Googles divisioner for at se, hvad de går og roder med.

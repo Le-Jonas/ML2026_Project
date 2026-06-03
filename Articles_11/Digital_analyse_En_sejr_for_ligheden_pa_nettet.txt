@@ -1,7 +1,0 @@
-Title: Digital_analyse_En_sejr_for_ligheden_pa_nettet
-Date: 2015-03-07
-Article Type: Global økonomi
-Author: Morten Bay
-
-I sidste uge gav den amerikanske telestyrelse, FCC, en kæmpesejr til tilhængere af såkaldt netneutralitet – et begreb, der betegner, at internetudbydere ikke kan skelne mellem, hvem der får adgang til at købe trafik og båndbredde på nettet.
-I EU-parlamentet stemte man sidste sommer overvældende for netneutralitetsregler på EU-plan. Men den amerikanske netneutralitetskamp har næsten lige så stor indflydelse på Danmarks og resten af verdens internetadgang. Og det hænger sammen med, at langt det meste af det egentlige internet ejes af amerikanske virksomheder.

@@ -1,7 +1,0 @@
-Title: Her_er_fem_lette_tips_til_at_spotte_en_phishing-e-mail
-Date: 2014-06-07
-Article Type: Digitalt
-Author: Morten Bay
-
-Folk, der forsøger at narre dig via e-mail, bliver bedre og bedre til det. Noget af det farligste er de såkaldte phishing-e-mails, der forsøger at ’fiske’ informationer ud af dig, som kan bruges til alt fra at stjæle dine penge via netbank til at hacke din computer. Men der er visse ting, man kan kigge efter for at vurdere, om en e-mail er fup eller ej. Her er 5 af dem.
-Meget ofte når man modtager en e-mail fra nogen, der f.eks. udgiver sig for at være ens bank, er det ekstremt sjældent, at mailen kommer fra en afsenderadresse med det rigtige domæne. En mail kan f.eks. komme fra dinbanksnavn@gmail.com i stedet fra f.eks. mail@ditbanksnavn.dk. Så tjek afsenderadressen.

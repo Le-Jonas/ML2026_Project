@@ -1,8 +1,0 @@
-Title: Industrirobotter_bliver_udstyret_med_øjne,_næse_og_følesans
-Date: 2014-11-27
-Article Type: Ressourceøkonomi
-Author: Dorrit Saietz
-
-Journalist
-MiR100 ligner egentlig slet ikke en robot. Den lille firkantede vogn ser nærmere ud som et rullebord eller en anrettervogn. Men Mobil Industri Robot, som forkortelsen dækker over, kan både »se« sine omgivelser ved hjælp af sine indbyggede kameraer, og den kan mærke, hvis den kommer for tæt på en forhindring på ruten – dig for eksempel.
-Så stopper den og venter, til du flytter dig – ellers prøver den at køre uden om.
