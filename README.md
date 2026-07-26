@@ -1,3 +1,18 @@
+Github repository for the AppliedML group project on natural language classification and regression.
+Basic_function includes the main scraping and sorting functions used while individual group members used individual python notebooks for their ML algorithms.
+The data files are found under Data_files. Other useful files under txt_files. Links to the articles used for the project are found udner article_split_files.
+
+
+
+
+
+
+
+
+
+
+
+
 Git guide: https://www.w3schools.com/git/git_commit.asp?remote=github
 
 * Git pull: Update local folder
